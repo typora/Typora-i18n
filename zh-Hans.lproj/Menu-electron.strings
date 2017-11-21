@@ -1,0 +1,10 @@
+/*
+ Menu-electron.strings
+ overwrite some translation by more proper words on Windows
+
+ Typora
+ 
+ by hi@typora.io
+ */
+
+"View" = "视图";

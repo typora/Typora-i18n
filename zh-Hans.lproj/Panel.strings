@@ -109,7 +109,7 @@
 "Dark Theme not support" = "深色主题不支持";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本不支持导出PDF时打印背景颜色，所以PDF导出不支持深色主题。 \n请重新选择浅色主题或点击 \"使用默认主题打印\"";
 "Print with default theme" = "使用默认主题打印";
-"Export to PDF successfully." = "E导出PDF成功";
+"Export to PDF successfully." = "导出PDF成功";
 "Converting file using Pandoc. This may take some time." = "使用Pandoc转换中，这可能需要一些时间。";
 
 /* Upload via iPic */

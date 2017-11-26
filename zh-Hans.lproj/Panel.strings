@@ -14,7 +14,7 @@
 "Window Style" = "窗口样式";
 "Classic" = "经典";
 "Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless样式只支持10.10以上macOS版本";
+"Seamless window only support OS X later than 10.10." = "Seamless样式只支持macOS 10.10及以上的版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "请参考`帮助`->`Quick Start`，或访问http://theme.typora.io";
@@ -34,14 +34,14 @@
 
 /* Editor Panel */
 "Editor" = "编辑器";
-"Indent Size on Save" = "默认缩进";
+"Indent Size on Save" = "保存缩进长度";
 "only apply for quotes and lists created from menubar or hybrid view" = "只对通过菜单或快捷键生成的引用和列表有效";
-"Trigger Autocomplete without ESC key for" = "自动触发Autocomplte";
-"Emoji (e.g. :smile:)" = "Emoji (例 :smile:)";
+"Trigger Autocomplete without ESC key for" = "触发自动完成";
+"Emoji (e.g. :smile:)" = "Emoji表情 (例 :smile:)";
 "Images Insert" = "图片插入";
 "Use relative path if possible" = "优先使用相对路径";
-"Allow copy images to given folder" = "允许拷贝到文件夹";
-"Allow upload to given server" = "允许上传图片";
+"Allow copy images to given folder" = "允许复制图片到指定文件夹";
+"Allow upload to given server" = "允许向指定服务器上传图片";
 "Auto Pair" = "自动匹配";
 "Auto pair brackets and quotes" = "匹配括号和引号";
 "Auto pair common markdown syntax" = "匹配Markdown字符";
@@ -55,14 +55,14 @@
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(下面选项需要重启Typora后应用)";
-"Syntax Support" = "Markdown支持";
+"Syntax Support" = "Markdown扩展语法支持";
 "Inline Math  ( e.g: $\LaTeX$ )" = "内联公式  ( 例: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "下标      ( 例: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "上标       ( 例: X^2^ )";
 "Highlight     (e.g: ==key==)" = "高亮       ( 例: ==key== )";
 "Diagrams" = "图表";
 "(Sequence, Flowchart and Mermaid)" = "(序列图, 流程图 和 Mermaid)";
-"Syntax Preference" = "Syntax偏好";
+"Syntax Preference" = "Markdown语法偏好设置";
 "(only apply for styles created from menubar or hybrid view)" = "(只应用于通过菜单或快捷键生成的样式)";
 "Heading Style" = "标题样式";
 "Unordered List" = "无序列表";
@@ -84,19 +84,19 @@
 /* Panodc Import Panel */
 "Importing..." = "导入...";
 "Importing in progress..." = "正在导入...";
-"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，该操作可能比较耗时";
+"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍后";
 "Abort" = "终止";
 
 /* Panodc Export Panel */
 "Exporting..." = "导出...";
 "Exporting in progress..." = "正在导出...";
-"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，该操作可能比较耗时";
+"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍后";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安装Pandoc以导入这些文件";
-"Check help->Install and use Pandoc from menubar for detail" = "请从菜单栏中选择 帮助->Install and use Pandoc 查看详细信息";
+"Check help->Install and use Pandoc from menubar for detail" = "请从菜单栏中选择 帮助->安装和使用Pandoc 来查看详细信息";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
-"Follow Instructions to Install/Update Pandoc" = "按帮助安装或升级『Pandoc";
+"Follow Instructions to Install/Update Pandoc" = "请按照说明安装或升级Pandoc";
 "Export Failed" = "导出失败";
 "Import Failed" = "导入失败";
 "Generated Image too Large" = "生成的图片文件过大";
@@ -110,7 +110,7 @@
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本不支持导出PDF时打印背景颜色，所以PDF导出不支持深色主题。 \n请重新选择浅色主题或点击 \"使用默认主题打印\"";
 "Print with default theme" = "使用默认主题打印";
 "Export to PDF successfully." = "导出PDF成功";
-"Converting file using Pandoc. This may take some time." = "使用Pandoc转换中，这可能需要一些时间。";
+"Converting file using Pandoc. This may take some time." = "使用Pandoc转换中，请稍后。";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "通过iPic上传图片...";
@@ -135,7 +135,7 @@
 "Show status bar" = "显示状态栏";
 "Save & Recover" = "保存 & 恢复";
 "Auto Save" = "自动保存";
-"Recover Unsaved Drafts" = "恢复未保存文件";
+"Recover Unsaved Drafts" = "恢复未保存的文件";
 "Emoji Autocomplete" = "Emoji Autocomplete";
 "Trigger by ESC key" = "按Esc键触发";
 "Trigger automatically" = "自动触发";
@@ -144,12 +144,12 @@
 "Spell Check" = "拼写检查";
 "(support US English only)" = "(仅支持美式英语)";
 "Enable spell check" = "启用拼写检查";
-"Auto correct spelling" = "自动更正";
+"Auto correct spelling" = "自动更正拼写错误";
 "System" = "系统";
 "Privacy" = "隐私";
 "Developer" = "开发者选项";
 "Update" = "更新";
-"Check Updates" = " ​  ​  ​ 检查更新";
+"Check Updates" = "检查更新";
 "Check updates automatically" = "自动检查更新";
 "Advanced Settings" = "高级设置";
 "Open Advanced Settings" = "打开高级设置";
@@ -159,7 +159,7 @@
 "This fucntion requires latest version of iPic to be installed." = "该功能需要安装最新版本的iPic";
 "Get iPic" = "获取iPic";
 "Cannot Continue…" = "无法继续…";
-"This feature require macOS >= 10.11" = "给功能需要 macOS >= 10.11";
+"This feature require macOS >= 10.11" = "此功能只支持macOS 10.11及以上的版本";
 "One More Step" = "下一步";
 "Notice" = "注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "改功能需要安装最新版本的iPic， 本地图片会通过iPic上传至云端。 请注意iPic的默认云服务不支持图片的删除。";
@@ -169,21 +169,21 @@
 "Enable this feature on preferences panel" = "在偏好设置中开启这项功能";
 "The option `%@` must be enabled first" = "请先开启选项`%@`";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
-"Copy Images To…" = "拷贝图片到…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会拷贝新的本地图片到目录 %@。 但该目录不存在，是否创建该目录？";
+"Copy Images To…" = "复制图片到…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会复制新的本地图片到目录 %@。 但该目录不存在，是否创建该目录？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora会根据相对路径拷贝图片，所以请先保存文件到磁盘。";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora会根据相对路径复制图片，所以请先保存文件到磁盘。";
 "Open Operation Failed" = "打开失败";
 
-"Support Documentation" = "帮助文档";
+"Support Documentation" = "支持文档";
 
 "Markdown File" = "Markdown文件";
 "Plain Text File" = "纯文本文件";
 "All Files" = "所有文件";
-"All Supported Formats" = "所以支持的文件";
+"All Supported Formats" = "所有支持的格式";
 "Discard Changes" = "放弃更改";
-"Discard" = "放弃保存";
+"Discard" = "放弃";
 
 "Menu" = "菜单";
 "Back" = "返回";
@@ -191,14 +191,14 @@
 "Contact" = "联系我们";
 "Open From..." = "打开...";
 "Import..." = "导入...";
-"Recent Documents" = "最近使用的";
+"Recent Documents" = "近期文件";
 "Search for…" = "查找…";
-"Clear Recent Documents" = "清空最近使用的文档列表";
+"Clear Recent Documents" = "清空近期文件";
 "File Name" = "文件名";
 "Path" = "路径";
 "Export As..." = "导出为...";
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'下方列出的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
-"Copy Content" = "拷贝内容";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Copy Content" = "复制内容";

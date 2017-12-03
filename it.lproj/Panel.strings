@@ -1,17 +1,17 @@
 ﻿/*
  Panel.strings
  translations for preference panel and other dialogs
- 
- by hi@typora.io 
+ italiana translation
+ by tyl2012@mail.com 
  */
 
 /* Preference Panel */
-"Preferences" = "Preferences";
+"Preferences" = "Preferenze";
 
 /* General Panel */
-"General" = "General";
-"Window Style" = "Window Style";
-"Classic" = "Classic";
+"General" = "Generale";
+"Window Style" = "Stile finestra";
+"Classic" = "Classico";
 "Seamless" = "Seamless";
 "Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
 "Themes" = "Themes";

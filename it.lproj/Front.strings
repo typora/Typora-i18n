@@ -13,10 +13,10 @@
 "Close" = "Chiudi";
 "Select" = "Seleziona";
 "Continue" = "Continua";
-"Learn More…" = "Learn More…";
+"Learn More…" = "Saperne di più…";
 "Untitled" = "Senza titolo";
 "Undo" = "Annulla";
-"Dismiss" = "Dismiss";
+"Dismiss" = "Ignora";
 "Confirm" = "Conferma";
 "Error" = "Errore";
 
@@ -30,12 +30,12 @@
 /* Quick Open */
 "Search by file name" = "Cerca per nome file";
 "Searching" = "Ricerca in corso";
-"Gathering more results" = "Gathering more results";
+"Gathering more results" = "Raccolta di altri risultati";
 
 /* Tables */
 "Insert Table" = "Inserisci Tabella";
 "Columns" = "Colonne";
-"Rows" = "Rows";
+"Rows" = "Righe";
 "Align Left" = "Allinea a sinistra";
 "Align Center" = "Allinea al centro";
 "Align Right" = "Allinea a destra";
@@ -49,77 +49,77 @@
 
 /* Math */
 "Edit" = "Modifica";
-"Delete Math" = "Delete Math";
+"Delete Math" = "Elimina Math";
 "Preview" = "Anteprima";
 
 /* Sidebar */
 "Articles" = "Articoli";
-"Outline" = "Outline";
+"Outline" = "Struttura";
 "Files" = "File";
 "Switch to File List view" = "Passa a visualizzazione elenco file";
 "Switch to File Tree view" = "Passa a visualizzazione albero file";
 "Switch to Outline view" = "Passa a visualizzazione Struttura";
-"Close sidebar" = "Close sidebar";
-"Loading" = "Loading";
+"Close sidebar" = "Chiudi barra laterale";
+"Loading" = "Caricamento";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
 "New File" = "Nuovo file";
-"Unpin Outline Panel" = "Unpin Outline Panel";
+"Unpin Outline Panel" = "Sblocca pannello struttura";
 "Open Folder..." = "Apri Cartella...";
-"Action" = "Action";
-"Close Sidebar Menu" = "Close Sidebar Menu";
+"Action" = "Azione";
+"Close Sidebar Menu" = "Chiudi menu barra laterale";
 "Reveal in Finder" = "Mostra in Finder";
 "Reveal in File Explorer" = "Mostra in File Explorer";
-"Refresh Folder" = "Refresh Folder";
+"Refresh Folder" = "Aggiorna cartella";
 "Sort" = "Ordina";
-"Group By Folder" = "Group By Folder";
-"Sort Naturally" = "Sort Naturally";
+"Group By Folder" = "Raggruppa per cartella";
+"Sort Naturally" = "Ordina naturalmente";
 "Sort by Name" = "Ordina per nome";
 "Sort by Modification Date" = "Ordina per data di modifica";
-"Recent Locations" = "Recent Locations";
-"Location" = "Location";
+"Recent Locations" = "Posizioni recenti";
+"Location" = "Posizione";
 "Switch File List/Tree View" = "Passa a visualizzazione Elenco/Albero File";
-"No Files Available" = "No Files Available";
-"No Folder is Opened." = "No Folder is Opened.";
-"Outline is Empty." = "Outline is Empty.";
+"No Files Available" = "File non disponibili";
+"No Folder is Opened." = "Nessuna cartella è aperta.";
+"Outline is Empty." = "Struttura è vuota.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Toggle Sidebar";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
-"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Sidebar" = "Mostra barra lateraler";
+"Toggle Source Code Mode" = "Mostra modo codice sorgente";
+"Exit Source Code Mode" = "Esci da modo codice sorgente";
 
-"Table of Contents" = "Table of Contents";
-"Empty Diagram" = "Empty Diagram";
-"Input Math TeX here" = "Input Math TeX here";
+"Table of Contents" = "Indice";
+"Empty Diagram" = "Diagramma vuoto";
+"Input Math TeX here" = "Immetti qui Math TeX";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
 "Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Failed to create file";
-"Failed to create folder" = "Failed to create folder";
-"Failed to rename file" = "Failed to rename file";
-"Folder does not exist at %@" = "Folder does not exist at %@";
-"File with the same name already exists at target path" = "File with the same name already exists at target path";
-"Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
+"Failed to create file" = "Creazione file non riuscita";
+"Failed to create folder" = "Creazione cartella non riuscita";
+"Failed to rename file" = "Cambio nome file non riuscito";
+"Folder does not exist at %@" = "Cartella non esiste in %@";
+"File with the same name already exists at target path" = "File con lo stesso nome esiste già nel percosrso di destinazione";
+"Apply to All" = "Applica a tutto";
+"Overwrite" = "Sovrascrivi";
 "Stop" = "Stop";
-"back to document" = "back to document";
-"Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!"
-"Cannot open folder {0}" = "Cannot open folder {0}";
+"back to document" = "torna al documento";
+"Failed to load file" = "Caricamento file non riuscito";
+"Save File Failed!" = "Salvataggio file non riuscito!"
+"Cannot open folder {0}" = "Impossibile aprire cartella {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Continuare nello spostamento e nella sovrascrittura file esistente(i) ?";
 
-"Rename Failed" = "Rename Failed";
-"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Rename Failed" = "Cambio nome non riuscito";
+"Rename to \"{0}\" ?" = "Cambia nome in \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Cambio nome da \"{0}\" a \"{1}\" non riuscito";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
-"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
-"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
-"Select Container Folder" = "Select Container Folder";
+"Successfully uploaded {0} images." = "Caricamento di {0} immagini riuscito.";
+"Failed to upload image. Error Message:" = "Caricamento immagine non riuscito. Messaggio di errore:";
+"Failed to Copy Image to Target Folder." = "Caricamento immagine nella cartella di destinazione.";
+"Select Container Folder" = "Seleziona cartella contenitore";
 
 "Saved" = "Saved";

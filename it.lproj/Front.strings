@@ -1,83 +1,83 @@
 ﻿/* 
   Front.strings
   Typora
-
- by hi@typora.io
-*/
+  italian translation
+ by tyl2012@mail.com
+ */
 
 /* Common */
 "OK" = "OK";
-"Cancel" = "Cancel";
-"Yes" = "Yes";
+"Cancel" = "Annulla";
+"Yes" = "Sì";
 "No" = "No";
-"Close" = "Close";
-"Select" = "Select";
-"Continue" = "Continue";
+"Close" = "Chiudi";
+"Select" = "Seleziona";
+"Continue" = "Continua";
 "Learn More…" = "Learn More…";
-"Untitled" = "Untitled";
-"Undo" = "Undo";
+"Untitled" = "Senza titolo";
+"Undo" = "Annulla";
 "Dismiss" = "Dismiss";
-"Confirm" = "Confirm";
-"Error" = "Error";
+"Confirm" = "Conferma";
+"Error" = "Errore";
 
 /* Search Panel */
-"Search" = "Search";
-"Repalce" = "Replace";
-"All" = "All";
-"Search text not found in article" = "Search text not found in article";
-"search text" = "search text";
+"Search" = "Cerca";
+"Repalce" = "Sostituisci";
+"All" = "Tutto";
+"Search text not found in article" = "Testo ricercato non trovato nell'articolo";
+"search text" = "cerca testo";
 
 /* Quick Open */
-"Search by file name" = "Search by file name";
-"Searching" = "Searching";
+"Search by file name" = "Cerca per nome file";
+"Searching" = "Ricerca in corso";
 "Gathering more results" = "Gathering more results";
 
 /* Tables */
-"Insert Table" = "Insert Table";
-"Columns" = "Columns";
+"Insert Table" = "Inserisci Tabella";
+"Columns" = "Colonne";
 "Rows" = "Rows";
-"Align Left" = "Align Left";
-"Align Center" = "Align Center";
-"Align Right" = "Align Right";
-"Resize Table" = "Resize Table";
-"Delete Table" = "Delete Table";
+"Align Left" = "Allinea a sinistra";
+"Align Center" = "Allinea al centro";
+"Align Right" = "Allinea a destra";
+"Resize Table" = "Ridimensiona tabella";
+"Delete Table" = "Elimina tabella";
 
 /* Images */
-"Copy Image To..." = "Copy Image To...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
-"Create Folder" = "Create Folder";
+"Copy Image To..." = "Copia immagine in...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora sta provando a copiare l'immagine inserita di recente nella cartella <code id='image-create-folder-target'></code> secondo l'impostazione del tuo YAML Front Matter. Ma la cartella di destinazione non esiste, vuoi crearla adesso?";
+"Create Folder" = "Crea cartella";
 
 /* Math */
-"Edit" = "Edit";
+"Edit" = "Modifica";
 "Delete Math" = "Delete Math";
-"Preview" = "Preview";
+"Preview" = "Anteprima";
 
 /* Sidebar */
-"Articles" = "Articles";
+"Articles" = "Articoli";
 "Outline" = "Outline";
-"Files" = "Files";
-"Switch to File List view" = "Switch to File List view";
-"Switch to File Tree view" = "Switch to File Tree view";
-"Switch to Outline view" = "Switch to Outline view";
+"Files" = "File";
+"Switch to File List view" = "Passa a visualizzazione elenco file";
+"Switch to File Tree view" = "Passa a visualizzazione albero file";
+"Switch to Outline view" = "Passa a visualizzazione Struttura";
 "Close sidebar" = "Close sidebar";
 "Loading" = "Loading";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
-"New File" = "New File";
+"New File" = "Nuovo file";
 "Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Open Folder...";
+"Open Folder..." = "Apri Cartella...";
 "Action" = "Action";
 "Close Sidebar Menu" = "Close Sidebar Menu";
-"Reveal in Finder" = "Reveal in Finder";
-"Reveal in File Explorer" = "Reveal in File Explorer";
+"Reveal in Finder" = "Mostra in Finder";
+"Reveal in File Explorer" = "Mostra in File Explorer";
 "Refresh Folder" = "Refresh Folder";
-"Sort" = "Sort";
+"Sort" = "Ordina";
 "Group By Folder" = "Group By Folder";
 "Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
+"Sort by Name" = "Ordina per nome";
+"Sort by Modification Date" = "Ordina per data di modifica";
 "Recent Locations" = "Recent Locations";
 "Location" = "Location";
-"Switch File List/Tree View" = "Switch File List/Tree View";
+"Switch File List/Tree View" = "Passa a visualizzazione Elenco/Albero File";
 "No Files Available" = "No Files Available";
 "No Folder is Opened." = "No Folder is Opened.";
 "Outline is Empty." = "Outline is Empty.";

@@ -194,10 +194,10 @@
 "Search for…" = "Search for…";
 "Clear Recent Documents" = "Clear Recent Documents";
 "File Name" = "File Name";
-"Path" = "Path";
-"Export As..." = "Export As...";
-"More Formats" = "More Formats";
+"Path" = "Percorso";
+"Export As..." = "Esporta come...";
+"More Formats" = "Altri Formati";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
 "Something is Wrong…" = "Something is Wrong…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>";
-"Copy Content" = "Copy Content";
+"Copy Content" = "Copia contenuto";

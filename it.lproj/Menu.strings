@@ -92,9 +92,9 @@
 "Check Grammar With Spelling" = "Controlla Grammatica con Ortografia";
 "Correct Spelling Automatically" = "Correggi Ortografia automaticamente";
 "Substitutions" = "Sostituzioni";
-"Smart Quotes" = "Smart Quotes";
-"Smart Dashes" = "Smart Dashes";
-"Text Replacement" = "Text Replacement";
+"Smart Quotes" = "Virgolette inglesi";
+"Smart Dashes" = "Trattini intelligenti";
+"Text Replacement" = "Sostituzione testo";
 "Speech" = "Speech";
 "Start Speaking" = "Start Speech";
 "Stop Speaking" = "Stop Speech";
@@ -110,7 +110,7 @@
 "Increase Heading Level" = "Aumenta livello Titolo";
 "Decrease Heading Level" = "Diminuisci livello Titolo";
 "Table" = "Tabella";
-"Code Fences" = "Code Fences";
+"Code Fences" = "Riquadri Codice";
 "Math Block" = "Blocco Math";
 "Quote" = "Citazione";
 "Ordered List" = "Elenco ordinato";
@@ -120,30 +120,30 @@
 "Toggle Task Status" = "Attiva/disattiva Stato attività";
 "Mark as Complete" = "Segna come completo";
 "Mark as Incomplete" = "Segna come incompleto";
-"List Indentation" = "List Indentation";
-"Indent" = "Indent";
-"Outdent" = "Outdent";
+"List Indentation" = "Rientro elenco";
+"Indent" = "Rientro";
+"Outdent" = "Rimuovi Rientro";
 "Link Reference" = "Link Reference";
-"Footnotes" = "Footnotes";
-"Horizontal Line" = "Horizontal Line";
-"Table of Contents" = "Table of Contents";
+"Footnotes" = "Note a piè di pagina";
+"Horizontal Line" = "Linea orizzontale";
+"Table of Contents" = "Indice";
 "YAML Front Matter" = "YAML Front Matter";
 
 /* Format Menu */
-"Format" = "Format";
-"Strong" = "Strong";
-"Emphasis" = "Emphasis";
-"Underline" = "Underline";
+"Format" = "Formato";
+"Strong" = "Grassetto";
+"Emphasis" = "Corsivo";
+"Underline" = "Sottolineato";
 "Code" = "Codice";
 "Inline Math" = "Inline Math";
-"Strike" = "Strike";
+"Strike" = "Barrato";
 "Highlight" = "Highlight";
-"Superscript" = "Superscript";
-"Subscript" = "Subscript";
-"Comment" = "Comment";
+"Superscript" = "Apice";
+"Subscript" = "Pedice";
+"Comment" = "Commento";
 "Hyperlink" = "Hyperlink";
-"Image" = "Image";
-"Clear Format" = "Clear Format";
+"Image" = "Immagine";
+"Clear Format" = "Cancella formattazione";
 
 /* View Menu */
 "View" = "View";

@@ -63,6 +63,8 @@
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "Syntax Preference";
 "(only apply for styles created from menubar or hybrid view)" = "(only apply for styles created from menubar or hybrid view)";
+"Strict Mode" = "Strict Mode";
+"(more strict to GFM spec)" = "(more strict to GFM spec)";
 "Heading Style" = "Heading Style";
 "Unordered List" = "Unordered List";
 "Code Fences" = "Code Fences";

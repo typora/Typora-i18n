@@ -68,7 +68,7 @@
 "Jump to Selection" = "Vai alla selezione";
 "Jump to Bottom" = "Vai alla fine";
 "Math Tools" = "Strumenti Math";
-"Refresh All Math Expressions" = "Aggiorns tutte le espressioni Math";
+"Refresh All Math Expressions" = "Aggiorna tutte le espressioni Math";
 "Image Tools" = "Strumenti immagine";
 "Insert Local Images" = "Inserisci immagini locali";
 "Upload Local Images via iPic" = "Invia immagini locali via iPic";
@@ -123,7 +123,7 @@
 "List Indentation" = "Rientro elenco";
 "Indent" = "Rientro";
 "Outdent" = "Rimuovi Rientro";
-"Link Reference" = "Link Reference";
+"Link Reference" = "Riferimento link";
 "Footnotes" = "Note a piè di pagina";
 "Horizontal Line" = "Linea orizzontale";
 "Table of Contents" = "Indice";
@@ -137,7 +137,7 @@
 "Code" = "Codice";
 "Inline Math" = "Inline Math";
 "Strike" = "Barrato";
-"Highlight" = "Highlight";
+"Highlight" = "Evidenziato";
 "Superscript" = "Apice";
 "Subscript" = "Pedice";
 "Comment" = "Commento";
@@ -146,42 +146,42 @@
 "Clear Format" = "Cancella formattazione";
 
 /* View Menu */
-"View" = "View";
-"New Tab" = "New Tab";
-"Source Code Mode" = "Source Code Mode";
-"Focus Mode" = "Focus Mode";
-"Typewriter Mode" = "Typewriter Mode";
-"Toggle Sidebar" = "Toggle Sidebar";
-"Outline" = "Outline";
-"Articles" = "Articles";
-"File Tree" = "File Tree";
+"View" = "Vista";
+"New Tab" = "Nuova scheda";
+"Source Code Mode" = "Modalità codice sorgente";
+"Focus Mode" = "Modalità focus";
+"Typewriter Mode" = "Modalità macchina per scrivere";
+"Toggle Sidebar" = "Attiva/disattiva barra laterale";
+"Outline" = "Struttura";
+"Articles" = "Articoli";
+"File Tree" = "Albero file";
 "Always on Top" = "Always on Top";
-"Full Screen" = "Full Screen";
-"Show Status Bar" = "Show Status Bar";
-"Toggle Fullscreen" = "Toggle Fullscreen";
-"Actual Size" = "Actual Size";
-"Zoom In" = "Zoom In";
-"Zoom Out" = "Zoom Out";
+"Full Screen" = "Schermo intero";
+"Show Status Bar" = "Mostra barra di stato";
+"Toggle Fullscreen" = "Attiva/disattiva schermo intero";
+"Actual Size" = "Dimensioni effettive";
+"Zoom In" = "Zoom avanti";
+"Zoom Out" = "Zoom indietro";
 "Switch Between Opened Documents" = "Switch Between Opened Documents";
-"Toggle DevTools" = "Toggle DevTools";
+"Toggle DevTools" = "Attiva/disattiva DevTools";
 
 
 /* Themes Menu */
-"Themes" = "Themes";
+"Themes" = "Temi";
 
 /* Window Menu */
-"Window" = "Window";
-"Minimize" = "Minimize";
+"Window" = "Finestra";
+"Minimize" = "Riduci a icona";
 "Zoom" = "Zoom";
-"Bring All to Front" = "Bring All to Front";
+"Bring All to Front" = "Porta tutto in primo piano";
 
 /* Help Menu */
-"Help" = "Help";
+"Help" = "Aiuto";
 "Credits" = "Credits";
 "Change Log" = "Change Log";
-"Website" = "Website";
+"Website" = "Sito web";
 "Feedback" = "Feedback";
-"About" = "About";
+"About" = "Informazioni";
 
 /* Touchbar */
 "Block Styles" = "Block Styles";

@@ -185,50 +185,50 @@
 
 /* Touchbar */
 "Block Styles" = "Block Styles";
-"Inline Styles" = "Inline Styles";
+"Inline Styles" = "Stili incorporati";
 "List Styles / Remove Block" = "List Styles / Remove Block";
 "Exit Source Code Mode" = "Exit Source Code Mode";
 "Toggle Source Code Mode" = "Toggle Source Code Mode";
 
 /* Extra Context Menu */
-"Table" = "Table";
-"Insert Row Before" = "Insert Row Before";
-"Append Row After" = "Append Row After";
-"Delete Row" = "Delete Row";
-"Insert Column Before" = "Insert Column Before";
-"Append Column After" = "Append Column After";
-"Delete Column" = "Delete Column";
-"Copy Table" = "Copy Table";
-"Delete Table" = "Delete Table";
-"Insert Paragraph After" = "Insert Paragraph After";
-"Insert Paragraph Before" = "Insert Paragraph Before";
-"Delete Code Block" = "Delete Code Block";
-"Copy as MathML" = "Copy as MathML";
-"Copy as Tex" = "Copy as Tex";
-"Copy Math" = "Copy Math";
-"Reveal in Finder" = "Reveal in Finder";
-"Open Link" = "Open Link";
-"Reveal in Sidebar" = "Reveal in Sidebar";
-"Open in New Window" = "Open in New Window";
-"Copy File Path" = "Copy File Path";
-"New File" = "New File";
-"Rename" = "Rename";
-"New Folder" = "New Folder";
-"Move to Trash" = "Move to Trash";
+"Table" = "Tabella";
+"Insert Row Before" = "Inserisci riga prima";
+"Append Row After" = "Aggiungi riga dopo";
+"Delete Row" = "Cancella riga";
+"Insert Column Before" = "Inserisci colonna prima";
+"Append Column After" = "Aggiungi colonna dopo";
+"Delete Column" = "Cancella colonna";
+"Copy Table" = "Copia tabella";
+"Delete Table" = "Elimina tabella";
+"Insert Paragraph After" = "Inserisci paragrafo dopo";
+"Insert Paragraph Before" = "Inserisci paragrafo prima";
+"Delete Code Block" = "Elimina blocco codice";
+"Copy as MathML" = "Copia come MathML";
+"Copy as Tex" = "Copia come Tex";
+"Copy Math" = "Copia Math";
+"Reveal in Finder" = "Mostra in Finder";
+"Open Link" = "Apri link";
+"Reveal in Sidebar" = "Mostra in narra laterale";
+"Open in New Window" = "Apri in una nuova finestra";
+"Copy File Path" = "Copia percorsp file";
+"New File" = "Nuovo file";
+"Rename" = "Rinomina";
+"New Folder" = "Nuova cartella";
+"Move to Trash" = "Sposta nel cestino";
 
 /* Electron */
-"Learn Seplling" = "Learn Spelling";
-"Copy / Paste As…" = "Copy / Paste As…";
+"Learn Seplling" = "Impara ortografia";
+"Copy / Paste As…" = "Copia / incolla come…";
 "Math" = "Math";
-"Insert" = "Insert";
-"Inspect Element" = "Inspect Element";
-"Copy to MS Word" = "Copy to MS Word";
-"Paragraph (before)" = "Paragraph (before)";
-"Paragraph (after)" = "Paragraph (after)";
+"Insert" = "Inserisci";
+"Inspect Element" = "Controlla elemento";
+"Copy to MS Word" = "Copia in MS Word";
+"Paragraph (before)" = "Paragrafo (prima)";
+"Paragraph (after)" = "Paragrafo (dopo)";
 
-"Search with Google" = "Search with Google";
-"Search With…" = "Search With…";
+"Search with Google" = "Cerca con Google";
+"Search With…" = "Cerca con…";
 
 /* Related Panel */
-"Open Failed" = "Open Failed";
-"File or folder does not exist." = "File or folder does not exist.";
+"Open Failed" = "Apertura non riuscita";
+"File or folder does not exist." = "Il file o la cartella non esiste";

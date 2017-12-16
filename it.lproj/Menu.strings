@@ -177,18 +177,18 @@
 
 /* Help Menu */
 "Help" = "Aiuto";
-"Credits" = "Credits";
-"Change Log" = "Change Log";
+"Credits" = "Crediti";
+"Change Log" = "Registro Modifiche";
 "Website" = "Sito web";
 "Feedback" = "Feedback";
 "About" = "Informazioni";
 
 /* Touchbar */
-"Block Styles" = "Block Styles";
+"Block Styles" = "Stili Blocco";
 "Inline Styles" = "Stili incorporati";
-"List Styles / Remove Block" = "List Styles / Remove Block";
-"Exit Source Code Mode" = "Exit Source Code Mode";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"List Styles / Remove Block" = "Stili Elenco / Elimina Blocco";
+"Exit Source Code Mode" = "Esci da Modalità Codice Sorgente";
+"Toggle Source Code Mode" = "Attiva/disattiva Modalità Codice Sorgente";
 
 /* Extra Context Menu */
 "Table" = "Tabella";
@@ -208,9 +208,9 @@
 "Copy Math" = "Copia Math";
 "Reveal in Finder" = "Mostra in Finder";
 "Open Link" = "Apri link";
-"Reveal in Sidebar" = "Mostra in narra laterale";
+"Reveal in Sidebar" = "Mostra in barra laterale";
 "Open in New Window" = "Apri in una nuova finestra";
-"Copy File Path" = "Copia percorsp file";
+"Copy File Path" = "Copia percorso file";
 "New File" = "Nuovo file";
 "Rename" = "Rinomina";
 "New Folder" = "Nuova cartella";

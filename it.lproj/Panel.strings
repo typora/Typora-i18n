@@ -12,7 +12,7 @@
 "General" = "Generale";
 "Window Style" = "Stile finestra";
 "Classic" = "Classico";
-"Seamless" = "Seamless";
+"Seamless" = "Trasparente";
 "Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
 "Themes" = "Temi";
 "Open Theme Folder" = "Apri cartella Temi";
@@ -23,13 +23,13 @@
 "Auto ( Recommended )" = "Auto ( Consigliato )";
 "Customized" = "Personalizzato";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
- "Left Panel" = "Left Panel";
-"Show Outline Panel by Default" = "Show Outline Panel by Default";
-"Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
+ "Left Panel" = "Pannello sinistro";
+"Show Outline Panel by Default" = "Mostra Pannello Struttura per impostazione predefinita";
+"Collapsible Outline on Left Panel" = "Struttura comprimibile su pannello sinistro";
 "Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled.";
-"Language" = "Language";
-"System Language" = "System Language";
+"Language" = "Lingua";
+"System Language" = "Lingua sistema";
 
 /* Editor Panel */
 "Editor" = "Editor";
@@ -187,13 +187,13 @@
 "Menu" = "Menu";
 "Back" = "Back";
 
-"Contact" = "Contact";
-"Open From..." = "Open From...";
-"Import..." = "Import...";
-"Recent Documents" = "Recent Documents";
-"Search for…" = "Search for…";
-"Clear Recent Documents" = "Clear Recent Documents";
-"File Name" = "File Name";
+"Contact" = "Contatto";
+"Open From..." = "Apri da...";
+"Import..." = "Importa...";
+"Recent Documents" = "Documenti recenti";
+"Search for…" = "Cerca…";
+"Clear Recent Documents" = "Cancella documenti recenti";
+"File Name" = "Nome file";
 "Path" = "Percorso";
 "Export As..." = "Esporta come...";
 "More Formats" = "Altri Formati";

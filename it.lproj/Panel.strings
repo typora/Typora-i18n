@@ -177,15 +177,15 @@
 
 "Support Documentation" = "Support Documentation";
 
-"Markdown File" = "Markdown File";
+ "Markdown File" = "File Markdown";
 "Plain Text File" = "Plain Text File";
 "All Files" = "All Files";
-"All Supported Formats" = "All Supported Formats";
-"Discard Changes" = "Discard Changes";
-"Discard" = "Discard";
+"All Supported Formats" = "Tutti i formati supportati";
+"Discard Changes" = "Rimuovi cambiamenti";
+"Discard" = "Rimuovi";
 
 "Menu" = "Menu";
-"Back" = "Back";
+"Back" = "Indietro";
 
 "Contact" = "Contatto";
 "Open From..." = "Apri da...";

@@ -113,27 +113,27 @@
 "Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.""
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Uploading Images via iPic...";
-"Uploading in progress..." = "Uploading in progress...";
-"Do not show this again" = "Do not show this again";
+"Uploading Images via iPic..." = "Caricamento immagini tramite iPic...";
+"Uploading in progress..." = "Caricamento in corso...";
+"Do not show this again" = "Non mostrare di nuovo";
 
 /* Word Count */
-"Minutes" = "Minutes";
-"Lines" = "Lines";
-"Words" = "Words";
-"Characters" = "Characters";
-"In Selection" = "In Selection";
-"Panel" = "Panel";
+"Minutes" = "Minuti";
+"Lines" = "Righe";
+"Words" = "Parole";
+"Characters" = "Caratteri";
+"In Selection" = "Nella selezione";
+"Panel" = "Pannello";
 
 /* Windows Prefernce Panel*/
-"Appearance" = "Appearance";
+"Appearance" = "Aspetto";
 "System Native" = "System Native";
 "Unibody" = "Unibody";
 "(applied after restart)" = "(applied after restart)";
-"Status Bar" = "Status Bar";
-"Show status bar" = "Show status bar";
+"Status Bar" = "Barra di stato";
+"Show status bar" = "Mostra Barra di stato";
 "Save & Recover" = "Save & Recover";
-"Auto Save" = "Auto Save";
+"Auto Save" = "Salvataggio automatico";
 "Recover Unsaved Drafts" = "Recover Unsaved Drafts";
 "Emoji Autocomplete" = "Emoji Autocomplete";
 "Trigger by ESC key" = "Trigger by ESC key";

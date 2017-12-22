@@ -138,26 +138,26 @@
 "Emoji Autocomplete" = "Emoji Autocomplete";
 "Trigger by ESC key" = "Trigger by ESC key";
 "Trigger automatically" = "Trigger automatically";
-"Default Line Ending" = "Default Line Ending";
+"Default Line Ending" = "Terminazione riga predefinita";
 "Line ending for new file" = "Line ending for new file";
 "Spell Check" = "Spell Check";
-"(support US English only)" = "(support US English only)";
-"Enable spell check" = "Enable spell check";
-"Auto correct spelling" = "Auto correct spelling";
-"System" = "System";
+"(support US English only)" = "(supportato solo Inglese US)";
+"Enable spell check" = "Attiva controllo ortografico";
+"Auto correct spelling" = "Autocorrezione ortografica";
+"System" = "Sistema";
 "Privacy" = "Privacy";
-"Developer" = "Developer";
-"Update" = "Update";
-"Check Updates" = "Check Updates";
-"Check updates automatically" = "Check updates automatically";
-"Advanced Settings" = "Advanced Settings";
-"Open Advanced Settings" = "Open Advanced Settings";
-"Reset Advanced Settings" = "Reset Advanced Settings";
+"Developer" = "Sviluppatore";
+"Update" = "Aggiornamento";
+"Check Updates" = "Controlla aggiornamenti";
+"Check updates automatically" = "Controlla aggiornamenti automaticamente";
+"Advanced Settings" = "Impostazioni avanzate";
+"Open Advanced Settings" = "Apri Impostazioni avanzate";
+"Reset Advanced Settings" = "Reimposta Impostazioni avanzate";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "This fucntion requires latest version of iPic to be installed.";
+"This fucntion requires latest version of iPic to be installed." = "Questa funzione richiede l'installazione dell'ultima versione di iPic.";
 "Get iPic" = "Get iPic";
-"Cannot Continue…" = "Cannot Continue…";
+"Cannot Continue…" = "Impossibile continuare…";
 "This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
 "One More Step" = "One More Step";
 "Notice" = "Notice";
@@ -175,11 +175,11 @@
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
 "Open Operation Failed" = "Open Operation Failed";
 
-"Support Documentation" = "Support Documentation";
+"Support Documentation" = "Documentazione di supporto";
 
  "Markdown File" = "File Markdown";
-"Plain Text File" = "Plain Text File";
-"All Files" = "All Files";
+"Plain Text File" = "File Testo semplice";
+"All Files" = "Tutti i formati di file";
 "All Supported Formats" = "Tutti i formati supportati";
 "Discard Changes" = "Rimuovi cambiamenti";
 "Discard" = "Rimuovi";

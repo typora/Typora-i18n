@@ -71,25 +71,25 @@
 "Auto Numbering Math Equations" = "Autonumerazione equazioni matematiche";
 
 /* Security Panel */
-"Security" = "Security";
-"Enable Debug" = "Enable Debug";
-"Send Anonymous Usage Info" = "Send Anonymous Usage Info";
+"Security" = "Sicurezza";
+"Enable Debug" = "Attiva Debug";
+"Send Anonymous Usage Info" = "Invia informazioni d'uso in modo anonimo";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Require Pandoc to Continue...";
-"Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
-"Cancel" = "Cancel";
+"Require Pandoc to Continue..." = "Necessario Pandoc per continuare...";
+"Follow instructions to install Pandoc" = "Segui istruzioni per installare Pandoc";
+"Cancel" = "Annulla";
 
 /* Panodc Import Panel */
-"Importing..." = "Importing...";
-"Importing in progress..." = "Importing in progress...";
+"Importing..." = "Importazione...";
+"Importing in progress..." = "Importazione in corso...";
 "Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
-"Abort" = "Abort";
+"Abort" = "Interrompi";
 
 /* Panodc Export Panel */
-"Exporting..." = "Exporting...";
-"Exporting in progress..." = "Exporting in progress...";
-"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+"Exporting..." = "Esportazione...";
+"Exporting in progress..." = "Esportazione in corso...";
+"Converting file with Pandoc. This may take some time." = "Conversione file con Pandoc. L'operazione può richiedere tempo.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";

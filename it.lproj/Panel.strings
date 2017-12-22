@@ -163,8 +163,8 @@
 "Notice" = "Notice";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image.";
 
-"%d Images Failed to Upload." = "%d Images Failed to Upload.";
-"%d Succeeded," = "%d Succeeded, ";
+"%d Images Failed to Upload." = "%d Caricamento immagini non riuscito.";
+"%d Succeeded," = "%d Riuscito,";
 "Enable this feature on preferences panel" = "Enable this feature on preferences panel";
 "The option `%@` must be enabled first" = "The option `%@` must be enabled first.";
 "%@ is a file, not a directory" = "%@ is a file, not a directory";
@@ -172,8 +172,8 @@
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Create Folder and Continue";
 "Document must be saved first" = "Document must be saved first";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
-"Open Operation Failed" = "Open Operation Failed";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copierà di nuovo l'immagine nella cartella attravero il percorso relativo selezionato, quindi salva prima il file.";
+"Open Operation Failed" = "Apertura non riuscita";
 
 "Support Documentation" = "Documentazione di supporto";
 

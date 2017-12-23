@@ -108,9 +108,9 @@
 "Dark Theme not support" = "Tema Dark non supportato";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "La versione corrente di Typora non stampa il colore di sfondo nel PDF esportato, così il tema dark non è ancora supportato  per l'esportazione in PDF. \nScegli un tema light o clicca \"Stampa con tema predefinito"\";
 "Print with default theme" = "Stampa con tema predefinito";
-"Export to PDF successfully." = "Export to PDF successfully.";
-"Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
-"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.""
+"Export to PDF successfully." = "Esportazione in PDF riuscita.";
+"Converting file using Pandoc. This may take some time." = "Conversione file con Pandoc. L'operazione può richiedere tempo.";
+"Exporting file using Pandoc. This may take some time." = "Esportazione file con Pandoc. L'operazione può richiedere tempo.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Caricamento immagini tramite iPic...";
@@ -127,20 +127,20 @@
 
 /* Windows Prefernce Panel*/
 "Appearance" = "Aspetto";
-"System Native" = "System Native";
+"System Native" = "Sistema locale";
 "Unibody" = "Unibody";
-"(applied after restart)" = "(applied after restart)";
+"(applied after restart)" = "(applicato dopo riavvio)";
 "Status Bar" = "Barra di stato";
 "Show status bar" = "Mostra Barra di stato";
-"Save & Recover" = "Save & Recover";
+"Save & Recover" = "Salva & Ripristina";
 "Auto Save" = "Salvataggio automatico";
 "Recover Unsaved Drafts" = "Recover Unsaved Drafts";
 "Emoji Autocomplete" = "Emoji Autocomplete";
-"Trigger by ESC key" = "Trigger by ESC key";
-"Trigger automatically" = "Trigger automatically";
+"Trigger by ESC key" = "Attiva con tasto ESC";
+"Trigger automatically" = "Attiva automaticamente";
 "Default Line Ending" = "Terminazione riga predefinita";
-"Line ending for new file" = "Line ending for new file";
-"Spell Check" = "Spell Check";
+"Line ending for new file" = "Terminazione riga per nuovo file";
+"Spell Check" = "Controllo ortografico";
 "(support US English only)" = "(supportato solo Inglese US)";
 "Enable spell check" = "Attiva controllo ortografico";
 "Auto correct spelling" = "Autocorrezione ortografica";
@@ -158,20 +158,20 @@
 "This fucntion requires latest version of iPic to be installed." = "Questa funzione richiede l'installazione dell'ultima versione di iPic.";
 "Get iPic" = "Get iPic";
 "Cannot Continue…" = "Impossibile continuare…";
-"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
-"One More Step" = "One More Step";
-"Notice" = "Notice";
+"This feature require macOS >= 10.11" = "Questa funzionalità richiede macOS >= 10.11";
+"One More Step" = "Ancora un passaggio";
+"Notice" = "Informativa";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image.";
 
 "%d Images Failed to Upload." = "%d Caricamento immagini non riuscito.";
 "%d Succeeded," = "%d Riuscito,";
-"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
-"The option `%@` must be enabled first" = "The option `%@` must be enabled first.";
-"%@ is a file, not a directory" = "%@ is a file, not a directory";
-"Copy Images To…" = "Copy Images To…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
-"Create Folder and Continue" = "Create Folder and Continue";
-"Document must be saved first" = "Document must be saved first";
+"Enable this feature on preferences panel" = "Attiva questa funzione dal pannello preferenze";
+"The option `%@` must be enabled first" = "Prima deve essere attivata l'opzione `%@`.";
+"%@ is a file, not a directory" = "%@ un file, non una directory";
+"Copy Images To…" = "Copia immagini in…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora sta provando a copiare l'immagine appena inserita nella cartella %@  secondo le tue impostazioni del Front Matter YAML. Ma la cartella destinazione non esiste, vuoi crearla ora?";
+"Create Folder and Continue" = "Crea cartella e continua";
+"Document must be saved first" = "Il documento deve essere prima salvayo";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copierà di nuovo l'immagine nella cartella attravero il percorso relativo selezionato, quindi salva prima il file.";
 "Open Operation Failed" = "Apertura non riuscita";
 

@@ -36,7 +36,7 @@
 "Indent Size on Save" = "Dimensione rientro al salvataggio";
 "only apply for quotes and lists created from menubar or hybrid view" = "applica solo a citazioni ed elenchi creati dalla barra dei menu o in visualizzazione ibrida";
 "Trigger Autocomplete without ESC key for" = "Attiva Completamento automatico senza usare il tasto ESC";
-"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Emoji (e.g. :smile:)" = "Emoji (p.es. :smile:)";
 "Images Insert" = "Inserisci immagini";
 "Use relative path if possible" = "Usa percorso relativo se possibile";
 "Allow copy images to given folder" = "Permetti copia immagini in una cartella";
@@ -55,10 +55,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Le seguenti preferenze saranno applicate dopo il riavvio.)";
 "Syntax Support" = "Supporto sintassi";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Pedice    ( per esempio: H~2~O )";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( p.es.: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Pedice    ( p.es.: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Apice ( per esempio: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Evidenziato     per esempio: ==key==)";
+"Highlight     (e.g: ==key==)" = "Evidenziato     p.es.: ==key==)";
 "Diagrams" = "Diagrammi";
 "(Sequence, Flowchart and Mermaid)" = "(Sequenza, Diagramma di flusso e Mermaid)";
 "Syntax Preference" = "Preferenza sintassi";
@@ -83,7 +83,7 @@
 /* Panodc Import Panel */
 "Importing..." = "Importazione...";
 "Importing in progress..." = "Importazione in corso...";
-"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+"Converting file with Pandoc. This may take some time." = "Conversione file con Pandoc. L'operazione può richiedere tempo.";
 "Abort" = "Interrompi";
 
 /* Panodc Export Panel */
@@ -92,22 +92,22 @@
 "Converting file with Pandoc. This may take some time." = "Conversione file con Pandoc. L'operazione può richiedere tempo.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";
+"Pandoc is needed for importing these file formats" = "Pandoc necessario per importare questi formati di file";
 "Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
-"Follow Instructions to Install/Update Pandoc" = "Follow Instructions to Install/Update Pandoc";
-"Export Failed" = "Export Failed";
-"Import Failed" = "Import Failed";
-"Generated Image too Large" = "Generated Image too Large";
-"Failed to export file to <em>{0}</em>" = "Failed to export file to <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Failed to import file from <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "File does not exist at <em>{0}</em>";
-"Export to..." = "Export to...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them.";
+"Follow Instructions to Install/Update Pandoc" = "Segui istruzioni per installare/aggioranare Pandoc";
+"Export Failed" = "Esportazione non riuscita";
+"Import Failed" = "Importazione non riuscita";
+"Generated Image too Large" = "Immagine generata troppo grande";
+"Failed to export file to <em>{0}</em>" = "Esportazione file in <em>{0}</em> non riuscita";
+"Failed to import file from <em>{0}</em>" = "Importazione file in <em>{0}</em> non riuscita";
+"File does not exist at <em>{0}</em>" = "File non esiste in <em>{0}</em>";
+"Export to..." = "Esportazione in...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vuoi salvare i cambiamenti di questo documento ?<br> Se non li salvi i tuoi cambiamenti andranno persi.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
 "Dark Theme not support" = "Dark Theme not support";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"";
-"Print with default theme" = "Print with default theme";
+"Print with default theme" = "Stampa con tema predefinito";
 "Export to PDF successfully." = "Export to PDF successfully.";
 "Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
 "Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.""

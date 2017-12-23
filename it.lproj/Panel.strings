@@ -33,9 +33,9 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Indent Size on Save";
-"only apply for quotes and lists created from menubar or hybrid view" = "only apply for quotes and lists created from menubar or hybrid view";
-"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
+"Indent Size on Save" = "Dimensione rientro al salvataggio";
+"only apply for quotes and lists created from menubar or hybrid view" = "applica solo a citazioni ed elenchi creati dalla barra dei menu o in visualizzazione ibrida";
+"Trigger Autocomplete without ESC key for" = "Attiva Completamento automatico senza usare il tasto ESC";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Inserisci immagini";
 "Use relative path if possible" = "Usa percorso relativo se possibile";

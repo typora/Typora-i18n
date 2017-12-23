@@ -20,9 +20,9 @@
 "Word Count" = "Conteggio parole";
 "Always Show Word Count" = "Mostra sempre Conteggio parole";;
 "Font Size" = "Dimensione font";
-"Auto ( Recommended )" = "Auto ( Consigliato )";
+"Auto ( Recommended )" = "Automatico ( Consigliato )";
 "Customized" = "Personalizzato";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "In caso di dimensione font personalizzata, l'effettiva dimensione del font dipenderà dalla dimensione di base del font e dallo stile css.";
  "Left Panel" = "Pannello sinistro";
 "Show Outline Panel by Default" = "Mostra Pannello Struttura per impostazione predefinita";
 "Collapsible Outline on Left Panel" = "Struttura comprimibile su pannello sinistro";
@@ -93,9 +93,9 @@
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc necessario per importare questi formati di file";
-"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
-"Follow Instructions to Install/Update Pandoc" = "Segui istruzioni per installare/aggioranare Pandoc";
+"Check help->Install and use Pandoc from menubar for detail" = "Seleziona Aiuto->Installa e usa Pandoc dalla Barra dei menu per maggiori dettagli";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Alcune funzioni di importazione o di esportazione richiedono che <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) sia installato.";
+"Follow Instructions to Install/Update Pandoc" = "Segui istruzioni per installare/aggiornare Pandoc";
 "Export Failed" = "Esportazione non riuscita";
 "Import Failed" = "Importazione non riuscita";
 "Generated Image too Large" = "Immagine generata troppo grande";
@@ -105,8 +105,8 @@
 "Export to..." = "Esportazione in...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vuoi salvare i cambiamenti di questo documento ?<br> Se non li salvi i tuoi cambiamenti andranno persi.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
-"Dark Theme not support" = "Dark Theme not support";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"";
+"Dark Theme not support" = "Tema Dark non supportato";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "La versione corrente di Typora non stampa il colore di sfondo nel PDF esportato, così il tema dark non è ancora supportato  per l'esportazione in PDF. \nScegli un tema light o clicca \"Stampa con tema predefinito"\";
 "Print with default theme" = "Stampa con tema predefinito";
 "Export to PDF successfully." = "Export to PDF successfully.";
 "Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";

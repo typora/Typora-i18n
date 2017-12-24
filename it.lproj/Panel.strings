@@ -41,21 +41,21 @@
 "Use relative path if possible" = "Usa percorso relativo se possibile";
 "Allow copy images to given folder" = "Permetti copia immagini in una cartella";
 "Allow upload to given server" = "Permetti caricamento immagini su un server";
-"Auto Pair" = "Auto Pair";
-"Auto pair brackets and quotes" = "Auto pair brackets and quotes";
-"Auto pair common markdown syntax" = "Auto pair common markdown syntax";
+"Auto Pair" = "Completamento automatico";
+"Auto pair brackets and quotes" = "Completamento automatico parentesi e virgolette";
+"Auto pair common markdown syntax" = "Completamento automatico sintassi markdown comune";
 "Live Rendering" = "Live Rendering";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
 "Default Copy Behavior" = "Comportamento copia predefinito";
 "Copy Markdown source as plain text" = "Copia sorgente Makdown come testo semplice";
 "Typewriter Mode" = "Modalità macchina per scrivere";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Always keep caret in middle of screen\nwhen typewriter mode is enabled.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Mantieni sempre cursore al centro dello schermo\nquando la modalità macchina per scrivere è attiva.";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Le seguenti preferenze saranno applicate dopo il riavvio.)";
 "Syntax Support" = "Supporto sintassi";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( p.es.: $\LaTeX$ )";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Espressioni matematiche incorporate  ( p.es.: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Pedice    ( p.es.: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Apice ( per esempio: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Evidenziato     p.es.: ==key==)";
@@ -197,7 +197,7 @@
 "Path" = "Percorso";
 "Export As..." = "Esporta come...";
 "More Formats" = "Altri Formati";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
-"Something is Wrong…" = "Something is Wrong…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Per i formati file in sezioni 'Altri formati' è necessario che <a class='open-pandoc-guide'>Pandoc sia installato</a>.";
+"Something is Wrong…" = "Qualcosa non va…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Per qualche motivo il salvataggio del contenuto non è riuscito.<br/>Dovresti copiare il contenuto in una nuova finestra di Typora, e salvarlo. <br/>Per saperne di più:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Segnalaci i bug</a></li><li><a href='http://support.typora.io/Version-Control//'>Recupera i contenuti persi</a></li></ul>";
 "Copy Content" = "Copia contenuto";

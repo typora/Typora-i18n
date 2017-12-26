@@ -64,6 +64,8 @@
 "(Sequence, Flowchart and Mermaid)" = "(序列图, 流程图 和 Mermaid)";
 "Syntax Preference" = "Markdown语法偏好设置";
 "(only apply for styles created from menubar or hybrid view)" = "(只应用于通过菜单或快捷键生成的样式)";
+"Strict Mode" = "严格模式";
+"(more strict to GFM spec)" = "(更严格地遵循GFM标准)";
 "Heading Style" = "标题样式";
 "Unordered List" = "无序列表";
 "Code Fences" = "代码块";
@@ -136,7 +138,7 @@
 "Save & Recover" = "保存 & 恢复";
 "Auto Save" = "自动保存";
 "Recover Unsaved Drafts" = "恢复未保存的文件";
-"Emoji Autocomplete" = "Emoji Autocomplete";
+"Emoji Autocomplete" = "Emoji表情自动完成";
 "Trigger by ESC key" = "按Esc键触发";
 "Trigger automatically" = "自动触发";
 "Default Line Ending" = "默认换行符";
@@ -183,7 +185,7 @@
 "All Files" = "所有文件";
 "All Supported Formats" = "所有支持的格式";
 "Discard Changes" = "放弃更改";
-"Discard" = "放弃保存";
+"Discard" = "丢弃";
 
 "Menu" = "菜单";
 "Back" = "返回";

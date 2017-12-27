@@ -1,0 +1,125 @@
+/* 
+  Front.strings
+  Typora
+
+ by iriusturar350@Gmail.com
+*/
+
+/* Common */
+"OK" = "Ok";
+"Cancel" = "Anuluj";
+"Yes" = "Tak";
+"No" = "Nie";
+"Close" = "Zamknij";
+"Select" = "Wybierz";
+"Continue" = "Kontynuj";
+"Learn More…" = "Dowiedz się więcej…";
+"Untitled" = "Bez nazwy";
+"Undo" = "Cofnij";
+"Dismiss" = "Odrzuć";
+"Confirm" = "Potwierdź";
+"Error" = "Błąd";
+
+/* Search Panel */
+"Search" = "Szukaj";
+"Repalce" = "Zastąp";
+"All" = "Wszystko";
+"Search text not found in article" = "Wyszukiwany fragment nie został odnaleziony w tekście";
+"search text" = "wyszukiwanie tekstu";
+
+/* Quick Open */
+"Search by file name" = "Wyszukaj według nazwy pliku";
+"Searching" = "Wyszukiwanie";
+"Gathering more results" = "Pozyskiwanie większej liczby wyników";
+
+/* Tables */
+"Insert Table" = "Wstaw tabelę";
+"Columns" = "Kolumny";
+"Rows" = "Wiersze";
+"Align Left" = "Wyrównaj do lewej";
+"Align Center" = "Wyśrodkuj";
+"Align Right" = "Wyrównaj do prawej";
+"Resize Table" = "Zmień rozmiar tabeli";
+"Delete Table" = "Usuń tabelę";
+
+/* Images */
+"Copy Image To..." = "Kopiuj obraz do...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora Próbuje skopiować nowy obraz do folderu <code id='image-create-folder-target'></code> zgodnie z aktualnym ustawieniem YAML, lecz docelowy folder nie istnieje. Utworzyć go teraz?";
+"Create Folder" = "Utwórz folder";
+
+/* Math */
+"Edit" = "Edytuj";
+"Delete Math" = "Usuń działanie matematyczne";
+"Preview" = "Podgląd";
+
+/* Sidebar */
+"Articles" = "Notatki";
+"Outline" = "Nagłówki";
+"Files" = "Pliki";
+"Switch to File List view" = "Przejdź do widoku listy plików";
+"Switch to File Tree view" = "Przejdź do widoku drzewa";
+"Switch to Outline view" = "Przejdź do widoku nagłówków";
+"Close sidebar" = "Zamknij boczny panel";
+"Loading" = "Ładowanie";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Zaznaczony folder zawiera zbyt dużo plików. \nProszę przejdź do <a id='switch-to-tree-on-oversize'>Listy gałęzi</a> w celu poprawienia wydajności.";
+"New File" = "Nowy plik";
+"Unpin Outline Panel" = "Odepnij panel szkicu";
+"Open Folder..." = "Otwórz folder...";
+"Action" = "Akcja"; // plural of "action" in Polish is "Akcje"
+"Close Sidebar Menu" = "Zamknij menu panelu bocznego";
+"Reveal in Finder" = "Otwórz w Finderze";
+"Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
+"Refresh Folder" = "Odśwież folder";
+"Sort" = "Sortuj";
+"Group By Folder" = "Grupuj według folderu";
+"Sort Naturally" = "Sortowanie naturalne";
+"Sort by Name" = "Sortowanie według nazwy";
+"Sort by Modification Date" = "Sortuj według daty modyfikacji";
+"Recent Locations" = "Ostatnie lokacje";
+"Location" = "Lokacja";
+"Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
+"No Files Available" = "Brak dostępnych plików";
+"No Folder is Opened." = "Żaden folder nie jest otwarty.";
+"Outline is Empty." = "Brak nagłówków.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Aktywuj panel boczny";
+"Toggle Source Code Mode" = "Aktywuj tryb Kodu Źródłowego";
+"Exit Source Code Mode" = "Wyłącz tryb Kodu Źródłowego";
+
+"Table of Contents" = "Spis treści";
+"Empty Diagram" = "Pusty diagram";
+"Input Math TeX here" = "Wprowadź tutaj działanie matematyczne zgodne z TeX";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Musisz zdefiniować odniesienie do dopisku <b>{0}</b> ze składnią <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Musisz zdefiniować odniesienie adresu <b>[{0}]</b> ze składnią <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Proszę zdefiniować odniesienie do obrazu \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Nie udało się stworzyć pliku";
+"Failed to create folder" = "Nie udało się stworzyć folderu";
+"Failed to rename file" = "Nie udało się zmienić nazwy pliku";
+"Folder does not exist at %@" = "Nie ma takiego folderu w %@";
+"File with the same name already exists at target path" = "Plik o takiej samej nazwie istnieje w docelowej ścieżce";
+"Apply to All" = "Zastosuj dla wszystkich";
+"Overwrite" = "Nadpisz";
+"Stop" = "Zatrzymaj";
+"back to document" = "Wróć do dokumentu";
+"Failed to load file" = "Nie udało się załadować pliku";
+"Save File Failed!" = "Nie udało się zapisać pliku!"
+"Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Kontynuować przenoszenie oraz nadpisywanie istniejącego(istniejących) pliku(plików) ?"; // In brackets I placed plurals in this sentence
+
+"Rename Failed" = "Zmiana nazwy nie powiodła się";
+"Rename to \"{0}\" ?" = "Zmienić nazwę na \"{0}\"?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Zmiana nazwy z \"{0}\" na \"{1}\" nie powiodła się";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Pomyślnie ukończono przekazywanie {0} obrazów."; // singular of "obrazów" is "obrazu" in this sentence
+"Failed to upload image. Error Message:" = "Nie udało się przekazać obrazu. Treść Błędu:";
+"Failed to Copy Image to Target Folder." = "Nie udało się skopiować obrazu do docelowego folderu.";
+"Select Container Folder" = "Wybierz folder kontenera";
+
+"Saved" = "Zapisano";

@@ -37,8 +37,8 @@
 "Duplicate" = "创建副本";
 "Rename" = "重新命名";
 "Move To" = "移到";
-"Revert To" = "复原到";
-"Browse All Versions" = "浏览所以版本";
+"Revert To" = "恢复";
+"Browse All Versions" = "浏览所有版本";
 "Import" = "导入";
 "Export" = "导出";
 "Page Setup" = "页面设置";
@@ -107,7 +107,7 @@
 "Heading 5" = "五级标题";
 "Heading 6" = "六级标题";
 "Increase Heading Level" = "增大题号";
-"Decrease Heading Level" = "减少题号";
+"Decrease Heading Level" = "减小题号";
 "Table" = "表格";
 "Code Fences" = "代码块";
 "Math Block" = "公式块";
@@ -205,7 +205,7 @@
 "New File" = "新建文件";
 "Rename" = "重命名";
 "New Folder" = "新建文件夹";
-"Move to Trash" = "移到回车站";
+"Move to Trash" = "移到回收站";
 
 /* Electron */
 "Learn Seplling" = "添加到字典中";

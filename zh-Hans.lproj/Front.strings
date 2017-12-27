@@ -39,7 +39,7 @@
 "Align Left" = "左对齐";
 "Align Center" = "居中对齐";
 "Align Right" = "右对齐";
-"Resize Table" = "增删行和列";
+"Resize Table" = "修改表格";
 "Delete Table" = "删除表格";
 
 /* Images */
@@ -63,7 +63,7 @@
 "Loading" = "加载中";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "文件过多，请切换到<a id='switch-to-tree-on-oversize'>文件树视图</a>。";
 "New File" = "新建文件";
-"Unpin Outline Panel" = "Unpin大纲视图";
+"Unpin Outline Panel" = "取消大纲视图";
 "Open Folder..." = "打开文件夹...";
 "Action" = "操作";
 "Close Sidebar Menu" = "关闭";
@@ -83,7 +83,7 @@
 "Outline is Empty." = "大纲内容为空";
 
 /* Status Bar */
-"Toggle Sidebar" = "现实/隐藏侧边栏";
+"Toggle Sidebar" = "显示/隐藏侧边栏";
 "Toggle Source Code Mode" = "启用/关闭源代码模式";
 "Exit Source Code Mode" = "关闭源代码模式";
 
@@ -109,7 +109,7 @@
 "Save File Failed!" = "保存文件失败!"
 "Cannot open folder {0}" = "打开文件夹 {0} 时出错";
 
-"File content is changed by external applications. Reload content from disk ?" = "文件内容被外部程序能改，是否重新加载文件";
+"File content is changed by external applications. Reload content from disk ?" = "文件内容被外部程序更改，是否重新加载文件";
 "Should continue moving and overwrite exisiting file(s) ?" = "是否继续并替换原有文件?";
 
 "Rename Failed" = "重命名失败";

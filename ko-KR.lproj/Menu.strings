@@ -70,8 +70,8 @@
 "Jump to Top" = "맨 위로 이동";
 "Jump to Selection" = "선택 부분으로 이ㅣ동";
 "Jump to Bottom" = "맨 아래로 이동";
-"Math Tools" = "수학 도구";
-"Refresh All Math Expressions" = "모든 수학 표현 새로고침";
+"Math Tools" = "수식 도구";
+"Refresh All Math Expressions" = "모든 수식 표현 새로고침";
 "Image Tools" = "사진 도구";
 "Insert Local Images" = "로컬 이미지 삽입";
 "Upload Local Images via iPic" = "iPic을 통해 로컬 이미지 업로드";
@@ -113,8 +113,8 @@
 "Increase Heading Level" = "제목 수준 올리기";
 "Decrease Heading Level" = "제목 수준 낮추기";
 "Table" = "표";
-"Code Fences" = "코드 영역";
-"Math Block" = "수학 블럭";
+"Code Fences" = "코드 펜스";
+"Math Block" = "수식 블럭";
 "Quote" = "인용구";
 "Ordered List" = "정렬된 목록";
 "Unordered List" = "정렬되지 않은 목록";
@@ -138,7 +138,7 @@
 "Emphasis" = "기울이기";
 "Underline" = "밑줄";
 "Code" = "코드";
-"Inline Math" = "수학 인라인";
+"Inline Math" = "인라인 수식";
 "Strike" = "취소선";
 "Highlight" = "강조";
 "Superscript" = "위 첨자";

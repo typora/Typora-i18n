@@ -37,7 +37,7 @@
 /* Editor Panel */
 "Editor" = "에디터";
 "Indent Size on Save" = "저장 시 들여쓰기 크기";
-"only apply for quotes and lists created from menubar or hybrid view" = "메뉴바나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
+"only apply for quotes and lists created from menubar or hybrid view" = "메뉴 막대나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
 "Trigger Autocomplete without ESC key for" = "ESC 키 없이 자동완성 적용:";
 "Emoji (e.g. :smile:)" = "이모티콘 (예시: :smile:)";
 "Images Insert" = "이미지 삽입";
@@ -65,7 +65,7 @@
 "Diagrams" = "다이어그램";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart 및 Mermaid)";
 "Syntax Preference" = "문법 강조 설정";
-"(only apply for styles created from menubar or hybrid view)" = "(메뉴바나 하이브리드 보기에서 생성된 스타일에만 적용)";
+"(only apply for styles created from menubar or hybrid view)" = "(메뉴 막대나 하이브리드 보기에서 생성된 스타일에만 적용)";
 "Strict Mode" = "엄격 모드";
 "(more strict to GFM spec)" = "(GFM 스펙을 더 준수)";
 "Heading Style" = "제목 스타일";
@@ -98,7 +98,7 @@
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "이 파일 형식으로 내보내기 위해서는 Pandoc가 필요합니다";
-"Check help->Install and use Pandoc from menubar for detail" = "자세한 사항은 메뉴바의 도움말->Pandoc 설치 및 사용 방법을 참고하세요";
+"Check help->Install and use Pandoc from menubar for detail" = "자세한 사항은 메뉴 막대의 도움말->Pandoc 설치 및 사용 방법을 참고하세요";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "가져오기 및 몇몇 내보내기 기능은  <a href='http://pandoc.org/' target='_blank'>Pandoc</a>(≥ v1.16)가 설치되어 있어야 합니다.";
 "Follow Instructions to Install/Update Pandoc" = "아래 지시를 따라 Pandoc를 설치/업데이트해 주세요";
 "Export Failed" = "내보내기 실패";

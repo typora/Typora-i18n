@@ -58,14 +58,14 @@
 "Copy as HTML Code" = "HTML 코드로 복사";
 "Paste as Plain Text" = "일반 텍스트로 붙이기";
 "Select All" = "전체 선택";
-"Select Line/Sentence" = "줄 및 문장 선택";
+"Select Line/Sentence" = "줄/문장 선택";
 "Select Styled Scope" = "스타일 범위 선택";
 "Select Word" = "단어 선택";
 "Delete" = "삭제";
 "Delete Range" = "삭제 범위";
 "Delete Word" = "단어 삭제";
 "Delete Styled Scope" = "스타일 범위 삭제";
-"Delete Line/Sentence" = "줄 및 문장 삭제";
+"Delete Line/Sentence" = "줄/문장 삭제";
 "Jump To" = "이동";
 "Jump to Top" = "맨 위로 이동";
 "Jump to Selection" = "선택 부분으로 이동";
@@ -189,7 +189,7 @@
 /* Touchbar */
 "Block Styles" = "블록 스타일";
 "Inline Styles" = "인라인 스타일";
-"List Styles / Remove Block" = "스타일 목록 및 블록 제거";
+"List Styles / Remove Block" = "스타일 목록 / 블록 제거";
 "Exit Source Code Mode" = "소스 코드 모드 종료";
 "Toggle Source Code Mode" = "소스 코드 모드 토글";
 

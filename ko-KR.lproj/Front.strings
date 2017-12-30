@@ -1,0 +1,125 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "승인";
+"Cancel" = "취소";
+"Yes" = "네";
+"No" = "아니오";
+"Close" = "닫기";
+"Select" = "선택";
+"Continue" = "계속";
+"Learn More…" = "더 알아보기…";
+"Untitled" = "제목 없음";
+"Undo" = "실행 취소";
+"Dismiss" = "무시";
+"Confirm" = "확인";
+"Error" = "오류";
+
+/* Search Panel */
+"Search" = "검색";
+"Repalce" = "대치";
+"All" = "모두";
+"Search text not found in article" = "문서에서 텍스트를 찾지 못했습니다";
+"search text" = "검색할 텍스트";
+
+/* Quick Open */
+"Search by file name" = "파일 이름으로 찾기";
+"Searching" = "검색";
+"Gathering more results" = "더 많은 결과 보기";
+
+/* Tables */
+"Insert Table" = "표 삽입";
+"Columns" = "열";
+"Rows" = "행";
+"Align Left" = "왼쪽 정렬";
+"Align Center" = "가운데 정렬";
+"Align Right" = "오른쪽 정렬";
+"Resize Table" = "표 크기 조정";
+"Delete Table" = "표 제거";
+
+/* Images */
+"Copy Image To..." = "다음으로 이미지 복사...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora는 <code id='image-create-folder-target'></code> 경로로 새로 삽입된 이미지 복사를 시도합니다. 하지만 해당 폴더가 존재하지 않습니다. 새로 만들까요?";
+"Create Folder" = "폴더 만들기";
+
+/* Math */
+"Edit" = "수정";
+"Delete Math" = "수식 삭제";
+"Preview" = "미리보기";
+
+/* Sidebar */
+"Articles" = "문서";
+"Outline" = "개략";
+"Files" = "파일";
+"Switch to File List view" = "파일 목록 보기로 전환";
+"Switch to File Tree view" = "파일 트리 보기로 전환";
+"Switch to Outline view" = "개략 보기로 전환";
+"Close sidebar" = "사이드바 닫기";
+"Loading" = "로드중";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "선택된 폴더의 파일이 너무 많습니다. \n 더 나은 성능을 위해 <a id='switch-to-tree-on-oversize'>파일 트리 보기</a>로 전환하세요..";
+"New File" = "새 파일";
+"Unpin Outline Panel" = "개략 패널 고정 해제";
+"Open Folder..." = "폴더 열기...";
+"Action" = "동작";
+"Close Sidebar Menu" = "사이드바 메뉴 닫기";
+"Reveal in Finder" = "Finder로 열기";
+"Reveal in File Explorer" = "탐색기로 열기";
+"Refresh Folder" = "폴더 새로고침";
+"Sort" = "정렬";
+"Group By Folder" = "폴더별로 정렬";
+"Sort Naturally" = "기본 정렬";
+"Sort by Name" = "이름별 정렬";
+"Sort by Modification Date" = "수정일별 정렬";
+"Recent Locations" = "최근 위치";
+"Location" = "위치";
+"Switch File List/Tree View" = "목록/트리 보기로 전환";
+"No Files Available" = "사용 가능한 파일 없음";
+"No Folder is Opened." = "열린 폴더가 없음.";
+"Outline is Empty." = "개략이 비어있음.";
+
+/* Status Bar */
+"Toggle Sidebar" = "사이드바 토글";
+"Toggle Source Code Mode" = "소스 코드 모드 토글";
+"Exit Source Code Mode" = "소스 코드 모드 종료";
+
+"Table of Contents" = "목차";
+"Empty Diagram" = "빈 다이어그램";
+"Input Math TeX here" = "TeX 수식을 여기에 입력";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "<b>{0}</b> 각주를 <a>[^{1}]: www.example.com</a>와 같은 문법을 이용하여 정의해야 함";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "<b>[{0}]</b> 링크를 <b>[{1}]: www.example.com</b>와 같은 문법을 이용하여 정의해야 함";
+"Please define image reference by \n[{0}]: http://example.png" = "이미지 출처를 아래와 같이 정의해 주세요 \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "파일 생성 실패";
+"Failed to create folder" = "폴더 생성 실패";
+"Failed to rename file" = "파일 이름 바꾸기 실패";
+"Folder does not exist at %@" = "%@에 폴더가 존재하지 않습니다";
+"File with the same name already exists at target path" = "같은 이름의 파일이 해당 경로에 이미 존재합니다";
+"Apply to All" = "모두 적용";
+"Overwrite" = "덮어쓰기";
+"Stop" = "멈추기";
+"back to document" = "문서로 돌아가기";
+"Failed to load file" = "파일 로드 실패";
+"Save File Failed!" = "파일 저장 실패!"
+"Cannot open folder {0}" = "{0} 폴더를 열 수 없음";
+
+"File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";
+"Should continue moving and overwrite exisiting file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
+
+"Rename Failed" = "이름 바꾸기 실패";
+"Rename to \"{0}\" ?" = " \"{0}\"로 이름을 바꾸시겠습니까 ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"(에)서 \"{1}\"(으)로 이름 바꾸기 실패";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "{0}개의 이미지를 성공적으로 업로드함.";
+"Failed to upload image. Error Message:" = "업로드 실패. 오류 메시지:";
+"Failed to Copy Image to Target Folder." = "해당 폴더로 이미지 복사 실패.";
+"Select Container Folder" = "컨테이너 폴더 선택";
+
+"Saved" = "저장됨";

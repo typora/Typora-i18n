@@ -165,7 +165,7 @@
 "Notice" = "공지";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "이를 위해서는 iPic을 설치해야하고 참조된 이미지 파일이 iPic을 통해 클라우드 서비스에 업로드됩니다.  기본 클라우드 서비스는 업로드된 이미지 삭제를 지원하지 않습니다.";
 
-"%d Images Failed to Upload." = "%d이미지 업로드 실패.";
+"%d Images Failed to Upload." = "%d개의 이미지 업로드 실패.";
 "%d Succeeded," = "%d개 성공";
 "Enable this feature on preferences panel" = "이 기능을 설정 패널에서 활성화";
 "The option `%@` must be enabled first" = "`%@` 옵션이 먼저 활성화되어야 합니다.";
@@ -199,7 +199,7 @@
 "Path" = "경로";
 "Export As..." = "다음으로 내보내기...";
 "More Formats" = "추가 포맷";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = " '추가 포맷' 섹션 아래의 포맷들은 <a class='open-pandoc-guide'>Pandoc가 설치되어 있어야 합니다</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "'추가 포맷' 섹션 아래의 포맷들은 <a class='open-pandoc-guide'>Pandoc가 설치되어 있어야 합니다</a>.";
 "Something is Wrong…" = "뭔가 잘못됐습니다…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "몇가지 이유로 인해 저장에 실패했습니다.<br/>새 Typora 윈도우로 내용을 옮겨 저장할 수 있습니다. <br/>더 알아보기:<ul><li><a href='http://support.typora.io/Report-Bugs/'>버그 제보</a></li><li><a href='http://support.typora.io/Version-Control//'>잃어버린 내용 복원</a></li></ul>";
 "Copy Content" = "내용 복사";

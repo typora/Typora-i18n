@@ -61,7 +61,7 @@
 "Switch to Outline view" = "개략 보기로 전환";
 "Close sidebar" = "사이드바 닫기";
 "Loading" = "로드중";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "선택된 폴더의 파일이 너무 많습니다. \n 더 나은 성능을 위해 <a id='switch-to-tree-on-oversize'>파일 트리 보기</a>로 전환하세요..";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "선택된 폴더의 파일이 너무 많습니다. \n 더 나은 성능을 위해 <a id='switch-to-tree-on-oversize'>파일 트리 보기</a>로 전환하세요.";
 "New File" = "새 파일";
 "Unpin Outline Panel" = "개략 패널 고정 해제";
 "Open Folder..." = "폴더 열기...";
@@ -113,7 +113,7 @@
 "Should continue moving and overwrite exisiting file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
 
 "Rename Failed" = "이름 바꾸기 실패";
-"Rename to \"{0}\" ?" = " \"{0}\"로 이름을 바꾸시겠습니까 ?";
+"Rename to \"{0}\" ?" = "\"{0}\"(으)로 이름을 바꾸시겠습니까?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"(에)서 \"{1}\"(으)로 이름 바꾸기 실패";
 
 /* Image upload & move */

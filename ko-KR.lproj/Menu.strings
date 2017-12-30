@@ -37,7 +37,7 @@
 "Close" = "닫기";
 "Save" = "저장";
 "Save As" = "다른 이름으로 저장";
-"Duplicate" = "복제본 만들기";
+"Duplicate" = "복제";
 "Rename" = "이름 변경";
 "Move To" = "다음으로 이동";
 "Revert To" = "다음으로 복귀";
@@ -224,7 +224,7 @@
 "Copy / Paste As…" = "다음으로 복사/붙이기…";
 "Math" = "수식";
 "Insert" = "삽입";
-"Inspect Element" = "요소 점검";
+"Inspect Element" = "요소 검사";
 "Copy to MS Word" = "MS Word로 복사";
 "Paragraph (before)" = "본문 (뒷쪽)";
 "Paragraph (after)" = "본문 (앞쪽)";

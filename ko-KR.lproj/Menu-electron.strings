@@ -1,0 +1,14 @@
+/*
+  Menu.strings
+  Typora
+
+ by LAVILINCE
+*/
+
+/* Edit Menu */
+
+"Copy" = "복사";
+
+/* Window Menu */
+
+"Zoom" = "확대/축소";

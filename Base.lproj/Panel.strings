@@ -112,7 +112,7 @@
 "Print with default theme" = "Print with default theme";
 "Export to PDF successfully." = "Export to PDF successfully.";
 "Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
-"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.""
+"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Uploading Images via iPic...";

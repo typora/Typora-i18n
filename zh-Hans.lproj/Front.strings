@@ -13,10 +13,10 @@
 "Close" = "关闭";
 "Select" = "选择";
 "Continue" = "继续";
-"Learn More…" = "详细信息…";
+"Learn More…" = "了解更多…";
 "Untitled" = "未命名";
-"Dismiss" = "关闭";
 "Undo" = "撤销";
+"Dismiss" = "关闭";
 "Confirm" = "确认";
 "Error" = "错误";
 
@@ -24,12 +24,12 @@
 "Search" = "查找";
 "Repalce" = "替换";
 "All" = "全部";
-"Search text not found in article" = "查找内容未找到";
-"search text" = "输入查找内容";
+"Search text not found in article" = "未找到查找内容";
+"search text" = "查找内容";
 
 /* Quick Open */
 "Search by file name" = "按文件名查找";
-"Searching" = "搜索中";
+"Searching" = "查找中";
 "Gathering more results" = "正在加载更多结果";
 
 /* Tables */
@@ -39,12 +39,12 @@
 "Align Left" = "左对齐";
 "Align Center" = "居中对齐";
 "Align Right" = "右对齐";
-"Resize Table" = "修改表格";
+"Resize Table" = "调整表格";
 "Delete Table" = "删除表格";
 
 /* Images */
 "Copy Image To..." = "将图片拷贝到...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora正在尝试将新插入的图片拷贝到YAML Front Matter中指定的文件夹<code id='image-create-folder-target'></code>， 但目标目录不存在，是否创建该文件夹？";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typera试图拷贝新插入图片至YAMLFront Matter指定目录<code id='image-create-folder-target'></code>。但该目录不存在，是否创建？";
 "Create Folder" = "创建文件夹";
 
 /* Math */
@@ -61,13 +61,13 @@
 "Switch to Outline view" = "切换到大纲视图";
 "Close sidebar" = "关闭侧边栏";
 "Loading" = "加载中";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "文件过多，请切换到<a id='switch-to-tree-on-oversize'>文件树视图</a>。";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所选文件夹包含过多文件，请切换到<a id='switch-to-tree-on-oversize'>文件树视图</a>以获得更好的效果。";
 "New File" = "新建文件";
-"Unpin Outline Panel" = "取消大纲视图";
+"Unpin Outline Panel" = "关闭大纲视图";
 "Open Folder..." = "打开文件夹...";
 "Action" = "操作";
 "Close Sidebar Menu" = "关闭";
-"Reveal in Finder" = "在Finder中显示";
+"Reveal in Finder" = "在查找中显示";
 "Reveal in File Explorer" = "在资源管理器中显示";
 "Refresh Folder" = "刷新";
 "Sort" = "排序";
@@ -79,8 +79,8 @@
 "Location" = "目录";
 "Switch File List/Tree View" = "切换列表/树视图";
 "No Files Available" = "文件列表为空";
-"No Folder is Opened." = "没有打开的文件夹";
-"Outline is Empty." = "大纲内容为空";
+"No Folder is Opened." = "没有打开的文件夹。";
+"Outline is Empty." = "大纲内容为空。";
 
 /* Status Bar */
 "Toggle Sidebar" = "显示/隐藏侧边栏";
@@ -88,38 +88,38 @@
 "Exit Source Code Mode" = "关闭源代码模式";
 
 "Table of Contents" = "目录";
-"Empty Diagram" = "空";
-"Input Math TeX here" = "在这里输入TeX代码";
+"Empty Diagram" = "图表为空";
+"Input Math TeX here" = "在此处输入TeX代码";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "请使用语法 <a>[^{1}]: www.example.com</a> 定义脚注<b>{0}</b>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "请使用语法 <b>[{1}]: www.example.com</b>定义<b>[{0}]</b>的参考链接";
-"Please define image reference by \n[{0}]: http://example.png" = "请使用语法 [{0}]: http://example.png 定义图片地址";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "请按语法 <a>[^{1}]: www.example.com</a> 定义脚注<b>{0}</b>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "请按语法 <b>[{1}]: www.example.com</b>定义链接<b>[{0}]</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "请按语法 [{0}]: http://example.png 定义图片";
 
 /* msg */
 "Failed to create file" = "创建文件失败";
 "Failed to create folder" = "创建文件夹失败";
 "Failed to rename file" = "重命名文件失败";
-"Folder does not exist at %@" = "目录%@已存在";
-"File with the same name already exists at target path" = "指定路径已存在文件";
+"Folder does not exist at %@" = "目录%@不存在";
+"File with the same name already exists at target path" = "指定路径下文件已存在";
 "Apply to All" = "全部应用";
-"Overwrite" = "替换";
+"Overwrite" = "覆盖";
 "Stop" = "停止";
 "back to document" = "回到文档";
 "Failed to load file" = "加载文件失败";
 "Save File Failed!" = "保存文件失败!"
-"Cannot open folder {0}" = "打开文件夹 {0} 时出错";
+"Cannot open folder {0}" = "无法打开文件夹 {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "文件内容被外部程序更改，是否重新加载文件";
-"Should continue moving and overwrite exisiting file(s) ?" = "是否继续并替换原有文件?";
+"File content is changed by external applications. Reload content from disk ?" = "文件内容被外部程序更改，是否重新加载？";
+"Should continue moving and overwrite exisiting file(s) ?" = "是否继续移动并覆盖现有文件？";
 
 "Rename Failed" = "重命名失败";
-"Rename to \"{0}\" ?" = "重命名为 \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "从 \"{0}\" 重命名到 \"{1}\" 失败";
+"Rename to \"{0}\" ?" = "重命名为 \"{0}\"？";
+"Failed to rename from \"{0}\" to \"{1}\"" = "从 \"{0}\" 重命名至 \"{1}\" 失败";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "成功上传了{0}个图片";
-"Failed to upload image. Error Message:" = "上传图片出错， 错误信息:";
-"Failed to Copy Image to Target Folder." = "拷贝图片出错";
-"Select Container Folder" = "选择图片存储路径";
+"Successfully uploaded {0} images." = "成功上传{0}张图片。";
+"Failed to upload image. Error Message:" = "上传图片失败，错误信息：";
+"Failed to Copy Image to Target Folder." = "拷贝图片至目标目录失败。";
+"Select Container Folder" = "选择目标目录";
 
 "Saved" = "已保存";

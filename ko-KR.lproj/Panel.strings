@@ -48,7 +48,7 @@
 "Auto pair brackets and quotes" = "대괄호와 따옴표 자동 페어";
 "Auto pair common markdown syntax" = "일반적인 Markdown 문법 자동 페어";
 "Live Rendering" = "실시간 렌더링";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "선택시 심플 블록``(제목 포함, 기타.)의 소스 보이기";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "선택시 심플 블록``(제목 포함, 기타.)\n의 소스 보이기";
 "Default Copy Behavior" = "복사시 기본 동작";
 "Copy Markdown source as plain text" ="마크다운을 일반 텍스트로 복사";
 "Typewriter Mode" = "타자기 모드";
@@ -115,7 +115,7 @@
 "Print with default theme" = "기본 테마로 프린트";
 "Export to PDF successfully." = "PDF 내보내기 성공.";
 "Converting file using Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 변환합니다. 이 작업은 약간의 시간이 소요됩니다.";
-"Exporting file using Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 내보냅니다. 이 작업은 약간의 시간이 소요됩니다."
+"Exporting file using Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 내보냅니다. 이 작업은 약간의 시간이 소요됩니다.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "iPic으로 사진 업로드...";

@@ -10,7 +10,7 @@
 "About Typora" = "O programie";
 "Preferences" = "Preferencje";
 "Check for Updates" = "Sprawdź dostępność aktualizacji";
-"Services" = "Usługi;
+"Services" = "Usługi";
 "Hide Typora" = "Ukryj Typora";
 "Hide Others" = "Ukryj resztę";
 "Show All" = "Pokaż wszystko";
@@ -58,7 +58,7 @@
 "Select Line/Sentence" = "Zaznacz linijkę/zdanie";
 "Select Styled Scope" = "Zaznacz stylizowany zakres";
 "Select Word" = "Zaznacz słowo";
-"Delete" = "Usuń;
+"Delete" = "Usuń";
 "Delete Range" = "Usuń zaznaczenie";
 "Delete Word" = "Usuń słowo";
 "Delete Styled Scope" = "Usuń stylizowany zakres";
@@ -153,7 +153,7 @@
 "Typewriter Mode" = "Tryb pisarza";
 "Toggle Sidebar" = "Aktywuj panel boczny";
 "Outline" = "Zmniejsz wcięcie";
-"Articles" = "Notatki;
+"Articles" = "Notatki";
 "File Tree" = "Drzewo pliku";
 "Always on Top" = "Zawsze na wierzchu";
 "Full Screen" = "Pełny ekran";

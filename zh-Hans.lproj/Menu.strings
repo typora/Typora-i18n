@@ -2,7 +2,7 @@
  Menu.strings
  Typora
  
- by hi@typora.io
+ by hi@typora.io & Emphasia@github
  */
 
 /* Typora Menu */
@@ -175,7 +175,7 @@
 
 /* Help Menu */
 "Help" = "帮助";
-"Credits" = "Credits";
+"Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
 "Feedback" = "反馈";

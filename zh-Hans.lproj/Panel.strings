@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
  
- by hi@typora.io
+ by hi@typora.io & Emphasia@github
  */
 
 
@@ -86,13 +86,13 @@
 /* Panodc Import Panel */
 "Importing..." = "导入...";
 "Importing in progress..." = "正在导入...";
-"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍后";
+"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍候。";
 "Abort" = "中止";
 
 /* Panodc Export Panel */
 "Exporting..." = "导出...";
 "Exporting in progress..." = "正在导出...";
-"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍后";
+"Converting file with Pandoc. This may take some time." = "正在使用Pandoc转换文件，请稍候。";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安装Pandoc以导入这些文件";
@@ -164,7 +164,7 @@
 "This feature require macOS >= 10.11" = "此功能只支持macOS 10.11及以上版本";
 "One More Step" = "下一步";
 "Notice" = "注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "改功能需要安装最新版本的iPic， 本地图片会通过iPic上传至云端。 请注意iPic的默认云服务不支持图片的删除。";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的iPic， 本地图片会通过iPic上传至云端。 请注意iPic的默认云服务不支持图片的删除。";
 
 "%d Images Failed to Upload." = "%d个图片上传失败。";
 "%d Succeeded," = "%d个成功, ";
@@ -172,7 +172,7 @@
 "The option `%@` must be enabled first" = "请先开启选项`%@`";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会拷贝新的本地图片到目录 %@。 但该目录不存在，是否创建该目录？";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会拷贝新的本地图片到目录 %@。但该目录不存在，是否创建？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora会根据相对路径复制图片，所以请先保存文件到磁盘。";

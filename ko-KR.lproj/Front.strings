@@ -1,8 +1,11 @@
-/* 
+/*
   Front.strings
   Typora
 
  by hi@typora.io
+
+ Korean translation
+ by ryush00, LAVILINCE
 */
 
 /* Common */
@@ -98,7 +101,7 @@
 /* msg */
 "Failed to create file" = "파일 생성 실패";
 "Failed to create folder" = "폴더 생성 실패";
-"Failed to rename file" = "파일 이름 바꾸기 실패";
+"Failed to rename file" = "파일 이름 변경 실패";
 "Folder does not exist at %@" = "%@에 폴더가 존재하지 않습니다";
 "File with the same name already exists at target path" = "같은 이름의 파일이 해당 경로에 이미 존재합니다";
 "Apply to All" = "모두 적용";
@@ -112,9 +115,9 @@
 "File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";
 "Should continue moving and overwrite exisiting file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
 
-"Rename Failed" = "이름 바꾸기 실패";
+"Rename Failed" = "이름 변경 실패";
 "Rename to \"{0}\" ?" = "\"{0}\"(으)로 이름을 바꾸시겠습니까?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"(에)서 \"{1}\"(으)로 이름 바꾸기 실패";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"(에)서 \"{1}\"(으)로 이름 변경 실패";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "{0}개의 이미지를 성공적으로 업로드함.";

@@ -2,7 +2,7 @@
  Front.strings
  Typora
  
- by hi@typora.io
+ by hi@typora.io & Emphasia@github
  */
 
 /* Common */
@@ -44,7 +44,7 @@
 
 /* Images */
 "Copy Image To..." = "将图片拷贝到...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora试图拷贝新插入图片至YAML Front Matter中的指定目录<code id='image-create-folder-target'></code>， 但目标目录不存在，是否创建该文件夹？";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora试图拷贝新插入图片至YAML Front Matter中的指定目录<code id='image-create-folder-target'></code>，但目标目录不存在，是否创建？";
 "Create Folder" = "创建文件夹";
 
 /* Math */
@@ -92,8 +92,8 @@
 "Input Math TeX here" = "在此处输入TeX代码";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "请按语法 <a>[^{1}]: www.example.com</a> 定义脚注<b>{0}</b>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "请按语法 <b>[{1}]: www.example.com</b>定义参考链接<b>[{0}]</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "请按语法 [{0}]: http://example.png 定义图片路径";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "请按语法 <b>[{1}]: www.example.com</b>定义链接<b>[{0}]</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "请按语法 [{0}]: http://example.png 定义图片";
 
 /* msg */
 "Failed to create file" = "创建文件失败";

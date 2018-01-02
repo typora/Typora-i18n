@@ -1,0 +1,15 @@
+/*
+  Menu.strings
+  Typora
+
+ by LAVILINCE
+*/
+
+/* Edit Menu */
+
+"Copy" = "복사";
+"Check Document Now" = "지금 도큐멘트 확인";
+
+/* Window Menu */
+
+"Zoom" = "확대/축소";

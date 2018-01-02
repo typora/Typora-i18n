@@ -1,0 +1,237 @@
+/*
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+
+ Korean translation
+ by ryush00, LAVILINCE
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Typora에 관하여";
+"Preferences" = "환경설정";
+"Check for Updates" = "업데이트 확인";
+"Services" = "서비스";
+"Hide Typora" = "Typora 가리기";
+"Hide Others" = "기타 가리기";
+"Show All" = "모두 보기";
+"Quit Typora" = "Typora 종료";
+
+/* File Menu */
+
+"File" = "파일";
+"New" = "새로 만들기";
+"Open" = "열기";
+"Open Folder" = "폴더 열기";
+"Reopen with Encoding" = "인코딩 선택하고 다시 열기";
+"Auto" = "자동";
+"Open Recent" = "최근 파일";
+"Clear Items" = "항목 삭제";
+"No Recent Files" = "최근 파일 없음";
+"Open Quickly" = "빠른 열기";
+"Open File Location" = "파일 위치 열기";
+"Reveal in Library" = "라이브러리에서 열기";
+"Reveal in File Tree" = "파일 트리에서 열기";
+"Close" = "닫기";
+"Save" = "저장";
+"Save As" = "다른 이름으로 저장";
+"Duplicate" = "복제";
+"Rename" = "이름 변경";
+"Move To" = "다음으로 이동";
+"Revert To" = "다음으로 복귀";
+"Browse All Versions" = "모든 버전 보기";
+"Import" = "가져오기";
+"Export" = "내보내기";
+"Page Setup" = "페이지 설정";
+"Print" = "프린트";
+
+/* Edit Menu */
+"Edit" = "편집";
+"Undo" = "실행 취소";
+"Redo" = "실행 복귀";
+"Cut" = "오려두기";
+"Copy" = "복사하기";
+"Paste" = "붙이기";
+"Copy as Markdown" = "Markdown으로 복사";
+"Copy as HTML Code" = "HTML 코드로 복사";
+"Paste as Plain Text" = "일반 텍스트로 붙이기";
+"Select All" = "전체 선택";
+"Select Line/Sentence" = "줄/문장 선택";
+"Select Styled Scope" = "스타일 범위 선택";
+"Select Word" = "단어 선택";
+"Delete" = "삭제";
+"Delete Range" = "삭제 범위";
+"Delete Word" = "단어 삭제";
+"Delete Styled Scope" = "스타일 범위 삭제";
+"Delete Line/Sentence" = "줄/문장 삭제";
+"Jump To" = "이동";
+"Jump to Top" = "맨 위로 이동";
+"Jump to Selection" = "선택 부분으로 이동";
+"Jump to Bottom" = "맨 아래로 이동";
+"Math Tools" = "수식 도구";
+"Refresh All Math Expressions" = "모든 수식 표현 새로고침";
+"Image Tools" = "이미지 도구";
+"Insert Local Images" = "로컬 이미지 삽입";
+"Upload Local Images via iPic" = "iPic으로 로컬 이미지 업로드";
+"When Insert Local Image" = "로컬 이미지 삽입 설정";
+"Copy Image File to Folder" = "폴더로 이미지 복사";
+"Upload Image via iPic" = "iPic으로 이미지 업로드";
+"Use Image Root Path" = "루트 경로의 이미지 사용";
+"Line Endings" = "개행 문자";
+"Windows Line Endings (CRLF)" = "Windows 개행 문자 (CRLF)";
+"Unix Line Endings (LF)" = "Unix 개행 문자 (LF)";
+"Find" = "찾기";
+"Find" = "찾기";
+"Find Next" = "다음 찾기";
+"Find Previous" = "이전 찾기";
+"Find and Replace" = "찾기 및 대치";
+"Replace" = "대치";
+"Replace Next" = "다음 대치";
+"Spelling and Grammar" = "맞춤법 및 문법";
+"Check Document Now" = "지금 도큐멘트 검사";
+"Check Spelling While Typing" = "입력하는 동안 맞춤법 검사";
+"Check Grammar With Spelling" = "맞춤법 및 문법 검사";
+"Correct Spelling Automatically" = "맞춤법 자동 수정";
+"Substitutions" = "대체 보기";
+"Smart Quotes" = "스마트 인용";
+"Smart Dashes" = "스마트 대시";
+"Text Replacement" = "텍스트 대치";
+"Speech" = "말하기";
+"Start Speaking" = "말하기 시작";
+"Stop Speaking" = "말하기 중단";
+
+/* Paragraph Menu */
+"Paragraph" = "본문";
+"Heading 1" = "제목 1";
+"Heading 2" = "제목 2";
+"Heading 3" = "제목 3";
+"Heading 4" = "제목 4";
+"Heading 5" = "제목 5";
+"Heading 6" = "제목 6";
+"Increase Heading Level" = "제목 수준 올리기";
+"Decrease Heading Level" = "제목 수준 낮추기";
+"Table" = "표";
+"Code Fences" = "코드 펜스";
+"Math Block" = "수식 블록";
+"Quote" = "인용구";
+"Ordered List" = "순서가 있는 목록";
+"Unordered List" = "순서가 없는 목록";
+"Task List" = "작업 목록";
+"Task Status" = "작업 상태";
+"Toggle Task Status" = "작업 상태 토글";
+"Mark as Complete" = "완료된 것으로 표시";
+"Mark as Incomplete" = "완료되지 않은 것으로 표시";
+"List Indentation" = "들여쓰기 수준";
+"Indent" = "들여쓰기";
+"Outdent" = "내어쓰기";
+"Link Reference" = "링크";
+"Footnotes" = "각주";
+"Horizontal Line" = "수평선";
+"Table of Contents" = "목차";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "서식";
+"Strong" = "굵게";
+"Emphasis" = "기울이기";
+"Underline" = "밑줄";
+"Code" = "코드";
+"Inline Math" = "인라인 수식";
+"Strike" = "취소선";
+"Highlight" = "강조";
+"Superscript" = "위 첨자";
+"Subscript" = "아래 첨자";
+"Comment" = "주석";
+"Hyperlink" = "하이퍼링크";
+"Image" = "이미지";
+"Clear Format" = "서식 삭제";
+
+/* View Menu */
+"View" = "보기";
+"New Tab" = "새 탭";
+"Source Code Mode" = "소스 코드 모드";
+"Focus Mode" = "포커스 모드";
+"Typewriter Mode" = "타자기 모드";
+"Toggle Sidebar" = "사이드바 토글";
+"Outline" = "개략";
+"Articles" = "문서";
+"File Tree" = "파일 트리";
+"Always on Top" = "항상 위에";
+"Full Screen" = "전체 화면";
+"Show Status Bar" = "상태바 토글";
+"Toggle Fullscreen" = "전체 화면 토글";
+"Actual Size" = "실제 크기";
+"Zoom In" = "확대";
+"Zoom Out" = "축소";
+"Switch Between Opened Documents" = "열린 문서 전환";
+"Toggle DevTools" = "개발자 도구 토글";
+
+
+/* Themes Menu */
+"Themes" = "테마";
+
+/* Window Menu */
+"Window" = "윈도우";
+"Minimize" = "최소화";
+"Zoom" = "확대\/축소";
+"Bring All to Front" = "모두 앞으로 가져오기";
+
+/* Help Menu */
+"Help" = "도움말";
+"Credits" = "크레딧";
+"Change Log" = "변경 사항";
+"Website" = "웹사이트";
+"Feedback" = "피드백 보내기";
+"About" = "정보";
+
+/* Touchbar */
+"Block Styles" = "블록 스타일";
+"Inline Styles" = "인라인 스타일";
+"List Styles / Remove Block" = "스타일 목록 / 블록 제거";
+"Exit Source Code Mode" = "소스 코드 모드 종료";
+"Toggle Source Code Mode" = "소스 코드 모드 토글";
+
+/* Extra Context Menu */
+"Table" = "표";
+"Insert Row Before" = "뒷쪽에 행 삽입";
+"Append Row After" = "앞쪽에 행 삽입";
+"Delete Row" = "행 삭제";
+"Insert Column Before" = "뒷쪽에 열 삽입";
+"Append Column After" = "앞쪽에 열 삽입";
+"Delete Column" = "열 삭제";
+"Copy Table" = "표 복사";
+"Delete Table" = "표 삭제";
+"Insert Paragraph After" = "앞에 본문 삽입";
+"Insert Paragraph Before" = "뒤에 본문 삽입";
+"Delete Code Block" = "코드 블록 삭제";
+"Copy as MathML" = "MathML로 복사";
+"Copy as Tex" = "Tex로 복사";
+"Copy Math" = "수식 복사";
+"Reveal in Finder" = "Finder에서 열기";
+"Open Link" = "링크 열기";
+"Reveal in Sidebar" = "사이드바에서 열기";
+"Open in New Window" = "새 윈도우에서 열기";
+"Copy File Path" = "파일 경로 복사";
+"New File" = "새 파일";
+"Rename" = "이름 변경";
+"New Folder" = "새 폴더";
+"Move to Trash" = "휴지통으로 이동";
+
+/* Electron */
+"Learn Seplling" = "맞춤법 학습";
+"Copy / Paste As…" = "다음으로 복사/붙이기…";
+"Math" = "수식";
+"Insert" = "삽입";
+"Inspect Element" = "요소 검사";
+"Copy to MS Word" = "MS Word로 복사";
+"Paragraph (before)" = "본문 (뒷쪽)";
+"Paragraph (after)" = "본문 (앞쪽)";
+
+"Search with Google" = "Google로 검색";
+"Search With…" = "다음으로 검색…";
+
+/* Related Panel */
+"Open Failed" = "열기 실패";
+"File or folder does not exist." = "파일이나 폴더가 존재하지 않습니다.";

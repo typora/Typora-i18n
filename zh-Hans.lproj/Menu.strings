@@ -2,7 +2,7 @@
  Menu.strings
  Typora
  
- by hi@typora.io
+ by hi@typora.io & Emphasia@github
  */
 
 /* Typora Menu */
@@ -24,8 +24,8 @@
 "Open Folder" = "打开文件夹"; 
 "Reopen with Encoding" = "选择编码重新打开";  
 "Auto" = "自动";
-"Open Recent" = "打开最近使用";
-"Clear Items" = "清除最近使用";
+"Open Recent" = "打开最近文件";
+"Clear Items" = "清除最近文件";
 "No Recent Files" = "空";
 "Open Quickly" = "快速打开";
 "Open File Location" = "打开文件位置";
@@ -55,14 +55,14 @@
 "Copy as HTML Code" = "复制为HTML代码";
 "Paste as Plain Text" = "粘贴为纯文本";
 "Select All" = "全选";
-"Select Line/Sentence" = "选中当前行/句子";
+"Select Line/Sentence" = "选中当前行/句";
 "Select Styled Scope" = "选中当前格式文本";
-"Select Word" = "选中当前单词";
+"Select Word" = "选中当前词";
 "Delete" = "删除";
 "Delete Range" = "删除范围";
-"Delete Word" = "删除当前单词";
+"Delete Word" = "删除当前词";
 "Delete Styled Scope" = "删除当前格式文本";
-"Delete Line/Sentence" = "删除当前行/句子";
+"Delete Line/Sentence" = "删除当前行/句";
 "Jump To" = "跳转到";
 "Jump to Top" = "跳转到文首";
 "Jump to Selection" = "跳转到所选内容";
@@ -75,7 +75,7 @@
 "When Insert Local Image" = "当插入本地图片时";
 "Copy Image File to Folder" = "拷贝到文件夹";
 "Upload Image via iPic" = "使用iPic上传";
-"Use Image Root Path" = "设置图片根路径";
+"Use Image Root Path" = "设置图片根目录";
 "Line Endings" = "换行符";
 "Windows Line Endings (CRLF)" = "Windows换行符 (CRLF)";
 "Unix Line Endings (LF)" = "Unix换行符 (LF)";
@@ -106,22 +106,22 @@
 "Heading 4" = "四级标题";
 "Heading 5" = "五级标题";
 "Heading 6" = "六级标题";
-"Increase Heading Level" = "增大题号";
-"Decrease Heading Level" = "减小题号";
+"Increase Heading Level" = "增大标题级别";
+"Decrease Heading Level" = "减小标题级别";
 "Table" = "表格";
 "Code Fences" = "代码块";
 "Math Block" = "公式块";
 "Quote" = "引用";
 "Ordered List" = "有序列表";
 "Unordered List" = "无序列表";
-"Task List" = "Task列表";
-"Task Status" = "Task完成状态";
-"Toggle Task Status" = "切换Task完成状态";
+"Task List" = "任务列表";
+"Task Status" = "任务状态";
+"Toggle Task Status" = "切换任务状态";
 "Mark as Complete" = "标记为已完成";
 "Mark as Incomplete" = "标记为未完成";
 "List Indentation" = "列表缩进";
-"Indent" = "增加缩进一级";
-"Outdent" = "减少缩进一级";
+"Indent" = "增加缩进";
+"Outdent" = "减少缩进";
 "Link Reference" = "参考连接";
 "Footnotes" = "脚注";
 "Horizontal Line" = "水平分割线";
@@ -156,7 +156,7 @@
 "File Tree" = "文件树视图";
 "Always on Top" = "保持窗口在最前端";
 "Full Screen" = "全屏";
-"Toggle Fullscreen" = "全屏切换"; 
+"Toggle Fullscreen" = "切换全屏"; 
 "Show Status Bar" = "显示状态栏";
 "Actual Size" = "实际大小"; 
 "Zoom In" = "放大"; 
@@ -170,29 +170,29 @@
 /* Window Menu */
 "Window" = "窗口";
 "Minimize" = "最小化";
-"Zoom" = "缩放"; // maximize on macOS
+"Zoom" = "缩放";
 "Bring All to Front" = "前置全部窗口";
 
 /* Help Menu */
 "Help" = "帮助";
-"Credits" = "Credits";
-"Change Log" = "Change Log";
-"Website" = "网站首页";
+"Credits" = "鸣谢";
+"Change Log" = "更新日志";
+"Website" = "网站";
 "Feedback" = "反馈";
 "About" = "关于";
 
 /* Extra Context Menu */
 "Table" = "表格";
-"Insert Row Before" = "上方插入一行";
-"Append Row After" = "下方插入一行";
+"Insert Row Before" = "上方插入行";
+"Append Row After" = "下方插入行";
 "Delete Row" = "删除行";
-"Insert Column Before" = "左边插入一列";
-"Append Column After" = "右边插入一列";
+"Insert Column Before" = "左边插入列";
+"Append Column After" = "右边插入列";
 "Delete Column" = "删除列";
 "Copy Table" = "复制表格";
 "Delete Table" = "删除表格";
-"Insert Paragraph After" = "下方插入新段落";
-"Insert Paragraph Before" = "上方插入新段落";
+"Insert Paragraph After" = "下方插入段落";
+"Insert Paragraph Before" = "上方插入段落";
 "Delete Code Block" = "删除代码块";
 "Copy as MathML" = "复制MathML";
 "Copy as Tex" = "复制Tex代码";
@@ -208,8 +208,8 @@
 "Move to Trash" = "移到回收站";
 
 /* Electron */
-"Learn Seplling" = "添加到字典中";
-"Copy / Paste As…" = "复制 / 粘贴为…";
+"Learn Seplling" = "添加到字典";
+"Copy / Paste As…" = "复制/粘贴为…";
 "Math" = "公式";
 "Insert" = "插入";
 "Inspect Element" = "检查元素";

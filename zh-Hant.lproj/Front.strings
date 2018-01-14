@@ -22,7 +22,7 @@
 
 /* Search Panel */
 "Search" = "搜尋";
-"Repalce" = "取代";
+"Replace" = "取代";
 "All" = "全部";
 "Search text not found in article" = "在文章中搜尋不到該字串";
 "search text" = "搜尋字串";

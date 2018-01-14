@@ -35,14 +35,14 @@
 /* Editor Panel */
 "Editor" = "编辑器";
 "Indent Size on Save" = "默认缩进";
-"only apply for quotes and lists created from menubar or hybrid view" = "只对通过菜单栏或快捷键生成的引用和列表有效";
+"only apply for quotes and lists created from menubar or hybrid view" = "(只对通过菜单栏或快捷键生成的引用和列表有效)";
 "Trigger Autocomplete without ESC key for" = "触发自动完成";
 "Emoji (e.g. :smile:)" = "Emoji表情 （例 :smile:）";
 "Images Insert" = "图片插入";
 "Use relative path if possible" = "优先使用相对路径";
 "Allow copy images to given folder" = "允许复制图片到指定文件夹";
 "Allow upload to given server" = "允许向指定服务器上传图片";
-"Auto Pair" = "自动匹配";
+"Auto Pair" = "使用成对的符号";
 "Auto pair brackets and quotes" = "匹配括号和引号";
 "Auto pair common markdown syntax" = "匹配Markdown字符";
 "Live Rendering" = "即时渲染";
@@ -55,15 +55,15 @@
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(下面选项需要重启Typora后应用)";
-"Syntax Support" = "Markdown扩展语法支持";
+"Syntax Support" = "Markdown扩展语法";
 "Inline Math  ( e.g: $\LaTeX$ )" = "内联公式  （例: $\LaTeX$）";
 "Subscript    ( e.g: H~2~O )" = "下标      （例: H~2~O）";
 "Superscript ( e.g: X^2^ )" = "上标       （例: X^2^ ）";
 "Highlight     (e.g: ==key==)" = "高亮       （例: ==key==）";
 "Diagrams" = "图表";
 "(Sequence, Flowchart and Mermaid)" = "（序列图, 流程图 和 Mermaid）";
-"Syntax Preference" = "Markdown语法偏好设置";
-"(only apply for styles created from menubar or hybrid view)" = "（只应用于通过菜单或快捷键生成的样式）";
+"Syntax Preference" = "Markdown语法偏好";
+"(only apply for styles created from menubar or hybrid view)" = "(只应用于通过菜单或快捷键生成的样式)";
 "Strict Mode" = "严格模式";
 "(more strict to GFM spec)" = "（更严格地遵循GFM标准）";
 "Heading Style" = "标题样式";

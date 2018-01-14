@@ -112,7 +112,7 @@
 "Print with default theme" = "以預設佈景主題列印";
 "Export to PDF successfully." = "成功輸出為 PDF 檔";
 "Converting file using Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
-"Exporting file using Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。"
+"Exporting file using Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "使用 iPic 上傳圖片...";

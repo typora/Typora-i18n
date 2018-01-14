@@ -110,7 +110,7 @@
 "Increase Heading Level" = "上提大標層級";
 "Decrease Heading Level" = "下降大標層級";
 "Table" = "表格";
-"Code Fences" = "Code Fences";
+"Code Fences" = "原始碼區塊";
 "Math Block" = "公式區塊";
 "Quote" = "引言";
 "Ordered List" = "已排序清單";
@@ -126,7 +126,7 @@
 "Link Reference" = "參照連結";
 "Footnotes" = "底標";
 "Horizontal Line" = "水平線";
-"Table of Contents" = "目錄Table of Contents";
+"Table of Contents" = "目錄";
 "YAML Front Matter" = "YAML Front Matter";
 
 /* Format Menu */
@@ -146,7 +146,7 @@
 "Clear Format" = "清除格式";
 
 /* View Menu */
-"View" = "View";
+"View" = "顯示方式";
 "New Tab" = "新增頁籤";
 "Source Code Mode" = "原始碼模式";
 "Focus Mode" = "專注模式";

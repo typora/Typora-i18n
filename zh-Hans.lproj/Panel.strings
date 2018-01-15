@@ -109,7 +109,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "是否保存更改 ?<br> 如果选择不保存，您的更改会消失。";
 "[Warning] Failed to attach bookmark for PDF file." = "[警告] 为PDF添加目录失败";
 "Dark Theme not support" = "深色主题不支持";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本不支持导出PDF时打印背景颜色，所以PDF导出不支持深色主题。 \n请重新选择浅色主题或点击 \"使用默认主题打印\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本不支持导出PDF时打印背景颜色，所以PDF导出不支持深色主题。 \n请重新选择浅色主题或点击 \"使用默认主题打印\"";
 "Print with default theme" = "使用默认主题打印";
 "Export to PDF successfully." = "导出PDF成功";
 "Converting file using Pandoc. This may take some time." = "使用Pandoc转换中，请稍候。";
@@ -203,5 +203,5 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "拷贝内容";

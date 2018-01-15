@@ -109,7 +109,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Chcesz zapisać zmiany dokonane w tym dokumencie?<br> Twoje zmiany zostaną bezpowrotnie utracone jeśli ich nie zapiszesz.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Ostrzeżenie] Nie powiodło się dołączanie zakładki dla pliku PDF.";
 "Dark Theme not support" = "Ciemny motyw nie jest wspierany";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Przepraszamy, aktualna wersja programu Typora nie wspiera jeszcze eksportowania PDF z czarnym motywem. \nProszę wybrać jasny motyw lub nacisnąć \"Drukuj z domyślnym motywem";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Przepraszamy, aktualna wersja programu Typora nie wspiera jeszcze eksportowania PDF z czarnym motywem. \nProszę wybrać jasny motyw lub nacisnąć \"Drukuj z domyślnym motywem";
 "Print with default theme" = "Drukuj z domyślnym motywem";
 "Export to PDF successfully." = "Eksportowanie do PDF powiodło się.";
 "Converting file using Pandoc. This may take some time." = "Konwertuję plik przy użyciu Pandoc. To może zająć trochę czasu.";
@@ -202,6 +202,5 @@
 "More Formats" = "Więcej formatów";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formaty plików w sekcjach 'Więcej formatów' potrzebują <a class='open-pandoc-guide'>zainstalowanego Pandoc</a>.";
 "Something is Wrong…" = "Coś poszło nie tak…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Zapisanie zawartości nie powiodło się z jakiegoś powodu.<br/>Skopiuj zawartość do nowego okna Typora, a następnie zapisz. <br/>Dowiedz się więcej:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Zgłoś błędy tutaj: us</a></li><li><a href='http://support.typora.io/Version-Control//'>Przywróć utraconą zawartość</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Zapisanie zawartości nie powiodło się z jakiegoś powodu.<br/>Skopiuj zawartość do nowego okna Typora, a następnie zapisz. <br/>Dowiedz się więcej:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Zgłoś błędy tutaj: us</a></li><li><a href='http://support.typora.io/Version-Control//'>Przywróć utraconą zawartość</a></li></ul>";
 "Copy Content" = "Kopiuj zawartość";
-

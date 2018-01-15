@@ -82,13 +82,13 @@
 "Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
 "Cancel" = "Cancel";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "Importing...";
 "Importing in progress..." = "Importing in progress...";
 "Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
 "Abort" = "Abort";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "Exporting...";
 "Exporting in progress..." = "Exporting in progress...";
 "Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";

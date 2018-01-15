@@ -83,13 +83,13 @@
 "Follow instructions to install Pandoc" = "Postępuj zgodnie z instrukcją, by zainstalować Pandoc";
 "Cancel" = "Anuluj";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "Importowanie...";
 "Importing in progress..." = "Importowanie w toku...";
 "Converting file with Pandoc. This may take some time." = "Konwertowanie pliku przy użyciu Pandoc. To może zająć trochę czasu.";
 "Abort" = "Przerwij";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "Eksportowanie...";
 "Exporting in progress..." = "Eksportowanie w toku...";
 "Converting file with Pandoc. This may take some time." = "Konwertowanie pliku przy użyciu Pandoc. To może zająć trochę czasu.";

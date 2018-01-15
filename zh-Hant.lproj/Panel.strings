@@ -82,13 +82,13 @@
 "Follow instructions to install Pandoc" = "遵照指示來安裝 Pandoc";
 "Cancel" = "取消";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "匯入...";
 "Importing in progress..." = "正在匯入...";
 "Converting file with Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
 "Abort" = "終止";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "匯出...";
 "Exporting in progress..." = "正在匯出...";
 "Converting file with Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";

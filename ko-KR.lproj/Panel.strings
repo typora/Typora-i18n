@@ -85,13 +85,13 @@
 "Follow instructions to install Pandoc" = "지시에 따라 Pandoc를 설치하세요";
 "Cancel" = "취소";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "가져오기...";
 "Importing in progress..." = "가져오기 작업 중...";
 "Converting file with Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 변환합니다. 이 작업은 약간의 시간이 소요됩니다.";
 "Abort" = "중단";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "내보내기...";
 "Exporting in progress..." = "내보내기 작업 중...";
 "Converting file with Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 변환합니다. 이 작업은 약간의 시간이 소요됩니다.";

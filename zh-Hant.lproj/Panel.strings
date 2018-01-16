@@ -82,13 +82,13 @@
 "Follow instructions to install Pandoc" = "遵照指示來安裝 Pandoc";
 "Cancel" = "取消";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "匯入...";
 "Importing in progress..." = "正在匯入...";
 "Converting file with Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
 "Abort" = "終止";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "匯出...";
 "Exporting in progress..." = "正在匯出...";
 "Converting file with Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
@@ -108,7 +108,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "要儲存變更到此文件嗎？<br> 若不儲存你的變更將遺失。";
 "[Warning] Failed to attach bookmark for PDF file." = "[警告] 無法添加書籤至 PDF 檔";
 "Dark Theme not support" = "深色佈景不支援";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，此Typora版本無法列印背景色至輸出的PDF檔，因此深色佈景主題不支援PDF輸出。 \n請選擇淺色佈景主題或選擇 \"以預設佈景主題列印\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，此Typora版本無法列印背景色至輸出的PDF檔，因此深色佈景主題不支援PDF輸出。 \n請選擇淺色佈景主題或選擇 \"以預設佈景主題列印\"";
 "Print with default theme" = "以預設佈景主題列印";
 "Export to PDF successfully." = "成功輸出為 PDF 檔";
 "Converting file using Pandoc. This may take some time." = "使用 Pandoc 轉換檔案。這會花點時間。";
@@ -201,6 +201,5 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "使用在'更多格式'中的檔案格式需要 <a class='open-pandoc-guide'>先安裝 Pandoc </a>.";
 "Something is Wrong…" = "出錯了...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個Typora視窗再儲存它。<br/>學習如何回報臭蟲:<ul><li><a href='http://support.typora.io/Report-Bugs/'>回報臭蟲給我們</a></li><li><a href='http://support.typora.io/Version-Control//'>回覆遺失內容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個Typora視窗再儲存它。<br/>學習如何回報臭蟲:<ul><li><a href='http://support.typora.io/Report-Bugs/'>回報臭蟲給我們</a></li><li><a href='http://support.typora.io/Version-Control//'>回覆遺失內容</a></li></ul>";
 "Copy Content" = "複製內容";
-

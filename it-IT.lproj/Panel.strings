@@ -33,19 +33,19 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Indentazione al salvataggio";
+"Indent Size on Save" = "Indentazione";
 "only apply for quotes and lists created from menubar or hybrid view" = "applica solo a citazioni e liste create dal menu o in visualizzazione ibrida";
 "Trigger Autocomplete without ESC key for" = "Autocompletamento senza usare il tasto ESC";
 "Emoji (e.g. :smile:)" = "Emoji (i.e. :smile:)";
 "Images Insert" = "Inserimento immagini";
 "Use relative path if possible" = "Usa percorso relativo se possibile";
 "Allow copy images to given folder" = "Consenti copia delle immagini su cartella";
-"Allow upload to given server" = "Consenti caricamento delle immagini su server";
+"Allow upload to given server" = "Consenti caricamento delle immagini su\nserver";
 "Auto Pair" = "Autocompletamento";
-"Auto pair brackets and quotes" = "Completa automaticamente parentesi e virgolette";
-"Auto pair common markdown syntax" = "Completa automaticamente regole Markdown comuni";
+"Auto pair brackets and quotes" = "Completa automaticamente parentesi\ne virgolette";
+"Auto pair common markdown syntax" = "Completa automaticamente regole\nMarkdown comuni";
 "Live Rendering" = "Rendering Live";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostra sorgente dei blocchi di codice semplici\n(come i titoli, ecc.) quando sono selezionati";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostra sorgente dei blocchi di codice\nsemplici quando sono selezionati";
 "Default Copy Behavior" = "Copia predefinita";
 "Copy Markdown source as plain text" = "Copia codice Markdown come testo semplice";
 "Typewriter Mode" = "Modalità Typewriter";
@@ -108,7 +108,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Salvare le modifiche al documento corrente ?<br> Se non salvi adesso tutte le modifiche andranno perse.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Attenzione] Impossibile allegare il segnalibro al file PDF.";
 "Dark Theme not support" = "Tema scuro non supportato";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Siamo spiacenti, la versione attuale di Typora non permette di usare il colore di sfondo nei file PDF, per questo motivo il tema scuro non è ancora supportato per l'esportazione in PDF. \n scegli il tema chiaro o clicca su \"Stampa con tema predefinito\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Siamo spiacenti, la versione attuale di Typora non permette di usare il colore di sfondo nei file PDF, per questo motivo il tema scuro non è ancora supportato per l'esportazione in PDF. \n scegli il tema chiaro o clicca su \"Stampa con tema predefinito\"";
 "Print with default theme" = "Stampa con tema predefinito";
 "Export to PDF successfully." = "Esportazione in PDF completata.";
 "Converting file using Pandoc. This may take some time." = "Conversione file con Pandoc. Si prega di attendere.";

@@ -1,0 +1,125 @@
+/*
+  Front.strings
+  Typora
+
+ by hi@typora.io and hello@mordinateur.com
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Annuler";
+"Yes" = "Oui";
+"No" = "Non";
+"Close" = "Fermer";
+"Select" = "Sélectionner";
+"Continue" = "Continuer";
+"Learn More…" = "En savoir plus…";
+"Untitled" = "Sans titre";
+"Undo" = "Annuler";
+"Dismiss" = "Effacer";
+"Confirm" = "Confirmer";
+"Error" = "Erreur";
+
+/* Search Panel */
+"Search" = "Rechercher";
+"Replace" = "Remplacer";
+"All" = "Tout";
+"Search text not found in article" = "Texte de la recherche introuvable dans l'article";
+"search text" = "texte de la recherche";
+
+/* Quick Open */
+"Search by file name" = "Rechercher par nom de fichier";
+"Searching" = "Recherche en cours";
+"Gathering more results" = "Recueil de plus de résultats en cours";
+
+/* Tables */
+"Insert Table" = "Insérer Tableau";
+"Columns" = "Colonnes";
+"Rows" = "Lignes";
+"Align Left" = "Aligner à Gauche";
+"Align Center" = "Align au Centre";
+"Align Right" = "Align à Droite";
+"Resize Table" = "Redimensioner Tableau";
+"Delete Table" = "Effacer Tableau";
+
+/* Images */
+"Copy Image To..." = "Copier l'image vers...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora essaie de copier l'image qui vient d'être insérée vers le dossier <code id='image-create-folder-target'></code> en accord avec vos paramètres de YAML. Mais le dossier cible n'existe pas, faut-il le créer maintenant?";
+"Create Folder" = "Créer Dossier";
+
+/* Math */
+"Edit" = "Editer";
+"Delete Math" = "Supprimer Maths";
+"Preview" = "Prévisualiser";
+
+/* Sidebar */
+"Articles" = "Articles";
+"Outline" = "Plan";
+"Files" = "Fichiers";
+"Switch to File List view" = "Basculer sur la vue Liste des Fichiers";
+"Switch to File Tree view" = "Basculer sur la vue Arborescence des Fichiers";
+"Switch to Outline view" = "Basculer sur la vue Plan";
+"Close sidebar" = "Fermer barre latérale";
+"Loading" = "Chargement";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les dossiers sélectionnés contiennent trop de fichiers. \nVeuillez basculer sur la <a id='switch-to-tree-on-oversize'>vue Arborescence</a> pour des performance améliorées.";
+"New File" = "New File";
+"Unpin Outline Panel" = "Unpin Outline Panel";
+"Open Folder..." = "Open Folder...";
+"Action" = "Action";
+"Close Sidebar Menu" = "Close Sidebar Menu";
+"Reveal in Finder" = "Reveal in Finder";
+"Reveal in File Explorer" = "Reveal in File Explorer";
+"Refresh Folder" = "Refresh Folder";
+"Sort" = "Sort";
+"Group By Folder" = "Group By Folder";
+"Sort Naturally" = "Sort Naturally";
+"Sort by Name" = "Sort by Name";
+"Sort by Modification Date" = "Sort by Modification Date";
+"Recent Locations" = "Recent Locations";
+"Location" = "Location";
+"Switch File List/Tree View" = "Switch File List/Tree View";
+"No Files Available" = "No Files Available";
+"No Folder is Opened." = "No Folder is Opened.";
+"Outline is Empty." = "Outline is Empty.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Toggle Sidebar";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+
+"Table of Contents" = "Table of Contents";
+"Empty Diagram" = "Empty Diagram";
+"Input Math TeX here" = "Input Math TeX here";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Failed to create file";
+"Failed to create folder" = "Failed to create folder";
+"Failed to rename file" = "Failed to rename file";
+"Folder does not exist at %@" = "Folder does not exist at %@";
+"File with the same name already exists at target path" = "File with the same name already exists at target path";
+"Apply to All" = "Apply to All";
+"Overwrite" = "Overwrite";
+"Stop" = "Stop";
+"back to document" = "back to document";
+"Failed to load file" = "Failed to load file";
+"Save File Failed!" = "Save File Failed!"
+"Cannot open folder {0}" = "Cannot open folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+
+"Rename Failed" = "Rename Failed";
+"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
+"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
+"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
+"Select Container Folder" = "Select Container Folder";
+
+"Saved" = "Saved";

@@ -1,0 +1,233 @@
+/*
+  Menu.strings
+  Typora
+
+ by hi@typora.io and hello@mordinateur.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "About Typora";
+"Preferences" = "Preference";
+"Check for Updates" = "Check for Updates";
+"Services" = "Services";
+"Hide Typora" = "Hide Typora";
+"Hide Others" = "Hide Others";
+"Show All" = "Show All";
+"Quit Typora" = "Quit Typora";
+
+/* File Menu */
+
+"File" = "File";
+"New" = "New";
+"Open" = "Open";
+"Open Folder" = "Open Folder";
+"Reopen with Encoding" = "Reopen with Encoding";
+"Auto" = "Auto";
+"Open Recent" = "Open Recent";
+"Clear Items" = "Clear Items";
+"No Recent Files" = "No Recent Files";
+"Open Quickly" = "Open Quickly";
+"Open File Location" = "Open File Location";
+"Reveal in Library" = "Reveal in Library";
+"Reveal in File Tree" = "Reveal in File Tree";
+"Close" = "Close";
+"Save" = "Save";
+"Save As" = "Save As";
+"Duplicate" = "Duplicate";
+"Rename" = "Rename";
+"Move To" = "Move To";
+"Revert To" = "Revert To";
+"Browse All Versions" = "Browse All Versions";
+"Import" = "Import";
+"Export" = "Export";
+"Page Setup" = "Page Setup";
+"Print" = "Print";
+
+/* Edit Menu */
+"Edit" = "Edit";
+"Undo" = "Undo";
+"Redo" = "Redo";
+"Cut" = "Cut";
+"Copy" = "Copy";
+"Paste" = "Paste";
+"Copy as Markdown" = "Copy as Markdown";
+"Copy as HTML Code" = "Copy as HTML Code";
+"Paste as Plain Text" = "Paste as Plain Text";
+"Select All" = "Select All";
+"Select Line/Sentence" = "Select Line/Sentence";
+"Select Styled Scope" = "Select Styled Scope";
+"Select Word" = "Select Word";
+"Delete" = "Delete";
+"Delete Range" = "Delete Range";
+"Delete Word" = "Delete Word";
+"Delete Styled Scope" = "Delete Styled Scope";
+"Delete Line/Sentence" = "Delete Line/Sentence";
+"Jump To" = "Jump To";
+"Jump to Top" = "Jump to Top";
+"Jump to Selection" = "Jump to Selection";
+"Jump to Bottom" = "Jump to Bottom";
+"Math Tools" = "Math Tools";
+"Refresh All Math Expressions" = "Refresh All Math Expressions";
+"Image Tools" = "Image Tools";
+"Insert Local Images" = "Insert Local Images";
+"Upload Local Images via iPic" = "Upload Local Images via iPic";
+"When Insert Local Image" = "When Insert Local Image";
+"Copy Image File to Folder" = "Copy Image File to Folder";
+"Upload Image via iPic" = "Upload Image via iPic";
+"Use Image Root Path" = "Use Image Root Path";
+"Line Endings" = "Line Endings";
+"Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
+"Unix Line Endings (LF)" = "Unix Line Endings (LF)";
+"Find" = "Find";
+"Find Next" = "Find Next";
+"Find Previous" = "Find Previous";
+"Find and Replace" = "Find and Replace";
+"Replace" = "Replace";
+"Replace Next" = "Replace Next";
+"Spelling and Grammar" = "Spelling and Grammar";
+"Check Document Now" = "Check Document Now";
+"Check Spelling While Typing" = "Check Spelling While Typing";
+"Check Grammar With Spelling" = "Check Grammar With Spelling";
+"Correct Spelling Automatically" = "Correct Spelling Automatically";
+"Substitutions" = "Substitutions";
+"Smart Quotes" = "Smart Quotes";
+"Smart Dashes" = "Smart Dashes";
+"Text Replacement" = "Text Replacement";
+"Speech" = "Speech";
+"Start Speaking" = "Start Speech";
+"Stop Speaking" = "Stop Speech";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraph";
+"Heading 1" = "Heading 1";
+"Heading 2" = "Heading 2";
+"Heading 3" = "Heading 3";
+"Heading 4" = "Heading 4";
+"Heading 5" = "Heading 5";
+"Heading 6" = "Heading 6";
+"Increase Heading Level" = "Increase Heading Level";
+"Decrease Heading Level" = "Decrease Heading Level";
+"Table" = "Table";
+"Code Fences" = "Code Fences";
+"Math Block" = "Math Block";
+"Quote" = "Quote";
+"Ordered List" = "Ordered List";
+"Unordered List" = "Unordered List";
+"Task List" = "Task List";
+"Task Status" = "Task Status";
+"Toggle Task Status" = "Toggle Task Status";
+"Mark as Complete" = "Mark as Complete";
+"Mark as Incomplete" = "Mark as Incomplete";
+"List Indentation" = "List Indentation";
+"Indent" = "Indent";
+"Outdent" = "Outdent";
+"Link Reference" = "Link Reference";
+"Footnotes" = "Footnotes";
+"Horizontal Line" = "Horizontal Line";
+"Table of Contents" = "Table of Contents";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Strong";
+"Emphasis" = "Emphasis";
+"Underline" = "Underline";
+"Code" = "Code";
+"Inline Math" = "Inline Math";
+"Strike" = "Strike";
+"Highlight" = "Highlight";
+"Superscript" = "Superscript";
+"Subscript" = "Subscript";
+"Comment" = "Comment";
+"Hyperlink" = "Hyperlink";
+"Image" = "Image";
+"Clear Format" = "Clear Format";
+
+/* View Menu */
+"View" = "View";
+"New Tab" = "New Tab";
+"Source Code Mode" = "Source Code Mode";
+"Focus Mode" = "Focus Mode";
+"Typewriter Mode" = "Typewriter Mode";
+"Toggle Sidebar" = "Toggle Sidebar";
+"Outline" = "Outline";
+"Articles" = "Articles";
+"File Tree" = "File Tree";
+"Always on Top" = "Always on Top";
+"Full Screen" = "Full Screen";
+"Show Status Bar" = "Show Status Bar";
+"Toggle Fullscreen" = "Toggle Fullscreen";
+"Actual Size" = "Actual Size";
+"Zoom In" = "Zoom In";
+"Zoom Out" = "Zoom Out";
+"Switch Between Opened Documents" = "Switch Between Opened Documents";
+"Toggle DevTools" = "Toggle DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Themes";
+
+/* Window Menu */
+"Window" = "Window";
+"Minimize" = "Minimize";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Bring All to Front";
+
+/* Help Menu */
+"Help" = "Help";
+"Credits" = "Credits";
+"Change Log" = "Change Log";
+"Website" = "Website";
+"Feedback" = "Feedback";
+"About" = "About";
+
+/* Touchbar */
+"Block Styles" = "Block Styles";
+"Inline Styles" = "Inline Styles";
+"List Styles / Remove Block" = "List Styles / Remove Block";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+
+/* Extra Context Menu */
+"Table" = "Table";
+"Insert Row Before" = "Insert Row Before";
+"Append Row After" = "Append Row After";
+"Delete Row" = "Delete Row";
+"Insert Column Before" = "Insert Column Before";
+"Append Column After" = "Append Column After";
+"Delete Column" = "Delete Column";
+"Copy Table" = "Copy Table";
+"Delete Table" = "Delete Table";
+"Insert Paragraph After" = "Insert Paragraph After";
+"Insert Paragraph Before" = "Insert Paragraph Before";
+"Delete Code Block" = "Delete Code Block";
+"Copy as MathML" = "Copy as MathML";
+"Copy as Tex" = "Copy as Tex";
+"Copy Math" = "Copy Math";
+"Reveal in Finder" = "Reveal in Finder";
+"Open Link" = "Open Link";
+"Reveal in Sidebar" = "Reveal in Sidebar";
+"Open in New Window" = "Open in New Window";
+"Copy File Path" = "Copy File Path";
+"New File" = "New File";
+"Rename" = "Rename";
+"New Folder" = "New Folder";
+"Move to Trash" = "Move to Trash";
+
+/* Electron */
+"Learn Spelling" = "Learn Spelling";
+"Copy / Paste As…" = "Copy / Paste As…";
+"Math" = "Math";
+"Insert" = "Insert";
+"Inspect Element" = "Inspect Element";
+"Copy to MS Word" = "Copy to MS Word";
+"Paragraph (before)" = "Paragraph (before)";
+"Paragraph (after)" = "Paragraph (after)";
+
+"Search with Google" = "Search with Google";
+"Search With…" = "Search With…";
+
+/* Related Panel */
+"Open Failed" = "Open Failed";
+"File or folder does not exist." = "File or folder does not exist.";

@@ -137,8 +137,8 @@
 "Inline Math" = "Math inline";
 "Strike" = "Barré";
 "Highlight" = "Surligné";
-"Superscript" = "En indice";
-"Subscript" = "Subscript";
+"Superscript" = "En exposant";
+"Subscript" = "En indice";
 "Comment" = "Commentaire";
 "Hyperlink" = "Lien";
 "Image" = "Image";

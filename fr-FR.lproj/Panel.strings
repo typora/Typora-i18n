@@ -10,26 +10,26 @@
 
 /* General Panel */
 "General" = "Général";
-"Window Style" = "Window Style";
-"Classic" = "Classic";
-"Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
+"Window Style" = "Style de fenêtre";
+"Classic" = "Classique";
+"Seamless" = "Transparent";
+"Seamless window only support OS X later than 10.10." = "Les fenêtres transparentes ne sont supportées qu'à partir d'OS X 10.10 et ultérieurs.";
 "Themes" = "Thèmes";
 "Open Theme Folder" = "Ouvrir dossier des Thèmes";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions.";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Veuillez consulter `Aide`->`Démarrage rapide` pour une rapide introduction. Visitez http://theme.typora.io pour obtenir plus de thèmes et d'instructions.";
 "Word Count" = "Nombre de mots";
 "Always Show Word Count" = "Toujours montrer le nombre de mots";
 "Font Size" = "Taille de police";
-"Auto ( Recommended )" = "Auto ( Recommended )";
+"Auto ( Recommended )" = "Auto ( Recommandé )";
 "Customized" = "Personnalisé";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
- "Left Panel" = "Left Panel";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Si une taille de police personnalisée est utilisée, la taille réelle dépendra de la taille de police de base et du style css.";
+ "Left Panel" = "Paneau gauche";
 "Show Outline Panel by Default" = "Show Outline Panel by Default";
 "Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
 "Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled.";
-"Language" = "Language";
-"System Language" = "System Language";
+"Language" = "Langue";
+"System Language" = "Langue du système";
 
 /* Editor Panel */
 "Editor" = "Editeur";
@@ -53,17 +53,17 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
-"Syntax Support" = "Syntax Support";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
+"(Following preferences will be applied after restart.)" = "(Les préférences suivantes seront appliquées après redémarrage.)";
+"Syntax Support" = "Support de la syntaxe";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Math inline ( e.g: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
-"Diagrams" = "Diagrams";
+"Superscript ( e.g: X^2^ )" = "Indices ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Surlignage     (e.g: ==key==)";
+"Diagrams" = "Diagrammes";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
-"Syntax Preference" = "Syntax Preference";
+"Syntax Preference" = "Preférences de syntaxe";
 "(only apply for styles created from menubar or hybrid view)" = "(only apply for styles created from menubar or hybrid view)";
-"Strict Mode" = "Strict Mode";
+"Strict Mode" = "Mode strict";
 "(more strict to GFM spec)" = "(more strict to GFM spec)";
 "Heading Style" = "Heading Style";
 "Unordered List" = "Unordered List";
@@ -73,23 +73,23 @@
 "Auto Numbering Math Equations" = "Auto Numbering Math Equations";
 
 /* Security Panel */
-"Security" = "Security";
-"Enable Debug" = "Enable Debug";
-"Send Anonymous Usage Info" = "Send Anonymous Usage Info";
+"Security" = "Sécurité";
+"Enable Debug" = "Activer débogage";
+"Send Anonymous Usage Info" = "Envoyer des informations anonymisées sur l'utilisation";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Require Pandoc to Continue...";
-"Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
-"Cancel" = "Cancel";
+"Require Pandoc to Continue..." = "Besoin de Pandoc pour continuer...";
+"Follow instructions to install Pandoc" = "Suivez les instructions pour installer Pandoc";
+"Cancel" = "Annuler";
 
 /* Pandoc Import Panel */
-"Importing..." = "Importing...";
-"Importing in progress..." = "Importing in progress...";
-"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
-"Abort" = "Abort";
+"Importing..." = "Importation...";
+"Importing in progress..." = "Importation en cours...";
+"Converting file with Pandoc. This may take some time." = "Convertion du fichier avec Pandoc. Cela peut prendre un peu de temps.";
+"Abort" = "Annuler";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exporting...";
+"Exporting..." = "Exportation...";
 "Exporting in progress..." = "Exporting in progress...";
 "Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
 
@@ -147,60 +147,60 @@
 "(support US English only)" = "(support US English only)";
 "Enable spell check" = "Enable spell check";
 "Auto correct spelling" = "Auto correct spelling";
-"System" = "System";
-"Privacy" = "Privacy";
-"Developer" = "Developer";
-"Update" = "Update";
-"Check Updates" = "Check Updates";
-"Check updates automatically" = "Check updates automatically";
-"Advanced Settings" = "Advanced Settings";
-"Open Advanced Settings" = "Open Advanced Settings";
-"Reset Advanced Settings" = "Reset Advanced Settings";
+"System" = "Système";
+"Privacy" = "Confidentialité";
+"Developer" = "Développeur";
+"Update" = "Mise à jour";
+"Check Updates" = "Vérifier les mises à jour";
+"Check updates automatically" = "Vérifier automatiquement les mises à jour";
+"Advanced Settings" = "Paramètres avancés";
+"Open Advanced Settings" = "Ouvrir les paramètres avancés";
+"Reset Advanced Settings" = "Réinitialiser les paramètres avancés";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "This fucntion requires latest version of iPic to be installed.";
-"Get iPic" = "Get iPic";
-"Cannot Continue…" = "Cannot Continue…";
-"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
-"One More Step" = "One More Step";
-"Notice" = "Notice";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image.";
+"This fucntion requires latest version of iPic to be installed." = "Il faut que la dernière version d'iPic soit installée pour utiliser cette fonction";
+"Get iPic" = "Obtenir iPic";
+"Cannot Continue…" = "Impossible de continuer…";
+"This feature require macOS >= 10.11" = "Cette fonction nécessite macOS >= 10.11";
+"One More Step" = "Une dernière étape";
+"Notice" = "Information";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Il faut installer iPic pour cela, les fichiers d'images en question seront envoyés sur un service cloud via iPic. Veuillez aussi noter que le service cloud par défaut ne permet pas de supprimer les images envoyées.";
 
-"%d Images Failed to Upload." = "%d Images Failed to Upload.";
-"%d Succeeded," = "%d Succeeded, ";
-"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
-"The option `%@` must be enabled first" = "The option `%@` must be enabled first.";
-"%@ is a file, not a directory" = "%@ is a file, not a directory";
-"Copy Images To…" = "Copy Images To…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
-"Create Folder and Continue" = "Create Folder and Continue";
-"Document must be saved first" = "Document must be saved first";
+"%d Images Failed to Upload." = "%d images n'ont pas pu être téléversées.";
+"%d Succeeded," = "%d réussis, ";
+"Enable this feature on preferences panel" = "Activer cette fonction dans les préférences";
+"The option `%@` must be enabled first" = "L'option `%@` doit d'abord être activée.";
+"%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
+"Copy Images To…" = "Copier les images vers…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora essaie de copier les images qui viennent d'être insérées vers le dossier %@ en accord avec vos paramètres de YAML. Mais le dossier cible n'existe pas, faut-il le créer maintenant?";
+"Create Folder and Continue" = "Créer le dossier et continuer";
+"Document must be saved first" = "Le document doit d'abord être enregistré";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
-"Open Operation Failed" = "Open Operation Failed";
+"Open Operation Failed" = "Echec de l'opération d'ouverture";
 
-"Support Documentation" = "Support Documentation";
+"Support Documentation" = "Documentation d'aide";
 
-"Markdown File" = "Markdown File";
-"Plain Text File" = "Plain Text File";
-"All Files" = "All Files";
-"All Supported Formats" = "All Supported Formats";
-"Discard Changes" = "Discard Changes";
-"Discard" = "Discard";
+"Markdown File" = "Fichier Markdown";
+"Plain Text File" = "Fichier texte brut";
+"All Files" = "Tous les fichiers";
+"All Supported Formats" = "Tous les formats acceptés";
+"Discard Changes" = "Annuler changements";
+"Discard" = "Annuler";
 
 "Menu" = "Menu";
-"Back" = "Back";
+"Back" = "Retour";
 
-"Contact" = "Contact";
-"Open From..." = "Open From...";
-"Import..." = "Import...";
-"Recent Documents" = "Recent Documents";
-"Search for…" = "Search for…";
-"Clear Recent Documents" = "Clear Recent Documents";
-"File Name" = "File Name";
-"Path" = "Path";
-"Export As..." = "Export As...";
-"More Formats" = "More Formats";
+"Contact" = "Contacter";
+"Open From..." = "Ouvrir depuis...";
+"Import..." = "Importer...";
+"Recent Documents" = "Documents récents";
+"Search for…" = "Rechercher…";
+"Clear Recent Documents" = "Effacer documents récents";
+"File Name" = "Nom de fichier";
+"Path" = "Chemin";
+"Export As..." = "Exporter sous...";
+"More Formats" = "Plus de formats";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
-"Something is Wrong…" = "Something is Wrong…";
+"Something is Wrong…" = "Quelque chose ne va pas…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
-"Copy Content" = "Copy Content";
+"Copy Content" = "Copier contenu";

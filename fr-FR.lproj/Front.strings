@@ -62,64 +62,64 @@
 "Close sidebar" = "Fermer barre latérale";
 "Loading" = "Chargement";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les dossiers sélectionnés contiennent trop de fichiers. \nVeuillez basculer sur la <a id='switch-to-tree-on-oversize'>vue Arborescence</a> pour des performance améliorées.";
-"New File" = "New File";
-"Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Open Folder...";
+"New File" = "Nouveau fichier";
+"Unpin Outline Panel" = "Détacher panneau Plan";
+"Open Folder..." = "Ouvrir dossier...";
 "Action" = "Action";
-"Close Sidebar Menu" = "Close Sidebar Menu";
-"Reveal in Finder" = "Reveal in Finder";
-"Reveal in File Explorer" = "Reveal in File Explorer";
-"Refresh Folder" = "Refresh Folder";
-"Sort" = "Sort";
-"Group By Folder" = "Group By Folder";
-"Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
-"Recent Locations" = "Recent Locations";
-"Location" = "Location";
-"Switch File List/Tree View" = "Switch File List/Tree View";
-"No Files Available" = "No Files Available";
-"No Folder is Opened." = "No Folder is Opened.";
-"Outline is Empty." = "Outline is Empty.";
+"Close Sidebar Menu" = "Fermer menu barre latérale";
+"Reveal in Finder" = "Montrer dans le Finder";
+"Reveal in File Explorer" = "Montrer dans l'Explorateur de fichiers";
+"Refresh Folder" = "Rafraîchir dossier";
+"Sort" = "Trier";
+"Group By Folder" = "Regrouper par dossier";
+"Sort Naturally" = "Trier";
+"Sort by Name" = "Trier par nom";
+"Sort by Modification Date" = "Trier par date de modification";
+"Recent Locations" = "Emplacements récents";
+"Location" = "Emplacement";
+"Switch File List/Tree View" = "Basculer vers la vue en liste/arborescence de fichiers";
+"No Files Available" = "Aucun fichier disponible";
+"No Folder is Opened." = "Aucun dossier ouvert";
+"Outline is Empty." = "Le plan est vide";
 
 /* Status Bar */
-"Toggle Sidebar" = "Toggle Sidebar";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
-"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Sidebar" = "Montrer/cacher barre latérale";
+"Toggle Source Code Mode" = "Montrer/cacher code source";
+"Exit Source Code Mode" = "Sortir du mode Code Source";
 
-"Table of Contents" = "Table of Contents";
-"Empty Diagram" = "Empty Diagram";
-"Input Math TeX here" = "Input Math TeX here";
+"Table of Contents" = "Table des matières";
+"Empty Diagram" = "Diagramme vide";
+"Input Math TeX here" = "Entrer TeX Math ici";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Il faut définir la référence de la note de bas de page <b>{0}</b> avec la syntaxe <a>[^{1}]: www.exemple.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Il faut définir le lien de référence <b>[{0}]</b> avec la syntaxe <b>[{1}]: www.exemple.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Veuillez définir la référence de l'image \n[{0}]: http://exemple.png";
 
 /* msg */
-"Failed to create file" = "Failed to create file";
-"Failed to create folder" = "Failed to create folder";
-"Failed to rename file" = "Failed to rename file";
-"Folder does not exist at %@" = "Folder does not exist at %@";
-"File with the same name already exists at target path" = "File with the same name already exists at target path";
-"Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
-"Stop" = "Stop";
-"back to document" = "back to document";
-"Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!"
-"Cannot open folder {0}" = "Cannot open folder {0}";
+"Failed to create file" = "Impossible de créer le fichier";
+"Failed to create folder" = "Impossible de créer le dossier";
+"Failed to rename file" = "Impossible de renommer le fichier";
+"Folder does not exist at %@" = "Le dossier n'existe pas à %@";
+"File with the same name already exists at target path" = "Il y a déjà un fichier avec le même nom au chemin cible";
+"Apply to All" = "Appliquer à tous";
+"Overwrite" = "Ecraser";
+"Stop" = "Arrêter";
+"back to document" = "retour au document";
+"Failed to load file" = "Impossible de charger le fichier";
+"Save File Failed!" = "Echec de la sauvegarde du fichier!"
+"Cannot open folder {0}" = "Impossible d'ouvrir le dossier {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+"File content is changed by external applications. Reload content from disk ?" = "Le contenu du fichier a été modifié par une application externe. Faut-il recharger depuis le disque ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Faut-il continuer à déplacer et écraser le ou les fichiers existants ?";
 
-"Rename Failed" = "Rename Failed";
-"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Rename Failed" = "Impossible de renommer";
+"Rename to \"{0}\" ?" = "Renommer \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Impossible de renommer \"{0}\" en \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
-"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
-"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
-"Select Container Folder" = "Select Container Folder";
+"Successfully uploaded {0} images." = "{0} images téléversées avec succès.";
+"Failed to upload image. Error Message:" = "Echec du téléversement d'image. Message d'erreur:";
+"Failed to Copy Image to Target Folder." = "Echec de la copie de l'image vers le dossier cible.";
+"Select Container Folder" = "Sélectionner dossier d'origine";
 
-"Saved" = "Saved";
+"Saved" = "Enregistré";

@@ -6,22 +6,22 @@
  */
 
 /* Preference Panel */
-"Preferences" = "Preferences";
+"Preferences" = "Préférences";
 
 /* General Panel */
-"General" = "General";
+"General" = "Général";
 "Window Style" = "Window Style";
 "Classic" = "Classic";
 "Seamless" = "Seamless";
 "Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
-"Themes" = "Themes";
-"Open Theme Folder" = "Open Theme Folder";
+"Themes" = "Thèmes";
+"Open Theme Folder" = "Ouvrir dossier des Thèmes";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions.";
-"Word Count" = "Word Count";
-"Always Show Word Count" = "Always Show Word Count";
-"Font Size" = "Font Size";
+"Word Count" = "Nombre de mots";
+"Always Show Word Count" = "Toujours montrer le nombre de mots";
+"Font Size" = "Taille de police";
 "Auto ( Recommended )" = "Auto ( Recommended )";
-"Customized" = "Customized";
+"Customized" = "Personnalisé";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
  "Left Panel" = "Left Panel";
 "Show Outline Panel by Default" = "Show Outline Panel by Default";
@@ -32,7 +32,7 @@
 "System Language" = "System Language";
 
 /* Editor Panel */
-"Editor" = "Editor";
+"Editor" = "Editeur";
 "Indent Size on Save" = "Indent Size on Save";
 "only apply for quotes and lists created from menubar or hybrid view" = "only apply for quotes and lists created from menubar or hybrid view";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";

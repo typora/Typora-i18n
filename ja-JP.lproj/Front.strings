@@ -1,0 +1,130 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Japanese translation
+ by Tomohiko Hayashi(@tomochan001)
+ t.hayashi36@members.leeds.ac.uk
+
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "キャンセル";
+"Yes" = "はい";
+"No" = "いいえ";
+"Close" = "閉じる";
+"Select" = "選択";
+"Continue" = "継続";
+"Learn More…" = "もっと知る";
+"Untitled" = "無題";
+"Undo" = "やり直し";
+"Dismiss" = "無視する";
+"Confirm" = "確認";
+"Error" = "エラー";
+
+/* Search Panel */
+"Search" = "検索";
+"Replace" = "置換";
+"All" = "全て";
+"Search text not found in article" = "見つかりませんでした";
+"search text" = "検索文言";
+
+/* Quick Open */
+"Search by file name" = "ファイル名で検索";
+"Searching" = "検索中です";
+"Gathering more results" = "残りを検索中";
+
+/* Tables */
+"Insert Table" = "表を挿入";
+"Columns" = "列";
+"Rows" = "行";
+"Align Left" = "左寄せ";
+"Align Center" = "中央寄せ";
+"Align Right" = "右寄せ";
+"Resize Table" = "表のリサイズ";
+"Delete Table" = "表の削除";
+
+/* Images */
+"Copy Image To..." = "~に画像をコピー";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマターで指定されたフォルダに画像をコピーしようとしましたが、フォルダが存在しません。作成しますか？";
+"Create Folder" = "フォルダを作成";
+
+/* Math */
+"Edit" = "編集";
+"Delete Math" = "数式を削除";
+"Preview" = "プレビュー";
+
+/* Sidebar */
+"Articles" = "文書";
+"Outline" = "アウトライン";
+"Files" = "ファイル";
+"Switch to File List view" = "リスト表示に切替";
+"Switch to File Tree view" = "ツリー表示に切替";
+"Switch to Outline view" = "アウトライン表示に切替";
+"Close sidebar" = "サイドバーを閉じる";
+"Loading" = "読み込み中";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "選択されたフォルダには多数のファイルがあります。 \n<a id='switch-to-tree-on-oversize'>ツリー表示</a>に切り替えると速度が向上します。";
+"New File" = "新規ファイル";
+"Unpin Outline Panel" = "アウトラインパネルからピンを外す";
+"Open Folder..." = "フォルダを開く";
+"Action" = "アクション";
+"Close Sidebar Menu" = "サイドバーメニューを閉じる";
+"Reveal in Finder" = "Finderで見る";
+"Reveal in File Explorer" = "エクスプローラで見る";
+"Refresh Folder" = "フォルダをリフレッシュ";
+"Sort" = "並び替え";
+"Group By Folder" = "フォルダをグループ分け";
+"Sort Naturally" = "自然に並び替え";
+"Sort by Name" = "名称で並び替え";
+"Sort by Modification Date" = "更新日付で並び替え";
+"Recent Locations" = "最近開いた場所";
+"Location" = "場所";
+"Switch File List/Tree View" = "リスト表示とツリー表示切替";
+"No Files Available" = "ファイルが見つかりません";
+"No Folder is Opened." = "フォルダが見つかりません";
+"Outline is Empty." = "アウトラインが空です";
+
+/* Status Bar */
+"Toggle Sidebar" = "サイドバー表示切替";
+"Toggle Source Code Mode" = "ソースコードモードを切替";
+"Exit Source Code Mode" = "ソースコードモード停止";
+
+"Table of Contents" = "目次";
+"Empty Diagram" = "空のダイアグラム";
+"Input Math TeX here" = "ここに数式を入れる";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "脚注を<b>{0}</b>文法付きで<a>[^{1}]: www.example.com</a>定義してください";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "参照リンクを<b>[{0}]</b>文法付きで<b>[{1}]: www.example.com</b>定義してください";
+"Please define image reference by \n[{0}]: http://example.png" = "画像参照を定義してください\n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "ファイル作成に失敗しました";
+"Failed to create folder" = "フォルダ作成に失敗しました";
+"Failed to rename file" = "名前の変更に失敗しました";
+"Folder does not exist at %@" = "%@にフォルダがありません";
+"File with the same name already exists at target path" = "対象パスに同一名称のファイルがすでにあります";
+"Apply to All" = "全てに適用";
+"Overwrite" = "上書きする";
+"Stop" = "ストップ";
+"back to document" = "文書に戻る";
+"Failed to load file" = "ファイル読み込みに失敗しました";
+"Save File Failed!" = "ファイル保存に失敗！"
+"Cannot open folder {0}" = "ファイルを開けませんでした {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか？"
+"Should continue moving and overwrite exisiting file(s) ?" = "既存のファイルを上書きして移動を続けますか？";
+
+"Rename Failed" = "名称変更に失敗しました";
+"Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"から\"{1}\"への名称変更に失敗しました";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "{0}個の画像アップロードに成功しました";
+"Failed to upload image. Error Message:" = "画像アップロードに失敗。エラーメッセージは：";
+"Failed to Copy Image to Target Folder." = "対象フォルダへの画像のコピーに失敗しました";
+"Select Container Folder" = "コンテナのフォルダを指定してください";
+
+"Saved" = "保存できました";

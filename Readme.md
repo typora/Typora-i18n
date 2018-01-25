@@ -22,6 +22,10 @@ If you want to help translate Typora into other languages, we would very appreci
 - If translation in <https://github.com/martnst/localize-mainmenu> is not proper on Windows/Linux, add the proper one in `Menu-electron.strings`. (see zh-Hans.lproj as one example).
 - Comment style `/* some words */` is supported, `// comment` is **NOT** supported.
 
+## Upddates:
+
+01/25/2018 Add missing text resouces: #fd8b6de5181ed6e236b22c99826be4a60c2a1052
+
 ## FAQ
 
 > Can I test my translations?

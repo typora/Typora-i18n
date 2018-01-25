@@ -123,3 +123,10 @@
 "Select Container Folder" = "Select Container Folder";
 
 "Saved" = "Saved";
+
+/* place holder in find & replace input */
+"search text" = "search text";
+"replace with" = "replace with";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Whole Word";

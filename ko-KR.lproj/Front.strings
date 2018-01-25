@@ -109,7 +109,7 @@
 "Stop" = "멈추기";
 "back to document" = "문서로 돌아가기";
 "Failed to load file" = "파일 로드 실패";
-"Save File Failed!" = "파일 저장 실패!"
+"Save File Failed!" = "파일 저장 실패!";
 "Cannot open folder {0}" = "{0} 폴더를 열 수 없음";
 
 "File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";

@@ -22,7 +22,7 @@
 
 /* Search Panel */
 "Search" = "Cerca";
-"Repalce" = "Sostituisci";
+"Replace" = "Sostituisci";
 "All" = "Tutto";
 "Search text not found in article" = "Testo non trovato nell'articolo";
 "search text" = "cerca testo";

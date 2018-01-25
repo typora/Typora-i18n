@@ -24,7 +24,7 @@ If you want to help translate Typora into other languages, we would very appreci
 
 ## Upddates:
 
-01/25/2018 Add missing text resouces: #fd8b6de5181ed6e236b22c99826be4a60c2a1052
+01/25/2018 Add missing text resouces: [#04218fa42](https://github.com/typora/Typora-i18n/commit/04218fa423fc29054c5dea5a24b8b9e3a82266fb)
 
 ## FAQ
 

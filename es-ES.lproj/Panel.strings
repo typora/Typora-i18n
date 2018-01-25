@@ -18,7 +18,7 @@
 "Open Theme Folder" = "Abrir carpeta de temas";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Por favor revista `ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
 "Word Count" = "Conteo de palabras";
-"Always Show Word Count" = "Mostrar siempre el conteo de palabras";;
+"Always Show Word Count" = "Mostrar siempre el conteo de palabras";
 "Font Size" = "Tamaño de fuente";
 "Auto ( Recommended )" = "Automático ( Recomendado )";
 "Customized" = "Personalizado";
@@ -33,23 +33,24 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Tamaño de la sangría al identar";
+"Indent Size on Save" = "Tamaño de la sangría";
 "only apply for quotes and lists created from menubar or hybrid view" = "aplica solamente para citaciones y listas creadas de la barra de menús o desde la vista híbrida";
-"Trigger Autocomplete without ESC key for" = "Autocompletar sin oprimir la tecla ESC para";
+"Trigger Autocomplete without ESC key for" = "Autocompletar";
 "Emoji (e.g. :smile:)" = "Emoji (ej. :smile:)";
 "Images Insert" = "Al insertar imágenes";
 "Use relative path if possible" = "Usar ruta relativa si es posible";
 "Allow copy images to given folder" = "Permitir copiar imágenes a cierta carpeta";
 "Allow upload to given server" = "Permitir carga a cierto servidor";
 "Auto Pair" = "Cerrado automático";
-"Auto pair brackets and quotes" = "Cerrar pares de comillas y signos de agrupación";
+"Auto pair brackets and quotes" = "Cerrar pares de comillas y signos de\nagrupación";
 "Auto pair common markdown syntax" = "Cerrar pares de sintaxis común de Markdown";
 "Live Rendering" = "Renderizado en vivo";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostrar código fuente para bloques simples\n(incluyendo encabezados, etc.) al estar en el foco";
-"Default Copy Behavior" = "Comportamiento de copiado predeterminado";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostrar código fuente para bloques\n simples al estar en el foco";
+"Default Copy Behavior" = "Comportamiento de\ncopiado predeterminado";
+"(⌘ + c)" = "";
 "Copy Markdown source as plain text" = "Copiar código Markdown como texto plano";
-"Typewriter Mode" = "Modo Máquina de Escribir";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Mostrar siempre el carrete en medio de la pantalla\ncuando el modo máquina de escribir está activado.";
+"Typewriter Mode" = "Modo Máquina de\nEscribir";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Mostrar siempre el carrete en medio de la\npantalla cuando el modo máquina de escribir está activado.";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -68,7 +69,7 @@
 "Heading Style" = "Estilo de encabezados";
 "Unordered List" = "Lista con viñetas";
 "Code Fences" = "Bloque de código";
-"Display line numbers for code fences" = "Mostrar líneas de números para bloques de códigos";
+"Display line numbers for code fences" = "Mostrar líneas de números para\nbloques de códigos";
 "Math Blocks" = "Bloques de ecuaciones";
 "Auto Numbering Math Equations" = "Autonumerar bloques de ecuaciones";
 

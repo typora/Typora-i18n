@@ -25,21 +25,21 @@
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si une taille de police personnalisée est utilisée, la taille réelle dépendra de la taille de police de base et du style css.";
  "Left Panel" = "Paneau gauche";
 "Show Outline Panel by Default" = "Montrer le panneau du plan par défaut";
-"Collapsible Outline on Left Panel" = "Plan qui peut être réduit dans le panneau de gauche";
-"Save without asking when\nswitch files on side panel" = "Enregistrer sans le demander lors\ndu changement de fichier dans le panneau latéral";
+"Collapsible Outline on Left Panel" = "Plan qui peut être réduit dans le panneau de\ngauche";
+"Save without asking when\nswitch files on side panel" = "Enregistrer sans le demander lors du changement\nde fichier dans le panneau latéral";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled.";
 "Language" = "Langue";
 "System Language" = "Langue du système";
 
 /* Editor Panel */
 "Editor" = "Editeur";
-"Indent Size on Save" = "Indentation pour l'enregistrement";
+"Indent Size on Save" = "Indentation";
 "only apply for quotes and lists created from menubar or hybrid view" = "n'appliquer qu'aux citations créées depuis le menu ou la vue hybride";
 "Trigger Autocomplete without ESC key for" = "Auto-complétion sans utiliser la touche ECHAP";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Insertions d'images";
 "Use relative path if possible" = "Utiliser le chemin relatif si possible";
-"Allow copy images to given folder" = "Autoriser la copie des images dans le dossier";
+"Allow copy images to given folder" = "Autoriser la copie des images dans\nle dossier";
 "Allow upload to given server" = "Autoriser chargement sur serveur";
 "Auto Pair" = "Paires automatiques";
 "Auto pair brackets and quotes" = "Paires de guillemets et parenthèses auto";

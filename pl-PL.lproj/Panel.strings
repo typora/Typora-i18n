@@ -39,8 +39,8 @@
 "Emoji (e.g. :smile:)" = "Emoji (np. :smile:)";
 "Images Insert" = "Wstawianie obrazów";
 "Use relative path if possible" = "Użyj pokrewnych ścieżek jeśli jest to możliwe.";
-"Allow copy images to given folder" = "Pozwalaj na kopiowanie obrazów do\ndanego folderu";
-"Allow upload to given server" = "Pozwalaj na przekazywanie do\ndanego serweru";
+"Allow copy images to given folder" = "Pozwalaj na kopiowanie obrazów do danego\nfolderu";
+"Allow upload to given server" = "Pozwalaj na przekazywanie do danego\nserweru";
 "Auto Pair" = "Autouzupełnianie";
 "Auto pair brackets and quotes" = "nawiasy i cytaty cudzysłowów";
 "Auto pair common markdown syntax" = "znane błędy składniowe";

@@ -26,28 +26,29 @@
  "Left Panel" = "Боковая панель";
 "Show Outline Panel by Default" = "Отображать по умолчанию панель структуры";
 "Collapsible Outline on Left Panel" = "Иерархическая структура в боковой панели";
-"Save without asking when\nswitch files on side panel" = "Сохранять не спрашивая\nпри переключении файлов на боковой панели";
+"Save without asking when\nswitch files on side panel" = "Сохранять не спрашивая при переключении\nфайлов на боковой панели";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редактируемые файлы будут сохраняться без запроса, при переключении между ними в боковой панели. \nКогда параметр \"Спрашивать о сохранении изменений при закрытии документов\" активирован в системных настройках, это включено всегда.";
 "Language" = "Язык";
 "System Language" = "Язык системы";
 
 /* Editor Panel */
 "Editor" = "Редактор";
-"Indent Size on Save" = "Размер отступа при сохранении";
+"Indent Size on Save" = "Вдавливание";
 "only apply for quotes and lists created from menubar or hybrid view" = "применяются только для кавычек и списков, созданных из меню или гибридного просмотра";
-"Trigger Autocomplete without ESC key for" = "Автоматическое срабатывание без клавиши ESC";
+"Trigger Autocomplete without ESC key for" = "Автоматическое";
 "Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
 "Images Insert" = "Вставка изображений";
-"Use relative path if possible" = "Использовать относительный путь при возможности";
-"Allow copy images to given folder" = "Разрешить копирование изображений в указанную папку";
+"Use relative path if possible" = "Использовать относительный путь при\nвозможности";
+"Allow copy images to given folder" = "Разрешить копирование изображений в\nуказанную папку";
 "Allow upload to given server" = "Разрешить загрузку на указанный сервер";
 "Auto Pair" = "Автозавершение";
 "Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
 "Auto pair common markdown syntax" = "Автозавершение основных тегов Markdown";
 "Live Rendering" = "Живой рендеринг";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Отображать исходник для обычных блоков\n(включая заголовки и т. п.) при фокусе";
-"Default Copy Behavior" = "Стандартный тип копирования";
-"Copy Markdown source as plain text" = "Копировать разметку Markdown как обычный текст";
+"Default Copy Behavior" = "Стандартный тип\nкопирования";
+"(⌘ + c)" = "";
+"Copy Markdown source as plain text" = "Копировать разметку Markdown как обычный\nтекст";
 "Typewriter Mode" = "Режим печатной машинки";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Всегда хранить курсор в центре экрана\nкогда включен режим печатной машинки.";
 

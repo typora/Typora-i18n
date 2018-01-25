@@ -23,15 +23,15 @@
 "Open Theme Folder" = "テーマフォルダを開く";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡潔な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.ioでご覧になれます";
 "Word Count" = "単語数を表示";
-"Always Show Word Count" = "常に単語数を表示";;
+"Always Show Word Count" = "常に単語数を表示";
 "Font Size" = "フォントサイズ";
 "Auto ( Recommended )" = "自動（推奨）";
 "Customized" = "カスタム";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります"
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります";
  "Left Panel" = "左パネル";
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
 "Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
-"Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に自動保存";
+"Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に\n自動保存";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "左パネルのファイルを切り替えると、問い合わせなしにファイルを自動保存します。「文書を閉じるときは保存するか尋ねる」がシステム設定でオンになっているときは、このオプションは常にオンです。";
 "Language" = "言語";
 "System Language" = "システム言語";
@@ -50,11 +50,11 @@
 "Auto pair brackets and quotes" = "カッコと引用符のオートペア";
 "Auto pair common markdown syntax" = "一般的なMarkdownをオートペア";
 "Live Rendering" = "ライブレンダリング";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "当該ブロック（見出しなど含む）のソースを表示";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "当該ブロック（見出しなど含む）のソースを\n表示";
 "Default Copy Behavior" = "デフォルトのコピー動作";
 "Copy Markdown source as plain text" = "マークダウンをテキストとしてコピー";
 "Typewriter Mode" = "タイプライターモード";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "タイプライターモードで、キャレットを常に中央に";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "タイプライターモードで、キャレットを常に\n中央に";
 
 /* Markdown Panel */
 "Markdown" = "マークダウン";

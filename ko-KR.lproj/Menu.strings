@@ -32,8 +32,8 @@
 "No Recent Files" = "최근 파일 없음";
 "Open Quickly" = "빠른 열기";
 "Open File Location" = "파일 위치 열기";
-"Reveal in Library" = "라이브러리에서 열기";
-"Reveal in File Tree" = "파일 트리에서 열기";
+"Reveal in Library" = "라이브러리에서 보기";
+"Reveal in File Tree" = "파일 트리에서 보기";
 "Close" = "닫기";
 "Save" = "저장";
 "Save As" = "다른 이름으로 저장";
@@ -121,8 +121,8 @@
 "Task List" = "작업 목록";
 "Task Status" = "작업 상태";
 "Toggle Task Status" = "작업 상태 토글";
-"Mark as Complete" = "완료된 것으로 표시";
-"Mark as Incomplete" = "완료되지 않은 것으로 표시";
+"Mark as Complete" = "완료됨으로 표시";
+"Mark as Incomplete" = "완료되지 않음으로 표시";
 "List Indentation" = "들여쓰기 수준";
 "Indent" = "들여쓰기";
 "Outdent" = "내어쓰기";
@@ -209,9 +209,9 @@
 "Copy as MathML" = "MathML로 복사";
 "Copy as Tex" = "Tex로 복사";
 "Copy Math" = "수식 복사";
-"Reveal in Finder" = "Finder에서 열기";
+"Reveal in Finder" = "Finder에서 보기";
 "Open Link" = "링크 열기";
-"Reveal in Sidebar" = "사이드바에서 열기";
+"Reveal in Sidebar" = "사이드바에서 보기";
 "Open in New Window" = "새 윈도우에서 열기";
 "Copy File Path" = "파일 경로 복사";
 "New File" = "새 파일";

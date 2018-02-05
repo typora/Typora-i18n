@@ -1,0 +1,209 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+
+ by aride.moulin@gmail.com
+ */
+
+/* Preference Panel */
+"Preferences" = "Preferências";
+
+/* General Panel */
+"General" = "Geral";
+"Window Style" = "Estilo da Janela";
+"Classic" = "Clássico";
+"Seamless" = "Sem Emendas";
+"Seamless window only support OS X later than 10.10." = "Janelas sem emendas só são suportadas no macOs >= 10.10.";
+"Themes" = "Temas";
+"Open Theme Folder" = "Abrir Pasta do Tema";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Por favor verifique `ajuda`->`Início Rápido` para uma breve introdução. Visite http://theme.typora.io para obter mais temas e instruções.";
+"Word Count" = "Contagem de Palavras";
+"Always Show Word Count" = "Sempre Mostrar Contagem de Palavras";
+"Font Size" = "Tamanho da Fonte";
+"Auto ( Recommended )" = "Automático ( Recomendado )";
+"Customized" = "Customizado";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Se for usado um tamanho de fonte personalizado, o tamanho real da fonte dependerá do tamanho da fonte base e do estilo CSS.";
+ "Left Panel" = "Painel Esquerdo";
+"Show Outline Panel by Default" = "Exibir Painel de Índices por Padrão";
+"Collapsible Outline on Left Panel" = "Índice Flexível no Painel Esquerdo";
+"Save without asking when\nswitch files on side panel" = "Salvar sem perguntar quando\ntrocar de arquivo no painel lateral";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Arquivos editados serão salvos sem perguntar ao trocar de arquivo no painel lateral. \nQuando \"Perguntar sobre manter alterações ao fechar documentos\" está ativado nas Preferências do Sistema, isso está sempre ativado.";
+"Language" = "Idioma";
+"System Language" = "Idioma do Sistema";
+
+/* Editor Panel */
+"Editor" = "Editor";
+"Indent Size on Save" = "Tamanho da Indentação ao Salvar";
+"only apply for quotes and lists created from menubar or hybrid view" = "só se aplica para citações e listas criadas a partir da barra de menu ou da visão híbrida";
+"Trigger Autocomplete without ESC key for" = "Autocompletar sem ESC para";
+"Emoji (e.g. :smile:)" = "Emoji (ex. :smile:)";
+"Images Insert" = "Ao Inserir Imagens";
+"Use relative path if possible" = "Usar caminho relativo se possível";
+"Allow copy images to given folder" = "Permitir copiar imagens para pasta determinada";
+"Allow upload to given server" = "Permitir carregar para servidor determinado";
+"Auto Pair" = "Parear Automaticamente";
+"Auto pair brackets and quotes" = "Parear colchetes e aspas automaticamente";
+"Auto pair common markdown syntax" = "Parear sintaxes comuns de markdown automaticamente";
+"Live Rendering" = "Renderização Instantânea";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Exibir código fonte para blocos simples\n(incluindo títulos, etc.) ao focar";
+"Default Copy Behavior" = "Comportamento Padrão de Cópia";
+"Copy Markdown source as plain text" = "Copiar código fonte de Markdown como texto simples";
+"Typewriter Mode" = "Modo Máquina de Escrever";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Sempre mostrar o cursor no meio da tela\nquando o modo máquina de escrever estiver habilitado.";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(As seguintes preferências serão aplicadas após reiniciar.)";
+"Syntax Support" = "Suporte de Sintaxe";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Incorporar Equações ( ex.: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subscript    ( ex.: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superscript ( ex.: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Realçar     (ex.: ==key==)";
+"Diagrams" = "Diagramas";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart e Mermaid)";
+"Syntax Preference" = "Preferência de Sintaxe";
+"(only apply for styles created from menubar or hybrid view)" = "(só se aplica para estilos criados da barra de menu ou visão híbrida)";
+"Strict Mode" = "Modo Estrito";
+"(more strict to GFM spec)" = "(mais estrito que a especificação GFM)";
+"Heading Style" = "Estilo de Título";
+"Unordered List" = "Lista Desordenada";
+"Code Fences" = "Bloco de Código";
+"Display line numbers for code fences" = "Exibir número das linhas para blocos de código";
+"Math Blocks" = "Blocos de Equação";
+"Auto Numbering Math Equations" = "Autonumerar Equações";
+
+/* Security Panel */
+"Security" = "Segurança";
+"Enable Debug" = "Habilitar Depuração";
+"Send Anonymous Usage Info" = "Enviar Dados Anônimos de Uso";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Requer Pandoc para Continuar...";
+"Follow instructions to install Pandoc" = "Siga as instruções para instalar Pandoc";
+"Cancel" = "Cancelar";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importando...";
+"Importing in progress..." = "Importação em andamento...";
+"Converting file with Pandoc. This may take some time." = "Convertendo arquivo com Pandoc. Isso pode levar algum tempo.";
+"Abort" = "Abortar";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Exportando...";
+"Exporting in progress..." = "Exportação em andamento...";
+"Converting file with Pandoc. This may take some time." = "Convertendo arquivo com Pandoc. Isso pode levar algum tempo.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc é necessário para importar esses formatos de arquivo";
+"Check help->Install and use Pandoc from menubar for detail" = "Verifique ajuda->Instalar e usar Pandoc na barra de menu para detalhes";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "As funcionalidades de importação e algumas de exportação requerem que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) esteja instalado.";
+"Follow Instructions to Install/Update Pandoc" = "Siga Instruções para Instalar/Atualizar Pandoc";
+"Export Failed" = "Erro ao Exportar";
+"Import Failed" = "Erro ao Importar";
+"Generated Image too Large" = "Imagem Gerada é Grande Demais";
+"Failed to export file to <em>{0}</em>" = "Erro ao exportar arquivo para <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Erro ao importar arquivo de <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Arquivo não existe em <em>{0}</em>";
+"Export to..." = "Exportar para...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Deseja salvar as alterações feitas nesse documento?<br> Suas alterações serão perdidas se não salvá-las";
+"[Warning] Failed to attach bookmark for PDF file." = "[Atenção] Erro ao adicionar marcador ao arquivo PDF.";
+"Dark Theme not support" = "Tema Escuro não suportado"
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Desculpe, a versão atual do Typora não exporta cores de fundo para PDF, então temas escuros ainda não são suportados para exportação para PDF. \nPor favor selecione um tema claro ou clique em \"Imprimir com tema padrão\"";
+"Print with default theme" = "Imprimir com tema padrão";
+"Export to PDF successfully." = "Exportado para PDF com sucesso.";
+"Converting file using Pandoc. This may take some time." = "Convertendo arquivo usando Pandoc. Isso pode levar algum tempo.";
+"Exporting file using Pandoc. This may take some time." = "Exportando arquivo usando Pandoc. Isso pode levar algum tempo.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Carregando Imagens via iPic...";
+"Uploading in progress..." = "Carregamento em andamento...";
+"Do not show this again" = "Não exibir isso novamente";
+
+/* Word Count */
+"%d Words" = "%d Palavras";
+"Minutes" = "Minutos";
+"Lines" = "Linhas";
+"Words" = "Palavras";
+"Characters" = "Caracteres";
+"In Selection" = "Em Seleção";
+"Panel" = "Painel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Aparência";
+"System Native" = "Nativa do Sistema";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(aplicada após reiniciar)";
+"Status Bar" = "Barra de Estado";
+"Show status bar" = "Exibir Barra de Estado";
+"Save & Recover" = "Salvar & Recuperar";
+"Auto Save" = "Salvar Automaticamente";
+"Recover Unsaved Drafts" = "Recuperar Rascunhos não salvos";
+"Emoji Autocomplete" = "Autocompletar Emoji";
+"Trigger by ESC key" = "Ao pressionar ESC";
+"Trigger automatically" = "Automaticamente";
+"Default Line Ending" = "Fim de Linha Padrão";
+"Line ending for new file" = "Fim de linha para novos arquivos";
+"Spell Check" = "Revisar Ortografia";
+"(support US English only)" = "(só suporta Inglês dos EUA)";
+"Enable spell check" = "Habilitar revisor ortográfico";
+"Auto correct spelling" = "Autocorrigir gramática";
+"System" = "Sistema";
+"Privacy" = "Privacidade";
+"Developer" = "Desenvolvedor";
+"Update" = "Atualizar";
+"Check Updates" = "Buscar Atualizações";
+"Check updates automatically" = "Buscar atualizações automaticamente";
+"Advanced Settings" = "Configurações Avançadas";
+"Open Advanced Settings" = "Abrir Configurações Avançadas";
+"Reset Advanced Settings" = "Restabelecer Configurações Avançadas";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "Essa função requer que a versão mais recente do iPic esteja instalada.";
+"Get iPic" = "Obter iPic";
+"Cannot Continue…" = "Não é possível continuar…";
+"This feature require macOS >= 10.11" = "Essa funcionalidade requer macOS >= 10.11";
+"One More Step" = "Mais Um Passo";
+"Notice" = "Aviso";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Isso requer que o iPic esteja instalado, e as imagens referidas serão carregadas para serviços na nuvem via iPic. Por favor note que os serviços padrão não suportam remover imagens carregadas.";
+
+"%d Images Failed to Upload." = "%d Imagens Falharam ao Serem Carregadas.";
+"%d Succeeded," = "%d Bem sucedidas, ";
+"Enable this feature on preferences panel" = "Habilite essa funcionalidade no painel de preferências";
+"The option `%@` must be enabled first" = "A opção `%@` precisa estar habilitada primeiro.";
+"%@ is a file, not a directory" = "%@ é um arquivo, não uma pasta";
+"Copy Images To…" = "Copiar Imagens Para…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora está tentando copiar as imagens inseridas para a pasta %@ de acordo com sua configuração de YAML Front Matter. Mas o destino não existe, criar agora?";
+"Create Folder and Continue" = "Criar Pasta e Continuar";
+"Document must be saved first" = "O documento precisa ser salvo primeiro";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vai copiar novas imagens para a pasta por caminho relativo, então salve o arquivo primeiro, por favor."
+"Open Operation Failed" = "Erro na Operação de Abrir";
+
+"Support Documentation" = "Documentação de Apoio";
+
+"Markdown File" = "Arquivo Markdown";
+"Plain Text File" = "Arquivo de Texto Simples";
+"All Files" = "Todos Arquivos";
+"All Supported Formats" = "Todos os Formatos Suportados";
+"Discard Changes" = "Descartar Alterações";
+"Discard" = "Descartar";
+
+"Menu" = "Menu";
+"Back" = "Voltar";
+
+"Contact" = "Contato";
+"Open From..." = "Abrir de...";
+"Import..." = "Importar...";
+"Recent Documents" = "Documentos Recentes";
+"Search for…" = "Buscar por…";
+"Clear Recent Documents" = "Limpar Documentos Recentes";
+"File Name" = "Nome do Arquivo";
+"Path" = "Caminho";
+"Export As..." = "Exportar Como...";
+"More Formats" = "Mais Formatos";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatos de arquivo em 'Mais Formatos' precisam que <a class='open-pandoc-guide'>Pandoc esteja instalado</a>.";
+"Something is Wrong…" = "Algo está Errado…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Houve um erro ao salvar o conteúdo por alguma razão.<br/>Você pode copiar o conteúdo para uma nova janeja Typora, e salvar. <br/>Saiba mais sobre:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='http://support.typora.io/Version-Control//'>Recuperar conteúdos perdidos</a></li></ul>";
+"Copy Content" = "Copiar Conteúdo";
+
+
+"Total" = "Total";

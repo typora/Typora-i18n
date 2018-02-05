@@ -66,7 +66,6 @@
 "Strict Mode" = "Strict Mode";
 "(more strict to GFM spec)" = "(more strict to GFM spec)";
 "Heading Style" = "Heading Style";
-"Unordered List" = "Unordered List";
 "Code Fences" = "Code Fences";
 "Display line numbers for code fences" = "Display line numbers for code fences";
 "Math Blocks" = "Math Blocks";
@@ -117,7 +116,8 @@
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Uploading Images via iPic...";
 "Uploading in progress..." = "Uploading in progress...";
-"Do not show this again" = "Do not show this again";
+"Do not show this again" = 
+"Do not show this again";
 
 /* Word Count */
 "%d Words" = "%d Words";
@@ -207,3 +207,5 @@
 
 
 "Total" = "Total";
+"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
+"Indent Size for Code" = "Indent Size for Code";

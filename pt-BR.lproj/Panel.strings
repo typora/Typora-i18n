@@ -107,7 +107,7 @@
 "Export to..." = "Exportar para...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Deseja salvar as alterações feitas nesse documento?<br> Suas alterações serão perdidas se não salvá-las";
 "[Warning] Failed to attach bookmark for PDF file." = "[Atenção] Erro ao adicionar marcador ao arquivo PDF.";
-"Dark Theme not support" = "Tema Escuro não suportado"
+"Dark Theme not support" = "Tema Escuro não suportado";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Desculpe, a versão atual do Typora não exporta cores de fundo para PDF, então temas escuros ainda não são suportados para exportação para PDF. \nPor favor selecione um tema claro ou clique em \"Imprimir com tema padrão\"";
 "Print with default theme" = "Imprimir com tema padrão";
 "Export to PDF successfully." = "Exportado para PDF com sucesso.";
@@ -175,7 +175,7 @@
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora está tentando copiar as imagens inseridas para a pasta %@ de acordo com sua configuração de YAML Front Matter. Mas o destino não existe, criar agora?";
 "Create Folder and Continue" = "Criar Pasta e Continuar";
 "Document must be saved first" = "O documento precisa ser salvo primeiro";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vai copiar novas imagens para a pasta por caminho relativo, então salve o arquivo primeiro, por favor."
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vai copiar novas imagens para a pasta por caminho relativo, então salve o arquivo primeiro, por favor.";
 "Open Operation Failed" = "Erro na Operação de Abrir";
 
 "Support Documentation" = "Documentação de Apoio";

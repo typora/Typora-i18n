@@ -41,7 +41,7 @@
 "Browse All Versions" = "Navegar Por Todas as Versões";
 "Import" = "Importar";
 "Export" = "Exportar";
-"Page Setup" = "Configuração de Página"
+"Page Setup" = "Configuração de Página";
 "Print" = "Imprimir";
 
 /* Edit Menu */
@@ -65,7 +65,7 @@
 "Delete Line/Sentence" = "Remover Linha/Frase";
 "Jump To" = "Ir Para";
 "Jump to Top" = "Ir para o Topo";
-"Jump to Selection" = "Ir para Seleção"
+"Jump to Selection" = "Ir para Seleção";
 "Jump to Bottom" = "Ir para o Fundo";
 "Math Tools" = "Ferramentas Matemáticas";
 "Refresh All Math Expressions" = "Recarregar Todas Expressões Matemáticas";
@@ -134,7 +134,7 @@
 "Emphasis" = "Ênfase";
 "Underline" = "Sublinhado";
 "Code" = "Código";
-"Inline Math" = "Marcar como Equação"
+"Inline Math" = "Marcar como Equação";
 "Strike" = "Riscado";
 "Highlight" = "Realçar";
 "Superscript" = "Superscript";
@@ -145,7 +145,7 @@
 "Clear Format" = "Limpar Formato";
 
 /* View Menu */
-"View" = "Visualização";
+"View" = "Visualizar";
 "New Tab" = "Nova Aba";
 "Source Code Mode" = "Modo Código Fonte";
 "Focus Mode" = "Modo Foco";
@@ -217,7 +217,7 @@
 "Move to Trash" = "Mover para a Lixeira";
 
 /* Electron */
-"Learn Spelling" = "Adicionar ao Dicionário"
+"Learn Spelling" = "Adicionar ao Dicionário";
 "Copy / Paste As…" = "Copiar / Colar Como…";
 "Math" = "Matemática";
 "Insert" = "Inserir";

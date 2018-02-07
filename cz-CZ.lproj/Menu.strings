@@ -1,0 +1,238 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+
+ Japanese translation
+ by Tomohiko Hayashi(@tomochan001)
+ t.hayashi36@members.leeds.ac.uk
+
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Typoraについて";
+"Preferences" = "設定";
+"Check for Updates" = "更新を確認";
+"Services" = "サービス";
+"Hide Typora" = "Typoraを隠す";
+"Hide Others" = "他のウィンドウを隠す";
+"Show All" = "すべてを表示";
+"Quit Typora" = "Typoraを終了する";
+
+/* File Menu */
+
+"File" = "ファイル";
+"New" = "新規作成";
+"Open" = "開く";
+"Open Folder" = "フォルダを開く";
+"Reopen with Encoding" = "文字コードを指定して開く";
+"Auto" = "自動判定";
+"Open Recent" = "最近使ったファイル";
+"Clear Items" = "履歴を消去";
+"No Recent Files" = "履歴なし";
+"Open Quickly" = "高速で開く";
+"Open File Location" = "ファイルのある場所を開く";
+"Reveal in Library" = "ライブラリに表示する";
+"Reveal in File Tree" = "ファイルツリーに表示";
+"Close" = "閉じる";
+"Save" = "保存";
+"Save As" = "名前をつけて保存";
+"Duplicate" = "複製する";
+"Rename" = "名前を変更";
+"Move To" = "移動する";
+"Revert To" = "戻す";
+"Browse All Versions" = "すべてのバージョンを表示";
+"Import" = "インポート";
+"Export" = "エクスポート";
+"Page Setup" = "ページ設定";
+"Print" = "印刷";
+
+/* Edit Menu */
+"Edit" = "編集";
+"Undo" = "やり直し";
+"Redo" = "やり直しのやり直し";
+"Cut" = "カット";
+"Copy" = "コピー";
+"Paste" = "貼り付け";
+"Copy as Markdown" = "Markdownとしてコピー";
+"Copy as HTML Code" = "HTMLとしてコピー";
+"Paste as Plain Text" = "テキストとして貼り付け";
+"Select All" = "すべてを選択";
+"Select Line/Sentence" = "行・文を選択";
+"Select Styled Scope" = "連続書式を選択";
+"Select Word" = "単語を選択";
+"Delete" = "削除";
+"Delete Range" = "選択範囲を削除";
+"Delete Word" = "単語を削除";
+"Delete Styled Scope" = "連続書式内のテキストを削除";
+"Delete Line/Sentence" = "行・文を削除";
+"Jump To" = "ジャンプ";
+"Jump to Top" = "冒頭にジャンプ";
+"Jump to Selection" = "選択範囲にジャンプ";
+"Jump to Bottom" = "末尾にジャンプ";
+"Math Tools" = "数式ツール";
+"Refresh All Math Expressions" = "すべての数式を更新";
+"Image Tools" = "画像ツール";
+"Insert Local Images" = "ローカルの画像を挿入";
+"Upload Local Images via iPic" = "iPic経由でローカル画像をアップ";
+"When Insert Local Image" = "ローカル画像を挿入時の挙動";
+"Copy Image File to Folder" = "画像をフォルダにコピー";
+"Upload Image via iPic" = "iPic経由で画像をアップ";
+"Use Image Root Path" = "ルートパスで画像を指定";
+"Line Endings" = "改行コード";
+"Windows Line Endings (CRLF)" = "Windows改行 (CRLF)";
+"Unix Line Endings (LF)" = "Unix改行 (LF)";
+"Find" = "検索";
+"Find Next" = "次を検索";
+"Find Previous" = "前を検索";
+"Find and Replace" = "検索と置換";
+"Replace" = "置換";
+"Replace Next" = "次を置換";
+"Spelling and Grammar" = "校正";
+"Check Document Now" = "直ちに校正する";
+"Check Spelling While Typing" = "タイプ中にスペルチェック";
+"Check Grammar With Spelling" = "スペルと文法をチェックする";
+"Correct Spelling Automatically" = "スペルを自動修正";
+"Substitutions" = "置き換え";
+"Smart Quotes" = "スマート引用符";
+"Smart Dashes" = "スマートダッシュ";
+"Text Replacement" = "テキスト置き換え";
+"Speech" = "読み上げ";
+"Start Speaking" = "読み上げ開始";
+"Stop Speaking" = "読み上げ停止";
+
+/* Paragraph Menu */
+"Paragraph" = "段落";
+"Heading 1" = "見出し1";
+"Heading 2" = "見出し2";
+"Heading 3" = "見出し3";
+"Heading 4" = "見出し4";
+"Heading 5" = "見出し5";
+"Heading 6" = "見出し6";
+"Increase Heading Level" = "見出しレベルを上げる";
+"Decrease Heading Level" = "見出しレベルを下げる";
+"Table" = "表";
+"Code Fences" = "コードブロック";
+"Math Block" = "数式ブロック";
+"Quote" = "引用";
+"Ordered List" = "順序付きリスト";
+"Unordered List" = "順序なしリスト";
+"Task List" = "タスクリスト";
+"Task Status" = "タスクの状態";
+"Toggle Task Status" = "タスクの状態の切り替え";
+"Mark as Complete" = "完了にマーク";
+"Mark as Incomplete" = "未完にマーク";
+"List Indentation" = "リストのインデント";
+"Indent" = "インデントする";
+"Outdent" = "アウトデントする";
+"Link Reference" = "参照にリンク";
+"Footnotes" = "脚注";
+"Horizontal Line" = "水平線";
+"Table of Contents" = "目次";
+"YAML Front Matter" = "YAMLフロントマター";
+
+/* Format Menu */
+"Format" = "フォーマット";
+"Strong" = "ストロング";
+"Emphasis" = "強調";
+"Underline" = "下線";
+"Code" = "コード";
+"Inline Math" = "インライン数式";
+"Strike" = "打消し線";
+"Highlight" = "ハイライト";
+"Superscript" = "上付き文字";
+"Subscript" = "下付き文字";
+"Comment" = "コメント";
+"Hyperlink" = "ハイパーリンク";
+"Image" = "画像";
+"Clear Format" = "書式をクリア";
+
+/* View Menu */
+"View" = "表示";
+"New Tab" = "新しいタブ";
+"Source Code Mode" = "ソースコードモード";
+"Focus Mode" = "フォーカスモード";
+"Typewriter Mode" = "タイプライターモード";
+"Toggle Sidebar" = "サイドバー表示切替";
+"Outline" = "アウトライン";
+"Articles" = "文書";
+"File Tree" = "ファイルツリー";
+"Always on Top" = "常にトップに";
+"Full Screen" = "フルスクリーン";
+"Show Status Bar" = "ステイタスバーを表示";
+"Toggle Fullscreen" = "フルスクリーン表示切替";
+"Actual Size" = "実寸";
+"Zoom In" = "ズームイン";
+"Zoom Out" = "ズームアウト";
+"Switch Between Opened Documents" = "ファイルを切り替える";
+"Toggle DevTools" = "解発ツール表示切替";
+
+
+/* Themes Menu */
+"Themes" = "テーマ";
+
+/* Window Menu */
+"Window" = "ウィンドウ";
+"Minimize" = "最小化";
+"Zoom" = "ズーム";
+"Bring All to Front" = "全てを前面に";
+
+/* Help Menu */
+"Help" = "ヘルプ";
+"Credits" = "クレジット";
+"Change Log" = "変更履歴";
+"Website" = "ウェブサイト";
+"Feedback" = "フィードバック";
+"About" = "Typoraについて";
+
+/* Touchbar */
+"Block Styles" = "ブロックの書式";
+"Inline Styles" = "インラインの書式";
+"List Styles / Remove Block" = "リストの書式 / ブロックを削除";
+"Exit Source Code Mode" = "ソースコードモードを停止";
+"Toggle Source Code Mode" = "ソースコードモード切替";
+
+/* Extra Context Menu */
+"Table" = "表";
+"Insert Row Before" = "前に行を挿入";
+"Append Row After" = "後ろに行を追加";
+"Delete Row" = "行を削除";
+"Insert Column Before" = "前に列を追加";
+"Append Column After" = "後ろに列を追加";
+"Delete Column" = "列を削除";
+"Copy Table" = "表をコピー";
+"Delete Table" = "表を削除";
+"Insert Paragraph After" = "段落を挿入（後）";
+"Insert Paragraph Before" = "段落を挿入（前）";
+"Delete Code Block" = "コードブロックを削除";
+"Copy as MathML" = "MathMLとしてコピー";
+"Copy as Tex" = "Texとしてコピー";
+"Copy Math" = "数式をコピー";
+"Reveal in Finder" = "Finderで表示";
+"Open Link" = "リンクを開く";
+"Reveal in Sidebar" = "サイドバーに表示";
+"Open in New Window" = "新しいウィンドウで開く";
+"Copy File Path" = "ファイルパスをコピー";
+"New File" = "新規ファイル";
+"Rename" = "名前を変える";
+"New Folder" = "新規フォルダ";
+"Move to Trash" = "ゴミ箱に入れる";
+
+/* Electron */
+"Learn Seplling" = "スペリングを登録";
+"Copy / Paste As…" = "~としてコピー/貼り付け";
+"Math" = "数式";
+"Insert" = "挿入";
+"Inspect Element" = "要素を調査";
+"Copy to MS Word" = "Wordにコピー";
+"Paragraph (before)" = "段落（前）";
+"Paragraph (after)" = "段落（後）";
+
+"Search with Google" = "Googleで検索";
+"Search With…" = "~で検索";
+
+/* Related Panel */
+"Open Failed" = "開くのに失敗しました";
+"File or folder does not exist." = "ファイルやフォルダがありません";

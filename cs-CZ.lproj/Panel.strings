@@ -4,29 +4,29 @@
  
  by hi@typora.io 
 
- Japanese translation
- by Tomohiko Hayashi(@tomochan001)
- t.hayashi36@members.leeds.ac.uk
+ Czech translation
+ by David Husička (@DavidHusicka)
+ davidek251@seznam.cz
  
 */
 
 /* Preference Panel */
-"Preferences" = "設定";
+"Preferences" = "Preference";
 
 /* General Panel */
-"General" = "一般";
-"Window Style" = "ウィンドウのスタイル";
-"Classic" = "クラシック";
-"Seamless" = "シームレス";
-"Seamless window only support OS X later than 10.10." = "シームレスはmacOS 10.10以降のみでサポートされます";
-"Themes" = "テーマ";
-"Open Theme Folder" = "テーマフォルダを開く";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡潔な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.ioでご覧になれます";
-"Word Count" = "単語数を表示";
-"Always Show Word Count" = "常に単語数を表示";
-"Font Size" = "フォントサイズ";
-"Auto ( Recommended )" = "自動（推奨）";
-"Customized" = "カスタム";
+"General" = "Všeobecné";
+"Window Style" = "Styl okna";
+"Classic" = "Klasický";
+"Seamless" = "Bezešví";
+"Seamless window only support OS X later than 10.10." = "Bezešví je podporován jen u OS X starších než 10.10.";
+"Themes" = "Témata";
+"Open Theme Folder" = "Otevřít složku s tématy";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Prosím koukněte se na `Pomoc`->`Rychlý start` pro krátké instrukce. Navštivte http://theme.typora.io k získání většího množství instrukcí a témat.";
+"Word Count" = "Počet slov";
+"Always Show Word Count" = "Vždy zobrazovat počet slov";
+"Font Size" = "Velikost textu";
+"Auto ( Recommended )" = "Automaticky （ Doporučeno ）";
+"Customized" = "Přizpůsobené";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります";
  "Left Panel" = "左パネル";
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";

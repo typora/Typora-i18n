@@ -176,6 +176,7 @@
 
 /* Help Menu */
 "Help" = "Справка";
+"Privacy Policy" = "Политика конфиденциальности";
 "Credits" = "Лицензии";
 "Change Log" = "Лог изменений";
 "Website" = "Вебсайт";
@@ -231,3 +232,5 @@
 /* Related Panel */
 "Open Failed" = "Не получилось открыть";
 "File or folder does not exist." = "Файл или папка не существует.";
+
+"Prettify Source Code" = "Prettify Source Code";

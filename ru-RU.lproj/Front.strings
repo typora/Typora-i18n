@@ -96,7 +96,7 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Пожалуйста, определите ссылку на изображение \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Не удалось создать файлe";
+"Failed to create file" = "Не удалось создать файл";
 "Failed to create folder" = "Не удалось создать папку";
 "Failed to rename file" = "Не удалось переименовать файл";
 "Folder does not exist at %@" = "Папки не существует в %@";
@@ -123,3 +123,10 @@
 "Select Container Folder" = "Выбрать папку документа";
 
 "Saved" = "Сохранено";
+
+/* place holder in find & replace input */
+"search text" = "что найти";
+"replace with" = "на что заменить";
+/* search option */
+"Case Sensitive" = "Учитывать регистр";
+"Whole Word" = "Слово целиком";

@@ -34,8 +34,8 @@
 
 /* Tables */
 "Insert Table" = "Вставить таблицу";
-"Columns" = "Колонки";
-"Rows" = "Строки";
+"Columns" = "Ячеек";
+"Rows" = "Строк";
 "Align Left" = "Выровнять слева";
 "Align Center" = "Выровнять по центру";
 "Align Right" = "Выровнять справа";

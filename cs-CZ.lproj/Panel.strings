@@ -1,13 +1,13 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
- by hi@typora.io 
+
+ by hi@typora.io
 
  Czech translation
  by David Husička (@DavidHusicka)
  davidek251@seznam.cz
- 
+
 */
 
 /* Preference Panel */
@@ -27,14 +27,14 @@
 "Font Size" = "Velikost textu";
 "Auto ( Recommended )" = "Automaticky （ Doporučeno ）";
 "Customized" = "Přizpůsobené";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります";
- "Left Panel" = "左パネル";
-"Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
-"Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
-"Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に\n自動保存";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "左パネルのファイルを切り替えると、問い合わせなしにファイルを自動保存します。「文書を閉じるときは保存するか尋ねる」がシステム設定でオンになっているときは、このオプションは常にオンです。";
-"Language" = "言語";
-"System Language" = "システム言語";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Pokud je použita vlastní velikost textu, tak velikost textu bude záviset na velikosti textu a stylu CSS.";
+ "Left Panel" = "Levý panel";
+"Show Outline Panel by Default" = "Zobrazovat panel přehledu";
+"Collapsible Outline on Left Panel" = "Kolapsibilní přehled na levém panelu.";
+"Save without asking when\nswitch files on side panel" = "Uložit bez ptaní, když\nse přepnou soubory na bočním panelu";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Upravené soubory budou uloženy bez optání se, se přepnou soubory na levém panelu. \nKdyž \"Zeptat se na uchování změn, když se zavíra dokument\" je zapnuta v systémových preferencích, tohle je vždy zapnuto.";
+"Language" = "Jazyk";
+"System Language" = "Systémový jazyk";
 
 /* Editor Panel */
 "Editor" = "エディタ";
@@ -209,4 +209,3 @@
 "Something is Wrong…" = "問題が生じました";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
-

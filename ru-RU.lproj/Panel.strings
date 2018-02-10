@@ -13,7 +13,7 @@
 "Window Style" = "Стиль окна";
 "Classic" = "Классический";
 "Seamless" = "Бесшовный";
-"Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только системой OS X, начиная с версии 10.10.";
+"Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только в OS X не ниже версии 10.10.";
 "Themes" = "Темы";
 "Open Theme Folder" = "Открыть директорию тем";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
@@ -26,7 +26,7 @@
  "Left Panel" = "Боковая панель";
 "Show Outline Panel by Default" = "Отображать по умолчанию панель структуры";
 "Collapsible Outline on Left Panel" = "Иерархическая структура в боковой панели";
-"Save without asking when\nswitch files on side panel" = "Сохранять не спрашивая при переключении\nфайлов на боковой панели";
+"Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редактируемые файлы будут сохраняться без запроса, при переключении между ними в боковой панели. \nКогда параметр \"Спрашивать о сохранении изменений при закрытии документов\" активирован в системных настройках, это включено всегда.";
 "Language" = "Язык";
 "System Language" = "Язык системы";
@@ -45,12 +45,11 @@
 "Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
 "Auto pair common markdown syntax" = "Автозавершение основных тегов Markdown";
 "Live Rendering" = "Живой рендеринг";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Отображать исходник для обычных блоков\n(включая заголовки и т. п.) при фокусе";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Отображать исходник для обычных блоков при фокусе";
 "Default Copy Behavior" = "Стандартный тип\nкопирования";
-"(⌘ + c)" = "";
 "Copy Markdown source as plain text" = "Копировать разметку Markdown как обычный\nтекст";
 "Typewriter Mode" = "Режим печатной машинки";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Всегда хранить курсор в центре экрана\nкогда включен режим печатной машинки.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Всегда держать курсор в центре экрана";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -61,13 +60,12 @@
 "Superscript ( e.g: X^2^ )" = "Надстрочный ( e.g: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Подсветка     (e.g: ==key==)";
 "Diagrams" = "Диаграммы";
-"(Sequence, Flowchart and Mermaid)" = "(Последовательность, Схема и Сирена)";
+"(Sequence, Flowchart and Mermaid)" = "интерактивные, диаграммы последовательностей и др.";
 "Syntax Preference" = "Синтаксические предпочтения";
 "(only apply for styles created from menubar or hybrid view)" = "(применяются только к стилям, созданным из меню или гибридного просмотра)";
 "Strict Mode" = "Строгий режим";
 "(more strict to GFM spec)" = "(более суровый к спецификации GFM)";
 "Heading Style" = "Стиль заголовка";
-"Unordered List" = "Неупорядоченный список";
 "Code Fences" = "Подсветка кода";
 "Display line numbers for code fences" = "Отображать номера строк для блоков с кодом";
 "Math Blocks" = "Математические блоки";
@@ -79,7 +77,7 @@
 "Send Anonymous Usage Info" = "Отправлять анонимную статистику";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Требует Pandoc для продолжения...";
+"Require Pandoc to Continue..." = "Требуется Pandoc для продолжения...";
 "Follow instructions to install Pandoc" = "Следуйте инструкциям по установке Pandoc";
 "Cancel" = "Отмена";
 
@@ -97,8 +95,8 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc необходим для импорта этих форматов файлов";
 "Check help->Install and use Pandoc from menubar for detail" = "См. справка->Установка и использование Pandoc из меню";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Импорт или некоторые функции экспорта требуют установки <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
-"Follow Instructions to Install/Update Pandoc" = "Следуйте инструкциям по установке/обновлению Pandoc";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Импорт/некоторые варианты экспорта требуют установки <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "Установка/обновление Pandoc";
 "Export Failed" = "Ошибка экспорта";
 "Import Failed" = "Ошибка импорта";
 "Generated Image too Large" = "Сгенерированное изображение слишком велико";
@@ -122,10 +120,10 @@
 
 /* Word Count */
 "%d Words" = "%d слов";
-"Minutes" = "Минут";
-"Lines" = "Строк";
-"Words" = "Слов";
-"Characters" = "Символов";
+"Minutes" = "минут";
+"Lines" = "строк";
+"Words" = "слов";
+"Characters" = "символов";
 "In Selection" = "В выделенном";
 "Panel" = "Панель";
 
@@ -133,7 +131,7 @@
 "Appearance" = "Оформление";
 "System Native" = "Как в системе";
 "Unibody" = "Unibody";
-"(applied after restart)" = "(применяется после перезапуска)";
+"(applied after restart)" = "(изменения применятся после перезапуска)";
 "Status Bar" = "Строка состояния";
 "Show status bar" = "Показывать строку состояния";
 "Save & Recover" = "Сохранить и восстановить";
@@ -150,10 +148,10 @@
 "Auto correct spelling" = "Автоматически исправлять орфографию";
 "System" = "Системные";
 "Privacy" = "Приватность";
-"Developer" = "Разработчик";
+"Developer" = "Разработка";
 "Update" = "Обновления";
 "Check Updates" = "Проверить обновления";
-"Check updates automatically" = "Проверять обновления автоматически";
+"Check updates automatically" = "Проверять автоматически";
 "Advanced Settings" = "Расширенные настройки";
 "Open Advanced Settings" = "Открыть расширенные настройки";
 "Reset Advanced Settings" = "Сбросить расширенные настройки";
@@ -201,7 +199,12 @@
 "Path" = "Путь";
 "Export As..." = "Экспортировать как...";
 "More Formats" = "Дополнительные форматы";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "<a class='open-pandoc-guide'>Pandoc должен быть установлен</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc должен быть установлен</a>.";
 "Something is Wrong…" = "Что-то не так…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "По какой-то причине сохранить содержимое не удалось.<br/>Вы можете скопировать содержимое в новое окно Typora, а затем сохранить его. <br/>Ссылки по теме:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Сообщить об ошибках программы</a></li><li><a href='http://support.typora.io/Version-Control//'>Как восстановить потерянное содержимое</a></li></ul>";
 "Copy Content" = "Скопировать содержимое";
+
+
+"Total" = "Всего";
+"Word count only support OS X later than 10.10." = "Счётчик слов поддерживается только в OS X не ниже версии 10.10.";
+"Indent Size for Code" = "Размер отступа для кода";

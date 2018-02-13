@@ -99,39 +99,39 @@
 "Converting file with Pandoc. This may take some time." = "Převádím soubor pomocí Pandadocu. Může zabrat nějáký čas.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "このファイルのインポートにはPandocが必要です";
-"Check help->Install and use Pandoc from menubar for detail" = "メニューのヘルプ＞インストールをチェックしてください";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "インポート機能や一部のエキスポート機能には、<a href='http://pandoc.org/' target='_blank'>Pandoc</a> （v1.16）以上が必要です";
-"Follow Instructions to Install/Update Pandoc" = "指示に従ってPandocをインストール／アップデートしてください";
-"Export Failed" = "エキスポートに失敗しました";
-"Import Failed" = "インポートに失敗しました";
-"Generated Image too Large" = "生成された画像が大きすぎます";
-"Failed to export file to <em>{0}</em>" = "<em>{0}</em>へのエキスポートに失敗しました";
-"Failed to import file from <em>{0}</em>" = "<em>{0}</em>からのインポートに失敗しました";
-"File does not exist at <em>{0}</em>" = "<em>{0}</em>にファイルがありません";
-"Export to..." = "～にエキスポート";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか？<br>保存しないと変更は失われます";
-"[Warning] Failed to attach bookmark for PDF file." = "【警告】PDFファイルへのブックマークに失敗しました";
-"Dark Theme not support" = "ダークテーマはサポートされていません";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
-"Print with default theme" = "デフォルトのテーマで印刷";
-"Export to PDF successfully." = "PDFの出力に成功しました";
-"Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";
-"Exporting file using Pandoc. This may take some time." = "Pandocを使ってエキスポートしています。時間がかかることがあります";
+"Pandoc is needed for importing these file formats" = "Pandadoc je zapotřebí pro import těchto typů souborů";
+"Check help->Install and use Pandoc from menubar for detail" = "koukněte na Pomoc->Instalace a použití Pandocu z menu pro detaily.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import a pár funkcí pro export vyžaduje instalaci <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
+"Follow Instructions to Install/Update Pandoc" = "Následujte instrukce k instalaci/aktualizaci Pandadocu";
+"Export Failed" = "Export se nepovedl";
+"Import Failed" = "Import se nepovedl";
+"Generated Image too Large" = "Vytvořený obrázek je příliš veliký";
+"Failed to export file to <em>{0}</em>" = "Nepovedlo se exportovat soubor do <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Nepovedlo se importovat soubor z <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Soubor neexistuje na <em>{0}</em>";
+"Export to..." = "Exportovat do...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, jestli je neuložíte.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připevnit záložku pro PDF soubor.";
+"Dark Theme not support" = "Tmavé téma není podporováno";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
+"Print with default theme" = "Tisknout s původním tématem";
+"Export to PDF successfully." = "PDF bylo vyexportováno úspěšně.";
+"Converting file using Pandoc. This may take some time." = "Převádím soubor pomocí Pandadocu. Může zabrat nějáký čas.";
+"Exporting file using Pandoc. This may take some time." = "Exportuji soubor pomocí Pandadocu. Může zabrat nějáký čas.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "iPic経由で画像をアップロードしています";
-"Uploading in progress..." = "アップロード中";
-"Do not show this again" = "このメッセージを非表示に";
+"Uploading Images via iPic..." = "Nahrávám obrázky přes iPic...";
+"Uploading in progress..." = "Nahrávání probíha...";
+"Do not show this again" = "Nezobrazovat tohle znovu";
 
 /* Word Count */
-"%d Words" = "%d単語";
-"Minutes" = "分";
-"Lines" = "行";
-"Words" = "単語";
-"Characters" = "文字";
-"In Selection" = "選択範囲";
-"Panel" = "パネル";
+"%d Words" = "%d Slov";
+"Minutes" = "Minut";
+"Lines" = "Řádků";
+"Words" = " Slov";
+"Characters" = "Znaků";
+"In Selection" = "Ve výběru";
+"Panel" = "Panel";
 
 /* Windows Prefernce Panel*/
 "Appearance" = "表示";

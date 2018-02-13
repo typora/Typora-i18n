@@ -37,66 +37,66 @@
 "System Language" = "Systémový jazyk";
 
 /* Editor Panel */
-"Editor" = "エディタ";
-"Indent Size on Save" = "保存する";
-"only apply for quotes and lists created from menubar or hybrid view" = "メニューバーまたはハイブリッドビューで作られた引用とリストにのみ適用";
-"Trigger Autocomplete without ESC key for" = "～についてはESCなしでオートコンプリートを起動";
-"Emoji (e.g. :smile:)" = "絵文字（例：スマイル）";
-"Images Insert" = "画像挿入";
-"Use relative path if possible" = "可能であれば相対パスを使う";
-"Allow copy images to given folder" = "フォルダに画像をコピーする";
-"Allow upload to given server" = "サーバに画像をアップする";
-"Auto Pair" = "オートペア";
-"Auto pair brackets and quotes" = "カッコと引用符のオートペア";
-"Auto pair common markdown syntax" = "一般的なMarkdownをオートペア";
-"Live Rendering" = "ライブレンダリング";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "当該ブロック（見出しなど含む）のソースを\n表示";
-"Default Copy Behavior" = "デフォルトのコピー動作";
-"Copy Markdown source as plain text" = "マークダウンをテキストとしてコピー";
-"Typewriter Mode" = "タイプライターモード";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "タイプライターモードで、キャレットを常に\n中央に";
+"Editor" = "Editor";
+"Indent Size on Save" = "Zamýšlená velikost při ukládání";
+"only apply for quotes and lists created from menubar or hybrid view" = "Aplikovat pouze na citace a seznamy vytvořené z menu nebo hybridního zobrazení";
+"Trigger Autocomplete without ESC key for" = "Spustit automatické dokončení bez tlačítka ESC pro";
+"Emoji (e.g. :smile:)" = "Emoji (např. :smile:)";
+"Images Insert" = "Vložit obrázky";
+"Use relative path if possible" = "Použít relativní cesty pokud je možné";
+"Allow copy images to given folder" = "Povolit kopírování obrázků do dané složky";
+"Allow upload to given server" = "Povolit nahrávání do daného serveru";
+"Auto Pair" = "automatické párování";
+"Auto pair brackets and quotes" = "Automaticky párovat závorky a uvozovky";
+"Auto pair common markdown syntax" = "Automaticky párovata častou syntaxi markdownu";
+"Live Rendering" = "Živé zobrazení";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Zobrazit zdroj pro jednoduché bloky\n(včetně hlaviček, atd.) při najetí myši";
+"Default Copy Behavior" = "Standardní chování při kopírování";
+"Copy Markdown source as plain text" = "Kopírovat markdown jako holý text";
+"Typewriter Mode" = "Mód psacího stroje";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Pořád udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
 
 /* Markdown Panel */
-"Markdown" = "マークダウン";
-"(Following preferences will be applied after restart.)" = "（以下の設定は再起動後に有効になります）";
-"Syntax Support" = "文法サポート";
-"Inline Math  ( e.g: $\LaTeX$ )" = "インライン数式（例：$\LaTeX$）";
-"Subscript    ( e.g: H~2~O )" = "下付き文字（例：H~2~O）";
-"Superscript ( e.g: X^2^ )" = "上付き文字（例：X^2^）";
-"Highlight     (e.g: ==key==)" = "ハイライト（例：==key==）";
-"Diagrams" = "ダイアグラム";
-"(Sequence, Flowchart and Mermaid)" = "（Seqence、Flowchart、Mermaid）";
-"Syntax Preference" = "文法設定";
-"(only apply for styles created from menubar or hybrid view)" = "（メニューバーかハイブリッドビューで作成した書式にのみ適用";
-"Strict Mode" = "厳密モード";
-"(more strict to GFM spec)" = "Github Favored Markdownにより忠実に合わせる";
-"Heading Style" = "見出し書式";
-"Unordered List" = "順序なしテキスト";
-"Code Fences" = "コードブロック";
-"Display line numbers for code fences" = "コードブロックに行番号を表示";
-"Math Blocks" = "数式ブロック";
-"Auto Numbering Math Equations" = "数式に自動番号付け";
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Následující preference se projeví až po startu)";
+"Syntax Support" = "Podpora syntaxe";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Inline matematika（např：$\LaTeX$）";
+"Subscript    ( e.g: H~2~O )" = "Dolní indexy（např.：H~2~O）";
+"Superscript ( e.g: X^2^ )" = "Horní indexy（např.：X^2^）";
+"Highlight     (e.g: ==key==)" = "Zvýraznění（např.：==key==）";
+"Diagrams" = "Diagramy";
+"(Sequence, Flowchart and Mermaid)" = "（Sekvence, vývojový graf a mermaid）";
+"Syntax Preference" = "Preference syntaxe";
+"(only apply for styles created from menubar or hybrid view)" = "(pouze aplikovat pro styly vytvořené z menu nebo hybridního zobrazení)";
+"Strict Mode" = "Striktní mód";
+"(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
+"Heading Style" = "Styl nadpisu";
+"Unordered List" = "Neseřezený seznam";
+"Code Fences" = "Ohraničení kódu";
+"Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničené kódu";
+"Math Blocks" = "Matematické bloky";
+"Auto Numbering Math Equations" = "Automatické číslování matemetických rovnic";
 
 /* Security Panel */
-"Security" = "セキュリティ";
-"Enable Debug" = "デバッグをオンに";
-"Send Anonymous Usage Info" = "匿名使用データを送る";
+"Security" = "Bezpečnost";
+"Enable Debug" = "Zapnout debug";
+"Send Anonymous Usage Info" = "Posílat anonymní informace o používání";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Pandocが必要です";
-"Follow instructions to install Pandoc" = "指示に従ってPandocをインストールしてください";
-"Cancel" = "キャンセル";
+"Require Pandoc to Continue..." = "Je vyžadován Pandadoc pro pokračování...";
+"Follow instructions to install Pandoc" = "Následujte instrukce pro instalaci Pandadocu";
+"Cancel" = "Zrušit";
 
 /* Panodc Import Panel */
-"Importing..." = "インポートする";
-"Importing in progress..." = "インポート実行中";
-"Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります。";
+"Importing..." = "Importuji";
+"Importing in progress..." = "Import probíha...";
+"Converting file with Pandoc. This may take some time." = "Převádím soubor pomocí Pandadocu. Může to zabrat nějáký čas.";
 "Abort" = "中止";
 
 /* Panodc Export Panel */
-"Exporting..." = "エクスポートする";
-"Exporting in progress..." = "エクスポート実行中";
-"Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります";
+"Exporting..." = "Exportuji...";
+"Exporting in progress..." = "Export probíhá...";
+"Converting file with Pandoc. This may take some time." = "Převádím soubor pomocí Pandadocu. Může zabrat nějáký čas.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "このファイルのインポートにはPandocが必要です";

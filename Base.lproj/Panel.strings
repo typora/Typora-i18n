@@ -208,3 +208,4 @@
 "Total" = "Total";
 "Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
 "Indent Size for Code" = "Indent Size for Code";
+"Auto wrap long lines" = "Auto wrap long lines";

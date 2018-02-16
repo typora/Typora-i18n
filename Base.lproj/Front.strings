@@ -106,7 +106,7 @@
 "Stop" = "Stop";
 "back to document" = "back to document";
 "Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!"
+"Save File Failed!" = "Save File Failed!";
 "Cannot open folder {0}" = "Cannot open folder {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";

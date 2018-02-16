@@ -130,7 +130,7 @@
 "YAML Front Matter" = "YAML Front Matter";
 
 /* Format Menu */
-"Format" = "Formatierung";
+"Format" = "Format";
 "Strong" = "Fett";
 "Emphasis" = "Betont";
 "Underline" = "Unterstrichen";
@@ -146,7 +146,7 @@
 "Clear Format" = "Formatierung entfernen";
 
 /* View Menu */
-"View" = "Ansicht";
+"View" = "Darstellung";
 "New Tab" = "Neue Reiterkarte";
 "Source Code Mode" = "Quellcodemodus";
 "Focus Mode" = "Fokusmodus";

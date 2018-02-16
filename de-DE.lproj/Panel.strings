@@ -56,9 +56,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Die folgenden Einstellungen werden nach Neustart angewendet.)";
 "Syntax Support" = "Syntax Unterstützung";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Formeln innerhalb der Zeile  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Tiefstellung ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Hochstellung ( e.g: X^2^ )";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Formeln innerhalb der Zeile (e.g: $\LaTeX$)";
+"Subscript    ( e.g: H~2~O )" = "Tiefstellung (e.g: H~2~O)";
+"Superscript ( e.g: X^2^ )" = "Hochstellung (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "Hervorhebung     (e.g: ==key==)";
 "Diagrams" = "Diagramme";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart und Mermaid)";
@@ -66,7 +66,7 @@
 "(only apply for styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridsicht erstellt wurden)";
 "Strict Mode" = "Strikter Modus";
 "(more strict to GFM spec)" = "(folgt der GFM Spezifikation strikter)";
-"Heading Style" = "Überschriftenformatierung";
+"Heading Style" = "Überschrift";
 "Code Fences" = "Codeblöcke";
 "Display line numbers for code fences" = "Zeilennummern für Codeabschnitte anzeigen";
 "Math Blocks" = "Formelabschnitte";

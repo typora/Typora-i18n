@@ -1,0 +1,238 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+
+ Czech translation
+ by David Husička (@DavidHusicka)
+ davidek251@seznam.cz
+
+*/
+
+/* Typora Menu */
+
+"About Typora" = "O Typoře";
+"Preferences" = "Preference";
+"Check for Updates" = "Zkontrolovat aktualizace";
+"Services" = "Služby";
+"Hide Typora" = "Skrýt Typoru";
+"Hide Others" = "Skrýt ostatní";
+"Show All" = "Zobrazit vše";
+"Quit Typora" = "Odejít z Typory";
+
+/* File Menu */
+
+"File" = "Soubor";
+"New" = "Nový";
+"Open" = "Otevřít";
+"Open Folder" = "Otevřít složku";
+"Reopen with Encoding" = "Otevřít s kódováním";
+"Auto" = "Auto";
+"Open Recent" = "Otevřít poslední";
+"Clear Items" = "Vyčistit";
+"No Recent Files" = "Žádné poslední soubory";
+"Open Quickly" = "Otevřít rychle";
+"Open File Location" = "Otevřít umístění souboru";
+"Reveal in Library" = "Ukázat v knihovně";
+"Reveal in File Tree" = "Ukázat ve stromu";
+"Close" = "Zavřít";
+"Save" = "Uložit";
+"Save As" = "Uložit jako";
+"Duplicate" = "Duplikovat";
+"Rename" = "Přejmenovat";
+"Move To" = "Přesunout do";
+"Revert To" = "Vrátit do";
+"Browse All Versions" = "Procházet všechny verze";
+"Import" = "Importovat";
+"Export" = "Exportovat";
+"Page Setup" = "Nastavení stránky";
+"Print" = "Tisk";
+
+/* Edit Menu */
+"Edit" = "Editovat";
+"Undo" = "Zpět";
+"Redo" = "Navrátit";
+"Cut" = "Vyjmout";
+"Copy" = "Kopírovat";
+"Paste" = "Vložit";
+"Copy as Markdown" = "Kopírovat jako Markdown";
+"Copy as HTML Code" = "Kopírovat jako HTML";
+"Paste as Plain Text" = "Kopírovat jako prostý text";
+"Select All" = "Vybrat vše";
+"Select Line/Sentence" = "Vybrat řádek/větu";
+"Select Styled Scope" = "Vybrat stylizovaný rozsah";
+"Select Word" = "Vybrat slovo";
+"Delete" = "Smazat";
+"Delete Range" = "Smazat vzdálenost";
+"Delete Word" = "Smazat slovo";
+"Delete Styled Scope" = "Smazat stylizovaný rozsah";
+"Delete Line/Sentence" = "Vymazat řádek/větu";
+"Jump To" = "Skočit na";
+"Jump to Top" = "Skočit navrch";
+"Jump to Selection" = "Skočit na výběr";
+"Jump to Bottom" = "Skočit naspod";
+"Math Tools" = "Matematické nástroje";
+"Refresh All Math Expressions" = "Obnovit veškeré matematické výrazy";
+"Image Tools" = "Nástroje obrázku";
+"Insert Local Images" = "Vložit místní obrázek";
+"Upload Local Images via iPic" = "Nahrát místní obrázek přes iPic";
+"When Insert Local Image" = "Když vložíte místní obrázek";
+"Copy Image File to Folder" = "Kopírovat obrázek do složky";
+"Upload Image via iPic" = "Nahrát obrázek přes iPic";
+"Use Image Root Path" = "Použít kořenový adresář obrázku";
+"Line Endings" = "Konce řádků";
+"Windows Line Endings (CRLF)" = "Konce řádků Windows (CRLF)";
+"Unix Line Endings (LF)" = "Konce řádků Unix (LF)";
+"Find" = "Najít";
+"Find Next" = "Najít další";
+"Find Previous" = "Najít předchozí";
+"Find and Replace" = "Najít a nahradit";
+"Replace" = "Nahradit";
+"Replace Next" = "Nahradit další";
+"Spelling and Grammar" = "Výslovnost a gramatika";
+"Check Document Now" = "Zkontrolovat dokument nyní";
+"Check Spelling While Typing" = "Kontrolovat výslovnost při psaní";
+"Check Grammar With Spelling" = "Zkontrolovat gramatiku s výslovností";
+"Correct Spelling Automatically" = "Obžalovat výslovnost automaticky";
+"Substitutions" = "Záměna";
+"Smart Quotes" = "Chytré uvozovky";
+"Smart Dashes" = "Chytré pomlčky";
+"Text Replacement" = "Nahrazení textu";
+"Speech" = "Mluva";
+"Start Speaking" = "Začít mluvit";
+"Stop Speaking" = "Přestat mluvit";
+
+/* Paragraph Menu */
+"Paragraph" = "Odstavec";
+"Heading 1" = "Nadpis1";
+"Heading 2" = "Nadpis2";
+"Heading 3" = "Nadpis3";
+"Heading 4" = "Nadpis4";
+"Heading 5" = "Nadpis5";
+"Heading 6" = "Nadpis6";
+"Increase Heading Level" = "Zvýšit úroveň nadpisu";
+"Decrease Heading Level" = "Snížit úroveň nadpisu";
+"Table" = "Tabulka";
+"Code Fences" = "Ohraničení kódu";
+"Math Block" = "Matematický blok";
+"Quote" = "Citát";
+"Ordered List" = "Seřazený seznam";
+"Unordered List" = "Neseřazený seznam";
+"Task List" = "Seznam úloh";
+"Task Status" = "Status úloh";
+"Toggle Task Status" = "Přepnout status úlohy";
+"Mark as Complete" = "Označit za dokončené";
+"Mark as Incomplete" = "Označit za nedokončené";
+"List Indentation" = "Odsazení seznamu";
+"Indent" = "Odsadit";
+"Outdent" = "Přiblížit";
+"Link Reference" = "Reference odkaz";
+"Footnotes" = "Poznámky pod čarou";
+"Horizontal Line" = "Horizontální čára";
+"Table of Contents" = "Obsah";
+"YAML Front Matter" = "Titulní stránka YAML";
+
+/* Format Menu */
+"Format" = "Formát";
+"Strong" = "Tučné";
+"Emphasis" = "Důraz";
+"Underline" = "Podtržení";
+"Code" = "Kód";
+"Inline Math" = "Inline matematika";
+"Strike" = "Přeškrtnout";
+"Highlight" = "Zvýraznit";
+"Superscript" = "Horní index";
+"Subscript" = "Dolní index";
+"Comment" = "Komentář";
+"Hyperlink" = "Hypertextový odkaz";
+"Image" = "Obrázek";
+"Clear Format" = "Smazat formát";
+
+/* View Menu */
+"View" = "Zobrazení";
+"New Tab" = "Nová záložka";
+"Source Code Mode" = "Mód zdrojového kódu";
+"Focus Mode" = "Mód soustředění";
+"Typewriter Mode" = "Mód psacího stroje";
+"Toggle Sidebar" = "Přepnout boční lištu";
+"Outline" = "Obrys";
+"Articles" = "Články";
+"File Tree" = "Strong souborů";
+"Always on Top" = "Vždy na vrchu";
+"Full Screen" = "Režim celé obrazovky";
+"Show Status Bar" = "Zobrazit lištu statusu";
+"Toggle Fullscreen" = "Přepnout režim celé obrazovky";
+"Actual Size" = "Současná velikost";
+"Zoom In" = "Přiblížit";
+"Zoom Out" = "Oddálit";
+"Switch Between Opened Documents" = "Přepnout mezi otevřenými dokumenty";
+"Toggle DevTools" = "Přepnout vývojářské nástroje";
+
+
+/* Themes Menu */
+"Themes" = "Téma";
+
+/* Window Menu */
+"Window" = "Okno";
+"Minimize" = "Minimalizovat";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Vložit v dopředu";
+
+/* Help Menu */
+"Help" = "Pomoc";
+"Credits" = "Zásluhy";
+"Change Log" = "Seznam změn";
+"Website" = "Webové stránky";
+"Feedback" = "Zpětná vazba";
+"About" = "O Typoře";
+
+/* Touchbar */
+"Block Styles" = "Styly bloků";
+"Inline Styles" = "Inline Styly";
+"List Styles / Remove Block" = "Styly seznamů / Odstranit blok";
+"Exit Source Code Mode" = "Odejít z módu zdrojového kódu";
+"Toggle Source Code Mode" = "Přepnout mód zdrojového kódu";
+
+/* Extra Context Menu */
+"Table" = "Tabulka";
+"Insert Row Before" = "Přidat řádek před";
+"Append Row After" = "Přidat řádek za";
+"Delete Row" = "Smazat řádek";
+"Insert Column Before" = "Vložit sloupec před";
+"Append Column After" = "Vložit sloupec za";
+"Delete Column" = "Smazat sloupec";
+"Copy Table" = "Kopírovat tabulku";
+"Delete Table" = "Smazat tabulku";
+"Insert Paragraph After" = "Vložit odstavec z";
+"Insert Paragraph Before" = "Vložit odstavec před";
+"Delete Code Block" = "Smazat blok kódu";
+"Copy as MathML" = "Kopírovat jako MathML";
+"Copy as Tex" = "Kopírovat jako Tex";
+"Copy Math" = "Kopírovat matematiku";
+"Reveal in Finder" = "Zobrazit ve Finderu";
+"Open Link" = "Kopírovat odkaz";
+"Reveal in Sidebar" = "Zobrazit boční lištu";
+"Open in New Window" = "Otevřít v novém okně";
+"Copy File Path" = "Kopírovat adresu souboru";
+"New File" = "Nový soubor";
+"Rename" = "Přejmenovat";
+"New Folder" = "Boobs složka";
+"Move to Trash" = "Hodit do koše";
+
+/* Electron */
+"Learn Seplling" = "Naučit se výslovnost";
+"Copy / Paste As…" = "Kopírovat / Vložit jako…";
+"Math" = "Matematika";
+"Insert" = "Vložit";
+"Inspect Element" = "Zkontrolovat prvek";
+"Copy to MS Word" = "Kopírovat do Wordu";
+"Paragraph (before)" = "Odstavec (před)";
+"Paragraph (after)" = "Odstavec (za)";
+
+"Search with Google" = "Hledat přes Google";
+"Search With…" = "Hledat přes…";
+
+/* Related Panel */
+"Open Failed" = "Otevírání se nezdařilo";
+"File or folder does not exist." = "Soubor nebo složka neexistuje";

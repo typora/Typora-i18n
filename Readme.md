@@ -1,5 +1,4 @@
 # Translating Typora
-This is Czech translation.
 
 If you want to help translate Typora into other languages, we would very appreciate that.
 

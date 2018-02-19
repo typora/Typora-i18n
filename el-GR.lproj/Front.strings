@@ -3,130 +3,131 @@
   Typora
 
  by hi@typora.io
+ translated by Kiriakos Velissariou <kir.velissariou@gmail.com>
 */
 
 /* Common */
 "OK" = "OK";
-"Cancel" = "Cancel";
-"Yes" = "Yes";
-"No" = "No";
-"Close" = "Close";
-"Select" = "Select";
-"Continue" = "Continue";
-"Learn More…" = "Learn More…";
-"Untitled" = "Untitled";
-"Undo" = "Undo";
-"Dismiss" = "Dismiss";
-"Confirm" = "Confirm";
-"Error" = "Error";
+"Cancel" = "Ακύρωση";
+"Yes" = "Ναι";
+"No" = "Όχι";
+"Close" = "Κλείσιμο";
+"Select" = "Επιλογή";
+"Continue" = "Συνέχεια";
+"Learn More…" = "Μάθετε περισσότερα…";
+"Untitled" = "Χωρίς τίτλο";
+"Undo" = "Επαναφορά";
+"Dismiss" = "Απόρριψη";
+"Confirm" = "Επιβεβαίωση";
+"Error" = "Λάθος";
 
 /* Search Panel */
-"Search" = "Search";
-"Replace" = "Replace";
-"All" = "All";
-"Search text not found in article" = "Search text not found in article";
-"search text" = "search text";
+"Search" = "Εύρεση";
+"Replace" = "Αντικατάσταση";
+"All" = "Όλα";
+"Search text not found in article" = "Το κείμενο δεν βρέθηκε στο άρθρο";
+"search text" = "αναζήτηση κειμένου";
 
 /* Quick Open */
-"Search by file name" = "Search by file name";
-"Searching" = "Searching";
-"Gathering more results" = "Gathering more results";
+"Search by file name" = "Αναζήτηση με όνομα αρχείου";
+"Searching" = "Εύρεση";
+"Gathering more results" = "Συγκέντρωση περισσότερων αποτελεσμάτων";
 
 /* Tables */
-"Insert Table" = "Insert Table";
-"Columns" = "Columns";
-"Rows" = "Rows";
-"Align Left" = "Align Left";
-"Align Center" = "Align Center";
-"Align Right" = "Align Right";
-"Resize Table" = "Resize Table";
-"Delete Table" = "Delete Table";
+"Insert Table" = "Εισαγωγή Πίνακα";
+"Columns" = "Στήλες";
+"Rows" = "Σειρές";
+"Align Left" = "Ευθυγράμμιση Αριστερά";
+"Align Center" = "Ευθυγράμμιση στο Κέντρο";
+"Align Right" = "Ευθυγράμμιση Δεξιά";
+"Resize Table" = "Αλλαγή Μεγέθους Πίνακα";
+"Delete Table" = "Διαγραφή Πίνακα";
 
 /* Images */
-"Copy Image To..." = "Copy Image To...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
-"Create Folder" = "Create Folder";
+"Copy Image To..." = "Αντιγραφή Εικόνας Σε...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Το Typora προσπαθεί να αντιγράψει την νέα εικόνα στον φάκελο <code id='image-create-folder-target'></code> σύμφωνα με τις ρυθμίσεις του YAML Front Matter. Ωστόσο ο φάκελος δεν υπάρχει, θα τον δημιουργήσετε τώρα;";
+"Create Folder" = "Δημιουργία Φακέλου";
 
 /* Math */
-"Edit" = "Edit";
-"Delete Math" = "Delete Math";
-"Preview" = "Preview";
+"Edit" = "Επεξεργασία";
+"Delete Math" = "Διαγραφή Math";
+"Preview" = "Προεπισκόπιση";
 
 /* Sidebar */
-"Articles" = "Articles";
-"Outline" = "Outline";
-"Files" = "Files";
-"Switch to File List view" = "Switch to File List view";
-"Switch to File Tree view" = "Switch to File Tree view";
-"Switch to Outline view" = "Switch to Outline view";
-"Close sidebar" = "Close sidebar";
-"Loading" = "Loading";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
-"New File" = "New File";
-"Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Open Folder...";
-"Action" = "Action";
-"Close Sidebar Menu" = "Close Sidebar Menu";
-"Reveal in Finder" = "Reveal in Finder";
-"Reveal in File Explorer" = "Reveal in File Explorer";
-"Refresh Folder" = "Refresh Folder";
-"Sort" = "Sort";
-"Group By Folder" = "Group By Folder";
-"Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
-"Recent Locations" = "Recent Locations";
-"Location" = "Location";
-"Switch File List/Tree View" = "Switch File List/Tree View";
-"No Files Available" = "No Files Available";
-"No Folder is Opened." = "No Folder is Opened.";
-"Outline is Empty." = "Outline is Empty.";
+"Articles" = "Άρθρα";
+"Outline" = "Περίγραμμα";
+"Files" = "Αρχεία";
+"Switch to File List view" = "Αλλάξτε σε προβολή Λίστας Αρχείου";
+"Switch to File Tree view" = "Αλλάξτε σε προβολή Δενδρογράμματος";
+"Switch to Outline view" = "Αλλάξτε σε προβολή Περιγράμματος";
+"Close sidebar" = "Κλείστε την πλευρική μπάρα";
+"Loading" = "Φορτώνει";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Οι επιλεγμένοι φάκελοι περιέχουν πολλά αρχεία. \nΠαρακαλώ αλλάξτε σε <a id='switch-to-tree-on-oversize'>προβολή Δενδρογράμματος</a> για καλύτερη απόδοση.";
+"New File" = "Νέο Αρχείο";
+"Unpin Outline Panel" = "Ξεκαρφίτσωμα Πίνακα Ελέγχου";
+"Open Folder..." = "Άνοιγμα Αρχείου...";
+"Action" = "Ενέργεια";
+"Close Sidebar Menu" = "Κλείστε το Πλευρικό Μενού";
+"Reveal in Finder" = "Δείτε στον Finder";
+"Reveal in File Explorer" = "Δείτε στον File Explorer";
+"Refresh Folder" = "Ανανέωση Φακέλου";
+"Sort" = "Ταξινόμηση";
+"Group By Folder" = "Ομαδοποίηση Ανά Φάκελο";
+"Sort Naturally" = "Φυσική Ταξινόμηση";
+"Sort by Name" = "Ταξινόμηση ανά Όνομα";
+"Sort by Modification Date" = "Ταξινόμηση ανά Ημερομηνία Τροποποίησης";
+"Recent Locations" = "Πρόσφατες Τοποθεσίες";
+"Location" = "Τοποθεσία";
+"Switch File List/Tree View" = "Αλλάξετε σε Προβολή Λίστας/Δενδρογράμματος";
+"No Files Available" = "Δεν υπάρχουν Διαθέσιμα Αρχεία";
+"No Folder is Opened." = "Δεν υπάρχουν Ανοιχτοί Φάκελοι.";
+"Outline is Empty." = "Το περίγραμμα είναι Άδειο.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Toggle Sidebar";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
-"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Sidebar" = "Εναλλαγή Πλευρικής Μπάρας";
+"Toggle Source Code Mode" = "Εναλλαγή Προβολής Πηγαίου Κώδικα";
+"Exit Source Code Mode" = "Έξοδος από Προβολή Πηγαίου Κώδικα";
 
-"Table of Contents" = "Table of Contents";
-"Empty Diagram" = "Empty Diagram";
-"Input Math TeX here" = "Input Math TeX here";
+"Table of Contents" = "Πίνακας Περιεχομένων";
+"Empty Diagram" = "Καθάρισμα Διαγράμματος";
+"Input Math TeX here" = "Εισάγετε Math TeX εδώ";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Όρίσε αναφορά υποσημείωσης <b>{0}</b> με σύνταξη <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Ορίστε αναφορά συνδέσμου <b>[{0}]</b> με σύνταξη <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Ορίστε αναφορά εικόνας από \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Failed to create file";
-"Failed to create folder" = "Failed to create folder";
-"Failed to rename file" = "Failed to rename file";
-"Folder does not exist at %@" = "Folder does not exist at %@";
-"File with the same name already exists at target path" = "File with the same name already exists at target path";
-"Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
-"Stop" = "Stop";
-"back to document" = "back to document";
-"Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!";
-"Cannot open folder {0}" = "Cannot open folder {0}";
+"Failed to create file" = "Αποτυχία δημιουργίας αρχείου";
+"Failed to create folder" = "Αποτυχία δημιουργίας φακέλου";
+"Failed to rename file" = "Αποτυχία μετονομασίας αρχείου";
+"Folder does not exist at %@" = "Ο φάκελος δεν υπάρχει στο %@";
+"File with the same name already exists at target path" = "Ένα αρχείο με την ίδια ονομασία υπάρχει στην τοποθεσία";
+"Apply to All" = "Εφαρμογή σε Όλα";
+"Overwrite" = "Αντικατάσταση";
+"Stop" = "Διακοπή";
+"back to document" = "πίσω στο έγγραφο";
+"Failed to load file" = "Αποτυχία φόρτωσης αρχείου";
+"Save File Failed!" = "Αποτυχία Αποθήκευσης Αρχείου!";
+"Cannot open folder {0}" = "Αδυναμία ανοίγματος φακέλου {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+"File content is changed by external applications. Reload content from disk ?" = "Το περιεχόμενο του αρχείου υπέστη αλλαγή από εξωτερικές εφαρμογές. Εκ νέου φόρτωση από τον δίσκο;";
+"Should continue moving and overwrite exisiting file(s) ?" = "Συνέχιση μεταφοράς και αντικατάσταση αρχείου(ων);";
 
-"Rename Failed" = "Rename Failed";
-"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Rename Failed" = "Η Μετονομασία Απέτυχε";
+"Rename to \"{0}\" ?" = "Μετονομασία σε \"{0}\" ;";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Αποτυχία μετονομασίας από \"{0}\" σε \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
-"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
-"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
-"Select Container Folder" = "Select Container Folder";
+"Successfully uploaded {0} images." = "Επιτυχής φόρτωση {0} εικόνων.";
+"Failed to upload image. Error Message:" = "Αποτυχία φόρτωσης εικόνας. Μήνυμα Σφάλματος:";
+"Failed to Copy Image to Target Folder." = "Αποτυχία Αντιγραφής Εικόνας στον Φάκελο.";
+"Select Container Folder" = "Επιλογή φακέλου";
 
-"Saved" = "Saved";
+"Saved" = "Αποθηκευμένο";
 
 /* place holder in find & replace input */
-"search text" = "search text";
-"replace with" = "replace with";
+"search text" = "εύρεση κειμένου";
+"replace with" = "αντικατάσταση με";
 /* search option */
-"Case Sensitive" = "Case Sensitive";
-"Whole Word" = "Whole Word";
+"Case Sensitive" = "Διάκριση Πεζών - Κεφαλαίων";
+"Whole Word" = "Ολόκληρη Λέξη";

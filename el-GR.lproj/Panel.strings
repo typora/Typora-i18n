@@ -2,210 +2,212 @@
  Panel.strings
  translations for preference panel and other dialogs
  
- by hi@typora.io 
+ by hi@typora.io
+ translated by Kiriakos Velissariou <kir.velissariou@gmail.com>
  */
 
 /* Preference Panel */
-"Preferences" = "Preferences";
+"Preferences" = "Προτιμήσεις";
 
 /* General Panel */
-"General" = "General";
-"Window Style" = "Window Style";
-"Classic" = "Classic";
-"Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
-"Themes" = "Themes";
-"Open Theme Folder" = "Open Theme Folder";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions.";
-"Word Count" = "Word Count";
-"Always Show Word Count" = "Always Show Word Count";
-"Font Size" = "Font Size";
-"Auto ( Recommended )" = "Auto ( Recommended )";
-"Customized" = "Customized";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
- "Left Panel" = "Left Panel";
-"Show Outline Panel by Default" = "Show Outline Panel by Default";
-"Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
-"Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled.";
-"Language" = "Language";
-"System Language" = "System Language";
+"General" = "Γενικά";
+"Window Style" = "Στυλ Παραθύρου";
+"Classic" = "Κλασσικό";
+"Seamless" = "Αδιάλειπτο";
+"Seamless window only support OS X later than 10.10." = "Το αδιάλειπτο παράθυρο υποστηρίζει εκδόσεις OS X μεταλύτερες από 10.10.";
+"Themes" = "Θέματα";
+"Open Theme Folder" = "Άνοιγμα Φακέλου Θεμάτων";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Παρακαλώ ελέγξτε `βοήθεια`->`Γρήγορη Εκκίνηση` για μια σύντομη εισαγωγή. Επισκεφτείτε το http://theme.typora.io για περισσότερα θέματα ή οδηγίες.";
+"Word Count" = "Μετρητής Λέξεων";
+"Always Show Word Count" = "Μόνιμη Προβολή Μετρητή Λέξεων";
+"Font Size" = "Μέγεθος Γραμματοσειράς";
+"Auto ( Recommended )" = "Αυτόματο ( Συνίσταται )";
+"Customized" = "Προσαρμοσμένο";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Εάν χρησιμοποιείται προσαρμοσμένο μέγεθος γραμματοσειράς, το πραγματικό μέγεθος γραμματοσειράς θα εξαρτηθεί από το βασικό μέγεθος και το στυλ που βρίσκεται στο css.";
+"Left Panel" = "Αριστερό Πάνελ";
+"Show Outline Panel by Default" = "Προβολή Πίνακα Περιγράμματος σαν Προεπιλογή";
+"Collapsible Outline on Left Panel" = "Πτυσσόμενο Περίγραμμα στο Αριστερό Πάνελ";
+"Save without asking when\nswitch files on side panel" = "Αποθήκευση χωρίς να ερωτηθεί το πότε\nαλλαγή αρχείων στο πλαϊνό πάνελ";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Τα επεξεργασμένα αρχεία δεν θα αποθηκεύονται χωρίς ερώτηση για το πότε έχουν αλλαχθεί αρχεία στο αριστερό πάνελ. \nΌταν το \"Ερωτηθείτε για την διατήρηση των αλλαγών κατά το κλείσιμο των εγγράφων\" είναι ενεργό στις Προτιμήσεις Συστήματος, είναι πάντα ενεργό.";
+"Language" = "Γλώσσα";
+"System Language" = "Γλώσσα Συστήματος";
 
 /* Editor Panel */
-"Editor" = "Editor";
-"Indent Size on Save" = "Indent Size on Save";
-"only apply for quotes and lists created from menubar or hybrid view" = "only apply for quotes and lists created from menubar or hybrid view";
-"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
+"Editor" = "Επεξεργαστής";
+"Indent Size on Save" = "Μέγεθος Εσοχής κατά την Αποθήκευση";
+"only apply for quotes and lists created from menubar or hybrid view" = "εφαρμόζεται μόνo στα εισαγωγικά και τις λίστες που δημιουργήθηκαν από το μενού ή την υβριδική προβολή";
+"Trigger Autocomplete without ESC key for" = "Ενεργοποίηση Αυτόματης Συμπλήρωσης χωρίς το πλήκτρο ESC για";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
-"Images Insert" = "Images Insert";
-"Use relative path if possible" = "Use relative path if possible";
-"Allow copy images to given folder" = "Allow copy images to given folder";
-"Allow upload to given server" = "Allow upload to given server";
-"Auto Pair" = "Auto Pair";
-"Auto pair brackets and quotes" = "Auto pair brackets and quotes";
-"Auto pair common markdown syntax" = "Auto pair common markdown syntax";
-"Live Rendering" = "Live Rendering";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
-"Default Copy Behavior" = "Default Copy Behavior";
-"Copy Markdown source as plain text" = "Copy Markdown source as plain text";
-"Typewriter Mode" = "Typewriter Mode";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Always keep caret in middle of screen\nwhen typewriter mode is enabled.";
+"Images Insert" = "Εισαγωγή Εικόνων";
+"Use relative path if possible" = "Χρησιμοποίηση σχετικού μονοπατιού εάν αυτό είναι δυνατό";
+"Allow copy images to given folder" = "Επιτρέψτε την αντιγραφή εικόνων στον συγκεκριμένο φάκελο";
+"Allow upload to given server" = "Επιτρέψτε την μεταφόρτωση στον συγκεκριμένο εξυπηρετητή";
+"Auto Pair" = "Αυτόματη Ζεύξη";
+"Auto pair brackets and quotes" = "Αυτόματη αντιστοίχιση παρενθέσεων και εισαγωγικών";
+"Auto pair common markdown syntax" = "Αυτόματη αντιστοίχιση κοινών markdown στοιχείων";
+"Live Rendering" = "Ζωντανή Απόδοση";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Προβολή πηγαίου κώδικα για απλά μπλοκς \n(συμπεριλαμβανομένων κεφαλίδων, κλπ.) κατά την εστίαση";
+"Default Copy Behavior" = "Προεπιλεγμένη Συμπεριφορά Αντιγραφής";
+"Copy Markdown source as plain text" = "Αντιγραφή Markdown πηγαίου κώδικα σαν απλό κείμενο";
+"Typewriter Mode" = "Λειτουργία Γραφομηχανής";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Όταν η λειτουργία γραφομηχανής είναι ενεργή, κρατήστε την αγκύλη στο κέντρο της οθόνης.";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
-"Syntax Support" = "Syntax Support";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
-"Diagrams" = "Diagrams";
-"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
-"Syntax Preference" = "Syntax Preference";
-"(only apply for styles created from menubar or hybrid view)" = "(only apply for styles created from menubar or hybrid view)";
-"Strict Mode" = "Strict Mode";
-"(more strict to GFM spec)" = "(more strict to GFM spec)";
-"Heading Style" = "Heading Style";
-"Code Fences" = "Code Fences";
-"Display line numbers for code fences" = "Display line numbers for code fences";
-"Math Blocks" = "Math Blocks";
-"Auto Numbering Math Equations" = "Auto Numbering Math Equations";
+"(Following preferences will be applied after restart.)" = "(Οι ακόλουθες προτιμήσεις θα εφαρμοστούν μετά την επανεκκίνηση.)";
+"Syntax Support" = "Υποστήριξη Σύνταξης";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Math Εντός γραμμής  ( π.χ: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Υποδείκτης    ( π.χ: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Υπερδείκτης ( π.χ: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Έμφαση     (π.χ: ==key==)";
+"Diagrams" = "Διαγράμματα";
+"(Sequence, Flowchart and Mermaid)" = "(Αλληλουχία, Διάγραμμα Ροής και Mermaid)";
+"Syntax Preference" = "Προτίμηση Σύνταξης";
+"(only apply for styles created from menubar or hybrid view)" = "(εφαρμόζεται μόνο για στυλ που έχουν δημιουργηθεί από το μενού ή την υβριδική προβολή)";
+"Strict Mode" = "Αυστηρή Λειτουργία";
+"(more strict to GFM spec)" = "(περισσότερο αυστηρό στο GFM spec)";
+"Heading Style" = "Στυλ Επικεφαλίδας";
+"Code Fences" = "Φράχτες Κώδικα";
+"Display line numbers for code fences" = "Προβολή αριθμού γραμμής για φράχτες κώδικα";
+"Math Blocks" = "Math Μπλοκ";
+"Auto Numbering Math Equations" = "Αυτόματη Αρίθμηση Εξισώσεων Math";
 
 /* Security Panel */
-"Security" = "Security";
-"Enable Debug" = "Enable Debug";
-"Send Anonymous Usage Info" = "Send Anonymous Usage Info";
+"Security" = "Ασφάλεια";
+"Enable Debug" = "Ενεργοποίηση Αποσφαλμάτωσης";
+"Send Anonymous Usage Info" = "Αποστολή Ανώνυμων Πληροφοριών Χρήσης";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Require Pandoc to Continue...";
-"Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
-"Cancel" = "Cancel";
+"Require Pandoc to Continue..." = "Απαιτείται το Pandoc για Συνέχεια...";
+"Follow instructions to install Pandoc" = "Ακολουθήστε τις οδηγίες για την εγκατάσταση του Pandoc";
+"Cancel" = "Ακύρωση";
 
 /* Pandoc Import Panel */
-"Importing..." = "Importing...";
-"Importing in progress..." = "Importing in progress...";
-"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
-"Abort" = "Abort";
+"Importing..." = "Εισαγωγή...";
+"Importing in progress..." = "Εισαγωγή σε εξέλιξη...";
+"Converting file with Pandoc. This may take some time." = "Μετατροπή αρχείου με Pandoc. Αυτό μπορεί να διαρκέσει αρκετή ώρα.";
+"Abort" = "Διακοπή";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exporting...";
-"Exporting in progress..." = "Exporting in progress...";
-"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+"Exporting..." = "Εξαγωγή...";
+"Exporting in progress..." = "Εξαγωγή σε εξέλιξη...";
+"Converting file with Pandoc. This may take some time." = "Μετατροπή αρχείου με Pandoc. Αυτό μπορεί να διαρκέσει αρκετή ώρα.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";
-"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
-"Follow Instructions to Install/Update Pandoc" = "Follow Instructions to Install/Update Pandoc";
-"Export Failed" = "Export Failed";
-"Import Failed" = "Import Failed";
-"Generated Image too Large" = "Generated Image too Large";
-"Failed to export file to <em>{0}</em>" = "Failed to export file to <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Failed to import file from <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "File does not exist at <em>{0}</em>";
-"Export to..." = "Export to...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
-"Dark Theme not support" = "Dark Theme not support";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
-"Print with default theme" = "Print with default theme";
-"Export to PDF successfully." = "Export to PDF successfully.";
-"Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
-"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.";
+"Pandoc is needed for importing these file formats" = "Απαιτείται το Pandoc για την εισαγωγή αυτού του είδους των αρχείων";
+"Check help->Install and use Pandoc from menubar for detail" = "Τσεκάρετε βοήθεια->Εγκατάσταση και χρησιμοποιήστε το Pandoc από το μενού για λεπτομέρειες";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Κάποια χαρακτηριστικά εισαγωγής και εξαγωγής απαιτούν την εγκατάσταση του <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "Ακολουθήστε τις οδηγίες για την Εγκατάσταση/Ενημέρωση του Pandoc";
+"Export Failed" = "Αποτυχία Εξαγωγής";
+"Import Failed" = "Αποτυχία Εισαγωγής";
+"Generated Image too Large" = "Η Εικόνα που δημιουργήθηκε είναι Μεγάλη";
+"Failed to export file to <em>{0}</em>" = "Αποτυχία εξαγωγής αρχείου σε <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Αποτυχία εισαγωγής αρχείου από <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Το αρχείο δεν υπάρχει σε <em>{0}</em>";
+"Export to..." = "Εξαγωγή σε...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Θέλετε να αποθηκεύσετε τις αλλαγές που έγιναν σε αυτό το έγγραφο;<br> Οι αλλαγές σας θα χαθούν εάν δεν τις αποθηκεύσετε.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Προειδοποίηση] Αποτυχία επισύναψης σελιδοδείκτη για το αρχείο PDF.";
+"Dark Theme not support" = "Το Σκούρο Θέμα δεν υποστηρίζεται";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Συγνώμη, η τρέχουσα έκδοση του Typora δεν τυπώνει το χρώμα του φόντου στο εξαγώμενο PDF, οπότε το σκούρο θέμα δεν υποστηρίζεται ακόμα για εξαγωγή PDF. \nΠαρακαλώ επιλέξτε ένα ανοιχτόχρωμο θέμα ή κλικάρετε στο \"Print with default theme\"";
+"Print with default theme" = "Εκτύπωση με το προεπιλεγμένο Θέμα";
+"Export to PDF successfully." = "Εξαγωγή σε PDF επιτυχής.";
+"Converting file using Pandoc. This may take some time." = "Μετατροπή αρχείου με την χρησιμοποίηση του Pandoc. Αυτό μπορεί να διαρκέσει αρκετή ώρα.";
+"Exporting file using Pandoc. This may take some time." = "Εξαγωγή αρχείου με την χρησιμοποίηση του Pandoc. Αυτό μπορεί να διαρκέσει αρκετή ώρα.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Uploading Images via iPic...";
-"Uploading in progress..." = "Uploading in progress...";
-"Do not show this again" = "Do not show this again";
+"Uploading Images via iPic..." = "Μεταφόρτωση Εικόνων με το iPic...";
+"Uploading in progress..." = "Μεταφόρτωση σε εξέλιξη...";
+"Do not show this again" = "Μην το δείξεις ξανά";
 
 /* Word Count */
-"%d Words" = "%d Words";
-"Minutes" = "Minutes";
-"Lines" = "Lines";
-"Words" = "Words";
-"Characters" = "Characters";
-"In Selection" = "In Selection";
-"Panel" = "Panel";
+"%d Words" = "%d Λέξεις";
+"Minutes" = "Λεπτά";
+"Lines" = "Γραμμές";
+"Words" = "Λέξεις";
+"Characters" = "Χαρακτήρες";
+"In Selection" = "Επιλεγμένο/α";
+"Panel" = "Πάνελ";
 
 /* Windows Prefernce Panel*/
-"Appearance" = "Appearance";
-"System Native" = "System Native";
-"Unibody" = "Unibody";
-"(applied after restart)" = "(applied after restart)";
-"Status Bar" = "Status Bar";
-"Show status bar" = "Show status bar";
-"Save & Recover" = "Save & Recover";
-"Auto Save" = "Auto Save";
-"Recover Unsaved Drafts" = "Recover Unsaved Drafts";
-"Emoji Autocomplete" = "Emoji Autocomplete";
-"Trigger by ESC key" = "Trigger by ESC key";
-"Trigger automatically" = "Trigger automatically";
-"Default Line Ending" = "Default Line Ending";
-"Line ending for new file" = "Line ending for new file";
-"Spell Check" = "Spell Check";
-"(support US English only)" = "(support US English only)";
-"Enable spell check" = "Enable spell check";
-"Auto correct spelling" = "Auto correct spelling";
-"System" = "System";
-"Privacy" = "Privacy";
-"Developer" = "Developer";
-"Update" = "Update";
-"Check Updates" = "Check Updates";
-"Check updates automatically" = "Check updates automatically";
-"Advanced Settings" = "Advanced Settings";
-"Open Advanced Settings" = "Open Advanced Settings";
-"Reset Advanced Settings" = "Reset Advanced Settings";
+"Appearance" = "Εμφάνιση";
+"System Native" = "Εγγενές";
+"Unibody" = "Ενιαίο";
+"(applied after restart)" = "(εφαρμογή μετά την επανεκκίνηση)";
+"Status Bar" = "Μπάρα Κατάστασης";
+"Show status bar" = "Εμφάνιση μπάρας κατάστασης";
+"Save & Recover" = "Αποθήκευση & Ανάκτηση";
+"Auto Save" = "Αυτόματη Αποθήκευση";
+"Recover Unsaved Drafts" = "Ανάκτηση μη Αποθηκευμένων Προσχέδιων";
+"Emoji Autocomplete" = "Αυτοσυμπλήρωση Emoji";
+"Trigger by ESC key" = "Ενεργοποίηση με το πλήκτρο ESC";
+"Trigger automatically" = "Αυτόματη ενεργοποίηση";
+"Default Line Ending" = "Προκαθορισμένο Τέλος Γραμμής";
+"Line ending for new file" = "Τέλος γραμμής για νέο αρχείο";
+"Spell Check" = "Ορθογραφικός Έλεγχος";
+"(support US English only)" = "(Υποστήριξη μόνο στην Αγγλική γλώσσα)";
+"Enable spell check" = "Ενεργοποίηση ορθογραφικού ελέγχου";
+"Auto correct spelling" = "Αυτόματη διόρθωση λαθών";
+"System" = "Σύστημα";
+"Privacy" = "Ιδιωτικότητα";
+"Developer" = "Προγραμματιστής";
+"Update" = "Ενημέρωση";
+"Check Updates" = "Έλεγχος Ενημερώσεων";
+"Check updates automatically" = "Αυτόματος έλεγχος για ενημερώσεις";
+"Advanced Settings" = "Ρυθμίσεις για Προχωρημένους";
+"Open Advanced Settings" = "Ανοιγμά Ρυθμίσεων για Προχωρημένους";
+"Reset Advanced Settings" = "Επαναφορά Ρυθμίσεων για Προχωρημένους";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "This fucntion requires latest version of iPic to be installed.";
-"Get iPic" = "Get iPic";
-"Cannot Continue…" = "Cannot Continue…";
-"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
-"One More Step" = "One More Step";
-"Notice" = "Notice";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image.";
+"This fucntion requires latest version of iPic to be installed." = "Αυτή η λειτουργία απαιτεί εγκατεστημένη την τελευταία έκδοση του iPic.";
+"Get iPic" = "Αποκτήστε το iPic";
+"Cannot Continue…" = "Αδυναμία Συνέχισης…";
+"This feature require macOS >= 10.11" = "Αυτή η λειτουργία απαιτεί εγκατεστημένη την τελευταία έκδοση του macOS >= 10.11";
+"One More Step" = "Ένα Ακόμα Βήμα";
+"Notice" = "Ειδοποίηση";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Αυτό απαιτεί εγκατεσημένη την τελευταία έκδοση του iPic, και η αναφερόμενη εικόνα θα μεταφορτωθεί στις υπηρεσίες cloud με το iPic . Επίσης έχετε υπ'όψιν σας ότι η προεπιλεγμένη υπηρεσία cloud δεν υποστηρίζει την διαγραφή μεταφορτωμένων εικόνων.";
 
-"%d Images Failed to Upload." = "%d Images Failed to Upload.";
-"%d Succeeded," = "%d Succeeded, ";
-"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
-"The option `%@` must be enabled first" = "The option `%@` must be enabled first.";
-"%@ is a file, not a directory" = "%@ is a file, not a directory";
-"Copy Images To…" = "Copy Images To…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
-"Create Folder and Continue" = "Create Folder and Continue";
-"Document must be saved first" = "Document must be saved first";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
-"Open Operation Failed" = "Open Operation Failed";
+"%d Images Failed to Upload." = "%d Αποτυχία μεταφόρτωσης εικόνων.";
+"%d Succeeded," = "%d έγινε επιτυχημένα, ";
+"Enable this feature on preferences panel" = "Ενεργοποιήστε αυτή την λειτουργία στον πίνακα προτιμήσεων";
+"The option `%@` must be enabled first" = "Απαιτείται ενεργοποίηση της επιλογής `%@`.";
+"%@ is a file, not a directory" = "%@ είναι αρχείο, όχι κατάλογος";
+"Copy Images To…" = "Αντιγραφή Εικόνων Σε…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Το Typora προσπαθεί να αντιγράψει την νέα εικόνα στον φάκελο %@ σύμφωνα με τις ρυθμίσεις του YAML Front Matter. Ωστόσο ο φάκελος δεν υπάρχει, θα τον δημιουργήσετε τώρα;";
+"Create Folder and Continue" = "Δημιουργία Φακέλου και Συνέχεια";
+"Document must be saved first" = "Απαιτείται η αποθήκευση του εγγράφου";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." =
+"Το Typora θα αντιγράψει την νέα εικόνα στον φάκελο σύμφωνα με το επιλεγμένο σχετικό μονοπάτι. Παρακαλώ αποθηκεύστε το πρώτα το αρχείο.";
+"Open Operation Failed" = "Η Λειτουργία Ανοίγματος Απέτυχε";
 
-"Support Documentation" = "Support Documentation";
+"Support Documentation" = "Υποστηρικτικά Έγγραφα";
 
-"Markdown File" = "Markdown File";
-"Plain Text File" = "Plain Text File";
-"All Files" = "All Files";
-"All Supported Formats" = "All Supported Formats";
-"Discard Changes" = "Discard Changes";
-"Discard" = "Discard";
+"Markdown File" = "Αρχείο Markdown";
+"Plain Text File" = "Αρχείο Απλού Κειμένου";
+"All Files" = "Όλα τα Αρχεία";
+"All Supported Formats" = "Όλες οι Υποστηριζόμενες Μορφές";
+"Discard Changes" = "Απόρριψη Αλλαγών";
+"Discard" = "Απόρριψη";
 
-"Menu" = "Menu";
-"Back" = "Back";
+"Menu" = "Μενού";
+"Back" = "Πίσω";
 
-"Contact" = "Contact";
-"Open From..." = "Open From...";
-"Import..." = "Import...";
-"Recent Documents" = "Recent Documents";
-"Search for…" = "Search for…";
-"Clear Recent Documents" = "Clear Recent Documents";
-"File Name" = "File Name";
-"Path" = "Path";
-"Export As..." = "Export As...";
-"More Formats" = "More Formats";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
-"Something is Wrong…" = "Something is Wrong…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
-"Copy Content" = "Copy Content";
+"Contact" = "Επικοινωνία";
+"Open From..." = "Άνοιγμα Από...";
+"Import..." = "Εισαγωγή...";
+"Recent Documents" = "Πρόσφατα Έγγραφα";
+"Search for…" = "Αναζήτηση για…";
+"Clear Recent Documents" = "Καθαρισμός Πρόσφατων Εγγράφων";
+"File Name" = "Όνομα Αρχείου";
+"Path" = "Μονοπάτι";
+"Export As..." = "Εξαγωγή Ως...";
+"More Formats" = "Περισσότερες Μορφές";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Η μορφή αρχείων κάτω από το τμήμα 'Περισσότερες Μορφές' χρειάζεται <a class='open-pandoc-guide'>εγκατάσταση του Pandoc</a>.";
+"Something is Wrong…" = "Κάτι πήγε Στραβά…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Για κάποιο λόγο η αποθήκευση του περιεχομένου απέτυχε. <br/>Θα μπορούσατε να αντιγράψετε το περιεχόμενο σε ένα νέο παράθυρο Typora, και στην συνέχεια να το αποθυκεύσετε. <br/>Μάθετε περισσότερα για:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Αναφορά bugs σε εμάς</a></li><li><a href='http://support.typora.io/Version-Control//'>Ανάκτηση χαμένου περιεχομένου</a></li></ul>";
+"Copy Content" = "Αντιγραφή Περιεχομένου";
 
 
-"Total" = "Total";
-"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
-"Indent Size for Code" = "Indent Size for Code";
-"Auto wrap long lines" = "Auto wrap long lines";
+"Total" = "Σύνολο";
+"Word count only support OS X later than 10.10." = "Ο μετρητής λέξεων υποστηρίζει εκδόσεις OS X μεταλύτερες από 10.10.";
+"Indent Size for Code" = "Μέγεθος Εσοχής για Πηγαίο Κώδικα";
+"Auto wrap long lines" = "Αυτόματη περιτύλιξη μεγάλων γραμμών";

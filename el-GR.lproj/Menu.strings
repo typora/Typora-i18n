@@ -1,0 +1,237 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+ translated by Kiriakos Velissariou <kir.velissariou@gmail.com>
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Πληροφορίες για το Typora";
+"Preferences" = "Προτιμήσεις";
+"Check for Updates" = "Έλεγχος για Ενημερώσεις";
+"Services" = "Υπηρεσίες";
+"Hide Typora" = "Απόκρυψη Typora";
+"Hide Others" = "Απόκρυψη Άλλων";
+"Show All" = "Εμφάνιση Όλων";
+"Quit Typora" = "Τερματισμός Typora";
+
+/* File Menu */
+
+"File" = "Αρχείο";
+"New" = "Νέο";
+"Open" = "Άνοιγμα";
+"Open Folder" = "'Άνοιγμα Φακέλου";
+"Reopen with Encoding" = "Άνοιγμα ξανά με Κωδικοποίηση";
+"Auto" = "Αυτόματο";
+"Open Recent" = "Άνοιγμα Προσφάτων";
+"Clear Items" = "Καθαρισμός";
+"No Recent Files" = "Δεν υπάρχουν Πρόσφατα Αρχεία";
+"Open Quickly" = "Γρήγορο Άνοιγμα";
+"Open File Location" = "Άνοιγμα Tοποθεσίας Αρχείου";
+"Reveal in Library" = "Εμφάνιση στην Bιβλιοθήκη";
+"Reveal in File Tree" = "Εμφάνιση στο Δενδροδιάγραμμα";
+"Close" = "Κλείσιμο";
+"Save" = "Αποθήκευση";
+"Save As" = "Αποθήκευση Ως";
+"Duplicate" = "Αντίγραφο";
+"Rename" = "Μετονομασία";
+"Move To" = "Μετακίνηση Σε";
+"Revert To" = "Επαναφορά Σε";
+"Browse All Versions" = "Περιήγηση Όλων των Εκδόσεων";
+"Import" = "Εισαγωγή";
+"Export" = "Εξαγωγή";
+"Page Setup" = "Ρυθμίσεις Σελίδας";
+"Print" = "Εκτύπωση";
+
+/* Edit Menu */
+"Edit" = "Επεξεργασία";
+"Undo" = "Αναίρεση";
+"Redo" = "Επανάληψη";
+"Cut" = "Αποκοπή";
+"Copy" = "Αντιγραφή";
+"Paste" = "Επικόλληση";
+"Copy as Markdown" = "Αντιγραφή σαν Markdown";
+"Copy as HTML Code" = "Αντιγραφή σαν HTML;
+"Paste as Plain Text" = "Αντιγραφή σαν Απλό Κείμενο";
+"Select All" = "Επιλογή Όλων";
+"Select Line/Sentence" = "Επιλογή Γραμμής/Πρότασης";
+"Select Styled Scope" = "Επιλογή Μορφοποιημένης Περιοχής";
+"Select Word" = "Επιλογή Λέξης";
+"Delete" = "Διαγραφή";
+"Delete Range" = "Διαγραφή Εύρους";
+"Delete Word" = "Διαγραφή Λέξης";
+"Delete Styled Scope" = "Διαγραφή Μορφοποιημένης Περιοχής";
+"Delete Line/Sentence" = "Διαγραφή Γραμμής/Πρότασης";
+"Jump To" = "Μετάβαση Σε";
+"Jump to Top" = "Μετάβαση στην Αρχή";
+"Jump to Selection" = "Μετάβαση στην Επιλογή";
+"Jump to Bottom" = "Μετάβαση στο Τέλος";
+"Math Tools" = "Εργαλεία Math";
+"Refresh All Math Expressions" = "Ανανέωση Όλων των Εκφράσεων Math";
+"Image Tools" = "Εργαλεία Εικόνων";
+"Insert Local Images" = "Εισαγωγή Τοπικής Εικόνας";
+"Upload Local Images via iPic" = "Μεταφόρτωση Τοπικών Εικόνων με iPic";
+"When Insert Local Image" = "Όταν Γίνει Εισαγωγή Τοπικής Εικόνας";
+"Copy Image File to Folder" = "Αντιγραφή Αρχείου Εικόνας σε Φάκελο";
+"Upload Image via iPic" = "Μεταφόρτωση Εικόνας με iPic";
+"Use Image Root Path" = "Χρησιμοποίηση Βασικού Μονοπατιού Εικόνας";
+"Line Endings" = "Τέλος Γραμμών";
+"Windows Line Endings (CRLF)" = "Τέλος Γραμμών Windows (CRLF)";
+"Unix Line Endings (LF)" = "Τέλος Γραμμών UNIX (LF)";
+"Find" = "Εύρεση";
+"Find Next" = "Εύρεση Επόμενου";
+"Find Previous" = "Εύρεση Προηγούμενου";
+"Find and Replace" = "Εύρεση και Αντικατάσταση";
+"Replace" = "Αντικατάσταση";
+"Replace Next" = "Αντικατάσταση Επόμενου";
+"Spelling and Grammar" = "Ορθογραφία και Γραμματική";
+"Check Document Now" = "Έλεγχος Εγγράφου Τώρα";
+"Check Spelling While Typing" = "Έλεγχος Ορθογραφίας Κατά την Πληκτρολόγηση";
+"Check Grammar With Spelling" = "Έλεγχος Γραμματικής και Ορθογραφίας";
+"Correct Spelling Automatically" = "Αυτόματη Διόρθωση Ορθογραφίας";
+"Substitutions" = "Υποκαταστάσεις";
+"Smart Quotes" = "Έξυπνα Εισαγωγικά";
+"Smart Dashes" = "Έξυπνες Παύλες";
+"Text Replacement" = "Αντικατάσταση Κειμένου";
+"Speech" = "Εκφώνηση";
+"Start Speaking" = "Έναρξη Εκφώνησης";
+"Stop Speaking" = "Διακοπή Εκφώνησης";
+
+/* Paragraph Menu */
+"Paragraph" = "Παράγραφος";
+"Heading 1" = "Κεφαλίδα 1";
+"Heading 2" = "Κεφαλίδα 2";
+"Heading 3" = "Κεφαλίδα 3";
+"Heading 4" = "Κεφαλίδα 4";
+"Heading 5" = "Κεφαλίδα 5";
+"Heading 6" = "Κεφαλίδα 6";
+"Increase Heading Level" = "Αύξηση Επιπέδου Κεφαλίδας";
+"Decrease Heading Level" = "Μείωση Επιπέδου Κεφαλίδας";
+"Table" = "Πίνακας";
+"Code Fences" = "Μπλοκ Κώδικα";
+"Math Block" = "Μπλοκ Math";
+"Quote" = "Εισαγωγικό";
+"Ordered List" = "Ταξινομημένη Λίστα";
+"Unordered List" = "Μη Ταξινομημένη Λίστα";
+"Task List" = "Λίστα Εργασιών";
+"Task Status" = "Κατάσταση Εργασίας";
+"Toggle Task Status" = "Αλλaγή Κατάστασης Εργασίας";
+"Mark as Complete" = "Σημείωση ως Ολοκληρωμένο";
+"Mark as Incomplete" = "Σημείωση ως Ανολοκλήρωτο";
+"List Indentation" = "Εσοχή Λίστας";
+"Indent" = "Εσοχή";
+"Outdent" = "Προεξοχή";
+"Link Reference" = "Αναφορά Συνδέσμου";
+"Footnotes" = "Υποσημειώσεις";
+"Horizontal Line" = "Οριζόντια Γραμμή";
+"Table of Contents" = "Πίνακας Περιεχομένων";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Μορφή";
+"Strong" = "Δυνατό";
+"Emphasis" = "Έμφαση";
+"Underline" = "Υπογράμμιση";
+"Code" = "Κώδικας";
+"Inline Math" = "Εντός Γραμμής";
+"Strike" = "Strike";
+"Highlight" = "Έμφαση";
+"Superscript" = "Υπερδείκτης";
+"Subscript" = "Υποδείκτης";
+"Comment" = "Σχόλιο";
+"Hyperlink" = "Υπερσύνδεσμος";
+"Image" = "Εικόνα";
+"Clear Format" = "Καθαρισμός Μορφοποίησης";
+
+/* View Menu */
+"View" = "Προβολή";
+"New Tab" = "Νέα Καρτέλα";
+"Source Code Mode" = "Λειτουργία Πηγαίου Κώδικα";
+"Focus Mode" = "Λειτουργία Focus";
+"Typewriter Mode" = "Λειτουργία Γραφομηχανής";
+"Toggle Sidebar" = "Εναλλαγή Πλευρικής Μπάρας";
+"Outline" = "Περίγραμμα";
+"Articles" = "Άρθρα";
+"File Tree" = "Δενδροδιάγραμμα";
+"Always on Top" = "Πάντα στην Κορυφή";
+"Full Screen" = "Πλήρης Οθόνη";
+"Show Status Bar" = "Εμφάνιση Μπάρας Κατάστασης";
+"Toggle Fullscreen" = "Εναλλαγή Πλήρης Οθόνης";
+"Actual Size" = "Πραγματικό Μέγεθος";
+"Zoom In" = "Μεγέθυνση";
+"Zoom Out" = "Σμίκρυνση";
+"Switch Between Opened Documents" = "Εναλλαγή Μεταξύ Ανοιχτών Εγγράφων";
+"Toggle DevTools" = "Εναλλαγή DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Θέματα";
+
+/* Window Menu */
+"Window" = "Παράθυρο";
+"Minimize" = "Ελαχιστοποίηση";
+"Zoom" = "Ζουμ";
+"Bring All to Front" = "Μεταφορά Όλων σε Πρώτο Πλάνο";
+
+/* Help Menu */
+"Help" = "Βοήθεια";
+"Privacy Policy" = "Πολιτική Απορρήτου";
+"Credits" = "Συντελεστές";
+"Change Log" = "Καταγραφή Αλλαγών";
+"Website" = "Ιστότοπος";
+"Feedback" = "Ανατροφοδότηση";
+"About" = "Σχετικά";
+
+/* Touchbar */
+"Block Styles" = "Στυλ Μπλοκ";
+"Inline Styles" = "Στυλ Εντός Γραμμής";
+"List Styles / Remove Block" = "Λίστα Στυλ / Αφαίρεση Μπλοκ";
+"Exit Source Code Mode" = "Έξοδος από Λειτουργία Πηγαίου Κώδικα";
+"Toggle Source Code Mode" = "Εναλλαγή Λειτουργίας Πηγαίου Κώδικα";
+
+/* Extra Context Menu */
+"Table" = "Πίνακασ";
+"Insert Row Before" = "Εισαγωγή Σειράς Πριν";
+"Append Row After" = "Εισαγωγή Σειράς Μετά";
+"Delete Row" = "Διαγραφή Σειράς";
+"Insert Column Before" = "Εισαγωγή Στήλης Πριν";
+"Append Column After" = "Εισαγωγή Στήλης Μετά";
+"Delete Column" = "Διαγραφή Στήλης";
+"Copy Table" = "Αντιγραφή Πίνακα";
+"Delete Table" = "Διαγραφή Πίνακα";
+"Insert Paragraph After" = "Εισαγωγή Παραγράφου Μετά";
+"Insert Paragraph Before" = "Εισαγωγή Παραγράφου Πριν";
+"Delete Code Block" = "Διαγραφή Μπλοκ Πηγαίου Κώδικα";
+"Copy as MathML" = "Αντιγραφή ως MathML";
+"Copy as Tex" = "Αντιγραφή ως Tex";
+"Copy Math" = "Αντιγραφή Math";
+"Reveal in Finder" = "Δείτε στον Finder";
+"Open Link" = "Άνοιγμα Συνδέσμου";
+"Reveal in Sidebar" = "Δείτε στο Πλευρικό Μενού";
+"Open in New Window" = "Άνοιγμα σε Νέο Παράθυρο";
+"Copy File Path" = "Αντιγραφή Μονοπατιού Αρχείου";
+"New File" = "Νέο Αρχείο";
+"Rename" = "Μετονομασία";
+"New Folder" = "Νέος Φάκελος";
+"Move to Trash" = "Μετακίνηση στον Κάδο Απορριμμάτων";
+
+/* Electron */
+"Learn Spelling" = "Εκμάθηση Ορθογραφίας";
+"Copy / Paste As…" = "Αντιγραφή / Επικόλληση Ως…";
+"Math" = "Math";
+"Insert" = "Εισαγωγή";
+"Inspect Element" = "Επισκόπηση Στοιχείου";
+"Copy to MS Word" = "Αντιγραφή σε MS Word";
+"Paragraph (before)" = "Παράγραφος (πριν)";
+"Paragraph (after)" = "Παράγραφος (μετά)";
+
+"Search with Google" = "Αναζήτηση με Google";
+"Search With…" = "Αναζήτηση Με…";
+
+/* Related Panel */
+"Open Failed" = "Το Άνοιγμα Απέτυχε";
+"File or folder does not exist." = "Το αρχείο ή ο φάκελος δεν υπάρχει";
+
+"Prettify Source Code" = "Ωραιοποίηση Πηγαίου Κώδικα";

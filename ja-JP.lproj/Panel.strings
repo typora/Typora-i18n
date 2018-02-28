@@ -141,8 +141,8 @@
 "System Native" = "システム標準";
 "Unibody" = "ユニボディ";
 "(applied after restart)" = "適用後に再起動";
-"Status Bar" = "ステイタスバー";
-"Show status bar" = "ステイタスバーを表示";
+"Status Bar" = "ステータスバー";
+"Show status bar" = "ステータスバーを表示";
 "Save & Recover" = "保存と復元";
 "Auto Save" = "自動保存";
 "Recover Unsaved Drafts" = "保存されていない草稿を復元";
@@ -189,7 +189,7 @@
 "Support Documentation" = "サポート文書";
 
 "Markdown File" = "Markdownファイル";
-"Plain Text File" = "プレインテキスト";
+"Plain Text File" = "プレーンテキスト";
 "All Files" = "すべてのファイル";
 "All Supported Formats" = "サポートされている全てのフォーマット";
 "Discard Changes" = "変更結果を捨てる";

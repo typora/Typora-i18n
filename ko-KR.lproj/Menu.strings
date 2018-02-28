@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE
+ by ryush00, LAVILINCE, vreality64
 */
 
 /* Typora Menu */
@@ -195,16 +195,16 @@
 
 /* Extra Context Menu */
 "Table" = "표";
-"Insert Row Before" = "뒷쪽에 행 삽입";
-"Append Row After" = "앞쪽에 행 삽입";
+"Insert Row Before" = "앞에 행 삽입";
+"Append Row After" = "뒤에 행 삽입";
 "Delete Row" = "행 삭제";
-"Insert Column Before" = "뒷쪽에 열 삽입";
-"Append Column After" = "앞쪽에 열 삽입";
+"Insert Column Before" = "앞에 열 삽입";
+"Append Column After" = "뒤에 열 삽입";
 "Delete Column" = "열 삭제";
 "Copy Table" = "표 복사";
 "Delete Table" = "표 삭제";
-"Insert Paragraph After" = "앞에 본문 삽입";
-"Insert Paragraph Before" = "뒤에 본문 삽입";
+"Insert Paragraph After" = "뒤에 본문 삽입";
+"Insert Paragraph Before" = "앞에 본문 삽입";
 "Delete Code Block" = "코드 블록 삭제";
 "Copy as MathML" = "MathML로 복사";
 "Copy as Tex" = "Tex로 복사";
@@ -226,8 +226,8 @@
 "Insert" = "삽입";
 "Inspect Element" = "요소 검사";
 "Copy to MS Word" = "MS Word로 복사";
-"Paragraph (before)" = "본문 (뒷쪽)";
-"Paragraph (after)" = "본문 (앞쪽)";
+"Paragraph (before)" = "본문 (앞)";
+"Paragraph (after)" = "본문 (뒤)";
 
 "Search with Google" = "Google로 검색";
 "Search With…" = "다음으로 검색…";

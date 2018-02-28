@@ -131,3 +131,10 @@
 "Select Container Folder" = "コンテナのフォルダを指定してください";
 
 "Saved" = "保存できました";
+
+/* place holder in find & replace input */
+"search text" = "検索文言";
+"replace with" = "置換先";
+/* search option */
+"Case Sensitive" = "大文字・小文字を区別";
+"Whole Word" = "単語として扱う";

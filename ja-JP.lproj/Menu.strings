@@ -184,6 +184,7 @@
 
 /* Help Menu */
 "Help" = "ヘルプ";
+"Privacy Policy" = "プライバシーポリシー";
 "Credits" = "クレジット";
 "Change Log" = "変更履歴";
 "Website" = "ウェブサイト";
@@ -239,3 +240,5 @@
 /* Related Panel */
 "Open Failed" = "開くのに失敗しました";
 "File or folder does not exist." = "ファイルやフォルダがありません";
+
+"Prettify Source Code" = "ソースコードを整形";

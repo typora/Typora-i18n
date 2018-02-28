@@ -74,7 +74,6 @@
 "Strict Mode" = "厳密モード";
 "(more strict to GFM spec)" = "Github Favored Markdownにより忠実に合わせる";
 "Heading Style" = "見出し書式";
-"Unordered List" = "順序なしテキスト";
 "Code Fences" = "コードブロック";
 "Display line numbers for code fences" = "コードブロックに行番号を表示";
 "Math Blocks" = "数式ブロック";
@@ -213,3 +212,8 @@
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
+
+"Total" = "合計";
+"Word count only support OS X later than 10.10." = "単語数はOS X 10.10以降でのみ利用できます";
+"Indent Size for Code" = "コードブロックのインデント";
+"Auto wrap long lines" = "長い行を折り返す";

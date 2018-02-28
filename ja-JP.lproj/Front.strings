@@ -8,6 +8,9 @@
  by Tomohiko Hayashi(@tomochan001)
  t.hayashi36@members.leeds.ac.uk
 
+ by gageas(@gageas)
+ gageas@gageas.com
+
 */
 
 /* Common */
@@ -20,7 +23,7 @@
 "Continue" = "継続";
 "Learn More…" = "もっと知る";
 "Untitled" = "無題";
-"Undo" = "やり直し";
+"Undo" = "元に戻す";
 "Dismiss" = "無視する";
 "Confirm" = "確認";
 "Error" = "エラー";

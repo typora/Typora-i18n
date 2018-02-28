@@ -8,6 +8,9 @@
  by Tomohiko Hayashi(@tomochan001)
  t.hayashi36@members.leeds.ac.uk
 
+ by gageas(@gageas)
+ gageas@gageas.com
+
 */
 
 /* Typora Menu */
@@ -51,8 +54,8 @@
 
 /* Edit Menu */
 "Edit" = "編集";
-"Undo" = "やり直し";
-"Redo" = "やり直しのやり直し";
+"Undo" = "元に戻す";
+"Redo" = "やり直し";
 "Cut" = "カット";
 "Copy" = "コピー";
 "Paste" = "貼り付け";
@@ -161,13 +164,13 @@
 "File Tree" = "ファイルツリー";
 "Always on Top" = "常にトップに";
 "Full Screen" = "フルスクリーン";
-"Show Status Bar" = "ステイタスバーを表示";
+"Show Status Bar" = "ステータスバーを表示";
 "Toggle Fullscreen" = "フルスクリーン表示切替";
 "Actual Size" = "実寸";
 "Zoom In" = "ズームイン";
 "Zoom Out" = "ズームアウト";
 "Switch Between Opened Documents" = "ファイルを切り替える";
-"Toggle DevTools" = "解発ツール表示切替";
+"Toggle DevTools" = "開発ツール表示切替";
 
 
 /* Themes Menu */
@@ -181,6 +184,7 @@
 
 /* Help Menu */
 "Help" = "ヘルプ";
+"Privacy Policy" = "プライバシーポリシー";
 "Credits" = "クレジット";
 "Change Log" = "変更履歴";
 "Website" = "ウェブサイト";
@@ -236,3 +240,5 @@
 /* Related Panel */
 "Open Failed" = "開くのに失敗しました";
 "File or folder does not exist." = "ファイルやフォルダがありません";
+
+"Prettify Source Code" = "ソースコードを整形";

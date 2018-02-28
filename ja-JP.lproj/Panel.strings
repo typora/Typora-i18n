@@ -44,7 +44,7 @@
 "Indent Size on Save" = "保存する";
 "only apply for quotes and lists created from menubar or hybrid view" = "メニューバーまたはハイブリッドビューで作られた引用とリストにのみ適用";
 "Trigger Autocomplete without ESC key for" = "～についてはESCなしでオートコンプリートを起動";
-"Emoji (e.g. :smile:)" = "絵文字（例：スマイル）";
+"Emoji (e.g. :smile:)" = "絵文字（例 :smile:）";
 "Images Insert" = "画像挿入";
 "Use relative path if possible" = "可能であれば相対パスを使う";
 "Allow copy images to given folder" = "フォルダに画像をコピーする";

@@ -175,11 +175,19 @@
 
 /* Help Menu */
 "Help" = "帮助";
+"Quick Start" = "快速入门";
+"Markdown Reference" = "Markdown参考";
+"Install and Use Pandoc" = "安装并使用Pandoc";
+"Custom Themes" = "自定义主题";
+"Use Images in Typora" = "在Typora中使用图片";
+"Data Recovery and Version Control" = "数据恢复和版本控制";
+"More Topics…" = "更多主题…";
 "Privacy Policy" = "隐私条款";
 "Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
 "Feedback" = "反馈";
+"Check Updates…" = "检查更新…";
 "About" = "关于";
 
 /* Extra Context Menu */

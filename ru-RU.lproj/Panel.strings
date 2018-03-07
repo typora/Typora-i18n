@@ -1,0 +1,210 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by bugo@dragomano.ru
+*/
+
+/* Preference Panel */
+"Preferences" = "Настройки";
+
+/* General Panel */
+"General" = "Общие";
+"Window Style" = "Стиль окна";
+"Classic" = "Классический";
+"Seamless" = "Бесшовный";
+"Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только в OS X не ниже версии 10.10.";
+"Themes" = "Темы";
+"Open Theme Folder" = "Открыть директорию тем";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
+"Word Count" = "Количество слов";
+"Always Show Word Count" = "Всегда показывать количество слов";
+"Font Size" = "Размер шрифта";
+"Auto ( Recommended )" = "Авто (рекомендуется)";
+"Customized" = "Индивидуальный";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Если используется индивидуальный размер шрифта, фактический размер будет зависеть от базового размера шрифта и стиля CSS.";
+ "Left Panel" = "Боковая панель";
+"Show Outline Panel by Default" = "Отображать по умолчанию панель структуры";
+"Collapsible Outline on Left Panel" = "Иерархическая структура в боковой панели";
+"Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редактируемые файлы будут сохраняться без запроса, при переключении между ними в боковой панели. \nКогда параметр \"Спрашивать о сохранении изменений при закрытии документов\" активирован в системных настройках, это включено всегда.";
+"Language" = "Язык";
+"System Language" = "Язык системы";
+
+/* Editor Panel */
+"Editor" = "Редактор";
+"Indent Size on Save" = "Вдавливание";
+"only apply for quotes and lists created from menubar or hybrid view" = "применяются только для кавычек и списков, созданных из меню или гибридного просмотра";
+"Trigger Autocomplete without ESC key for" = "Автоматическое";
+"Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
+"Images Insert" = "Вставка изображений";
+"Use relative path if possible" = "Использовать относительный путь при\nвозможности";
+"Allow copy images to given folder" = "Разрешить копирование изображений в\nуказанную папку";
+"Allow upload to given server" = "Разрешить загрузку на указанный сервер";
+"Auto Pair" = "Автозавершение";
+"Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
+"Auto pair common markdown syntax" = "Автозавершение основных тегов Markdown";
+"Live Rendering" = "Живой рендеринг";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Отображать исходник для обычных блоков при фокусе";
+"Default Copy Behavior" = "Стандартный тип\nкопирования";
+"Copy Markdown source as plain text" = "Копировать разметку Markdown как обычный\nтекст";
+"Typewriter Mode" = "Режим печатной машинки";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Всегда держать курсор в центре экрана";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Следующие настройки будут применены после перезапуска.)";
+"Syntax Support" = "Поддержка синтаксиса";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Формула  ( e.g: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Подстрочный    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Надстрочный ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Подсветка     (e.g: ==key==)";
+"Diagrams" = "Диаграммы";
+"(Sequence, Flowchart and Mermaid)" = "интерактивные, диаграммы последовательностей и др.";
+"Syntax Preference" = "Синтаксические предпочтения";
+"(only apply for styles created from menubar or hybrid view)" = "(применяются только к стилям, созданным из меню или гибридного просмотра)";
+"Strict Mode" = "Строгий режим";
+"(more strict to GFM spec)" = "(более суровый к спецификации GFM)";
+"Heading Style" = "Стиль заголовка";
+"Code Fences" = "Подсветка кода";
+"Display line numbers for code fences" = "Отображать номера строк для блоков с кодом";
+"Math Blocks" = "Математические блоки";
+"Auto Numbering Math Equations" = "Автонумерация математических уравнений";
+
+/* Security Panel */
+"Security" = "Безопасность";
+"Enable Debug" = "Включить отладку";
+"Send Anonymous Usage Info" = "Отправлять анонимную статистику";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Требуется Pandoc для продолжения...";
+"Follow instructions to install Pandoc" = "Следуйте инструкциям по установке Pandoc";
+"Cancel" = "Отмена";
+
+/* Pandoc Import Panel */
+"Importing..." = "Импорт...";
+"Importing in progress..." = "Идет импорт...";
+"Converting file with Pandoc. This may take some time." = "Преобразование файла с Pandoc. Это может занять некоторое время.";
+"Abort" = "Прервать";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Экспорт...";
+"Exporting in progress..." = "Идет экспорт...";
+"Converting file with Pandoc. This may take some time." = "Преобразование файла с Pandoc. Это может занять некоторое время.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc необходим для импорта этих форматов файлов";
+"Check help->Install and use Pandoc from menubar for detail" = "См. справка->Установка и использование Pandoc из меню";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Импорт/некоторые варианты экспорта требуют установки <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "Установка/обновление Pandoc";
+"Export Failed" = "Ошибка экспорта";
+"Import Failed" = "Ошибка импорта";
+"Generated Image too Large" = "Сгенерированное изображение слишком велико";
+"Failed to export file to <em>{0}</em>" = "Не удалось экспортировать файл в <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Не удалось импортировать файл из <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Файл в <em>{0}</em> не существует";
+"Export to..." = "Экспортировать в...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Хотите сохранить изменения, внесенные в этот документ?<br> Ваши изменения будут потеряны, если вы их не сохраните.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Предупреждение] Не удалось добавить закладку для файла PDF.";
+"Dark Theme not support" = "Темная тема не поддерживается";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "К сожалению, текущая версия Typora не будет печатать цвет фона в экспортированном PDF-файле, Темная тема пока не поддерживается для экспорта в формате PDF. \nВыберите светлую тему или нажмите \"Печать с темой по умолчанию\"";
+"Print with default theme" = "Печать с темой по умолчанию";
+"Export to PDF successfully." = "Экспорт в PDF осуществлен успешно.";
+"Converting file using Pandoc. This may take some time." = "Преобразование файла с помощью Pandoc. Это может занять некоторое время.";
+"Exporting file using Pandoc. This may take some time." = "Экспорт файла с помощью Pandoc. Это может занять некоторое время.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Загрузка изображений через iPic...";
+"Uploading in progress..." = "Выполняется загрузка...";
+"Do not show this again" = "Не показывать это снова";
+
+/* Word Count */
+"%d Words" = "%d слов";
+"Minutes" = "минут";
+"Lines" = "строк";
+"Words" = "слов";
+"Characters" = "символов";
+"In Selection" = "В выделенном";
+"Panel" = "Панель";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Оформление";
+"System Native" = "Как в системе";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(изменения применятся после перезапуска)";
+"Status Bar" = "Строка состояния";
+"Show status bar" = "Показывать строку состояния";
+"Save & Recover" = "Сохранить и восстановить";
+"Auto Save" = "Автосохранение";
+"Recover Unsaved Drafts" = "Восстановление несохраненных черновиков";
+"Emoji Autocomplete" = "Автозаполнение эмодзи";
+"Trigger by ESC key" = "Обработка клавиши ESC";
+"Trigger automatically" = "Автоматическое срабатывание";
+"Default Line Ending" = "Окончание строки по умолчанию";
+"Line ending for new file" = "Окончание строки для новых файлов";
+"Spell Check" = "Проверка правописания";
+"(support US English only)" = "(поддерживается только US English)";
+"Enable spell check" = "Включить проверку орфографии";
+"Auto correct spelling" = "Автоматически исправлять орфографию";
+"System" = "Системные";
+"Privacy" = "Приватность";
+"Developer" = "Разработка";
+"Update" = "Обновления";
+"Check Updates" = "Проверить обновления";
+"Check updates automatically" = "Проверять автоматически";
+"Advanced Settings" = "Расширенные настройки";
+"Open Advanced Settings" = "Открыть расширенные настройки";
+"Reset Advanced Settings" = "Сбросить расширенные настройки";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
+"Get iPic" = "Получить iPic";
+"Cannot Continue…" = "Не удается продолжить…";
+"This feature require macOS >= 10.11" = "Эта функция требует macOS версии >= 10.11";
+"One More Step" = "Ещё один шаг";
+"Notice" = "Уведомление";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Это требует установки iPic, и упомянутые файлы изображений будут загружаться в облачные сервисы через iPic. Также обратите внимание, что облачный сервис по умолчанию не поддерживает удаление загруженного изображения.";
+
+"%d Images Failed to Upload." = "Не удалось загрузить изображений: %d.";
+"%d Succeeded," = "успешно: %d, ";
+"Enable this feature on preferences panel" = "Включить эту функцию на панели настроек";
+"The option `%@` must be enabled first" = "Сначала нужно активировать параметр `%@`.";
+"%@ is a file, not a directory" = "%@ — файл, не директория";
+"Copy Images To…" = "Копировать изображения в…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку %@  в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её сейчас?";
+"Create Folder and Continue" = "Создать папку и продолжить";
+"Document must be saved first" = "Сначала необходимо сохранить документ";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora скопирует вставленное изображение в папку по выбранному относительному пути, поэтому сначала сохраните файл.";
+"Open Operation Failed" = "Не удалось открыть";
+
+"Support Documentation" = "Документация по поддержке";
+
+"Markdown File" = "Файл Markdown";
+"Plain Text File" = "Обычный текстовый файл";
+"All Files" = "Все файлы";
+"All Supported Formats" = "Все поддерживаемые форматы";
+"Discard Changes" = "Отменить изменения";
+"Discard" = "Отклонить";
+
+"Menu" = "Меню";
+"Back" = "Назад";
+
+"Contact" = "Contact";
+"Open From..." = "Открыть из...";
+"Import..." = "Импортировать...";
+"Recent Documents" = "Недавние документы";
+"Search for…" = "Искать…";
+"Clear Recent Documents" = "Очистить список";
+"File Name" = "Имя файла";
+"Path" = "Путь";
+"Export As..." = "Экспортировать как...";
+"More Formats" = "Дополнительные форматы";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc должен быть установлен</a>.";
+"Something is Wrong…" = "Что-то не так…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "По какой-то причине сохранить содержимое не удалось.<br/>Вы можете скопировать содержимое в новое окно Typora, а затем сохранить его. <br/>Ссылки по теме:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Сообщить об ошибках программы</a></li><li><a href='http://support.typora.io/Version-Control//'>Как восстановить потерянное содержимое</a></li></ul>";
+"Copy Content" = "Скопировать содержимое";
+
+
+"Total" = "Всего";
+"Word count only support OS X later than 10.10." = "Счётчик слов поддерживается только в OS X не ниже версии 10.10.";
+"Indent Size for Code" = "Размер отступа для кода";

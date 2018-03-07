@@ -1,0 +1,125 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Cancelar";
+"Yes" = "Sí";
+"No" = "No";
+"Close" = "Cerrar";
+"Select" = "Seleccionar";
+"Continue" = "Continuar";
+"Learn More…" = "Saber más…";
+"Untitled" = "Sin título";
+"Undo" = "Deshacer";
+"Dismiss" = "Descartar";
+"Confirm" = "Confirmar";
+"Error" = "Error";
+
+/* Search Panel */
+"Search" = "Buscar";
+"Replace" = "Remplazar";
+"All" = "Todo";
+"Search text not found in article" = "El texto buscado no se ha encontrado en el artículo";
+"search text" = "buscar texto";
+
+/* Quick Open */
+"Search by file name" = "Buscar por nombre de archivo";
+"Searching" = "Buscando";
+"Gathering more results" = "Reuniendo más resultados";
+
+/* Tables */
+"Insert Table" = "Insertar tabla";
+"Columns" = "Columnas";
+"Rows" = "Filas";
+"Align Left" = "Alinear a la izquierda";
+"Align Center" = "Alinear al centro";
+"Align Right" = "Alinear a la derecha";
+"Resize Table" = "Redimensionar tabla";
+"Delete Table" = "Eliminar tabla";
+
+/* Images */
+"Copy Image To..." = "Copiar imagen a...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora está tratando de copiar la nueva imagen insertada en la carpeta <code id='image-create-folder-target'></code> de acuerdo a tu configuración de formateo de YAML. Pero la carpeta de destino no existe, ¿crearla ahora?";
+"Create Folder" = "Crear carpeta";
+
+/* Math */
+"Edit" = "Editar";
+"Delete Math" = "Borrar ecuación"; /* Also: "Borrar matemática" */
+"Preview" = "Previsualizar";
+
+/* Sidebar */
+"Articles" = "Artículos";
+"Outline" = "Índice";
+"Files" = "Archivos";
+"Switch to File List view" = "Cambiar a vista de lista de archivos";
+"Switch to File Tree view" = "Cambiar a vista de árbol de archivos";
+"Switch to Outline view" = "Cambiar a vista de índice";
+"Close sidebar" = "Cerrar barra lateral";
+"Loading" = "Cargando";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Las carpetas seleccionadas contienen demasiados archivos. \nConsidera cambiar a <a id='switch-to-tree-on-oversize'>vista de árbol de archivos</a> para un mejor rendimiento.";
+"New File" = "Nuevo archivo";
+"Unpin Outline Panel" = "Desanclar panel de índice";
+"Open Folder..." = "Abrir carpeta...";
+"Action" = "Acción"; /* Needs more context */
+"Close Sidebar Menu" = "Cerrar menú de barra lateral";
+"Reveal in Finder" = "Mostrar en el Finder";
+"Reveal in File Explorer" = "Mostrar en el Explorador de Archivos";
+"Refresh Folder" = "Recargar carpeta";
+"Sort" = "Ordenar";
+"Group By Folder" = "Agrupar por carpeta";
+"Sort Naturally" = "Ordenar naturalmente";
+"Sort by Name" = "Ordenar por nombre";
+"Sort by Modification Date" = "Ordenar por fecha de modificación";
+"Recent Locations" = "Ubicaciones recientes";
+"Location" = "Ubicación"; 
+"Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
+"No Files Available" = "No hay archivos disponibles";
+"No Folder is Opened." = "Ninguna carpeta abierta.";
+"Outline is Empty." = "Índice vacío.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Alternar barra lateral";
+"Toggle Source Code Mode" = "Cambiar a modo Código Fuente";
+"Exit Source Code Mode" = "Salir de modo Código Fuente";
+
+"Table of Contents" = "Tabla de contenidos";
+"Empty Diagram" = "Diagrama vacío";
+"Input Math TeX here" = "Escribe una ecuación TeX aquí";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Se necesita definir la referencia de la nota al pie <b>{0}</b> con sintaxis <a>[^{1}]: www.ejemplo.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Se necesita definir la referencia del enlace <b>[{0}]</b> con sintaxis <b>[{1}]: www.ejemplo.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Por favor define la referencia de la imagen como \n[{0}]: http://ejemplo.png";
+
+/* msg */
+"Failed to create file" = "Error al crear archivo";
+"Failed to create folder" = "Error al crear carpeta";
+"Failed to rename file" = "Error al renombrar archivo";
+"Folder does not exist at %@" = "La carpeta no existe en %@";
+"File with the same name already exists at target path" = "Un archivo con el mismo nombre ya existe en la ruta de destino";
+"Apply to All" = "Aplicar a todo";
+"Overwrite" = "Sobrescribir";
+"Stop" = "Detener";
+"back to document" = "volver al documento";
+"Failed to load file" = "Error al cargar el archivo";
+"Save File Failed!" = "¡Error al guardar el archivo!";
+"Cannot open folder {0}" = "No se puede abrir la carpeta {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "El contenido del archivo fue cambiado por una aplicación externa. ¿Recargar contenido?";
+"Should continue moving and overwrite exisiting file(s) ?" = "¿Continuar moviendo y sobrescribiendo el(los) archivo(s) existente(s)?";
+
+"Rename Failed" = "Error al renombrar";
+"Rename to \"{0}\" ?" = "¿Renombrar a \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Error al renombrar de \"{0}\" a \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Cargada(s) con éxito {0} imágen(es).";
+"Failed to upload image. Error Message:" = "Error al cargar imagen. Mensaje del error:";
+"Failed to Copy Image to Target Folder." = "Error al copiar imagen a la carpeta de destino.";
+"Select Container Folder" = "Seleccionar carpeta contenedora";
+
+"Saved" = "Guardado";

@@ -22,7 +22,7 @@
 
 /* Search Panel */
 "Search" = "Search";
-"Repalce" = "Replace";
+"Replace" = "Replace";
 "All" = "All";
 "Search text not found in article" = "Search text not found in article";
 "search text" = "search text";
@@ -106,7 +106,7 @@
 "Stop" = "Stop";
 "back to document" = "back to document";
 "Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!"
+"Save File Failed!" = "Save File Failed!";
 "Cannot open folder {0}" = "Cannot open folder {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
@@ -123,3 +123,10 @@
 "Select Container Folder" = "Select Container Folder";
 
 "Saved" = "Saved";
+
+/* place holder in find & replace input */
+"search text" = "search text";
+"replace with" = "replace with";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Whole Word";

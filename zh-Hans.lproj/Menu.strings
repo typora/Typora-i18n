@@ -175,6 +175,7 @@
 
 /* Help Menu */
 "Help" = "帮助";
+"Privacy Policy" = "隐私条款";
 "Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
@@ -208,7 +209,7 @@
 "Move to Trash" = "移到回收站";
 
 /* Electron */
-"Learn Seplling" = "添加到字典";
+"Learn Spelling" = "添加到字典";
 "Copy / Paste As…" = "复制/粘贴为…";
 "Math" = "公式";
 "Insert" = "插入";

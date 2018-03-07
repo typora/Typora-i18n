@@ -1,0 +1,125 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "確定";
+"Cancel" = "取消";
+"Yes" = "是";
+"No" = "否";
+"Close" = "關閉";
+"Select" = "選擇";
+"Continue" = "繼續";
+"Learn More…" = "查看更多…";
+"Untitled" = "未命名";
+"Undo" = "回上一步";
+"Dismiss" = "Dismiss";
+"Confirm" = "確認";
+"Error" = "錯誤";
+
+/* Search Panel */
+"Search" = "搜尋";
+"Replace" = "取代";
+"All" = "全部";
+"Search text not found in article" = "在文章中搜尋不到該字串";
+"search text" = "搜尋字串";
+
+/* Quick Open */
+"Search by file name" = "依檔名搜尋";
+"Searching" = "搜尋中";
+"Gathering more results" = "搜集更多結果";
+
+/* Tables */
+"Insert Table" = "插入表格";
+"Columns" = "欄";
+"Rows" = "列";
+"Align Left" = "向左對齊";
+"Align Center" = "向中對齊";
+"Align Right" = "向右對齊";
+"Resize Table" = "縮放表格";
+"Delete Table" = "刪除表格";
+
+/* Images */
+"Copy Image To..." = "複製圖像至...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora 正嘗試將新插入的圖片依據您的YAML字型設定複製到資料夾中 <code id='image-create-folder-target'></code> 但目標資料夾不存在。是否新增？";
+"Create Folder" = "新增資料夾";
+
+/* Math */
+"Edit" = "編輯";
+"Delete Math" = "刪除算式";
+"Preview" = "預覽";
+
+/* Sidebar */
+"Articles" = "文章列表";
+"Outline" = "大綱";
+"Files" = "檔案列表";
+"Switch to File List view" = "切換至檔案列表檢視";
+"Switch to File Tree view" = "切換至檔案樹狀檢視";
+"Switch to Outline view" = "切換至大綱檢視";
+"Close sidebar" = "關閉側邊欄";
+"Loading" = "載入中";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所選資料夾內含太多檔案. \n請切換至 <a id='switch-to-tree-on-oversize'>樹狀檢視</a> 取得較佳效能。";
+"New File" = "新增檔案";
+"Unpin Outline Panel" = "解鎖大綱區塊";
+"Open Folder..." = "打開資料夾...";
+"Action" = "動作";
+"Close Sidebar Menu" = "關閉側邊欄選單";
+"Reveal in Finder" = "在Finder中顯示";
+"Reveal in File Explorer" = "在檔案管理員中顯示";
+"Refresh Folder" = "重新載入資料夾";
+"Sort" = "排序";
+"Group By Folder" = "依資料夾分組";
+"Sort Naturally" = "自然排序";
+"Sort by Name" = "依名稱排序";
+"Sort by Modification Date" = "依修改日期排序";
+"Recent Locations" = "最近位置";
+"Location" = "位置";
+"Switch File List/Tree View" = "切換檔案/樹狀結構檢視";
+"No Files Available" = "檔案不存在";
+"No Folder is Opened." = "尚未有資料夾開啟";
+"Outline is Empty." = "大綱為空";
+
+/* Status Bar */
+"Toggle Sidebar" = "顯示/隱藏側邊欄";
+"Toggle Source Code Mode" = "顯示/隱藏原始碼模式";
+"Exit Source Code Mode" = "離開原始碼模式";
+
+"Table of Contents" = "目錄";
+"Empty Diagram" = "空白圖示";
+"Input Math TeX here" = "在此輸入TeX公式";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "請以此格式來宣告底標連結 <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "請以此格式來宣告網址連結 <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "請以此格式來宣告圖片連結 \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "新增檔案失敗";
+"Failed to create folder" = "新增資料夾失敗";
+"Failed to rename file" = "重命名檔案失敗";
+"Folder does not exist at %@" = "在 %@ 路徑下資料夾不存在";
+"File with the same name already exists at target path" = "在目標路徑下已有相同名稱的檔案";
+"Apply to All" = "套用至全部";
+"Overwrite" = "覆蓋";
+"Stop" = "停止";
+"back to document" = "回到文件";
+"Failed to load file" = "載入檔案失敗";
+"Save File Failed!" = "存檔失敗!"
+"Cannot open folder {0}" = "無法打開資料夾 {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
+"Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現存檔案嗎？";
+
+"Rename Failed" = "重命名失敗";
+"Rename to \"{0}\" ?" = "重新命名為 \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "重命名自 \"{0}\" 為 \"{1}\" 失敗";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "已成功上傳 {0} 張圖片.";
+"Failed to upload image. Error Message:" = "上傳圖片失敗。錯誤訊息：:";
+"Failed to Copy Image to Target Folder." = "無法複製圖片至目標資料夾。";
+"Select Container Folder" = "選擇存放路徑";
+
+"Saved" = "已儲存";

@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE
+ by ryush00, LAVILINCE, vreality64
 */
 
 /* Typora Menu */
@@ -32,8 +32,8 @@
 "No Recent Files" = "최근 파일 없음";
 "Open Quickly" = "빠른 열기";
 "Open File Location" = "파일 위치 열기";
-"Reveal in Library" = "라이브러리에서 열기";
-"Reveal in File Tree" = "파일 트리에서 열기";
+"Reveal in Library" = "라이브러리에서 보기";
+"Reveal in File Tree" = "파일 트리에서 보기";
 "Close" = "닫기";
 "Save" = "저장";
 "Save As" = "다른 이름으로 저장";
@@ -121,8 +121,8 @@
 "Task List" = "작업 목록";
 "Task Status" = "작업 상태";
 "Toggle Task Status" = "작업 상태 토글";
-"Mark as Complete" = "완료된 것으로 표시";
-"Mark as Incomplete" = "완료되지 않은 것으로 표시";
+"Mark as Complete" = "완료됨으로 표시";
+"Mark as Incomplete" = "완료되지 않음으로 표시";
 "List Indentation" = "들여쓰기 수준";
 "Indent" = "들여쓰기";
 "Outdent" = "내어쓰기";
@@ -195,23 +195,23 @@
 
 /* Extra Context Menu */
 "Table" = "표";
-"Insert Row Before" = "뒷쪽에 행 삽입";
-"Append Row After" = "앞쪽에 행 삽입";
+"Insert Row Before" = "앞에 행 삽입";
+"Append Row After" = "뒤에 행 삽입";
 "Delete Row" = "행 삭제";
-"Insert Column Before" = "뒷쪽에 열 삽입";
-"Append Column After" = "앞쪽에 열 삽입";
+"Insert Column Before" = "앞에 열 삽입";
+"Append Column After" = "뒤에 열 삽입";
 "Delete Column" = "열 삭제";
 "Copy Table" = "표 복사";
 "Delete Table" = "표 삭제";
-"Insert Paragraph After" = "앞에 본문 삽입";
-"Insert Paragraph Before" = "뒤에 본문 삽입";
+"Insert Paragraph After" = "뒤에 본문 삽입";
+"Insert Paragraph Before" = "앞에 본문 삽입";
 "Delete Code Block" = "코드 블록 삭제";
 "Copy as MathML" = "MathML로 복사";
 "Copy as Tex" = "Tex로 복사";
 "Copy Math" = "수식 복사";
-"Reveal in Finder" = "Finder에서 열기";
+"Reveal in Finder" = "Finder에서 보기";
 "Open Link" = "링크 열기";
-"Reveal in Sidebar" = "사이드바에서 열기";
+"Reveal in Sidebar" = "사이드바에서 보기";
 "Open in New Window" = "새 윈도우에서 열기";
 "Copy File Path" = "파일 경로 복사";
 "New File" = "새 파일";
@@ -220,14 +220,14 @@
 "Move to Trash" = "휴지통으로 이동";
 
 /* Electron */
-"Learn Seplling" = "맞춤법 학습";
+"Learn Spelling" = "맞춤법 학습";
 "Copy / Paste As…" = "다음으로 복사/붙이기…";
 "Math" = "수식";
 "Insert" = "삽입";
 "Inspect Element" = "요소 검사";
 "Copy to MS Word" = "MS Word로 복사";
-"Paragraph (before)" = "본문 (뒷쪽)";
-"Paragraph (after)" = "본문 (앞쪽)";
+"Paragraph (before)" = "본문 (앞)";
+"Paragraph (after)" = "본문 (뒤)";
 
 "Search with Google" = "Google로 검색";
 "Search With…" = "다음으로 검색…";

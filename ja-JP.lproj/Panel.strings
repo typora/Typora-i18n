@@ -1,0 +1,219 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+
+ Japanese translation
+ by Tomohiko Hayashi(@tomochan001)
+ t.hayashi36@members.leeds.ac.uk
+
+ by gageas(@gageas)
+ gageas@gageas.com
+ 
+*/
+
+/* Preference Panel */
+"Preferences" = "設定";
+
+/* General Panel */
+"General" = "一般";
+"Window Style" = "ウィンドウのスタイル";
+"Classic" = "クラシック";
+"Seamless" = "シームレス";
+"Seamless window only support OS X later than 10.10." = "シームレスはmacOS 10.10以降のみでサポートされます";
+"Themes" = "テーマ";
+"Open Theme Folder" = "テーマフォルダを開く";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡潔な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.ioでご覧になれます";
+"Word Count" = "単語数を表示";
+"Always Show Word Count" = "常に単語数を表示";
+"Font Size" = "フォントサイズ";
+"Auto ( Recommended )" = "自動（推奨）";
+"Customized" = "カスタム";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります";
+ "Left Panel" = "左パネル";
+"Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
+"Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
+"Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に\n自動保存";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "左パネルのファイルを切り替えると、問い合わせなしにファイルを自動保存します。「文書を閉じるときは保存するか尋ねる」がシステム設定でオンになっているときは、このオプションは常にオンです。";
+"Language" = "言語";
+"System Language" = "システム言語";
+
+/* Editor Panel */
+"Editor" = "エディタ";
+"Indent Size on Save" = "保存する";
+"only apply for quotes and lists created from menubar or hybrid view" = "メニューバーまたはハイブリッドビューで作られた引用とリストにのみ適用";
+"Trigger Autocomplete without ESC key for" = "～についてはESCなしでオートコンプリートを起動";
+"Emoji (e.g. :smile:)" = "絵文字（例 :smile:）";
+"Images Insert" = "画像挿入";
+"Use relative path if possible" = "可能であれば相対パスを使う";
+"Allow copy images to given folder" = "フォルダに画像をコピーする";
+"Allow upload to given server" = "サーバに画像をアップする";
+"Auto Pair" = "オートペア";
+"Auto pair brackets and quotes" = "カッコと引用符のオートペア";
+"Auto pair common markdown syntax" = "一般的なMarkdownをオートペア";
+"Live Rendering" = "ライブレンダリング";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "当該ブロック（見出しなど含む）のソースを\n表示";
+"Default Copy Behavior" = "デフォルトのコピー動作";
+"Copy Markdown source as plain text" = "マークダウンをテキストとしてコピー";
+"Typewriter Mode" = "タイプライターモード";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "タイプライターモードで、キャレットを常に\n中央に";
+
+/* Markdown Panel */
+"Markdown" = "マークダウン";
+"(Following preferences will be applied after restart.)" = "（以下の設定は再起動後に有効になります）";
+"Syntax Support" = "文法サポート";
+"Inline Math  ( e.g: $\LaTeX$ )" = "インライン数式（例：$\LaTeX$）";
+"Subscript    ( e.g: H~2~O )" = "下付き文字（例：H~2~O）";
+"Superscript ( e.g: X^2^ )" = "上付き文字（例：X^2^）";
+"Highlight     (e.g: ==key==)" = "ハイライト（例：==key==）";
+"Diagrams" = "ダイアグラム";
+"(Sequence, Flowchart and Mermaid)" = "（Seqence、Flowchart、Mermaid）";
+"Syntax Preference" = "文法設定";
+"(only apply for styles created from menubar or hybrid view)" = "（メニューバーかハイブリッドビューで作成した書式にのみ適用";
+"Strict Mode" = "厳密モード";
+"(more strict to GFM spec)" = "Github Favored Markdownにより忠実に合わせる";
+"Heading Style" = "見出し書式";
+"Code Fences" = "コードブロック";
+"Display line numbers for code fences" = "コードブロックに行番号を表示";
+"Math Blocks" = "数式ブロック";
+"Auto Numbering Math Equations" = "数式に自動番号付け";
+
+/* Security Panel */
+"Security" = "セキュリティ";
+"Enable Debug" = "デバッグをオンに";
+"Send Anonymous Usage Info" = "匿名使用データを送る";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Pandocが必要です";
+"Follow instructions to install Pandoc" = "指示に従ってPandocをインストールしてください";
+"Cancel" = "キャンセル";
+
+/* Panodc Import Panel */
+"Importing..." = "インポートする";
+"Importing in progress..." = "インポート実行中";
+"Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります。";
+"Abort" = "中止";
+
+/* Panodc Export Panel */
+"Exporting..." = "エクスポートする";
+"Exporting in progress..." = "エクスポート実行中";
+"Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "このファイルのインポートにはPandocが必要です";
+"Check help->Install and use Pandoc from menubar for detail" = "メニューのヘルプ＞インストールをチェックしてください";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "インポート機能や一部のエクスポート機能には、<a href='http://pandoc.org/' target='_blank'>Pandoc</a> （v1.16）以上が必要です";
+"Follow Instructions to Install/Update Pandoc" = "指示に従ってPandocをインストール／アップデートしてください";
+"Export Failed" = "エクスポートに失敗しました";
+"Import Failed" = "インポートに失敗しました";
+"Generated Image too Large" = "生成された画像が大きすぎます";
+"Failed to export file to <em>{0}</em>" = "<em>{0}</em>へのエクスポートに失敗しました";
+"Failed to import file from <em>{0}</em>" = "<em>{0}</em>からのインポートに失敗しました";
+"File does not exist at <em>{0}</em>" = "<em>{0}</em>にファイルがありません";
+"Export to..." = "～にエクスポート";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか？<br>保存しないと変更は失われます";
+"[Warning] Failed to attach bookmark for PDF file." = "【警告】PDFファイルへのブックマークに失敗しました";
+"Dark Theme not support" = "ダークテーマはサポートされていません";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
+"Print with default theme" = "デフォルトのテーマで印刷";
+"Export to PDF successfully." = "PDFの出力に成功しました";
+"Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";
+"Exporting file using Pandoc. This may take some time." = "Pandocを使ってエクスポートしています。時間がかかることがあります";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "iPic経由で画像をアップロードしています";
+"Uploading in progress..." = "アップロード中";
+"Do not show this again" = "このメッセージを非表示に";
+
+/* Word Count */
+"%d Words" = "%d単語";
+"Minutes" = "分";
+"Lines" = "行";
+"Words" = "単語";
+"Characters" = "文字";
+"In Selection" = "選択範囲";
+"Panel" = "パネル";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "表示";
+"System Native" = "システム標準";
+"Unibody" = "ユニボディ";
+"(applied after restart)" = "適用後に再起動";
+"Status Bar" = "ステータスバー";
+"Show status bar" = "ステータスバーを表示";
+"Save & Recover" = "保存と復元";
+"Auto Save" = "自動保存";
+"Recover Unsaved Drafts" = "保存されていない草稿を復元";
+"Emoji Autocomplete" = "絵文字の自動補完";
+"Trigger by ESC key" = "ESCキーでトリガー";
+"Trigger automatically" = "自動でトリガー";
+"Default Line Ending" = "デフォルトの改行コード";
+"Line ending for new file" = "新規ファイルの改行コード";
+"Spell Check" = "スペルチェック";
+"(support US English only)" = "（米語のみサポート）";
+"Enable spell check" = "スペルチェックをオンに";
+"Auto correct spelling" = "スペリング自動修正";
+"System" = "システム";
+"Privacy" = "プライバシー";
+"Developer" = "開発者";
+"Update" = "更新";
+"Check Updates" = "更新をチェック";
+"Check updates automatically" = "更新を自動チェック";
+"Advanced Settings" = "上級設定";
+"Open Advanced Settings" = "上級設定を開く";
+"Reset Advanced Settings" = "上級設定をリセットする";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "この機能にはiPicの最新バージョンが必要です";
+"Get iPic" = "iPicを取得";
+"Cannot Continue…" = "続けられません";
+"This feature require macOS >= 10.11" = "macOS 10.11以上のバージョンが必要です";
+"One More Step" = "あと一歩";
+"Notice" = "注意";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "この機能には、iPicのインストールが必要です。画像はiPic経由でクラウドにアップロードされます。画像の削除はできないことにご注意ください";
+
+"%d Images Failed to Upload." = "%d個のファイルのアップロードに失敗しました";
+"%d Succeeded," = "%d個は成功しました, ";
+"Enable this feature on preferences panel" = "この機能を設定画面で設定可能にする";
+"The option `%@` must be enabled first" = "「%@」の機能を先にオンにしてください";
+"%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
+"Copy Images To…" = "画像を~へコピー";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定に従って新規画像を%@フォルダーにコピーしようとしましたが、対象フォルダがありません。作成しますか？";
+"Create Folder and Continue" = "フォルダを作成して続ける";
+"Document must be saved first" = "最初に文書を保存してください";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typoraは新規画像を相対パスで保存します。そのため最初に文書を保存してください";
+"Open Operation Failed" = "開くことができませんでした";
+
+"Support Documentation" = "サポート文書";
+
+"Markdown File" = "Markdownファイル";
+"Plain Text File" = "プレーンテキスト";
+"All Files" = "すべてのファイル";
+"All Supported Formats" = "サポートされている全てのフォーマット";
+"Discard Changes" = "変更結果を捨てる";
+"Discard" = "捨てる";
+
+"Menu" = "メニュー";
+"Back" = "戻る";
+
+"Contact" = "連絡先";
+"Open From..." = "～から開く";
+"Import..." = "インポートする";
+"Recent Documents" = "履歴";
+"Search for…" = "～を探す";
+"Clear Recent Documents" = "履歴の消去";
+"File Name" = "ファイル名";
+"Path" = "パス";
+"Export As..." = "～としてエクスポートする";
+"More Formats" = "他のフォーマット";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
+"Something is Wrong…" = "問題が生じました";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Copy Content" = "コンテンツをコピー";
+
+
+"Total" = "合計";
+"Word count only support OS X later than 10.10." = "単語数はOS X 10.10以降でのみ利用できます";
+"Indent Size for Code" = "コードブロックのインデント";
+"Auto wrap long lines" = "長い行を折り返す";

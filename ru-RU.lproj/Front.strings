@@ -1,0 +1,132 @@
+/* 
+  Front.strings
+  Typora
+
+ by bugo@dragomano.ru
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Отмена";
+"Yes" = "Да";
+"No" = "Нет";
+"Close" = "Закрыть";
+"Select" = "Выделить";
+"Continue" = "Продолжить";
+"Learn More…" = "Подробнее…";
+"Untitled" = "Безымянный";
+"Undo" = "Отменить";
+"Dismiss" = "Отклонить";
+"Confirm" = "Подтвердить";
+"Error" = "Ошибка";
+
+/* Search Panel */
+"Search" = "Поиск";
+"Replace" = "Заменить";
+"All" = "Все";
+"Search text not found in article" = "Указанный текст не найден в статье";
+"search text" = "поиск текста";
+
+/* Quick Open */
+"Search by file name" = "Искать по имени файла";
+"Searching" = "Ищем…";
+"Gathering more results" = "Сбор результатов";
+
+/* Tables */
+"Insert Table" = "Вставить таблицу";
+"Columns" = "Ячеек";
+"Rows" = "Строк";
+"Align Left" = "Выровнять слева";
+"Align Center" = "Выровнять по центру";
+"Align Right" = "Выровнять справа";
+"Resize Table" = "Изменить размер таблицы";
+"Delete Table" = "Удалить таблицу";
+
+/* Images */
+"Copy Image To..." = "Копировать изображение в...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку <code id='image-create-folder-target'></code> в соответствии с настройкой YAML-заголовока. Но целевая папка не существует, создать её?";
+"Create Folder" = "Создать папку";
+
+/* Math */
+"Edit" = "Правка";
+"Delete Math" = "Удалить Math";
+"Preview" = "Превью";
+
+/* Sidebar */
+"Articles" = "Статьи";
+"Outline" = "Схема";
+"Files" = "Файлы";
+"Switch to File List view" = "Переключиться на просмотр списка файлов";
+"Switch to File Tree view" = "Переключиться на просмотр дерева файлов";
+"Switch to Outline view" = "Переключиться в режим структуры";
+"Close sidebar" = "Закрыть боковую панель";
+"Loading" = "Загрузка";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Выбранные папки содержат слишком много файлов. \nПожалуйста, переключитесь на <a id='switch-to-tree-on-oversize'>просмотр дерева файлов</a> для лучшей производительности.";
+"New File" = "Новый файл";
+"Unpin Outline Panel" = "Открепить панель структуры";
+"Open Folder..." = "Открыть папку...";
+"Action" = "Действие";
+"Close Sidebar Menu" = "Закрыть меню боковой панели";
+"Reveal in Finder" = "Показать в Finder";
+"Reveal in File Explorer" = "Показать в Проводнике";
+"Refresh Folder" = "Обновить папку";
+"Sort" = "Сортировка";
+"Group By Folder" = "Группировать по папке";
+"Sort Naturally" = "Естественная сортировка";
+"Sort by Name" = "Сортировать по имени";
+"Sort by Modification Date" = "Сортировать по дате модификации";
+"Recent Locations" = "Недавние расположения";
+"Location" = "Расположение";
+"Switch File List/Tree View" = "Переключить представление Список файлов/Дерево";
+"No Files Available" = "Нет доступных файлов";
+"No Folder is Opened." = "Нет открытых папок.";
+"Outline is Empty." = "Структура пуста.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Переключить боковую панель";
+"Toggle Source Code Mode" = "Включить режим просмотра исходного кода";
+"Exit Source Code Mode" = "Выйти из режима просмотра исходного кода";
+
+"Table of Contents" = "Оглавление";
+"Empty Diagram" = "Пустая диаграмма";
+"Input Math TeX here" = "Введите Math TeX";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Нужно определить сноску <b>{0}</b> с синтаксисом <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Нужно определить ссылку <b>[{0}]</b> с синтаксисом <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Пожалуйста, определите ссылку на изображение \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Не удалось создать файл";
+"Failed to create folder" = "Не удалось создать папку";
+"Failed to rename file" = "Не удалось переименовать файл";
+"Folder does not exist at %@" = "Папки не существует в %@";
+"File with the same name already exists at target path" = "Файл с тем же именем уже существует в указанной директории";
+"Apply to All" = "Применить ко всем";
+"Overwrite" = "Перезаписать";
+"Stop" = "Остановить";
+"back to document" = "вернуться к документу";
+"Failed to load file" = "Не удалось загрузить файл";
+"Save File Failed!" = "Ошибка сохранения файла!"
+"Cannot open folder {0}" = "Не удается открыть папку {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Содержимое файла изменено внешними приложениями. Перезагрузить содержимое с диска?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Продолжить перемещение и перезапись существующих файлов?";
+
+"Rename Failed" = "Ошибка переименования";
+"Rename to \"{0}\" ?" = "Переименовать в \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Не удалось переименовать \"{0}\" в \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Успешно загружено {0} изображений.";
+"Failed to upload image. Error Message:" = "Не удалось загрузить изображение. Текст ошибки:";
+"Failed to Copy Image to Target Folder." = "Не удалось скопировать изображение в целевую папку.";
+"Select Container Folder" = "Выбрать папку документа";
+
+"Saved" = "Сохранено";
+
+/* place holder in find & replace input */
+"search text" = "что найти";
+"replace with" = "на что заменить";
+/* search option */
+"Case Sensitive" = "Учитывать регистр";
+"Whole Word" = "Слово целиком";

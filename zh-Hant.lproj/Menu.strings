@@ -1,0 +1,234 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+
+"About Typora" = "關於 Typora";
+"Preferences" = "偏好";
+"Check for Updates" = "檢查更新";
+"Services" = "服務";
+"Hide Typora" = "隱藏 Typora";
+"Hide Others" = "隱藏其他";
+"Show All" = "顯示全部";
+"Quit Typora" = "關閉 Typora";
+
+/* File Menu */
+
+"File" = "檔案";
+"New" = "新增";
+"Open" = "開啟";
+"Open Folder" = "開啟目錄";
+"Reopen with Encoding" = "選擇編碼重新載入檔案";
+"Auto" = "自動";
+"Open Recent" = "最近檔案";
+"Clear Items" = "清空項目";
+"No Recent Files" = "沒有最近檔案";
+"Open Quickly" = "快速開啟";
+"Open File Location" = "開啟檔案路徑";
+"Reveal in Library" = "在列表中顯示";
+"Reveal in File Tree" = "在樹狀結構中顯示";
+"Close" = "關閉";
+"Save" = "儲存";
+"Save As" = "另存為";
+"Duplicate" = "建立副本";
+"Rename" = "重新命危";
+"Move To" = "移動至";
+"Revert To" = "重置為";
+"Browse All Versions" = "瀏覽所有版本";
+"Import" = "匯入";
+"Export" = "匯出";
+"Page Setup" = "頁面設置";
+"Print" = "列印";
+
+/* Edit Menu */
+"Edit" = "編輯";
+"Undo" = "上一步";
+"Redo" = "下一步";
+"Cut" = "剪下";
+"Copy" = "複製";
+"Paste" = "貼上";
+"Copy as Markdown" = "複製為 Markdown";
+"Copy as HTML Code" = "複製為 HTML";
+"Paste as Plain Text" = "以純文字貼上";
+"Select All" = "全選";
+"Select Line/Sentence" = "選擇行/句子";
+"Select Styled Scope" = "選擇具格式化的段落";
+"Select Word" = "選擇單字";
+"Delete" = "刪除";
+"Delete Range" = "刪除區段";
+"Delete Word" = "刪除單字";
+"Delete Styled Scope" = "刪除具格式化的段落";
+"Delete Line/Sentence" = "刪除行/句子";
+"Jump To" = "跳到";
+"Jump to Top" = "跳到最上方";
+"Jump to Selection" = "跳到所選處";
+"Jump to Bottom" = "跳到最下方";
+"Math Tools" = "公式工具";
+"Refresh All Math Expressions" = "更新全部公式表示式";
+"Image Tools" = "圖片工具";
+"Insert Local Images" = "插入本機圖片";
+"Upload Local Images via iPic" = "透過 iPic 上傳本機圖片";
+"When Insert Local Image" = "當插入本機圖片";
+"Copy Image File to Folder" = "複製圖片檔案至資料夾";
+"Upload Image via iPic" = "透過 iPic 上傳圖片";
+"Use Image Root Path" = "使用圖片根目錄";
+"Line Endings" = "行結尾";
+"Windows Line Endings (CRLF)" = "Windows 行結尾 (CRLF)";
+"Unix Line Endings (LF)" = "Unix 行結尾 (LF)";
+"Find" = "尋找";
+"Find" = "尋找";
+"Find Next" = "尋找下一個";
+"Find Previous" = "尋找上一個";
+"Find and Replace" = "尋找並取代";
+"Replace" = "取代";
+"Replace Next" = "取代下一個";
+"Spelling and Grammar" = "拼寫與文法";
+"Check Document Now" = "立刻檢查文件";
+"Check Spelling While Typing" = "隨打即檢查拼寫";
+"Check Grammar With Spelling" = "隨打即檢查文法";
+"Correct Spelling Automatically" = "自動修正拼寫";
+"Substitutions" = "取代";
+"Smart Quotes" = "智慧引言";
+"Smart Dashes" = "智慧分隔線";
+"Text Replacement" = "文字取代";
+"Speech" = "語音";
+"Start Speaking" = "開始朗讀";
+"Stop Speaking" = "停止朗讀";
+
+/* Paragraph Menu */
+"Paragraph" = "段落";
+"Heading 1" = "一級大標";
+"Heading 2" = "二級大標";
+"Heading 3" = "三級大標";
+"Heading 4" = "四級大標";
+"Heading 5" = "五級大標";
+"Heading 6" = "六級大標";
+"Increase Heading Level" = "上提大標層級";
+"Decrease Heading Level" = "下降大標層級";
+"Table" = "表格";
+"Code Fences" = "原始碼區塊";
+"Math Block" = "公式區塊";
+"Quote" = "引言";
+"Ordered List" = "已排序清單";
+"Unordered List" = "非排序清單";
+"Task List" = "工作清單";
+"Task Status" = "工作狀態";
+"Toggle Task Status" = "開啟/隱藏工作狀態";
+"Mark as Complete" = "標為完成";
+"Mark as Incomplete" = "標為未完成";
+"List Indentation" = "清單縮排";
+"Indent" = "縮排";
+"Outdent" = "增排";
+"Link Reference" = "參照連結";
+"Footnotes" = "底標";
+"Horizontal Line" = "水平線";
+"Table of Contents" = "目錄";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "格式";
+"Strong" = "粗體";
+"Emphasis" = "斜體";
+"Underline" = "下標";
+"Code" = "原始碼";
+"Inline Math" = "行內數學式";
+"Strike" = "刪除線";
+"Highlight" = "標註";
+"Superscript" = "上飆";
+"Subscript" = "下標";
+"Comment" = "評論";
+"Hyperlink" = "超連結";
+"Image" = "圖片";
+"Clear Format" = "清除格式";
+
+/* View Menu */
+"View" = "顯示方式";
+"New Tab" = "新增頁籤";
+"Source Code Mode" = "原始碼模式";
+"Focus Mode" = "專注模式";
+"Typewriter Mode" = "打字機模式";
+"Toggle Sidebar" = "打開/關閉側邊欄";
+"Outline" = "大綱";
+"Articles" = "文章";
+"File Tree" = "檔案樹";
+"Always on Top" = "一律在最上層";
+"Full Screen" = "全螢幕";
+"Show Status Bar" = "顯示狀態欄";
+"Toggle Fullscreen" = "進入/離開全螢幕";
+"Actual Size" = "實際尺寸";
+"Zoom In" = "放大";
+"Zoom Out" = "縮小";
+"Switch Between Opened Documents" = "在已開啟的文件間切換";
+"Toggle DevTools" = "開啟/關閉開發工具";
+
+
+/* Themes Menu */
+"Themes" = "佈景主題";
+
+/* Window Menu */
+"Window" = "視窗";
+"Minimize" = "最小化";
+"Zoom" = "縮放";
+"Bring All to Front" = "所有視窗都移至最前方";
+
+/* Help Menu */
+"Help" = "說明";
+"Credits" = "功勞";
+"Change Log" = "變更紀錄";
+"Website" = "網站";
+"Feedback" = "反饋";
+"About" = "關於";
+
+/* Touchbar */
+"Block Styles" = "區塊樣式";
+"Inline Styles" = "行內樣式";
+"List Styles / Remove Block" = "清單樣式 / 移除區塊";
+"Exit Source Code Mode" = "離開原始碼模式";
+"Toggle Source Code Mode" = "進入/離開原始碼模式";
+
+/* Extra Context Menu */
+"Table" = "表格";
+"Insert Row Before" = "往前新增列";
+"Append Row After" = "往後新增列";
+"Delete Row" = "刪除列";
+"Insert Column Before" = "往前新增欄";
+"Append Column After" = "往後新增欄";
+"Delete Column" = "刪除欄";
+"Copy Table" = "複製標格";
+"Delete Table" = "刪除表格";
+"Insert Paragraph After" = "插入篇章至..之後";
+"Insert Paragraph Before" = "插入篇章至..之前";
+"Delete Code Block" = "刪除原始碼區塊";
+"Copy as MathML" = "複製為 MathML";
+"Copy as Tex" = "複製為 Tex";
+"Copy Math" = "複製數學式";
+"Reveal in Finder" = "在 Finder 標示";
+"Open Link" = "打開連結";
+"Reveal in Sidebar" = "在側邊欄標示";
+"Open in New Window" = "在新視窗開啟";
+"Copy File Path" = "複製檔案路徑";
+"New File" = "新增檔案";
+"Rename" = "重命名";
+"New Folder" = "新增資料夾";
+"Move to Trash" = "移動到回收桶";
+
+/* Electron */
+"Learn Spelling" = "學習拼寫";
+"Copy / Paste As…" = "複製並貼上為...";
+"Math" = "數學式";
+"Insert" = "插入";
+"Inspect Element" = "檢測元件";
+"Copy to MS Word" = "複製為微軟 Word";
+"Paragraph (before)" = "圖表 (在前)";
+"Paragraph (after)" = "圖表 (在後)";
+
+"Search with Google" = "用 Google 搜尋";
+"Search With…" = "用...搜尋";
+
+/* Related Panel */
+"Open Failed" = "開啟失敗";
+"File or folder does not exist." = "檔案或資料夾不存在";

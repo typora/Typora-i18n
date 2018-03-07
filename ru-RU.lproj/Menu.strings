@@ -1,0 +1,236 @@
+/* 
+  Menu.strings
+  Typora
+
+ by bugo@dragomano.ru
+*/
+
+/* Typora Menu */
+
+"About Typora" = "О программе";
+"Preferences" = "Настройки";
+"Check for Updates" = "Проверка обновлений";
+"Services" = "Службы";
+"Hide Typora" = "Скрыть Typora";
+"Hide Others" = "Скрыть другие";
+"Show All" = "Показать все";
+"Quit Typora" = "Выйти из программы";
+
+/* File Menu */
+
+"File" = "Файл";
+"New" = "Создать";
+"Open" = "Открыть";
+"Open Folder" = "Открыть папку";
+"Reopen with Encoding" = "Открыть в другой кодировке";
+"Auto" = "Auto";
+"Open Recent" = "Недавние документы";
+"Clear Items" = "Очистить список";
+"No Recent Files" = "Недавних файлов нет";
+"Open Quickly" = "Быстрое открытие";
+"Open File Location" = "Открыть папку документа";
+"Reveal in Library" = "Показать в библиотеке";
+"Reveal in File Tree" = "Показать в Проводнике";
+"Close" = "Закрыть";
+"Save" = "Сохранить";
+"Save As" = "Сохранить как...";
+"Duplicate" = "Копировать";
+"Rename" = "Переименовать";
+"Move To" = "Переместить в...";
+"Revert To" = "Вернуться к";
+"Browse All Versions" = "Просмотр всех версий";
+"Import" = "Импорт";
+"Export" = "Экспорт";
+"Page Setup" = "Настройки страницы";
+"Print" = "Печать";
+
+/* Edit Menu */
+"Edit" = "Правка";
+"Undo" = "Отменить";
+"Redo" = "Повторить";
+"Cut" = "Вырезать";
+"Copy" = "Копировать";
+"Paste" = "Вставить";
+"Copy as Markdown" = "Копировать как Markdown";
+"Copy as HTML Code" = "Копировать как HTML";
+"Paste as Plain Text" = "Вставить как обычный текст";
+"Select All" = "Выделить все";
+"Select Line/Sentence" = "Выбрать строку/предложение";
+"Select Styled Scope" = "Выбрать стилизованную область";
+"Select Word" = "Выделить слово";
+"Delete" = "Удалить";
+"Delete Range" = "Удалить диапазон";
+"Delete Word" = "Удалить слово";
+"Delete Styled Scope" = "Удалить стилизованную область";
+"Delete Line/Sentence" = "Удалить строку/предложение";
+"Jump To" = "Перейти к";
+"Jump to Top" = "Перейти к началу страницы";
+"Jump to Selection" = "Перейти к выделенному";
+"Jump to Bottom" = "Перейти к нижней части";
+"Math Tools" = "Математические инструменты";
+"Refresh All Math Expressions" = "Обновить все математические выражения";
+"Image Tools" = "Инструменты для работы с изображениями";
+"Insert Local Images" = "Вставить локальные изображения";
+"Upload Local Images via iPic" = "Загружать локальные изображения через iPic";
+"When Insert Local Image" = "При вставке локального изображения";
+"Copy Image File to Folder" = "Копировать файл изображения в папку";
+"Upload Image via iPic" = "Загрузить изображение через iPic";
+"Use Image Root Path" = "Использовать корневой путь изображения";
+"Line Endings" = "Окончания строк";
+"Windows Line Endings (CRLF)" = "Windows-формат (CRLF)";
+"Unix Line Endings (LF)" = "Unix-формат (LF)";
+"Find" = "Найти";
+"Find Next" = "Найти далее";
+"Find Previous" = "Предыдущий поиск";
+"Find and Replace" = "Найти и заменить";
+"Replace" = "Заменить";
+"Replace Next" = "Заменить далее";
+"Spelling and Grammar" = "Орфография и грамматика";
+"Check Document Now" = "Проверить документ";
+"Check Spelling While Typing" = "Проверка орфографии при вводе текста";
+"Check Grammar With Spelling" = "Проверка грамматики с орфографией";
+"Correct Spelling Automatically" = "Автоматически исправлять правописание";
+"Substitutions" = "Подстановки";
+"Smart Quotes" = "Умные кавычки";
+"Smart Dashes" = "Умные тире";
+"Text Replacement" = "Замена текста";
+"Speech" = "Речь";
+"Start Speaking" = "Начать речь";
+"Stop Speaking" = "Остановить речь";
+
+/* Paragraph Menu */
+"Paragraph" = "Параграф";
+"Heading 1" = "Заголовок 1";
+"Heading 2" = "Заголовок 2";
+"Heading 3" = "Заголовок 3";
+"Heading 4" = "Заголовок 4";
+"Heading 5" = "Заголовок 5";
+"Heading 6" = "Заголовок 6";
+"Increase Heading Level" = "Увеличить уровень заголовка";
+"Decrease Heading Level" = "Уменьшить уровень заголовка";
+"Table" = "Таблица";
+"Code Fences" = "Подсветка кода";
+"Math Block" = "Математический блок";
+"Quote" = "Цитата";
+"Ordered List" = "Упорядоченный список";
+"Unordered List" = "Неупорядоченный список";
+"Task List" = "Список задач";
+"Task Status" = "Статус задачи";
+"Toggle Task Status" = "Переключить статус задачи";
+"Mark as Complete" = "Пометить как завершенную";
+"Mark as Incomplete" = "Пометить как незавершенную";
+"List Indentation" = "Отступ списка";
+"Indent" = "Отступ";
+"Outdent" = "Выступ";
+"Link Reference" = "Ссылка";
+"Footnotes" = "Сноски";
+"Horizontal Line" = "Горизонтальная линия";
+"Table of Contents" = "Оглавление";
+"YAML Front Matter" = "YAML-заголовок";
+
+/* Format Menu */
+"Format" = "Формат";
+"Strong" = "Жирный";
+"Emphasis" = "Ударение";
+"Underline" = "Подчеркивание";
+"Code" = "Код";
+"Inline Math" = "Формула";
+"Strike" = "Зачёркнутый";
+"Highlight" = "Подсветка";
+"Superscript" = "Надстрочный";
+"Subscript" = "Подстрочный";
+"Comment" = "Комментарий";
+"Hyperlink" = "Гиперссылка";
+"Image" = "Изображение";
+"Clear Format" = "Очистить формат";
+
+/* View Menu */
+"View" = "Вид";
+"New Tab" = "Новая вкладка";
+"Source Code Mode" = "Режим просмотра исходного кода";
+"Focus Mode" = "Режим фокусировки";
+"Typewriter Mode" = "Режим пищущей машинки";
+"Toggle Sidebar" = "Включить боковую панель";
+"Outline" = "Схема";
+"Articles" = "Статьи";
+"File Tree" = "Дерево файлов";
+"Always on Top" = "Всегда наверху";
+"Full Screen" = "Во весь экран";
+"Show Status Bar" = "Показать строку состояния";
+"Toggle Fullscreen" = "Включить полный экран";
+"Actual Size" = "Реальный размер";
+"Zoom In" = "Приблизить";
+"Zoom Out" = "Отдалить";
+"Switch Between Opened Documents" = "Переключение между открытыми документами";
+"Toggle DevTools" = "Включить инструменты разработчика";
+
+
+/* Themes Menu */
+"Themes" = "Темы";
+
+/* Window Menu */
+"Window" = "Окно";
+"Minimize" = "Свернуть";
+"Zoom" = "Увеличить";
+"Bring All to Front" = "Вывести ВСЕ на передний план";
+
+/* Help Menu */
+"Help" = "Справка";
+"Privacy Policy" = "Политика конфиденциальности";
+"Credits" = "Лицензии";
+"Change Log" = "Лог изменений";
+"Website" = "Вебсайт";
+"Feedback" = "Обратная связь";
+"About" = "О программе";
+
+/* Touchbar */
+"Block Styles" = "Стили блоков";
+"Inline Styles" = "Встроенные стили";
+"List Styles / Remove Block" = "Стили списка / Удалить блок";
+"Exit Source Code Mode" = "Выход из режима просмотра исходного кода";
+"Toggle Source Code Mode" = "Включить режим просмотра исходного кода";
+
+/* Extra Context Menu */
+"Table" = "Таблица";
+"Insert Row Before" = "Вставить строку перед";
+"Append Row After" = "Добавить строку после";
+"Delete Row" = "Удалить строку";
+"Insert Column Before" = "Вставить колонку перед";
+"Append Column After" = "Добавить колонку после";
+"Delete Column" = "Удалить колонку";
+"Copy Table" = "Копировать таблицу";
+"Delete Table" = "Удалить таблицу";
+"Insert Paragraph After" = "Вставить абзац после";
+"Insert Paragraph Before" = "Вставить абзац перед";
+"Delete Code Block" = "Удалить блок кода";
+"Copy as MathML" = "Копировать как MathML";
+"Copy as Tex" = "Копировать как Tex";
+"Copy Math" = "Копировать математические выражения";
+"Reveal in Finder" = "Показать в Finder";
+"Open Link" = "Открыть ссылку";
+"Reveal in Sidebar" = "Показать в боковой панели";
+"Open in New Window" = "Открыть в новом окне";
+"Copy File Path" = "Копировать путь к файлу";
+"New File" = "Новый файл";
+"Rename" = "Переименовать";
+"New Folder" = "Новая папка";
+"Move to Trash" = "Переместить в Корзину";
+
+/* Electron */
+"Learn Spelling" = "Учить правописание";
+"Copy / Paste As…" = "Копировать / Вставить как…";
+"Math" = "Math";
+"Insert" = "Вставить";
+"Inspect Element" = "Осмотреть элемент";
+"Copy to MS Word" = "Копировать в MS Word";
+"Paragraph (before)" = "Абзац (до)";
+"Paragraph (after)" = "Абзац (после)";
+
+"Search with Google" = "Искать в Google";
+"Search With…" = "Искать…";
+
+/* Related Panel */
+"Open Failed" = "Не получилось открыть";
+"File or folder does not exist." = "Файл или папка не существует.";
+
+"Prettify Source Code" = "Приукрасить исходный код";

@@ -54,9 +54,9 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Las siguientes preferencias serán aplicadas despúes de reiniciar.)";
+"(Following preferences will be applied after restart.)" = "(Las siguientes preferencias serán aplicadas después de reiniciar.)";
 "Syntax Support" = "Soporte de sintaxis";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Ecuación embebida  ( ej.: $\LaTeX$ )";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Ecuación en línea  ( ej.: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subíndice    ( ej.: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superíndice ( ej.: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Subrayado     (e.g: ==key==)";
@@ -142,10 +142,10 @@
 "Emoji Autocomplete" = "Autocompletado de emoji";
 "Trigger by ESC key" = "Al oprimir en la tecla ESC";
 "Trigger automatically" = "Automático";
-"Default Line Ending" = "Terminación de línea predeterminada";
+"Default Line Ending" = "Fin de línea predeterminada";
 "Line ending for new file" = "Fin de línea para nuevos archivos";
 "Spell Check" = "Revisar ortografía";
-"(support US English only)" = "(solo soportado en Inglés de EEUU)";
+"(support US English only)" = "(solo soportado en inglés de EEUU)";
 "Enable spell check" = "Habilitar revisión de gramática";
 "Auto correct spelling" = "Autocorregir gramática";
 "System" = "Sistema";

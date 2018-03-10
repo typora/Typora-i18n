@@ -39,8 +39,6 @@
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Images Insert";
 "Use relative path if possible" = "Use relative path if possible";
-"Allow copy images to given folder" = "Allow copy images to given folder";
-"Allow upload to given server" = "Allow upload to given server";
 "Auto Pair" = "Auto Pair";
 "Auto pair brackets and quotes" = "Auto pair brackets and quotes";
 "Auto pair common markdown syntax" = "Auto pair common markdown syntax";
@@ -209,3 +207,10 @@
 "Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
 "Indent Size for Code" = "Indent Size for Code";
 "Auto wrap long lines" = "Auto wrap long lines";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
+"Export to PDF" = "Export to PDF";
+"Pretty Indentation" = "Pretty Indentation";
+"Allow upload images automactially based on YAML settings" = "Allow upload images automactially based on YAML settings";
+"Also apply above rules for online images" = "Also apply above rules for online images";
+"Update markdown reference for this image" = "Update markdown reference for this image";

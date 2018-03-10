@@ -130,3 +130,5 @@
 /* search option */
 "Case Sensitive" = "区分大小写";
 "Whole Word" = "查找整个单词";
+"input image URL" = "输入图片地址";
+"Select image from local file" = "选择本地图片";

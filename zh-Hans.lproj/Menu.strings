@@ -224,3 +224,7 @@
 /* Related Panel */
 "Open Failed" = "无法打开";
 "File or folder does not exist." = "目标文件或文件夹不存在";
+"Copy '%@'" = "复制'%@'";
+"Copy to %@" = "复制图片到%@";
+"Copy Image to..." = "复制图片到...";
+"Upload via iPic" = "上传图片";

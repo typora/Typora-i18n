@@ -7,6 +7,8 @@
  Czech translation
  by David Husička (@DavidHusicka)
  davidek251@seznam.cz
+ by Petr Šimáček
+ petr.simacek@gmail.com
 
 */
 
@@ -21,7 +23,7 @@
 "Learn More…" = "Zjistit více…";
 "Untitled" = "Nepojmenovaný";
 "Undo" = "Zpět";
-"Dismiss" = "Zrušit";
+"Dismiss" = "Zamítnout";
 "Confirm" = "Potvrdit";
 "Error" = "Chyba";
 
@@ -29,21 +31,21 @@
 "Search" = "Hledat";
 "Replace" = "Nahradit";
 "All" = "Vše;
-"Search text not found in article" = "Vyhledávaný text nebyl nalezen v tomto článku";
-"search text" = "Hledat text";
+"Search text not found in article" = "Vyhledávaný text nebyl v článku nalezen";
+"search text" = "hledat text";
 
 /* Quick Open */
 "Search by file name" = "Hledat podle názvu souboru";
-"Searching" = "Hledá";
-"Gathering more results" = "Získává další výsledky";
+"Searching" = "Hledá se";
+"Gathering more results" = "Shromažďují se další výsledky";
 
 /* Tables */
 "Insert Table" = "Vložit tabulku";
 "Columns" = "Sloupce";
 "Rows" = "Řádky";
-"Align Left" = "Zarovnat vpravo";
+"Align Left" = "Zarovnat vlevo";
 "Align Center" = "Zarovnat na střed";
-"Align Right" = "Zarovnat vlevo";
+"Align Right" = "Zarovnat vpravo";
 "Resize Table" = "Změnit velikost tabulky";
 "Delete Table" = "Smazat tabulku";
 
@@ -65,23 +67,23 @@
 "Switch to File Tree view" = "Přepnout do pohledu stromu";
 "Switch to Outline view" = "Přepnout do přehledového zobrazení";
 "Close sidebar" = "Zavřít boční panel";
-"Loading" = "Načítání";
+"Loading" = "Načítá se";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Vybrané složky obsahují příliš mnoho souborů. \nProsím přepněte do <a id='switch-to-tree-on-oversize'>Zobrazení stromu</a> pro lepší výkon.";
 "New File" = "Nový soubor";
 "Unpin Outline Panel" = "Odepnout panel s přehledem";
 "Open Folder..." = "Otevřít složku...";
 "Action" = "Akce";
-"Close Sidebar Menu" = "Zavřit menu bočního panelu";
+"Close Sidebar Menu" = "Zavřít menu bočního panelu";
 "Reveal in Finder" = "Ukázat ve Finderu";
-"Reveal in File Explorer" = "Ukázet ve Správci Souborů";
+"Reveal in File Explorer" = "Ukázat ve Správci Souborů";
 "Refresh Folder" = "Obnovit složku";
 "Sort" = "Seřadit";
 "Group By Folder" = "Skupina podle složky";
 "Sort Naturally" = "Seřadit přirozeně";
 "Sort by Name" = "Seřadit podle jména";
 "Sort by Modification Date" = "Seřadit podle data změny";
-"Recent Locations" = "Časté lokace";
-"Location" = "Lokace";
+"Recent Locations" = "Častá umístění";
+"Location" = "Umístění";
 "Switch File List/Tree View" = "Přepnout do pohledu Seznamu/Stromu";
 "No Files Available" = "Žádné dostupné soubory";
 "No Folder is Opened." = "Žádná otevřená složka";
@@ -101,9 +103,9 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Prosím nadefinujte reference obrázku podle \n[{0}]: http://ukázka.png";
 
 /* msg */
-"Failed to create file" = "Nepovedlo se vytvořit soubor";
-"Failed to create folder" = "Nepovedlo se vytvořit složku";
-"Failed to rename file" = "Nepovedlo se přejmenovat soubor";
+"Failed to create file" = "Nepodařilo se vytvořit soubor";
+"Failed to create folder" = "Nepodařilo se vytvořit složku";
+"Failed to rename file" = "Nepodařilo se přejmenovat soubor";
 "Folder does not exist at %@" = "Složka neexistuje na %@";
 "File with the same name already exists at target path" = "Soubor se stejným jménem již existuje v dané složce";
 "Apply to All" = "Aplikovat na vše";
@@ -112,12 +114,12 @@
 "back to document" = "Zpět do dokumentu";
 "Failed to load file" = "Nepovedlo se načíst soubor";
 "Save File Failed!" = "Nepovedlo se uložit soubor!"
-"Cannot open folder {0}" = "Nemohu otevřit složku {0}";
+"Cannot open folder {0}" = "_Složku nelze otevřít {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Obsah souboru byl změněn externí aplikací. Chcete načíst obsah z disku?"
 "Should continue moving and overwrite exisiting file(s) ?" = "Má se pokračovat v přesouvání a přepsat soubor(y)";
 
-"Rename Failed" = "Nepovedlo se přejmenovat";
+"Rename Failed" = "Nepodařilo se přejmenovat";
 "Rename to \"{0}\" ?" = "Přejmenovat na \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Nepovedlo se přejmenovat z \"{0}\" na \"{1}\"";
 

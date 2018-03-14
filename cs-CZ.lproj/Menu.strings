@@ -7,19 +7,21 @@
  Czech translation
  by David Husička (@DavidHusicka)
  davidek251@seznam.cz
+ by Petr Šimáček
+ petr.simacek@gmail.com
 
 */
 
 /* Typora Menu */
 
 "About Typora" = "O Typoře";
-"Preferences" = "Preference";
+"Preferences" = "Předvolby";
 "Check for Updates" = "Zkontrolovat aktualizace";
 "Services" = "Služby";
 "Hide Typora" = "Skrýt Typoru";
 "Hide Others" = "Skrýt ostatní";
 "Show All" = "Zobrazit vše";
-"Quit Typora" = "Odejít z Typory";
+"Quit Typora" = "Ukončit Typoru";
 
 /* File Menu */
 
@@ -29,17 +31,17 @@
 "Open Folder" = "Otevřít složku";
 "Reopen with Encoding" = "Otevřít s kódováním";
 "Auto" = "Auto";
-"Open Recent" = "Otevřít poslední";
-"Clear Items" = "Vyčistit";
-"No Recent Files" = "Žádné poslední soubory";
+"Open Recent" = "Otevřít nedávné";
+"Clear Items" = "Vyčistit položky";
+"No Recent Files" = "Žádné nedávné soubory";
 "Open Quickly" = "Otevřít rychle";
 "Open File Location" = "Otevřít umístění souboru";
 "Reveal in Library" = "Ukázat v knihovně";
-"Reveal in File Tree" = "Ukázat ve stromu";
+"Reveal in File Tree" = "Ukázat ve stromovém zobrazení";
 "Close" = "Zavřít";
 "Save" = "Uložit";
 "Save As" = "Uložit jako";
-"Duplicate" = "Duplikovat";
+"Duplicate" = "Vytvořit kopii";
 "Rename" = "Přejmenovat";
 "Move To" = "Přesunout do";
 "Revert To" = "Vrátit do";
@@ -50,7 +52,7 @@
 "Print" = "Tisk";
 
 /* Edit Menu */
-"Edit" = "Editovat";
+"Edit" = "Upravit";
 "Undo" = "Zpět";
 "Redo" = "Navrátit";
 "Cut" = "Vyjmout";
@@ -61,17 +63,17 @@
 "Paste as Plain Text" = "Kopírovat jako prostý text";
 "Select All" = "Vybrat vše";
 "Select Line/Sentence" = "Vybrat řádek/větu";
-"Select Styled Scope" = "Vybrat stylizovaný rozsah";
+"Select Styled Scope" = "Vybrat rozsah stylu";
 "Select Word" = "Vybrat slovo";
 "Delete" = "Smazat";
-"Delete Range" = "Smazat vzdálenost";
+"Delete Range" = "Smazat rozsah";
 "Delete Word" = "Smazat slovo";
 "Delete Styled Scope" = "Smazat stylizovaný rozsah";
 "Delete Line/Sentence" = "Vymazat řádek/větu";
 "Jump To" = "Skočit na";
-"Jump to Top" = "Skočit navrch";
+"Jump to Top" = "Skočit na začátek";
 "Jump to Selection" = "Skočit na výběr";
-"Jump to Bottom" = "Skočit naspod";
+"Jump to Bottom" = "Skočit na konec";
 "Math Tools" = "Matematické nástroje";
 "Refresh All Math Expressions" = "Obnovit veškeré matematické výrazy";
 "Image Tools" = "Nástroje obrázku";
@@ -81,7 +83,7 @@
 "Copy Image File to Folder" = "Kopírovat obrázek do složky";
 "Upload Image via iPic" = "Nahrát obrázek přes iPic";
 "Use Image Root Path" = "Použít kořenový adresář obrázku";
-"Line Endings" = "Konce řádků";
+"Line Endings" = "Zakončení řádků";
 "Windows Line Endings (CRLF)" = "Konce řádků Windows (CRLF)";
 "Unix Line Endings (LF)" = "Konce řádků Unix (LF)";
 "Find" = "Najít";
@@ -90,16 +92,16 @@
 "Find and Replace" = "Najít a nahradit";
 "Replace" = "Nahradit";
 "Replace Next" = "Nahradit další";
-"Spelling and Grammar" = "Výslovnost a gramatika";
+"Spelling and Grammar" = "Pravopis a gramatika";
 "Check Document Now" = "Zkontrolovat dokument nyní";
-"Check Spelling While Typing" = "Kontrolovat výslovnost při psaní";
-"Check Grammar With Spelling" = "Zkontrolovat gramatiku s výslovností";
-"Correct Spelling Automatically" = "Obžalovat výslovnost automaticky";
-"Substitutions" = "Záměna";
+"Check Spelling While Typing" = "Kontrolovat pravopis při psaní";
+"Check Grammar With Spelling" = "Zkontrolovat gramatiku s pravopisem";
+"Correct Spelling Automatically" = "Opravit pravopis automaticky";
+"Substitutions" = "Náhrady";
 "Smart Quotes" = "Chytré uvozovky";
 "Smart Dashes" = "Chytré pomlčky";
 "Text Replacement" = "Nahrazení textu";
-"Speech" = "Mluva";
+"Speech" = "Řeč";
 "Start Speaking" = "Začít mluvit";
 "Stop Speaking" = "Přestat mluvit";
 
@@ -119,13 +121,13 @@
 "Quote" = "Citát";
 "Ordered List" = "Seřazený seznam";
 "Unordered List" = "Neseřazený seznam";
-"Task List" = "Seznam úloh";
-"Task Status" = "Status úloh";
-"Toggle Task Status" = "Přepnout status úlohy";
+"Task List" = "Seznam úkolů";
+"Task Status" = "Status úkolů";
+"Toggle Task Status" = "Přepnout status úkolu";
 "Mark as Complete" = "Označit za dokončené";
 "Mark as Incomplete" = "Označit za nedokončené";
 "List Indentation" = "Odsazení seznamu";
-"Indent" = "Odsadit";
+"Indent" = "Odrážka";
 "Outdent" = "Přiblížit";
 "Link Reference" = "Reference odkaz";
 "Footnotes" = "Poznámky pod čarou";
@@ -153,15 +155,15 @@
 "View" = "Zobrazení";
 "New Tab" = "Nová záložka";
 "Source Code Mode" = "Mód zdrojového kódu";
-"Focus Mode" = "Mód soustředění";
+"Focus Mode" = "Mód zaostření";
 "Typewriter Mode" = "Mód psacího stroje";
 "Toggle Sidebar" = "Přepnout boční lištu";
 "Outline" = "Obrys";
 "Articles" = "Články";
-"File Tree" = "Strong souborů";
+"File Tree" = "Souborový strom";
 "Always on Top" = "Vždy na vrchu";
 "Full Screen" = "Režim celé obrazovky";
-"Show Status Bar" = "Zobrazit lištu statusu";
+"Show Status Bar" = "Zobrazit stavový řádek";
 "Toggle Fullscreen" = "Přepnout režim celé obrazovky";
 "Actual Size" = "Současná velikost";
 "Zoom In" = "Přiblížit";
@@ -177,7 +179,7 @@
 "Window" = "Okno";
 "Minimize" = "Minimalizovat";
 "Zoom" = "Zoom";
-"Bring All to Front" = "Vložit v dopředu";
+"Bring All to Front" = "Přenést vše dopředu";
 
 /* Help Menu */
 "Help" = "Pomoc";
@@ -204,24 +206,24 @@
 "Delete Column" = "Smazat sloupec";
 "Copy Table" = "Kopírovat tabulku";
 "Delete Table" = "Smazat tabulku";
-"Insert Paragraph After" = "Vložit odstavec z";
+"Insert Paragraph After" = "Vložit odstavec za";
 "Insert Paragraph Before" = "Vložit odstavec před";
 "Delete Code Block" = "Smazat blok kódu";
 "Copy as MathML" = "Kopírovat jako MathML";
 "Copy as Tex" = "Kopírovat jako Tex";
 "Copy Math" = "Kopírovat matematiku";
 "Reveal in Finder" = "Zobrazit ve Finderu";
-"Open Link" = "Kopírovat odkaz";
+"Open Link" = "Otevřít odkaz";
 "Reveal in Sidebar" = "Zobrazit boční lištu";
 "Open in New Window" = "Otevřít v novém okně";
 "Copy File Path" = "Kopírovat adresu souboru";
 "New File" = "Nový soubor";
 "Rename" = "Přejmenovat";
-"New Folder" = "Boobs složka";
-"Move to Trash" = "Hodit do koše";
+"New Folder" = "Nová složka";
+"Move to Trash" = "Přesunout do koše";
 
 /* Electron */
-"Learn Seplling" = "Naučit se výslovnost";
+"Learn Seplling" = "Naučit se pravopis";
 "Copy / Paste As…" = "Kopírovat / Vložit jako…";
 "Math" = "Matematika";
 "Insert" = "Vložit";
@@ -230,9 +232,9 @@
 "Paragraph (before)" = "Odstavec (před)";
 "Paragraph (after)" = "Odstavec (za)";
 
-"Search with Google" = "Hledat přes Google";
-"Search With…" = "Hledat přes…";
+"Search with Google" = "Hledat pomocí Google";
+"Search With…" = "Hledat s…";
 
 /* Related Panel */
-"Open Failed" = "Otevírání se nezdařilo";
+"Open Failed" = "Otevření se nezdařilo";
 "File or folder does not exist." = "Soubor nebo složka neexistuje";

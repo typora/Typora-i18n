@@ -45,37 +45,37 @@
 "Trigger Autocomplete without ESC key for" = "Spustit automatické dokončení bez tlačítka ESC pro";
 "Emoji (e.g. :smile:)" = "Emoji (např. :smile:)";
 "Images Insert" = "Vložit obrázky";
-"Use relative path if possible" = "Použít relativní cesty pokud je možné";
+"Use relative path if possible" = "Použít relativní cestu pokud je to možné";
 "Allow copy images to given folder" = "Povolit kopírování obrázků do dané složky";
-"Allow upload to given server" = "Povolit nahrávání do daného serveru";
+"Allow upload to given server" = "Povolit nahrávání na daný serveru";
 "Auto Pair" = "Automatické párování";
 "Auto pair brackets and quotes" = "Automaticky párovat závorky a uvozovky";
-"Auto pair common markdown syntax" = "Automaticky párovata častou syntaxi markdownu";
+"Auto pair common markdown syntax" = "Automaticky párovat častou syntaxi markdownu";
 "Live Rendering" = "Živé zobrazení";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Zobrazit zdroj pro jednoduché bloky\n(včetně hlaviček, atd.) při najetí myši";
 "Default Copy Behavior" = "Standardní chování při kopírování";
 "Copy Markdown source as plain text" = "Kopírovat markdown jako prostý text";
 "Typewriter Mode" = "Mód psacího stroje";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Pořád udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Vždy udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Následující předvolby se projeví až po restartu)";
 "Syntax Support" = "Podpora syntaxe";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Inline matematika（např：$\LaTeX$）";
-"Subscript    ( e.g: H~2~O )" = "Dolní indexy（např.：H~2~O）";
-"Superscript ( e.g: X^2^ )" = "Horní indexy（např.：X^2^）";
+"Subscript    ( e.g: H~2~O )" = "Dolní index（např.：H~2~O）";
+"Superscript ( e.g: X^2^ )" = "Horní index（např.：X^2^）";
 "Highlight     (e.g: ==key==)" = "Zvýraznění（např.：==key==）";
 "Diagrams" = "Diagramy";
 "(Sequence, Flowchart and Mermaid)" = "（Sekvence, vývojový graf a mermaid）";
-"Syntax Preference" = "Předvolby syntaxe";
+"Syntax Preference" = "Předvolba syntaxe";
 "(only apply for styles created from menubar or hybrid view)" = "(pouze aplikovat pro styly vytvořené z menu nebo hybridního zobrazení)";
 "Strict Mode" = "Striktní mód";
 "(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
 "Heading Style" = "Styl nadpisu";
 "Unordered List" = "Neregulovaný seznam";
 "Code Fences" = "Ohraničení kódu";
-"Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničené kódu";
+"Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničený kód";
 "Math Blocks" = "Matematické bloky";
 "Auto Numbering Math Equations" = "Automatické číslování matematických rovnic";
 
@@ -102,7 +102,7 @@
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pro import těchto typů souborů je potřeba Pandoc";
-"Check help->Install and use Pandoc from menubar for detail" = "koukněte na Pomoc->Instalace a použití Pandocu z menu pro detaily.";
+"Check help->Install and use Pandoc from menubar for detail" = "Podívejte se na Pomoc->Instalace a použití Pandocu z menu pro detaily.";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import a pár funkcí pro export vyžaduje instalaci <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
 "Follow Instructions to Install/Update Pandoc" = "Následujte instrukce k instalaci/aktualizaci Pandocu";
 "Export Failed" = "Export se nezdařil";
@@ -118,11 +118,11 @@
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
 "Print with default theme" = "Tisknout s původním tématem";
 "Export to PDF successfully." = "PDF bylo vyexportováno úspěšně.";
-"Converting file using Pandoc. This may take some time." = "Převádím soubor pomocí Pandocu. Může to chvíli trvat.";
-"Exporting file using Pandoc. This may take some time." = "Exportuji soubor pomocí Pandocu. Může to chvíli trvat.";
+"Converting file using Pandoc. This may take some time." = "Probíhá převod souboru pomocí Pandocu. Může to chvíli trvat.";
+"Exporting file using Pandoc. This may take some time." = "Probíhá export souboru pomocí Pandocu. Může to chvíli trvat.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Nahrávám obrázky přes iPic...";
+"Uploading Images via iPic..." = "Nahrávají se obrázky přes iPic...";
 "Uploading in progress..." = "Probíhá nahrávání...";
 "Do not show this again" = "Toto znovu nezobrazovat";
 
@@ -165,23 +165,23 @@
 "Reset Advanced Settings" = "Resetovat pokročilé nastavení";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Tahle fukce vyžaduje nejnovější verze iPic.";
+"This fucntion requires latest version of iPic to be installed." = "Tato fukce vyžaduje nejnovější verze iPic.";
 "Get iPic" = "Získat iPic";
 "Cannot Continue…" = "Nelze pokračovat…";
-"This feature require macOS >= 10.11" = "Tahle fukce vyžaduje MacOS >= 10.11";
+"This feature require macOS >= 10.11" = "Tato fukce vyžaduje MacOS >= 10.11";
 "One More Step" = "Ještě jeden krok";
 "Notice" = "Oznámit";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Tahle funkce vyžaduje iPic a odkázaní obrázky budou nahrány do cloudu přes iPic. Prosím dále si všimněte, že původní služba cloudu neumožňuje smazání obrázku po nahrání.";
 
 "%d Images Failed to Upload." = "%d obrázky se nepodařilo nahrát.";
-"%d Succeeded," = "%d Úspěch,";
+"%d Succeeded," = "%d uspěl,";
 "Enable this feature on preferences panel" = "Zapněte tuto funkci na panelu předvoleb";
 "The option `%@` must be enabled first" = "Možnost `%@` musí být nejprve zapnuta";
 "%@ is a file, not a directory" = "%@ je soubor, ne složka";
 "Copy Images To…" = "Kopírovat obrázky do …";
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora se pokouší kopírovat nově vložené soubory do složky %@  podle vašeho nastavení titlní stránky YAML, ale cílová složka neexistuje. Chcete ji vytvořit teď?";
 "Create Folder and Continue" = "Vytvořit složku a pokračovat";
-"Document must be saved first" = "Dokument musí být nejprve uložen.";
+"Document must be saved first" = "Dokument musí být nejprve uložen";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora zkopíruje nově vložené obrázky do složky vybrané podle relativní cesty, takže prosím nejprve uložte soubor.";
 "Open Operation Failed" = "Operace Otevřít selhala";
 

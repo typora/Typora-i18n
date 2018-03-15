@@ -70,10 +70,10 @@
 "Delete Word" = "Smazat slovo";
 "Delete Styled Scope" = "Smazat stylizovaný rozsah";
 "Delete Line/Sentence" = "Vymazat řádek/větu";
-"Jump To" = "Skočit na";
-"Jump to Top" = "Skočit na začátek";
-"Jump to Selection" = "Skočit na výběr";
-"Jump to Bottom" = "Skočit na konec";
+"Jump To" = "Přejít na";
+"Jump to Top" = "Přejít na začátek";
+"Jump to Selection" = "Přejít na výběr";
+"Jump to Bottom" = "Přejít na konec";
 "Math Tools" = "Matematické nástroje";
 "Refresh All Math Expressions" = "Obnovit veškeré matematické výrazy";
 "Image Tools" = "Nástroje obrázku";
@@ -102,46 +102,46 @@
 "Smart Dashes" = "Chytré pomlčky";
 "Text Replacement" = "Nahrazení textu";
 "Speech" = "Řeč";
-"Start Speaking" = "Začít mluvit";
-"Stop Speaking" = "Přestat mluvit";
+"Start Speaking" = "Začněte mluvit";
+"Stop Speaking" = "Přestaňte mluvit";
 
 /* Paragraph Menu */
 "Paragraph" = "Odstavec";
-"Heading 1" = "Nadpis1";
-"Heading 2" = "Nadpis2";
-"Heading 3" = "Nadpis3";
-"Heading 4" = "Nadpis4";
-"Heading 5" = "Nadpis5";
-"Heading 6" = "Nadpis6";
-"Increase Heading Level" = "Zvýšit úroveň nadpisu";
+"Heading 1" = "Nadpis 1";
+"Heading 2" = "Nadpis 2";
+"Heading 3" = "Nadpis 3";
+"Heading 4" = "Nadpis 4";
+"Heading 5" = "Nadpis 5";
+"Heading 6" = "Nadpis 6";
+"Increase Heading Level" = "Navýšit úroveň nadpisu";
 "Decrease Heading Level" = "Snížit úroveň nadpisu";
 "Table" = "Tabulka";
 "Code Fences" = "Ohraničení kódu";
-"Math Block" = "Matematický blok";
-"Quote" = "Citát";
+"Math Block" = "Math blok";
+"Quote" = "Citace";
 "Ordered List" = "Seřazený seznam";
 "Unordered List" = "Neseřazený seznam";
 "Task List" = "Seznam úkolů";
-"Task Status" = "Status úkolů";
-"Toggle Task Status" = "Přepnout status úkolu";
+"Task Status" = "Stav úkolů";
+"Toggle Task Status" = "Přepnout stav úkolu";
 "Mark as Complete" = "Označit za dokončené";
 "Mark as Incomplete" = "Označit za nedokončené";
 "List Indentation" = "Odsazení seznamu";
-"Indent" = "Odrážka";
-"Outdent" = "Přiblížit";
-"Link Reference" = "Reference odkaz";
+"Indent" = "Odsazení";
+"Outdent" = "Odrážka vlevo od okraje";
+"Link Reference" = "Doporučený odkaz";
 "Footnotes" = "Poznámky pod čarou";
-"Horizontal Line" = "Horizontální čára";
+"Horizontal Line" = "Vodorovná čára";
 "Table of Contents" = "Obsah";
 "YAML Front Matter" = "Titulní stránka YAML";
 
 /* Format Menu */
 "Format" = "Formát";
 "Strong" = "Tučné";
-"Emphasis" = "Důraz";
-"Underline" = "Podtržení";
+"Emphasis" = "Kurzíva";
+"Underline" = "Podtržené";
 "Code" = "Kód";
-"Inline Math" = "Inline matematika";
+"Inline Math" = "Inline Math";
 "Strike" = "Přeškrtnout";
 "Highlight" = "Zvýraznit";
 "Superscript" = "Horní index";
@@ -153,14 +153,14 @@
 
 /* View Menu */
 "View" = "Zobrazení";
-"New Tab" = "Nová záložka";
-"Source Code Mode" = "Mód zdrojového kódu";
-"Focus Mode" = "Mód zaostření";
-"Typewriter Mode" = "Mód psacího stroje";
-"Toggle Sidebar" = "Přepnout boční lištu";
-"Outline" = "Obrys";
+"New Tab" = "Nová karta";
+"Source Code Mode" = "Režim zdrojového kódu";
+"Focus Mode" = "Režim zaměření";
+"Typewriter Mode" = "Režim psacího stroje";
+"Toggle Sidebar" = "Přepnout postranní panel";
+"Outline" = "Přehled";
 "Articles" = "Články";
-"File Tree" = "Souborový strom";
+"File Tree" = "Strom souborů";
 "Always on Top" = "Vždy na vrchu";
 "Full Screen" = "Režim celé obrazovky";
 "Show Status Bar" = "Zobrazit stavový řádek";
@@ -173,13 +173,13 @@
 
 
 /* Themes Menu */
-"Themes" = "Téma";
+"Themes" = "Témata vzhledu";
 
 /* Window Menu */
 "Window" = "Okno";
 "Minimize" = "Minimalizovat";
 "Zoom" = "Zoom";
-"Bring All to Front" = "Přenést vše dopředu";
+"Bring All to Front" = "Přenést vše do popředí";
 
 /* Help Menu */
 "Help" = "Pomoc";
@@ -190,10 +190,10 @@
 "About" = "O Typoře";
 
 /* Touchbar */
-"Block Styles" = "Styly bloků";
+"Block Styles" = "Blokovat styly";
 "Inline Styles" = "Inline Styly";
-"List Styles / Remove Block" = "Styly seznamů / Odstranit blok";
-"Exit Source Code Mode" = "Odejít z módu zdrojového kódu";
+"List Styles / Remove Block" = "Procházet styly / Odstranit blokované";
+"Exit Source Code Mode" = "Opustit režim zdrojového kódu";
 "Toggle Source Code Mode" = "Přepnout mód zdrojového kódu";
 
 /* Extra Context Menu */
@@ -211,10 +211,10 @@
 "Delete Code Block" = "Smazat blok kódu";
 "Copy as MathML" = "Kopírovat jako MathML";
 "Copy as Tex" = "Kopírovat jako Tex";
-"Copy Math" = "Kopírovat matematiku";
+"Copy Math" = "Kopírovat Math";
 "Reveal in Finder" = "Zobrazit ve Finderu";
 "Open Link" = "Otevřít odkaz";
-"Reveal in Sidebar" = "Zobrazit boční lištu";
+"Reveal in Sidebar" = "Zobrazit v bočním panelu";
 "Open in New Window" = "Otevřít v novém okně";
 "Copy File Path" = "Kopírovat adresu souboru";
 "New File" = "Nový soubor";
@@ -225,7 +225,7 @@
 /* Electron */
 "Learn Seplling" = "Naučit se pravopis";
 "Copy / Paste As…" = "Kopírovat / Vložit jako…";
-"Math" = "Matematika";
+"Math" = "Math";
 "Insert" = "Vložit";
 "Inspect Element" = "Zkontrolovat prvek";
 "Copy to MS Word" = "Kopírovat do Wordu";
@@ -233,7 +233,7 @@
 "Paragraph (after)" = "Odstavec (za)";
 
 "Search with Google" = "Hledat pomocí Google";
-"Search With…" = "Hledat s…";
+"Search With…" = "Hledat pomocí…";
 
 /* Related Panel */
 "Open Failed" = "Otevření se nezdařilo";

@@ -211,7 +211,14 @@
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，深色主题暂时不支持打印。建议使用亮色主题或者选择导出到PDF";
 "Export to PDF" = "导出到PDF";
 "Pretty Indentation" = "对其缩进";
-"Allow upload images automactially based on YAML settings" = "允许根据YAML设置自动上传图片";
-"Also apply above rules for online images" = "对网络位置的图片依旧应用上述规则";
 "Update markdown reference for this image" = "更新Markdown中的图片引用";
+
+"No special action" = "无特殊操作";
+"Copy image to current folder (./)" = "复制图片到当前文件夹 (./)";
+"Copy image to ./assets" = "复制图片到./assets文件夹";
+"Copy image to ./${filename}.assets" = "复制图片到./${filename}.assets文件夹";
+"Upload image via iPic" = "通过iPic上传图片";
+"Apply above rules for local images" = "对本地位置的图片应用上述规则";
+"Apply above rules for online images" = "对网络位置的图片应用上述规则";
+"Allow upload images automatically based on YAML settings" = "允许根据YAML设置自动上传图片";
 

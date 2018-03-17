@@ -211,6 +211,13 @@
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
 "Export to PDF" = "Export to PDF";
 "Pretty Indentation" = "Pretty Indentation";
-"Allow upload images automactially based on YAML settings" = "Allow upload images automactially based on YAML settings";
-"Also apply above rules for online images" = "Also apply above rules for online images";
 "Update markdown reference for this image" = "Update markdown reference for this image";
+
+"No special action" = "No special action";
+"Copy image to current folder (./)" = "Copy image to current folder (./)";
+"Copy image to ./assets" = "Copy image to ./assets";
+"Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
+"Upload image via iPic" = "Upload image via iPic";
+"Apply above rules for local images" = "Apply above rules for local images";
+"Apply above rules for online images" = "Apply above rules for online images";
+"Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";

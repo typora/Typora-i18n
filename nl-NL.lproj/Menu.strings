@@ -1,0 +1,244 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+ 
+ Dutch translations by Melle Dijkstra
+ 
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Over Typora";
+"Preferences" = "Voorkeuren";
+"Check for Updates" = "Controleer op Updates";
+"Services" = "Diensten";
+"Hide Typora" = "Verberg Typora";
+"Hide Others" = "Verberg Anderen";
+"Show All" = "Toon Alles";
+"Quit Typora" = "Sluit Typora";
+
+/* File Menu */
+
+"File" = "Bestand";
+"New" = "Nieuw";
+"Open" = "Open";
+"Open Folder" = "Open Map";
+"Reopen with Encoding" = "Heropen met Codering";
+"Auto" = "Auto";
+"Open Recent" = "Open Recent";
+"Clear Items" = "Items Wissen";
+"No Recent Files" = "Geen Recente Bestanden";
+"Open Quickly" = "Snel Openen";
+"Open File Location" = "Open Bestandslocatie";
+"Reveal in Library" = "Onthullen in Bibliotheek";
+"Reveal in File Tree" = "Onthullen in Boomstructuur";
+"Close" = "Sluiten";
+"Save" = "Opslaan";
+"Save As" = "Opslaan Als";
+"Duplicate" = "Dupliceren";
+"Rename" = "Hernoemen";
+"Move To" = "Verplaatsen Naar";
+"Revert To" = "Terugkeren Naar";
+"Browse All Versions" = "Blader door alle versies";
+"Import" = "Importeren";
+"Export" = "Exporteren";
+"Page Setup" = "Pagina Opstelling";
+"Print" = "Afdrukken";
+
+/* Edit Menu */
+"Edit" = "Bewerken";
+"Undo" = "Ongedaan maken";
+"Redo" = "Opnieuw toepassen";
+"Cut" = "Knippen";
+"Copy" = "Kopiëren";
+"Paste" = "Plakken";
+"Copy as Markdown" = "Kopiëren als Markdown";
+"Copy as HTML Code" = "Kopiëren als HTML Code";
+"Paste as Plain Text" = "Kopiëren als eenvoudige tekst";
+"Select All" = "Selecteer Alles";
+"Select Line/Sentence" = "Selecteer Lijn/Zin";
+"Select Styled Scope" = "Selecteer Gestijlde Bereik";
+"Select Word" = "Selecteer Woord";
+"Delete" = "Verwijder";
+"Delete Range" = "Verwijder Reeks";
+"Delete Word" = "Verwijder Woord";
+"Delete Styled Scope" = "Verwijder Gestijlde Bereik";
+"Delete Line/Sentence" = "Verwijder Lijn/Zin";
+"Jump To" = "Spring Naar";
+"Jump to Top" = "Spring naar Top";
+"Jump to Selection" = "Spring naar Selectie";
+"Jump to Bottom" = "Spring naar Bodem";
+"Math Tools" = "Wiskundige Hulpmiddelen";
+"Refresh All Math Expressions" = "Herlaad Alle Wiskundige Uitdrukkingen";
+"Image Tools" = "Afbeeldings Hulpmiddelen";
+"Insert Local Images" = "Voeg lokale afbeeldingen in";
+"Upload Local Images via iPic" = "Upload Lokale Afbeeldingen via iPic";
+"When Insert Local Image" = "Wanneer lokaal bestand wordt ingevoegd";
+"Copy Image File to Folder" = "Afbeelding kopiëren naar Map";
+"Upload Image via iPic" = "Upload afbeelding via iPic";
+"Use Image Root Path" = "Gebruik de hoofdmap van de afbeelding";
+"Line Endings" = "Regeleinden";
+"Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
+"Unix Line Endings (LF)" = "Unix Line Endings (LF)";
+"Find" = "Zoek";
+"Find Next" = "Volgende Zoeken";
+"Find Previous" = "Vorige Zoeken";
+"Find and Replace" = "Zoeken en Vervangen";
+"Replace" = "Vervangen";
+"Replace Next" = "Volgende Vervangen";
+"Spelling and Grammar" = "Spelling en Grammatica";
+"Check Document Now" = "Controleer Document Nu";
+"Check Spelling While Typing" = "Controleer Spelling Tijdens Typen";
+"Check Grammar With Spelling" = "Controleer Grammatica met Spelling";
+"Correct Spelling Automatically" = "Corrigeer Spelling Automatisch";
+"Substitutions" = "Vervangingen";
+"Smart Quotes" = "Slimme Citaten";
+"Smart Dashes" = "Slimme Streepjes";
+"Text Replacement" = "Tekstvervanging";
+"Speech" = "Spraak";
+"Start Speaking" = "Start Spraak";
+"Stop Speaking" = "Stop Spraak";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraaf";
+"Heading 1" = "Titel 1";
+"Heading 2" = "Titel 2";
+"Heading 3" = "Titel 3";
+"Heading 4" = "Titel 4";
+"Heading 5" = "Titel 5";
+"Heading 6" = "Titel 6";
+"Increase Heading Level" = "Titel Niveau Verhogen";
+"Decrease Heading Level" = "Titel Niveau Verlagen";
+"Table" = "Tabel";
+"Code Fences" = "Code Blok";
+"Math Block" = "Wiskunde Blok";
+"Quote" = "Citaat";
+"Ordered List" = "Geordende Lijst";
+"Unordered List" = "Ongeordende Lijst";
+"Task List" = "Takenlijst";
+"Task Status" = "Taakstatus";
+"Toggle Task Status" = "Schakel Taakstatus";
+"Mark as Complete" = "Markeer als Voltooid";
+"Mark as Incomplete" = "Markeer als niet Voltooid";
+"List Indentation" = "Lijst Inspringing";
+"Indent" = "Inspringen";
+"Outdent" = "Uitspringen";
+"Link Reference" = "Link Referentie";
+"Footnotes" = "Voetnoten";
+"Horizontal Line" = "Horizontale Lijn";
+"Table of Contents" = "Inhoudsopgave";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Opmaak";
+"Strong" = "Dikgedrukt";
+"Emphasis" = "Nadruk";
+"Underline" = "Onderlijn";
+"Code" = "Code";
+"Inline Math" = "In lijn Wiskunde";
+"Strike" = "Doorstreping";
+"Highlight" = "Lichteffect";
+"Superscript" = "Superscript";
+"Subscript" = "Subscript";
+"Comment" = "Commentaar";
+"Hyperlink" = "Hyperlink";
+"Image" = "Afbeelding";
+"Clear Format" = "Opmaak Wissen";
+
+/* View Menu */
+"View" = "Beeld";
+"New Tab" = "Nieuw Tabblad";
+"Source Code Mode" = "Broncode Modus";
+"Focus Mode" = "Focus Modus";
+"Typewriter Mode" = "Typemachine Modus";
+"Toggle Sidebar" = "Open/Sluit Zijbalk";
+"Outline" = "Overzicht";
+"Articles" = "Artikelen";
+"File Tree" = "Bestandsboom";
+"Always on Top" = "Altijd Bovenste Venster";
+"Full Screen" = "Volledig Scherm";
+"Show Status Bar" = "Toon Statusbalk";
+"Toggle Fullscreen" = "Schakel Volledig Scherm";
+"Actual Size" = "Werkelijke Grote";
+"Zoom In" = "Inzoomen";
+"Zoom Out" = "Uitzoomen";
+"Switch Between Opened Documents" = "Schakel Tussen Geopende Documenten";
+"Toggle DevTools" = "Schakel DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Thema's";
+
+/* Window Menu */
+"Window" = "Scherm";
+"Minimize" = "Minimaliseren";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Alles naar voren brengen";
+
+/* Help Menu */
+"Help" = "Help";
+"Privacy Policy" = "Privacybeleid";
+"Credits" = "Credits";
+"Change Log" = "Change Log";
+"Website" = "Website";
+"Feedback" = "Feedback";
+"About" = "Over de Applicatie";
+
+/* Touchbar */
+"Block Styles" = "Blok Stijlen";
+"Inline Styles" = "In lijn Stijlen";
+"List Styles / Remove Block" = "Lijst Stijlen / Verwijder Blok";
+"Exit Source Code Mode" = "Sluit Broncode Modus";
+"Toggle Source Code Mode" = "Schakel Broncode Modus";
+
+/* Extra Context Menu */
+"Table" = "Tabel";
+"Insert Row Before" = "Voeg Rij Voor In";
+"Append Row After" = "Voeg Rij Achter In";
+"Delete Row" = "Verwijder Rij";
+"Insert Column Before" = "Voeg Kolom Voor In";
+"Append Column After" = "Voeg Kolom Achter In";
+"Delete Column" = "Verwijder Kolom";
+"Copy Table" = "Kopieer Tabel";
+"Delete Table" = "Verwijder Tabel";
+"Insert Paragraph After" = "Voeg Paragraaf Achter In";
+"Insert Paragraph Before" = "Voeg Paragraaf Voor In";
+"Delete Code Block" = "Verwijder Code Blok";
+"Copy as MathML" = "kopiëren als MathML";
+"Copy as Tex" = "Kopiëren als Tex";
+"Copy Math" = "Kopieer Wiskunde";
+"Reveal in Finder" = "Weergeef in Finder";
+"Open Link" = "Open Link";
+"Reveal in Sidebar" = "Weergeef in Zijbalk";
+"Open in New Window" = "Openen in Nieuw Scherm";
+"Copy File Path" = "Kopieer Bestandslocatie";
+"New File" = "Nieuw Bestand";
+"Rename" = "Hernoemen";
+"New Folder" = "Nieuwe Map";
+"Move to Trash" = "Verplaatsen naar Prullenbak";
+
+/* Electron */
+"Learn Spelling" = "Leer Spelling";
+"Copy / Paste As…" = "Kopiëren / Plakken Als…";
+"Math" = "Wiskunde";
+"Insert" = "Invoegen";
+"Inspect Element" = "Element Inspecteren";
+"Copy to MS Word" = "Kopiëren naar MS Word";
+"Paragraph (before)" = "Paragraaf (boven)";
+"Paragraph (after)" = "Paragraaf (onder)";
+
+"Search with Google" = "Zoeken met Google";
+"Search With…" = "Zoeken met…";
+
+/* Related Panel */
+"Open Failed" = "Openen Mislukt";
+"File or folder does not exist." = "Bestand of Map bestaat niet.";
+
+"Prettify Source Code" = "Prettify Broncode";
+"Copy '%@'" = "Kopieer '%@'";
+"Copy to %@" = "Kopiëren naar %@";
+"Copy Image to..." = "Kopieer Afbeelding naar...";
+"Upload via iPic" = "Upload via iPic";
+"Open Image Location" = "Open Afbeeldingslocatie";

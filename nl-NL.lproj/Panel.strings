@@ -1,0 +1,226 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ 
+ Dutch translations by Melle Dijkstra
+ 
+*/
+
+/* Preference Panel */
+"Preferences" = "Voorkeuren";
+
+/* General Panel */
+"General" = "Algemeen";
+"Window Style" = "Venster Stijl";
+"Classic" = "Klassiek";
+"Seamless" = "Seamless";
+"Seamless window only support OS X later than 10.10." = "Seamless venster ondersteunt alleen OS X later dan 10.10.";
+"Themes" = "Thema's";
+"Open Theme Folder" = "Open Thema Map";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Bekijk `help` ->` Snelle start` voor een korte introductie. Kijk op http://theme.typora.io voor meer thema's of instructies.";
+"Word Count" = "Woord Teller";
+"Always Show Word Count" = "Altijd woord teller laten zien";
+"Font Size" = "Lettertypegrootte";
+"Auto ( Recommended )" = "Automatisch ( Aanbevolen )";
+"Customized" = "Afgestemd";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Als de afgestemde tekengrootte wordt gebruikt, is de werkelijke lettergrootte afhankelijk van de basislettergrootte en de CSS stijl.";
+"Left Panel" = "Linker Paneel";
+"Show Outline Panel by Default" = "Standaard Overzichtspaneel weergeven";
+"Collapsible Outline on Left Panel" = "Inklapbaar overzicht op linker paneel";
+"Save without asking when\nswitch files on side panel" = "Sla op zonder te vragen wanneer \ntussen bestanden wordt geschakeld op het zijpaneel";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Bewerkte bestanden worden opgeslagen zonder te vragen wanneer tussen bestanden wordt gewijzigd in het linker paneel. \nWanneer \"Vragen om wijzigingen te behouden bij het sluiten van documenten\" is ingeschakeld in Systeemvoorkeur, is dit altijd ingeschakeld.";
+"Language" = "Taal";
+"System Language" = "Systeem Taal";
+
+/* Editor Panel */
+"Editor" = "Bewerker";
+"Indent Size on Save" = "Grootte inspringen bij opslaan";
+"only apply for quotes and lists created from menubar or hybrid view" = "alleen van toepassing op citaten en lijsten gemaakt vanaf menubalk of hybride weergave";
+"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete zonder ESC-toets voor";
+"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Images Insert" = "Afbeeldingen Invoegen";
+"Use relative path if possible" = "Gebruik relatieve paden wanneer mogelijk";
+"Auto Pair" = "Automatisch Koppelen";
+"Auto pair brackets and quotes" = "Koppel brackets and quotes automatisch";
+"Auto pair common markdown syntax" = "Koppel veelgebruikte markdown syntax automatisch";
+"Live Rendering" = "Live Weergave";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Geef de bron weer voor eenvoudige blokken\n(inclusief koppen, etc.) in focus";
+"Default Copy Behavior" = "Standaard kopieergedrag";
+"Copy Markdown source as plain text" = "Kopieer de Markdown-bron als gewone tekst";
+"Typewriter Mode" = "Typemachine Modus";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Zorg altijd dat de cursor in het midden van het scherm blijft staan\nwanneer de schrijfmachinemodus is ingeschakeld.";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(De volgende voorkeuren worden toegepast na opnieuw opstarten.)";
+"Syntax Support" = "Syntax Support";
+"Inline Math  ( e.g: $\LaTeX$ )" = "In lijn Wiskunde  ( e.g: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Lichteffect     (e.g: ==key==)";
+"Diagrams" = "Diagrammen";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"Syntax Preference" = "Syntax Preference";
+"(only apply for styles created from menubar or hybrid view)" = "(only apply for styles created from menubar or hybrid view)";
+"Strict Mode" = "Strict Mode";
+"(more strict to GFM spec)" = "(more strict to GFM spec)";
+"Heading Style" = "Heading Style";
+"Code Fences" = "Code Fences";
+"Display line numbers for code fences" = "Display line numbers for code fences";
+"Math Blocks" = "Math Blocks";
+"Auto Numbering Math Equations" = "Auto Numbering Math Equations";
+
+/* Security Panel */
+"Security" = "Security";
+"Enable Debug" = "Enable Debug";
+"Send Anonymous Usage Info" = "Send Anonymous Usage Info";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Require Pandoc to Continue...";
+"Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
+"Cancel" = "Cancel";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importerening...";
+"Importing in progress..." = "Importerening in progress...";
+"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+"Abort" = "Abort";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Exporteren...";
+"Exporting in progress..." = "Bezig met exporteren...";
+"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";
+"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Importeren or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
+"Follow Instructions to Install/Update Pandoc" = "Follow Instructions to Install/Update Pandoc";
+"Export Failed" = "Exporteren Mislukt";
+"Import Failed" = "Importeren Mislukt";
+"Generated Image too Large" = "Generated Image too Large";
+"Failed to export file to <em>{0}</em>" = "Failed to export file to <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Failed to import file from <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "File does not exist at <em>{0}</em>";
+"Export to..." = "Exporteren to...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
+"Dark Theme not support" = "Dark Theme not support";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
+"Print with default theme" = "Print with default theme";
+"Export to PDF successfully." = "Exporteren to PDF successfully.";
+"Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
+"Exporting file using Pandoc. This may take some time." = "Exporterening file using Pandoc. This may take some time.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Uploading Images via iPic...";
+"Uploading in progress..." = "Uploading in progress...";
+"Do not show this again" = "Do not show this again";
+
+/* Word Count */
+"%d Words" = "%d Words";
+"Minutes" = "Minutes";
+"Lines" = "Lines";
+"Words" = "Words";
+"Characters" = "Characters";
+"In Selection" = "In Selection";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Appearance";
+"System Native" = "System Native";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(applied after restart)";
+"Status Bar" = "Status Bar";
+"Show status bar" = "Weergeef status bar";
+"Save & Recover" = "Save & Recover";
+"Auto Save" = "Auto Save";
+"Recover Unsaved Drafts" = "Recover Unsaved Drafts";
+"Emoji Autocomplete" = "Emoji Autocomplete";
+"Trigger by ESC key" = "Trigger by ESC key";
+"Trigger automatically" = "Trigger automatically";
+"Default Line Ending" = "Default Line Ending";
+"Line ending for new file" = "Line ending for new file";
+"Spell Check" = "Spell Check";
+"(support US English only)" = "(support US English only)";
+"Enable spell check" = "Enable spell check";
+"Auto correct spelling" = "Auto correct spelling";
+"System" = "System";
+"Privacy" = "Privacy";
+"Developer" = "Developer";
+"Update" = "Update";
+"Check Updates" = "Check Updates";
+"Check updates automatically" = "Check updates automatically";
+"Advanced Settings" = "Advanced Settings";
+"Open Advanced Settings" = "Open Advanced Settings";
+"Reset Advanced Settings" = "Reset Advanced Settings";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "This fucntion requires latest version of iPic to be installed.";
+"Get iPic" = "Get iPic";
+"Cannot Continue…" = "Cannot Continue…";
+"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
+"One More Step" = "One More Step";
+"Notice" = "Notice";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image.";
+
+"%d Images Failed to Upload." = "%d Images Failed to Upload.";
+"%d Succeeded," = "%d Succeeded, ";
+"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
+"The option `%@` must be enabled first" = "The option `%@` must be enabled first.";
+"%@ is a file, not a directory" = "%@ is a file, not a directory";
+"Copy Images To…" = "Copy Images To…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
+"Create Folder and Continue" = "Create Folder and Continue";
+"Document must be saved first" = "Document must be saved first";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
+"Open Operation Failed" = "Open Operation Mislukt";
+
+"Support Documentation" = "Support Documentation";
+
+"Markdown File" = "Markdown File";
+"Plain Text File" = "Plain Text File";
+"All Files" = "All Files";
+"All Supported Formats" = "All Supported Formats";
+"Discard Changes" = "Discard Changes";
+"Discard" = "Discard";
+
+"Menu" = "Menu";
+"Back" = "Back";
+
+"Contact" = "Contact";
+"Open From..." = "Open From...";
+"Import..." = "Importeren...";
+"Recent Documents" = "Recent Documents";
+"Search for…" = "Search for…";
+"Clear Recent Documents" = "Clear Recent Documents";
+"File Name" = "File Name";
+"Path" = "Path";
+"Export As..." = "Exporteren As...";
+"More Formats" = "More Formats";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
+"Something is Wrong…" = "Something is Wrong…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Copy Content" = "Copy Content";
+
+
+"Total" = "Total";
+"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
+"Indent Size for Code" = "Indent Size for Code";
+"Auto wrap long lines" = "Auto wrap long lines";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
+"Export to PDF" = "Exporteren to PDF";
+"Pretty Indentation" = "Pretty Indentation";
+"Update markdown reference for this image" = "Update markdown reference for this image";
+
+"No special action" = "No special action";
+"Copy image to current folder (./)" = "Copy image to current folder (./)";
+"Copy image to ./assets" = "Copy image to ./assets";
+"Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
+"Upload image via iPic" = "Upload image via iPic";
+"Apply above rules for local images" = "Apply above rules for local images";
+"Apply above rules for online images" = "Apply above rules for online images";
+"Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";

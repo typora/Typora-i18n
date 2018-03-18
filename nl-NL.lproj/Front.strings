@@ -1,0 +1,138 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ 
+ Dutch translations by Melle Dijkstra
+ 
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Annuleren";
+"Yes" = "Ja";
+"No" = "Nee";
+"Close" = "Sluiten";
+"Select" = "Selecteer";
+"Continue" = "Doorgaan";
+"Learn More…" = "Meer weten…";
+"Untitled" = "Naamloos";
+"Undo" = "Ongedaan maken";
+"Dismiss" = "Afwijzen";
+"Confirm" = "Bevestig";
+"Error" = "Fout";
+
+/* Search Panel */
+"Search" = "Zoeken";
+"Replace" = "Vervangen";
+"All" = "Alle";
+"Search text not found in article" = "Zoektekst niet gevonden in artikel";
+"search text" = "zoek tekst";
+
+/* Quick Open */
+"Search by file name" = "Zoeken op bestandsnaam";
+"Searching" = "Zoeken";
+"Gathering more results" = "Meer resultaten aan het ophalen";
+
+/* Tables */
+"Insert Table" = "Tabel invoegen";
+"Columns" = "Kolommen";
+"Rows" = "Rijen";
+"Align Left" = "Links uitlijnen";
+"Align Center" = "Centreren";
+"Align Right" = "Rechts uitlijnen";
+"Resize Table" = "Tabel vergroten/verkleinen";
+"Delete Table" = "Tabel verwijderen";
+
+/* Images */
+"Copy Image To..." = "Plaatje kopiëren naar...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora probeert de zojuist ingevoegde afbeelding naar map <code id='image-create-folder-target'></code> te kopiëren op basis van uw YAML-Front-Mater instelling maar de doelmap bestaat niet, maak deze nu aan?";
+"Create Folder" = "Map aanmaken";
+
+/* Math */
+"Edit" = "Aanpassen";
+"Delete Math" = "Wiskunde wissen";
+"Preview" = "Voorbeeld";
+
+/* Sidebar */
+"Articles" = "Artikelen";
+"Outline" = "Overzicht";
+"Files" = "Bestanden";
+"Switch to File List view" = "Schakel naar bestandslijst weergave";
+"Switch to File Tree view" = "Schakel naar boomstructuurweergave";
+"Switch to Outline view" = "Schakel naar overzichtsweergave";
+"Close sidebar" = "Sluit zijbalk";
+"Loading" = "Laden";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Geselecteerde mappen bevatten te veel bestanden. \nSchakel over naar <a id='switch-to-tree-on-oversize'>Boomstructuurweergave</a> voor betere prestaties.";
+"New File" = "Nieuw bestand";
+"Unpin Outline Panel" = "Overzichtspaneel losspelden";
+"Open Folder..." = "Open Map...";
+"Action" = "Actie";
+"Close Sidebar Menu" = "Sluit zijmenu";
+"Reveal in Finder" = "Openen in Finder";
+"Reveal in File Explorer" = "Openen in Bestandsverkenner";
+"Refresh Folder" = "Map verversen";
+"Sort" = "Sorteren";
+"Group By Folder" = "Groeperen op Map";
+"Sort Naturally" = "Natuurlijk sorteren";
+"Sort by Name" = "Sorteren op naam";
+"Sort by Modification Date" = "Sorten op wijzigingsdatum";
+"Recent Locations" = "Recente locaties";
+"Location" = "Locatie";
+"Switch File List/Tree View" = "Schakel bestands lijst/boom weergave";
+"No Files Available" = "Geen bestanden beschikbaar";
+"No Folder is Opened." = "Geen map is geopend.";
+"Outline is Empty." = "Overzicht is leeg.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Open/sluit zijbalk";
+"Toggle Source Code Mode" = "Open/sluit Broncode Modus";
+"Exit Source Code Mode" = "Sluit Broncode Modus";
+
+"Table of Contents" = "Inhoudsopgave";
+"Empty Diagram" = "Leeg Diagram";
+"Input Math TeX here" = "Voer Math TeX hier in";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Graag de referentie voetnoot <b>{0}</b> definiëren met syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Graag de referentie link <b>[{0}]</b> definiëren met syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Definieer de afbeeldingsreferentie met \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Aanmaken van bestand mislukt";
+"Failed to create folder" = "Aanmaken van map mislukt";
+"Failed to rename file" = "Hernoemen van bestand mislukt";
+"Folder does not exist at %@" = "Map bevind zich niet op deze positie: %@";
+"File with the same name already exists at target path" = "Bestand met dezelfde naam bestaat al op doellocatie";
+"Apply to All" = "Toepassen op alles";
+"Overwrite" = "Overschrijven";
+"Stop" = "Stop";
+"back to document" = "terug naar document";
+"Failed to load file" = "Mislukt om bestand te laden";
+"Save File Failed!" = "Mislukt om bestand op te slaan!";
+"Cannot open folder {0}" = "Kan map niet openen {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Herladen van schrijf?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Doorgaan met het verplaatsen en overschrijven van bestaande bestand(en) ?";
+
+"Rename Failed" = "Hernoemen mislukt";
+"Rename to \"{0}\" ?" = "Hernoemen naar \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Hernoemen van \"{0}\" naar \"{1}\" mislukt";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Succesvol {0} afbeeldingen geüpload.";
+"Failed to upload image. Error Message:" = "Mislukt om afbeelding te uploaden. Foutmelding:";
+"Failed to Copy Image to Target Folder." = "Mislukt om afbeelding te kopiëren naar doelmap.";
+"Select Container Folder" = "Selecteer de containermap";
+
+"Saved" = "Opgeslagen";
+
+/* place holder in find & replace input */
+"search text" = "zoek tekst";
+"replace with" = "vervangen met";
+/* search option */
+"Case Sensitive" = "Hoofdlettergevoelig";
+"Whole Word" = "Heel Woord";
+
+"input image URL" = "voer afbeeldings URL in";
+"Select image from local file" = "Selecteer afbeelding van locale schrijf";

@@ -24,7 +24,7 @@
 "Search" = "Поиск";
 "Replace" = "Заменить";
 "All" = "Все";
-"Search text not found in article" = "Указанный текст не найден в статье";
+"Search text not found in article" = "Указанный текст не найден";
 "search text" = "поиск текста";
 
 /* Quick Open */
@@ -53,17 +53,17 @@
 "Preview" = "Превью";
 
 /* Sidebar */
-"Articles" = "Статьи";
-"Outline" = "Схема";
+"Articles" = "Файлы";
+"Outline" = "Оглавление";
 "Files" = "Файлы";
 "Switch to File List view" = "Переключиться на просмотр списка файлов";
 "Switch to File Tree view" = "Переключиться на просмотр дерева файлов";
-"Switch to Outline view" = "Переключиться в режим структуры";
+"Switch to Outline view" = "Переключиться в режим оглавления";
 "Close sidebar" = "Закрыть боковую панель";
 "Loading" = "Загрузка";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Выбранные папки содержат слишком много файлов. \nПожалуйста, переключитесь на <a id='switch-to-tree-on-oversize'>просмотр дерева файлов</a> для лучшей производительности.";
 "New File" = "Новый файл";
-"Unpin Outline Panel" = "Открепить панель структуры";
+"Unpin Outline Panel" = "Открепить панель оглавления";
 "Open Folder..." = "Открыть папку...";
 "Action" = "Действие";
 "Close Sidebar Menu" = "Закрыть меню боковой панели";
@@ -77,10 +77,10 @@
 "Sort by Modification Date" = "Сортировать по дате модификации";
 "Recent Locations" = "Недавние расположения";
 "Location" = "Расположение";
-"Switch File List/Tree View" = "Переключить представление Список файлов/Дерево";
+"Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";
 "No Folder is Opened." = "Нет открытых папок.";
-"Outline is Empty." = "Структура пуста.";
+"Outline is Empty." = "Оглавление отсутствует.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Переключить боковую панель";
@@ -130,3 +130,6 @@
 /* search option */
 "Case Sensitive" = "Учитывать регистр";
 "Whole Word" = "Слово целиком";
+
+"input image URL" = "введите URL изображения";
+"Select image from local file" = "Выбрать изображение...";

@@ -24,8 +24,8 @@
 "Customized" = "Индивидуальный";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Если используется индивидуальный размер шрифта, фактический размер будет зависеть от базового размера шрифта и стиля CSS.";
  "Left Panel" = "Боковая панель";
-"Show Outline Panel by Default" = "Отображать по умолчанию панель структуры";
-"Collapsible Outline on Left Panel" = "Иерархическая структура в боковой панели";
+"Show Outline Panel by Default" = "Отображать по умолчанию панель оглавления";
+"Collapsible Outline on Left Panel" = "Сворачиваемое оглавление в боковой панели";
 "Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редактируемые файлы будут сохраняться без запроса, при переключении между ними в боковой панели. \nКогда параметр \"Спрашивать о сохранении изменений при закрытии документов\" активирован в системных настройках, это включено всегда.";
 "Language" = "Язык";
@@ -39,8 +39,6 @@
 "Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
 "Images Insert" = "Вставка изображений";
 "Use relative path if possible" = "Использовать относительный путь при\nвозможности";
-"Allow copy images to given folder" = "Разрешить копирование изображений в\nуказанную папку";
-"Allow upload to given server" = "Разрешить загрузку на указанный сервер";
 "Auto Pair" = "Автозавершение";
 "Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
 "Auto pair common markdown syntax" = "Автозавершение основных тегов Markdown";
@@ -177,7 +175,7 @@
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora скопирует вставленное изображение в папку по выбранному относительному пути, поэтому сначала сохраните файл.";
 "Open Operation Failed" = "Не удалось открыть";
 
-"Support Documentation" = "Документация по поддержке";
+"Support Documentation" = "Документация";
 
 "Markdown File" = "Файл Markdown";
 "Plain Text File" = "Обычный текстовый файл";
@@ -208,3 +206,18 @@
 "Total" = "Всего";
 "Word count only support OS X later than 10.10." = "Счётчик слов поддерживается только в OS X не ниже версии 10.10.";
 "Indent Size for Code" = "Размер отступа для кода";
+"Auto wrap long lines" = "Автоматический перенос длинных строк";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "К сожалению, текущая версия Typora не поддерживает распечатку цвета фона.\nПоэтому тёмная тема пока не поддерживается при печати. \n\nВыберите светлую тему или экспортируйте этот документ в PDF.";
+"Export to PDF" = "Экспорт в PDF";
+"Pretty Indentation" = "Достаточный отступ";
+"Update markdown reference for this image" = "Обновить markdown-ссылку для этого изображения";
+
+"No special action" = "Без дополнительных действий";
+"Copy image to current folder (./)" = "Скопировать изображение в текущую папку (./)";
+"Copy image to ./assets" = "Скопировать изображение в ./assets";
+"Copy image to ./${filename}.assets" = "Скопировать изображение в ./${filename}.assets";
+"Upload image via iPic" = "Загружать изображения через iPic";
+"Apply above rules for local images" = "Применить правила выше для локальных изображений";
+"Apply above rules for online images" = "Применить правила выше для онлайн-изображений";
+"Allow upload images automatically based on YAML settings" = "Разрешить загрузку изображений автоматически на основе настроек YAML";

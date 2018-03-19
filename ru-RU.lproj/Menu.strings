@@ -73,7 +73,7 @@
 "Insert Local Images" = "Вставить локальные изображения";
 "Upload Local Images via iPic" = "Загружать локальные изображения через iPic";
 "When Insert Local Image" = "При вставке локального изображения";
-"Copy Image File to Folder" = "Копировать файл изображения в папку";
+"Copy Image File to Folder" = "Скопировать файл изображения в папку";
 "Upload Image via iPic" = "Загрузить изображение через iPic";
 "Use Image Root Path" = "Использовать корневой путь изображения";
 "Line Endings" = "Окончания строк";
@@ -151,8 +151,8 @@
 "Focus Mode" = "Режим фокусировки";
 "Typewriter Mode" = "Режим пищущей машинки";
 "Toggle Sidebar" = "Включить боковую панель";
-"Outline" = "Схема";
-"Articles" = "Статьи";
+"Outline" = "Оглавление";
+"Articles" = "Файлы";
 "File Tree" = "Дерево файлов";
 "Always on Top" = "Всегда наверху";
 "Full Screen" = "Во весь экран";
@@ -234,3 +234,8 @@
 "File or folder does not exist." = "Файл или папка не существует.";
 
 "Prettify Source Code" = "Приукрасить исходный код";
+"Copy '%@'" = "Скопировать '%@'";
+"Copy to %@" = "Скопировать в %@";
+"Copy Image to..." = "Скопировать изображение...";
+"Upload via iPic" = "Загрузить через iPic";
+"Open Image Location" = "Открыть папку изображения";

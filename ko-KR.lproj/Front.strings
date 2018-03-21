@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE
+ by ryush00, LAVILINCE, Third9
 */
 
 /* Common */
@@ -25,7 +25,7 @@
 
 /* Search Panel */
 "Search" = "검색";
-"Replace" = "대치";
+"Replace" = "바꾸기";
 "All" = "모두";
 "Search text not found in article" = "문서에서 텍스트를 찾지 못했습니다";
 "search text" = "검색할 텍스트";
@@ -126,3 +126,13 @@
 "Select Container Folder" = "컨테이너 폴더 선택";
 
 "Saved" = "저장됨";
+
+/* place holder in find & replace input */
+"search text" = "찾기";
+"replace with" = "바꾸기";
+/* search option */
+"Case Sensitive" = "대/소문자 구분";
+"Whole Word" = "단어 단위로";
+
+"input image URL" = "이미지 URL 입력";
+"Select image from local file" = "로컬 파일에서 이미지 선택";

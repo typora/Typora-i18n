@@ -25,7 +25,7 @@
 
 /* Search Panel */
 "Search" = "검색";
-"Replace" = "대치";
+"Replace" = "바꾸기";
 "All" = "모두";
 "Search text not found in article" = "문서에서 텍스트를 찾지 못했습니다";
 "search text" = "검색할 텍스트";

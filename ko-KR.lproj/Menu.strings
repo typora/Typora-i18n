@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE, vreality64
+ by ryush00, LAVILINCE, vreality64, Third9
 */
 
 /* Typora Menu */
@@ -235,3 +235,10 @@
 /* Related Panel */
 "Open Failed" = "열기 실패";
 "File or folder does not exist." = "파일이나 폴더가 존재하지 않습니다.";
+
+"Prettify Source Code" = "소스코드 이쁘게 하기";
+"Copy '%@'" = "'%@' 복사";
+"Copy to %@" = "%@로 복사";
+"Copy Image to..." = "다음으로 이미지 복사";
+"Upload via iPic" = "iPic를 통해서 업로드";
+"Open Image Location" = "이미지 위치 열기";

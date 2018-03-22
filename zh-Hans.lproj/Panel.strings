@@ -173,7 +173,7 @@
 "The option `%@` must be enabled first" = "请先开启选项`%@`";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会拷贝新的本地图片到目录 %@。但该目录不存在，是否创建？";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "根据YAMLFront Matter的配置，Typera会复制新的本地图片到目录 %@。但该目录不存在，是否创建？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora会根据相对路径复制图片，所以请先保存文件到磁盘。";
@@ -203,5 +203,22 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
-"Copy Content" = "拷贝内容";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多:<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Copy Content" = "复制内容";
+
+"Indent Size for Code" = "代码缩进";
+"Auto wrap long lines" = "代码块自动换行";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，深色主题暂时不支持打印。建议使用亮色主题或者选择导出到PDF";
+"Export to PDF" = "导出到PDF";
+"Pretty Indentation" = "对其缩进";
+"Update markdown reference for this image" = "更新Markdown中的图片引用";
+
+"No special action" = "无特殊操作";
+"Copy image to current folder (./)" = "复制图片到当前文件夹 (./)";
+"Copy image to ./assets" = "复制图片到./assets文件夹";
+"Copy image to ./${filename}.assets" = "复制图片到./${filename}.assets文件夹";
+"Upload image via iPic" = "通过iPic上传图片";
+"Apply above rules for local images" = "对本地位置的图片应用上述规则";
+"Apply above rules for online images" = "对网络位置的图片应用上述规则";
+"Allow upload images automatically based on YAML settings" = "允许根据YAML设置自动上传图片";
+

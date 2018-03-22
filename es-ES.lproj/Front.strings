@@ -22,9 +22,9 @@
 
 /* Search Panel */
 "Search" = "Buscar";
-"Replace" = "Remplazar";
+"Replace" = "Reemplazar";
 "All" = "Todo";
-"Search text not found in article" = "El texto buscado no se ha encontrado en el artículo";
+"Search text not found in article" = "El texto a buscar no se ha encontrado en el artículo";
 "search text" = "buscar texto";
 
 /* Quick Open */
@@ -54,7 +54,7 @@
 
 /* Sidebar */
 "Articles" = "Artículos";
-"Outline" = "Índice";
+"Outline" = "Indice";
 "Files" = "Archivos";
 "Switch to File List view" = "Cambiar a vista de lista de archivos";
 "Switch to File Tree view" = "Cambiar a vista de árbol de archivos";
@@ -68,7 +68,7 @@
 "Action" = "Acción"; /* Needs more context */
 "Close Sidebar Menu" = "Cerrar menú de barra lateral";
 "Reveal in Finder" = "Mostrar en el Finder";
-"Reveal in File Explorer" = "Mostrar en el Explorador de Archivos";
+"Reveal in File Explorer" = "Mostrar en el explorador de Archivos";
 "Refresh Folder" = "Recargar carpeta";
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
@@ -80,7 +80,7 @@
 "Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
 "No Files Available" = "No hay archivos disponibles";
 "No Folder is Opened." = "Ninguna carpeta abierta.";
-"Outline is Empty." = "Índice vacío.";
+"Outline is Empty." = "Indice vacío.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";
@@ -102,7 +102,7 @@
 "Folder does not exist at %@" = "La carpeta no existe en %@";
 "File with the same name already exists at target path" = "Un archivo con el mismo nombre ya existe en la ruta de destino";
 "Apply to All" = "Aplicar a todo";
-"Overwrite" = "Sobrescribir";
+"Overwrite" = "Sobreescribir";
 "Stop" = "Detener";
 "back to document" = "volver al documento";
 "Failed to load file" = "Error al cargar el archivo";

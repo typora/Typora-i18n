@@ -14,9 +14,9 @@
 "Window Style" = "Fensterdarstellung";
 "Classic" = "Klassisch";
 "Seamless" = "Nahtlos";
-"Seamless window only support OS X later than 10.10." = "Nahtlose Fenster werden erst von OS X neuer als 10.10. unterstützt";
-"Themes" = "Thema";
-"Open Theme Folder" = "Thema Ordner öffnen";
+"Seamless window only support OS X later than 10.10." = "Nahtlose Fenster werden erst ab macOS 10.10. und neuer unterstützt";
+"Themes" = "Themen";
+"Open Theme Folder" = "Themen Ordner öffnen";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Bitte nutzen Sie `Hilfe`->`Quick Start` für eine kurze Einführung. Besuchen Sie http://theme.typora.io um mehr Themen oder Anleitungen zu bekommen.";
 "Word Count" = "Wortanzahl";
 "Always Show Word Count" = "Wortanzahl immer zeigen";
@@ -28,23 +28,23 @@
 "Show Outline Panel by Default" = "Gliederungsleiste standardmäßig anzeigen";
 "Collapsible Outline on Left Panel" = "Zusammenklappbare Gliederung in der linken Seitenleiste";
 "Save without asking when\nswitch files on side panel" = "Ohne Nachfragen speichern, wenn\nDateien über die Seitenleiste gewechselt werden";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Geänderte Dateien werden ohne Nachfrage gespeichert, wenn die Datei über die Seitenleiste gewechselt wird. \nWenn \"Beim Schließen immer fragen, ob Änderungen gespeichert werden sollen\" in den Einstellungen aktiviert ist, ist diese Option immer aktiv.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Geänderte Dateien werden ohne Nachfrage gespeichert, wenn die Datei über die Seitenleiste gewechselt wird. \nWenn \"Wenn beim Schließen immer fragen, ob Änderungen gespeichert werden sollen\" in den Einstellungen aktiviert ist, ist diese Option immer aktiv.";
 "Language" = "Sprache";
 "System Language" = "Systemsprache";
 
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Einrückungstiefe beim Speichern";
-"only apply for quotes and lists created from menubar or hybrid view" = "nur anwendbar für Zitate und Listen die über das Menü oder die Hybridsicht erstellt wurden";
+"only apply for quotes and lists created from menubar or hybrid view" = "nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden";
 "Trigger Autocomplete without ESC key for" = "Autovervollständigung ohne Verwendung der ESC Taste für";
 "Emoji (e.g. :smile:)" = "Emoji (z.B. :smile:)";
 "Images Insert" = "Eingefügte Bilder";
 "Use relative path if possible" = "Relativen Pfad nutzen, wenn möglich";
-"Allow copy images to given folder" = "Kopieren in vorgegeben Ordner erlauben";
+"Allow copy images to given folder" = "Kopieren von Bildern in vorgegeben Ordner erlauben";
 "Allow upload to given server" = "Hochladen zu vorgegebenem Server erlauben";
-"Auto Pair" = "Automatische Gegenstücke";
-"Auto pair brackets and quotes" = "Automatische Gegenstücke für Klammern und Anführungszeichen";
-"Auto pair common markdown syntax" = "Automatische Gegenstücke für übliche Markdown Syntax";
+"Auto Pair" = "Automatische Vervollständingung";
+"Auto pair brackets and quotes" = "Automatisches Vervollständigen von Klammern und Anführungszeichen";
+"Auto pair common markdown syntax" = "Automatische Vervollständigen für übliche Markdown Syntax";
 "Live Rendering" = "Echtzeit-Vorschau";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Quelle für einfache Abschnitte\n(inkl. Überschriften, etc.) bei Fokussierung anzeigen";
 "Default Copy Behavior" = "Standardverhalten beim Kopieren";
@@ -61,15 +61,15 @@
 "Superscript ( e.g: X^2^ )" = "Hochstellung (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "Hervorhebung     (e.g: ==key==)";
 "Diagrams" = "Diagramme";
-"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart und Mermaid)";
+"(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flußdiagramm und Mermaid)";
 "Syntax Preference" = "Syntax Einstellungen";
-"(only apply for styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridsicht erstellt wurden)";
+"(only apply for styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden)";
 "Strict Mode" = "Strikter Modus";
 "(more strict to GFM spec)" = "(folgt der GFM Spezifikation strikter)";
 "Heading Style" = "Überschrift";
 "Code Fences" = "Codeblöcke";
-"Display line numbers for code fences" = "Zeilennummern für Codeabschnitte anzeigen";
-"Math Blocks" = "Formelabschnitte";
+"Display line numbers for code fences" = "Zeilennummern für Codeblöcke anzeigen";
+"Math Blocks" = "Formelblock";
 "Auto Numbering Math Equations" = "Mathematische Formeln automatisch nummerieren";
 
 /* Security Panel */
@@ -84,19 +84,19 @@
 
 /* Pandoc Import Panel */
 "Importing..." = "Importieren...";
-"Importing in progress..." = "Importieren in Arbeit...";
+"Importing in progress..." = "Importieren aktiv...";
 "Converting file with Pandoc. This may take some time." = "Datei wird mit Pandoc umgewandelt. Dies kann eine Weile dauern.";
 "Abort" = "Abbrechen";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exporting...";
-"Exporting in progress..." = "Exporting in progress...";
+"Exporting..." = "Exportiere...";
+"Exporting in progress..." = "Exportieren aktiv...";
 "Converting file with Pandoc. This may take some time." = "Datei wird mit Pandoc umgewandelt. Dies kann eine Weile dauern.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Um diese Dateiformate zu importieren wird Pandoc benötigt";
 "Check help->Install and use Pandoc from menubar for detail" = "Lesen Sie Hilfe->Install and use Pandoc aus der Menüleiste für weitere Details";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Der Import oder einige Export Eigenschaften benötigen ein installiertes <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Einige Import- bzw. Export-Eigenschaften benötigen ein installiertes <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
 "Follow Instructions to Install/Update Pandoc" = "Folgen Sie der Anleitung um Pandoc zu installieren/aktualisieren";
 "Export Failed" = "Export fehlgeschlagen";
 "Import Failed" = "Import fehlgeschlagen";
@@ -158,27 +158,27 @@
 "Reset Advanced Settings" = "Erweiterte Einstellungen zurücksetzen";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Um diese Funktion zu nutzen, muss die aktuellste Version von iPic installiert sein.";
+"This function requires latest version of iPic to be installed." = "Um diese Funktion zu nutzen, muss die aktuellste Version von iPic installiert sein.";
 "Get iPic" = "iPic erhalten";
 "Cannot Continue…" = "Kann nicht fortgesetzt werden…";
 "This feature require macOS >= 10.11" = "Diese Funktion benötigt macOS >= 10.11";
 "One More Step" = "Ein weiterer Schritt";
-"Notice" = "Notiz";
+"Notice" = "Anmerkung";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Hierfür wird ein installiertes iPic benötigt und referenzierte Bilder werden über iPic zu einem Cloud Dienst geladen. Beachten Sie bitte, dass der Standard Cloud Dienst kein Löschen von Bildern unterstützt";
 
 "%d Images Failed to Upload." = "%d Bild(er) konnten nicht hochgeladen werden.";
 "%d Succeeded," = "%d erfolgreich, ";
 "Enable this feature on preferences panel" = "Aktivieren Sie diese Funktion in den Eigenschaften";
-"The option `%@` must be enabled first" = "Die Option `%@` muss zunächst aktiviert werden.";
+"The option `%@` must be enabled first" = "Die Option `%@` muss zuerst aktiviert werden.";
 "%@ is a file, not a directory" = "%@ ist eine Datei, kein Verzeichnis";
 "Copy Images To…" = "Bilder kopieren nach…";
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora versucht die neu eingefügten Bilder in den Ordner %@ zu kopieren, wie es in den YAML Front Matter Einstellungen definiert ist. Der Zielordner exisitert jedoch nicht, soll er jetzt erstellt werden?";
 "Create Folder and Continue" = "Ordner erstellen und fortsetzen";
 "Document must be saved first" = "Das Dokument muss zuerst gespeichert werden";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora wird die neu eingefügten Bilder in einen Ordner relativ zum gewählten Pfad kopieren, bitte speichern Sie die Datei daher zuerst.";
-"Open Operation Failed" = "Öffnen Vorgang fehlgeschlagen";
+"Open Operation Failed" = "Öffnen fehlgeschlagen";
 
-"Support Documentation" = "Support Dokumentation";
+"Support Documentation" = "Unterstützungs-Dokumentation";
 
 "Markdown File" = "Markdown Datei";
 "Plain Text File" = "Reiner Text Datei";
@@ -200,7 +200,7 @@
 "Path" = "Pfad";
 "Export As..." = "Exportieren als...";
 "More Formats" = "Weitere Formate";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Die Dateiformate unter den 'Weitere Formate'-Abschnitte benötigen eine Installation von <a class='open-pandoc-guide'>Pandoc</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Die Dateiformate unter den 'Weitere Formate'-Abschnitten benötigen eine Installation von <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Da ist etwas schief gegangen…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Speichern des Inhalts ist aus unbekannten Gründen fehlgeschlagen.<br/>Sie können den Inhalt in ein neues Typora Fenster kopieren und dann erneut speichern. <br/>Mehr darüber erfahren:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Fehler berichten</a></li><li><a href='http://support.typora.io/Version-Control//'>Verlorene Inhalte wiederherstellen</a></li></ul>";
 "Copy Content" = "Inhalt kopieren";

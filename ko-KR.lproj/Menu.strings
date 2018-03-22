@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE
+ by ryush00, LAVILINCE, vreality64, Third9
 */
 
 /* Typora Menu */
@@ -83,12 +83,11 @@
 "Windows Line Endings (CRLF)" = "Windows 개행 문자 (CRLF)";
 "Unix Line Endings (LF)" = "Unix 개행 문자 (LF)";
 "Find" = "찾기";
-"Find" = "찾기";
 "Find Next" = "다음 찾기";
 "Find Previous" = "이전 찾기";
-"Find and Replace" = "찾기 및 대치";
-"Replace" = "대치";
-"Replace Next" = "다음 대치";
+"Find and Replace" = "찾기 및 바꾸기";
+"Replace" = "바꾸기";
+"Replace Next" = "다음 바꾸기";
 "Spelling and Grammar" = "맞춤법 및 문법";
 "Check Document Now" = "지금 도큐멘트 검사";
 "Check Spelling While Typing" = "입력하는 동안 맞춤법 검사";
@@ -195,16 +194,16 @@
 
 /* Extra Context Menu */
 "Table" = "표";
-"Insert Row Before" = "뒷쪽에 행 삽입";
-"Append Row After" = "앞쪽에 행 삽입";
+"Insert Row Before" = "앞에 행 삽입";
+"Append Row After" = "뒤에 행 삽입";
 "Delete Row" = "행 삭제";
-"Insert Column Before" = "뒷쪽에 열 삽입";
-"Append Column After" = "앞쪽에 열 삽입";
+"Insert Column Before" = "앞에 열 삽입";
+"Append Column After" = "뒤에 열 삽입";
 "Delete Column" = "열 삭제";
 "Copy Table" = "표 복사";
 "Delete Table" = "표 삭제";
-"Insert Paragraph After" = "앞에 본문 삽입";
-"Insert Paragraph Before" = "뒤에 본문 삽입";
+"Insert Paragraph After" = "뒤에 본문 삽입";
+"Insert Paragraph Before" = "앞에 본문 삽입";
 "Delete Code Block" = "코드 블록 삭제";
 "Copy as MathML" = "MathML로 복사";
 "Copy as Tex" = "Tex로 복사";
@@ -226,8 +225,8 @@
 "Insert" = "삽입";
 "Inspect Element" = "요소 검사";
 "Copy to MS Word" = "MS Word로 복사";
-"Paragraph (before)" = "본문 (뒷쪽)";
-"Paragraph (after)" = "본문 (앞쪽)";
+"Paragraph (before)" = "본문 (앞)";
+"Paragraph (after)" = "본문 (뒤)";
 
 "Search with Google" = "Google로 검색";
 "Search With…" = "다음으로 검색…";
@@ -235,3 +234,10 @@
 /* Related Panel */
 "Open Failed" = "열기 실패";
 "File or folder does not exist." = "파일이나 폴더가 존재하지 않습니다.";
+
+"Prettify Source Code" = "소스코드 이쁘게 하기";
+"Copy '%@'" = "'%@' 복사";
+"Copy to %@" = "%@로 복사";
+"Copy Image to..." = "다음으로 이미지 복사";
+"Upload via iPic" = "iPic를 통해서 업로드";
+"Open Image Location" = "이미지 위치 열기";

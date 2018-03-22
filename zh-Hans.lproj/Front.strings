@@ -43,8 +43,8 @@
 "Delete Table" = "删除表格";
 
 /* Images */
-"Copy Image To..." = "将图片拷贝到...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora试图拷贝新插入图片至YAML Front Matter中的指定目录<code id='image-create-folder-target'></code>，但目标目录不存在，是否创建？";
+"Copy Image To..." = "将图片复制到...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora试图复制新插入图片至YAML Front Matter中的指定目录<code id='image-create-folder-target'></code>，但目标目录不存在，是否创建？";
 "Create Folder" = "创建文件夹";
 
 /* Math */
@@ -119,7 +119,7 @@
 /* Image upload & move */
 "Successfully uploaded {0} images." = "成功上传{0}张图片";
 "Failed to upload image. Error Message:" = "上传图片失败， 错误信息:";
-"Failed to Copy Image to Target Folder." = "拷贝图片至目标目录失败";
+"Failed to Copy Image to Target Folder." = "复制图片至目标目录失败";
 "Select Container Folder" = "选择图片存储路径";
 
 "Saved" = "已保存";
@@ -130,3 +130,5 @@
 /* search option */
 "Case Sensitive" = "区分大小写";
 "Whole Word" = "查找整个单词";
+"input image URL" = "输入图片地址";
+"Select image from local file" = "选择本地图片";

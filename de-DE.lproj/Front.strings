@@ -40,7 +40,7 @@
 "Align Left" = "Linksbündig";
 "Align Center" = "Mittig";
 "Align Right" = "Rechtsbündig";
-"Resize Table" = "Tabelle skalieren";
+"Resize Table" = "Tabellengröße ändern";
 "Delete Table" = "Tabelle löschen";
 
 /* Images */
@@ -62,7 +62,7 @@
 "Switch to Outline view" = "Zur Gliederungssicht wechseln";
 "Close sidebar" = "Seitenleiste schließen";
 "Loading" = "Laden";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Die ausgewählten Ordner enthalten zu viele Dateien. Bitte wechseln Sie zur <a id='switch-to-tree-on-oversize'>Dateibaumsicht</a> um eine höhere Leistung zu erreichen.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Die ausgewählten Ordner enthalten zu viele Dateien. Bitte wechseln Sie zur <a id='switch-to-tree-on-oversize'>Dateibaumansicht</a> um eine bessere Leistung zu erreichen.";
 "New File" = "Neue Datei";
 "Unpin Outline Panel" = "Lösen des Gliederungsbereichs";
 "Open Folder..." = "Ordner öffnen...";
@@ -78,10 +78,10 @@
 "Sort by Modification Date" = "Nach Änderungsdatum sortieren";
 "Recent Locations" = "Letzte Orte";
 "Location" = "Ort";
-"Switch File List/Tree View" = "Zwischen Dateilisten- / -baumsicht wechseln";
-"No Files Available" = "Keine Dateien verfügbar";
-"No Folder is Opened." = "Kein Ordner ist geöffnet.";
-"Outline is Empty." = "Gliederung ist leer.";
+"Switch File List/Tree View" = "Zwischen Dateilisten- / -baumansicht wechseln";
+"No Files Available" = "Es sind keine Dateien verfügbar";
+"No Folder is Opened." = "Es ist kein Ordner geöffnet.";
+"Outline is Empty." = "Die Gliederung ist leer.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Seitenleiste umschalten";
@@ -101,7 +101,7 @@
 "Failed to create folder" = "Ordner konnte nicht erstellt werden";
 "Failed to rename file" = "Datei konnte nicht umbenannt werden";
 "Folder does not exist at %@" = "Der Ordner unter %@ existiert nicht";
-"File with the same name already exists at target path" = "Eine Datei mit demselben Namen existiert bereits am Ablageort";
+"File with the same name already exists at target path" = "Eine Datei mit demselben Namen existiert bereits im Zielordner";
 "Apply to All" = "Auf alle anwenden";
 "Overwrite" = "Überschreiben";
 "Stop" = "Abbruch";
@@ -110,7 +110,7 @@
 "Save File Failed!" = "Datei kann nicht gespeichert werden!"
 "Cannot open folder {0}" = "Der Ordner {0} kann nicht geladen werden";
 
-"File content is changed by external applications. Reload content from disk ?" = "Der Dateiinhalt wurde durch eine fremde Anwendung geändert. Soll die Datei neu von der Festplatte geladen werden?";
+"File content is changed by external applications. Reload content from disk ?" = "Der Dateiinhalt wurde durch eine andere Anwendung geändert. Soll die Datei neu geladen werden?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Datei(en) verschieben und vorhandene umbenennen fortsetzen?";
 
 "Rename Failed" = "Umbenennung fehlgeschlagen";
@@ -129,5 +129,5 @@
 "search text" = "Suchtext";
 "replace with" = "ersetzen mit";
 /* search option */
-"Case Sensitive" = "Groß- und Kleinschreibung unterscheiden";
+"Case Sensitive" = "Groß- und Kleinschreibung beachten";
 "Whole Word" = "Gesamtes Wort";

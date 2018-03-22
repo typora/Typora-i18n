@@ -111,7 +111,7 @@
 "Decrease Heading Level" = "Überschriftenebene verringern";
 "Table" = "Tabelle";
 "Code Fences" = "Code Bereich";
-"Math Block" = "Mathe Block";
+"Math Block" = "Math. Formel Block";
 "Quote" = "Zitat";
 "Ordered List" = "Geordnete Liste";
 "Unordered List" = "Ungeordnete Liste";
@@ -132,7 +132,7 @@
 /* Format Menu */
 "Format" = "Format";
 "Strong" = "Fett";
-"Emphasis" = "Betont";
+"Emphasis" = "Kursiv";
 "Underline" = "Unterstrichen";
 "Code" = "Code";
 "Inline Math" = "Formel im Text";
@@ -147,7 +147,7 @@
 
 /* View Menu */
 "View" = "Darstellung";
-"New Tab" = "Neue Reiterkarte";
+"New Tab" = "Neuer Tab";
 "Source Code Mode" = "Quellcodemodus";
 "Focus Mode" = "Fokusmodus";
 "Typewriter Mode" = "Schreibmaschinenmodus";
@@ -163,7 +163,7 @@
 "Zoom In" = "Vergrößern";
 "Zoom Out" = "Verkleinern";
 "Switch Between Opened Documents" = "Zwischen geöffneten Dokumenten wechseln";
-"Toggle DevTools" = "Entwicklertools umschalten";
+"Toggle DevTools" = "Entwicklerwerkzeuge umschalten";
 
 
 /* Themes Menu */
@@ -172,12 +172,12 @@
 /* Window Menu */
 "Window" = "Fenster";
 "Minimize" = "Minimieren";
-"Zoom" = "Zoom";
+"Zoom" = "Vergrößern";
 "Bring All to Front" = "Alle in den Vordergrund";
 
 /* Help Menu */
 "Help" = "Hilfe";
-"Privacy Policy" = "Datenschutz Bestimmungen";
+"Privacy Policy" = "Datenschutzbestimmungen";
 "Credits" = "Danksagungen";
 "Change Log" = "Änderungsprotokoll";
 "Website" = "Webseite";

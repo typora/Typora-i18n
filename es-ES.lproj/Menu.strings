@@ -29,7 +29,7 @@
 "No Recent Files" = "No hay archivos recientes";
 "Open Quickly" = "Arbir rápidamente";
 "Open File Location" = "Abrir ubicación del archivo";
-"Reveal in Library" = "Mostrar como Librería"; /* Needs context */
+"Reveal in Library" = "Mostrar como librería"; /* Needs context */
 "Reveal in File Tree" = "Mostrar como árbol de archivos";
 "Close" = "Cerrar";
 "Save" = "Guardar";
@@ -55,7 +55,7 @@
 "Copy as HTML Code" = "Copiar como código HTML";
 "Paste as Plain Text" = "Pegar como texto plano";
 "Select All" = "Seleccionar todo";
-"Select Line/Sentence" = "Seleccionar línea/sentencia";
+"Select Line/Sentence" = "Seleccionar línea/frase";
 "Select Styled Scope" = "Selecionar todo con ese estilo";
 "Select Word" = "Seleccionar palabra";
 "Delete" = "Eliminar";
@@ -68,11 +68,11 @@
 "Jump to Selection" = "Saltar a selección";
 "Jump to Bottom" = "Saltar a abajo";
 "Math Tools" = "Herramientas matemáticas";
-"Refresh All Math Expressions" = "Recargar todas las expresiones matemáticas";
+"Refresh All Math Expressions" = "Actualizar todas las expresiones matemáticas";
 "Image Tools" = "Herramientas de imagen";
 "Insert Local Images" = "Insertar imágenes locales";
 "Upload Local Images via iPic" = "Cargar imágenes vía iPic";
-"When Insert Local Image" = "Cuando se insertar una imagen local";
+"When Insert Local Image" = "Cuando insertar una imagen local";
 "Copy Image File to Folder" = "Copiar archivo de imagen a carpeta";
 "Upload Image via iPic" = "Cargar imagen vía iPic";
 "Use Image Root Path" = "Usar ruta principal de la imagen";
@@ -81,10 +81,10 @@
 "Unix Line Endings (LF)" = "Finales de línea de Unix (LF)";
 "Find" = "Buscar";
 "Find Next" = "Buscar siguiente";
-"Find Previous" = "Buscar anterio";
-"Find and Replace" = "Buscar y remplazar";
-"Replace" = "Remplazar";
-"Replace Next" = "Remplazar siguiente";
+"Find Previous" = "Buscar anterior";
+"Find and Replace" = "Buscar y reemplazar";
+"Replace" = "Reemplazar";
+"Replace Next" = "Reemplazar siguiente";
 "Spelling and Grammar" = "Ortografía y gramática";
 "Check Document Now" = "Comprobar documento ahora";
 "Check Spelling While Typing" = "Comprobar ortografía mientras se escribe";
@@ -93,7 +93,7 @@
 "Substitutions" = "Sustituciones";
 "Smart Quotes" = "Frases inteligentes";
 "Smart Dashes" = "Guiones inteligentes";
-"Text Replacement" = "Remplazo de texto";
+"Text Replacement" = "Reemplazo de texto";
 "Speech" = "Voz";
 "Start Speaking" = "Leer en voz alta";
 "Stop Speaking" = "Detener lectura en voz alta";

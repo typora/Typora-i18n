@@ -28,6 +28,10 @@ If you want to help translate Typora into other languages, we would very appreci
 
 02/16/2018 Add missing text resouces: [#7ae85cf42](https://github.com/typora/Typora-i18n/commit/7ae85cf42cfeda2573d930be504f0a13bcc05e78)
 
+03/10/2018 Add missing text resouces: [#a636f57f1](https://github.com/typora/Typora-i18n/commit/a636f57f1a2e35af90d1f46dd4a0d920d257cbf7)
+
+03/17/2018 Add text resource for images related function: [#ce636bae9](https://github.com/typora/Typora-i18n/commit/ce636bae9eb68e7f443e3b4a17dec0db8e1f14cb)
+
 ## FAQ
 
 > Can I test my translations?

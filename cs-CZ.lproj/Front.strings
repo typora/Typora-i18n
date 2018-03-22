@@ -7,6 +7,8 @@
  Czech translation
  by David Husička (@DavidHusicka)
  davidek251@seznam.cz
+ by Petr Šimáček
+ petr.simacek@gmail.com
 
 */
 
@@ -21,7 +23,7 @@
 "Learn More…" = "Zjistit více…";
 "Untitled" = "Nepojmenovaný";
 "Undo" = "Zpět";
-"Dismiss" = "Zrušit";
+"Dismiss" = "Zamítnout";
 "Confirm" = "Potvrdit";
 "Error" = "Chyba";
 
@@ -29,21 +31,21 @@
 "Search" = "Hledat";
 "Replace" = "Nahradit";
 "All" = "Vše;
-"Search text not found in article" = "Vyhledávaný text nebyl nalezen v tomto článku";
-"search text" = "Hledat text";
+"Search text not found in article" = "Vyhledávaný text nebyl v článku nalezen";
+"search text" = "hledat text";
 
 /* Quick Open */
 "Search by file name" = "Hledat podle názvu souboru";
-"Searching" = "Hledá";
-"Gathering more results" = "Získává další výsledky";
+"Searching" = "Hledá se";
+"Gathering more results" = "Shromažďují se další výsledky";
 
 /* Tables */
 "Insert Table" = "Vložit tabulku";
 "Columns" = "Sloupce";
 "Rows" = "Řádky";
-"Align Left" = "Zarovnat vpravo";
+"Align Left" = "Zarovnat vlevo";
 "Align Center" = "Zarovnat na střed";
-"Align Right" = "Zarovnat vlevo";
+"Align Right" = "Zarovnat vpravo";
 "Resize Table" = "Změnit velikost tabulky";
 "Delete Table" = "Smazat tabulku";
 
@@ -54,34 +56,34 @@
 
 /* Math */
 "Edit" = "Upravit";
-"Delete Math" = "Vymazat matematiku";
+"Delete Math" = "Vymazat Math";
 "Preview" = "Náhled";
 
 /* Sidebar */
 "Articles" = "Články";
 "Outline" = "Přehled";
 "Files" = "Soubory";
-"Switch to File List view" = "Přepnout do pohledu seznamu";
-"Switch to File Tree view" = "Přepnout do pohledu stromu";
-"Switch to Outline view" = "Přepnout do přehledového zobrazení";
+"Switch to File List view" = "Přepnout do zobrazení seznamu souborů";
+"Switch to File Tree view" = "Přepnout do zobrazení stromu souborů";
+"Switch to Outline view" = "Přepnout do zobrazení Přehled";
 "Close sidebar" = "Zavřít boční panel";
-"Loading" = "Načítání";
+"Loading" = "Načítá se";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Vybrané složky obsahují příliš mnoho souborů. \nProsím přepněte do <a id='switch-to-tree-on-oversize'>Zobrazení stromu</a> pro lepší výkon.";
 "New File" = "Nový soubor";
 "Unpin Outline Panel" = "Odepnout panel s přehledem";
 "Open Folder..." = "Otevřít složku...";
 "Action" = "Akce";
-"Close Sidebar Menu" = "Zavřit menu bočního panelu";
+"Close Sidebar Menu" = "Zavřít menu bočního panelu";
 "Reveal in Finder" = "Ukázat ve Finderu";
-"Reveal in File Explorer" = "Ukázet ve Správci Souborů";
+"Reveal in File Explorer" = "Ukázat ve Správci Souborů";
 "Refresh Folder" = "Obnovit složku";
 "Sort" = "Seřadit";
-"Group By Folder" = "Skupina podle složky";
+"Group By Folder" = "Seskupit podle složky";
 "Sort Naturally" = "Seřadit přirozeně";
 "Sort by Name" = "Seřadit podle jména";
 "Sort by Modification Date" = "Seřadit podle data změny";
-"Recent Locations" = "Časté lokace";
-"Location" = "Lokace";
+"Recent Locations" = "Nedávná umístění";
+"Location" = "Umístění";
 "Switch File List/Tree View" = "Přepnout do pohledu Seznamu/Stromu";
 "No Files Available" = "Žádné dostupné soubory";
 "No Folder is Opened." = "Žádná otevřená složka";
@@ -89,42 +91,42 @@
 
 /* Status Bar */
 "Toggle Sidebar" = "Přepnout boční panel";
-"Toggle Source Code Mode" = "Přepnout mód zdrojového kódu";
-"Exit Source Code Mode" = "Odejít z módu zdrojového kódu";
+"Toggle Source Code Mode" = "Přepnout režim zdrojového kódu";
+"Exit Source Code Mode" = "Opustit režim zdrojového kódu";
 
 "Table of Contents" = "Obsah";
 "Empty Diagram" = "Prázdný diagram";
-"Input Math TeX here" = "Vložte matematický TeX zde";
+"Input Math TeX here" = "Vložte Math TeX zde";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Je potřeba definovat referenční poznámku pod čarou<b>{0}</b> se syntaxí <a>[^{1}]: www.ukázka.cz</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Je potřeba definovat referenční odkaz<b>[{0}]</b> se syntaxí <b>[{1}]: www.ukázka.cz</b>";
 "Please define image reference by \n[{0}]: http://example.png" = "Prosím nadefinujte reference obrázku podle \n[{0}]: http://ukázka.png";
 
 /* msg */
-"Failed to create file" = "Nepovedlo se vytvořit soubor";
-"Failed to create folder" = "Nepovedlo se vytvořit složku";
-"Failed to rename file" = "Nepovedlo se přejmenovat soubor";
-"Folder does not exist at %@" = "Složka neexistuje na %@";
-"File with the same name already exists at target path" = "Soubor se stejným jménem již existuje v dané složce";
-"Apply to All" = "Aplikovat na vše";
+"Failed to create file" = "Nepodařilo se vytvořit soubor";
+"Failed to create folder" = "Nepodařilo se vytvořit složku";
+"Failed to rename file" = "Nepodařilo se přejmenovat soubor";
+"Folder does not exist at %@" = "Složka neexistuje v %@";
+"File with the same name already exists at target path" = "Stejnojmenný soubor už v cílové složce existuje";
+"Apply to All" = "Použít na vše";
 "Overwrite" = "Přepsat";
 "Stop" = "Stop";
 "back to document" = "Zpět do dokumentu";
-"Failed to load file" = "Nepovedlo se načíst soubor";
-"Save File Failed!" = "Nepovedlo se uložit soubor!"
-"Cannot open folder {0}" = "Nemohu otevřit složku {0}";
+"Failed to load file" = "Soubor nelze načíst";
+"Save File Failed!" = "Soubor nelze uložit!"
+"Cannot open folder {0}" = "Složku nelze otevřít {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Obsah souboru byl změněn externí aplikací. Chcete načíst obsah z disku?"
-"Should continue moving and overwrite exisiting file(s) ?" = "Má se pokračovat v přesouvání a přepsat soubor(y)";
+"Should continue moving and overwrite exisiting file(s) ?" = "Má se pokračovat v přesouvání a přepsat soubor(y) ?";
 
-"Rename Failed" = "Nepovedlo se přejmenovat";
+"Rename Failed" = "Přejmenování selhalo";
 "Rename to \"{0}\" ?" = "Přejmenovat na \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Nepovedlo se přejmenovat z \"{0}\" na \"{1}\"";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Přejmenování z \"{0}\" na \"{1}\"se nezdařilo";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Bylo úspěšně nahráno {0} obrázků";
 "Failed to upload image. Error Message:" = "Nepovedlo se nahrát obrázek. Chybový kód:";
 "Failed to Copy Image to Target Folder." = "Nepovedlo se zkopírovat obrázky do cílové složky.";
-"Select Container Folder" = "Vyberte složku pro obsah";
+"Select Container Folder" = "Vybratt kontejnerovou složku";
 
 "Saved" = "Uloženo";

@@ -130,3 +130,6 @@
 /* search option */
 "Case Sensitive" = "Case Sensitive";
 "Whole Word" = "Whole Word";
+
+"input image URL" = "input image URL";
+"Select image from local file" = "Select image from local file";

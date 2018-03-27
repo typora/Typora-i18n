@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE, Third9
+ by ryush00, LAVILINCE, Third9, cozyplanes
  */
 
 /* Preference Panel */
@@ -146,7 +146,7 @@
 "Default Line Ending" = "기본 개행 문자";
 "Line ending for new file" = "새 파일의 개행 문자";
 "Spell Check" = "맞춤법 검사";
-"(support US English only)" = "(미국 영어만 지원))";
+"(support US English only)" = "(미국 영어만 지원)";
 "Enable spell check" = "맞춤법 검사 활성화";
 "Auto correct spelling" = "맞춤법 자동 수정";
 "System" = "시스템";

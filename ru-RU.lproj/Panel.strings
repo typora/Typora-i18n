@@ -64,6 +64,8 @@
 "Strict Mode" = "Строгий режим";
 "(more strict to GFM spec)" = "(более суровый к спецификации GFM)";
 "Heading Style" = "Стиль заголовка";
+"Ordered List" = "Упорядоченный список";
+"Unordered List" = "Неупорядоченный список";
 "Code Fences" = "Подсветка кода";
 "Display line numbers for code fences" = "Отображать номера строк для блоков с кодом";
 "Math Blocks" = "Математические блоки";

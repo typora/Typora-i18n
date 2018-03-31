@@ -67,6 +67,8 @@
 "Strict Mode" = "Αυστηρή Λειτουργία";
 "(more strict to GFM spec)" = "(περισσότερο αυστηρό στο GFM spec)";
 "Heading Style" = "Στυλ Επικεφαλίδας";
+"Ordered List" = "Ταξινομημένη Λίστα";
+"Unordered List" = "Μη Ταξινομημένη Λίστα";
 "Code Fences" = "Φράχτες Κώδικα";
 "Display line numbers for code fences" = "Προβολή αριθμού γραμμής για φράχτες κώδικα";
 "Math Blocks" = "Math Μπλοκ";

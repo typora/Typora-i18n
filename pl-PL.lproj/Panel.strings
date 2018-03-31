@@ -67,7 +67,8 @@
 "Strict Mode" = "Tryb Dokładny";
 "(more strict to GFM spec)" = "(Dokładniej dla specyfikacji GFM)";
 "Heading Style" = "Styl nagłówka";
-"Unordered List" = "Nieposortowana lista";
+"Ordered List" = "Uporządkowana lista";
+"Unordered List" = "Nieuporządkowana lista";
 "Code Fences" = "Bloki kodu";
 "Display line numbers for code fences" = "Wyświetlaj numerację linijek w \nblokach kodu";
 "Math Blocks" = "Bloki matematyczne";

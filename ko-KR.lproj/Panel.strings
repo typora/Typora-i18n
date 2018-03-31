@@ -69,7 +69,8 @@
 "Strict Mode" = "엄격 모드";
 "(more strict to GFM spec)" = "(GFM 스펙을 더 준수)";
 "Heading Style" = "제목 스타일";
-"Unordered List" = "정렬되지 않은 목록";
+"Ordered List" = "순서가 있는 목록";
+"Unordered List" = "순서가 없는 목록";
 "Code Fences" = "코드 펜스";
 "Display line numbers for code fences" = "코드 펜스에서 줄번호 보이기";
 "Math Blocks" = "수식 블록";

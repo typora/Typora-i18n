@@ -74,6 +74,8 @@
 "Strict Mode" = "厳密モード";
 "(more strict to GFM spec)" = "Github Favored Markdownにより忠実に合わせる";
 "Heading Style" = "見出し書式";
+"Ordered List" = "順序付きリスト";
+"Unordered List" = "順序なしリスト";
 "Code Fences" = "コードブロック";
 "Display line numbers for code fences" = "コードブロックに行番号を表示";
 "Math Blocks" = "数式ブロック";

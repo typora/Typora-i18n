@@ -68,6 +68,7 @@
 "(more strict to GFM spec)" = "（更严格地遵循GFM标准）";
 "Heading Style" = "标题样式";
 "Unordered List" = "无序列表";
+"Ordered List" = "有序列表";
 "Code Fences" = "代码块";
 "Display line numbers for code fences" = "显示行号";
 "Math Blocks" = "数学公式";

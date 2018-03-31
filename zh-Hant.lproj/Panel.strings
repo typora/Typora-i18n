@@ -66,7 +66,8 @@
 "Strict Mode" = "嚴格模式";
 "(more strict to GFM spec)" = "(更嚴格遵造 GFM 規格)";
 "Heading Style" = "標頭樣式";
-"Unordered List" = "無序清單";
+"Ordered List" = "已排序清單";
+"Unordered List" = "非排序清單";
 "Code Fences" = "程式碼區塊";
 "Display line numbers for code fences" = "為程式碼區塊顯示行號";
 "Math Blocks" = "數學式區塊";

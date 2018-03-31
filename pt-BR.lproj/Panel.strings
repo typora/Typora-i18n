@@ -66,6 +66,7 @@
 "Strict Mode" = "Modo Estrito";
 "(more strict to GFM spec)" = "(mais estrito que a especificação GFM)";
 "Heading Style" = "Estilo de Título";
+"Ordered List" = "Lista Ordenada";
 "Unordered List" = "Lista Desordenada";
 "Code Fences" = "Bloco de Código";
 "Display line numbers for code fences" = "Exibir número das linhas para blocos de código";

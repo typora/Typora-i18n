@@ -73,7 +73,8 @@
 "Strict Mode" = "Striktní mód";
 "(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
 "Heading Style" = "Styl nadpisu";
-"Unordered List" = "Neregulovaný seznam";
+"Ordered List" = "Seřazený seznam";
+"Unordered List" = "Neseřazený seznam";
 "Code Fences" = "Ohraničení kódu";
 "Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničený kód";
 "Math Blocks" = "Matematické bloky";

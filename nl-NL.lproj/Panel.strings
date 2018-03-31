@@ -67,6 +67,8 @@
 "Strict Mode" = "Strenge Modus";
 "(more strict to GFM spec)" = "(Strenger bij GFM spec)";
 "Heading Style" = "Titel Stijl";
+"Ordered List" = "Geordende Lijst";
+"Unordered List" = "Ongeordende Lijst";
 "Code Fences" = "Code Blok";
 "Display line numbers for code fences" = "Weergeef lijnnummers bij code blok";
 "Math Blocks" = "Wiskunde Blokken";

@@ -64,6 +64,8 @@
 "Strict Mode" = "Strict Mode";
 "(more strict to GFM spec)" = "(more strict to GFM spec)";
 "Heading Style" = "Heading Style";
+"Unordered List" = "Unordered List";
+"Ordered List" = "Ordered List";
 "Code Fences" = "Code Fences";
 "Display line numbers for code fences" = "Display line numbers for code fences";
 "Math Blocks" = "Math Blocks";

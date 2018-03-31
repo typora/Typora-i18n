@@ -133,3 +133,4 @@
 
 "input image URL" = "input image URL";
 "Select image from local file" = "Select image from local file";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";

@@ -221,3 +221,10 @@
 "Apply above rules for local images" = "Apply above rules for local images";
 "Apply above rules for online images" = "Apply above rules for online images";
 "Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";
+
+"Learn More…" = "Learn More…";
+"Whitespace / Line Break" = "Whitespace / Line Break";
+"When Writing" = "When Writing";
+"Export / Print" = "Export / Print";
+"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
+"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";

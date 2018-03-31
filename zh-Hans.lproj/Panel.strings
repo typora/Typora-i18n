@@ -222,3 +222,9 @@
 "Apply above rules for online images" = "对网络位置的图片应用上述规则";
 "Allow upload images automatically based on YAML settings" = "允许根据YAML设置自动上传图片";
 
+"Learn More…" = "了解更多…";
+"Whitespace / Line Break" = "空格与换行";
+"When Writing" = "编辑时";
+"Export / Print" = "导出/打印";
+"Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";
+"Ignore sequential whitespace and single line break" = "忽略连续的空格与单个换行";

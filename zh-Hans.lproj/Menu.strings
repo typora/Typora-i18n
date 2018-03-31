@@ -230,3 +230,9 @@
 "Copy Image to..." = "复制图片到...";
 "Upload via iPic" = "上传图片";
 "Open Image Location" = "打开图片位置";
+
+"Learn More" = "了解更多";
+"Whitespace and Line Breaks" = "空格与换行";
+"Indent first line of paragraphs" = "首行缩进";
+"Visible <br/> and markdown line break" = "显示<br>与Markdown换行符号";
+"Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";

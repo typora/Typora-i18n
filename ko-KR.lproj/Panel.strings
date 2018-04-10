@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, LAVILINCE, Third9, cozyplanes
+ by ryush00, Third9, cozyplanes
  */
 
 /* Preference Panel */
@@ -172,12 +172,12 @@
 "%d Images Failed to Upload." = "%d개의 이미지 업로드 실패.";
 "%d Succeeded," = "%d개 성공";
 "Enable this feature on preferences panel" = "이 기능을 설정 패널에서 활성화";
-"The option `%@` must be enabled first" = "`%@` 옵션이 먼저 활성화되어야 합니다.";
+"The option `%@` must be enabled first" = "`%@` 옵션을 먼저 활성화해야 합니다";
 "%@ is a file, not a directory" = "%@는 폴더가 아니라 파일입니다";
 "Copy Images To…" = "다음으로 이미지 복사…";
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora는 새로 삽입된 이미지를 YAML Front Matter 설정에 따라  %@ 경로로 복사하고자 합니다. 그러나 해당 폴더가 존재하지 않습니다. 새로 만드시겠습니까?";
-"Create Folder and Continue" = "폴더 생성후 계속";
-"Document must be saved first" = "문서가 먼저 저장되어야 합니다";
+"Create Folder and Continue" = "폴더 생성 후 계속";
+"Document must be saved first" = "문서를 먼저 저장해야 합니다";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora는 새로 삽입된 이미지를 상대적 위치로 선택된 폴더에 저장하므로 파일을 먼저 저장하세요.";
 "Open Operation Failed" = "열기 작업 실패";
 
@@ -187,14 +187,14 @@
 "Plain Text File" = "일반 텍스트 파일";
 "All Files" = "모든 파일";
 "All Supported Formats" = "모든 지원되는 파일";
-"Discard Changes" = "변경사항 저장 안함";
-"Discard" = "저장 안함";
+"Discard Changes" = "변경사항 저장 안 함";
+"Discard" = "저장 안 함";
 
 "Menu" = "메뉴";
 "Back" = "뒤로";
 
 "Contact" = "연락처";
-"Open From..." = "다음으로부터 열기...";
+"Open From..." = "다음으로 열기...";
 "Import..." = "가져오기...";
 "Recent Documents" = "최근 문서";
 "Search for…" = "다음으로 검색…";

@@ -17,7 +17,7 @@
 "Seamless window only support OS X later than 10.10." = "Seamless样式只支持10.10以上macOS版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "请参考`帮助`->`Quick Start`，或访问http://theme.typora.io获取更多主题与指导。";
+"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "请参考`帮助`->`快速入门`，或访问http://theme.typora.io获取更多主题与指导。";
 "Word Count" = "字数统计";
 "Always Show Word Count" = "总是显示字数统计";
 "Font Size" = "字体大小";
@@ -97,7 +97,7 @@
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安装Pandoc以导入这些文件";
-"Check help->Install and use Pandoc from menubar for detail" = "请从菜单栏中选择 帮助->Install and use Pandoc 来查看详细信息";
+"Check help->Install and use Pandoc from menubar for detail" = "请从菜单栏中选择 帮助->安装并使用Pandoc 来查看详细信息";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
 "Follow Instructions to Install/Update Pandoc" = "请按照说明安装/升级Pandoc";
 "Export Failed" = "导出失败";

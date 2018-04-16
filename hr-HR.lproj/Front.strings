@@ -1,0 +1,136 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Otkaži";
+"Yes" = "Da";
+"No" = "Ne";
+"Close" = "Zatvori";
+"Select" = "Odaberi";
+"Continue" = "Nastavi";
+"Learn More…" = "Nauči više…";
+"Untitled" = "Bezimeno";
+"Undo" = "Poništi";
+"Dismiss" = "Odbaci";
+"Confirm" = "Potvrdi";
+"Error" = "Greška";
+
+/* Search Panel */
+"Search" = "Nađi";
+"Replace" = "Zamijeni";
+"All" = "Sve";
+"Search text not found in article" = "Traženi text nije pronađen u članku";
+"search text" = "traži text";
+
+/* Quick Open */
+"Search by file name" = "Traži po imenu fajla";
+"Searching" = "Tražim";
+"Gathering more results" = "Skupljam više rezultata";
+
+/* Tables */
+"Insert Table" = "Umetni Tablicu";
+"Columns" = "Stupci";
+"Rows" = "Retci";
+"Align Left" = "Ulijevo";
+"Align Center" = "Centriraj";
+"Align Right" = "Udesno";
+"Resize Table" = "Promijeni Veličinu Tablice";
+"Delete Table" = "Obriši Tablicu";
+
+/* Images */
+"Copy Image To..." = "Kopiraj sliku u...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora pokušava kopirati  novoumetnutu sliku u folder <code id='image-create-folder-target'></code> prema tvojim  YAML Front Matter postavkama. Ali taj folder ne postoji, da ga stvorim sada?";
+"Create Folder" = "Stvori Folder";
+
+/* Math */
+"Edit" = "Uredi";
+"Delete Math" = "Obriši Math";
+"Preview" = "Pregled";
+
+/* Sidebar */
+"Articles" = "Članci";
+"Outline" = "Outline";
+"Files" = "Fajlovi";
+"Switch to File List view" = "Prebaci na File List view";
+"Switch to File Tree view" = "Prebaci na File Tree pregled";
+"Switch to Outline view" = "Prebaci na Outline pregled";
+"Close sidebar" = "Zatvori bočnu traku";
+"Loading" = "Učitavam";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Odabrani folderi sadrže previše fajlova. \nMolimo prebacite se na <a id='switch-to-tree-on-oversize'>File Tree view</a> za bolji performance.";
+"New File" = "Novi Fajl";
+"Unpin Outline Panel" = "Unpin Outline Panel";
+"Open Folder..." = "Otvori Folder...";
+"Action" = "Akcija";
+"Close Sidebar Menu" = "Zatvori Sidebar Menu";
+"Reveal in Finder" = "Otkrij u Finderu";
+"Reveal in File Explorer" = "Otkrij u Pregledniku Fajlova";
+"Refresh Folder" = "Osvježi Folder";
+"Sort" = "Sortiraj";
+"Group By Folder" = "Grupiraj po folderu";
+"Sort Naturally" = "Sortiraj prirodno";
+"Sort by Name" = "Sortiraj po Imenu";
+"Sort by Modification Date" = "Sortiraj po datumu uređivanja";
+"Recent Locations" = "Nedavne Lokacije";
+"Location" = "Lokacija";
+"Switch File List/Tree View" = "Prebaci pregled Lista fajlova/Razgranati";
+"No Files Available" = "Nema dostupnih fajlova";
+"No Folder is Opened." = "Nijedan Folder nije otvoren.";
+"Outline is Empty." = "Outline je prazan.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Toggle Sidebar";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+
+"Table of Contents" = "Tablica Sadržaja";
+"Empty Diagram" = "Isprazni Diagram";
+"Input Math TeX here" = "Unesi Math TeX ovdje";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Stvaranje fajla nije uspjelo";
+"Failed to create folder" = "Stvaranje foldera nije uspjelo";
+"Failed to rename file" = "Preimenovanje fajla nije uspjelo";
+"Folder does not exist at %@" = "Folder ne postoji na %@";
+"File with the same name already exists at target path" = "Fajl sa istim imenom već postoji na tom mjestu";
+"Apply to All" = "Primijeni na sve";
+"Overwrite" = "Prepiši";
+"Stop" = "Stani";
+"back to document" = "natrag na dokument";
+"Failed to load file" = "Neuspjelo učitavanje fajla";
+"Save File Failed!" = "Spremanje fajla nije uspjelo!";
+"Cannot open folder {0}" = "Ne mogu otvoriti folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Sadržaj fajla je izmijenjen externom aplikacijom. Da osvježim trenutni sadržaj sa diska ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Da nastavim sa premještanjem i prepišem postojeći fajl(ove) ?";
+
+"Rename Failed" = "Preimenovanje nije uspjelo";
+"Rename to \"{0}\" ?" = "Preimenuj u \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Nije uspjelo preimenovanje sa\"{0}\" u \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Uspješno uploadano {0} slika.";
+"Failed to upload image. Error Message:" = "Greška pri uploadu slike. Poruka greške:";
+"Failed to Copy Image to Target Folder." = "Neuspjelo kopiranje slike u željeni folder.";
+"Select Container Folder" = "Odaberi  Folder";
+
+"Saved" = "Sačuvano";
+
+/* place holder in find & replace input */
+"search text" = "traži text";
+"replace with" = "zamijeni sa";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Cijela Riječ";
+
+"input image URL" = "unesi link slike";
+"Select image from local file" = "Odaberi lokalni fajl slike";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne mogu otvoriti lokaciju <code>$1</code>, jeste li mislili <a href='https://$3'>https://$2</a> ?";

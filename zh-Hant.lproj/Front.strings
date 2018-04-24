@@ -1,4 +1,4 @@
-/* 
+/*
   Front.strings
   Typora
 
@@ -16,7 +16,7 @@
 "Learn More…" = "查看更多…";
 "Untitled" = "未命名";
 "Undo" = "回上一步";
-"Dismiss" = "Dismiss";
+"Dismiss" = "忽略";
 "Confirm" = "確認";
 "Error" = "錯誤";
 
@@ -44,7 +44,7 @@
 
 /* Images */
 "Copy Image To..." = "複製圖像至...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora 正嘗試將新插入的圖片依據您的YAML字型設定複製到資料夾中 <code id='image-create-folder-target'></code> 但目標資料夾不存在。是否新增？";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora 正嘗試將新插入的圖片依據您的 YAML 字型設定複製到資料夾中 <code id='image-create-folder-target'></code> 但目標資料夾不存在。是否新增？";
 "Create Folder" = "新增資料夾";
 
 /* Math */
@@ -61,7 +61,7 @@
 "Switch to Outline view" = "切換至大綱檢視";
 "Close sidebar" = "關閉側邊欄";
 "Loading" = "載入中";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所選資料夾內含太多檔案. \n請切換至 <a id='switch-to-tree-on-oversize'>樹狀檢視</a> 取得較佳效能。";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所選資料夾內含太多檔案，\n請切換至<a id='switch-to-tree-on-oversize'>樹狀檢視</a>取得較佳效能。";
 "New File" = "新增檔案";
 "Unpin Outline Panel" = "解鎖大綱區塊";
 "Open Folder..." = "打開資料夾...";
@@ -89,7 +89,7 @@
 
 "Table of Contents" = "目錄";
 "Empty Diagram" = "空白圖示";
-"Input Math TeX here" = "在此輸入TeX公式";
+"Input Math TeX here" = "在此輸入 TeX 公式";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "請以此格式來宣告底標連結 <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "請以此格式來宣告網址連結 <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
@@ -98,7 +98,7 @@
 /* msg */
 "Failed to create file" = "新增檔案失敗";
 "Failed to create folder" = "新增資料夾失敗";
-"Failed to rename file" = "重命名檔案失敗";
+"Failed to rename file" = "重新命名檔案失敗";
 "Folder does not exist at %@" = "在 %@ 路徑下資料夾不存在";
 "File with the same name already exists at target path" = "在目標路徑下已有相同名稱的檔案";
 "Apply to All" = "套用至全部";
@@ -112,9 +112,9 @@
 "File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
 "Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現存檔案嗎？";
 
-"Rename Failed" = "重命名失敗";
+"Rename Failed" = "重新命名失敗";
 "Rename to \"{0}\" ?" = "重新命名為 \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "重命名自 \"{0}\" 為 \"{1}\" 失敗";
+"Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 為 \"{1}\" 失敗";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "已成功上傳 {0} 張圖片.";
@@ -123,3 +123,14 @@
 "Select Container Folder" = "選擇存放路徑";
 
 "Saved" = "已儲存";
+
+/* place holder in find & replace input */
+"search text" = "搜尋";
+"replace with" = "取代為";
+/* search option */
+"Case Sensitive" = "區分大小寫";
+"Whole Word" = "查找整個單字";
+
+"input image URL" = "輸入圖片網址";
+"Select image from local file" = "選擇本機圖片";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='https://$3'>https://$2</a> 嗎？";

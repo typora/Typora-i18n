@@ -167,7 +167,7 @@
 "Reset Advanced Settings" = "上級設定をリセットする";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "この機能にはiPicの最新バージョンが必要です";
+"This function requires latest version of iPic to be installed." = "この機能にはiPicの最新バージョンが必要です";
 "Get iPic" = "iPicを取得";
 "Cannot Continue…" = "続けられません";
 "This feature require macOS >= 10.11" = "macOS 10.11以上のバージョンが必要です";

@@ -236,3 +236,7 @@
 "Indent first line of paragraphs" = "首行缩进";
 "Visible <br/> and markdown line break" = "显示<br>与Markdown换行符号";
 "Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";
+
+"Save All" = "保存全部打开的文件";
+"New Window" = "新建窗口";
+"Reopen Closed File" = "重新打开关闭的文件";

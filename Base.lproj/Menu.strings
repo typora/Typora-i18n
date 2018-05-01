@@ -245,3 +245,7 @@
 "Indent first line of paragraphs" = "Indent first line of paragraphs";
 "Visible <br/> and markdown line break" = "Visible <br/> and markdown line break";
 "Preserve sequential whitespace and single line break" = "Preserve sequential whitespace and single line break";
+
+"Save All" = "Save All";
+"New Window" = "New Window";
+"Reopen Closed File" = "Reopen Closed File";

@@ -106,7 +106,7 @@
 "Stop" = "停止";
 "back to document" = "回到文档";
 "Failed to load file" = "加载文件失败";
-"Save File Failed!" = "保存文件失败!"
+"Save File Failed!" = "保存文件失败!";
 "Cannot open folder {0}" = "无法打开文件夹 {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "文件内容被外部程序更改，是否重新加载文件";

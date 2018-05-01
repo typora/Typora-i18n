@@ -28,7 +28,7 @@
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
 "Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，改选项被默认启用。";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，改选项被默认启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
 
@@ -160,7 +160,7 @@
 "Reset Advanced Settings" = "重置高级设置";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "该功能需要安装最新版本的iPic";
+"This function requires latest version of iPic to be installed." = "该功能需要安装最新版本的iPic";
 "Get iPic" = "获取iPic";
 "Cannot Continue…" = "无法继续…";
 "This feature require macOS >= 10.11" = "此功能只支持macOS 10.11及以上版本";
@@ -229,3 +229,16 @@
 "Export / Print" = "导出/打印";
 "Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";
 "Ignore sequential whitespace and single line break" = "忽略连续的空格与单个换行";
+
+"Quit" = "退出";
+"Quit Typora when last window close" = "所有窗口被关闭后自动退出Typora";
+"On Launch" = "启动选项";
+"Open new file" = "打开新文件";
+"Restore last closed folders" = "重新打开上次使用的目录";
+"Restore last closed files and folders" = "重新打开上次使用的文件和目录";
+"Open custom folder" = "打开指定目录";
+"Select custom folder" = "选择指定目录";
+"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "该选项可能会被系统设置覆盖";
+
+"Ignore" = "忽略";
+"Choose Default Folder" = "选择默认文件夹";

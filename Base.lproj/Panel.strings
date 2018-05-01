@@ -157,7 +157,7 @@
 "Reset Advanced Settings" = "Reset Advanced Settings";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "This function requires latest version of iPic to be installed.";
+"This fucntion requires latest version of iPic to be installed." = "This function requires latest version of iPic to be installed.";
 "Get iPic" = "Get iPic";
 "Cannot Continue…" = "Cannot Continue…";
 "This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
@@ -230,3 +230,16 @@
 "Export / Print" = "Export / Print";
 "Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
 "Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
+
+"Quit" = "Quit";
+"Quit Typora when last window close" = "Quit Typora when last window close";
+"On Launch" = "On Launch";
+"Open new file" = "Open new file";
+"Restore last closed folders" = "Restore last closed folders";
+"Restore last closed files and folders" = "Restore last closed files and folders";
+"Open custom folder" = "Open custom folder";
+"Select custom folder" = "Select custom folder";
+"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences";
+
+"Ignore" = "Ignore";
+"Choose Default Folder" = "Choose Default Folder";

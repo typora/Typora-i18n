@@ -159,7 +159,7 @@
 "Reset Advanced Settings" = "Réinitialiser les paramètres avancés";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Il faut que la dernière version d'iPic soit installée pour utiliser cette fonction";
+"This function requires latest version of iPic to be installed." = "Il faut que la dernière version d'iPic soit installée pour utiliser cette fonction";
 "Get iPic" = "Obtenir iPic";
 "Cannot Continue…" = "Impossible de continuer…";
 "This feature require macOS >= 10.11" = "Cette fonction nécessite macOS >= 10.11";

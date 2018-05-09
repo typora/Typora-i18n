@@ -55,11 +55,11 @@
 /* Sidebar */
 "Articles" = "文章列表";
 "Outline" = "大綱";
-"Files" = "檔案列表";
-"Switch to File List view" = "切換至檔案列表檢視";
+"Files" = "檔案";
+"Switch to File List view" = "切換至文章列表檢視";
 "Switch to File Tree view" = "切換至檔案樹狀檢視";
 "Switch to Outline view" = "切換至大綱檢視";
-"Close sidebar" = "關閉側邊欄";
+"Close sidebar" = "隱藏側邊欄";
 "Loading" = "載入中";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所選資料夾內含太多檔案，\n請切換至<a id='switch-to-tree-on-oversize'>樹狀檢視</a>取得較佳效能。";
 "New File" = "新增檔案";
@@ -67,7 +67,7 @@
 "Open Folder..." = "打開資料夾...";
 "Action" = "動作";
 "Close Sidebar Menu" = "關閉側邊欄選單";
-"Reveal in Finder" = "在Finder中顯示";
+"Reveal in Finder" = "在 Finder 中顯示";
 "Reveal in File Explorer" = "在檔案管理員中顯示";
 "Refresh Folder" = "重新載入資料夾";
 "Sort" = "排序";

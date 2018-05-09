@@ -20,7 +20,7 @@
 "Word Count" = "字數統計";
 "Always Show Word Count" = "總是顯示字數統計";
 "Font Size" = "字體大小";
-"Auto ( Recommended )" = "自動 ( 推薦使用 )";
+"Auto ( Recommended )" = "自動 (推薦使用)";
 "Customized" = "自定義";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "若自行挑選字體大小，則實際字體大小將隨基礎字體大小及 CSS 樣式改變。";
  "Left Panel" = "側邊欄";
@@ -36,11 +36,9 @@
 "Indent Size on Save" = "存檔時調整縮排";
 "only apply for quotes and lists created from menubar or hybrid view" = "(僅套用產生自選單或快捷鍵生成的引號及清單有效果)";
 "Trigger Autocomplete without ESC key for" = "無需 ESC 鍵即觸發自動完成";
-"Emoji (e.g. :smile:)" = "Emoji 表情文字 (如： :smile:)";
+"Emoji (e.g. :smile:)" = "Emoji 表情文字 (如, :smile:)";
 "Images Insert" = "插入圖片";
 "Use relative path if possible" = "優先使用相對路徑";
-"Allow copy images to given folder" = "允許複製圖片至指定資料夾";
-"Allow upload to given server" = "允許上傳至指定伺服器";
 "Auto Pair" = "自動配對";
 "Auto pair brackets and quotes" = "自動配對括號及引號";
 "Auto pair common markdown syntax" = "自動配對常用 markdown 語法";
@@ -55,10 +53,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(下面的偏好設定會再重新啟動 Typora 後套用)";
 "Syntax Support" = "Markdown 擴展支援";
-"Inline Math  ( e.g: $\LaTeX$ )" = "行內數學式  (如，$\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "下標    (如，H~2~O )";
-"Superscript ( e.g: X^2^ )" = "上標 (如，X^2^ )";
-"Highlight     (e.g: ==key==)" = "語法高亮     (如， ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "行內數學式  (如: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "下標    (如: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "上標 (如: X^2^ )";
+"Highlight     (e.g: ==key==)" = "語法高亮     (如: ==key==)";
 "Diagrams" = "圖表";
 "(Sequence, Flowchart and Mermaid)" = "(序列圖, 流程圖和 Mermaid)";
 "Syntax Preference" = "Markdown 語法偏好";
@@ -66,8 +64,8 @@
 "Strict Mode" = "嚴格模式";
 "(more strict to GFM spec)" = "(更嚴格遵照 GFM 規格)";
 "Heading Style" = "標題樣式";
-"Ordered List" = "有次序清單";
 "Unordered List" = "無次序清單";
+"Ordered List" = "有次序清單";
 "Code Fences" = "程式碼區塊";
 "Display line numbers for code fences" = "為程式碼區塊顯示行號";
 "Math Blocks" = "數學式區塊";
@@ -211,6 +209,7 @@
 "Word count only support OS X later than 10.10." = "計算字數的功能僅支援 OS X 10.10 以上的版本。";
 "Indent Size for Code" = "程式碼縮排";
 "Auto wrap long lines" = "程式碼自動換行";
+
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，此版本的 Typora 不支援列印背景顏色，\n 因此不支援列印深色佈景主題。\n\n 請選擇淺色主題或將文件匯出成 PDF 檔";
 "Export to PDF" = "匯出為 PDF";
 "Pretty Indentation" = "整理縮排";
@@ -231,3 +230,16 @@
 "Export / Print" = "匯出 / 列印";
 "Preserve sequential whitespace and single line break" = "保留連續的空格與單一換行";
 "Ignore sequential whitespace and single line break" = "忽略連續的空格與單一換行";
+
+"Quit" = "關閉";
+"Quit Typora when last window close" = "當關閉所有視窗時自動關閉 Typora";
+"On Launch" = "啟動選項";
+"Open new file" = "開啟新檔";
+"Restore last closed folders" = "重新開啟上次使用的資料夾";
+"Restore last closed files and folders" = "重新開啟上次使用的檔案和資料夾";
+"Open custom folder" = "開啟指定的資料夾";
+"Select custom folder" = "選擇指定的資料夾";
+"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "此選項可能會被系統設定給覆蓋掉";
+
+"Ignore" = "略過";
+"Choose Default Folder" = "選擇預設資料夾";

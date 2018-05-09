@@ -1,30 +1,30 @@
 /*
- Menu.strings
- Typora
+  Menu.strings
+  Typora
 
  by hi@typora.io
 */
 
 /* Typora Menu */
 
-"About Typora" = "關於";
+"About Typora" = "關於 Typora";
 "Preferences" = "偏好設定";
 "Check for Updates" = "檢查更新";
 "Services" = "服務";
 "Hide Typora" = "隱藏 Typora";
 "Hide Others" = "隱藏其他";
-"Show All" = "顯示全部";
-"Quit Typora" = "關閉 Typora";
+"Show All" = "全部顯示";
+"Quit Typora" = "結束 Typora";
 
 /* File Menu */
 
 "File" = "檔案";
-"New" = "新增";
+"New" = "新增檔案";
 "Open" = "開啟";
 "Open Folder" = "開啟目錄";
 "Reopen with Encoding" = "選擇編碼重新載入檔案";
 "Auto" = "自動";
-"Open Recent" = "開啟最近檔案";
+"Open Recent" = "開啟最近的檔案";
 "Clear Items" = "清空項目";
 "No Recent Files" = "沒有最近檔案";
 "Open Quickly" = "快速開啟";
@@ -139,7 +139,7 @@
 "Highlight" = "高亮";
 "Superscript" = "上標";
 "Subscript" = "下標";
-"Comment" = "註釋";
+"Comment" = "註解";
 "Hyperlink" = "超連結";
 "Image" = "圖片";
 "Clear Format" = "清除格式";
@@ -150,14 +150,14 @@
 "Source Code Mode" = "原始碼模式";
 "Focus Mode" = "專注模式";
 "Typewriter Mode" = "打字機模式";
-"Toggle Sidebar" = "打開/關閉側邊欄";
+"Toggle Sidebar" = "顯示/隱藏側邊欄";
 "Outline" = "大綱";
 "Articles" = "文章";
 "File Tree" = "檔案樹";
 "Always on Top" = "一律在最上層";
-"Full Screen" = "全螢幕";
-"Toggle Fullscreen" = "進入/離開全螢幕";
-"Show Status Bar" = "顯示狀態欄";
+"Full Screen" = "切換全螢幕";
+"Show Status Bar" = "顯示狀態列";
+"Toggle Fullscreen" = "切換全螢幕";
 "Actual Size" = "實際尺寸";
 "Zoom In" = "放大";
 "Zoom Out" = "縮小";
@@ -166,7 +166,7 @@
 
 
 /* Themes Menu */
-"Themes" = "佈景主題";
+"Themes" = "主題";
 
 /* Window Menu */
 "Window" = "視窗";
@@ -176,7 +176,7 @@
 
 /* Help Menu */
 "Help" = "說明";
-”Privacy Policy" = "隱私權政策";
+"Privacy Policy" = "隱私權政策";
 "Credits" = "致謝";
 "Change Log" = "更新紀錄";
 "Website" = "網站";
@@ -245,3 +245,7 @@
 "Indent first line of paragraphs" = "段落首行縮排";
 "Visible <br/> and markdown line break" = "顯示 <br/> 和 Markdown 換行符號";
 "Preserve sequential whitespace and single line break" = "保留連續的空格和單一換行";
+
+"Save All" = "儲存全部";
+"New Window" = "開新視窗";
+"Reopen Closed File" = "重新開啟已關閉的檔案";

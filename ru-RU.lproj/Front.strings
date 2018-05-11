@@ -1,4 +1,4 @@
-/* 
+/*
   Front.strings
   Typora
 
@@ -133,3 +133,4 @@
 
 "input image URL" = "введите URL изображения";
 "Select image from local file" = "Выбрать изображение...";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не удается открыть <code>$1</code>. Предполагается сайт <a href='https://$3'>https://$2</a>?";

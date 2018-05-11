@@ -1,4 +1,4 @@
-/* 
+/*
   Menu.strings
   Typora
 
@@ -239,3 +239,13 @@
 "Copy Image to..." = "Скопировать изображение...";
 "Upload via iPic" = "Загрузить через iPic";
 "Open Image Location" = "Открыть папку изображения";
+
+"Learn More" = "Узнать больше";
+"Whitespace and Line Breaks" = "Пробелы и разрывы строк";
+"Indent first line of paragraphs" = "Отступ первой строки абзацев";
+"Visible <br/> and markdown line break" = "Видимый <br/> и разрыв строки markdown";
+"Preserve sequential whitespace and single line break" = "Сохранять последовательные пробелы и разрывы строк";
+
+"Save All" = "Сохранить все";
+"New Window" = "Новое окно";
+"Reopen Closed File" = "Повторно открыть закрытый файл";

@@ -1,7 +1,7 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
+
  by bugo@dragomano.ru
 */
 
@@ -33,7 +33,7 @@
 
 /* Editor Panel */
 "Editor" = "Редактор";
-"Indent Size on Save" = "Вдавливание";
+"Indent Size on Save" = "Размер отступа при сохранении";
 "only apply for quotes and lists created from menubar or hybrid view" = "применяются только для кавычек и списков, созданных из меню или гибридного просмотра";
 "Trigger Autocomplete without ESC key for" = "Автоматическое";
 "Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
@@ -64,8 +64,8 @@
 "Strict Mode" = "Строгий режим";
 "(more strict to GFM spec)" = "(более суровый к спецификации GFM)";
 "Heading Style" = "Стиль заголовка";
-"Ordered List" = "Упорядоченный список";
 "Unordered List" = "Неупорядоченный список";
+"Ordered List" = "Упорядоченный список";
 "Code Fences" = "Подсветка кода";
 "Display line numbers for code fences" = "Отображать номера строк для блоков с кодом";
 "Math Blocks" = "Математические блоки";
@@ -157,7 +157,7 @@
 "Reset Advanced Settings" = "Сбросить расширенные настройки";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
+"This fucntion requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
 "Get iPic" = "Получить iPic";
 "Cannot Continue…" = "Не удается продолжить…";
 "This feature require macOS >= 10.11" = "Эта функция требует macOS версии >= 10.11";
@@ -223,3 +223,23 @@
 "Apply above rules for local images" = "Применить правила выше для локальных изображений";
 "Apply above rules for online images" = "Применить правила выше для онлайн-изображений";
 "Allow upload images automatically based on YAML settings" = "Разрешить загрузку изображений автоматически на основе настроек YAML";
+
+"Learn More…" = "Узнать больше…";
+"Whitespace / Line Break" = "Пробелы / Разрыв строки";
+"When Writing" = "При написании";
+"Export / Print" = "Экспорт / Печать";
+"Preserve sequential whitespace and single line break" = "Сохранять пробелы и разрывы строк";
+"Ignore sequential whitespace and single line break" = "Игнорировать пробелы и разрывы строк";
+
+"Quit" = "Выйти";
+"Quit Typora when last window close" = "Выйти из Typora при закрытии последнего окна";
+"On Launch" = "При запуске";
+"Open new file" = "Открыть новый файл";
+"Restore last closed folders" = "Восстановить последние закрытые папки";
+"Restore last closed files and folders" = "Восстановить последние закрытые файлы и папки";
+"Open custom folder" = "Открыть указанную папку";
+"Select custom folder" = "Выберите папку";
+"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "Этот параметр может быть перезаписан \"Close Windows When Quitting App\" в системных настройках (Mac OS)";
+
+"Ignore" = "Игнорировать";
+"Choose Default Folder" = "Выбрать папку по умолчанию";

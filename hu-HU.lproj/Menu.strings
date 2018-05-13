@@ -1,0 +1,247 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+
+"About Typora" = "A Typora névjegye";
+"Preferences" = "Beállítások";
+"Check for Updates" = "Frissítések keresése";
+"Services" = "Szolgáltatások";
+"Hide Typora" = "Typora elrejtése";
+"Hide Others" = "A többi elrejtése";
+"Show All" = "Összes megjelenítése";
+"Quit Typora" = "Kilépés a Typorából";
+
+/* File Menu */
+
+"File" = "Fájl";
+"New" = "Új";
+"Open" = "Megnyitás";
+"Open Folder" = "Mappa megnyitása";
+"Reopen with Encoding" = "Megnyitás más kódolással";
+"Auto" = "Automatikus";
+"Open Recent" = "Előzmények";
+"Clear Items" = "Lista törlése";
+"No Recent Files" = "Nincsenek előzmények";
+"Open Quickly" = "Gyors megnyitás";
+"Open File Location" = "Fájl helyének megnyitása";
+"Reveal in Library" = "Mutatás a Könyvtárban";
+"Reveal in File Tree" = "Mutatás a Fa nézetben";
+"Close" = "Bezárás";
+"Save" = "Mentés";
+"Save As" = "Mentés másként";
+"Duplicate" = "Másolat készítése";
+"Rename" = "Átnevezés";
+"Move To" = "Mozgatás ide";
+"Revert To" = "Visszaállítás erre";
+"Browse All Versions" = "Összes verzió böngészése";
+"Import" = "Importálás";
+"Export" = "Exportálás";
+"Page Setup" = "Oldalbeállítás";
+"Print" = "Nyomtatás";
+
+/* Edit Menu */
+"Edit" = "Szerkesztés";
+"Undo" = "Visszavonás";
+"Redo" = "Ismétlés";
+"Cut" = "Kivágás";
+"Copy" = "Másolás";
+"Paste" = "Beillesztés";
+"Copy as Markdown" = "Másolás Markdownként";
+"Copy as HTML Code" = "Másolás HTML-ként";
+"Paste as Plain Text" = "Beillesztés formázás nélkül";
+"Select All" = "Összes kijelölése";
+"Select Line/Sentence" = "Sor/mondat kijelölése";
+"Select Styled Scope" = "Azonos stílus kiválasztása";
+"Select Word" = "Szó kijelölése";
+"Delete" = "Törlés";
+"Delete Range" = "Tartomány törlése";
+"Delete Word" = "Szó törlése";
+"Delete Styled Scope" = "Azonos stílus törlése";
+"Delete Line/Sentence" = "Sor/mondat törlése";
+"Jump To" = "Ugrás";
+"Jump to Top" = "Ugrás a tetejére";
+"Jump to Selection" = "Ugrás a kijelölésre";
+"Jump to Bottom" = "Ugrás a végére";
+"Math Tools" = "Képlet eszközök";
+"Refresh All Math Expressions" = "Összes képlet frissítése";
+"Image Tools" = "Képeszközök";
+"Insert Local Images" = "Helyi képek beszúrása";
+"Upload Local Images via iPic" = "Helyi képek feltöltése iPic-kel";
+"When Insert Local Image" = "Helyi képek beszúrásakor";
+"Copy Image File to Folder" = "Képfájl mappába másolása";
+"Upload Image via iPic" = "Kép feltöltése iPic-kel";
+"Use Image Root Path" = "Képek gyökérmappája";
+"Line Endings" = "Sorvégződés";
+"Windows Line Endings (CRLF)" = "Windows formátum (CRLF)";
+"Unix Line Endings (LF)" = "Unix formátum (LF)";
+"Find" = "Keresés";
+"Find Next" = "Következő keresése";
+"Find Previous" = "Előző keresése";
+"Find and Replace" = "Keresés és csere";
+"Replace" = "Csere";
+"Replace Next" = "Következő cseréje";
+"Spelling and Grammar" = "Nyelvhelyesség ellenőrzése";
+"Check Document Now" = "A dokumentum azonnali ellenőrzése";
+"Check Spelling While Typing" = "Helyesírás ellenőrzése gépelés közben";
+"Check Grammar With Spelling" = "Nyelvtan ellenőrzése a helyesírással együtt";
+"Correct Spelling Automatically" = "A helyesírás automatikus javítása";
+"Substitutions" = "Helyettesítések";
+"Smart Quotes" = "Intelligens idézőjelek";
+"Smart Dashes" = "Intelligens kötőjelek";
+"Text Replacement" = "Szöveg cseréje";
+"Speech" = "Beszéd";
+"Start Speaking" = "Beszéd elindítása";
+"Stop Speaking" = "Beszéd leállítása";
+
+/* Paragraph Menu */
+"Paragraph" = "Szövegtörzs";
+"Heading 1" = "Címsor 1";
+"Heading 2" = "Címsor 2";
+"Heading 3" = "Címsor 3";
+"Heading 4" = "Címsor 4";
+"Heading 5" = "Címsor 5";
+"Heading 6" = "Címsor 6";
+"Increase Heading Level" = "Nagyobb címsor";
+"Decrease Heading Level" = "Kisebb címsor";
+"Table" = "Táblázat";
+"Code Fences" = "Programkód doboz";
+"Math Block" = "Képlet doboz";
+"Quote" = "Idézet";
+"Ordered List" = "Számozott felsorolás";
+"Unordered List" = "Pontozott felsorolás";
+"Task List" = "Feladatlista";
+"Task Status" = "Feladat állapota";
+"Toggle Task Status" = "Állapot váltása";
+"Mark as Complete" = "Megjelölés készként";
+"Mark as Incomplete" = "Megjelölés elvégzetlenként";
+"List Indentation" = "Felsorolás behúzása";
+"Indent" = "Lejjebb";
+"Outdent" = "Feljebb";
+"Link Reference" = "Hivatkozás";
+"Footnotes" = "Lábjegyzet";
+"Horizontal Line" = "Vízszintes vonal";
+"Table of Contents" = "Tartalomjegyzék";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Formázás";
+"Strong" = "Vastag";
+"Emphasis" = "Dőlt";
+"Underline" = "Aláhúzott";
+"Code" = "Programkód";
+"Inline Math" = "Beágyazott képlet";
+"Strike" = "Áthúzás";
+"Highlight" = "Kiemelt";
+"Superscript" = "Felső index";
+"Subscript" = "Alsó index";
+"Comment" = "Megjegyzés";
+"Hyperlink" = "Hivatkozás";
+"Image" = "Kép";
+"Clear Format" = "Formázás törlése";
+
+/* View Menu */
+"View" = "Nézet";
+"New Tab" = "Új fül";
+"Source Code Mode" = "Forráskód nézet";
+"Focus Mode" = "Fókuszált nézet";
+"Typewriter Mode" = "Írógép nézet";
+"Toggle Sidebar" = "Oldalsáv ki/be";
+"Outline" = "Vázlat";
+"Articles" = "Fájl betekintés";
+"File Tree" = "Fájlkezelő";
+"Always on Top" = "Mindig felül";
+"Full Screen" = "Teljes képernyő";
+"Show Status Bar" = "Állapotsor mutatása";
+"Toggle Fullscreen" = "Teljes képernyő ki/be";
+"Actual Size" = "Tényleges méret";
+"Zoom In" = "Nagyít";
+"Zoom Out" = "Kicsinyít";
+"Switch Between Opened Documents" = "Nyitott dokumentumok közötti váltás";
+"Toggle DevTools" = "Fejlesztői eszközök ki/be";
+
+
+/* Themes Menu */
+"Themes" = "Témák";
+
+/* Window Menu */
+"Window" = "Ablak";
+"Minimize" = "Kis méretűvé tesz";
+"Zoom" = "Nagyítás";
+"Bring All to Front" = "Összes előtérbe hozása";
+
+/* Help Menu */
+"Help" = "Súgó";
+"Privacy Policy" = "Adatvédelmi szabályzat";
+"Credits" = "Stáblista";
+"Change Log" = "Változásnapló";
+"Website" = "Weboldal";
+"Feedback" = "Visszajelzés";
+"About" = "Névjegy";
+
+/* Touchbar */
+"Block Styles" = "Blokk stílusok";
+"Inline Styles" = "Soron belüli stílus";
+"List Styles / Remove Block" = "Lista stílusok / Blokk eltávolítása";
+"Exit Source Code Mode" = "Kilépés a forráskód nézetből";
+"Toggle Source Code Mode" = "Forráskód nézet váltása";
+
+/* Extra Context Menu */
+"Table" = "Táblázat";
+"Insert Row Before" = "Sor beszúrása fölé";
+"Append Row After" = "Sor hozzáadása alá";
+"Delete Row" = "Sor törlése";
+"Insert Column Before" = "Oszlop beszúrása balra";
+"Append Column After" = "Oszlop hozzáadása jobbra";
+"Delete Column" = "Oszlop törlése";
+"Copy Table" = "Táblázat másolása";
+"Delete Table" = "Táblázat törlése";
+"Insert Paragraph After" = "Bekezdés beszúrása alá";
+"Insert Paragraph Before" = "Bekezdés beszúrása elé";
+"Delete Code Block" = "Programkód doboz törlése";
+"Copy as MathML" = "Másolás mint MathML";
+"Copy as Tex" = "Másolás mint Tex";
+"Copy Math" = "Másolás mint Math";
+"Reveal in Finder" = "Mutatás Finderben";
+"Open Link" = "Link megnyitása";
+"Reveal in Sidebar" = "Megjelenítés az Oldalsávban";
+"Open in New Window" = "Megnyitás új ablakban";
+"Copy File Path" = "Fájl útvonal másolása";
+"New File" = "Új fájl";
+"Rename" = "Átnevezés";
+"New Folder" = "Új mappa";
+"Move to Trash" = "Áthelyezés a Lomtárba";
+
+/* Electron */
+"Learn Spelling" = "Helyesírás tanulása";
+"Copy / Paste As…" = "Másolás / Beszúrás mint…";
+"Math" = "Képlet";
+"Insert" = "Beszúrás";
+"Inspect Element" = "Elem vizsgálata";
+"Copy to MS Word" = "Másolás MS Wordbe";
+"Paragraph (before)" = "Bekezdés (előtte)";
+"Paragraph (after)" = "Bekezdés (utána)";
+
+"Search with Google" = "Keresés Google-ben";
+"Search With…" = "Keresés itt…";
+
+/* Related Panel */
+"Open Failed" = "Megnyitás nem sikerült";
+"File or folder does not exist." = "A fájl vagy mappa nem létezik.";
+
+"Prettify Source Code" = "Programkód csinosítása";
+"Copy '%@'" = "'%@' másolása";
+"Copy to %@" = "Másolás ide %@";
+"Copy Image to..." = "Kép másolása ide...";
+"Upload via iPic" = "Feltöltés iPic-kel";
+"Open Image Location" = "Kép helyének megnyitása";
+
+"Learn More" = "További információ";
+"Whitespace and Line Breaks" = "Elválasztó karakterek és sortörések";
+"Indent first line of paragraphs" = "Bekezdés első sorának behúzása";
+"Visible <br/> and markdown line break" = "Látható <br/> és markdown sortörés";
+"Preserve sequential whitespace and single line break" = "Egymás utáni elválasztó karakterek és egyszeres sortörés megőrzése";

@@ -21,8 +21,9 @@ If you want to help translate Typora into other languages, we would very appreci
 - Translations in `Menu.strings` should follow <https://github.com/martnst/localize-mainmenu>.
 - If translation in <https://github.com/martnst/localize-mainmenu> is not proper on Windows/Linux, add the proper one in `Menu-electron.strings`. (see zh-Hans.lproj as one example).
 - Comment style `/* some words */` is supported, `// comment` is **NOT** supported.
+- To search the translation of terms for Windows machines you can use Microsoft's Terminology Search at <https://www.microsoft.com/en-us/language>. Other useful resources can be found at the Microsoft Language Toolbox at <https://www.microsoft.com/en-us/language/Toolbox>.
 
-## Upddates:
+## Updates:
 
 01/25/2018 Add missing text resouces: [#04218fa42](https://github.com/typora/Typora-i18n/commit/04218fa423fc29054c5dea5a24b8b9e3a82266fb)
 

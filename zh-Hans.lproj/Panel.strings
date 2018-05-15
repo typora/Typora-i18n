@@ -211,7 +211,7 @@
 "Auto wrap long lines" = "代码块自动换行";
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，深色主题暂时不支持打印。建议使用亮色主题或者选择导出到PDF";
 "Export to PDF" = "导出到PDF";
-"Pretty Indentation" = "对其缩进";
+"Pretty Indentation" = "对齐缩进";
 "Update markdown reference for this image" = "更新Markdown中的图片引用";
 
 "No special action" = "无特殊操作";

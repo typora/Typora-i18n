@@ -140,7 +140,7 @@
 "Superscript" = "Eksponent";
 "Subscript" = "Indeks";
 "Comment" = "Komentar";
-"Hyperlink" = "Hiperveza";
+"Hyperlink" = "Link";
 "Image" = "Slika";
 "Clear Format" = "Očisti Formatiranje";
 
@@ -181,14 +181,14 @@
 "Change Log" = "Evidencija promjena";
 "Website" = "Web stranica";
 "Feedback" = "Povratne informacije";
-"About" = "O";
+"About" = "O programu";
 
 /* Touchbar */
 "Block Styles" = "Block Styles";
 "Inline Styles" = "Inline Stilovi";
 "List Styles / Remove Block" = "List Styles / Remove Block";
 "Exit Source Code Mode" = "Izađi iz Izvornog Koda";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Toggle Source Code Mode" = "Uključi/Isključi Mod Izvornog Koda";
 
 /* Extra Context Menu */
 "Table" = "Tablica";
@@ -245,3 +245,7 @@
 "Indent first line of paragraphs" = "Uvuci prvu liniju paragrafa";
 "Visible <br/> and markdown line break" = "Vidljiv <br/> i markdown prijelom retka";
 "Preserve sequential whitespace and single line break" = "Sačuvaj sequential whitespace i single line break";
+
+"Save All" = "Sačuvaj sve";
+"New Window" = "Novi Prozor";
+"Reopen Closed File" = "Ponovo otvori zatvoreni fajl";

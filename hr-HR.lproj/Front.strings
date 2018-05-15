@@ -83,9 +83,9 @@
 "Outline is Empty." = "Outline je prazan.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Toggle Sidebar";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
-"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Sidebar" = "Prikaži/Skloni Bočnu Traku";
+"Toggle Source Code Mode" = "Prikaži Mod Izvornog Koda";
+"Exit Source Code Mode" = "Izađi iz moda Izvornog Koda";
 
 "Table of Contents" = "Tablica Sadržaja";
 "Empty Diagram" = "Isprazni Diagram";
@@ -128,7 +128,7 @@
 "search text" = "traži text";
 "replace with" = "zamijeni sa";
 /* search option */
-"Case Sensitive" = "Case Sensitive";
+"Case Sensitive" = "Osjetljivost na velika i mala slova";
 "Whole Word" = "Cijela Riječ";
 
 "input image URL" = "unesi link slike";

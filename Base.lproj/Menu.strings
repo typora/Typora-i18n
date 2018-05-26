@@ -249,3 +249,10 @@
 "Save All" = "Save All";
 "New Window" = "New Window";
 "Reopen Closed File" = "Reopen Closed File";
+
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";

@@ -240,3 +240,10 @@
 "Save All" = "保存全部打开的文件";
 "New Window" = "新建窗口";
 "Reopen Closed File" = "重新打开关闭的文件";
+
+"Global Image Settings" = "全局设置";
+"Smart Punctuation" = "智能标点";
+"Convert on Input" = "输入时转换";
+"Convert on Rendering" = "渲染时转换";
+"Remap Unicode Punctuation on Parse" = "解析Markdown时允许并转化Unicode标点";
+"More Options" = "更多选项";

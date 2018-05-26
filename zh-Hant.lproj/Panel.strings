@@ -34,20 +34,20 @@
 /* Editor Panel */
 "Editor" = "編輯器";
 "Indent Size on Save" = "存檔時調整縮排";
-"only apply for quotes and lists created from menubar or hybrid view" = "(僅套用產生自選單或快捷鍵生成的引號及清單有效果)";
+"only apply to quotes and lists created from menu bar or hybrid view" = "僅套用產生自選單或快捷鍵生成的引號及清單有效果";
 "Trigger Autocomplete without ESC key for" = "無需 ESC 鍵即觸發自動完成";
 "Emoji (e.g. :smile:)" = "Emoji 表情文字 (如, :smile:)";
 "Images Insert" = "插入圖片";
 "Use relative path if possible" = "優先使用相對路徑";
 "Auto Pair" = "自動配對";
 "Auto pair brackets and quotes" = "自動配對括號及引號";
-"Auto pair common markdown syntax" = "自動配對常用 markdown 語法";
+"Auto pair common Markdown syntax" = "自動配對常用 markdown 語法";
 "Live Rendering" = "即時顯示";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "停留在區塊元素時顯示其原始碼\n (包含標題等區塊元素)";
 "Default Copy Behavior" = "預設複製行為";
 "Copy Markdown source as plain text" = "複製 Markdown 為純文字";
 "Typewriter Mode" = "打字機模式";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "當打字機模式啟用時\n將游標保持在螢幕中央。";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "當打字機模式啟用時\n將游標保持在螢幕中央";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -212,7 +212,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，此版本的 Typora 不支援列印背景顏色，\n 因此不支援列印深色佈景主題。\n\n 請選擇淺色主題或將文件匯出成 PDF 檔";
 "Export to PDF" = "匯出為 PDF";
-"Pretty Indentation" = "整理縮排";
+"Pretty indentation" = "整理縮排";
 "Update markdown reference for this image" = "更新此圖片於 Markdown 中的參照";
 
 "No special action" = "無特殊操作";
@@ -220,8 +220,8 @@
 "Copy image to ./assets" = "複製圖片到資料夾 ./assets ";
 "Copy image to ./${filename}.assets" = "複製圖片到資料夾 ./${filename}.assets";
 "Upload image via iPic" = "透過 iPic 上傳圖片";
-"Apply above rules for local images" = "對本機上的圖片套用上述規則";
-"Apply above rules for online images" = "對雲端上的圖片套用上述規則";
+"Apply above rules to local images" = "對本機上的圖片套用上述規則";
+"Apply above rules to online images" = "對雲端上的圖片套用上述規則";
 "Allow upload images automatically based on YAML settings" = "允許根據 YAML 的設定自動上傳圖片";
 
 "Learn More…" = "了解更多...";
@@ -232,14 +232,14 @@
 "Ignore sequential whitespace and single line break" = "忽略連續的空格與單一換行";
 
 "Quit" = "關閉";
-"Quit Typora when last window close" = "當關閉所有視窗時自動關閉 Typora";
+"Quit Typora when last window is closed" = "當關閉所有視窗時自動關閉 Typora";
 "On Launch" = "啟動選項";
 "Open new file" = "開啟新檔";
 "Restore last closed folders" = "重新開啟上次使用的資料夾";
 "Restore last closed files and folders" = "重新開啟上次使用的檔案和資料夾";
 "Open custom folder" = "開啟指定的資料夾";
 "Select custom folder" = "選擇指定的資料夾";
-"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "此選項可能會被系統設定給覆蓋掉";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "此選項可能會被系統設定給覆蓋掉";
 
 "Ignore" = "略過";
 "Choose Default Folder" = "選擇預設資料夾";

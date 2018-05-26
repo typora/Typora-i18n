@@ -41,7 +41,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Velikost odsazení při ukládání";
-"only apply for quotes and lists created from menubar or hybrid view" = "Aplikovat pouze na citace a seznamy vytvořené z menu nebo hybridního zobrazení";
+"only apply to quotes and lists created from menu bar or hybrid view" = "Aplikovat pouze na citace a seznamy vytvořené z menu nebo hybridního zobrazení";
 "Trigger Autocomplete without ESC key for" = "Spustit automatické dokončení bez tlačítka ESC pro";
 "Emoji (e.g. :smile:)" = "Emoji (např. :smile:)";
 "Images Insert" = "Vložit obrázky";
@@ -50,13 +50,13 @@
 "Allow upload to given server" = "Povolit nahrávání na daný serveru";
 "Auto Pair" = "Automatické párování";
 "Auto pair brackets and quotes" = "Automaticky párovat závorky a uvozovky";
-"Auto pair common markdown syntax" = "Automaticky párovat častou syntaxi markdownu";
+"Auto pair common Markdown syntax" = "Automaticky párovat častou syntaxi Markdown";
 "Live Rendering" = "Živé zobrazení";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Zobrazit zdroj pro jednoduché bloky\n(včetně hlaviček, atd.) při najetí myši";
 "Default Copy Behavior" = "Standardní chování při kopírování";
 "Copy Markdown source as plain text" = "Kopírovat markdown jako prostý text";
 "Typewriter Mode" = "Mód psacího stroje";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Vždy udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Vždy udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";

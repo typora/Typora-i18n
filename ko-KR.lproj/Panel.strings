@@ -37,7 +37,7 @@
 /* Editor Panel */
 "Editor" = "에디터";
 "Indent Size on Save" = "저장 시 들여쓰기 크기";
-"only apply for quotes and lists created from menubar or hybrid view" = "메뉴 막대나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
+"only apply to quotes and lists created from menu bar or hybrid view" = "메뉴 막대나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
 "Trigger Autocomplete without ESC key for" = "ESC 키 없이 자동완성 적용:";
 "Emoji (e.g. :smile:)" = "이모티콘 (예시: :smile:)";
 "Images Insert" = "이미지 삽입";
@@ -46,7 +46,7 @@
 "Allow upload to given server" = "주어진 서버로 업로드 허용";
 "Auto Pair" = "자동 페어";
 "Auto pair brackets and quotes" = "대괄호와 따옴표 자동 페어";
-"Auto pair common markdown syntax" = "일반적인 Markdown 문법 자동 페어";
+"Auto pair common Markdown syntax" = "일반적인 Markdown 문법 자동 페어";
 "Live Rendering" = "실시간 렌더링";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "선택시 심플 블록``(제목 포함, 기타.)\n의 소스 보이기";
 "Default Copy Behavior" = "복사시 기본 동작";
@@ -216,7 +216,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "죄송합니다. 현재 버전의 Typora는 배경색을 인쇄하지 않습니다.\n따라서 다크 테마 인쇄를 아직 지원하지 않습니다. \n\n라이트 테마를 선택하거나 해당 문서를 PDF로 내보내주세요.";
 "Export to PDF" = "PDF로 내보내기";
-"Pretty Indentation" = "이쁘게 들여쓰기";
+"Pretty indentation" = "이쁘게 들여쓰기";
 "Update markdown reference for this image" = "이 이미지에 대하여 마크다운 참조하여 업데이트";
 
 
@@ -225,6 +225,6 @@
 "Copy image to ./assets" = "./assets 경로로 이미지 복사";
 "Copy image to ./${filename}.assets" = "./${filename}.assets 경로로 이미지 복사";
 "Upload image via iPic" = "iPic를 통해서 이미지 업로드";
-"Apply above rules for local images" = "로컬 이미지에 위 규칙을 적용";
-"Apply above rules for online images" = "온라인 이미지에 위 규칙을 적용";
+"Apply above rules to local images" = "로컬 이미지에 위 규칙을 적용";
+"Apply above rules to online images" = "온라인 이미지에 위 규칙을 적용";
 "Allow upload images automatically based on YAML settings" = "YAML 설정에 기반해서 이미지 자동 업로드 허용";

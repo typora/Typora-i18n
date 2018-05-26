@@ -34,20 +34,20 @@
 /* Editor Panel */
 "Editor" = "Uređivač";
 "Indent Size on Save" = "Pomak indentacije pri spremanju fajla";
-"only apply for quotes and lists created from menubar or hybrid view" = "primijeni samo na citate i liste stvorene kroz menubar ili hibridni pregled";
+"only apply to quotes and lists created from menu bar or hybrid view" = "primijeni samo na citate i liste stvorene kroz menubar ili hibridni pregled";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete bez ESC key for";
 "Emoji (e.g. :smile:)" = "Emotikoni (npr. :smile:)";
 "Images Insert" = "Umetanje slika";
 "Use relative path if possible" = "Koristi relativnu putanju ako je moguće";
 "Auto Pair" = "Automatski upari";
 "Auto pair brackets and quotes" = "Automatski upari zagrade i navodnike";
-"Auto pair common markdown syntax" = "Auto pair common markdown syntax";
+"Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
 "Live Rendering" = "Prikaz uživo";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
 "Default Copy Behavior" = "Zadano ponašanje kopiranja";
 "Copy Markdown source as plain text" = "Kopiranje Markdown izvor kao običan tekst";
 "Typewriter Mode" = "Mod pisaća mašina";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Always keep caret in middle of screen\nwhen typewriter mode is enabled.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -212,7 +212,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Trenutna verzija Typore neće ispisati boju pozadine. Tako da tamna tema još ne podržava ispis. Odaberite svjetlu temu ili izvezite ovaj dokument kao PDF.";
 "Export to PDF" = "Izvezi kao PDF";
-"Pretty Indentation" = "Lijepa Indentacija";
+"Pretty indentation" = "Lijepa Indentacija";
 "Update markdown reference for this image" = "Ažuriranje markdown referenci za ovu sliku";
 
 "No special action" = "Bez posebne akcije";
@@ -220,8 +220,8 @@
 "Copy image to ./assets" = "Kopiraj sliku u ./assets";
 "Copy image to ./${filename}.assets" = "Kopiraj sliku u ./${filename}.assets";
 "Upload image via iPic" = "Upload slike preko iPic";
-"Apply above rules for local images" = "Primijeni gornja pravila na lokalne slike";
-"Apply above rules for online images" = "Primijeni gornja pravila na slike na internetu";
+"Apply above rules to local images" = "Primijeni gornja pravila na lokalne slike";
+"Apply above rules to online images" = "Primijeni gornja pravila na slike na internetu";
 "Allow upload images automatically based on YAML settings" = "Omogući automatski upload slika baziran na YAML postavkama";
 
 "Learn More…" = "Nauči više…";

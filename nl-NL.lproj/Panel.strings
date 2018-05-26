@@ -37,20 +37,20 @@
 /* Editor Panel */
 "Editor" = "Bewerker";
 "Indent Size on Save" = "Grootte inspringen bij opslaan";
-"only apply for quotes and lists created from menubar or hybrid view" = "alleen van toepassing op citaten en lijsten gemaakt vanaf menubalk of hybride weergave";
+"only apply to quotes and lists created from menu bar or hybrid view" = "alleen van toepassing op citaten en lijsten gemaakt vanaf menubalk of hybride weergave";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete zonder ESC-toets voor";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Afbeeldingen Invoegen";
 "Use relative path if possible" = "Gebruik relatieve paden wanneer mogelijk";
 "Auto Pair" = "Automatisch Koppelen";
 "Auto pair brackets and quotes" = "Koppel brackets and quotes automatisch";
-"Auto pair common markdown syntax" = "Koppel veelgebruikte markdown syntax automatisch";
+"Auto pair common Markdown syntax" = "Koppel veelgebruikte Markdown syntax automatisch";
 "Live Rendering" = "Live Weergave";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Geef de bron weer voor eenvoudige blokken\n(inclusief koppen, etc.) in focus";
 "Default Copy Behavior" = "Standaard kopieergedrag";
 "Copy Markdown source as plain text" = "Kopieer de Markdown-bron als gewone tekst";
 "Typewriter Mode" = "Typemachine Modus";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Zorg altijd dat de cursor in het midden van het scherm blijft staan\nwanneer de schrijfmachinemodus is ingeschakeld.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Zorg altijd dat de cursor in het midden van het scherm blijft staan\nwanneer de schrijfmachinemodus is ingeschakeld";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -215,7 +215,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, de huidige versie van Typora kan geen achtergrondkleur afdrukken.\nHet donkere thema wordt nog niet ondersteund voor afdrukken. \n\nKies een licht thema of exporteer dit document naar PDF.";
 "Export to PDF" = "Exporteren naar PDF";
-"Pretty Indentation" = "Pretty Indentatie";
+"Pretty indentation" = "Pretty Indentatie";
 "Update markdown reference for this image" = "Update markdown referentie voor deze afbeelding";
 
 "No special action" = "Geen speciale actie";
@@ -223,6 +223,6 @@
 "Copy image to ./assets" = "Kopieer afbeelding naar ./assets";
 "Copy image to ./${filename}.assets" = "Kopieer afbeelding naar ./${filename}.assets";
 "Upload image via iPic" = "Upload afbeelding via iPic";
-"Apply above rules for local images" = "Pas bovenstaande keuzes toe voor lokale afbeeldingen";
-"Apply above rules for online images" = "Pas bovenstaande keuzes toe voor online afbeeldingen";
+"Apply above rules to local images" = "Pas bovenstaande keuzes toe voor lokale afbeeldingen";
+"Apply above rules to online images" = "Pas bovenstaande keuzes toe voor online afbeeldingen";
 "Allow upload images automatically based on YAML settings" = "Sta afbeeldingen uploaden automatisch toe op basis van YAML instellingen";

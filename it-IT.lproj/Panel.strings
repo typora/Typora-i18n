@@ -34,7 +34,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Indentazione";
-"only apply for quotes and lists created from menubar or hybrid view" = "applica solo a citazioni e liste create dal menu o in visualizzazione ibrida";
+"only apply to quotes and lists created from menu bar or hybrid view" = "applica solo a citazioni e liste create dal menu o in visualizzazione ibrida";
 "Trigger Autocomplete without ESC key for" = "Autocompletamento senza usare il tasto ESC";
 "Emoji (e.g. :smile:)" = "Emoji (i.e. :smile:)";
 "Images Insert" = "Inserimento immagini";
@@ -43,13 +43,13 @@
 "Allow upload to given server" = "Consenti caricamento delle immagini su\nserver";
 "Auto Pair" = "Autocompletamento";
 "Auto pair brackets and quotes" = "Completa automaticamente parentesi\ne virgolette";
-"Auto pair common markdown syntax" = "Completa automaticamente regole\nMarkdown comuni";
+"Auto pair common Markdown syntax" = "Completa automaticamente regole\nMarkdown comuni";
 "Live Rendering" = "Rendering Live";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Mostra sorgente dei blocchi di codice\nsemplici quando sono selezionati";
 "Default Copy Behavior" = "Copia predefinita";
 "Copy Markdown source as plain text" = "Copia codice Markdown come testo semplice";
 "Typewriter Mode" = "Modalità Typewriter";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Mantieni il cursore al centro dello schermo\nquando la modalità Typewriter è attiva.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Mantieni il cursore al centro dello schermo\nquando la modalità Typewriter è attiva";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";

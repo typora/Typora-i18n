@@ -35,7 +35,7 @@
 /* Editor Panel */
 "Editor" = "编辑器";
 "Indent Size on Save" = "默认缩进";
-"only apply for quotes and lists created from menubar or hybrid view" = "(只对通过菜单栏或快捷键生成的引用和列表有效)";
+"only apply to quotes and lists created from menu bar or hybrid view" = "只对通过菜单栏或快捷键生成的引用和列表有效";
 "Trigger Autocomplete without ESC key for" = "触发自动完成";
 "Emoji (e.g. :smile:)" = "Emoji表情 （例 :smile:）";
 "Images Insert" = "图片插入";
@@ -44,13 +44,13 @@
 "Allow upload to given server" = "允许向指定服务器上传图片";
 "Auto Pair" = "使用成对的符号";
 "Auto pair brackets and quotes" = "匹配括号和引号";
-"Auto pair common markdown syntax" = "匹配Markdown字符";
+"Auto pair common Markdown syntax" = "匹配Markdown字符";
 "Live Rendering" = "即时渲染";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "显示当前块元素的Markdown源码\n（支持标题等块元素）";
 "Default Copy Behavior" = "默认复制行为";
 "Copy Markdown source as plain text" = "当复制纯文本时复制Markdown源码";
 "Typewriter Mode" = "打字机模式";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "在打字机模式下，\n始终保证光标在屏幕中间";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "在打字机模式下，\n始终保证光标在屏幕中间";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -211,7 +211,7 @@
 "Auto wrap long lines" = "代码块自动换行";
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，深色主题暂时不支持打印。建议使用亮色主题或者选择导出到PDF";
 "Export to PDF" = "导出到PDF";
-"Pretty Indentation" = "对齐缩进";
+"Pretty indentation" = "对齐缩进";
 "Update markdown reference for this image" = "更新Markdown中的图片引用";
 
 "No special action" = "无特殊操作";
@@ -219,8 +219,8 @@
 "Copy image to ./assets" = "复制图片到./assets文件夹";
 "Copy image to ./${filename}.assets" = "复制图片到./${filename}.assets文件夹";
 "Upload image via iPic" = "通过iPic上传图片";
-"Apply above rules for local images" = "对本地位置的图片应用上述规则";
-"Apply above rules for online images" = "对网络位置的图片应用上述规则";
+"Apply above rules to local images" = "对本地位置的图片应用上述规则";
+"Apply above rules to online images" = "对网络位置的图片应用上述规则";
 "Allow upload images automatically based on YAML settings" = "允许根据YAML设置自动上传图片";
 
 "Learn More…" = "了解更多…";
@@ -231,14 +231,14 @@
 "Ignore sequential whitespace and single line break" = "忽略连续的空格与单个换行";
 
 "Quit" = "退出";
-"Quit Typora when last window close" = "所有窗口被关闭后自动退出Typora";
+"Quit Typora when last window is closed" = "所有窗口被关闭后自动退出Typora";
 "On Launch" = "启动选项";
 "Open new file" = "打开新文件";
 "Restore last closed folders" = "重新打开上次使用的目录";
 "Restore last closed files and folders" = "重新打开上次使用的文件和目录";
 "Open custom folder" = "打开指定目录";
 "Select custom folder" = "选择指定目录";
-"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "该选项可能会被系统设置覆盖";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "该选项可能会被系统设置覆盖";
 
 "Ignore" = "忽略";
 "Choose Default Folder" = "选择默认文件夹";

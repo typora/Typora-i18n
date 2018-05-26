@@ -34,7 +34,7 @@
 /* Editor Panel */
 "Editor" = "Edytor";
 "Indent Size on Save" = "Rozmiar wcięcia";
-"only apply for quotes and lists created from menubar or hybrid view" = "Stosuj jedynie dla cytatów oraz list z paska menu lub widoku hybrydowego";
+"only apply to quotes and lists created from menu bar or hybrid view" = "Stosuj jedynie dla cytatów oraz list z paska menu lub widoku hybrydowego";
 "Trigger Autocomplete without ESC key for" = "Aktywuj autouzupełnianie\nbez użycia klawisza Escape";
 "Emoji (e.g. :smile:)" = "Emoji (np. :smile:)";
 "Images Insert" = "Wstawianie obrazów";
@@ -43,14 +43,14 @@
 "Allow upload to given server" = "Pozwalaj na przekazywanie do danego\nserweru";
 "Auto Pair" = "Autouzupełnianie";
 "Auto pair brackets and quotes" = "nawiasy i cytaty cudzysłowów";
-"Auto pair common markdown syntax" = "znane błędy składniowe";
+"Auto pair common Markdown syntax" = "znane błędy składniowe";
 "Live Rendering" = "Ciągłe renderowanie";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Wyświetlaj źródło dla prostych bloków\n(w tym nagłówki, etc.)";
 "Default Copy Behavior" = "Domyślne kopiowanie podstawowe";
 "Copy Markdown source as plain text" = "Kopiuj tekst zgodny z markdown";
 "Typewriter Mode" = "Tryb pisarza";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = 
-"Zawsze zachowuj wstawki korektorskie na\nekranie nawet, gdy Tryb Pisarza jest włączony.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" =
+"Zawsze zachowuj wstawki korektorskie na\nekranie nawet, gdy Tryb Pisarza jest włączony";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";

@@ -35,7 +35,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Einrückungstiefe beim Speichern";
-"only apply for quotes and lists created from menubar or hybrid view" = "nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden";
+"only apply to quotes and lists created from menu bar or hybrid view" = "nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden";
 "Trigger Autocomplete without ESC key for" = "Autovervollständigung ohne Verwendung der ESC Taste für";
 "Emoji (e.g. :smile:)" = "Emoji (z.B. :smile:)";
 "Images Insert" = "Eingefügte Bilder";
@@ -44,13 +44,13 @@
 "Allow upload to given server" = "Hochladen zu vorgegebenem Server erlauben";
 "Auto Pair" = "Automatische Vervollständingung";
 "Auto pair brackets and quotes" = "Automatisches Vervollständigen von Klammern und Anführungszeichen";
-"Auto pair common markdown syntax" = "Automatische Vervollständigen für übliche Markdown Syntax";
+"Auto pair common Markdown syntax" = "Automatische Vervollständigen für übliche Markdown Syntax";
 "Live Rendering" = "Echtzeit-Vorschau";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Quelle für einfache Abschnitte\n(inkl. Überschriften, etc.) bei Fokussierung anzeigen";
 "Default Copy Behavior" = "Standardverhalten beim Kopieren";
 "Copy Markdown source as plain text" = "Markdownquellen als reinen Text kopieren";
 "Typewriter Mode" = "Schreibmaschinenmodus";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Einfügemarke immer in der Bildschirmmitte\nhalten, wenn Schreibmaschinenmodus aktiviert ist.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Einfügemarke immer in der Bildschirmmitte\nhalten, wenn Schreibmaschinenmodus aktiviert ist";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";

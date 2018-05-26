@@ -35,7 +35,7 @@
 /* Editor Panel */
 "Editor" = "Επεξεργαστής";
 "Indent Size on Save" = "Μέγεθος Εσοχής κατά την Αποθήκευση";
-"only apply for quotes and lists created from menubar or hybrid view" = "εφαρμόζεται μόνo στα εισαγωγικά και τις λίστες που δημιουργήθηκαν από το μενού ή την υβριδική προβολή";
+"only apply to quotes and lists created from menu bar or hybrid view" = "εφαρμόζεται μόνo στα εισαγωγικά και τις λίστες που δημιουργήθηκαν από το μενού ή την υβριδική προβολή";
 "Trigger Autocomplete without ESC key for" = "Ενεργοποίηση Αυτόματης Συμπλήρωσης χωρίς το πλήκτρο ESC για";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Εισαγωγή Εικόνων";
@@ -44,13 +44,13 @@
 "Allow upload to given server" = "Επιτρέψτε την μεταφόρτωση στον συγκεκριμένο εξυπηρετητή";
 "Auto Pair" = "Αυτόματη Ζεύξη";
 "Auto pair brackets and quotes" = "Αυτόματη αντιστοίχιση παρενθέσεων και εισαγωγικών";
-"Auto pair common markdown syntax" = "Αυτόματη αντιστοίχιση κοινών markdown στοιχείων";
+"Auto pair common Markdown syntax" = "Αυτόματη αντιστοίχιση κοινών Markdown στοιχείων";
 "Live Rendering" = "Ζωντανή Απόδοση";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Προβολή πηγαίου κώδικα για απλά μπλοκς \n(συμπεριλαμβανομένων κεφαλίδων, κλπ.) κατά την εστίαση";
 "Default Copy Behavior" = "Προεπιλεγμένη Συμπεριφορά Αντιγραφής";
 "Copy Markdown source as plain text" = "Αντιγραφή Markdown πηγαίου κώδικα σαν απλό κείμενο";
 "Typewriter Mode" = "Λειτουργία Γραφομηχανής";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Όταν η λειτουργία γραφομηχανής είναι ενεργή, κρατήστε την αγκύλη στο κέντρο της οθόνης.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Όταν η λειτουργία γραφομηχανής είναι ενεργή, κρατήστε την αγκύλη στο κέντρο της οθόνης";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";

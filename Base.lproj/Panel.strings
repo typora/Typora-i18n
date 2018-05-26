@@ -34,20 +34,20 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Indent Size on Save";
-"only apply for quotes and lists created from menubar or hybrid view" = "only apply for quotes and lists created from menubar or hybrid view";
+"only apply to quotes and lists created from menu bar or hybrid view" = "only apply to quotes and lists created from menu bar or hybrid view";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Images Insert";
 "Use relative path if possible" = "Use relative path if possible";
 "Auto Pair" = "Auto Pair";
 "Auto pair brackets and quotes" = "Auto pair brackets and quotes";
-"Auto pair common markdown syntax" = "Auto pair common markdown syntax";
+"Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
 "Live Rendering" = "Live Rendering";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
 "Default Copy Behavior" = "Default Copy Behavior";
 "Copy Markdown source as plain text" = "Copy Markdown source as plain text";
 "Typewriter Mode" = "Typewriter Mode";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Always keep caret in middle of screen\nwhen typewriter mode is enabled.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -212,7 +212,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
 "Export to PDF" = "Export to PDF";
-"Pretty Indentation" = "Pretty Indentation";
+"Pretty indentation" = "Pretty indentation";
 "Update markdown reference for this image" = "Update markdown reference for this image";
 
 "No special action" = "No special action";
@@ -220,8 +220,8 @@
 "Copy image to ./assets" = "Copy image to ./assets";
 "Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
 "Upload image via iPic" = "Upload image via iPic";
-"Apply above rules for local images" = "Apply above rules for local images";
-"Apply above rules for online images" = "Apply above rules for online images";
+"Apply above rules to local images" = "Apply above rules to local images";
+"Apply above rules to online images" = "Apply above rules to online images";
 "Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";
 
 "Learn More…" = "Learn More…";
@@ -232,14 +232,14 @@
 "Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
 
 "Quit" = "Quit";
-"Quit Typora when last window close" = "Quit Typora when last window close";
+"Quit Typora when last window is closed" = "Quit Typora when last window is closed";
 "On Launch" = "On Launch";
 "Open new file" = "Open new file";
 "Restore last closed folders" = "Restore last closed folders";
 "Restore last closed files and folders" = "Restore last closed files and folders";
 "Open custom folder" = "Open custom folder";
 "Select custom folder" = "Select custom folder";
-"This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences" = "This option may be overwritten by \"Close Windows When Quitting App\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an app\" in System Preferences";
 
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choose Default Folder";

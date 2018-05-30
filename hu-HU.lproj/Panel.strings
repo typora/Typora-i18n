@@ -34,20 +34,20 @@
 /* Editor Panel */
 "Editor" = "Szerkesztő";
 "Indent Size on Save" = "Behúzás mértéke mentéskor";
-"only apply for quotes and lists created from menubar or hybrid view" = "csak a menüből vagy hibrid nézetből létrehozott idézetekre és listákra érvényes";
+"only apply to quotes and lists created from menu bar or hybrid view" = "csak a menüből vagy hibrid nézetből létrehozott idézetekre és listákra érvényes";
 "Trigger Autocomplete without ESC key for" = "Automatikus kiegészítés ESC gomb nélkül ehhez";
 "Emoji (e.g. :smile:)" = "Emoji (pl. :smile:)";
 "Images Insert" = "Képek beszúrása";
 "Use relative path if possible" = "Relatív elérési út használata, ha lehet";
 "Auto Pair" = "Pár automatikus beszúrása";
 "Auto pair brackets and quotes" = "Zárójelek és idézőjelek párjának automatikus beszúrása";
-"Auto pair common markdown syntax" = "Gyakori markdown szintaxisok párjának automatikus beszúrása";
+"Auto pair common Markdown syntax" = "Gyakori Markdown szintaxisok párjának automatikus beszúrása";
 "Live Rendering" = "Azonnali megjelenítés";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "A kurzor helyén lévő egyszerű blokkok\nforráskódjának megjelenítése (pl. a fejléceké, stb.)";
 "Default Copy Behavior" = "Másolás alapértelmezett módja";
 "Copy Markdown source as plain text" = "Markdown forráskód másolása egyszerű szövegként";
 "Typewriter Mode" = "Írógép mód";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled." = "Írógép módban a kurzor mindig\nlegyen a képernyő közepén.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Írógép módban a kurzor mindig\nlegyen a képernyő közepén";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
@@ -129,11 +129,11 @@
 
 /* Windows Prefernce Panel*/
 "Appearance" = "Megjelenés";
-"System Native" = "Jelenlegi rendszer";
+"System Native" = "Operációs rendszeré";
 "Unibody" = "Unibody";
 "(applied after restart)" = "(újraindítás után lép érvénybe)";
 "Status Bar" = "Állapotsor";
-"Show status bar" = "Állapotsor megjelenítés";
+"Show status bar" = "Állapotsor megjelenítése";
 "Save & Recover" = "Mentés és visszaállítás";
 "Auto Save" = "Automatikus mentés";
 "Recover Unsaved Drafts" = "Mentetlen piszkozatok visszaállítása";
@@ -212,7 +212,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sajnos a Typora jelenleg nem tudja nyomtatni a háttérszínt.\nNyomtatásnál a sötét téma még nem támogatott. \n\nVálasszon világos témát vagy exportálja a dokumentumot PDF-be.";
 "Export to PDF" = "Exportálás PDF-be";
-"Pretty Indentation" = "Behúzás egységesítése";
+"Pretty indentation" = "Behúzás egységesítése";
 "Update markdown reference for this image" = "A kép markdown hivatkozásának frissítése";
 
 "No special action" = "Nincs speciális művelet";
@@ -220,13 +220,28 @@
 "Copy image to ./assets" = "Kép másolása az ./assets mappába";
 "Copy image to ./${filename}.assets" = "Kép másolása a ./${fájlnév}.assets mappába";
 "Upload image via iPic" = "Kép feltöltése iPic-kel";
-"Apply above rules for local images" = "Fenti szabályok alkalmazása a helyi képekre";
-"Apply above rules for online images" = "Fenti szabályok alkalmazása az online képekre";
+"Apply above rules to local images" = "Fenti szabályok alkalmazása a helyi képekre";
+"Apply above rules to online images" = "Fenti szabályok alkalmazása az online képekre";
 "Allow upload images automatically based on YAML settings" = "Képek automatikus feltöltésének engedélyezése a YAML beállítások alapján";
 
 "Learn More…" = "További információk…";
 "Whitespace / Line Break" = "Elválasztó karakterek / sortörés";
 "When Writing" = "Íráskor";
-"Export / Print" = "Exportálás / Nyomtatás";
+"Export / Print" = "Exportálás / Nyomtatáskor";
 "Preserve sequential whitespace and single line break" = "Elválasztó karakterek és egyszeres sortörés megőrzése";
 "Ignore sequential whitespace and single line break" = "Egymás utáni elválasztó karakterek és egyszeres sortörés figyelmen kívül hagyása";
+
+"Quit" = "Kilépés";
+"Quit Typora when last window is closed" = "Utolsó ablak bezárásakor kilépés a Typorából";
+"On Launch" = "Indításkor";
+"Open new file" = "Üres fájl megnyitása";
+"Restore last closed folders" = "Utoljára bezárt mappák visszaállítása";
+"Restore last closed files and folders" = "Utoljára bezárt fájlok és mappák visszaállítása";
+"Open custom folder" = "Megadott mappa megnyitása";
+"Select custom folder" = "Mappa kiválasztása";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Ezt felülbírálhatja a Beállításokban lévő \"Kilépéskor az ablakok bezárása\" lehetőség";
+
+"Ignore" = "Mellőzés";
+"Choose Default Folder" = "Alapértelmezett mappa kiválasztása";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Csere begépeléskor</strong>: A begépelt ASCII kötő- és idézőjelek nyomdai megfelelőjükre cserélődnek és így lesznek elmentve.<br/><strong>Csere megjelenítéskor</strong>: A begépelt ASCII kötő- és idézőjelek mentésre kerülnek és csak megjelenítéshez cserélődnek nyomdai megfelelőjükre.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Markdown feldolgozásakor a nyomdai unicode írásjeleket ASCII-vé alakítja vissza, pl.:<br/> <pre> 》 idézet → > idézet <br/> [link](src ’cím’) → [link](src 'cím')</pre>Automatikusan bekapcsolódik, amikor a Csere begépeléskor be van kapcsolva.<div>";

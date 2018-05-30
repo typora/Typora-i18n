@@ -245,3 +245,14 @@
 "Indent first line of paragraphs" = "Bekezdés első sorának behúzása";
 "Visible <br/> and markdown line break" = "Látható <br/> és markdown sortörés";
 "Preserve sequential whitespace and single line break" = "Egymás utáni elválasztó karakterek és egyszeres sortörés megőrzése";
+
+"Save All" = "Összes mentése";
+"New Window" = "Új ablak";
+"Reopen Closed File" = "Bezárt fájl újranyitása";
+
+"Global Image Settings" = "Globális képbeállítások";
+"Smart Punctuation" = "Okos írásjelek";
+"Convert on Input" = "Csere begépeléskor";
+"Convert on Rendering" = "Csere megjelenítéskor";
+"Remap Unicode Punctuation on Parse" = "Unicode írásjelek átalakítása feldolgozáskor";
+"More Options" = "További beállítások";

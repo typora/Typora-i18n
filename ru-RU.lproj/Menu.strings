@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "Таблица";
-"Insert Row Before" = "Вставить строку перед";
-"Append Row After" = "Добавить строку после";
+"Add Row Above" = "Вставить строку перед";
+"Add Row Below" = "Добавить строку после";
 "Delete Row" = "Удалить строку";
-"Insert Column Before" = "Вставить колонку перед";
-"Append Column After" = "Добавить колонку после";
+"Add Column Before" = "Вставить колонку перед";
+"Add Column After" = "Добавить колонку после";
 "Delete Column" = "Удалить колонку";
 "Copy Table" = "Копировать таблицу";
 "Delete Table" = "Удалить таблицу";

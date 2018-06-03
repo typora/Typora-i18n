@@ -198,11 +198,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tabulka";
-"Insert Row Before" = "Přidat řádek před";
-"Append Row After" = "Přidat řádek za";
+"Add Row Above" = "Přidat řádek před";
+"Add Row Below" = "Přidat řádek za";
 "Delete Row" = "Smazat řádek";
-"Insert Column Before" = "Vložit sloupec před";
-"Append Column After" = "Vložit sloupec za";
+"Add Column Before" = "Vložit sloupec před";
+"Add Column After" = "Vložit sloupec za";
 "Delete Column" = "Smazat sloupec";
 "Copy Table" = "Kopírovat tabulku";
 "Delete Table" = "Smazat tabulku";

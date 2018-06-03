@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "Táblázat";
-"Insert Row Before" = "Sor beszúrása fölé";
-"Append Row After" = "Sor hozzáadása alá";
+"Add Row Above" = "Sor beszúrása fölé";
+"Add Row Below" = "Sor hozzáadása alá";
 "Delete Row" = "Sor törlése";
-"Insert Column Before" = "Oszlop beszúrása balra";
-"Append Column After" = "Oszlop hozzáadása jobbra";
+"Add Column Before" = "Oszlop beszúrása balra";
+"Add Column After" = "Oszlop hozzáadása jobbra";
 "Delete Column" = "Oszlop törlése";
 "Copy Table" = "Táblázat másolása";
 "Delete Table" = "Táblázat törlése";

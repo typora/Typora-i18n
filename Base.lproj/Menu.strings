@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "Table";
-"Insert Row Before" = "Insert Row Before";
-"Append Row After" = "Append Row After";
+"Add Row Above" = "Add Row Above";
+"Add Row Below" = "Add Row Below";
 "Delete Row" = "Delete Row";
-"Insert Column Before" = "Insert Column Before";
-"Append Column After" = "Append Column After";
+"Add Column Before" = "Add Column Before";
+"Add Column After" = "Add Column After";
 "Delete Column" = "Delete Column";
 "Copy Table" = "Copy Table";
 "Delete Table" = "Delete Table";

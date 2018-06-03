@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tablica";
-"Insert Row Before" = "Umetni redak prije";
-"Append Row After" = "Dodaj red nakon";
+"Add Row Above" = "Umetni redak prije";
+"Add Row Below" = "Dodaj red nakon";
 "Delete Row" = "Obriši Redak";
-"Insert Column Before" = "Umetni stupac prije";
-"Append Column After" = "Dodaj stupac nakon";
+"Add Column Before" = "Umetni stupac prije";
+"Add Column After" = "Dodaj stupac nakon";
 "Delete Column" = "Obriši Stupac";
 "Copy Table" = "Kopiraj Tablicu";
 "Delete Table" = "Obriši Tablicu";

@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tabela";
-"Insert Row Before" = "Wstaw wiersz przed";
-"Append Row After" = "Wstaw wiersz po";
+"Add Row Above" = "Wstaw wiersz przed";
+"Add Row Below" = "Wstaw wiersz po";
 "Delete Row" = "Usuń wiersz";
-"Insert Column Before" = "Wstaw kolumnę przed";
-"Append Column After" = "Wstaw kolumnę po";
+"Add Column Before" = "Wstaw kolumnę przed";
+"Add Column After" = "Wstaw kolumnę po";
 "Delete Column" = "Usuń kolumnę";
 "Copy Table" = "Kopiuj tabelę";
 "Delete Table" = "Usuń tabelę";

@@ -192,11 +192,11 @@
 
 /* Extra Context Menu */
 "Table" = "表格";
-"Insert Row Before" = "插入上方列";
-"Append Row After" = "插入下方列";
+"Add Row Above" = "插入上方列";
+"Add Row Below" = "插入下方列";
 "Delete Row" = "刪除列";
-"Insert Column Before" = "插入左方欄";
-"Append Column After" = "插入右方欄";
+"Add Column Before" = "插入左方欄";
+"Add Column After" = "插入右方欄";
 "Delete Column" = "刪除欄";
 "Copy Table" = "複製表格";
 "Delete Table" = "刪除表格";

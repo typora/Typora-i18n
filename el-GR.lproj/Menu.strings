@@ -193,11 +193,11 @@
 
 /* Extra Context Menu */
 "Table" = "Πίνακας";
-"Insert Row Before" = "Εισαγωγή Σειράς Πριν";
-"Append Row After" = "Εισαγωγή Σειράς Μετά";
+"Add Row Above" = "Εισαγωγή Σειράς Πριν";
+"Add Row Below" = "Εισαγωγή Σειράς Μετά";
 "Delete Row" = "Διαγραφή Σειράς";
-"Insert Column Before" = "Εισαγωγή Στήλης Πριν";
-"Append Column After" = "Εισαγωγή Στήλης Μετά";
+"Add Column Before" = "Εισαγωγή Στήλης Πριν";
+"Add Column After" = "Εισαγωγή Στήλης Μετά";
 "Delete Column" = "Διαγραφή Στήλης";
 "Copy Table" = "Αντιγραφή Πίνακα";
 "Delete Table" = "Διαγραφή Πίνακα";

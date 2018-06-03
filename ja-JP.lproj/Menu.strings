@@ -200,11 +200,11 @@
 
 /* Extra Context Menu */
 "Table" = "表";
-"Insert Row Before" = "前に行を挿入";
-"Append Row After" = "後ろに行を追加";
+"Add Row Above" = "前に行を挿入";
+"Add Row Below" = "後ろに行を追加";
 "Delete Row" = "行を削除";
-"Insert Column Before" = "前に列を追加";
-"Append Column After" = "後ろに列を追加";
+"Add Column Before" = "前に列を追加";
+"Add Column After" = "後ろに列を追加";
 "Delete Column" = "列を削除";
 "Copy Table" = "表をコピー";
 "Delete Table" = "表を削除";

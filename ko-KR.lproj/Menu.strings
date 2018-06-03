@@ -194,11 +194,11 @@
 
 /* Extra Context Menu */
 "Table" = "표";
-"Insert Row Before" = "앞에 행 삽입";
-"Append Row After" = "뒤에 행 삽입";
+"Add Row Above" = "앞에 행 삽입";
+"Add Row Below" = "뒤에 행 삽입";
 "Delete Row" = "행 삭제";
-"Insert Column Before" = "앞에 열 삽입";
-"Append Column After" = "뒤에 열 삽입";
+"Add Column Before" = "앞에 열 삽입";
+"Add Column After" = "뒤에 열 삽입";
 "Delete Column" = "열 삭제";
 "Copy Table" = "표 복사";
 "Delete Table" = "표 삭제";

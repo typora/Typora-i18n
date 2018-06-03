@@ -193,11 +193,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tabelle";
-"Insert Row Before" = "Zeile oberhalb einfügen";
-"Append Row After" = "Zeile unterhalb einfügen";
+"Add Row Above" = "Zeile oberhalb einfügen";
+"Add Row Below" = "Zeile unterhalb einfügen";
 "Delete Row" = "Zeile löschen";
-"Insert Column Before" = "Spalte links einfügen";
-"Append Column After" = "Spalte rechts einfügen";
+"Add Column Before" = "Spalte links einfügen";
+"Add Column After" = "Spalte rechts einfügen";
 "Delete Column" = "Spalte löschen";
 "Copy Table" = "Tabelle kopieren";
 "Delete Table" = "Tabelle löschen";

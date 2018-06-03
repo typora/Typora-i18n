@@ -191,11 +191,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tableau";
-"Insert Row Before" = "Insérer ligne avant";
-"Append Row After" = "Insérer ligne après";
+"Add Row Above" = "Insérer ligne avant";
+"Add Row Below" = "Insérer ligne après";
 "Delete Row" = "Supprimer ligne";
-"Insert Column Before" = "Insérer colonne avant";
-"Append Column After" = "Insérer colonne après";
+"Add Column Before" = "Insérer colonne avant";
+"Add Column After" = "Insérer colonne après";
 "Delete Column" = "Supprimer colonne";
 "Copy Table" = "Copier tableau";
 "Delete Table" = "Supprimer tableau";

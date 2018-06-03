@@ -195,11 +195,11 @@
 
 /* Extra Context Menu */
 "Table" = "Tabel";
-"Insert Row Before" = "Voeg Rij Voor In";
-"Append Row After" = "Voeg Rij Achter In";
+"Add Row Above" = "Voeg Rij Voor In";
+"Add Row Below" = "Voeg Rij Achter In";
 "Delete Row" = "Verwijder Rij";
-"Insert Column Before" = "Voeg Kolom Voor In";
-"Append Column After" = "Voeg Kolom Achter In";
+"Add Column Before" = "Voeg Kolom Voor In";
+"Add Column After" = "Voeg Kolom Achter In";
 "Delete Column" = "Verwijder Kolom";
 "Copy Table" = "Kopieer Tabel";
 "Delete Table" = "Verwijder Tabel";

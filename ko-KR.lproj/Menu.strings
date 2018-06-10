@@ -179,7 +179,7 @@
 
 /* Help Menu */
 "Help" = "도움말";
-"Privacy Policy" = "Privacy Policy";
+"Privacy Policy" = "개인 정보 정책";
 "Credits" = "크레딧";
 "Change Log" = "변경 사항";
 "Website" = "웹사이트";
@@ -243,19 +243,19 @@
 "Upload via iPic" = "iPic를 통해서 업로드";
 "Open Image Location" = "이미지 위치 열기";
 
-"Learn More" = "Learn More";
-"Whitespace and Line Breaks" = "Whitespace and Line Breaks";
-"Indent first line of paragraphs" = "Indent first line of paragraphs";
-"Visible <br/> and markdown line break" = "Visible <br/> and markdown line break";
-"Preserve sequential whitespace and single line break" = "Preserve sequential whitespace and single line break";
+"Learn More" = "더 알아보기";
+"Whitespace and Line Breaks" = "공백 및 줄바꿈";
+"Indent first line of paragraphs" = "문단의 첫 줄 들여쓰기";
+"Visible <br/> and markdown line break" = "<br/>과 마크다운 줄바꿈 보이기";
+"Preserve sequential whitespace and single line break" = "연속된 공백과 단일 줄바꿈 유지하기";
 
-"Save All" = "Save All";
-"New Window" = "New Window";
-"Reopen Closed File" = "Reopen Closed File";
+"Save All" = "모두 저장";
+"New Window" = "새 창 열기";
+"Reopen Closed File" = "닫은 파일 열기";
 
-"Global Image Settings" = "Global Image Settings";
-"Smart Punctuation" = "Smart Punctuation";
-"Convert on Input" = "Convert on Input";
-"Convert on Rendering" = "Convert on Rendering";
-"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
-"More Options" = "More Options";
+"Global Image Settings" = "전역 이미지 설정";
+"Smart Punctuation" = "스마트 문장부호";
+"Convert on Input" = "입력 시 변환";
+"Convert on Rendering" = "출력 시 변환";
+"Remap Unicode Punctuation on Parse" = "마크다운 해석 시 유니코드 문장부호를 아스키로 변환";
+"More Options" = "상세 설정";

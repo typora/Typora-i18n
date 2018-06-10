@@ -179,6 +179,7 @@
 
 /* Help Menu */
 "Help" = "도움말";
+"Privacy Policy" = "Privacy Policy";
 "Credits" = "크레딧";
 "Change Log" = "변경 사항";
 "Website" = "웹사이트";
@@ -241,3 +242,20 @@
 "Copy Image to..." = "다음으로 이미지 복사";
 "Upload via iPic" = "iPic를 통해서 업로드";
 "Open Image Location" = "이미지 위치 열기";
+
+"Learn More" = "Learn More";
+"Whitespace and Line Breaks" = "Whitespace and Line Breaks";
+"Indent first line of paragraphs" = "Indent first line of paragraphs";
+"Visible <br/> and markdown line break" = "Visible <br/> and markdown line break";
+"Preserve sequential whitespace and single line break" = "Preserve sequential whitespace and single line break";
+
+"Save All" = "Save All";
+"New Window" = "New Window";
+"Reopen Closed File" = "Reopen Closed File";
+
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";

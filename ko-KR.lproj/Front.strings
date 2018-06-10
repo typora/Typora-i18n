@@ -136,3 +136,4 @@
 
 "input image URL" = "이미지 URL 입력";
 "Select image from local file" = "로컬 파일에서 이미지 선택";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";

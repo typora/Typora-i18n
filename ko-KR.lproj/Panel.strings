@@ -69,8 +69,8 @@
 "Strict Mode" = "엄격 모드";
 "(more strict to GFM spec)" = "(GFM 스펙을 더 준수)";
 "Heading Style" = "제목 스타일";
-"Ordered List" = "순서가 있는 목록";
 "Unordered List" = "순서가 없는 목록";
+"Ordered List" = "순서가 있는 목록";
 "Code Fences" = "코드 펜스";
 "Display line numbers for code fences" = "코드 펜스에서 줄번호 보이기";
 "Math Blocks" = "수식 블록";
@@ -124,6 +124,7 @@
 "Do not show this again" = "다시 보지 않기";
 
 /* Word Count */
+"%d Words" = "%d개 단어";
 "Minutes" = "분";
 "Lines" = "줄";
 "Words" = "단어";
@@ -228,3 +229,25 @@
 "Apply above rules to local images" = "로컬 이미지에 위 규칙을 적용";
 "Apply above rules to online images" = "온라인 이미지에 위 규칙을 적용";
 "Allow upload images automatically based on YAML settings" = "YAML 설정에 기반해서 이미지 자동 업로드 허용";
+
+"Learn More…" = "더 알아보기…";
+"Whitespace / Line Break" = "공백 / 줄 바꿈";
+"When Writing" = "문서 작성 중";
+"Export / Print" = "내보내기 / 인쇄";
+"Preserve sequential whitespace and single line break" = "공백과 줄바꿈 유지";
+"Ignore sequential whitespace and single line break" = "공백과 줄바꿈 무시";
+
+"Quit" = "종료";
+"Quit Typora when last window is closed" = "마지막 창 종료 시 Typora 종료";
+"On Launch" = "프로그램 시작 시";
+"Open new file" = "새 파일 열기";
+"Restore last closed folders" = "마지막 폴더 열기";
+"Restore last closed files and folders" = "마지막 파일과 폴더 열기";
+"Open custom folder" = "사용자 정의 폴더 열기";
+"Select custom folder" = "사용자 정의 폴더 선택";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "이 옵션은 시스템 환경설정의 \"Typora 종료 시 윈도우 닫기\" 옵션에 의해 변경될 수 있습니다.";
+
+"Ignore" = "무시";
+"Choose Default Folder" = "기본 폴더 선택";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>입력 시 변환</strong>: 아스키 대시, 아스키 따옴표 입력 시 각각 유니코드 대시, 꺽인 따옴표로 변환되고 변환된 채로 저장됩니다.<br/><strong>출력 시 변환</strong>: 아스키 대시, 아스키 따옴표 입력 시 각각 유니코드 대시, 꺽인 따옴표로 변환되어 출력됩니다.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>마크다운 해석 시 유니코드 문장부호를 아스키 문장부호로 인식합니다, 예시:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>이 설정은 스마트 인용, 스마트 대시의 설정이 입력 시 변환일 경우 자동으로 활성화됩니다.<div>";

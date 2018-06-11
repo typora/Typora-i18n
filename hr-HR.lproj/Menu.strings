@@ -8,7 +8,7 @@
 
 
 "About Typora" = "O Typora";
-"Preferences" = "Preference";
+"Preferences" = "Postavke";
 "Check for Updates" = "Provjeri ažuriranja";
 "Services" = "Usluge";
 "Hide Typora" = "Sakrij Typora";
@@ -28,7 +28,7 @@
 "Clear Items" = "Uklanjanje stavki";
 "No Recent Files" = "Nema nedavno korištenih fajlova";
 "Open Quickly" = "Brzo otvaranje";
-"Open File Location" = "Otvori mjesto datoteke";
+"Open File Location" = "Otvori lokaciju datoteke";
 "Reveal in Library" = "Otkrij u Knjižnici";
 "Reveal in File Tree" = "Otkrij u Stablu Datoteka";
 "Close" = "Zatvori";

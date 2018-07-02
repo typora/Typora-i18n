@@ -14,10 +14,10 @@
 "Close" = "Schließen";
 "Select" = "Auswählen";
 "Continue" = "Fortsetzen";
-"Learn More…" = "Weitere Infos…";
+"Learn More…" = "Mehr Erfahren…";
 "Untitled" = "Unbenannt";
 "Undo" = "Widerrufen";
-"Dismiss" = "Schließen";
+"Dismiss" = "Schliessen";
 "Confirm" = "Bestätigen";
 "Error" = "Fehler";
 
@@ -29,16 +29,16 @@
 "search text" = "Suchtext";
 
 /* Quick Open */
-"Search by file name" = "Suchen nach Dateinamen";
+"Search by file name" = "Suche nach Dateiname";
 "Searching" = "Suchen";
-"Gathering more results" = "Weitere Ergebnisse";
+"Gathering more results" = "Weitere Ergebnisse sammeln";
 
 /* Tables */
 "Insert Table" = "Tabelle einfügen";
 "Columns" = "Spalten";
 "Rows" = "Zeilen";
 "Align Left" = "Linksbündig";
-"Align Center" = "Mittig";
+"Align Center" = "Zentriert";
 "Align Right" = "Rechtsbündig";
 "Resize Table" = "Tabellengröße ändern";
 "Delete Table" = "Tabelle löschen";
@@ -57,8 +57,8 @@
 "Articles" = "Artikel";
 "Outline" = "Gliederung";
 "Files" = "Dateien";
-"Switch to File List view" = "Zur Dateilistensicht wechseln";
-"Switch to File Tree view" = "Zur Dateibaumsicht wechseln";
+"Switch to File List view" = "Zur Dateilistenansicht wechseln";
+"Switch to File Tree view" = "Zur Dateibaumansicht wechseln";
 "Switch to Outline view" = "Zur Gliederungssicht wechseln";
 "Close sidebar" = "Seitenleiste schließen";
 "Loading" = "Laden";

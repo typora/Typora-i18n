@@ -17,7 +17,7 @@
 "Seamless window only support OS X later than 10.10." = "Seamless样式只支持10.10以上macOS版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "请参考`帮助`->`Quick Start`，或访问http://theme.typora.io获取更多主题与指导。";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考`帮助`->`Quick Start`，或访问http://theme.typora.io获取更多主题与指导。";
 "Word Count" = "字数统计";
 "Always Show Word Count" = "总是显示字数统计";
 "Font Size" = "字体大小";

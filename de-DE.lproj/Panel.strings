@@ -16,8 +16,8 @@
 "Seamless" = "Nahtlos";
 "Seamless window only support OS X later than 10.10." = "Nahtlose Fenster werden erst ab macOS 10.10. und neuer unterstützt";
 "Themes" = "Themen";
-"Open Theme Folder" = "Themen Ordner öffnen";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Bitte nutzen Sie `Hilfe`->`Quick Start` für eine kurze Einführung. Besuchen Sie http://theme.typora.io um mehr Themen oder Anleitungen zu bekommen.";
+"Open Theme Folder" = "Themenordner öffnen";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Bitte nutzen Sie `Hilfe`->`Quick Start` für eine kurze Einführung. Besuchen Sie http://theme.typora.io um mehr Themen oder Anleitungen zu bekommen.";
 "Word Count" = "Wortanzahl";
 "Always Show Word Count" = "Wortanzahl immer zeigen";
 "Font Size" = "Schriftgröße";
@@ -210,4 +210,4 @@
 
 "Total" = "Gesamt";
 "Word count only support OS X later than 10.10." = "Wörteranzahl wird erst von OS X neuer als 10.10. unterstützt";
-"Indent Size for Code" = "Einrückungsweite für Code";
+"Indent Size for Code" = "Einrückungsmaß für Code";

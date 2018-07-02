@@ -16,7 +16,7 @@
 "Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только в OS X не ниже версии 10.10.";
 "Themes" = "Темы";
 "Open Theme Folder" = "Открыть директорию тем";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
 "Word Count" = "Количество слов";
 "Always Show Word Count" = "Всегда показывать количество слов";
 "Font Size" = "Размер шрифта";

@@ -19,7 +19,7 @@
 "Seamless window only support OS X later than 10.10." = "Seamless 윈도우 스타일은 OS X 10.10 이후부터 지원합니다.";
 "Themes" = "테마";
 "Open Theme Folder" = "테마 폴더 열기";
-"Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "`도움말`->`빠른 시작`에서 짧은 설명을 확인해 주세요. http://theme.typora.io 를 방문하여 더 많은 테마와 지침을 확인하세요.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "`도움말`->`빠른 시작`에서 짧은 설명을 확인해 주세요. http://theme.typora.io 를 방문하여 더 많은 테마와 지침을 확인하세요.";
 "Word Count" = "단어수 세기";
 "Always Show Word Count" = "항상 단어수 표시";
 "Font Size" = "서체 크기";

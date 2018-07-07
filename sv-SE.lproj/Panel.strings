@@ -1,0 +1,247 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+
+/* Preference Panel */
+"Preferences" = "Inställningar";
+
+/* General Panel */
+"General" = "Allmänt";
+"Window Style" = "Fönsterstil";
+"Classic" = "Klassisk";
+"Seamless" = "Sömlös";
+"Seamless window only support OS X later than 10.10." = "Sömlöst fönster stöds endast av OS X nyare än 10.10.";
+"Themes" = "Teman";
+"Open Theme Folder" = "Öppna temamapp";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Gå till `hjälp`->`Snabbstart` för en kort introduktion. Besök http://theme.typora.io för att hämta fler teman eller få mer hjälp.";
+"Word Count" = "Ordräknare"; /* Context? */
+"Always Show Word Count" = "Visa alltid ordräknare";
+"Font Size" = "Teckenstorlek";
+"Auto ( Recommended )" = "Auto ( Rekommenderad )";
+"Customized" = "Anpassad";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Om en anpassad teckenstorlek används kommer den faktiska storleken bero på teckensnittets grundstorlek och den css-styling som används.";
+"Left Panel" = "Vänster panel";
+"Show Outline Panel by Default" = "Visa översiktspanelen som standard";
+"Collapsible Outline on Left Panel" = "Hopfällbar översikt på vänsterpanelen";
+"Save without asking when\nswitch files on side panel" = "Spara utan att fråga\nvid filbyte i sidopanelen";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Redigerade filer kommer sparas utan att fråga vid byte av filer i vänsterpanelen. \nNär \"Fråga om ändringar ska sparas när dokument stängs\" är aktiverat i systeminställningarna är detta alltid aktiverat.";
+"Language" = "Språk";
+"System Language" = "Systemspråk";
+
+/* Editor Panel */
+"Editor" = "Editor";
+"Indent Size on Save" = "Indragsstorlek"; /* Lit. 'Indent Size' - Hard to translate 'on save' */
+"only apply to quotes and lists created from menu bar or hybrid view" = "använd bara för citat och listor skpade från menyraden eller hybridvyn";
+"Trigger Autocomplete without ESC key for" = "Aktivera automatisk komplettering utan ESC för";
+"Emoji (e.g. :smile:)" = "Emoji (t.ex. :smile:)";
+"Images Insert" = "Insättning av bilder";
+"Use relative path if possible" = "Använd relativa sökvägar om möjligt";
+"Auto Pair" = "Automatisk matchning";
+"Auto pair brackets and quotes" = "Matcha automatiskt paranteser och citattecken";
+"Auto pair common Markdown syntax" = "Matcha automatiskt vanlig Markdown syntax";
+"Live Rendering" = "Liverendering";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Visa källa för enkla block\n(inklusive rubriker, etc.) vid fokus";
+"Default Copy Behavior" = "Kopieringsbeteende";
+"Copy Markdown source as plain text" = "Kopiera markdownkällor som oformaterad text";
+"Typewriter Mode" = "Skrivmaskinsläge";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Håll alltid markören centrerad\nnär skrivmaskinsläge är aktiverat";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Följande inställningar kommer appliceras efter omstart.)";
+"Syntax Support" = "Syntaxstöd";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Inline matte ( t.ex: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Nedsänkt text   ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Upphöjd text    ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Markering       (e.g: ==key==)";
+"Diagrams" = "Diagram";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart och Mermaid)";
+"Syntax Preference" = "Syntaxinställning";
+"(only apply for styles created from menubar or hybrid view)" = "(använd bara för stilar skapade från menyraden eller hybridvyn)";
+"Strict Mode" = "Strikt läge";
+"(more strict to GFM spec)" = "(Striktare enligt GFM specifikationen)";
+"Heading Style" = "Rubrikstil";
+"Unordered List" = "Oordnad lista";
+"Ordered List" = "Ordnad lista";
+"Code Fences" = "Kodblock";
+"Display line numbers for code fences" = "Visa radnummer för kodblock";
+"Math Blocks" = "Matteblock";
+"Auto Numbering Math Equations" = "Numrera ekvationer automatiskt";
+
+/* Security Panel */
+"Security" = "Säkerhet";
+"Enable Debug" = "Aktivera felsökning";
+"Send Anonymous Usage Info" = "Skicka anonym användningsdata";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Pandoc krävs för att fortsätta...";
+"Follow instructions to install Pandoc" = "Följ instruktionerna för att installera Pandoc";
+"Cancel" = "Avbryt";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importerar...";
+"Importing in progress..." = "Import pågår...";
+"Converting file with Pandoc. This may take some time." = "Konverterar filen med Pandoc. Detta kan ta lite tid.";
+"Abort" = "Avbryt";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Exporterar...";
+"Exporting in progress..." = "Export pågår...";
+"Converting file with Pandoc. This may take some time." = "Konverterar filen med Pandoc. Detta kan ta lite tid.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc krävs för att importera dessa filformat";
+"Check help->Install and use Pandoc from menubar for detail" = "Gå till hjälp->Installera och använd Pandoc från menyraden för mer info";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import och vissa exportfunktioner kräver att <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) är installerat.";
+"Follow Instructions to Install/Update Pandoc" = "Följ instruktionerna för att installera/uppdatera Pandoc";
+"Export Failed" = "Export misslyckades";
+"Import Failed" = "Import misslyckades";
+"Generated Image too Large" = "Genererad bild är för stor";
+"Failed to export file to <em>{0}</em>" = "Kunde inte exportera till <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Kunde inte importera från <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Filen existerar inte vid <em>{0}</em>";
+"Export to..." = "Exportera till...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vill du spara dina ändringar till det här dokumentet ?<br> Dina ändringar kommer förloras om du inte sparar dem.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Misslyckades med att infoga ett bokmärke i PDF-filen."; /* Is there another word than 'bookmark' that could be used here? The swedish translation of 'Bokmärke' might be too synonymous with the physical bookmark used in physical books */
+"Dark Theme not support" = "Mörkt tema stöds ej";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Tyvärr kan inte denna version av Typora spara bakgrundsfärg i exporterade PDF dokument. Ett mörkt tema kan därför inte användas för att exportera till PDF. \nByt till ett ljust tema eller klicka på \"Skriv ut med standardtema\" för att fortsätta.";
+"Print with default theme" = "Skriv ut med standardtema";
+"Export to PDF successfully." = "Export till PDF lyckades.";
+"Converting file using Pandoc. This may take some time." = "Konverterar filen med Pandoc. Detta kan ta lite tid.";
+"Exporting file using Pandoc. This may take some time." = "Exporterar filen med Pandoc. Detta kan ta lite tid.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Laddar upp bilder via iPic...";
+"Uploading in progress..." = "Uppladdning pågår...";
+"Do not show this again" = "Visa inte detta igen";
+
+/* Word Count */
+"%d Words" = "%d Ord";
+"Minutes" = "Minuter";
+"Lines" = "Rader";
+"Words" = "Ord";
+"Characters" = "Tecken";
+"In Selection" = "Markerade";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Utseende";
+"System Native" = "System";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(appliceras efter omstart)";
+"Status Bar" = "Statusraden";
+"Show status bar" = "Visa statusraden";
+"Save & Recover" = "Spara & Återställ";
+"Auto Save" = "Spara automatiskt";
+"Recover Unsaved Drafts" = "Återställ osparade utkast";
+"Emoji Autocomplete" = "Autokomplettering av Emoji";
+"Trigger by ESC key" = "Vid tryck på ESC";
+"Trigger automatically" = "Automatiskt";
+"Default Line Ending" = "Radbryt";
+"Line ending for new file" = "Radbryt för nya filer";
+"Spell Check" = "Stavningskontroll";
+"(support US English only)" = "(endast stöd för amerikansk engelska)";
+"Enable spell check" = "Aktivera stavningskontroll";
+"Auto correct spelling" = "Korrigera stavning automatiskt";
+"System" = "System";
+"Privacy" = "Integritet";
+"Developer" = "Utvecklare";
+"Update" = "Uppdatera";
+"Check Updates" = "Sök efter uppdateringar";
+"Check updates automatically" = "Sök efter uppdateringar automatiskt";
+"Advanced Settings" = "Avancerade inställningar";
+"Open Advanced Settings" = "Öppna avancerade inställningar";
+"Reset Advanced Settings" = "Återställ avancerade inställningar";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installeras."; /* That the latest version is installed or that the latest version is to be installed? */
+"Get iPic" = "Skaffa iPic";
+"Cannot Continue…" = "Kan inte fortsätta…";
+"This feature require macOS >= 10.11" = "Denna funktion kräver macOS >= 10.11";
+"One More Step" = "Ett steg till";
+"Notice" = "Notera"; /* Context? */
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Detta kräver att iPic installeras. Bildfilerna kommer laddas upp till molntjänster via iPic. Notera att molntjänsten inte stödjer borttagning av en uppladdad bild.";
+
+"%d Images Failed to Upload." = "%d bilder kunde inte laddas upp.";
+"%d Succeeded," = "%d lyckades,";
+"Enable this feature on preferences panel" = "Aktivera denna funktion i inställningspanelen";
+"The option `%@` must be enabled first" = "`%@` måste vara aktiverat först.";
+"%@ is a file, not a directory" = "%@ är en fil, inte en mapp";
+"Copy Images To…" = "Kopiera bilder till…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora försöker kopiera den infogade bilden till %@ i enlighet med inställningarna i din YAML-metadata. Tyvärr finns inte målmappen ännu. Vill du skapa den nu?";
+"Create Folder and Continue" = "Skapa mapp och fortsätt";
+"Document must be saved first" = "Dokumentet måste sparas först";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kommer kopiera den infogade bilden till den valda relativa sökvägen. Vänligen spara filen först.";
+"Open Operation Failed" = "Öppning misslyckades";
+
+"Support Documentation" = "Hjälpdokumentation"; /* Might 'Documentation' suffice? */
+
+"Markdown File" = "Markdownfil";
+"Plain Text File" = "Textfil";
+"All Files" = "Alla filer";
+"All Supported Formats" = "Alla stödda format";
+"Discard Changes" = "Ignorera ändringar";
+"Discard" = "Ignorera ändringar"; /* There is no direct translation of 'discard', it's a bit more contextual in swedish */
+
+"Menu" = "Meny";
+"Back" = "Tillbaka";
+
+"Contact" = "Kontakt";
+"Open From..." = "Öppna från...";
+"Import..." = "Importera...";
+"Recent Documents" = "Senast öppnade dokument";
+"Search for…" = "Sök efter…";
+"Clear Recent Documents" = "Rensa senast öppnade dokument";
+"File Name" = "Filnamn";
+"Path" = "Sökväg";
+"Export As..." = "Exportera som...";
+"More Formats" = "Fler format";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformat listade under 'Fler format' kräver att <a class='open-pandoc-guide'>Pandoc är installerat</a>.";
+"Something is Wrong…" = "Något är fel…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Av någon anledning kunde inte innehållet sparas.<br/>Du kan prova att kopiera innehållet till ett nytt Typora-fönster och spara där. <br/>Läs mer:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Rapportera problem till oss</a></li><li><a href='http://support.typora.io/Version-Control//'>Återställ förlorat innehåll</a></li></ul>";
+"Copy Content" = "Kopiera innehåll";
+
+
+"Total" = "Total";
+"Word count only support OS X later than 10.10." = "Ordräkning stöds endast av OS X nyare än 10.10.";
+"Indent Size for Code" = "Storlek på indrag för kod";
+"Auto wrap long lines" = "Radbryt långa textrader automatiskt";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Tyvärr kan inte denna version av Typora skriva ut bakgrundsfärg i dokument. Ett mörkt tema kan därför inte användas för utskrifter. \nByt till ett ljust tema eller exportera dokumentet som PDF i stället.";
+"Export to PDF" = "Exportera som PDF";
+"Pretty indentation" = "Snyggt indrag"; /* Context? */
+"Update markdown reference for this image" = "Uppdatera markdownreferensen för denna bild";
+
+"No special action" = "Ingen extra behandling";
+"Copy image to current folder (./)" = "Kopiera bild till nuvarande mapp (./)";
+"Copy image to ./assets" = "Kopiera bild till ./assets";
+"Copy image to ./${filename}.assets" = "Kopiera bild till ./${filename}.assets";
+"Upload image via iPic" = "Ladda upp bild via iPic";
+"Apply above rules to local images" = "Använd ovanstående regler för lokala bilder";
+"Apply above rules to online images" = "Använd ovanstående regler för onlinebilder";
+"Allow upload images automatically based on YAML settings" = "Tillåt automatisk uppladdning av bilder baserat på YAML inställningar";
+
+"Learn More…" = "Läs mer…";
+"Whitespace / Line Break" = "Whitespace / Radbryt";
+"When Writing" = "Vid skrift";
+"Export / Print" = "Exportera / Skriv ut";
+"Preserve sequential whitespace and single line break" = "Bevara whitespace och enkla radbryt";
+"Ignore sequential whitespace and single line break" = "Ignorera whitespace och enkla radbryt";
+
+"Quit" = "Avsluta";
+"Quit Typora when last window is closed" = "Avsluta Typora när det sista fönstret stängts";
+"On Launch" = "Vid start";
+"Open new file" = "Öppna ny fil";
+"Restore last closed folders" = "Återställ senast stängda mappar";
+"Restore last closed files and folders" = "Återställ senast stängda filer och mappar";
+"Open custom folder" = "Öppna anpassad mapp";
+"Select custom folder" = "Välj anpassad mapp";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Detta val kan åsidosättas av \"Stäng fönster när ett program avslutas\" i dina systeminställnigar";
+
+"Ignore" = "Ignorera";
+"Choose Default Folder" = "Välj standardmapp";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Omvandla vid skrift</strong>: Skriv ASCII streck eller raka citattecken - spara som typografiska citattecken eller unicode streck.<br/><strong>Omvandla vid rendering</strong>: Skriv och spara som ASCII streck eller raka citattecken - rendera som typografiska citattecken eller unicode streck.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Aktivera stöd för unicode-skiljetecken vid tolkning av markdown, t.ex:<br/> <pre> 》 blockquote → > blockquote <br/> [länk](src ’titel’) → [länk](src 'titel')</pre>Detta aktiveras automatiskt om smarta citatecken/streck är inställda på att  omvandlas vid skrift.<div>";

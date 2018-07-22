@@ -1,0 +1,256 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+"About Typora" = "Om Typora";
+"Preferences" = "Inställningar";
+"Check for Updates" = "Sök efter uppdateringar";
+"Services" = "Tjänster";
+"Hide Typora" = "Göm Typora";
+"Hide Others" = "Göm övriga";
+"Show All" = "Visa alla";
+"Quit Typora" = "Avsluta Typora";
+
+/* File Menu */
+"File" = "Arkiv";
+"New" = "Ny";
+"Open" = "Öppna";
+"Open Folder" = "Öppna mapp";
+"Reopen with Encoding" = "Ladda om med kodning";
+"Auto" = "Auto";
+"Open Recent" = "Öppna tidigare";
+"Clear Items" = "Rensa";
+"No Recent Files" = "Inga tidigare filer";
+"Open Quickly" = "Öppna snabbt";
+"Open File Location" = "Öppna filsökväg";
+"Reveal in Library" = "Visa i bibliotek";
+"Reveal in File Tree" = "Visa i filträd";
+"Close" = "Stäng";
+"Save" = "Spara";
+"Save As" = "Spara som";
+"Duplicate" = "Duplicera";
+"Rename" = "Byt namn";
+"Move To" = "Flytta till";
+"Revert To" = "Återställ till";
+"Browse All Versions" = "Se alla versioner";
+"Import" = "Importera";
+"Export" = "Exportera";
+"Page Setup" = "Sidinställning";
+"Print" = "Skriv ut";
+
+/* Edit Menu */
+"Edit" = "Redigera";
+"Undo" = "Ångra";
+"Redo" = "Gör om";
+"Cut" = "Klipp ut";
+"Copy" = "Kopiera";
+"Paste" = "Klistra in";
+"Copy as Markdown" = "Kopiera som Markdown";
+"Copy as HTML Code" = "Kopiera som HTML";
+"Paste as Plain Text" = "Klistra in utan formattering";
+"Select All" = "Markera allt";
+"Select Line/Sentence" = "Markera rad/mening";
+"Select Styled Scope" = "Markera formaterat område";
+"Select Word" = "Markera ord";
+"Delete" = "Radera";
+"Delete Range" = "Radera intervall";
+"Delete Word" = "Radera ord";
+"Delete Styled Scope" = "Radera formaterat område";
+"Delete Line/Sentence" = "Radera rad/mening";
+"Jump To" = "Gå till";
+"Jump to Top" = "Gå till toppen";
+"Jump to Selection" = "Gå till markering";
+"Jump to Bottom" = "Gå till botten";
+"Math Tools" = "Matteverktyg";
+"Refresh All Math Expressions" = "Ladda om alla matteuttryck";
+"Image Tools" = "Bildverktyg";
+"Insert Local Images" = "Infoga lokala bilder";
+"Upload Local Images via iPic" = "Ladda upp lokala bilder via iPic";
+"When Insert Local Image" = "När en lokal bild infogas";
+"Copy Image File to Folder" = "Kopiera bildfil till mapp";
+"Upload Image via iPic" = "Ladda upp bild via iPic";
+"Use Image Root Path" = "Mapp för bilder";
+"Line Endings" = "Radbryt";
+"Windows Line Endings (CRLF)" = "Windows radbryt (CRLF)";
+"Unix Line Endings (LF)" = "Unix radbryt (LF)";
+"Find" = "Sök";
+"Find Next" = "Sök nästa";
+"Find Previous" = "Sök föregående";
+"Find and Replace" = "Sök och ersätt";
+"Replace" = "Ersätt";
+"Replace Next" = "Ersätt nästa";
+"Spelling and Grammar" = "Stavning och grammatik";
+"Check Document Now" = "Kontrollera dokument nu";
+"Check Spelling While Typing" = "Kontrollera stavning medan jag skriver";
+"Check Grammar With Spelling" = "Kontrollera grammatik tillsammans med stavning";
+"Correct Spelling Automatically" = "Rätta stavning automatiskt";
+"Substitutions" = "Ersättningar";
+"Smart Quotes" = "Smarta citationstecken";
+"Smart Dashes" = "Smarta streck";
+"Text Replacement" = "Textersättning";
+"Speech" = "Tal";
+"Start Speaking" = "Börja tala";
+"Stop Speaking" = "Sluta tala";
+
+/* Paragraph Menu */
+"Paragraph" = "Stycke";
+"Heading 1" = "Rubrik 1";
+"Heading 2" = "Rubrik 2";
+"Heading 3" = "Rubrik 3";
+"Heading 4" = "Rubrik 4";
+"Heading 5" = "Rubrik 5";
+"Heading 6" = "Rubrik 6";
+"Increase Heading Level" = "Öka rubriknivå";
+"Decrease Heading Level" = "Minska rubriknivå";
+"Table" = "Tabell";
+"Code Fences" = "Kodblock";
+"Math Block" = "Matteblock";
+"Quote" = "Citat";
+"Ordered List" = "Ordnad lista";
+"Unordered List" = "Oordnad lista";
+"Task List" = "Checklista";
+"Task Status" = "Status för checklista";
+"Toggle Task Status" = "Växla markering";
+"Mark as Complete" = "Markera";
+"Mark as Incomplete" = "Avmarkera";
+"List Indentation" = "Listans indrag";
+"Indent" = "Öka indrag";
+"Outdent" = "Minska indrag";
+"Link Reference" = "Länkreferens";
+"Footnotes" = "Fotnoter";
+"Horizontal Line" = "Horisontell linje";
+"Table of Contents" = "Innehållsförteckning";
+"YAML Front Matter" = "YAML-metadata";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Fetstil";
+"Emphasis" = "Kursiv";
+"Underline" = "Understruken";
+"Code" = "Kod";
+"Inline Math" = "Inline matematik";
+"Strike" = "Genomstruken";
+"Highlight" = "Markera";
+"Superscript" = "Upphöjd";
+"Subscript" = "Nedsänkt";
+"Comment" = "Kommentar";
+"Hyperlink" = "Hyperlänk";
+"Image" = "Bild";
+"Clear Format" = "Rensa formattering";
+
+/* View Menu */
+"View" = "Visa";
+"New Tab" = "Ny flik";
+"Source Code Mode" = "Källkodsläge";
+"Focus Mode" = "Fokusläge";
+"Typewriter Mode" = "Skrivmaskinsläge";
+"Toggle Sidebar" = "Växla sidomeny";
+"Outline" = "Översikt";
+"Articles" = "Artiklar";
+"File Tree" = "Filträd";
+"Always on Top" = "Alltid överst";
+"Full Screen" = "Fullskärm";
+"Show Status Bar" = "Visa statusraden";
+"Toggle Fullscreen" = "Växla Fullskärm";
+"Actual Size" = "Verklig storlek";
+"Zoom In" = "Zooma in";
+"Zoom Out" = "Zooma ut";
+"Switch Between Opened Documents" = "Växla mellan öppna dokument";
+"Toggle DevTools" = "Växla utvecklingsverktyg";
+
+
+/* Themes Menu */
+"Themes" = "Teman";
+
+/* Window Menu */
+"Window" = "Fönster";
+"Minimize" = "Minimera";
+"Zoom" = "Zooma";
+"Bring All to Front" = "Lägg alla överst";
+
+/* Help Menu */
+"Help" = "Hjälp";
+"Privacy Policy" = "Integritetspolicy";
+"Credits" = "Credits";
+"Change Log" = "Ändringslogg";
+"Website" = "Hemsida";
+"Feedback" = "Feedback";
+"About" = "Om";
+
+/* Touchbar */
+"Block Styles" = "Blockstilar";
+"Inline Styles" = "Radstilar";
+"List Styles / Remove Block" = "Liststilar / Radera block";
+"Exit Source Code Mode" = "Lämna källkodsläge";
+"Toggle Source Code Mode" = "Växla källkodsläge";
+
+/* Extra Context Menu */
+"Table" = "Tabell";
+"Add Row Above" = "Lägg till rad ovanför";
+"Add Row Below" = "Lägg till rad nedanför";
+"Delete Row" = "Radera rad";
+"Add Column Before" = "Lägg till kolumn före";
+"Add Column After" = "Lägg till kolumn efter";
+"Delete Column" = "Radera kolumn";
+"Copy Table" = "Kopiera tabell";
+"Delete Table" = "Radera tabell";
+"Insert Paragraph After" = "Infoga stycke efter";
+"Insert Paragraph Before" = "Infoga stycke före";
+"Delete Code Block" = "Radera kodblock";
+"Copy as MathML" = "Kopiera som MathML";
+"Copy as Tex" = "Kopiera som Tex";
+"Copy Math" = "Kopiera matte";
+"Reveal in Finder" = "Visa i Finder";
+"Open Link" = "Öppna länk";
+"Reveal in Sidebar" = "Visa i sidopanel";
+"Open in New Window" = "Öppna i nytt fönster";
+"Copy File Path" = "Kopiera filsökväg";
+"New File" = "Ny fil";
+"Rename" = "Byt namn";
+"New Folder" = "Ny mapp";
+"Move to Trash" = "Flytta till papperskorgen";
+
+/* Electron */
+"Learn Spelling" = "Lägg till i ordlista";
+"Copy / Paste As…" = "Kopiera / Klistra in som…";
+"Math" = "Matte";
+"Insert" = "Infoga";
+"Inspect Element" = "Inspektera element";
+"Copy to MS Word" = "Kopiera till MS Word";
+"Paragraph (before)" = "Stycke (före)";
+"Paragraph (after)" = "Stycke (efter)";
+
+"Search with Google" = "Sök med Google";
+"Search With…" = "Sök med…";
+
+/* Related Panel */
+"Open Failed" = "Öppning misslyckades";
+"File or folder does not exist." = "Filen eller mappen existerar inte.";
+
+"Prettify Source Code" = "Formatera källkod";
+"Copy '%@'" = "Kopiera '%@'";
+"Copy to %@" = "Kopiera till %@";
+"Copy Image to..." = "Kopiera bild till...";
+"Upload via iPic" = "Ladda upp via iPic";
+"Open Image Location" = "Öppna bildmapp";
+
+"Learn More" = "Läs mer";
+"Whitespace and Line Breaks" = "Whitespace och radbryt";
+"Indent first line of paragraphs" = "Öka första radens indrag i nya stycken";
+"Visible <br/> and markdown line break" = "Synliga <br/> och markdown radbryt";
+"Preserve sequential whitespace and single line break" = "Bevara sekventiell whitespace och enkla radbryt";
+
+"Save All" = "Spara alla";
+"New Window" = "Nytt fönster";
+"Reopen Closed File" = "Öppna senast stängda fil";
+
+"Global Image Settings" = "Globala bildinställningar";
+"Smart Punctuation" = "Smarta skiljetecken";
+"Convert on Input" = "Omvandla vid skrift";
+"Convert on Rendering" = "Omvandla vid rendering";
+"Remap Unicode Punctuation on Parse" = "Aktivera stöd för unicode-skiljetecken";
+"More Options" = "Fler val";

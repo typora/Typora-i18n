@@ -1,0 +1,136 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Avbryt";
+"Yes" = "Ja";
+"No" = "Nej";
+"Close" = "Stäng";
+"Select" = "Välj";
+"Continue" = "Fortsätt";
+"Learn More…" = "Läs mer…";
+"Untitled" = "Ingen titel";
+"Undo" = "Ångra";
+"Dismiss" = "Avfärda";
+"Confirm" = "Bekräfta";
+"Error" = "Fel";
+
+/* Search Panel */
+"Search" = "Sök";
+"Replace" = "Ersätt";
+"All" = "Alla";
+"Search text not found in article" = "Sökt text kunde inte hittas";
+"search text" = "söktext";
+
+/* Quick Open */
+"Search by file name" = "Sök efter filnamn";
+"Searching" = "Söker";
+"Gathering more results" = "Hämtar fler resultat";
+
+/* Tables */
+"Insert Table" = "Infoga tabell";
+"Columns" = "Kolumner";
+"Rows" = "Rader";
+"Align Left" = "Vänsterjustera";
+"Align Center" = "Centrera";
+"Align Right" = "Högerjustera";
+"Resize Table" = "Ändra tabellstorlek";
+"Delete Table" = "Radera tabell";
+
+/* Images */
+"Copy Image To..." = "Kopiera bilder till...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora försöker kopiera den infogade bilden till <code id='image-create-folder-target'></code> i enlighet med inställningarna i din YAML-metadata. Tyvärr finns inte målmappen ännu. Vill du skapa den nu?";
+"Create Folder" = "Skapa mapp";
+
+/* Math */
+"Edit" = "Redigera";
+"Delete Math" = "Radera matte";
+"Preview" = "Förhandsvisa";
+
+/* Sidebar */
+"Articles" = "Artiklar";
+"Outline" = "Översikt";
+"Files" = "Filer";
+"Switch to File List view" = "Byt till listvy";
+"Switch to File Tree view" = "Byt till trädvy";
+"Switch to Outline view" = "Byt till översiktsvy";
+"Close sidebar" = "Stäng sidopanel";
+"Loading" = "Laddar";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Valda mappar innehåller för många filer. \nVänligen byt till <a id='switch-to-tree-on-oversize'>trädvy</a> för bättre prestanda.";
+"New File" = "Ny Fil";
+"Unpin Outline Panel" = "Lossa översiktspanel";
+"Open Folder..." = "Öppna mapp...";
+"Action" = "Handling";
+"Close Sidebar Menu" = "Stäng sidomeny";
+"Reveal in Finder" = "Öppna i Finder";
+"Reveal in File Explorer" = "Öppna i filutforskaren";
+"Refresh Folder" = "Uppdatera mapp";
+"Sort" = "Sortera";
+"Group By Folder" = "Gruppera efter mapp";
+"Sort Naturally" = "Sortera naturligt";
+"Sort by Name" = "Sortera efter namn";
+"Sort by Modification Date" = "Sortera efter modifieringsdatum";
+"Recent Locations" = "Tidigare platser";
+"Location" = "Plats";
+"Switch File List/Tree View" = "Växla listvy/trädvy";
+"No Files Available" = "Inga tillgängliga filer";
+"No Folder is Opened." = "Ingen mapp är öppen.";
+"Outline is Empty." = "Översikten är tom.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Växla sidomeny";
+"Toggle Source Code Mode" = "Växla källkodsläge";
+"Exit Source Code Mode" = "Lämna källkodsläge";
+
+"Table of Contents" = "Innehållsförteckning";
+"Empty Diagram" = "Tomt diagram";
+"Input Math TeX here" = "Fyll i matte TeX här";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Fotnoten <b>{0}</b> behöver definieras med följande syntax: <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Länkreferensen <b>[{0}]</b> behöver definieras med följande syntax: <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Vänligen definiera bildreferensen enligt \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Kunde inte skapa filen";
+"Failed to create folder" = "Kunde inte skapa mappen";
+"Failed to rename file" = "Kunde inte byta filnamn";
+"Folder does not exist at %@" = "Det existerar ingen mapp vid %@";
+"File with the same name already exists at target path" = "Målet innehåller redan en fil med samma namn";
+"Apply to All" = "Tillämpa på alla";
+"Overwrite" = "Skriv över";
+"Stop" = "Stopp";
+"back to document" = "tillbaka till dokumentet";
+"Failed to load file" = "Kunde inte läsa in filen";
+"Save File Failed!" = "Kunde inte spara filen!";
+"Cannot open folder {0}" = "Kan inte öppna mappen vid {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Filen har ändrats utanför Typora. Vill du läsa in filen på nytt ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Vill du fortsätta flytta och skriva över existerande fil(er) ?";
+
+"Rename Failed" = "Kunde inte byta namn";
+"Rename to \"{0}\" ?" = "Byt namn till \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Kunde inte byta namn från \"{0}\" till \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Uppladdning av {0} bilder lyckades.";
+"Failed to upload image. Error Message:" = "En bild kunde inte laddas upp. Felmeddelande:";
+"Failed to Copy Image to Target Folder." = "En bild kunde inte kopieras till målmappen.";
+"Select Container Folder" = "Välj mapp";
+
+"Saved" = "Sparad";
+
+/* place holder in find & replace input */
+"search text" = "söktext";
+"replace with" = "ersätt med";
+/* search option */
+"Case Sensitive" = "Skiftlägeskänsligt";
+"Whole Word" = "Hela ord";
+
+"input image URL" = "bild URL";
+"Select image from local file" = "Välj bild från lokal fil";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan inte öppna <code>$1</code>, menar du <a href='https://$3'>https://$2</a> ?";

@@ -17,7 +17,7 @@
 "Themes" = "Teman";
 "Open Theme Folder" = "Öppna temamapp";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Gå till `hjälp`->`Snabbstart` för en kort introduktion. Besök http://theme.typora.io för att hämta fler teman eller få mer hjälp.";
-"Word Count" = "Ordräknare"; /* Context? */
+"Word Count" = "Ordräkning";
 "Always Show Word Count" = "Visa alltid ordräknare";
 "Font Size" = "Teckenstorlek";
 "Auto ( Recommended )" = "Auto ( Rekommenderad )";
@@ -33,7 +33,7 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Indragsstorlek"; /* Lit. 'Indent Size' - Hard to translate 'on save' */
+"Indent Size on Save" = "Indragsstorlek";
 "only apply to quotes and lists created from menu bar or hybrid view" = "använd bara för citat och listor skpade från menyraden eller hybridvyn";
 "Trigger Autocomplete without ESC key for" = "Aktivera automatisk komplettering utan ESC för";
 "Emoji (e.g. :smile:)" = "Emoji (t.ex. :smile:)";
@@ -105,7 +105,7 @@
 "File does not exist at <em>{0}</em>" = "Filen existerar inte vid <em>{0}</em>";
 "Export to..." = "Exportera till...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vill du spara dina ändringar till det här dokumentet ?<br> Dina ändringar kommer förloras om du inte sparar dem.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Misslyckades med att infoga ett bokmärke i PDF-filen."; /* Is there another word than 'bookmark' that could be used here? The swedish translation of 'Bokmärke' might be too synonymous with the physical bookmark used in physical books */
+"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Misslyckades med att infoga ett bokmärke i PDF-filen.";
 "Dark Theme not support" = "Mörkt tema stöds ej";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Tyvärr kan inte denna version av Typora spara bakgrundsfärg i exporterade PDF dokument. Ett mörkt tema kan därför inte användas för att exportera till PDF. \nByt till ett ljust tema eller klicka på \"Skriv ut med standardtema\" för att fortsätta.";
 "Print with default theme" = "Skriv ut med standardtema";
@@ -157,12 +157,12 @@
 "Reset Advanced Settings" = "Återställ avancerade inställningar";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installeras."; /* That the latest version is installed or that the latest version is to be installed? */
+"This fucntion requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installerats.";
 "Get iPic" = "Skaffa iPic";
 "Cannot Continue…" = "Kan inte fortsätta…";
 "This feature require macOS >= 10.11" = "Denna funktion kräver macOS >= 10.11";
 "One More Step" = "Ett steg till";
-"Notice" = "Notera"; /* Context? */
+"Notice" = "Varning";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Detta kräver att iPic installeras. Bildfilerna kommer laddas upp till molntjänster via iPic. Notera att molntjänsten inte stödjer borttagning av en uppladdad bild.";
 
 "%d Images Failed to Upload." = "%d bilder kunde inte laddas upp.";
@@ -177,14 +177,14 @@
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kommer kopiera den infogade bilden till den valda relativa sökvägen. Vänligen spara filen först.";
 "Open Operation Failed" = "Öppning misslyckades";
 
-"Support Documentation" = "Hjälpdokumentation"; /* Might 'Documentation' suffice? */
+"Support Documentation" = "Dokumentation";
 
 "Markdown File" = "Markdownfil";
 "Plain Text File" = "Textfil";
 "All Files" = "Alla filer";
 "All Supported Formats" = "Alla stödda format";
 "Discard Changes" = "Ignorera ändringar";
-"Discard" = "Ignorera ändringar"; /* There is no direct translation of 'discard', it's a bit more contextual in swedish */
+"Discard" = "Ignorera ändringar";
 
 "Menu" = "Meny";
 "Back" = "Tillbaka";
@@ -212,7 +212,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Tyvärr kan inte denna version av Typora skriva ut bakgrundsfärg i dokument. Ett mörkt tema kan därför inte användas för utskrifter. \nByt till ett ljust tema eller exportera dokumentet som PDF i stället.";
 "Export to PDF" = "Exportera som PDF";
-"Pretty indentation" = "Snyggt indrag"; /* Context? */
+"Pretty indentation" = "Snyggare indrag";
 "Update markdown reference for this image" = "Uppdatera markdownreferensen för denna bild";
 
 "No special action" = "Ingen extra behandling";

@@ -6,18 +6,16 @@
 */
 
 /* Typora Menu */
-
 "About Typora" = "Om Typora";
 "Preferences" = "Inställningar";
 "Check for Updates" = "Sök efter uppdateringar";
 "Services" = "Tjänster";
 "Hide Typora" = "Göm Typora";
-"Hide Others" = "Göm andra"; /* Context? */
-"Show All" = "Visa alla"; /* Context? "Visa allt" may be a better translation depending on context */
+"Hide Others" = "Göm övriga";
+"Show All" = "Visa alla";
 "Quit Typora" = "Avsluta Typora";
 
 /* File Menu */
-
 "File" = "Arkiv";
 "New" = "Ny";
 "Open" = "Öppna";
@@ -54,14 +52,14 @@
 "Copy as Markdown" = "Kopiera som Markdown";
 "Copy as HTML Code" = "Kopiera som HTML";
 "Paste as Plain Text" = "Klistra in utan formattering";
-"Select All" = "Välj allt";
-"Select Line/Sentence" = "Välj rad/mening";
-"Select Styled Scope" = "Välj Styled Scope"; /* What is meant by a 'styled scope'? /*
-"Select Word" = "Välj ord";
+"Select All" = "Markera allt";
+"Select Line/Sentence" = "Markera rad/mening";
+"Select Styled Scope" = "Markera formaterat område";
+"Select Word" = "Markera ord";
 "Delete" = "Radera";
 "Delete Range" = "Radera intervall";
 "Delete Word" = "Radera ord";
-"Delete Styled Scope" = "Delete Styled Scope"; /* What is meant by a 'styled scope'? /*
+"Delete Styled Scope" = "Radera formaterat område";
 "Delete Line/Sentence" = "Radera rad/mening";
 "Jump To" = "Gå till";
 "Jump to Top" = "Gå till toppen";
@@ -75,7 +73,7 @@
 "When Insert Local Image" = "När en lokal bild infogas";
 "Copy Image File to Folder" = "Kopiera bildfil till mapp";
 "Upload Image via iPic" = "Ladda upp bild via iPic";
-"Use Image Root Path" = "Använd mapp för bilder"; /* Root path for images associated with a markdown file, correct? */
+"Use Image Root Path" = "Mapp för bilder";
 "Line Endings" = "Radbryt";
 "Windows Line Endings (CRLF)" = "Windows radbryt (CRLF)";
 "Unix Line Endings (LF)" = "Unix radbryt (LF)";
@@ -86,14 +84,14 @@
 "Replace" = "Ersätt";
 "Replace Next" = "Ersätt nästa";
 "Spelling and Grammar" = "Stavning och grammatik";
-"Check Document Now" = "Kontrollera dokumentet nu";
-"Check Spelling While Typing" = "Kontrollera stavning under skrift";
-"Check Grammar With Spelling" = "Kontrollera grammatik under skrift";
-"Correct Spelling Automatically" = "Korrigera stavning automatiskt";
-"Substitutions" = "Substitutioner"; /* Context? */
-"Smart Quotes" = "Smarta citattecken";
+"Check Document Now" = "Kontrollera dokument nu";
+"Check Spelling While Typing" = "Kontrollera stavning medan jag skriver";
+"Check Grammar With Spelling" = "Kontrollera grammatik tillsammans med stavning";
+"Correct Spelling Automatically" = "Rätta stavning automatiskt";
+"Substitutions" = "Ersättningar";
+"Smart Quotes" = "Smarta citationstecken";
 "Smart Dashes" = "Smarta streck";
-"Text Replacement" = "Textersättning"; /* Context? */
+"Text Replacement" = "Textersättning";
 "Speech" = "Tal";
 "Start Speaking" = "Börja tala";
 "Stop Speaking" = "Sluta tala";
@@ -172,7 +170,7 @@
 "Window" = "Fönster";
 "Minimize" = "Minimera";
 "Zoom" = "Zooma";
-"Bring All to Front" = "Bring All to Front"; /* Context? */
+"Bring All to Front" = "Lägg alla överst";
 
 /* Help Menu */
 "Help" = "Hjälp";
@@ -184,9 +182,9 @@
 "About" = "Om";
 
 /* Touchbar */
-"Block Styles" = "Block Styles"; /* Context? */
-"Inline Styles" = "Inline Styles"; /* Context? */
-"List Styles / Remove Block" = "List Styles / Remove Block"; /* Context? */
+"Block Styles" = "Blockstilar";
+"Inline Styles" = "Radstilar";
+"List Styles / Remove Block" = "Liststilar / Radera block";
 "Exit Source Code Mode" = "Lämna källkodsläge";
 "Toggle Source Code Mode" = "Växla källkodsläge";
 
@@ -217,14 +215,14 @@
 "Move to Trash" = "Flytta till papperskorgen";
 
 /* Electron */
-"Learn Spelling" = "Learn Spelling"; /* Context? */
+"Learn Spelling" = "Lägg till i ordlista";
 "Copy / Paste As…" = "Kopiera / Klistra in som…";
 "Math" = "Matte";
 "Insert" = "Infoga";
 "Inspect Element" = "Inspektera element";
 "Copy to MS Word" = "Kopiera till MS Word";
-"Paragraph (before)" = "Stycke (före)"; /* Context? */
-"Paragraph (after)" = "Stycke (efter)"; /* Context? */
+"Paragraph (before)" = "Stycke (före)";
+"Paragraph (after)" = "Stycke (efter)";
 
 "Search with Google" = "Sök med Google";
 "Search With…" = "Sök med…";

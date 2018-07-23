@@ -192,10 +192,10 @@
 /* Extra Context Menu */
 "Table" = "Tabla";
 "Add Row Above" = "Insertar fila antes";
-"Add Row Below" = "Añadir fila después";
+"Add Row Below" = "Insertar fila después";
 "Delete Row" = "Eliminar fila";
 "Add Column Before" = "Insertar columna antes";
-"Add Column After" = "Añadir columna después";
+"Add Column After" = "Insertar columna después";
 "Delete Column" = "Eliminar columna";
 "Copy Table" = "Copiar tabla";
 "Delete Table" = "Eliminar tabla";
@@ -209,7 +209,7 @@
 "Open Link" = "Abrir enlace";
 "Reveal in Sidebar" = "Mostrar en la barra lateral";
 "Open in New Window" = "Abrir en una ventana nueva";
-"Copy File Path" = "Copiar ruta del archivo";
+"Copy File Path" = "Copiar ruta de archivo";
 "New File" = "Nuevo archivo";
 "Rename" = "Renombrar";
 "New Folder" = "Nueva carpeta";
@@ -218,7 +218,7 @@
 /* Electron */
 "Learn Seplling" = "Añadir al diccionario";
 "Copy / Paste As…" = "Copiar / Pegar como…";
-"Math" = "Matemática";
+"Math" = "Matemáticas";
 "Insert" = "Insertar";
 "Inspect Element" = "Inspeccionar elemento";
 "Copy to MS Word" = "Copiar a MS Word";

@@ -68,7 +68,7 @@
 "Action" = "Acción"; /* Needs more context */
 "Close Sidebar Menu" = "Cerrar menú de barra lateral";
 "Reveal in Finder" = "Mostrar en el Finder";
-"Reveal in File Explorer" = "Mostrar en el explorador de Archivos";
+"Reveal in File Explorer" = "Mostrar en el explorador de archivos";
 "Refresh Folder" = "Recargar carpeta";
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
@@ -84,8 +84,8 @@
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";
-"Toggle Source Code Mode" = "Cambiar a modo Código Fuente";
-"Exit Source Code Mode" = "Salir de modo Código Fuente";
+"Toggle Source Code Mode" = "Cambiar a modo código fuente";
+"Exit Source Code Mode" = "Salir de modo código fuente";
 
 "Table of Contents" = "Tabla de contenidos";
 "Empty Diagram" = "Diagrama vacío";

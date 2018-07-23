@@ -68,7 +68,7 @@
 "Action" = "Acción"; /* Needs more context */
 "Close Sidebar Menu" = "Cerrar menú de barra lateral";
 "Reveal in Finder" = "Mostrar en el Finder";
-"Reveal in File Explorer" = "Mostrar en el explorador de Archivos";
+"Reveal in File Explorer" = "Mostrar en el explorador de archivos";
 "Refresh Folder" = "Recargar carpeta";
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
@@ -84,8 +84,8 @@
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";
-"Toggle Source Code Mode" = "Cambiar a modo Código Fuente";
-"Exit Source Code Mode" = "Salir de modo Código Fuente";
+"Toggle Source Code Mode" = "Cambiar a modo código fuente";
+"Exit Source Code Mode" = "Salir de modo código fuente";
 
 "Table of Contents" = "Tabla de contenidos";
 "Empty Diagram" = "Diagrama vacío";
@@ -118,8 +118,8 @@
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Cargada(s) con éxito {0} imágen(es).";
-"Failed to upload image. Error Message:" = "Error al cargar imagen. Mensaje del error:";
-"Failed to Copy Image to Target Folder." = "Error al copiar imagen a la carpeta de destino.";
+"Failed to upload image. Error Message:" = "Error al cargar la imagen. Mensaje del error:";
+"Failed to Copy Image to Target Folder." = "Error al copiar la imagen a la carpeta de destino.";
 "Select Container Folder" = "Seleccionar carpeta contenedora";
 
 "Saved" = "Guardado";

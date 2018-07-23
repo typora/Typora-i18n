@@ -27,9 +27,9 @@
 "Open Recent" = "Abrir recientes";
 "Clear Items" = "Limpiar elementos";
 "No Recent Files" = "No hay archivos recientes";
-"Open Quickly" = "Arbir rápidamente";
+"Open Quickly" = "Abrir rápidamente";
 "Open File Location" = "Abrir ubicación del archivo";
-"Reveal in Library" = "Mostrar como librería"; /* Needs context */
+"Reveal in Library" = "Mostrar como Biblioteca"; /* Needs context */
 "Reveal in File Tree" = "Mostrar como árbol de archivos";
 "Close" = "Cerrar";
 "Save" = "Guardar";
@@ -203,7 +203,7 @@
 "Insert Paragraph Before" = "Insertar párrafo antes";
 "Delete Code Block" = "Eliminar bloque de código";
 "Copy as MathML" = "Copiar como MathML";
-"Copy as Tex" = "Copiar como texo";
+"Copy as Tex" = "Copiar como texto";
 "Copy Math" = "Copiar ecuación";
 "Reveal in Finder" = "Mostrar en el Finder";
 "Open Link" = "Abrir enlace";

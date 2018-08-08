@@ -241,7 +241,7 @@
 "Learn More" = "Läs mer";
 "Whitespace and Line Breaks" = "Whitespace och radbryt";
 "Indent first line of paragraphs" = "Öka första radens indrag i nya stycken";
-"Visible <br/> and markdown line break" = "Synliga <br/> och markdown radbryt";
+"Visible <br/>" = "Synliga <br/> och markdown radbryt";
 "Preserve sequential whitespace and single line break" = "Bevara sekventiell whitespace och enkla radbryt";
 
 "Save All" = "Spara alla";

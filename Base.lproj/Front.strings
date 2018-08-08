@@ -44,7 +44,7 @@
 
 /* Images */
 "Copy Image To..." = "Copy Image To...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "Create Folder";
 
 /* Math */
@@ -134,3 +134,6 @@
 "input image URL" = "input image URL";
 "Select image from local file" = "Select image from local file";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "select a language";
+"Finish Editing" = "Finish Editing";

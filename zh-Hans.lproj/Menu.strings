@@ -234,8 +234,8 @@
 "Learn More" = "了解更多";
 "Whitespace and Line Breaks" = "空格与换行";
 "Indent first line of paragraphs" = "首行缩进";
-"Visible <br/> and markdown line break" = "显示<br>与Markdown换行符号";
-"Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";
+"Preserve single line break" = "保留单换行符";
+"Visible <br/>" = "显示<br>";
 
 "Save All" = "保存全部打开的文件";
 "New Window" = "新建窗口";
@@ -247,3 +247,8 @@
 "Convert on Rendering" = "渲染时转换";
 "Remap Unicode Punctuation on Parse" = "解析Markdown时允许并转化Unicode标点";
 "More Options" = "更多选项";
+
+"Delete Block" = "删除块";
+"Delete %@" = "删除%@";
+"Play" = "播放";
+"Pause" = "暂停";

@@ -127,8 +127,14 @@
 /* place holder in find & replace input */
 "search text" = "查找文本";
 "replace with" = "替换为";
+
 /* search option */
 "Case Sensitive" = "区分大小写";
 "Whole Word" = "查找整个单词";
+
 "input image URL" = "输入图片地址";
 "Select image from local file" = "选择本地图片";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "无法打开 <code>$1</code>，期望打开 <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "选择语言";
+"Finish Editing" = "完成编辑";

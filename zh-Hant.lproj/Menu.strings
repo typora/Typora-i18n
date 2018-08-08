@@ -243,7 +243,7 @@
 "Learn More" = "了解更多";
 "Whitespace and Line Breaks" = "空格和換行";
 "Indent first line of paragraphs" = "段落首行縮排";
-"Visible <br/> and markdown line break" = "顯示 <br/> 和 Markdown 換行符號";
+"Visible <br/>" = "顯示 <br/>";
 "Preserve sequential whitespace and single line break" = "保留連續的空格和單一換行";
 
 "Save All" = "儲存全部";

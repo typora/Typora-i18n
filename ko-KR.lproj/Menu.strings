@@ -246,7 +246,7 @@
 "Learn More" = "더 알아보기";
 "Whitespace and Line Breaks" = "공백 및 줄바꿈";
 "Indent first line of paragraphs" = "문단의 첫 줄 들여쓰기";
-"Visible <br/> and markdown line break" = "<br/>과 마크다운 줄바꿈 보이기";
+"Visible <br/>" = "<br/>과 마크다운 줄바꿈 보이기";
 "Preserve sequential whitespace and single line break" = "연속된 공백과 단일 줄바꿈 유지하기";
 
 "Save All" = "모두 저장";

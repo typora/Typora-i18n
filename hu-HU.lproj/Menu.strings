@@ -243,7 +243,7 @@
 "Learn More" = "További információ";
 "Whitespace and Line Breaks" = "Elválasztó karakterek és sortörések";
 "Indent first line of paragraphs" = "Bekezdés első sorának behúzása";
-"Visible <br/> and markdown line break" = "Látható <br/> és markdown sortörés";
+"Visible <br/>" = "Látható <br/> és markdown sortörés";
 "Preserve sequential whitespace and single line break" = "Egymás utáni elválasztó karakterek és egyszeres sortörés megőrzése";
 
 "Save All" = "Összes mentése";

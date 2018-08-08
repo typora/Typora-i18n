@@ -106,7 +106,7 @@
 "Stop" = "Arrêter";
 "back to document" = "retour au document";
 "Failed to load file" = "Impossible de charger le fichier";
-"Save File Failed!" = "Échec de la sauvegarde du fichier !"
+"Save File Failed!" = "Échec de la sauvegarde du fichier !";
 "Cannot open folder {0}" = "Impossible d'ouvrir le dossier {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Le contenu du fichier a été modifié par une application externe. Faut-il recharger depuis le disque ?";

@@ -171,7 +171,6 @@
 "The option `%@` must be enabled first" = "請先啟用選項 `%@`";
 "%@ is a file, not a directory" = "%@ 是檔案，不是資料夾";
 "Copy Images To…" = "複製圖片至...";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora 將根據你的 YAML Front Matter 設定，嘗試複製新插入的圖片至 %@ ，但目標資料夾不存在，是否新增該資料夾？";
 "Create Folder and Continue" = "新增資料夾並繼續";
 "Document must be saved first" = "請先儲存文件";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 將根據選定的相對路徑，將新插入的圖片複製至該處，所以請先儲存檔案。";

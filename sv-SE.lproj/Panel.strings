@@ -171,7 +171,6 @@
 "The option `%@` must be enabled first" = "`%@` måste vara aktiverat först.";
 "%@ is a file, not a directory" = "%@ är en fil, inte en mapp";
 "Copy Images To…" = "Kopiera bilder till…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora försöker kopiera den infogade bilden till %@ i enlighet med inställningarna i din YAML-metadata. Tyvärr finns inte målmappen ännu. Vill du skapa den nu?";
 "Create Folder and Continue" = "Skapa mapp och fortsätt";
 "Document must be saved first" = "Dokumentet måste sparas först";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kommer kopiera den infogade bilden till den valda relativa sökvägen. Vänligen spara filen först.";

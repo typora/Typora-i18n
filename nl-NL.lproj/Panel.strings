@@ -174,7 +174,6 @@
 "The option `%@` must be enabled first" = "De optie `%@` moet eerst ingeschakeld worden.";
 "%@ is a file, not a directory" = "%@ is een bestand, niet een map";
 "Copy Images To…" = "Kopieer Afbeeldingen Naar…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora probeert de zojuist ingevoegde afbeelding naar de map %@ te kopiëren volgens de instelling van YAML Front Matter. Maar de doelmap bestaat niet, maak deze nu aan?";
 "Create Folder and Continue" = "Maak map en ga door";
 "Document must be saved first" = "Document moet eerst opgeslagen worden";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kopieert de nieuwe ingevoegde afbeelding naar map op geselecteerd relatief pad, sla eerst het bestand op.";

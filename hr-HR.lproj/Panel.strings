@@ -171,7 +171,6 @@
 "The option `%@` must be enabled first" = "Prvo mora biti omogućena opcija '%@'.";
 "%@ is a file, not a directory" = "%@ je fajl, a ne folder";
 "Copy Images To…" = "Kopiraj slike u…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora pokušava kopirati novo umetnutu sliku u folder %@  prema vašim YAML Front Matter postavkama. Ali taj folder ne postoji, da ga stvori sad?";
 "Create Folder and Continue" = "Stvori folder i nastavi";
 "Document must be saved first" = "Dokument prvo mora biti sačuvan";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora će kopirati novo umetnutu sliku u mapu odabranu relativnom putanjom, pa vas molimo, prvo spremite fajl.";

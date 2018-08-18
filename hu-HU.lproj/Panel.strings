@@ -171,7 +171,6 @@
 "The option `%@` must be enabled first" = "A `%@` lehetőséget előbb engedélyezni kell.";
 "%@ is a file, not a directory" = "%@ nem mappa, hanem fájl";
 "Copy Images To…" = "Képek másolása ide…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "A Typora megpróbálta az újonnan beszúrt képet a YAML Front Matter beállított %@ mappába másolni, de a mappa nem létezik. Létrehozzuk?";
 "Create Folder and Continue" = "Mappa létrehozása és folytatás";
 "Document must be saved first" = "Előbb menteni kell a dokumentumot";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Az újonnan beszúrt képet a Typora a relatív elérési út által kiválasztott mappába fogja másolni, ezért először mentse a fájlt.";

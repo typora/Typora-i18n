@@ -174,7 +174,6 @@
 "The option `%@` must be enabled first" = "Απαιτείται ενεργοποίηση της επιλογής `%@`.";
 "%@ is a file, not a directory" = "%@ είναι αρχείο, όχι κατάλογος";
 "Copy Images To…" = "Αντιγραφή Εικόνων Σε…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Το Typora προσπαθεί να αντιγράψει την νέα εικόνα στον φάκελο %@ σύμφωνα με τις ρυθμίσεις του YAML Front Matter. Ωστόσο ο φάκελος δεν υπάρχει, θα τον δημιουργήσετε τώρα;";
 "Create Folder and Continue" = "Δημιουργία Φακέλου και Συνέχεια";
 "Document must be saved first" = "Απαιτείται η αποθήκευση του εγγράφου";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." =

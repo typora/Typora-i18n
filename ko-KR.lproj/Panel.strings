@@ -176,7 +176,6 @@
 "The option `%@` must be enabled first" = "`%@` 옵션을 먼저 활성화해야 합니다";
 "%@ is a file, not a directory" = "%@는 폴더가 아니라 파일입니다";
 "Copy Images To…" = "다음으로 이미지 복사…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora는 새로 삽입된 이미지를 YAML Front Matter 설정에 따라  %@ 경로로 복사하고자 합니다. 그러나 해당 폴더가 존재하지 않습니다. 새로 만드시겠습니까?";
 "Create Folder and Continue" = "폴더 생성 후 계속";
 "Document must be saved first" = "문서를 먼저 저장해야 합니다";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora는 새로 삽입된 이미지를 상대적 위치로 선택된 폴더에 저장하므로 파일을 먼저 저장하세요.";

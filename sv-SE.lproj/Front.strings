@@ -44,7 +44,6 @@
 
 /* Images */
 "Copy Image To..." = "Kopiera bilder till...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora försöker kopiera den infogade bilden till <code id='image-create-folder-target'></code> i enlighet med inställningarna i din YAML-metadata. Tyvärr finns inte målmappen ännu. Vill du skapa den nu?";
 "Create Folder" = "Skapa mapp";
 
 /* Math */

@@ -44,7 +44,6 @@
 
 /* Images */
 "Copy Image To..." = "Kopiraj sliku u...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora pokušava kopirati  novoumetnutu sliku u folder <code id='image-create-folder-target'></code> prema tvojim  YAML Front Matter postavkama. Ali taj folder ne postoji, da ga stvorim sada?";
 "Create Folder" = "Stvori Folder";
 
 /* Math */

@@ -51,7 +51,6 @@
 
 /* Images */
 "Copy Image To..." = "Kopírovat obrázek do...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora se pokouší zkopírovat nově vložené obrázky do složky <code id='image-create-folder-target'></code> podle vašeho YAML nastavení, ale složka neexistuje. Chcete ji vytvořit nyní?";
 "Create Folder" = "Vytvořit složku";
 
 /* Math */

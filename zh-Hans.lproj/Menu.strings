@@ -248,6 +248,7 @@
 "Remap Unicode Punctuation on Parse" = "解析Markdown时允许并转化Unicode标点";
 "More Options" = "更多选项";
 
+"HTML Block" = "HTML内容";
 "Delete Block" = "删除块";
 "Delete %@" = "删除%@";
 "Play" = "播放";

@@ -45,7 +45,6 @@
 
 /* Images */
 "Copy Image To..." = "Αντιγραφή Εικόνας Σε...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Το Typora προσπαθεί να αντιγράψει την νέα εικόνα στον φάκελο <code id='image-create-folder-target'></code> σύμφωνα με τις ρυθμίσεις του YAML Front Matter. Ωστόσο ο φάκελος δεν υπάρχει, θα τον δημιουργήσετε τώρα;";
 "Create Folder" = "Δημιουργία Φακέλου";
 
 /* Math */

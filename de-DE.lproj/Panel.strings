@@ -174,7 +174,6 @@
 "The option `%@` must be enabled first" = "Die Option `%@` muss zuerst aktiviert werden.";
 "%@ is a file, not a directory" = "%@ ist eine Datei, kein Verzeichnis";
 "Copy Images To…" = "Bilder kopieren nach…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora versucht die neu eingefügten Bilder in den Ordner %@ zu kopieren, wie es in den YAML Front Matter Einstellungen definiert ist. Der Zielordner exisitert jedoch nicht, soll er jetzt erstellt werden?";
 "Create Folder and Continue" = "Ordner erstellen und fortsetzen";
 "Document must be saved first" = "Das Dokument muss zuerst gespeichert werden";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora wird die neu eingefügten Bilder in einen Ordner relativ zum gewählten Pfad kopieren, bitte speichern Sie die Datei daher zuerst.";

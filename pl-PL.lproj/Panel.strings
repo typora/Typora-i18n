@@ -173,7 +173,6 @@
 "The option `%@` must be enabled first" = "Opcja `%@` musi najpierw zostać włączona.";
 "%@ is a file, not a directory" = "%@ jest plikiem, nie ścieżką";
 "Copy Images To…" = "Kopiuj obrazy do…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora próbuje skopiować nowo umieszczony obraz do folderu %@ bazując na twoim ustawieniu YAML, lecz folder nie istnieje. Stworzyć go teraz?";
 "Create Folder and Continue" = "Stwórz folder i kontynuj";
 "Document must be saved first" = "Dokument najpierw musi być zapisany";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora skopiuje nowo umieszczony obraz do folderu według wskazanej ścieżki, więc proszę najpierw zapisać plik.";

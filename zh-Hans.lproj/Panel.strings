@@ -28,7 +28,7 @@
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
 "Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，改选项被默认启用。";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，该选项被默认启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
 
@@ -245,3 +245,10 @@
 
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>输入时转换</strong>: 输入ASCII的引号/破折号，转化并保存为英式或Unicode的引号/破折号。<br/><strong>渲染时转化</strong>: 输入并保存ASCII的引号/破折号，但渲染为英式或Unicode的引号/破折号</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>解析Markdown符号时，允许并转化Unicode标点，例：<br/> <pre> 》 引用 → > 引用 <br/> [链接](src ’标题’) → [链接](src '标题')</pre>当选中“输入时转换“，并开启“智能引号“或者”智能破折号”时，该选项会默认开启<div>";
+
+"Copy image to custom folder" = "拷贝到自定义路径";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入相对路径（以’./‘或’../‘开头）或绝对路径（`${filename}`表示当前文件名）。";
+"Restore to previous setting" = "撤销更改";
+"Folder not exist at %@, please input another path." = "目录%@不存在，请指定另一个路径。";
+"Please input a folder path." = "请输入目录路径";
+"Cannot use root path." = "无法使用根目录";

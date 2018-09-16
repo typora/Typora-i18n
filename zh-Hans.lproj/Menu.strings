@@ -1,9 +1,9 @@
 /*
- Menu.strings
- Typora
+  Menu.strings
+  Typora
  
  by hi@typora.io & Emphasia@github
- */
+*/
 
 /* Typora Menu */
 
@@ -11,7 +11,7 @@
 "Preferences" = "偏好设置";
 "Check for Updates" = "检查更新";
 "Services" = "服务";
-"Hide Typora" = "隐藏Typora";
+"Hide Typora" = "隐藏 Typora";
 "Hide Others" = "隐藏其他";
 "Show All" = "全部显示";
 "Quit Typora" = "退出";
@@ -35,8 +35,8 @@
 "Save" = "保存";
 "Save As" = "另存为";
 "Duplicate" = "创建副本";
-"Rename" = "重新命名";
-"Move To" = "移到";
+"Rename" = "重命名";
+"Move To" = "移动到";
 "Revert To" = "恢复";
 "Browse All Versions" = "浏览所有版本";
 "Import" = "导入";
@@ -51,8 +51,8 @@
 "Cut" = "剪切";
 "Copy" = "复制";
 "Paste" = "粘贴";
-"Copy as Markdown" = "复制为Markdown";
-"Copy as HTML Code" = "复制为HTML代码";
+"Copy as Markdown" = "复制为 Markdown";
+"Copy as HTML Code" = "复制为 HTML 代码";
 "Paste as Plain Text" = "粘贴为纯文本";
 "Select All" = "全选";
 "Select Line/Sentence" = "选中当前行/句";
@@ -68,17 +68,17 @@
 "Jump to Selection" = "跳转到所选内容";
 "Jump to Bottom" = "跳转到文末";
 "Math Tools" = "数学工具";
-"Refresh All Math Expressions" = "刷新所有公式";
+"Refresh All Math Expressions" = "刷新所有数学公式";
 "Image Tools" = "图片工具";
 "Insert Local Images" = "插入本地图片";
-"Upload Local Images via iPic" = "使用iPic上传本地图片";
+"Upload Local Images via iPic" = "使用 iPic 上传本地图片";
 "When Insert Local Image" = "当插入本地图片时";
-"Copy Image File to Folder" = "复制到文件夹";
-"Upload Image via iPic" = "使用iPic上传";
+"Copy Image File to Folder" = "复制图片到文件夹";
+"Upload Image via iPic" = "使用 iPic 上传图片";
 "Use Image Root Path" = "设置图片根目录";
 "Line Endings" = "换行符";
-"Windows Line Endings (CRLF)" = "Windows换行符 (CRLF)";
-"Unix Line Endings (LF)" = "Unix换行符 (LF)";
+"Windows Line Endings (CRLF)" = "Windows 换行符 (CRLF)";
+"Unix Line Endings (LF)" = "Unix 换行符 (LF)";
 "Find" = "查找";
 "Find Next" = "查找下一个";
 "Find Previous" = "查找上一个";
@@ -106,8 +106,8 @@
 "Heading 4" = "四级标题";
 "Heading 5" = "五级标题";
 "Heading 6" = "六级标题";
-"Increase Heading Level" = "增大标题级别";
-"Decrease Heading Level" = "减小标题级别";
+"Increase Heading Level" = "提升标题级别";
+"Decrease Heading Level" = "降低标题级别";
 "Table" = "表格";
 "Code Fences" = "代码块";
 "Math Block" = "公式块";
@@ -122,7 +122,7 @@
 "List Indentation" = "列表缩进";
 "Indent" = "增加缩进";
 "Outdent" = "减少缩进";
-"Link Reference" = "参考连接";
+"Link Reference" = "链接引用";
 "Footnotes" = "脚注";
 "Horizontal Line" = "水平分割线";
 "Table of Contents" = "内容目录";
@@ -156,13 +156,13 @@
 "File Tree" = "文件树视图";
 "Always on Top" = "保持窗口在最前端";
 "Full Screen" = "全屏";
-"Toggle Fullscreen" = "切换全屏"; 
 "Show Status Bar" = "显示状态栏";
+"Toggle Fullscreen" = "切换全屏"; 
 "Actual Size" = "实际大小"; 
 "Zoom In" = "放大"; 
 "Zoom Out" = "缩小"; 
 "Switch Between Opened Documents" = "应用内窗口切换"; 
-"Toggle DevTools" = "打开DevTools"; 
+"Toggle DevTools" = "启用开发工具"; 
 
 /* Themes Menu */
 "Themes" = "主题";
@@ -182,23 +182,30 @@
 "Feedback" = "反馈";
 "About" = "关于";
 
+/* Touchbar */
+"Block Styles" = "块样式";
+"Inline Styles" = "内联样式";
+"List Styles / Remove Block" = "列表样式 / 移除块";
+"Exit Source Code Mode" = "退出源代码模式";
+"Toggle Source Code Mode" = "启用源代码模式";
+
 /* Extra Context Menu */
 "Table" = "表格";
 "Add Row Above" = "上方插入行";
 "Add Row Below" = "下方插入行";
 "Delete Row" = "删除行";
-"Add Column Before" = "左边插入列";
-"Add Column After" = "右边插入列";
+"Add Column Before" = "左侧插入列";
+"Add Column After" = "右侧插入列";
 "Delete Column" = "删除列";
 "Copy Table" = "复制表格";
 "Delete Table" = "删除表格";
 "Insert Paragraph After" = "下方插入段落";
 "Insert Paragraph Before" = "上方插入段落";
 "Delete Code Block" = "删除代码块";
-"Copy as MathML" = "复制MathML";
-"Copy as Tex" = "复制Tex代码";
+"Copy as MathML" = "复制为 MathML";
+"Copy as Tex" = "复制为 Tex 代码";
 "Copy Math" = "复制公式";
-"Reveal in Finder" = "在Finder中显示";
+"Reveal in Finder" = "在 Finder 中显示";
 "Open Link" = "打开链接";
 "Reveal in Sidebar" = "在侧边栏中显示";
 "Open in New Window" = "在新窗口中打开";
@@ -206,50 +213,51 @@
 "New File" = "新建文件";
 "Rename" = "重命名";
 "New Folder" = "新建文件夹";
-"Move to Trash" = "移到回收站";
+"Move to Trash" = "移至回收站";
 
 /* Electron */
 "Learn Spelling" = "添加到字典";
-"Copy / Paste As…" = "复制/粘贴为…";
+"Copy / Paste As…" = "复制/粘贴为……";
 "Math" = "公式";
 "Insert" = "插入";
 "Inspect Element" = "检查元素";
-"Copy to MS Word" = "复制为Word格式";
-"Paragraph (before)" = "段落 (上方)";
-"Paragraph (after)" = "段落 (下方)";
+"Copy to MS Word" = "复制到 MS Word";
+"Paragraph (before)" = "段落（上方）";
+"Paragraph (after)" = "段落（下方）";
 
-"Search with Google" = "使用Google搜索";
-"Search With…" = "搜索…";
+"Search with Google" = "使用 Google 搜索";
+"Search With…" = "搜索……";
 
 /* Related Panel */
 "Open Failed" = "无法打开";
+"File or folder does not exist." = "目标文件或文件夹不存在。";
+
 "Prettify Source Code" = "格式化表格源码";
-"File or folder does not exist." = "目标文件或文件夹不存在";
-"Copy '%@'" = "复制'%@'";
-"Copy to %@" = "复制图片到%@";
-"Copy Image to..." = "复制图片到...";
-"Upload via iPic" = "上传图片";
+"Copy '%@'" = "复制 '%@'";
+"Copy to %@" = "复制到 %@";
+"Copy Image to..." = "复制图片到……";
+"Upload via iPic" = "通过 iPic 上传图片";
 "Open Image Location" = "打开图片位置";
 
 "Learn More" = "了解更多";
 "Whitespace and Line Breaks" = "空格与换行";
 "Indent first line of paragraphs" = "首行缩进";
 "Preserve single line break" = "保留单换行符";
-"Visible <br/>" = "显示<br>";
+"Visible <br/>" = "显示 <br/>";
 
 "Save All" = "保存全部打开的文件";
 "New Window" = "新建窗口";
 "Reopen Closed File" = "重新打开关闭的文件";
 
-"Global Image Settings" = "全局设置";
+"Global Image Settings" = "全局图像设置";
 "Smart Punctuation" = "智能标点";
 "Convert on Input" = "输入时转换";
 "Convert on Rendering" = "渲染时转换";
-"Remap Unicode Punctuation on Parse" = "解析Markdown时允许并转化Unicode标点";
+"Remap Unicode Punctuation on Parse" = "解析 Markdown 时允许并转化 Unicode 标点";
 "More Options" = "更多选项";
 
-"HTML Block" = "HTML内容";
+"HTML Block" = "HTML 内容";
 "Delete Block" = "删除块";
-"Delete %@" = "删除%@";
+"Delete %@" = "删除 %@";
 "Play" = "播放";
 "Pause" = "暂停";

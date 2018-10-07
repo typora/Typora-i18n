@@ -137,3 +137,17 @@
 
 "select a language" = "select a language";
 "Finish Editing" = "Finish Editing";
+
+"Select Spell Check Language" = "Select Spell Check Language";
+"Auto Detect Language" = "Auto Detect Language";
+"Disable Spell Check" = "Disable Spell Check";
+"Global Setting…" = "Global Setting…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
+"Install Language Support" = "Install Language Support";
+"License Information" = "License Information";
+"Download" = "Download";
+"Install dictionary file only for Typora" = "Install dictionary file only for Typora";
+"Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
+"Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
+"Download dictionary file for %@" = "Download dictionary file for %@";
+"(Default spell check option)" = "(Default spell check option)";

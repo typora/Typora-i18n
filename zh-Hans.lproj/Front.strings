@@ -138,3 +138,17 @@
 
 "select a language" = "选择语言";
 "Finish Editing" = "完成编辑";
+
+"Select Spell Check Language" = "选择拼写检查语言";
+"Auto Detect Language" = "自动检测语言";
+"Disable Spell Check" = "不使用拼写检查";
+"Global Setting…" = "全局设置…";
+"Dictionary file is missing to enable spellcheck support for %@." = "拼写检查: 缺少对于 %@ 的字典文件。";
+"Install Language Support" = "安装改语言的拼写检查支持";
+"License Information" = "版权信息";
+"Download" = "下载";
+"Install dictionary file only for Typora" = "安装仅适用于 Typora 的拼写检查支持";
+"Spell Check (%@ unavailable)" = "拼写检查 (%@ 不可用)";
+"Spell Check (%@ downloading)" = "拼写检查 (%@ 下载中)";
+"Download dictionary file for %@" = "下载针对 %@ 的拼写检查支持包";
+"(Default spell check option)" = "(默认的拼写检查选项)";

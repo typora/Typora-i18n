@@ -12,8 +12,8 @@
 "General" = "通用";
 "Window Style" = "窗口样式";
 "Classic" = "经典";
-"Seamless" = "无缝";
-"Seamless window only support OS X later than 10.10." = "无缝窗口样式只支持 10.10 以上的 macOS 版本";
+"Seamless" = "Seamless";
+"Seamless window only support OS X later than 10.10." = "Seamless窗口样式只支持 10.10 以上的 macOS 版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考 `帮助`->`Quick Start`，或访问 http://theme.typora.io 获取更多主题与指导。";
@@ -22,7 +22,7 @@
 "Font Size" = "字体大小";
 "Auto ( Recommended )" = "自动（推荐）";
 "Customized" = "自定义";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的 CSS 样式共同决定。";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的CSS样式共同决定。";
 "Left Panel" = "侧边栏";
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
@@ -36,7 +36,7 @@
 "Indent Size on Save" = "默认缩进";
 "only apply to quotes and lists created from menu bar or hybrid view" = "只对通过菜单栏或快捷键生成的引用和列表有效";
 "Trigger Autocomplete without ESC key for" = "触发自动完成";
-"Emoji (e.g. :smile:)" = "Emoji表情 （例： :smile: ）";
+"Emoji (e.g. :smile:)" = "Emoji表情（例：:smile: ）";
 "Images Insert" = "图片插入";
 "Use relative path if possible" = "优先使用相对路径";
 "Auto Pair" = "使用成对的符号";
@@ -58,7 +58,7 @@
 "Superscript ( e.g: X^2^ )" = "上标       （例： X^2^ ）";
 "Highlight     (e.g: ==key==)" = "高亮       （例： ==key== ）";
 "Diagrams" = "图表";
-"(Sequence, Flowchart and Mermaid)" = "（序列图，流程图 和 Mermaid 图）";
+"(Sequence, Flowchart and Mermaid)" = "(序列图，流程图 和 Mermaid图)";
 "Syntax Preference" = "Markdown 语法偏好";
 "(only apply for styles created from menubar or hybrid view)" = "（只应用于通过菜单或快捷键生成的样式）";
 "Strict Mode" = "严格模式";
@@ -77,19 +77,19 @@
 "Send Anonymous Usage Info" = "发送匿名使用数据";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "需要安装 Pandoc 以继续……";
+"Require Pandoc to Continue..." = "需要安装 Pandoc 以继续…";
 "Follow instructions to install Pandoc" = "按说明安装 Pandoc";
 "Cancel" = "取消";
 
 /* Pandoc Import Panel */
-"Importing..." = "导入……";
-"Importing in progress..." = "正在导入……";
+"Importing..." = "导入…";
+"Importing in progress..." = "正在导入…";
 "Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，请稍候。";
 "Abort" = "中止";
 
 /* Pandoc Export Panel */
-"Exporting..." = "导出……";
-"Exporting in progress..." = "正在导出……";
+"Exporting..." = "导出…";
+"Exporting in progress..." = "正在导出…";
 "Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，请稍候。";
 
 /* Export & Import */
@@ -103,7 +103,7 @@
 "Failed to export file to <em>{0}</em>" = "导出文件到 <em>{0}</em> 失败";
 "Failed to import file from <em>{0}</em>" = "从文件 <em>{0}</em> 导入失败";
 "File does not exist at <em>{0}</em>" = "路径为 <em>{0}</em> 的文件不存在";
-"Export to..." = "导出到……";
+"Export to..." = "导出到…";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "是否保存更改？<br> 如果不保存，您的更改将会丢失。";
 "[Warning] Failed to attach bookmark for PDF file." = "[警告] 为 PDF 添加书签失败。";
 "Dark Theme not support" = "深色主题不支持";
@@ -114,8 +114,8 @@
 "Exporting file using Pandoc. This may take some time." = "使用 Pandoc 导出中，请稍候。";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "通过 iPic 上传图片……";
-"Uploading in progress..." = "正在上传……";
+"Uploading Images via iPic..." = "通过 iPic 上传图片…";
+"Uploading in progress..." = "正在上传…";
 "Do not show this again" = "不再显示";
 
 /* Word Count */
@@ -159,18 +159,18 @@
 /* Image relates on macOS */
 "This function requires latest version of iPic to be installed." = "该功能需要安装最新版本的 iPic";
 "Get iPic" = "获取 iPic";
-"Cannot Continue…" = "无法继续……";
+"Cannot Continue…" = "无法继续…";
 "This feature require macOS >= 10.11" = "此功能只支持 macOS 10.11 及以上版本";
 "One More Step" = "下一步";
 "Notice" = "注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic ， 本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
-"%d Images Failed to Upload." = "%d 个图片上传失败。";
-"%d Succeeded," = "%d 个成功, ";
+"%d Images Failed to Upload." = "%d个图片上传失败。";
+"%d Succeeded," = "%d个成功, ";
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
-"The option `%@` must be enabled first" = "请先开启选项 `%@` 。";
+"The option `%@` must be enabled first" = "请先开启选项`%@`。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
-"Copy Images To…" = "复制图片到……";
+"Copy Images To…" = "复制图片到…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typera 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";
@@ -184,23 +184,23 @@
 "All Files" = "所有文件";
 "All Supported Formats" = "所有支持的格式";
 "Discard Changes" = "放弃更改";
-"Discard" = "放弃";
+"Discard" = "丢弃";
 
 "Menu" = "菜单";
 "Back" = "返回";
 
 "Contact" = "联系我们";
-"Open From..." = "打开……";
-"Import..." = "导入……";
+"Open From..." = "打开…";
+"Import..." = "导入…";
 "Recent Documents" = "最近使用的文件";
-"Search for…" = "查找……";
+"Search for…" = "查找…";
 "Clear Recent Documents" = "清空最近使用的文档列表";
 "File Name" = "文件名";
 "Path" = "路径";
-"Export As..." = "导出为……";
+"Export As..." = "导出为…";
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
-"Something is Wrong…" = "出错了……";
+"Something is Wrong…" = "出错了…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
@@ -223,7 +223,7 @@
 "Apply above rules to online images" = "对网络位置的图片应用上述规则";
 "Allow upload images automatically based on YAML settings" = "允许根据 YAML 设置自动上传图片";
 
-"Learn More…" = "了解更多……";
+"Learn More…" = "了解更多…";
 "Whitespace / Line Break" = "空格与换行";
 "When Writing" = "编辑时";
 "Export / Print" = "导出与打印";

@@ -13,7 +13,7 @@
 "Close" = "关闭";
 "Select" = "选择";
 "Continue" = "继续";
-"Learn More…" = "了解更多……";
+"Learn More…" = "了解更多…";
 "Untitled" = "未命名";
 "Undo" = "撤销";
 "Dismiss" = "关闭";
@@ -43,7 +43,7 @@
 "Delete Table" = "删除表格";
 
 /* Images */
-"Copy Image To..." = "将图片复制到……";
+"Copy Image To..." = "将图片复制到…";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typora 尝试将新插入的图片复制到目录 <code id='image-create-folder-target'></code>。但该目录不存在，是否立即创建？";
 "Create Folder" = "创建文件夹";
 
@@ -64,11 +64,11 @@
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "当前文件夹内文件过多，请切换至<a id='switch-to-tree-on-oversize'>文件树视图</a>以获得更佳的使用体验。";
 "New File" = "新建文件";
 "Unpin Outline Panel" = "关闭大纲视图";
-"Open Folder..." = "打开文件夹……";
+"Open Folder..." = "打开文件夹…";
 "Action" = "操作";
-"Close Sidebar Menu" = "关闭侧边栏菜单";
+"Close Sidebar Menu" = "关闭";
 "Reveal in Finder" = "在 Finder 中显示";
-"Reveal in File Explorer" = "在文件资源管理器中显示";
+"Reveal in File Explorer" = "在资源管理器中显示";
 "Refresh Folder" = "刷新";
 "Sort" = "排序";
 "Group By Folder" = "按文件夹分组";

@@ -139,6 +139,8 @@
 "select a language" = "选择语言";
 "Finish Editing" = "完成编辑";
 
+"Revert advanced setting file to default one ?" = "确认重置高级设置？";
+
 "Select Spell Check Language" = "选择拼写检查语言";
 "Auto Detect Language" = "自动检测语言";
 "Disable Spell Check" = "不使用拼写检查";
@@ -152,3 +154,8 @@
 "Spell Check (%@ downloading)" = "拼写检查 (%@ 下载中)";
 "Download dictionary file for %@" = "下载针对 %@ 的拼写检查支持包";
 "(Default spell check option)" = "(默认的拼写检查选项)";
+"Failed to load spellcheck module" = "拼写检查加载失败";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> 已开启。";
+"You could turn it off from `View` menu." = "可以在`视图`菜单中关闭";
+"Never show this again." = "不再提示。";

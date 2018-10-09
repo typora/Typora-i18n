@@ -138,6 +138,8 @@
 "select a language" = "select a language";
 "Finish Editing" = "Finish Editing";
 
+"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+
 "Select Spell Check Language" = "Select Spell Check Language";
 "Auto Detect Language" = "Auto Detect Language";
 "Disable Spell Check" = "Disable Spell Check";
@@ -151,3 +153,8 @@
 "Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
 "Download dictionary file for %@" = "Download dictionary file for %@";
 "(Default spell check option)" = "(Default spell check option)";
+"Failed to load spellcheck module" = "Failed to load spellcheck module";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
+"You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
+"Never show this again." = "Never show this again.";

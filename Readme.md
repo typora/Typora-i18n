@@ -45,5 +45,8 @@ Sorry… We do not support that. If you are not sure about the context of the so
 
 Feel free to contact us via <hi@typora.io>
 
+## Reference
 
+- Menu items on macOS → https://github.com/martnst/localize-mainmenu
+- Terminology for Windows → https://www.microsoft.com/en-us/language/
 

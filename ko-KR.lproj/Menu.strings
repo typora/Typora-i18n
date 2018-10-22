@@ -259,3 +259,5 @@
 "Convert on Rendering" = "출력 시 변환";
 "Remap Unicode Punctuation on Parse" = "마크다운 해석 시 유니코드 문장부호를 아스키로 변환";
 "More Options" = "상세 설정";
+
+"Properties" = "속성";

@@ -158,3 +158,6 @@
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
 "You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
 "Never show this again." = "Never show this again.";
+"The file is too large to render in Typora." = "The file is too large to render in Typora.";
+"Open in…" = "Open in…";
+"Quick Look" = "Quick Look";

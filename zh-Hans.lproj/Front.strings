@@ -159,3 +159,4 @@
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> 已开启。";
 "You could turn it off from `View` menu." = "可以在`视图`菜单中关闭";
 "Never show this again." = "不再提示。";
+"The file is too large to render in Typora." = "文件过大。";

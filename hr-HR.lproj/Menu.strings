@@ -87,9 +87,9 @@
 "Replace Next" = "Zamijeni sljedeće";
 "Spelling and Grammar" = "Pravopis i gramatika";
 "Check Document Now" = "Provjeri dokument sada";
-"Check Spelling While Typing" = "Check Spelling While Typing";
+"Check Spelling While Typing" = "Provjeravaj pravopis dok tipkam";
 "Check Grammar With Spelling" = "Check Grammar With Spelling";
-"Correct Spelling Automatically" = "Correct Spelling Automatically";
+"Correct Spelling Automatically" = "Automatski ispravi pravopisne pogreške";
 "Substitutions" = "Zamjene";
 "Smart Quotes" = "Smart Quotes";
 "Smart Dashes" = "Smart Dashes";
@@ -217,7 +217,7 @@
 "Move to Trash" = "Premjesti u smeće";
 
 /* Electron */
-"Learn Spelling" = "Learn Spelling";
+"Learn Spelling" = "Nauči Pravopis";
 "Copy / Paste As…" = "Kopiraj / Zalijepi kao…";
 "Math" = "Math";
 "Insert" = "Umetni";

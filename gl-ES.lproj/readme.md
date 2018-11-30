@@ -1,0 +1,1 @@
+Galician tranlate of Typora

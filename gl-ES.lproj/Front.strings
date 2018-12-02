@@ -1,0 +1,163 @@
+/*
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Cancelar";
+"Yes" = "Si";
+"No" = "Information";
+"Close" = "Pechar";
+"Select" = "Selecinar";
+"Continue" = "Continuar";
+"Learn More…" = "Saber Máis…";
+"Untitled" = "Sen título";
+"Undo" = "Desfacer";
+"Dismiss" = "Descartar";
+"Confirm" = "Confirmar";
+"Error" = "Erro";
+
+/* Search Panel */
+"Search" = "Buscar";
+"Replace" = "Substituír";
+"All" = "Todo";
+"Search text not found in article" = "O texto a buscar non se atopa no artigo";
+"search text" = "buscar texto";
+
+/* Quick Open */
+"Search by file name" = "Buscar polo nome de arquivo";
+"Searching" = "Buscando";
+"Gathering more results" = "Reunindo máis resultados";
+
+/* Tables */
+"Insert Table" = "Insertar táboa";
+"Columns" = "Columnas";
+"Rows" = "Filas";
+"Align Left" = "Á esquerda";
+"Align Center" = "Centrado";
+"Align Right" = "Á dereita";
+"Resize Table" = "Refacer táboa";
+"Delete Table" = "Eliminar táboa";
+
+/* Images */
+"Copy Image To..." = "Copiar imaxe a...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imaxe recentemente inserida no cartafol <code id='image-create-folder-target'></code> de acordo coa súa configuración de YAML Front Matter -tema frontal YAML- ou as preferencias globais. Pero o cartafol de destino non existe, creálo agora?";
+"Create Folder" = "Create Folder";
+
+/* Math */
+"Edit" = "Editar";
+"Delete Math" = "Eliminar Math";
+"Preview" = "Vista previa";
+
+/* Sidebar */
+"Articles" = "Artigos";
+"Outline" = "Esquema";
+"Files" = "Arquivos";
+"Switch to File List view" = "Cambiar á vista listado de arquivos";
+"Switch to File Tree view" = "Cambiar á vista arbore de arquivos";
+"Switch to Outline view" = "Cambiar á vista de esquema";
+"Close sidebar" = "Pechar a barra lateral";
+"Loading" = "Cargando";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Os cartafoles seleccionados conteñen demasiados arquivos. \nCambiar a <a id='switch-to-tree-on-oversize'>Vista da árbore de ficheiros</a> para obter un mellor rendemento.";
+"New File" = "Novo arquivo";
+"Unpin Outline Panel" = "Desfacer panel de esquema";
+"Open Folder..." = "Abrir cartafol...";
+"Action" = "Acción";
+"Close Sidebar Menu" = "Pechar menu barra lateral";
+"Reveal in Finder" = "Revelar no Finder";
+"Reveal in File Explorer" = "Revelar no Explorador de arquivos";
+"Refresh Folder" = "Actualizar o cartafol";
+"Sort" = "Ordenar";
+"Group By Folder" = "Grupo por cartafol";
+"Sort Naturally" = "Ordenar naturalmente";
+"Sort by Name" = "Ordenar por nome";
+"Sort by Modification Date" = "Ordenar por data de modificación";
+"Recent Locations" = "Lugares recentes";
+"Location" = "Localización";
+"Switch File List/Tree View" = "Cambiar Lista de arquivos/Vista de árbore";
+"No Files Available" = "Non hai arquivos dispoñibles";
+"No Folder is Opened." = "Cartafol sen abrir.";
+"Outline is Empty." = "Esquema baleiro.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Alternar Barra lateral";
+"Toggle Source Code Mode" = "Alternar Modo código fonte";
+"Exit Source Code Mode" = "Saír Modo código fonte";
+
+"Table of Contents" = "Táboa de contidos";
+"Empty Diagram" = "Diagrama baleiro";
+  "Input Math TeX here" = "Introduza Math TeX aquí";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Necesita definir a nota ó pé de referencia <b>{0}</b> coa sintaxe <a>[^{1}]:www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Necesita definir a ligazón de referencia <b>[{0}]</b> con sintaxe <b>[{1}]:www.example.com</b> ";
+"Please define image reference by \n[{0}]: http://example.png" = "Defina a referencia de imaxe por \n[{0}]:http://example.png";
+
+/* msg */
+"Failed to create file" = "Fallo ao crear arquivo";
+"Failed to create folder" = "Fallo ao crear cartafol";
+"Failed to rename file" = "Fallo ao renomear arquivo";
+"Folder does not exist at %@" = "O cartafol non existe en %@";
+"File with the same name already exists at target path" = "O arquivo co mesmo nome xa existe na ruta de destino";
+"Apply to All" = "Aplicar a todos";
+"Overwrite" = "Sobreescribir";
+"Stop" = "Parar";
+"back to document" = "voltar ao documento";
+"Failed to load file" = "Fallo ao cargar o arquivo";
+"Save File Failed!" = "Gardar o arquivo fallou!";
+"Cannot open folder {0}" = "Non se pode abrir o cartafol {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "O contido do arquivo modificouse por aplicacións externas. ¿Volver cargar o contido do disco?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Desexa continuar a mover e sobreescribir os ficheiros existentes?";
+
+"Rename Failed" = "Renomear fallou";
+"Rename to \"{0}\" ?" = "Cambiar nome a \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Fallou renomear de \"{0}\" a \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Cargou con éxito {0} imaxes.";
+"Failed to upload image. Error Message:" = "Erro ao cargar a imaxe. Mensaxe de erro:";
+"Failed to Copy Image to Target Folder." = "Fallo ao copiar a imaxe ao cartafol obxectivo.";
+"Select Container Folder" = "Seleccione o cartafol contedor";
+
+"Saved" = "Gardado";
+
+/* place holder in find & replace input */
+"search text" = "buscar texto";
+"replace with" = "substituír con";
+/* search option */
+"Case Sensitive" = "Sensible a tipos";
+  "Whole Word" = "Palabra enteira";
+
+"input image URL" = "entrar URL da imaxe";
+"Select image from local file" = "Seleccionar imaxe dende arquivo local";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Non se pode abrir a localización <code>$1</code>, quere dicir <a href='https://$3'>https://$2</a>?";
+
+"select a language" = "escoller un idioma";
+"Finish Editing" = "Finaliza a edición";
+
+"Revert advanced setting file to default one ?" = "Reverter o arquivo de configuración avanzada ao predeterminado?";
+
+"Select Spell Check Language" = "Seleccione Idioma da ortografía";
+"Auto Detect Language" = "Auto Detectar Idioma";
+"Disable Spell Check" = "Desactivar Corrección ortográfica";
+"Global Setting…" = "Configuración global…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Falta o arquivo de dicionario para activar o soporte de ortografía %@.";
+"Install Language Support" = "Instalar soporte de idioma";
+"License Information" = "Información da licenza";
+"Download" = "Descarga";
+"Install dictionary file only for Typora" = "Instale o ficheiro de dicionario só para Typora";
+"Spell Check (%@ unavailable)" = "Corrección ortográfica (%@ non dispoñible)";
+"Spell Check (%@ downloading)" = "Corrección ortográfica (%@ descargando)";
+"Download dictionary file for %@" = "Descargar o ficheiro de dicionario para %@";
+"(Default spell check option)" = "(Opción de verificación ortográfica predefinida)";
+"Failed to load spellcheck module" = "Non se puido cargar o módulo de verificación ortográfica";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> activouse.";
+"You could turn it off from `View` menu." = "Podes desactivalo desde o menú `Ver`.";
+"Never show this again." = "Non amosar isto de novo.";
+"The file is too large to render in Typora." = "O arquivo é demasiado grande para renderizar en Typora.";
+"Open in…" = "Abrir en…";
+"Quick Look" = "Ollada rápida";

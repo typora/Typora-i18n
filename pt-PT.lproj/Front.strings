@@ -1,0 +1,131 @@
+/*
+  Front.strings
+  Typora
+
+ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Cancelar";
+"Yes" = "Sim";
+"No" = "Não";
+"Close" = "Fechar";
+"Select" = "Selecionar";
+"Continue" = "Continuar";
+"Learn More…" = "Saiba mais…";
+"Untitled" = "Sem Título";
+"Undo" = "Desfazer";
+"Dismiss" = "Dispensar";
+"Confirm" = "Confirmar";
+"Error" = "Erro";
+
+/* Search Panel */
+"Search" = "Procurar";
+"Replace" = "Substituir";
+"All" = "Todos";
+"Search text not found in article" = "Texto não encontrado no artigo";
+"search text" = "texto para procurar";
+
+/* Quick Open */
+"Search by file name" = "Procurar pelo nome do ficheiro";
+"Searching" = "Procurando";
+"Gathering more results" = "Obtendo mais resultados";
+
+/* Tables */
+"Insert Table" = "Inserir Tabela";
+"Columns" = "Colunas";
+"Rows" = "Linhas";
+"Align Left" = "Alinhar à Esquerda";
+"Align Center" = "Alinhar ao Centro";
+"Align Right" = "Alinhar à Direita";
+"Resize Table" = "Redimensionar Tabela";
+"Delete Table" = "Remover Tabela";
+
+/* Images */
+"Copy Image To..." = "Copiar Imagem Para...";
+"Create Folder" = "Criar Pasta";
+
+/* Math */
+"Edit" = "Editar";
+"Delete Math" = "Apagar Equação";
+"Preview" = "Pré-visualizar";
+
+/* Sidebar */
+"Articles" = "Artigos";
+"Outline" = "Índices";
+"Files" = "Ficheiros";
+"Switch to File List view" = "Mudar para a vista de Lista de Ficheiros";
+"Switch to File Tree view" = "Mudar para a vista de Árvore de Ficheiros";
+"Switch to Outline view" = "Mudar para Índices";
+"Close sidebar" = "Fechar barra lateral";
+"Loading" = "Carregando";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A pasta selecionada possui demasiados ficheiros. \nPor favor mude para <a id='switch-to-tree-on-oversize'>Árvore de Ficheiros</a> para melhorar o desempenho.";
+"New File" = "Novo ficheiro";
+"Unpin Outline Panel" = "Desafixar Painel de Índices";
+"Open Folder..." = "Abrir pasta...";
+"Action" = "Ação";
+"Close Sidebar Menu" = "Fechar Menu da Barra Lateral";
+"Reveal in Finder" = "Exibir no Finder";
+"Reveal in File Explorer" = "Exibir no Explorador de Ficheiros";
+"Refresh Folder" = "Recarregar pasta";
+"Sort" = "Ordenar";
+"Group By Folder" = "Agrupar Por Pasta";
+"Sort Naturally" = "Ordenar Naturalmente";
+"Sort by Name" = "Ordenar por Nome";
+"Sort by Modification Date" = "Ordenar por Data de Modificação";
+"Recent Locations" = "Locais Recentes";
+"Location" = "Localização";
+"Switch File List/Tree View" = "Alternar Lista/Árvore de Ficheiros";
+"No Files Available" = "Nenhum Ficheiro Disponível";
+"No Folder is Opened." = "Nenhuma Pasta está Aberta.";
+"Outline is Empty." = "Índice vazio.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Alternar Barra Lateral";
+"Toggle Source Code Mode" = "Alternar Modo Código Fonte";
+"Exit Source Code Mode" = "Sair do Modo Código Fonte";
+
+"Table of Contents" = "Tabela de Conteúdos";
+"Empty Diagram" = "Diagrama Vazio";
+"Input Math TeX here" = "Insira equação TeX aqui";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "É necessário definir a referência da nota de rodapé <b>{0}</b> com sintaxe <a>[^{1}]: www.exemplo.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "É necessário definir o link <b>[{0}]</b> com sintaxe <b>[{1}]: www.exemplo.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Por favor defina a referência da imagem como \n[{0}]: http://exemplo.png";
+
+/* msg */
+"Failed to create file" = "Erro ao criar ficheiro";
+"Failed to create folder" = "Erro ao criar pasta";
+"Failed to rename file" = "Erro ao renomear ficheiro";
+"Folder does not exist at %@" = "Pasta não existe em %@";
+"File with the same name already exists at target path" = "Um ficheiro com o mesmo nome já existe no caminho de destino";
+"Apply to All" = "Aplicar a Todos";
+"Overwrite" = "Sobrescrever";
+"Stop" = "Parar";
+"back to document" = "voltar ao documento";
+"Failed to load file" = "Erro ao carregar ficheiro";
+"Save File Failed!" = "Erro ao Guardar Ficheiro!"
+"Cannot open folder {0}" = "Não foi possível abrir a pasta {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "O conteúdo do ficheiro foi modificado por aplicações externas. Recarregar o conteúdo?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Continuar movendo e sobrescrever o(s) ficheiro(s) existente(s))?";
+
+"Rename Failed" = "Erro ao Renomear";
+"Rename to \"{0}\" ?" = "Renomear para \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Erro ao renomear de \"{0}\" para \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "{0} imagens carregadas com sucesso.";
+"Failed to upload image. Error Message:" = "Erro ao carregar imagem. Mensagem de Erro:";
+"Failed to Copy Image to Target Folder." = "Erro ao Copiar Imagem à Pasta de Destino.";
+"Select Container Folder" = "Selecionar Pasta de Contêiner";
+
+"Saved" = "Salvo";
+
+/* place holder in find & replace input */
+"search text" = "texto para procurar";
+"replace with" = "substituir com";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Palavra Inteira";

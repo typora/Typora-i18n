@@ -243,8 +243,8 @@
 "Learn More" = "További információ";
 "Whitespace and Line Breaks" = "Elválasztó karakterek és sortörések";
 "Indent first line of paragraphs" = "Bekezdés első sorának behúzása";
-"Visible <br/>" = "Látható <br/> és markdown sortörés";
-"Preserve sequential whitespace and single line break" = "Egymás utáni elválasztó karakterek és egyszeres sortörés megőrzése";
+"Preserve single line break" = "Egyszeres sortörés megőrzése";
+"Visible <br/>" = "Látható <br/>";
 
 "Save All" = "Összes mentése";
 "New Window" = "Új ablak";
@@ -256,3 +256,13 @@
 "Convert on Rendering" = "Csere megjelenítéskor";
 "Remap Unicode Punctuation on Parse" = "Unicode írásjelek átalakítása feldolgozáskor";
 "More Options" = "További beállítások";
+
+"HTML Block" = "HTML doboz";
+"Delete Block" = "Doboz törlése";
+"Delete %@" = "%@ törlése";
+"Play" = "Lejátszás";
+"Pause" = "Szünet";
+
+"Spell Check" = "Helyesírás ellenőrzés";
+"Unlearn Spelling" = "Helyesírás elfelejtése";
+"Properties" = "Tulajdonságok";

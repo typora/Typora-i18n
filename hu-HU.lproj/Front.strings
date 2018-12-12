@@ -44,6 +44,7 @@
 
 /* Images */
 "Copy Image To..." = "Kép másolása ide...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "A beszúrt képet a Typora megpróbálta a YAML Front Matterben beállított <code id='image-create-folder-target'></code> mappába másolni, de az nem létezik. Létrehozzuk?";
 "Create Folder" = "Mappa létrehozása";
 
 /* Math */
@@ -133,3 +134,30 @@
 "input image URL" = "kép URL megadása";
 "Select image from local file" = "Helyi fájlban tárolt kép választása";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "A <code>$1</code> helyet nem lehet megnyitni. Esetleg nem <a href='https://$3'>https://$2</a> a helyes érték?";
+
+"select a language" = "válassz nyelvet";
+"Finish Editing" = "Szerkesztés befejezése";
+
+"Revert advanced setting file to default one ?" = "Vissza legyenek állítva a Speciális beállítások?";
+
+"Select Spell Check Language" = "Helyesírás ellenőrzés nyelve";
+"Auto Detect Language" = "Automatikus felismerés";
+"Disable Spell Check" = "Ellenőrzés kikapcsolása";
+"Global Setting…" = "Globális beállítás…";
+"Dictionary file is missing to enable spellcheck support for %@." = "A %@ nyelvhez hiányzik a szótár.";
+"Install Language Support" = "Nyelvi támogatás telepítése";
+"License Information" = "Licencinformáció";
+"Download" = "Letöltés";
+"Install dictionary file only for Typora" = "Szótár telepítése csak a Typora számára";
+"Spell Check (%@ unavailable)" = "Helyesírás ellenőrzés (%@ nem áll rendelkezésre)";
+"Spell Check (%@ downloading)" = "Helyesírás ellenőrzés (%@ letöltése)";
+"Download dictionary file for %@" = "A %@ nyelv szótárának letöltése";
+"(Default spell check option)" = "(Alapértelmezett helyesírás ellenőrzés)";
+"Failed to load spellcheck module" = "Helyesírás ellenőrző betöltése nem sikerült";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> bekapcsolódott.";
+"You could turn it off from `View` menu." = "A `Nézet` menüből kikapcsolható.";
+"Never show this again." = "Ne mutassa többet.";
+"The file is too large to render in Typora." = "A fájl nem jeleníthető meg, mert túl nagy.";
+"Open in…" = "Társítás…";
+"Quick Look" = "Gyorsnézet";

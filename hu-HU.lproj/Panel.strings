@@ -171,6 +171,7 @@
 "The option `%@` must be enabled first" = "A `%@` lehetőséget előbb engedélyezni kell.";
 "%@ is a file, not a directory" = "%@ nem mappa, hanem fájl";
 "Copy Images To…" = "Képek másolása ide…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban szereplő %@ mappába másolni, de az nem létezik. Létrehozzuk?";
 "Create Folder and Continue" = "Mappa létrehozása és folytatás";
 "Document must be saved first" = "Előbb menteni kell a dokumentumot";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Az újonnan beszúrt képet a Typora a relatív elérési út által kiválasztott mappába fogja másolni, ezért először mentse a fájlt.";
@@ -244,3 +245,10 @@
 "Choose Default Folder" = "Alapértelmezett mappa kiválasztása";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Csere begépeléskor</strong>: A begépelt ASCII kötő- és idézőjelek nyomdai megfelelőjükre cserélődnek és így lesznek elmentve.<br/><strong>Csere megjelenítéskor</strong>: A begépelt ASCII kötő- és idézőjelek mentésre kerülnek és csak megjelenítéshez cserélődnek nyomdai megfelelőjükre.</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Markdown feldolgozásakor a nyomdai unicode írásjeleket ASCII-vé alakítja vissza, pl.:<br/> <pre> 》 idézet → > idézet <br/> [link](src ’cím’) → [link](src 'cím')</pre>Automatikusan bekapcsolódik, amikor a Csere begépeléskor be van kapcsolva.<div>";
+
+"Copy image to custom folder" = "Kép másolása egyéni mappába";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Adjon meg egy elérési utat az aktuális mappához képest, ami './' vagy '../' jellel kezdődik, vagy egy abszolút utat. (A `${filename}` jelenti a szerkesztett fájl nevét.)";
+"Restore to previous setting" = "Előző beállítás visszaállítása";
+"Folder not exist at %@, please input another path." = "A %@ helyen nincs mappa, adjon meg egy másik útvonalat.";
+"Please input a folder path." = "Írjon be egy elérési utat.";
+"Cannot use root path." = "A gyökérmappa nem használható.";

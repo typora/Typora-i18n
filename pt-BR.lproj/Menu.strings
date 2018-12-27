@@ -232,3 +232,5 @@
 /* Related Panel */
 "Open Failed" = "Erro ao Abrir";
 "File or folder does not exist." = "Arquivo ou pasta não existe.";
+
+"Search" = "Buscar";

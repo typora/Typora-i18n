@@ -119,7 +119,11 @@
 "Do not show this again" = "不再显示";
 
 /* Word Count */
-"%d Words" = "%d 词";
+"Minute" = "分钟";
+"Line" = "行";
+"Word" = "词";
+"Character" = "字符";
+
 "Minutes" = "分钟";
 "Lines" = "行";
 "Words" = "词";
@@ -251,3 +255,24 @@
 "Folder not exist at %@, please input another path." = "目录 %@ 不存在，请指定另一个路径。";
 "Please input a folder path." = "请输入目录路径。";
 "Cannot use root path." = "不能使用根目录。";
+
+"Get Themes" = "获取主题";
+"File/directory alreay exists at target path." = "目标路径上已有文件存在。";
+"Keep Both" = "全部保留";
+"Are you sure you want to move %@?" = "是否要移动至 %@?";
+
+"Are you sure you want to delete %@?" = "是否要删除 %@?";
+"You can restore from the Trash." = "您可以从回收站恢复文件。";
+
+"Reset All Dialog Warnings" = "重置全部警告提示对话框";
+"Dialogs" = "对话框";
+"Dialog warnings have been reset." = "警告提示对话框已被重置";
+
+"Operation Failed" = "操作失败";
+"Failed to move target file or folder to trash" = "将文件移至回收站失败";
+
+"Undo %@" = "撤销%@";
+"Rename %@" = "重命名 %@";
+"Copy %@" = "拷贝 %@";
+"Move %@" = "移动 %@";
+"Delete %@" = "删除 %@";

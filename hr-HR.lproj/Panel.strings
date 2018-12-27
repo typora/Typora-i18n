@@ -119,7 +119,11 @@
 "Do not show this again" = "Ne prikazuj ovo opet";
 
 /* Word Count */
-"%d Words" = "%d riječi";
+"Minute" = "Minute";
+"Line" = "Linije";
+"Word" = "Riječi";
+"Character" = "Znakovi";
+
 "Minutes" = "Minute";
 "Lines" = "Linije";
 "Words" = "Riječi";

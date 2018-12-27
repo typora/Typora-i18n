@@ -257,6 +257,8 @@
 "Remap Unicode Punctuation on Parse" = "Unicode írásjelek átalakítása feldolgozáskor";
 "More Options" = "További beállítások";
 
+"Search" = "Keresés";
+
 "HTML Block" = "HTML doboz";
 "Delete Block" = "Doboz törlése";
 "Delete %@" = "%@ törlése";

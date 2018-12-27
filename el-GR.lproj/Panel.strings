@@ -122,7 +122,11 @@
 "Do not show this again" = "Μην το δείξεις ξανά";
 
 /* Word Count */
-"%d Words" = "%d Λέξεις";
+"Minute" = "Λεπτά";
+"Line" = "Γραμμές";
+"Word" = "Λέξεις";
+"Character" = "Χαρακτήρες";
+
 "Minutes" = "Λεπτά";
 "Lines" = "Γραμμές";
 "Words" = "Λέξεις";

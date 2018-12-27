@@ -121,7 +121,11 @@
 "Do not show this again" = "Ne plus montrer ce message";
 
 /* Word Count */
-"%d Words" = "%d Mots";
+"Minute" = "Minutes";
+"Line" = "Lignes";
+"Word" = "Mots";
+"Character" = "Caractères";
+
 "Minutes" = "Minutes";
 "Lines" = "Lignes";
 "Words" = "Mots";

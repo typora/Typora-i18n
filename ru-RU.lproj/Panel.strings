@@ -119,7 +119,11 @@
 "Do not show this again" = "Не показывать это снова";
 
 /* Word Count */
-"%d Words" = "%d слов";
+"Minute" = "минут";
+"Line" = "строк";
+"Word" = "слов";
+"Character" = "символов";
+
 "Minutes" = "минут";
 "Lines" = "строк";
 "Words" = "слов";

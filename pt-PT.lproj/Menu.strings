@@ -145,7 +145,7 @@
 "Clear Format" = "Limpar Formato";
 
 /* View Menu */
-"View" = "Visualizar";
+"View" = "Visualização";
 "New Tab" = "Nova Aba";
 "Source Code Mode" = "Modo Código Fonte";
 "Focus Mode" = "Modo Foco";
@@ -232,3 +232,5 @@
 /* Related Panel */
 "Open Failed" = "Erro ao Abrir";
 "File or folder does not exist." = "Ficheiro ou pasta não existe.";
+
+"Search" = "Buscar";

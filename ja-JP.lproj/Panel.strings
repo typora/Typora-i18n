@@ -129,7 +129,11 @@
 "Do not show this again" = "このメッセージを非表示に";
 
 /* Word Count */
-"%d Words" = "%d単語";
+"Minute" = "分";
+"Line" = "行";
+"Word" = "単語";
+"Character" = "文字";
+
 "Minutes" = "分";
 "Lines" = "行";
 "Words" = "単語";

@@ -119,7 +119,11 @@
 "Do not show this again" = "Visa inte detta igen";
 
 /* Word Count */
-"%d Words" = "%d Ord";
+"Minute" = "Minuter";
+"Line" = "Rader";
+"Word" = "Ord";
+"Character" = "Tecken";
+
 "Minutes" = "Minuter";
 "Lines" = "Rader";
 "Words" = "Ord";

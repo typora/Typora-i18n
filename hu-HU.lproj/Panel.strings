@@ -119,7 +119,11 @@
 "Do not show this again" = "Ne jelenlen meg újra";
 
 /* Word Count */
-"%d Words" = "%d szó";
+"Minute" = "Perc";
+"Line" = "Sor";
+"Word" = "Szó";
+"Character" = "Karakter";
+
 "Minutes" = "Perc";
 "Lines" = "Sor";
 "Words" = "Szó";

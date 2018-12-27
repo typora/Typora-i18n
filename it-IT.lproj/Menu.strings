@@ -231,3 +231,5 @@
 /* Related Panel */
 "Open Failed" = "Impossibile aprire";
 "File or folder does not exist." = "Il file o la cartella non esiste.";
+
+"Search" = "Cerca";

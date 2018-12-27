@@ -119,7 +119,11 @@
 "Do not show this again" = "不再顯示";
 
 /* Word Count */
-"%d Words" = "%d 字";
+"Minute" = "分鐘";
+"Line" = "行";
+"Word" = "字";
+"Character" = "字元";
+
 "Minutes" = "分鐘";
 "Lines" = "行";
 "Words" = "字";

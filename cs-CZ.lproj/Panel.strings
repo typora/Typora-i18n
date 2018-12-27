@@ -128,7 +128,11 @@
 "Do not show this again" = "Toto znovu nezobrazovat";
 
 /* Word Count */
-"%d Words" = "%d Slov";
+"Minute" = "Minut";
+"Line" = "Řádků";
+"Word" = " Slov";
+"Character" = "Znaků";
+
 "Minutes" = "Minut";
 "Lines" = "Řádků";
 "Words" = " Slov";

@@ -124,7 +124,11 @@
 "Do not show this again" = "다시 보지 않기";
 
 /* Word Count */
-"%d Words" = "%d개 단어";
+"Minute" = "분";
+"Line" = "줄";
+"Word" = "단어";
+"Character" = "문자";
+
 "Minutes" = "분";
 "Lines" = "줄";
 "Words" = "단어";

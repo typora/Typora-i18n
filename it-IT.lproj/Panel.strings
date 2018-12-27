@@ -121,7 +121,11 @@
 "Do not show this again" = "Non mostrare di nuovo";
 
 /* Word Count */
-"%d Words" = "%d Parole";
+"Minute" = "Minuti";
+"Line" = "Righe";
+"Word" = "Parole";
+"Character" = "Caratteri";
+
 "Minutes" = "Minuti";
 "Lines" = "Righe";
 "Words" = "Parole";

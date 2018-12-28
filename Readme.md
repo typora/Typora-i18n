@@ -23,18 +23,6 @@ If you want to help translate Typora into other languages, we would very appreci
   - To search the translation of terms for Windows machines you can use Microsoft's Terminology Search at <https://www.microsoft.com/en-us/language>. Other useful resources can be found at the Microsoft Language Toolbox at <https://www.microsoft.com/en-us/language/Toolbox>.
 - Comment style `/* some words */` is supported, `// comment` is **NOT** supported.
 
-## Updates:
-
-01/25/2018 Add missing text resouces: [#04218fa42](https://github.com/typora/Typora-i18n/commit/04218fa423fc29054c5dea5a24b8b9e3a82266fb)
-
-02/16/2018 Add missing text resouces: [#7ae85cf42](https://github.com/typora/Typora-i18n/commit/7ae85cf42cfeda2573d930be504f0a13bcc05e78)
-
-03/10/2018 Add missing text resouces: [#a636f57f1](https://github.com/typora/Typora-i18n/commit/a636f57f1a2e35af90d1f46dd4a0d920d257cbf7)
-
-03/17/2018 Add text resource for images related function: [#ce636bae9](https://github.com/typora/Typora-i18n/commit/ce636bae9eb68e7f443e3b4a17dec0db8e1f14cb)
-
-05/01 [#b3fe265ff5](https://github.com/typora/Typora-i18n/commit/b3fe265ff5c03952f9b81aad8a97291a6cbd8294)
-
 ## FAQ
 
 > Can I test my translations?

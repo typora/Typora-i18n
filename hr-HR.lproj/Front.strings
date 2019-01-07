@@ -13,12 +13,12 @@
 "Close" = "Zatvori";
 "Select" = "Odaberi";
 "Continue" = "Nastavi";
-"Learn More…" = "Nauči više…";
+"Learn More…" = "Saznaj više…";
 "Untitled" = "Bezimeno";
 "Undo" = "Poništi";
 "Dismiss" = "Odbaci";
 "Confirm" = "Potvrdi";
-"Error" = "Greška";
+"Error" = "Pogreška";
 
 /* Search Panel */
 "Search" = "Nađi";
@@ -28,23 +28,23 @@
 "search text" = "traži text";
 
 /* Quick Open */
-"Search by file name" = "Traži po imenu fajla";
+"Search by file name" = "Traži po imenu datoteke";
 "Searching" = "Tražim";
 "Gathering more results" = "Skupljam više rezultata";
 
 /* Tables */
-"Insert Table" = "Umetni Tablicu";
+"Insert Table" = "Umetni tablicu";
 "Columns" = "Stupci";
 "Rows" = "Retci";
 "Align Left" = "Ulijevo";
 "Align Center" = "Centriraj";
 "Align Right" = "Udesno";
-"Resize Table" = "Promijeni Veličinu Tablice";
-"Delete Table" = "Obriši Tablicu";
+"Resize Table" = "Promijeni veličinu tablice";
+"Delete Table" = "Obriši tablicu";
 
 /* Images */
 "Copy Image To..." = "Kopiraj sliku u...";
-"Create Folder" = "Stvori Folder";
+"Create Folder" = "Stvori direktorij";
 
 /* Math */
 "Edit" = "Uredi";
@@ -55,39 +55,39 @@
 "Articles" = "Članci";
 "Outline" = "Outline";
 "Files" = "Fajlovi";
-"Switch to File List view" = "Prebaci na File List view";
-"Switch to File Tree view" = "Prebaci na File Tree pregled";
-"Switch to Outline view" = "Prebaci na Outline pregled";
+"Switch to File List view" = "Prebaci na pregled datoteka - lista";
+"Switch to File Tree view" = "Prebaci na pregled datoteka - stablo";
+"Switch to Outline view" = "Prebaci na pregled sadržaja";
 "Close sidebar" = "Zatvori bočnu traku";
 "Loading" = "Učitavam";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Odabrani folderi sadrže previše fajlova. \nMolimo prebacite se na <a id='switch-to-tree-on-oversize'>File Tree view</a> za bolji performance.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Odabrani direktoriji sadrže previše datoteka. \nMolimo prebacite se na <a id='switch-to-tree-on-oversize'>File Tree view</a> za bolji performance.";
 "New File" = "Novi Fajl";
 "Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Otvori Folder...";
+"Open Folder..." = "Otvori direktorij...";
 "Action" = "Akcija";
 "Close Sidebar Menu" = "Zatvori Sidebar Menu";
 "Reveal in Finder" = "Otkrij u Finderu";
-"Reveal in File Explorer" = "Otkrij u Pregledniku Fajlova";
-"Refresh Folder" = "Osvježi Folder";
+"Reveal in File Explorer" = "Pokaži u pregledniku datoteka";
+"Refresh Folder" = "Osvježi direktorij";
 "Sort" = "Sortiraj";
-"Group By Folder" = "Grupiraj po folderu";
+"Group By Folder" = "Grupiraj po direktoriju";
 "Sort Naturally" = "Sortiraj prirodno";
-"Sort by Name" = "Sortiraj po Imenu";
+"Sort by Name" = "Sortiraj po imenu";
 "Sort by Modification Date" = "Sortiraj po datumu uređivanja";
 "Recent Locations" = "Nedavne Lokacije";
 "Location" = "Lokacija";
-"Switch File List/Tree View" = "Prebaci pregled Lista fajlova/Razgranati";
-"No Files Available" = "Nema dostupnih fajlova";
-"No Folder is Opened." = "Nijedan Folder nije otvoren.";
+"Switch File List/Tree View" = "Prebaci pregled datoteka Lista/Stablo";
+"No Files Available" = "Nema dostupnih datoteka";
+"No Folder is Opened." = "Nijedan direktorij nije otvoren.";
 "Outline is Empty." = "Outline je prazan.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Prikaži/Skloni Bočnu Traku";
-"Toggle Source Code Mode" = "Prikaži Mod Izvornog Koda";
-"Exit Source Code Mode" = "Izađi iz moda Izvornog Koda";
+"Toggle Sidebar" = "Prikaži/skloni Bočnu Traku";
+"Toggle Source Code Mode" = "Prikaži mod izvornog kôda";
+"Exit Source Code Mode" = "Izađi iz moda izvornog kôda";
 
 "Table of Contents" = "Tablica Sadržaja";
-"Empty Diagram" = "Isprazni Diagram";
+"Empty Diagram" = "Isprazni dijagram";
 "Input Math TeX here" = "Unesi Math TeX ovdje";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
@@ -95,21 +95,21 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Stvaranje fajla nije uspjelo";
-"Failed to create folder" = "Stvaranje foldera nije uspjelo";
-"Failed to rename file" = "Preimenovanje fajla nije uspjelo";
-"Folder does not exist at %@" = "Folder ne postoji na %@";
-"File with the same name already exists at target path" = "Fajl sa istim imenom već postoji na tom mjestu";
+"Failed to create file" = "Stvaranje datoteke nije uspjelo";
+"Failed to create folder" = "Stvaranje direktorija nije uspjelo";
+"Failed to rename file" = "Preimenovanje datoteke nije uspjelo";
+"Folder does not exist at %@" = "Direktorij ne postoji na %@";
+"File with the same name already exists at target path" = "Datoteka s istim imenom već postoji na tom mjestu";
 "Apply to All" = "Primijeni na sve";
 "Overwrite" = "Prepiši";
 "Stop" = "Stani";
 "back to document" = "natrag na dokument";
-"Failed to load file" = "Neuspjelo učitavanje fajla";
-"Save File Failed!" = "Spremanje fajla nije uspjelo!";
-"Cannot open folder {0}" = "Ne mogu otvoriti folder {0}";
+"Failed to load file" = "Neuspjelo učitavanje datoteke";
+"Save File Failed!" = "Spremanje datoteke nije uspjelo!";
+"Cannot open folder {0}" = "Ne mogu otvoriti direktorij {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Sadržaj fajla je izmijenjen externom aplikacijom. Da osvježim trenutni sadržaj sa diska ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Da nastavim sa premještanjem i prepišem postojeći fajl(ove) ?";
+"File content is changed by external applications. Reload content from disk ?" = "Sadržaj datoteke je izmijenjen externom aplikacijom. Da osvježim trenutni sadržaj s diska ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Da nastavim s premještanjem i prepišem postojeću datoteku(e) ?";
 
 "Rename Failed" = "Preimenovanje nije uspjelo";
 "Rename to \"{0}\" ?" = "Preimenuj u \"{0}\" ?";
@@ -118,18 +118,18 @@
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Uspješno uploadano {0} slika.";
 "Failed to upload image. Error Message:" = "Greška pri uploadu slike. Poruka greške:";
-"Failed to Copy Image to Target Folder." = "Neuspjelo kopiranje slike u željeni folder.";
-"Select Container Folder" = "Odaberi  Folder";
+"Failed to Copy Image to Target Folder." = "Neuspjelo kopiranje slike u željeni direktorij.";
+"Select Container Folder" = "Odaberi direktorij za pohranu";
 
-"Saved" = "Sačuvano";
+"Saved" = "Spremljeno";
 
 /* place holder in find & replace input */
 "search text" = "traži text";
 "replace with" = "zamijeni sa";
 /* search option */
 "Case Sensitive" = "Osjetljivost na velika i mala slova";
-"Whole Word" = "Cijela Riječ";
+"Whole Word" = "Cijela riječ";
 
 "input image URL" = "unesi link slike";
-"Select image from local file" = "Odaberi lokalni fajl slike";
+"Select image from local file" = "Odaberi sliku iz datoteke lokalno";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne mogu otvoriti lokaciju <code>$1</code>, jeste li mislili <a href='https://$3'>https://$2</a> ?";

@@ -15,7 +15,7 @@
 "Seamless" = "Konzistentno";
 "Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
 "Themes" = "Teme";
-"Open Theme Folder" = "Otvori folder s temama";
+"Open Theme Folder" = "Otvori direktorij s temama";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Molimo odaberite `pomoć`->`Brzi Start` za kratki uvod. Posjetite http://theme.typora.io kako biste nabavili više tema ili instrukcija.";
 "Word Count" = "Broj riječi";
 "Always Show Word Count" = "Uvijek pokaži broj riječi";
@@ -24,16 +24,16 @@
 "Customized" = "Prilagođeno svojim potrebama";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
 "Left Panel" = "Lijevi Panel";
-"Show Outline Panel by Default" = "Prikaži Outline Panel kao zadani";
-"Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
-"Save without asking when\nswitch files on side panel" = "Automatski sačuvaj prilikom prelaženja s fajla na fajl na bočnoj traci";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Uređeni fajlovi će biti sačuvani bez pitanja kada prijeđete na novi fajl u lijevom panelu. \nSve dok je \"Pitaj da sačuvaš promjene pri zatvaranju dokumenata\" omogućeno u Postavkama Sustava, ovo će uvijek biti omogućeno.";
+"Show Outline Panel by Default" = "Prikaži panel sadržaja kao zadani";
+"Collapsible Outline on Left Panel" = "Panel sadržaja s opcijom skrivanja";
+"Save without asking when\nswitch files on side panel" = "Automatski sačuvaj prilikom prelaska s datoteke na datoteku u bočnoj traci";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Uređene datoteke će biti sačuvane bez pitanja kada prelazite na novu datoteku u lijevom panelu. \nSve dok je \"Pitaj da sačuvaš promjene pri zatvaranju dokumenata\" omogućeno u postavkama sustava, ovo će uvijek biti omogućeno.";
 "Language" = "Jezik";
 "System Language" = "Jezik sustava";
 
 /* Editor Panel */
 "Editor" = "Uređivač";
-"Indent Size on Save" = "Pomak indentacije pri spremanju fajla";
+"Indent Size on Save" = "Pomak uvlačenja pri spremanju datoteke";
 "only apply to quotes and lists created from menu bar or hybrid view" = "primijeni samo na citate i liste stvorene kroz menubar ili hibridni pregled";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete bez ESC key for";
 "Emoji (e.g. :smile:)" = "Emotikoni (npr. :smile:)";
@@ -66,18 +66,18 @@
 "Heading Style" = "Stil naslova";
 "Unordered List" = "Neuređena lista";
 "Ordered List" = "Uređena lista";
-"Code Fences" = "Ograde koda";
-"Display line numbers for code fences" = "Display line numbers for code fences";
-"Math Blocks" = "Math Blocks";
-"Auto Numbering Math Equations" = "Auto Numbering Math Equations";
+"Code Fences" = "Kôd blok";
+"Display line numbers for code fences" = "Prikaži brijeve linija za blok kôda";
+"Math Blocks" = "Math blok";
+"Auto Numbering Math Equations" = "Automatsko numemriranje Math jednadžba";
 
 /* Security Panel */
 "Security" = "Sigurnost";
-"Enable Debug" = "Omogući ispravljanje";
+"Enable Debug" = "Omogući debug";
 "Send Anonymous Usage Info" = "Šalji anonimno informacije o korištenju";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Za nastavak traži se Pandoc...";
+"Require Pandoc to Continue..." = "Za nastavak je potreban Pandoc...";
 "Follow instructions to install Pandoc" = "Slijedite upute kako biste instalirali Pandoc";
 "Cancel" = "Otkaži";
 
@@ -93,10 +93,10 @@
 "Converting file with Pandoc. This may take some time." = "Konvertiram datoteku koristeći Pandoc. Ovo može potrajati neko vrijeme.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Pandoc je potreban kako bi se uvezli ovi formati fajla";
+"Pandoc is needed for importing these file formats" = "Pandoc je potreban kako bi se uvezli ovi formati datoteke";
 "Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
-"Follow Instructions to Install/Update Pandoc" = "Slijedite upute kako biste instalirali/obnovili Pandoc";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Značajke za uvoz i izvoz zahtjevaju instaliran <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "Slijedite upute kako biste instalirali/osvježili Pandoc";
 "Export Failed" = "Izvoz nije uspio";
 "Import Failed" = "Uvoz nije uspio";
 "Generated Image too Large" = "Generirana slika je prevelika";
@@ -105,10 +105,10 @@
 "File does not exist at <em>{0}</em>" = "Fajl ne postoji na <em>{0}</em>";
 "Export to..." = "Izvezi u...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Želite li spremiti promjene napravljene u ovom dokumentu?<br> Vaše promjene bit će izgubljene ako ih ne spremite.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Dodavanje bookmarka za PDF fajl nije uspjelo.";
-"Dark Theme not support" = "Tamna Tema nije podržana";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Trenutna verzija Typore neće ispisati boju pozadine na izvezeni PDF, tako da tamna tema još ne podržava PDF izvoz. Odaberite svjetlu temu ili kliknite \"Ispis sa zadanom temom\"";
-"Print with default theme" = "Printaj sa zadanom temom";
+"[Warning] Failed to attach bookmark for PDF file." = "[Upozorenje] Dodavanje bookmarka za PDF datoteku nije uspjelo.";
+"Dark Theme not support" = "Tamna tema nije podržana";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Trenutna verzija Typore neće ispisati boju pozadine na izvezeni PDF, tako da tamna tema još ne podržava PDF izvoz. Odaberite svjetlu temu ili kliknite \"Ispis s zadanom temom\"";
+"Print with default theme" = "Ispiši s zadanom temom";
 "Export to PDF successfully." = "Uspješno izvezeno u PDF.";
 "Converting file using Pandoc. This may take some time." = "Konverzija datoteke koristeći Pandoc. Ovo može potrajati neko vrijeme.";
 "Exporting file using Pandoc. This may take some time." = "Izvoz datoteke koristeći Pandoc. Ovo može potrajati neko vrijeme.";
@@ -140,12 +140,12 @@
 "Show status bar" = "Pokaži statusnu traku";
 "Save & Recover" = "Sačuvaj i vrati";
 "Auto Save" = "Automatsko spremanje";
-"Recover Unsaved Drafts" = "Vrati nesačuvane fajlove";
-"Emoji Autocomplete" = "Emoji Autocomplete";
+"Recover Unsaved Drafts" = "Vrati nesačuvane datoteke";
+"Emoji Autocomplete" = "Emoji autocomplete";
 "Trigger by ESC key" = "Potaknuti tipkom ESC";
 "Trigger automatically" = "Pokreni automatski";
-"Default Line Ending" = "Zadani kraj retka";
-"Line ending for new file" = "Kraj retka za novi fajl";
+"Default Line Ending" = "Zadani završetak retka";
+"Line ending for new file" = "Završetak retka za novu datoteku";
 "Spell Check" = "Spell Check";
 "(support US English only)" = "(podrška samo za US Engleski)";
 "Enable spell check" = "Enable spell check";
@@ -173,18 +173,18 @@
 "%d Succeeded," = "%d uspio, ";
 "Enable this feature on preferences panel" = "Omogući ovu značajku u postavkama";
 "The option `%@` must be enabled first" = "Prvo mora biti omogućena opcija '%@'.";
-"%@ is a file, not a directory" = "%@ je fajl, a ne folder";
+"%@ is a file, not a directory" = "%@ je datoteka, a ne direktorij";
 "Copy Images To…" = "Kopiraj slike u…";
-"Create Folder and Continue" = "Stvori folder i nastavi";
+"Create Folder and Continue" = "Stvori direktorij i nastavi";
 "Document must be saved first" = "Dokument prvo mora biti sačuvan";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora će kopirati novo umetnutu sliku u mapu odabranu relativnom putanjom, pa vas molimo, prvo spremite fajl.";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora će kopirati novo umetnutu sliku u direktorij s odabranom relativnom putanjom, pa vas molimo, prvo spremite datoteku.";
 "Open Operation Failed" = "Operacija otvaranja nije uspjela";
 
 "Support Documentation" = "Dokumentacija podrške";
 
 "Markdown File" = "Markdown datoteka";
-"Plain Text File" = "Običan tekstualni fajl";
-"All Files" = "Svi fajlovi";
+"Plain Text File" = "Obična tekstualna datoteka";
+"All Files" = "Sve datoteke";
 "All Supported Formats" = "Svi podržani formati";
 "Discard Changes" = "Odbaci izmjene";
 "Discard" = "Odbaci";
@@ -198,7 +198,7 @@
 "Recent Documents" = "Nedavni dokumenti";
 "Search for…" = "Traži…";
 "Clear Recent Documents" = "Očisti nedavne dokumente";
-"File Name" = "Ime fajla";
+"File Name" = "Ime datoteke";
 "Path" = "Putanja";
 "Export As..." = "Izvezi kao...";
 "More Formats" = "Više formata";
@@ -210,16 +210,16 @@
 
 "Total" = "Ukupno";
 "Word count only support OS X later than 10.10." = "Brojanje riječi je podržano samo na OS X kasnijem od 10.10.";
-"Indent Size for Code" = "Indent Size for Code";
+"Indent Size for Code" = "Veličina uvlačenja za kôd";
 "Auto wrap long lines" = "Automatski prelomi duge linije";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Trenutna verzija Typore neće ispisati boju pozadine. Tako da tamna tema još ne podržava ispis. Odaberite svjetlu temu ili izvezite ovaj dokument kao PDF.";
 "Export to PDF" = "Izvezi kao PDF";
-"Pretty indentation" = "Lijepa Indentacija";
+"Pretty indentation" = "Uljepšano uvlačenje";
 "Update markdown reference for this image" = "Ažuriranje markdown referenci za ovu sliku";
 
 "No special action" = "Bez posebne akcije";
-"Copy image to current folder (./)" = "Kopiraj sliku u trenutni folder (. /)";
+"Copy image to current folder (./)" = "Kopiraj sliku u trenutni direktorij (. /)";
 "Copy image to ./assets" = "Kopiraj sliku u ./assets";
 "Copy image to ./${filename}.assets" = "Kopiraj sliku u ./${filename}.assets";
 "Upload image via iPic" = "Upload slike preko iPic";
@@ -229,7 +229,7 @@
 
 "Learn More…" = "Nauči više…";
 "Whitespace / Line Break" = "Razmak / Prijelom";
-"When Writing" = "Dok pišem";
-"Export / Print" = "Izvoz / Printanje";
+"When Writing" = "Kad pišem";
+"Export / Print" = "Izvoz / Ispis";
 "Preserve sequential whitespace and single line break" = "Sačuvaj razmak i jednolinijsko prelamanje";
 "Ignore sequential whitespace and single line break" = "Zanemari razmak i jednolinijsko prelamanje";

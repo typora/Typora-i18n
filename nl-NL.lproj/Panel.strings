@@ -63,7 +63,7 @@
 "Diagrams" = "Diagrammen";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "Syntax Voorkeuren";
-"(only apply for styles created from menubar or hybrid view)" = "(alleen van toepassing op stijlen die zijn gemaakt met de menubalk of hybride weergave)";
+"(only applies to styles created from menubar or hybrid view)" = "(alleen van toepassing op stijlen die zijn gemaakt met de menubalk of hybride weergave)";
 "Strict Mode" = "Strenge Modus";
 "(more strict to GFM spec)" = "(Strenger bij GFM spec)";
 "Heading Style" = "Titel Stijl";

@@ -60,7 +60,7 @@
 "Diagrams" = "Диаграммы";
 "(Sequence, Flowchart and Mermaid)" = "интерактивные, диаграммы последовательностей и др.";
 "Syntax Preference" = "Синтаксические предпочтения";
-"(only apply for styles created from menubar or hybrid view)" = "(применяются только к стилям, созданным из меню или гибридного просмотра)";
+"(only applies to styles created from menubar or hybrid view)" = "(применяются только к стилям, созданным из меню или гибридного просмотра)";
 "Strict Mode" = "Строгий режим";
 "(more strict to GFM spec)" = "(более суровый к спецификации GFM)";
 "Heading Style" = "Стиль заголовка";

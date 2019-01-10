@@ -60,7 +60,7 @@
 "Diagrams" = "圖表";
 "(Sequence, Flowchart and Mermaid)" = "(序列圖, 流程圖和 Mermaid)";
 "Syntax Preference" = "Markdown 語法偏好";
-"(only apply for styles created from menubar or hybrid view)" = "(僅套用產生自選單或快捷鍵所生成的樣式)";
+"(only applies to styles created from menubar or hybrid view)" = "(僅套用產生自選單或快捷鍵所生成的樣式)";
 "Strict Mode" = "嚴格模式";
 "(more strict to GFM spec)" = "(更嚴格遵照 GFM 規格)";
 "Heading Style" = "標題樣式";

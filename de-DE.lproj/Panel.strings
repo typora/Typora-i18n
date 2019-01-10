@@ -63,7 +63,7 @@
 "Diagrams" = "Diagramme";
 "(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flußdiagramm und Mermaid)";
 "Syntax Preference" = "Syntax Einstellungen";
-"(only apply for styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden)";
+"(only applies to styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden)";
 "Strict Mode" = "Strikter Modus";
 "(more strict to GFM spec)" = "(folgt der GFM Spezifikation strikter)";
 "Heading Style" = "Überschrift";

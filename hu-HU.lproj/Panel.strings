@@ -60,7 +60,7 @@
 "Diagrams" = "Diagramok";
 "(Sequence, Flowchart and Mermaid)" = "(Szekvenciadiagram, folyamatábra és Mermaid)";
 "Syntax Preference" = "Szintaxis beállítások";
-"(only apply for styles created from menubar or hybrid view)" = "(csak a menüből vagy hibrid nézetből létrehozott stílusokra érvényes)";
+"(only applies to styles created from menubar or hybrid view)" = "(csak a menüből vagy hibrid nézetből létrehozott stílusokra érvényes)";
 "Strict Mode" = "Szigorú mód";
 "(more strict to GFM spec)" = "(jobban igazodik a GFM szabványhoz)";
 "Heading Style" = "Fejléc stílus";

@@ -69,7 +69,7 @@
 "Diagrams" = "Diagramy";
 "(Sequence, Flowchart and Mermaid)" = "（Sekvence, vývojový graf a mermaid）";
 "Syntax Preference" = "Předvolba syntaxe";
-"(only apply for styles created from menubar or hybrid view)" = "(pouze aplikovat pro styly vytvořené z menu nebo hybridního zobrazení)";
+"(only applies to styles created from menubar or hybrid view)" = "(pouze aplikovat pro styly vytvořené z menu nebo hybridního zobrazení)";
 "Strict Mode" = "Striktní mód";
 "(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
 "Heading Style" = "Styl nadpisu";

@@ -70,7 +70,7 @@
 "Diagrams" = "ダイアグラム";
 "(Sequence, Flowchart and Mermaid)" = "（Seqence、Flowchart、Mermaid）";
 "Syntax Preference" = "文法設定";
-"(only apply for styles created from menubar or hybrid view)" = "（メニューバーかハイブリッドビューで作成した書式にのみ適用";
+"(only applies to styles created from menubar or hybrid view)" = "（メニューバーかハイブリッドビューで作成した書式にのみ適用";
 "Strict Mode" = "厳密モード";
 "(more strict to GFM spec)" = "Github Favored Markdownにより忠実に合わせる";
 "Heading Style" = "見出し書式";

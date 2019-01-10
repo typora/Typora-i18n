@@ -60,7 +60,7 @@
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart och Mermaid)";
 "Syntax Preference" = "Syntaxinställning";
-"(only apply for styles created from menubar or hybrid view)" = "(använd bara för stilar skapade från menyraden eller hybridvyn)";
+"(only applies to styles created from menubar or hybrid view)" = "(använd bara för stilar skapade från menyraden eller hybridvyn)";
 "Strict Mode" = "Strikt läge";
 "(more strict to GFM spec)" = "(Striktare enligt GFM specifikationen)";
 "Heading Style" = "Rubrikstil";

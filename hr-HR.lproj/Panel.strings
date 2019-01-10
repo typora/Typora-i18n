@@ -60,7 +60,7 @@
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "Syntax Preference";
-"(only apply for styles created from menubar or hybrid view)" = "(only apply for styles created from menubar or hybrid view)";
+"(only applies to styles created from menubar or hybrid view)" = "(only applies to styles created from menubar or hybrid view)";
 "Strict Mode" = "Strict Mode";
 "(more strict to GFM spec)" = "(more strict to GFM spec)";
 "Heading Style" = "Stil naslova";

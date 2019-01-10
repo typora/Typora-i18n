@@ -61,7 +61,7 @@
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Secuencia, diagrama de fluxo e espiña de peix)";
 "Syntax Preference" = "Preferencia da sintaxe";
-"(only apply for styles created from menubar or hybrid view)" = "(só se aplican os estilos creados desde a barra de menús ou da vista híbrida)";
+"(only applies to styles created from menubar or hybrid view)" = "(só se aplican os estilos creados desde a barra de menús ou da vista híbrida)";
 "Strict Mode" = "Modo estrito";
 "(more strict to GFM spec)" = "(especificacións máis estritas para GFM)";
 "Heading Style" = "Estilo de título";

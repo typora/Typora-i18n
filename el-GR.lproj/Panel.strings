@@ -63,7 +63,7 @@
 "Diagrams" = "Διαγράμματα";
 "(Sequence, Flowchart and Mermaid)" = "(Αλληλουχία, Διάγραμμα Ροής και Mermaid)";
 "Syntax Preference" = "Προτίμηση Σύνταξης";
-"(only apply for styles created from menubar or hybrid view)" = "(εφαρμόζεται μόνο για στυλ που έχουν δημιουργηθεί από το μενού ή την υβριδική προβολή)";
+"(only applies to styles created from menubar or hybrid view)" = "(εφαρμόζεται μόνο για στυλ που έχουν δημιουργηθεί από το μενού ή την υβριδική προβολή)";
 "Strict Mode" = "Αυστηρή Λειτουργία";
 "(more strict to GFM spec)" = "(περισσότερο αυστηρό στο GFM spec)";
 "Heading Style" = "Στυλ Επικεφαλίδας";

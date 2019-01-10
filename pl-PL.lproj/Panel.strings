@@ -63,7 +63,7 @@
 "Diagrams" = "Diagramy";
 "(Sequence, Flowchart and Mermaid)" = "(Sekwencje, schematy blokowe, syreny)";
 "Syntax Preference" = "Preferencje składni";
-"(only apply for styles created from menubar or hybrid view)" = "(Stosowane jedynie dla tworzonych stylów z paska menu lub widoku hybrydowego.)";
+"(only applies to styles created from menubar or hybrid view)" = "(Stosowane jedynie dla tworzonych stylów z paska menu lub widoku hybrydowego.)";
 "Strict Mode" = "Tryb Dokładny";
 "(more strict to GFM spec)" = "(Dokładniej dla specyfikacji GFM)";
 "Heading Style" = "Styl nagłówka";

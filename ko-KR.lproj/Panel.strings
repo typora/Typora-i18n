@@ -65,7 +65,7 @@
 "Diagrams" = "다이어그램";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart 및 Mermaid)";
 "Syntax Preference" = "문법 강조 설정";
-"(only apply for styles created from menubar or hybrid view)" = "(메뉴 막대나 하이브리드 보기에서 생성된 스타일에만 적용)";
+"(only applies to styles created from menubar or hybrid view)" = "(메뉴 막대나 하이브리드 보기에서 생성된 스타일에만 적용)";
 "Strict Mode" = "엄격 모드";
 "(more strict to GFM spec)" = "(GFM 스펙을 더 준수)";
 "Heading Style" = "제목 스타일";

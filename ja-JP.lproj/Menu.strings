@@ -11,6 +11,8 @@
  by gageas(@gageas)
  gageas@gageas.com
 
+ by HelloRusk(@HelloRusk)
+ hellorusk1998@gmail.com
 */
 
 /* Typora Menu */
@@ -243,5 +245,23 @@
 
 "Prettify Source Code" = "ソースコードを整形";
 
+"Learn More" = "詳細を見る";
+"Whitespace and Line Breaks" = "空白と改行";
+"Indent first line of paragraphs" = "段落の最初の行をインデントする";
+"Preserve single line break" = "改行を保持する";
+"Visible <br/>" = "改行タグを見えるようにする";
+
 "Properties" = "プロパティ";
 "Search" = "検索";
+
+"Save All" = "全て保存する";
+"New Window" = "新しいウィンドウ";
+"Reopen Closed File" = "閉じたファイルを再び開く";
+
+"Global Image Settings" = "画像の設定";
+"Convert on Input" = "入力時に置換";
+"Convert on Rendering" = "レンダリング中に置換";
+"Remap Unicode Punctuation on Parse" = "パースの際にUnicodeの記号に置き換える";
+"More Options" = "高度な設定";
+
+"Delete Block" = "ブロックを削除する";

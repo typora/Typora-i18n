@@ -35,17 +35,17 @@
 "Editor" = "Uređivač";
 "Indent Size on Save" = "Pomak uvlačenja pri spremanju datoteke";
 "only apply to quotes and lists created from menu bar or hybrid view" = "primijeni samo na citate i liste stvorene kroz menubar ili hibridni pregled";
-"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete bez ESC key for";
+"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete bez ESC tipke za";
 "Emoji (e.g. :smile:)" = "Emotikoni (npr. :smile:)";
 "Images Insert" = "Umetanje slika";
 "Use relative path if possible" = "Koristi relativnu putanju ako je moguće";
 "Auto Pair" = "Automatski upari";
 "Auto pair brackets and quotes" = "Automatski upari zagrade i navodnike";
-"Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
+"Auto pair common Markdown syntax" = "Automatski upari Markdown sintaksu";
 "Live Rendering" = "Prikaz uživo";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
 "Default Copy Behavior" = "Zadano ponašanje kopiranja";
-"Copy Markdown source as plain text" = "Kopiranje Markdown izvor kao običan tekst";
+"Copy Markdown source as plain text" = "Kopiraj Markdown izvor kao običan tekst";
 "Typewriter Mode" = "Mod pisaća mašina";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
 
@@ -56,7 +56,7 @@
 "Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Istaknuti (npr.: == ključ ==)";
+"Highlight     (e.g: ==key==)" = "Istakni (npr.: == ključ ==)";
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "Syntax Preference";
@@ -67,13 +67,13 @@
 "Unordered List" = "Neuređena lista";
 "Ordered List" = "Uređena lista";
 "Code Fences" = "Kôd blok";
-"Display line numbers for code fences" = "Prikaži brijeve linija za blok kôda";
-"Math Blocks" = "Math blok";
-"Auto Numbering Math Equations" = "Automatsko numemriranje Math jednadžba";
+"Display line numbers for code fences" = "Prikaži brojeve linija za blok kôda";
+"Math Blocks" = "Matematički blok";
+"Auto Numbering Math Equations" = "Automatsko numeriranje matematičkih jednadžbi";
 
 /* Security Panel */
 "Security" = "Sigurnost";
-"Enable Debug" = "Omogući debug";
+"Enable Debug" = "Omogući otklanjanje grešaka";
 "Send Anonymous Usage Info" = "Šalji anonimno informacije o korištenju";
 
 /* Pandoc Error Panel */
@@ -148,8 +148,8 @@
 "Line ending for new file" = "Završetak retka za novu datoteku";
 "Spell Check" = "Spell Check";
 "(support US English only)" = "(podrška samo za US Engleski)";
-"Enable spell check" = "Enable spell check";
-"Auto correct spelling" = "Auto correct spelling";
+"Enable spell check" = "Omogući pravopisnu provjeru";
+"Auto correct spelling" = "Automatski ispravi zatipke";
 "System" = "Sustav";
 "Privacy" = "Privatnost";
 "Developer" = "Developer";

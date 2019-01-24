@@ -25,6 +25,7 @@
 "Reopen with Encoding" = "选择编码重新打开";  
 "Auto" = "自动";
 "Open Recent" = "打开最近文件";
+"Recent Locations" = "最近使用的目录";
 "Clear Items" = "清除最近文件";
 "No Recent Files" = "空";
 "Open Quickly" = "快速打开";
@@ -267,3 +268,6 @@
 "Properties" = "属性";
 
 "Search" = "搜索";
+"Copy without Theme Styling" = "复制内容并简化格式";
+"Recent Files" = "最近打开的文件";
+"File Results" = "匹配的文件";

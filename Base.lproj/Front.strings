@@ -163,6 +163,6 @@
 "Filter" = "Filter";
 "No result found." = "No result found.";
 "Continue & Overwrite" = "Continue & Overwrite";
-"The file is read-only, ro you do not have right permissions to modify the file." = "The file is read-only, ro you do not have right permissions to modify the file.";
+"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
 
 "Learn Data Recovery" = "Learn Data Recovery";

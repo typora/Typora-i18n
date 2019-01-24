@@ -75,7 +75,6 @@
 "Sort Naturally" = "自然排序";
 "Sort by Name" = "按文件名排序";
 "Sort by Modification Date" = "按修改时间排序";
-"Recent Locations" = "最近使用的目录";
 "Location" = "目录";
 "Switch File List/Tree View" = "切换列表/树视图";
 "No Files Available" = "文件列表为空";
@@ -165,7 +164,7 @@
 "Filter" = "查找";
 "No result found." = "没有找到对应的内容。";
 "Continue & Overwrite" = "覆盖";
-"The file is read-only, ro you do not have right permissions to modify the file." = "该文件只读或者您没有对应的权限编辑该文件。";
+"The file is read-only, or you do not have right permissions to modify the file." = "该文件只读或者您没有对应的权限编辑该文件。";
 
 "Learn Data Recovery" = "如何恢复文件";
 

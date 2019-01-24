@@ -25,6 +25,7 @@
 "Reopen with Encoding" = "Reopen with Encoding";
 "Auto" = "Auto";
 "Open Recent" = "Open Recent";
+"Recent Locations" = "Recent Locations";
 "Clear Items" = "Clear Items";
 "No Recent Files" = "No Recent Files";
 "Open Quickly" = "Open Quickly";
@@ -268,3 +269,6 @@
 "Properties" = "Properties";
 
 "Search" = "Search";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

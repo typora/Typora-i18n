@@ -103,8 +103,8 @@
 "Smart Dashes" = "Chytré pomlčky";
 "Text Replacement" = "Nahrazení textu";
 "Speech" = "Řeč";
-"Start Speaking" = "Začněte mluvit";
-"Stop Speaking" = "Přestaňte mluvit";
+"Start Speaking" = "Začít mluvit";
+"Stop Speaking" = "Přestat mluvit";
 
 /* Paragraph Menu */
 "Paragraph" = "Odstavec";
@@ -183,7 +183,7 @@
 "Bring All to Front" = "Přenést vše do popředí";
 
 /* Help Menu */
-"Help" = "Pomoc";
+"Help" = "Nápověda";
 "Credits" = "Zásluhy";
 "Change Log" = "Seznam změn";
 "Website" = "Webové stránky";
@@ -239,5 +239,39 @@
 /* Related Panel */
 "Open Failed" = "Otevření se nezdařilo";
 "File or folder does not exist." = "Soubor nebo složka neexistuje";
+
+"Prettify Source Code" = "Zkrášlit zdrojový kód";
+"Copy '%@'" = "Kopírovat '%@'";
+"Copy to %@" = "Kopírovat do %@";
+"Copy Image to..." = "Kopírovat obrázek do..";
+"Upload via iPic" = "Nahrát pomocí iPic";
+"Open Image Location" = "Otevřít umístění obrázku";
+
+"Learn More" = "Zjistit více";
+"Whitespace and Line Breaks" = "Mezery a konce řádků";
+"Indent first line of paragraphs" = "Odsadit první řádky odstavců";
+"Preserve single line break" = "Zachovat jednoduché konce řádků";
+"Visible <br/>" = "Viditelný <br/>";
+
+"Save All" = "Uložit Vše";
+"New Window" = "Nové Okno";
+"Reopen Closed File" = "Znovuoteřít zavřený soubor";
+
+"Global Image Settings" = "Globální nastavení obrázků";
+"Smart Punctuation" = "Chytré uvozovky";
+"Convert on Input" = "Převést na vstupu";
+"Convert on Rendering" = "Převést na zobrazování";
+"Remap Unicode Punctuation on Parse" = "Znovu namapovat znaky Unicode během prasování";
+"More Options" = "Více nastavení";
+
+"HTML Block" = "Blok HTML";
+"Delete Block" = "Smazat Blok";
+"Delete %@" = "Smazat %@";
+"Play" = "Přehrát";
+"Pause" = "Pozastavit";
+
+"Spell Check" = "Kontrola pravopisu";
+"Unlearn Spelling" = "Odučit se zápis";
+"Properties" = "Možnosti";
 
 "Search" = "Hledat";

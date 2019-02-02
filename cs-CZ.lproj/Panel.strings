@@ -215,3 +215,73 @@
 "Something is Wrong…" = "Něco je špatně…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Uložení obsahu se nepovedlo z neznámého důvodu.<br/>Mohli byste zkopírovat obsah do nového okna Typory a potom uložit. <br/>Zjisti více o:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Nahlašte nám chyby</a></li><li><a href='http://support.typora.io/Version-Control//'>Obnovit ztracený obsah</a></li></ul>";
 "Copy Content" = "Kopírovat obsah";
+
+
+"Total" = "Celkem";
+"Word count only support OS X later than 10.10." = "Počítání slov podporuje pouze OS X novější než 10.10";
+"Indent Size for Code" = "Velikost odsazení kódu";
+"Auto wrap long lines" = "Automaticky vzít dlouhé řádky";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Omlouváme se, ale současná verze Typory nepodporu barevné pozadí pro tisk.\nSo dark theme is not yet supported for printing. \n\nProsím vyberte si světlé téma nebo exportujete do PDF.";
+"Export to PDF" = "Exportovat do PDF";
+"Pretty indentation" = "Hezká indentakce";
+"Update markdown reference for this image" = "Aktualizujte markdown reference pro tento obrázek";
+
+"No special action" = "Žádná speciální akce";
+"Copy image to current folder (./)" = "Kopírovat obrázek do současné složky (./)";
+"Copy image to ./assets" = "Kopírovat obrázek do ./assets";
+"Copy image to ./${filename}.assets" = "Kopírovat obrázek do ./${filename}.assets";
+"Upload image via iPic" = "Nahrát obrázek pomocí iPic";
+"Apply above rules to local images" = "Aplikovat pravidla výše na místní obrázky";
+"Apply above rules to online images" = "Aplikovat pravidla výše na online obrázky";
+"Allow upload images automatically based on YAML settings" = "Umožnit automatické nahrávání obrázků v závislosti na nastavení YAML";
+
+"Learn More…" = "Zjistit více…";
+"Whitespace / Line Break" = "Mezera / Konec řádku";
+"When Writing" = "Během psaní";
+"Export / Print" = "Exportovat / Tisknout";
+"Preserve sequential whitespace and single line break" = "Zabránit dvojitým mezerám na jednom řádku";
+"Ignore sequential whitespace and single line break" = "Ignorovat dvojité mezery a jednoduché ukončení řádků";
+
+"Quit" = "Ukončit";
+"Quit Typora when last window is closed" = "Ukončit Typoru když je poslední okno zavřeno";
+"On Launch" = "Na startu";
+"Open new file" = "Otevřít nový soubor";
+"Restore last closed folders" = "Obnovit poslední zavřené složky";
+"Restore last closed files and folders" = "Obnovit poslední zavřené soubory a složky";
+"Open custom folder" = "Otevřít volitelnou složku";
+"Select custom folder" = "Vybrat volitelnou složku";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Tohle nastavení může být přebito nastavením \"Zavřít okna behěm zavírání aplikace\" v systémových nastaveních";
+
+"Ignore" = "Ignorovat";
+"Choose Default Folder" = "Vybrat původní složku";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Převést při vstupu</strong>: Vložit ASCII lomítka nebo uvozovky, konvertované a uložené jako vlnovité uvozovky nebo unicode lomítka.<br/><strong>Převést při zobrazování</strong>: Vstup a uložení jako ASCII uvozovky a lomítka, zobrazit jako vlnovité uvozovky a lomítka.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozponat unicode punktaci jako ASCII, př.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Bude to zapnuto automatickypokud chytré uvozovky/lomítka budou převedeny na vstupu.<div>";
+
+"Copy image to custom folder" = "Kopírovat obrázek do vlastní složky";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Prosím specifikujte relativní cestu k současné složce, která začíná './' nebo '../', nebo absolutní cestu. (`${filename}` představující název souboru.)";
+"Restore to previous setting" = "Obnovit do předchozího nastavení";
+"Folder not exist at %@, please input another path." = "Složka %@ neexistuje, prosím vyberte jinou.";
+"Please input a folder path." = "Prosím zadejte cestu k složce.";
+"Cannot use root path." = "Nelze použít kořenový adresář.";
+
+"Get Themes" = "Získat témata vzhledu";
+"File/directory alreay exists at target path." = "Složka/soubor již existuje na cilové cestě.";
+"Keep Both" = "Zachovat obojí";
+"Are you sure you want to move %@?" = "Jste si jistí, že chcete přesunout %@?";
+
+"Are you sure you want to delete %@?" = "Jste si jistí, že chcete smazat %@?";
+"You can restore from the Trash." = "Můžete obnovit z Koše.";
+
+"Reset All Dialog Warnings" = "Resetovat všechny varovací dialogy";
+"Dialogs" = "Dialogy";
+"Dialog warnings have been reset." = "Varovací dialogy byly resetovány.";
+
+"Operation Failed" = "Operace se nezdařila";
+"Failed to move target file or folder to trash" = "Nepovedlo se přesunout cílovou složku nebo soubor do koše";
+
+"Undo %@" = "Vrátit %@";
+"Rename %@" = "Přejmenovat %@";
+"Copy %@" = "Kopírovat %@";
+"Move %@" = "Přesunout %@";
+"Delete %@" = "Smazat %@";

@@ -128,3 +128,47 @@
 "Select Container Folder" = "Vybratt kontejnerovou složku";
 
 "Saved" = "Uloženo";
+
+/* place holder in find & replace input */
+"search text" = "Hledat text";
+"replace with" = "Nahradit velikost";
+/* search option */
+"Case Sensitive" = "Citlivost na malá a velká písmena";
+"Whole Word" = "Celé slovo";
+
+"input image URL" = "Vložit URL obrázku";
+"Select image from local file" = "Vybrat obrázek z mísního uložiště";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nelze otevřít umístění <code>$1</code>, neměli jste na mysli <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "Vybrat jazyk";
+"Finish Editing" = "Dokončit úpravy";
+
+"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+
+"Select Spell Check Language" = "Vyberte jazyk kontroli pravopisu";
+"Auto Detect Language" = "Automaticky poznat jazyk";
+"Disable Spell Check" = "Vypnout kontrolu pravopisu";
+"Global Setting…" = "Globální nastavení…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Chybí soubor slovníku pro podporu %@.";
+"Install Language Support" = "Nainstalovat podporu jazyka";
+"License Information" = "Informace o licenci";
+"Download" = "Stáhnout";
+"Install dictionary file only for Typora" = "Nainstalovat soubory slovníku pouze pro Typoru";
+"Spell Check (%@ unavailable)" = "Kontrola pravopisu (%@ nedostupné)";
+"Spell Check (%@ downloading)" = "Kontrola pravopisu (%@ stahuji)";
+"Download dictionary file for %@" = "Stáhnout soubor slovníku pro %@";
+"(Default spell check option)" = "(Původní nastavení kontroly)";
+"Failed to load spellcheck module" = "Nepovedlo se načíst modul kontroli pravopisu";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> bylo zapnuto.";
+"You could turn it off from `View` menu." = "Měli by jste to vypnout z menu `Zobrazení`.";
+"The file is too large to render in Typora." = "Tenhle soubor je příliš veliký pro zobrazení v Typoře.";
+"Open in…" = "Otevřít v…";
+"Quick Look" = "Náhled";
+
+"Filter" = "Filtr";
+"No result found." = "Žádné výsledky.";
+"Continue & Overwrite" = "Pokračovat a Přepsat";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tenhle soubor je pouze pro čtení nebo nemáte dostatečná práva pro jeho úpravu.";
+
+"Learn Data Recovery" = "Naučit se obnovu dat";

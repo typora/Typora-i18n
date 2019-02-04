@@ -147,8 +147,6 @@
 "Default Line Ending" = "默认换行符";
 "Line ending for new file" = "新文件的默认换行符";
 "Spell Check" = "拼写检查";
-"(support US English only)" = "（仅支持美式英语）";
-"Enable spell check" = "启用拼写检查";
 "Auto correct spelling" = "自动更正拼写错误";
 "System" = "系统";
 "Privacy" = "隐私";
@@ -207,6 +205,7 @@
 "Something is Wrong…" = "出错了……";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
+
 
 "Total" = "总计";
 "Word count only support OS X later than 10.10." = "字数统计功能只支持 macOS 10.11 及以上版本。";

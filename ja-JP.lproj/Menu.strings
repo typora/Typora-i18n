@@ -223,7 +223,7 @@
 "Open in New Window" = "新しいウィンドウで開く";
 "Copy File Path" = "ファイルパスをコピー";
 "New File" = "新規ファイル";
-"Rename" = "名前を変える";
+"Rename" = "名前を変更";
 "New Folder" = "新規フォルダ";
 "Move to Trash" = "ゴミ箱に入れる";
 
@@ -245,6 +245,11 @@
 "File or folder does not exist." = "ファイルやフォルダがありません";
 
 "Prettify Source Code" = "ソースコードを整形";
+"Copy '%@'" = "Copy '%@'";
+"Copy to %@" = "Copy to %@";
+"Copy Image to..." = "Copy Image to...";
+"Upload via iPic" = "Upload via iPic";
+"Open Image Location" = "Open Image Location";
 
 "Learn More" = "詳細を見る";
 "Whitespace and Line Breaks" = "空白と改行";
@@ -252,17 +257,28 @@
 "Preserve single line break" = "改行を保持する";
 "Visible <br/>" = "改行タグを見えるようにする";
 
-"Properties" = "プロパティ";
-"Search" = "検索";
-
 "Save All" = "全て保存する";
 "New Window" = "新しいウィンドウ";
 "Reopen Closed File" = "閉じたファイルを再び開く";
 
 "Global Image Settings" = "画像の設定";
+"Smart Punctuation" = "Smart Punctuation";
 "Convert on Input" = "入力時に置換";
 "Convert on Rendering" = "レンダリング中に置換";
 "Remap Unicode Punctuation on Parse" = "パースの際にUnicodeの記号に置き換える";
 "More Options" = "高度な設定";
 
+"HTML Block" = "HTML Block";
 "Delete Block" = "ブロックを削除する";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
+"Properties" = "プロパティ";
+
+"Search" = "検索";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

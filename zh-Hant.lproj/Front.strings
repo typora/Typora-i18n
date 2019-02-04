@@ -44,6 +44,7 @@
 
 /* Images */
 "Copy Image To..." = "複製圖像至...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "新增資料夾";
 
 /* Math */
@@ -74,6 +75,7 @@
 "Sort Naturally" = "自然排序";
 "Sort by Name" = "依名稱排序";
 "Sort by Modification Date" = "依修改日期排序";
+"Recent Locations" = "Recent Locations";
 "Location" = "位置";
 "Switch File List/Tree View" = "切換檔案/樹狀結構檢視";
 "No Files Available" = "檔案不存在";
@@ -110,7 +112,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
 "Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現存檔案嗎？";
 
-"Rename Failed" = "重新命名失敗";
 "Rename to \"{0}\" ?" = "重新命名為 \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 為 \"{1}\" 失敗";
 
@@ -123,7 +124,7 @@
 "Saved" = "已儲存";
 
 /* place holder in find & replace input */
-"search text" = "搜尋";
+"search text" = "搜尋字串";
 "replace with" = "取代為";
 /* search option */
 "Case Sensitive" = "區分大小寫";
@@ -132,3 +133,36 @@
 "input image URL" = "輸入圖片網址";
 "Select image from local file" = "選擇本機圖片";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='https://$3'>https://$2</a> 嗎？";
+
+"select a language" = "select a language";
+"Finish Editing" = "Finish Editing";
+
+"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+
+"Select Spell Check Language" = "Select Spell Check Language";
+"Auto Detect Language" = "Auto Detect Language";
+"Disable Spell Check" = "Disable Spell Check";
+"Global Setting…" = "Global Setting…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
+"Install Language Support" = "Install Language Support";
+"License Information" = "License Information";
+"Download" = "Download";
+"Install dictionary file only for Typora" = "Install dictionary file only for Typora";
+"Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
+"Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
+"Download dictionary file for %@" = "Download dictionary file for %@";
+"(Default spell check option)" = "(Default spell check option)";
+"Failed to load spellcheck module" = "Failed to load spellcheck module";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
+"You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
+"The file is too large to render in Typora." = "The file is too large to render in Typora.";
+"Open in…" = "Open in…";
+"Quick Look" = "Quick Look";
+
+"Filter" = "Filter";
+"No result found." = "No result found.";
+"Continue & Overwrite" = "Continue & Overwrite";
+"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
+
+"Learn Data Recovery" = "Learn Data Recovery";

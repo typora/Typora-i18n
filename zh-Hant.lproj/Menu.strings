@@ -22,10 +22,10 @@
 "New" = "新增檔案";
 "Open" = "開啟";
 "Open Folder" = "開啟目錄";
-"Recent Locations" = "最近位置";
 "Reopen with Encoding" = "選擇編碼重新載入檔案";
 "Auto" = "自動";
 "Open Recent" = "開啟最近的檔案";
+"Recent Locations" = "最近位置";
 "Clear Items" = "清空項目";
 "No Recent Files" = "沒有最近檔案";
 "Open Quickly" = "快速開啟";
@@ -244,13 +244,31 @@
 "Learn More" = "了解更多";
 "Whitespace and Line Breaks" = "空格和換行";
 "Indent first line of paragraphs" = "段落首行縮排";
+"Preserve single line break" = "Preserve single line break";
 "Visible <br/>" = "顯示 <br/>";
-"Preserve sequential whitespace and single line break" = "保留連續的空格和單一換行";
 
 "Save All" = "儲存全部";
 "New Window" = "開新視窗";
 "Reopen Closed File" = "重新開啟已關閉的檔案";
 
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
 "Properties" = "檔案屬性";
 
 "Search" = "搜尋";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

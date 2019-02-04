@@ -184,7 +184,6 @@
 
 /* Help Menu */
 "Help" = "Nápověda";
-"Privacy Policy" = "Privacy Policy";
 "Credits" = "Zásluhy";
 "Change Log" = "Seznam změn";
 "Website" = "Webové stránky";
@@ -276,6 +275,3 @@
 "Properties" = "Možnosti";
 
 "Search" = "Hledat";
-"Copy without Theme Styling" = "Copy without Theme Styling";
-"Recent Files" = "Recent Files";
-"File Results" = "File Results";

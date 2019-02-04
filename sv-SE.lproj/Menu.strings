@@ -6,7 +6,6 @@
 */
 
 /* Typora Menu */
-
 "About Typora" = "Om Typora";
 "Preferences" = "Inställningar";
 "Check for Updates" = "Sök efter uppdateringar";
@@ -17,7 +16,6 @@
 "Quit Typora" = "Avsluta Typora";
 
 /* File Menu */
-
 "File" = "Arkiv";
 "New" = "Ny";
 "Open" = "Öppna";
@@ -244,8 +242,8 @@
 "Learn More" = "Läs mer";
 "Whitespace and Line Breaks" = "Whitespace och radbryt";
 "Indent first line of paragraphs" = "Öka första radens indrag i nya stycken";
-"Preserve single line break" = "Preserve single line break";
 "Visible <br/>" = "Synliga <br/> och markdown radbryt";
+"Preserve sequential whitespace and single line break" = "Bevara sekventiell whitespace och enkla radbryt";
 
 "Save All" = "Spara alla";
 "New Window" = "Nytt fönster";
@@ -258,17 +256,4 @@
 "Remap Unicode Punctuation on Parse" = "Aktivera stöd för unicode-skiljetecken";
 "More Options" = "Fler val";
 
-"HTML Block" = "HTML Block";
-"Delete Block" = "Delete Block";
-"Delete %@" = "Delete %@";
-"Play" = "Play";
-"Pause" = "Pause";
-
-"Spell Check" = "Spell Check";
-"Unlearn Spelling" = "Unlearn Spelling";
-"Properties" = "Properties";
-
 "Search" = "Sök";
-"Copy without Theme Styling" = "Copy without Theme Styling";
-"Recent Files" = "Recent Files";
-"File Results" = "File Results";

@@ -46,6 +46,8 @@
 "Emoji (e.g. :smile:)" = "Emoji (např. :smile:)";
 "Images Insert" = "Vložit obrázky";
 "Use relative path if possible" = "Použít relativní cestu pokud je to možné";
+"Allow copy images to given folder" = "Povolit kopírování obrázků do dané složky";
+"Allow upload to given server" = "Povolit nahrávání na daný serveru";
 "Auto Pair" = "Automatické párování";
 "Auto pair brackets and quotes" = "Automaticky párovat závorky a uvozovky";
 "Auto pair common Markdown syntax" = "Automaticky párovat častou syntaxi Markdown";
@@ -71,8 +73,8 @@
 "Strict Mode" = "Striktní mód";
 "(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
 "Heading Style" = "Styl nadpisu";
-"Unordered List" = "Neseřazený seznam";
 "Ordered List" = "Seřazený seznam";
+"Unordered List" = "Neseřazený seznam";
 "Code Fences" = "Ohraničení kódu";
 "Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničený kód";
 "Math Blocks" = "Matematické bloky";
@@ -88,16 +90,16 @@
 "Follow instructions to install Pandoc" = "Následujte instrukce pro instalaci Pandocu";
 "Cancel" = "Zrušit";
 
-/* Pandoc Import Panel */
+/* Panodc Import Panel */
 "Importing..." = "Importuje se";
 "Importing in progress..." = "Probíhá import...";
 "Converting file with Pandoc. This may take some time." = "Převádí se soubor pomocí Pandocu. Může to zabrat nějáký čas.";
 "Abort" = "Přerušit";
 
-/* Pandoc Export Panel */
+/* Panodc Export Panel */
 "Exporting..." = "Exportuje se...";
 "Exporting in progress..." = "Probíhá export...";
-"Converting file with Pandoc. This may take some time." = "Převádí se soubor pomocí Pandocu. Může to zabrat nějáký čas.";
+"Converting file with Pandoc. This may take some time." = "Převádí se soubory pomocí Pandocu. Může to chvíli trvat.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pro import těchto typů souborů je potřeba Pandoc";
@@ -154,6 +156,8 @@
 "Default Line Ending" = "Výchozí zakončení řádků";
 "Line ending for new file" = "Zakončení řádků pro nový soubor";
 "Spell Check" = "Kontrola pravopisu";
+"(support US English only)" = "（podporováno jen v americké angličtině）";
+"Enable spell check" = "Zapnout kontrolu pravopisu";
 "Auto correct spelling" = "Automaticky opravovat pravopis";
 "System" = "Systém";
 "Privacy" = "Soukromí";
@@ -180,7 +184,6 @@
 "The option `%@` must be enabled first" = "Možnost `%@` musí být nejprve zapnuta";
 "%@ is a file, not a directory" = "%@ je soubor, ne složka";
 "Copy Images To…" = "Kopírovat obrázky do …";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Vytvořit složku a pokračovat";
 "Document must be saved first" = "Dokument musí být nejprve uložen";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora zkopíruje nově vložené obrázky do složky vybrané podle relativní cesty, takže prosím nejprve uložte soubor.";

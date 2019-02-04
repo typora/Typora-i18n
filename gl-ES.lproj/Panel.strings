@@ -52,7 +52,7 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
+  "(Following preferences will be applied after restart.)" = "(As seguintes preferencias aplicaranse despois do reinicio.)";
 "Syntax Support" = "Soporte de sintaxe";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Math En liña ( e.g: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subíndice    ( e.g: H~2~O )";
@@ -120,11 +120,7 @@
 "Do not show this again" = "Non amosar isto de novo";
 
 /* Word Count */
-"Minute" = "Minute";
-"Line" = "Line";
-"Word" = "Word";
-"Character" = "Character";
-
+"%d Words" = "%d Palabras";
 "Minutes" = "Minutos";
 "Lines" = "Liñas";
 "Words" = "Palabras";
@@ -247,7 +243,7 @@
 "Ignore" = "Ignorar";
 "Choose Default Folder" = "Escoller o cartafol predefinido";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Converter na Entrada</strong>: Introduza guións ou comiñas ASCII, convertidos e gardados como comiñas rizadas ou guións unicode. <br/> <strong> Converte en renderizar </strong>: introducir e gardar como guións ou comiñas ASCII, facer como comiñas rixidas ou guións unicode.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> Recoñécese as puntuacións unicode como ASCII cando se analiza o markdown, por exemplo: <br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> se truncará automaticamente se as comiñas/guións intelixentes se converterán na entrada.<div>";
 
 "Copy image to custom folder" = "Copiar imaxe no cartafol personalizado";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Especifica unha ruta relativa á carpeta actual que comeze con './' ou '../', ou unha ruta de cartafol absoluta. (`$ {filename}` representado por nomes de arquivos correntes).";
@@ -255,24 +251,3 @@
 "Folder not exist at %@, please input another path." = "Non existe cartafol no %@, introduza outra ruta.";
 "Please input a folder path." = "Introduza unha ruta de cartafol.";
 "Cannot use root path." = "Non se pode usar a ruta raíz.";
-
-"Get Themes" = "Get Themes";
-"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
-"Keep Both" = "Keep Both";
-"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
-
-"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
-"You can restore from the Trash." = "You can restore from the Trash.";
-
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
-"Dialogs" = "Dialogs";
-"Dialog warnings have been reset." = "Dialog warnings have been reset.";
-
-"Operation Failed" = "Operation Failed";
-"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
-
-"Undo %@" = "Undo %@";
-"Rename %@" = "Rename %@";
-"Copy %@" = "Copy %@";
-"Move %@" = "Move %@";
-"Delete %@" = "Delete %@";

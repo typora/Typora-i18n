@@ -39,6 +39,8 @@
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Insertions d'images";
 "Use relative path if possible" = "Utiliser le chemin relatif si possible";
+"Allow copy images to given folder" = "Autoriser la copie des images dans\nle dossier";
+"Allow upload to given server" = "Autoriser le téléversement vers le serveur spécifié";
 "Auto Pair" = "Paires automatiques";
 "Auto pair brackets and quotes" = "Paires de guillemets et parenthèses auto";
 "Auto pair common Markdown syntax" = "Paires de règles Markdown communes auto";
@@ -64,8 +66,8 @@
 "Strict Mode" = "Mode strict";
 "(more strict to GFM spec)" = "(plus strict que le Markdown Github GFM)";
 "Heading Style" = "Style de titres";
-"Unordered List" = "Liste à puces";
 "Ordered List" = "Liste numérotée";
+"Unordered List" = "Liste à puces";
 "Code Fences" = "Blocs de code";
 "Display line numbers for code fences" = "Afficher le numéro de ligne pour les blocs de code";
 "Math Blocks" = "Blocs de Maths";
@@ -147,6 +149,8 @@
 "Default Line Ending" = "Fins de lignes par défaut";
 "Line ending for new file" = "Fin de lignes pour les nouveaux fichiers";
 "Spell Check" = "Vérification orthographique";
+"(support US English only)" = "(disponible pour l'anglais américain uniquement)";
+"Enable spell check" = "Activer la vérification orthographique";
 "Auto correct spelling" = "Correction orthographique automatique";
 "System" = "Système";
 "Privacy" = "Confidentialité";
@@ -173,7 +177,6 @@
 "The option `%@` must be enabled first" = "L'option `%@` doit d'abord être activée.";
 "%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
 "Copy Images To…" = "Copier les images vers…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Créer le dossier et continuer";
 "Document must be saved first" = "Le document doit d'abord être enregistré";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiera les nouvelles images insérées vers le dossier selon le chemin relatif spécifié, merci de d'abord sauver le fichier.";
@@ -205,73 +208,3 @@
 "Something is Wrong…" = "Quelque chose ne va pas…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "La sauvegarde des contenus n'a pas fonctionné.<br/>Vous pouvez copier les contenus dans une nouvelle fenêtre Typora, puis enregistrer. <br/>En savoir plus sur:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Le signalement des bugs </a></li><li><a href='http://support.typora.io/Version-Control//'>La récupération de contenus perdus</a></li></ul>";
 "Copy Content" = "Copier contenu";
-
-
-"Total" = "Total";
-"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
-"Indent Size for Code" = "Indent Size for Code";
-"Auto wrap long lines" = "Auto wrap long lines";
-
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
-"Export to PDF" = "Export to PDF";
-"Pretty indentation" = "Pretty indentation";
-"Update markdown reference for this image" = "Update markdown reference for this image";
-
-"No special action" = "No special action";
-"Copy image to current folder (./)" = "Copy image to current folder (./)";
-"Copy image to ./assets" = "Copy image to ./assets";
-"Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
-"Upload image via iPic" = "Upload image via iPic";
-"Apply above rules to local images" = "Apply above rules to local images";
-"Apply above rules to online images" = "Apply above rules to online images";
-"Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";
-
-"Learn More…" = "Learn More…";
-"Whitespace / Line Break" = "Whitespace / Line Break";
-"When Writing" = "When Writing";
-"Export / Print" = "Export / Print";
-"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
-"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
-
-"Quit" = "Quit";
-"Quit Typora when last window is closed" = "Quit Typora when last window is closed";
-"On Launch" = "On Launch";
-"Open new file" = "Open new file";
-"Restore last closed folders" = "Restore last closed folders";
-"Restore last closed files and folders" = "Restore last closed files and folders";
-"Open custom folder" = "Open custom folder";
-"Select custom folder" = "Select custom folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an app\" in System Preferences";
-
-"Ignore" = "Ignore";
-"Choose Default Folder" = "Choose Default Folder";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
-
-"Copy image to custom folder" = "Copy image to custom folder";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
-"Restore to previous setting" = "Restore to previous setting";
-"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
-"Please input a folder path." = "Please input a folder path.";
-"Cannot use root path." = "Cannot use root path.";
-
-"Get Themes" = "Get Themes";
-"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
-"Keep Both" = "Keep Both";
-"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
-
-"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
-"You can restore from the Trash." = "You can restore from the Trash.";
-
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
-"Dialogs" = "Dialogs";
-"Dialog warnings have been reset." = "Dialog warnings have been reset.";
-
-"Operation Failed" = "Operation Failed";
-"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
-
-"Undo %@" = "Undo %@";
-"Rename %@" = "Rename %@";
-"Copy %@" = "Copy %@";
-"Move %@" = "Move %@";
-"Delete %@" = "Delete %@";

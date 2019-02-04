@@ -75,7 +75,6 @@
 "Sort Naturally" = "自然排序";
 "Sort by Name" = "按文件名排序";
 "Sort by Modification Date" = "按修改时间排序";
-"Recent Locations" = "Recent Locations";
 "Location" = "目录";
 "Switch File List/Tree View" = "切换列表/树视图";
 "No Files Available" = "文件列表为空";
@@ -112,6 +111,7 @@
 "File content is changed by external applications. Reload content from disk ?" = "文件内容已被外部程序更改。是否重新加载文件？";
 "Should continue moving and overwrite exisiting file(s) ?" = "是否继续移动并替换原有文件？";
 
+"Rename Failed" = "重命名失败";
 "Rename to \"{0}\" ?" = "重命名为 \"{0}\" ？";
 "Failed to rename from \"{0}\" to \"{1}\"" = "从 \"{0}\" 重命名至 \"{1}\" 失败";
 
@@ -124,8 +124,9 @@
 "Saved" = "已保存";
 
 /* place holder in find & replace input */
-"search text" = "查找内容";
+"search text" = "查找文本";
 "replace with" = "替换为";
+
 /* search option */
 "Case Sensitive" = "区分大小写";
 "Whole Word" = "查找整个单词";
@@ -166,3 +167,4 @@
 "The file is read-only, or you do not have right permissions to modify the file." = "该文件只读或者您没有对应的权限编辑该文件。";
 
 "Learn Data Recovery" = "如何恢复文件";
+

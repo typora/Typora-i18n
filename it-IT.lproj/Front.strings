@@ -44,7 +44,6 @@
 
 /* Images */
 "Copy Image To..." = "Copia immagine in...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "Crea cartella";
 
 /* Math */
@@ -75,7 +74,6 @@
 "Sort Naturally" = "Ordina";
 "Sort by Name" = "Ordina per nome";
 "Sort by Modification Date" = "Ordina per data di modifica";
-"Recent Locations" = "Recent Locations";
 "Location" = "Posizioni";
 "Switch File List/Tree View" = "Passa a vista Elenco file/Albero file";
 "No Files Available" = "Nessun file disponibile";
@@ -112,6 +110,7 @@
 "File content is changed by external applications. Reload content from disk ?" = "Il contenuto del file è stato modificato da un'applicazione esterna. Ricaricare il contenuto dal disco ?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Sei sicuro di voler spostare e sovrascrivere i file esistenti ?";
 
+"Rename Failed" = "Impossibile rinominare";
 "Rename to \"{0}\" ?" = "Rinominare in \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Impossibile rinominare \"{0}\" in \"{1}\"";
 
@@ -122,47 +121,3 @@
 "Select Container Folder" = "Seleziona cartella di origine";
 
 "Saved" = "Salvato";
-
-/* place holder in find & replace input */
-"search text" = "cerca testo";
-"replace with" = "replace with";
-/* search option */
-"Case Sensitive" = "Case Sensitive";
-"Whole Word" = "Whole Word";
-
-"input image URL" = "input image URL";
-"Select image from local file" = "Select image from local file";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
-
-"select a language" = "select a language";
-"Finish Editing" = "Finish Editing";
-
-"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
-
-"Select Spell Check Language" = "Select Spell Check Language";
-"Auto Detect Language" = "Auto Detect Language";
-"Disable Spell Check" = "Disable Spell Check";
-"Global Setting…" = "Global Setting…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
-"Install Language Support" = "Install Language Support";
-"License Information" = "License Information";
-"Download" = "Download";
-"Install dictionary file only for Typora" = "Install dictionary file only for Typora";
-"Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
-"Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
-"Download dictionary file for %@" = "Download dictionary file for %@";
-"(Default spell check option)" = "(Default spell check option)";
-"Failed to load spellcheck module" = "Failed to load spellcheck module";
-
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
-"You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
-"The file is too large to render in Typora." = "The file is too large to render in Typora.";
-"Open in…" = "Open in…";
-"Quick Look" = "Quick Look";
-
-"Filter" = "Filter";
-"No result found." = "No result found.";
-"Continue & Overwrite" = "Continue & Overwrite";
-"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
-
-"Learn Data Recovery" = "Learn Data Recovery";

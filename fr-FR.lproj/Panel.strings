@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Auto ( Recommandé )";
 "Customized" = "Personnalisé";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si une taille de police personnalisée est utilisée, la taille réelle dépendra de la taille de police de base et du style css.";
- "Left Panel" = "Panneau de gauche";
+"Left Panel" = "Panneau de gauche";
 "Show Outline Panel by Default" = "Montrer le panneau du plan par défaut";
 "Collapsible Outline on Left Panel" = "Plan qui peut être réduit dans le panneau de\ngauche";
 "Save without asking when\nswitch files on side panel" = "Enregistrer sans le demander lors du changement\nde fichier dans le panneau latéral";

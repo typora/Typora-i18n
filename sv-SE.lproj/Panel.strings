@@ -161,7 +161,7 @@
 "Reset Advanced Settings" = "Återställ avancerade inställningar";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installerats.";
+"This function requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installerats.";
 "Get iPic" = "Skaffa iPic";
 "Cannot Continue…" = "Kan inte fortsätta…";
 "This feature require macOS >= 10.11" = "Denna funktion kräver macOS >= 10.11";

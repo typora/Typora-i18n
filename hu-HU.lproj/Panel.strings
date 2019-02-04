@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Automatikus (ajánlott)";
 "Customized" = "Egyedi";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Egyedi betűméret esetén a tényleges betűméret az alap betűmérettől és a CSS stílustól függ.";
- "Left Panel" = "Bal oldali panel";
+"Left Panel" = "Bal oldali panel";
 "Show Outline Panel by Default" = "A bal oldali panel alapértelmezés szerint megjelenik";
 "Collapsible Outline on Left Panel" = "Összecsukható vázlat a bal oldali panelen";
 "Save without asking when\nswitch files on side panel" = "Kérdés nélküli mentés, amikor\naz oldalsó panelen másik fájlt választ";

@@ -23,7 +23,7 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Auto ( Recommended )" = "Automático ( Recomendado )";
 "Customized" = "Customizado";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Se for usado um tamanho de fonte personalizado, o tamanho real da fonte dependerá do tamanho da fonte base e do estilo CSS.";
- "Left Panel" = "Painel Esquerdo";
+"Left Panel" = "Painel Esquerdo";
 "Show Outline Panel by Default" = "Exibir Painel de Índices por Padrão";
 "Collapsible Outline on Left Panel" = "Índice Flexível no Painel Esquerdo";
 "Save without asking when\nswitch files on side panel" = "Guardar sem perguntar quando\ntrocar de ficheiro no painel lateral";

@@ -24,7 +24,7 @@
 "Auto ( Recommended )" = "Auto ( Empfohlen )";
 "Customized" = "Angepasst";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Wenn eine angepasste Schriftgröße genutzt wird, ist die tatsächliche Schriftgröße abhängig von der Basis-Schriftgröße und der CSS Formatierung.";
- "Left Panel" = "Linke Seitenleiste";
+"Left Panel" = "Linke Seitenleiste";
 "Show Outline Panel by Default" = "Gliederungsleiste standardmäßig anzeigen";
 "Collapsible Outline on Left Panel" = "Zusammenklappbare Gliederung in der linken Seitenleiste";
 "Save without asking when\nswitch files on side panel" = "Ohne Nachfragen speichern, wenn\nDateien über die Seitenleiste gewechselt werden";

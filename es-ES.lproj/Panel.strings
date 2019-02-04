@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Automático ( Recomendado )";
 "Customized" = "Personalizado";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si se usa un tamaño de fuente personalizado, el tamaño real de la fuente dependerá del tamaño de la fuente base y el del estilo CSS.";
- "Left Panel" = "Panel izquierdo";
+"Left Panel" = "Panel izquierdo";
 "Show Outline Panel by Default" = "Mostrar siempre el panel de índices";
 "Collapsible Outline on Left Panel" = "Índice desplegable en el panel izquierdo";
 "Save without asking when\nswitch files on side panel" = "Guardar sin preguntar cuando\nse cambian archivos en el panel lateral";
@@ -110,7 +110,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "¿Deseas guardar los cambios hechos a éste documento?<br> Se perderán todos los cambios si no se guardan.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Warning] Error al adjuntar marcadador al archivo PDF.";
 "Dark Theme not support" = "Tema oscuro no soportado";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Lo sentimos, la versión actual de Typora no imprimirá en color de fondo en el PDF exportado, por lo que el tema oscuro aún no está soportado para exportar PDFs. \nConsidera escoger un tema claro o haz clic en \"Imprimir con el tema predeterminado\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Lo sentimos, la versión actual de Typora no imprimirá en color de fondo en el PDF exportado, por lo que el tema oscuro aún no está soportado para exportar PDFs. \nConsidera escoger un tema claro o haz clic en \"Imprimir con el tema predeterminado\"";
 "Print with default theme" = "Imprimir con el tema predeterminado";
 "Export to PDF successfully." = "Exportación a PDF exitosa.";
 "Converting file using Pandoc. This may take some time." = "Convirtiendo archivo con Pandoc. Esto puede tomar algo de tiempo.";
@@ -207,6 +207,6 @@
 "More Formats" = "Más formatos";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Los formatos de archivo bajo la selección 'Más formatos' necesitan que <a class='open-pandoc-guide'>Pandoc esté instalado</a>.";
 "Something is Wrong…" = "Algo salió mal…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Hubo un error al guardar el contenido por alguna razón.<br/>Puedes copiar el contenido en una nueva ventana de Typora y luego guardarlo. <br/>Aprende más sobre:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Reportarnos bugs</a></li><li><a href='http://support.typora.io/Version-Control//'>Recuperar contenidos perdidos</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Hubo un error al guardar el contenido por alguna razón.<br/>Puedes copiar el contenido en una nueva ventana de Typora y luego guardarlo. <br/>Aprende más sobre:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Reportarnos bugs</a></li><li><a href='http://support.typora.io/Version-Control//'>Recuperar contenidos perdidos</a></li></ul>";
 "Copy Content" = "Copiar contenido";
 

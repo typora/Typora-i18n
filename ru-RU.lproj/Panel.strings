@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Авто (рекомендуется)";
 "Customized" = "Индивидуальный";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Если используется индивидуальный размер шрифта, фактический размер будет зависеть от базового размера шрифта и стиля CSS.";
- "Left Panel" = "Боковая панель";
+"Left Panel" = "Боковая панель";
 "Show Outline Panel by Default" = "Отображать по умолчанию панель оглавления";
 "Collapsible Outline on Left Panel" = "Сворачиваемое оглавление в боковой панели";
 "Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
@@ -161,7 +161,7 @@
 "Reset Advanced Settings" = "Сбросить расширенные настройки";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
+"This function requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
 "Get iPic" = "Получить iPic";
 "Cannot Continue…" = "Не удается продолжить…";
 "This feature require macOS >= 10.11" = "Эта функция требует macOS версии >= 10.11";

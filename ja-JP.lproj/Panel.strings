@@ -31,7 +31,7 @@
 "Auto ( Recommended )" = "自動（推奨）";
 "Customized" = "カスタム";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "カスタムを選択すると、ベースフォントやCSSに応じて実際のフォントサイズが決まります";
- "Left Panel" = "左パネル";
+"Left Panel" = "左パネル";
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
 "Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
 "Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に\n自動保存";
@@ -117,7 +117,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか？<br>保存しないと変更は失われます";
 "[Warning] Failed to attach bookmark for PDF file." = "【警告】PDFファイルへのブックマークに失敗しました";
 "Dark Theme not support" = "ダークテーマはサポートされていません";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
 "Print with default theme" = "デフォルトのテーマで印刷";
 "Export to PDF successfully." = "PDFの出力に成功しました";
 "Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";
@@ -214,7 +214,7 @@
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 

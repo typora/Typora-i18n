@@ -30,7 +30,7 @@
 "Auto ( Recommended )" = "Automaticky （ Doporučeno ）";
 "Customized" = "Přizpůsobené";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Pokud je použita vlastní velikost textu, tak velikost textu bude záviset na velikosti textu a stylu CSS.";
- "Left Panel" = "Levý panel";
+"Left Panel" = "Levý panel";
 "Show Outline Panel by Default" = "Zobrazovat panel přehledu";
 "Collapsible Outline on Left Panel" = "Skládací přehled na levém panelu.";
 "Save without asking when\nswitch files on side panel" = "Uložit bez dotazu, když\nse přepnou soubory na bočním panelu";
@@ -116,7 +116,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, jestli je neuložíte.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připevnit záložku pro PDF soubor.";
 "Dark Theme not support" = "Tmavé téma není podporováno";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
 "Print with default theme" = "Tisknout s původním tématem";
 "Export to PDF successfully." = "PDF bylo vyexportováno úspěšně.";
 "Converting file using Pandoc. This may take some time." = "Probíhá převod souboru pomocí Pandocu. Může to chvíli trvat.";
@@ -213,7 +213,7 @@
 "More Formats" = "Další formáty";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Souborové formáty pod sekcí 'Další formáty' vyžadují <a class='open-pandoc-guide'>Instalaci Pandocu</a>.";
 "Something is Wrong…" = "Něco je špatně…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Uložení obsahu se nepovedlo z neznámého důvodu.<br/>Mohli byste zkopírovat obsah do nového okna Typory a potom uložit. <br/>Zjisti více o:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Nahlašte nám chyby</a></li><li><a href='http://support.typora.io/Version-Control//'>Obnovit ztracený obsah</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Uložení obsahu se nepovedlo z neznámého důvodu.<br/>Mohli byste zkopírovat obsah do nového okna Typory a potom uložit. <br/>Zjisti více o:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Nahlašte nám chyby</a></li><li><a href='http://support.typora.io/Version-Control//'>Obnovit ztracený obsah</a></li></ul>";
 "Copy Content" = "Kopírovat obsah";
 
 

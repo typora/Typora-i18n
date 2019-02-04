@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "自動 (推薦使用)";
 "Customized" = "自定義";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "若自行挑選字體大小，則實際字體大小將隨基礎字體大小及 CSS 樣式改變。";
- "Left Panel" = "側邊欄";
+"Left Panel" = "側邊欄";
 "Show Outline Panel by Default" = "預設顯示大綱欄";
 "Collapsible Outline on Left Panel" = "左側欄可允許收放";
 "Save without asking when\nswitch files on side panel" = "在側邊欄切換檔案時自動存檔無需詢問";

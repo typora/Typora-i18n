@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Automatyczny ( Rekomendowany )";
 "Customized" = "Własny";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Jeśli została wybrana opcja 'Własny', aktualny rozmiar czcionki będzie zależał od podstawowej czcionki oraz stylu css.";
- "Left Panel" = "Lewy panel";
+"Left Panel" = "Lewy panel";
 "Show Outline Panel by Default" = "Domyślnie pokazuj panel nagłówków";
 "Collapsible Outline on Left Panel" = "Złóż nagłówki na lewy panel";
 "Save without asking when\nswitch files on side panel" = "Zapisz bez pytania kiedy switch przejdziesz\ndo innego pliku na panelu bocznym";
@@ -164,7 +164,7 @@
 "Reset Advanced Settings" = "Wymaż zaawansowane ustawienia";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Ta funkcja wymaga zainstalowania najnowszej wersji iPic.";
+"This function requires latest version of iPic to be installed." = "Ta funkcja wymaga zainstalowania najnowszej wersji iPic.";
 "Get iPic" = "Pobierz iPic";
 "Cannot Continue…" = "Nie można kontynuować…";
 "This feature require macOS >= 10.11" = "Ta funkcja wymaga minimalnie macOS >= 10.11";

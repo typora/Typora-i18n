@@ -75,6 +75,7 @@
 "Sort Naturally" = "Ordenar naturalmente";
 "Sort by Name" = "Ordenar por nome";
 "Sort by Modification Date" = "Ordenar por data de modificación";
+"Recent Locations" = "Recent Locations";
 "Location" = "Localización";
 "Switch File List/Tree View" = "Cambiar Lista de arquivos/Vista de árbore";
 "No Files Available" = "Non hai arquivos dispoñibles";
@@ -88,7 +89,7 @@
 
 "Table of Contents" = "Táboa de contidos";
 "Empty Diagram" = "Diagrama baleiro";
-  "Input Math TeX here" = "Introduza Math TeX aquí";
+"Input Math TeX here" = "Input Math TeX here";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Necesita definir a nota ó pé de referencia <b>{0}</b> coa sintaxe <a>[^{1}]:www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Necesita definir a ligazón de referencia <b>[{0}]</b> con sintaxe <b>[{1}]:www.example.com</b> ";
@@ -111,7 +112,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "O contido do arquivo modificouse por aplicacións externas. ¿Volver cargar o contido do disco?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Desexa continuar a mover e sobreescribir os ficheiros existentes?";
 
-"Rename Failed" = "Renomear fallou";
 "Rename to \"{0}\" ?" = "Cambiar nome a \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Fallou renomear de \"{0}\" a \"{1}\"";
 
@@ -128,7 +128,7 @@
 "replace with" = "substituír con";
 /* search option */
 "Case Sensitive" = "Sensible a tipos";
-  "Whole Word" = "Palabra enteira";
+"Whole Word" = "Whole Word";
 
 "input image URL" = "entrar URL da imaxe";
 "Select image from local file" = "Seleccionar imaxe dende arquivo local";
@@ -156,7 +156,13 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> activouse.";
 "You could turn it off from `View` menu." = "Podes desactivalo desde o menú `Ver`.";
-"Never show this again." = "Non amosar isto de novo.";
 "The file is too large to render in Typora." = "O arquivo é demasiado grande para renderizar en Typora.";
 "Open in…" = "Abrir en…";
 "Quick Look" = "Ollada rápida";
+
+"Filter" = "Filter";
+"No result found." = "No result found.";
+"Continue & Overwrite" = "Continue & Overwrite";
+"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
+
+"Learn Data Recovery" = "Learn Data Recovery";

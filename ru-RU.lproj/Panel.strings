@@ -147,8 +147,6 @@
 "Default Line Ending" = "Окончание строки по умолчанию";
 "Line ending for new file" = "Окончание строки для новых файлов";
 "Spell Check" = "Проверка правописания";
-"(support US English only)" = "(поддерживается только US English)";
-"Enable spell check" = "Включить проверку орфографии";
 "Auto correct spelling" = "Автоматически исправлять орфографию";
 "System" = "Системные";
 "Privacy" = "Приватность";
@@ -175,6 +173,7 @@
 "The option `%@` must be enabled first" = "Сначала нужно активировать параметр `%@`.";
 "%@ is a file, not a directory" = "%@ — файл, не директория";
 "Copy Images To…" = "Копировать изображения в…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Создать папку и продолжить";
 "Document must be saved first" = "Сначала необходимо сохранить документ";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora скопирует вставленное изображение в папку по выбранному относительному пути, поэтому сначала сохраните файл.";
@@ -246,3 +245,33 @@
 
 "Ignore" = "Игнорировать";
 "Choose Default Folder" = "Выбрать папку по умолчанию";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+
+"Copy image to custom folder" = "Copy image to custom folder";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
+"Restore to previous setting" = "Restore to previous setting";
+"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
+"Please input a folder path." = "Please input a folder path.";
+"Cannot use root path." = "Cannot use root path.";
+
+"Get Themes" = "Get Themes";
+"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
+"Keep Both" = "Keep Both";
+"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+
+"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
+"You can restore from the Trash." = "You can restore from the Trash.";
+
+"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Dialogs" = "Dialogs";
+"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+
+"Operation Failed" = "Operation Failed";
+"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+
+"Undo %@" = "Undo %@";
+"Rename %@" = "Rename %@";
+"Copy %@" = "Copy %@";
+"Move %@" = "Move %@";
+"Delete %@" = "Delete %@";

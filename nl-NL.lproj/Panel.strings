@@ -67,8 +67,8 @@
 "Strict Mode" = "Strenge Modus";
 "(more strict to GFM spec)" = "(Strenger bij GFM spec)";
 "Heading Style" = "Titel Stijl";
-"Ordered List" = "Geordende Lijst";
 "Unordered List" = "Ongeordende Lijst";
+"Ordered List" = "Geordende Lijst";
 "Code Fences" = "Code Blok";
 "Display line numbers for code fences" = "Weergeef lijnnummers bij code blok";
 "Math Blocks" = "Wiskunde Blokken";
@@ -150,8 +150,6 @@
 "Default Line Ending" = "Standaard Regeleinde";
 "Line ending for new file" = "Regeleinde voor nieuw bestand";
 "Spell Check" = "Spelling Controle";
-"(support US English only)" = "(ondersteun alleen US English)";
-"Enable spell check" = "Spellingscontrole inschakelen";
 "Auto correct spelling" = "Automatisch spelling corrigeren";
 "System" = "Systeem";
 "Privacy" = "Privacy";
@@ -178,6 +176,7 @@
 "The option `%@` must be enabled first" = "De optie `%@` moet eerst ingeschakeld worden.";
 "%@ is a file, not a directory" = "%@ is een bestand, niet een map";
 "Copy Images To…" = "Kopieer Afbeeldingen Naar…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Maak map en ga door";
 "Document must be saved first" = "Document moet eerst opgeslagen worden";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kopieert de nieuwe ingevoegde afbeelding naar map op geselecteerd relatief pad, sla eerst het bestand op.";
@@ -229,3 +228,53 @@
 "Apply above rules to local images" = "Pas bovenstaande keuzes toe voor lokale afbeeldingen";
 "Apply above rules to online images" = "Pas bovenstaande keuzes toe voor online afbeeldingen";
 "Allow upload images automatically based on YAML settings" = "Sta afbeeldingen uploaden automatisch toe op basis van YAML instellingen";
+
+"Learn More…" = "Learn More…";
+"Whitespace / Line Break" = "Whitespace / Line Break";
+"When Writing" = "When Writing";
+"Export / Print" = "Export / Print";
+"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
+"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
+
+"Quit" = "Quit";
+"Quit Typora when last window is closed" = "Quit Typora when last window is closed";
+"On Launch" = "On Launch";
+"Open new file" = "Open new file";
+"Restore last closed folders" = "Restore last closed folders";
+"Restore last closed files and folders" = "Restore last closed files and folders";
+"Open custom folder" = "Open custom folder";
+"Select custom folder" = "Select custom folder";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an app\" in System Preferences";
+
+"Ignore" = "Ignore";
+"Choose Default Folder" = "Choose Default Folder";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+
+"Copy image to custom folder" = "Copy image to custom folder";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
+"Restore to previous setting" = "Restore to previous setting";
+"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
+"Please input a folder path." = "Please input a folder path.";
+"Cannot use root path." = "Cannot use root path.";
+
+"Get Themes" = "Get Themes";
+"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
+"Keep Both" = "Keep Both";
+"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+
+"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
+"You can restore from the Trash." = "You can restore from the Trash.";
+
+"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Dialogs" = "Dialogs";
+"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+
+"Operation Failed" = "Operation Failed";
+"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+
+"Undo %@" = "Undo %@";
+"Rename %@" = "Rename %@";
+"Copy %@" = "Copy %@";
+"Move %@" = "Move %@";
+"Delete %@" = "Delete %@";

@@ -258,8 +258,6 @@
 "Remap Unicode Punctuation on Parse" = "Unicode írásjelek átalakítása feldolgozáskor";
 "More Options" = "További beállítások";
 
-"Search" = "Keresés";
-
 "HTML Block" = "HTML doboz";
 "Delete Block" = "Doboz törlése";
 "Delete %@" = "%@ törlése";
@@ -269,3 +267,8 @@
 "Spell Check" = "Helyesírás ellenőrzés";
 "Unlearn Spelling" = "Helyesírás elfelejtése";
 "Properties" = "Tulajdonságok";
+
+"Search" = "Keresés";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

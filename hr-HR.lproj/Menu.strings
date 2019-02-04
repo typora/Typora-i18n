@@ -4,8 +4,8 @@
 
  by hi@typora.io
 */
-/* Typora Menu */
 
+/* Typora Menu */
 
 "About Typora" = "O Typora";
 "Preferences" = "Postavke";
@@ -244,11 +244,31 @@
 "Learn More" = "Saznaj više";
 "Whitespace and Line Breaks" = "Razmak i lomljenje linija";
 "Indent first line of paragraphs" = "Uvuci prvu liniju odlomka";
+"Preserve single line break" = "Preserve single line break";
 "Visible <br/>" = "Vidljiv <br/> i markdown prijelom retka";
-"Preserve sequential whitespace and single line break" = "Sačuvaj uzastopni raznmak i jedna prijelom retka";
 
 "Save All" = "Sačuvaj sve";
 "New Window" = "Novi Prozor";
 "Reopen Closed File" = "Ponovo otvori zatvorenu datoteku";
 
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
+"Properties" = "Properties";
+
 "Search" = "Pretraži";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

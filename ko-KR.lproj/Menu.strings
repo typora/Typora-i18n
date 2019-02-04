@@ -247,8 +247,8 @@
 "Learn More" = "더 알아보기";
 "Whitespace and Line Breaks" = "공백 및 줄바꿈";
 "Indent first line of paragraphs" = "문단의 첫 줄 들여쓰기";
+"Preserve single line break" = "Preserve single line break";
 "Visible <br/>" = "<br/>과 마크다운 줄바꿈 보이기";
-"Preserve sequential whitespace and single line break" = "연속된 공백과 단일 줄바꿈 유지하기";
 
 "Save All" = "모두 저장";
 "New Window" = "새 창 열기";
@@ -261,5 +261,17 @@
 "Remap Unicode Punctuation on Parse" = "마크다운 해석 시 유니코드 문장부호를 아스키로 변환";
 "More Options" = "상세 설정";
 
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
 "Properties" = "속성";
+
 "Search" = "검색";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

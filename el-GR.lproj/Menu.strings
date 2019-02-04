@@ -236,5 +236,40 @@
 "File or folder does not exist." = "Το αρχείο ή ο φάκελος δεν υπάρχει";
 
 "Prettify Source Code" = "Ωραιοποίηση Πηγαίου Κώδικα";
+"Copy '%@'" = "Copy '%@'";
+"Copy to %@" = "Copy to %@";
+"Copy Image to..." = "Copy Image to...";
+"Upload via iPic" = "Upload via iPic";
+"Open Image Location" = "Open Image Location";
+
+"Learn More" = "Learn More";
+"Whitespace and Line Breaks" = "Whitespace and Line Breaks";
+"Indent first line of paragraphs" = "Indent first line of paragraphs";
+"Preserve single line break" = "Preserve single line break";
+"Visible <br/>" = "Visible <br/>";
+
+"Save All" = "Save All";
+"New Window" = "New Window";
+"Reopen Closed File" = "Reopen Closed File";
+
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
+"Properties" = "Properties";
 
 "Search" = "Εύρεση";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

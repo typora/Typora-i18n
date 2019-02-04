@@ -120,7 +120,7 @@
 "Toggle Task Status" = "Cambiar Estado da tarefa";
 "Mark as Complete" = "Marcar como Completa";
 "Mark as Incomplete" = "Marcar como Incompleta";
-  "List Indentation" = "Sangrado da lista";
+"List Indentation" = "List Indentation";
 "Indent" = "Cara dentro";
 "Outdent" = "Cara fora";
 "Link Reference" = "Referencia de ligazón";
@@ -267,3 +267,8 @@
 "Spell Check" = "Corrector ortográfico";
 "Unlearn Spelling" = "Desaprender ortografía";
 "Properties" = "Propiedades";
+
+"Search" = "Search";
+"Copy without Theme Styling" = "Copy without Theme Styling";
+"Recent Files" = "Recent Files";
+"File Results" = "File Results";

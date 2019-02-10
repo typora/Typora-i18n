@@ -1,0 +1,278 @@
+/*
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+
+ Indonesian (Bahasa Indonesia) translation
+ by Samuel Natalius (@snatalius)
+ samnatalius[at]outlook[dot]com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Tentang Typora";
+"Preferences" = "Preferensi";
+"Check for Updates" = "Periksa Pembaruan";
+"Services" = "Layanan";
+"Hide Typora" = "Sembunyikan Typora";
+"Hide Others" = "Sembunyikan Lainnya";
+"Show All" = "Tampilkan Semua";
+"Quit Typora" = "Keluar dari Typora";
+
+/* File Menu */
+
+"File" = "File";
+"New" = "Baru";
+"Open" = "Buka";
+"Open Folder" = "Buka Folder";
+"Reopen with Encoding" = "Buka Kembali dengan Pengodean";
+"Auto" = "Otomatis";
+"Open Recent" = "Buka File Terkini";
+"Recent Locations" = "Lokasi Terkini";
+"Clear Items" = "Hilangkan Item";
+"No Recent Files" = "Tidak Ada File Terkini";
+"Open Quickly" = "Buka Dengan Cepat";
+"Open File Location" = "Buka Lokasi File";
+"Reveal in Library" = "Ungkap dalam Pustaka";
+"Reveal in File Tree" = "Ungkap dalam Pohon File";
+"Close" = "Tutup";
+"Save" = "Simpan";
+"Save As" = "Simpan sebagai";
+"Duplicate" = "Gandakan";
+"Rename" = "Ubah Nama";
+"Move To" = "Pindahkan ke";
+"Revert To" = "Kembalikan kepada";
+"Browse All Versions" = "Telusuri Semua Versi";
+"Import" = "Impor";
+"Export" = "Expor";
+"Page Setup" = "Penyetelan Halaman";
+"Print" = "Cetak";
+
+/* Edit Menu */
+"Edit" = "Edit";
+"Undo" = "Kembalikan";
+"Redo" = "Ulangi";
+"Cut" = "Potong";
+"Copy" = "Salin";
+"Paste" = "Tempel";
+"Copy as Markdown" = "Salin sebagai Markdown";
+"Copy as HTML Code" = "Salin sebagai Kode HTML";
+"Paste as Plain Text" = "Tempel sebagai Teks Biasa";
+"Select All" = "Pilih Semua";
+"Select Line/Sentence" = "Pilih Baris/Kalimat";
+"Select Styled Scope" = "Pilih Lingkup Gaya";
+"Select Word" = "Pilih Kata";
+"Delete" = "Hapus";
+"Delete Range" = "Hapus dalam Rentang";
+"Delete Word" = "Hapus Kata";
+"Delete Styled Scope" = "Hapus Lingkup Gaya";
+"Delete Line/Sentence" = "Hapus Baris/Kalimat";
+"Jump To" = "Lompat ke";
+"Jump to Top" = "Lompat ke Atas";
+"Jump to Selection" = "Lompat ke Pilihan";
+"Jump to Bottom" = "Lompat ke Bawah";
+"Math Tools" = "Alat Matematika";
+"Refresh All Math Expressions" = "Muat Ulang Semua Ekspresi Matematika";
+"Image Tools" = "Alat Gambar";
+"Insert Local Images" = "Sisipkan Gambar Lokal";
+"Upload Local Images via iPic" = "Unggah Gambar Lokal lewat iPic";
+"When Insert Local Image" = "Ketika Menyisipkan Gambar Lokal";
+"Copy Image File to Folder" = "Salin File Gambar ke Folder";
+"Upload Image via iPic" = "Unggah Gambar lewat iPic";
+"Use Image Root Path" = "Gunakan Path Asal Gambar";
+"Line Endings" = "Akhiran Baris";
+"Windows Line Endings (CRLF)" = "Akhiran Baris Windows (CRLF)";
+"Unix Line Endings (LF)" = "Akhiran Baris Unix (LF)";
+"Find" = "Temukan";
+"Find Next" = "Temukan Berikutnya";
+"Find Previous" = "Temukan Sebelumnya";
+"Find and Replace" = "Temukan dan Ganti";
+"Replace" = "Ganti";
+"Replace Next" = "Temukan Berikutnya";
+"Spelling and Grammar" = "Ejaan dan Tata Bahasa";
+"Check Document Now" = "Periksa Dokumen Sekarang";
+"Check Spelling While Typing" = "Periksa Ejaan ketika Mengetik";
+"Check Grammar With Spelling" = "Periksa Tata Bahasa dengan Ejaan";
+"Correct Spelling Automatically" = "Perbaiki Ejaan secara Otomatis";
+"Substitutions" = "Substitusi";
+"Smart Quotes" = "Kutipan Cerdas";
+"Smart Dashes" = "Tanda Hubung Cerdas";
+"Text Replacement" = "Penggantian Teks";
+"Speech" = "Suara";
+"Start Speaking" = "Mulai Berbicara";
+"Stop Speaking" = "Stop Berbicara";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraf";
+"Heading 1" = "Heading 1";
+"Heading 2" = "Heading 2";
+"Heading 3" = "Heading 3";
+"Heading 4" = "Heading 4";
+"Heading 5" = "Heading 5";
+"Heading 6" = "Heading 6";
+"Increase Heading Level" = "Naikkan Tingkatan Heading";
+"Decrease Heading Level" = "Turunkan Tingkatan Heading";
+"Table" = "Tabel";
+"Code Fences" = "Kotak Kode";
+"Math Block" = "Blok Matematika";
+"Quote" = "Kutipan";
+"Ordered List" = "Daftar Terurut";
+"Unordered List" = "Daftar Tidak Terurut";
+"Task List" = "Daftar Tugas";
+"Task Status" = "Status Tugas";
+"Toggle Task Status" = "Ganti Status Tugas";
+"Mark as Complete" = "Tandai sebagai Selesai";
+"Mark as Incomplete" = "Tandai sebagai Tidak Selesai";
+"List Indentation" = "Penganjuran Daftar";
+"Indent" = "Anjurkan ke Dalam";
+"Outdent" = "Anjurkan ke Luar";
+"Link Reference" = "Referensi Tautan";
+"Footnotes" = "Catatan Kaki";
+"Horizontal Line" = "Garis Mendatar";
+"Table of Contents" = "Daftar Isi";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Tebal";
+"Emphasis" = "Miring";
+"Underline" = "Garis Bawah";
+"Code" = "Kode";
+"Inline Math" = "Matematika Sebaris";
+"Strike" = "Coret";
+"Highlight" = "Sorotan";
+"Superscript" = "Tika Atas";
+"Subscript" = "Tika Bawah";
+"Comment" = "Komentar";
+"Hyperlink" = "Hyperlink";
+"Image" = "Gambar";
+"Clear Format" = "Hilangkan Format";
+
+/* View Menu */
+"View" = "Tinjauan";
+"New Tab" = "Tab Baru";
+"Source Code Mode" = "Mode Source Code";
+"Focus Mode" = "Mode Fokus";
+"Typewriter Mode" = "Mode Mesin Tik";
+"Toggle Sidebar" = "(Non-)aktifkan Bilah Sisi";
+"Outline" = "Ikhtisar";
+"Articles" = "Artikel";
+"File Tree" = "Pohon File";
+"Always on Top" = "Selalu di Atas";
+"Full Screen" = "Layar Penuh";
+"Show Status Bar" = "Tampilkan Bilah Status";
+"Toggle Fullscreen" = "(Non-)aktifkan Layar Penuh";
+"Actual Size" = "Ukuran Sebenarnya";
+"Zoom In" = "Perbesar Tampilan";
+"Zoom Out" = "Perkecil Tampilan";
+"Switch Between Opened Documents" = "Pindah ke Dokumen Aktif Lainnya";
+"Toggle DevTools" = "(Non-)aktifkan DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Tema";
+
+/* Window Menu */
+"Window" = "Jendela";
+"Minimize" = "Kecilkan";
+"Zoom" = "Perbesar";
+"Bring All to Front" = "Majukan Semua ke Depan";
+
+/* Help Menu */
+"Help" = "Bantuan";
+"Privacy Policy" = "Aturan Privasi";
+"Credits" = "Kredit";
+"Change Log" = "Log Perubahan";
+"Website" = "Situs Jejaring";
+"Feedback" = "Umpan Balik";
+"About" = "Tentang";
+
+/* Touchbar */
+"Block Styles" = "Gaya Blok";
+"Inline Styles" = "Gaya dalam Baris";
+"List Styles / Remove Block" = "List Styles / Remove Block";
+"Exit Source Code Mode" = "Keluar dari Mode Source Code";
+"Toggle Source Code Mode" = "(Non-)aktifkan Mode Source Code";
+
+/* Extra Context Menu */
+"Table" = "Tabel";
+"Add Row Above" = "Tambah Baris di Atas";
+"Add Row Below" = "Tambah Baris di Bawah";
+"Delete Row" = "Hapus Baris";
+"Add Column Before" = "Tambah Kolom Sebelum";
+"Add Column After" = "Tambah Kolom Sesudah";
+"Delete Column" = "Hapus Kolom";
+"Copy Table" = "Salin Tabel";
+"Delete Table" = "Hapus Tabel";
+"Insert Paragraph After" = "Sisipkan Paragram Setelah";
+"Insert Paragraph Before" = "Sisipkan Paragram Sebelum";
+"Delete Code Block" = "Hapus Blok Kode";
+"Copy as MathML" = "Salin sebagai MathML";
+"Copy as Tex" = "Salin sebagai Tex";
+"Copy Math" = "Salin Matematika";
+"Reveal in Finder" = "Tampilkan di Finder";
+"Open Link" = "Buka Tautan";
+"Reveal in Sidebar" = "Tampilkan di Bilah Sisi";
+"Open in New Window" = "Buka di Jendela Baru";
+"Copy File Path" = "Salin Path File";
+"New File" = "File Baru";
+"Rename" = "Ubah Nama";
+"New Folder" = "Folder Baru";
+"Move to Trash" = "Pindahkan ke Keranjang Sampah";
+
+/* Electron */
+"Learn Spelling" = "Pelajari Ejaan";
+"Copy / Paste As…" = "Salin / Tempel sebagai…";
+"Math" = "Matematika";
+"Insert" = "Sisipkan";
+"Inspect Element" = "Sisipkan Elemen";
+"Copy to MS Word" = "Salin ke MS Word";
+"Paragraph (before)" = "Paragraf (sebelum)";
+"Paragraph (after)" = "Paragraf (sesudah)";
+
+"Search with Google" = "Cari menggunakan Google";
+"Search With…" = "Cari menggunakan…";
+
+/* Related Panel */
+"Open Failed" = "Proses Pembukaan Gagal";
+"File or folder does not exist." = "File atau folder tidak ada.";
+
+"Prettify Source Code" = "Percantik Source Code";
+"Copy '%@'" = "Salin '%@'";
+"Copy to %@" = "Salin ke %@";
+"Copy Image to..." = "Salin gambar ke...";
+"Upload via iPic" = "Unggah melalui iPic";
+"Open Image Location" = "Buka Lokasi Gambar";
+
+"Learn More" = "Pelajari Lebih Lanjut";
+"Whitespace and Line Breaks" = "Spasi Putih dan Pembatas Baris";
+"Indent first line of paragraphs" = "Anjurkan baris paragraf pertama ke dalam";
+"Preserve single line break" = "Pertahankan pembatas garis tunggal";
+"Visible <br/>" = "Terlihat <br/>";
+
+"Save All" = "Simpan Semua";
+"New Window" = "Jendela Baru";
+"Reopen Closed File" = "Buka Kembali File yang Ditutup";
+
+"Global Image Settings" = "Pengaturan Gambar Global";
+"Smart Punctuation" = "Tanda Baca Cerdas";
+"Convert on Input" = "Konversikan saat Pemasukan";
+"Convert on Rendering" = "Konversikan saat Rendering";
+"Remap Unicode Punctuation on Parse" = "Petakan Ulang Tanda Baca Unicode saat Penguraian";
+"More Options" = "Pilihan Lainnya";
+
+"HTML Block" = "Blok HTML";
+"Delete Block" = "Hapus Blok";
+"Delete %@" = "Hapus %@";
+"Play" = "Mainkan";
+"Pause" = "Jeda";
+
+"Spell Check" = "Pemeriksaan Ejaan";
+"Unlearn Spelling" = "Ejaan yang Belum Dipelajari";
+"Properties" = "Properti";
+
+"Search" = "Cari";
+"Copy without Theme Styling" = "Salin tanpa Pengaturan Gaya Tema";
+"Recent Files" = "File Terkini";
+"File Results" = "Hasil File";

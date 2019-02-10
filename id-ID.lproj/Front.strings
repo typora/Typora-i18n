@@ -1,0 +1,172 @@
+/*
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Indonesian (Bahasa Indonesia) translation
+ by Samuel Natalius (@snatalius)
+ samnatalius[at]outlook[dot]com
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Batalkan";
+"Yes" = "Ya";
+"No" = "Tidak";
+"Close" = "Tutup";
+"Select" = "Pilih";
+"Continue" = "Lanjut";
+"Learn More…" = "Pelajari Lebih Lanjut…";
+"Untitled" = "Tanpa Judul";
+"Undo" = "Kembali";
+"Dismiss" = "Hentikan";
+"Confirm" = "Konfirmasi";
+"Error" = "Kesalahan";
+
+/* Search Panel */
+"Search" = "Cari";
+"Replace" = "Ganti";
+"All" = "Semua";
+"Search text not found in article" = "Teks pencarian tidak ditemukan pada artikel";
+"search text" = "Teks pencarian";
+
+/* Quick Open */
+"Search by file name" = "Cari dengan nama file";
+"Searching" = "Sedang mencari";
+"Gathering more results" = "Mengumpulkan lebih banyak hasil";
+
+/* Tables */
+"Insert Table" = "Sisipkan Tabel";
+"Columns" = "Kolom";
+"Rows" = "Baris";
+"Align Left" = "Rata Kiri";
+"Align Center" = "Rata Tengah";
+"Align Right" = "Rata Kanan";
+"Resize Table" = "Ubah Ukuran Tabel";
+"Delete Table" = "Hapus Tabel";
+
+/* Images */
+"Copy Image To..." = "Salin Gambar ke...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sedang berusaha untuk menyalin gambar yang baru disisipkan ke folder <code id='image-create-folder-target'></code> sesuai dengan aturan YAML Front Matter atau preferensi global Anda. Namun, folder tujuan belum ada. Buat folder tersebut sekarang?";
+"Create Folder" = "Buat Folder";
+
+/* Math */
+"Edit" = "Edit";
+"Delete Math" = "Hapus Matematika";
+"Preview" = "Pratinjau";
+
+/* Sidebar */
+"Articles" = "Artikel";
+"Outline" = "Ikhtisar";
+"Files" = "File";
+"Switch to File List view" = "Ubah ke tinjauan Daftar File";
+"Switch to File Tree view" = "Ubah ke tinjauan Pohon File";
+"Switch to Outline view" = "Ubah ke tinjauan Ikhtisar";
+"Close sidebar" = "Tutup bilah sisi";
+"Loading" = "Sedang memuat";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak file. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tampilan Pohon File</a> untuk kinerja yang lebih baik.";
+"New File" = "File Baru";
+"Unpin Outline Panel" = "Lepaskan sematan Panel Ikhtisar";
+"Open Folder..." = "Buka Folder...";
+"Action" = "Aksi";
+"Close Sidebar Menu" = "Tutup Menu Bilah Sisi";
+"Reveal in Finder" = "Tampilkan di Finder";
+"Reveal in File Explorer" = "Tampilkan di File Explorer";
+"Refresh Folder" = "Muat Ulang Folder";
+"Sort" = "Urut";
+"Group By Folder" = "Kumpulkan menurut Folder";
+"Sort Naturally" = "Urutkan secara Alami";
+"Sort by Name" = "Urutkan menurut Nama";
+"Sort by Modification Date" = "Urutkan menurut Tanggal Modifikasi";
+"Recent Locations" = "Lokasi Terkini";
+"Location" = "Lokasi";
+"Switch File List/Tree View" = "Ubah ke Tinjauan Daftar/Pohon File";
+"No Files Available" = "Tidak Ada File yang Tersedia";
+"No Folder is Opened." = "Tidak Ada Folder yang Terbuka.";
+"Outline is Empty." = "Ikhtisar Kosong.";
+
+/* Status Bar */
+"Toggle Sidebar" = "(Non-)aktifkan Bilah Sisi";
+"Toggle Source Code Mode" = "(Non-)aktifkan Mode Source Code";
+"Exit Source Code Mode" = "Keluar dari Mode Source Code";
+
+"Table of Contents" = "Daftar Isi";
+"Empty Diagram" = "Diagram Kosong";
+"Input Math TeX here" = "Masukkan TeX Matematika di sini";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Pendefinisian catatan kaki sumber <b>{0}</b> harus dengan format <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Pendefinisian tautan sumber <b>[{0}]</b> harus dengan format <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Mohon mendefinisikan referensi gambar dengan format \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Gagal membuat file";
+"Failed to create folder" = "Gagal membuat folder";
+"Failed to rename file" = "Gagal mengubah nama file";
+"Folder does not exist at %@" = "Folder tidak ada di %@";
+"File with the same name already exists at target path" = "File dengan nama yang sama telah ada di path tujuan";
+"Apply to All" = "Terapkan untuk Semua";
+"Overwrite" = "Timpa";
+"Stop" = "Hentikan";
+"back to document" = "kembali ke dokumen";
+"Failed to load file" = "Gagal memuat file";
+"Save File Failed!" = "Gagal menyimpan file!";
+"Cannot open folder {0}" = "Tidak dapat membuka folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Isi file diganti oleh aplikasi luar. Muat ulang isi dari disk?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Lanjutkan pemindahan dan penimpaan file yang ada ?";
+
+"Rename to \"{0}\" ?" = "Ubah nama ke \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Gagal mengubah nama dari \"{0}\" ke \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Berhasil mengunggah {0} gambar.";
+"Failed to upload image. Error Message:" = "Gagal mengunggah gambar. Pesan Kesalahan:";
+"Failed to Copy Image to Target Folder." = "Gagal Menyalin Gambar ke Folder Tujuan.";
+"Select Container Folder" = "Pilih Folder Penampung";
+
+"Saved" = "Tersimpan";
+
+/* place holder in find & replace input */
+"search text" = "cari teks";
+"replace with" = "ganti dengan";
+/* search option */
+"Case Sensitive" = "Peka Huruf Besar/Kecil";
+"Whole Word" = "Seluruh Kata";
+
+"input image URL" = "masukkan URL gambar";
+"Select image from local file" = "Pilih gambar dari file lokal";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Tidak dapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "pilih bahasa";
+"Finish Editing" = "Akhiri Pengubahan";
+
+"Revert advanced setting file to default one ?" = "Kembalikan file pengaturan lanjutan ke versi standar ?";
+
+"Select Spell Check Language" = "Pilih Bahasa Pemeriksaan Ejaan";
+"Auto Detect Language" = "Deteksi Bahasa secara Otomatis";
+"Disable Spell Check" = "Matikan Pemeriksaan Ejaan";
+"Global Setting…" = "Pengaturan Global…";
+"Dictionary file is missing to enable spellcheck support for %@." = "File kamus untuk mendukung pemeriksaan ejaan untuk %@ tidak tersedia.";
+"Install Language Support" = "Pasang Dukungan Bahasa";
+"License Information" = "Informasi Lisensi";
+"Download" = "Unduh";
+"Install dictionary file only for Typora" = "Pasang file kamus hanya untuk Typora";
+"Spell Check (%@ unavailable)" = "Pemeriksaan Ejaan (%@ tidak tersedia)";
+"Spell Check (%@ downloading)" = "Pemeriksaan Ejaan (%@ sedang diunduh)";
+"Download dictionary file for %@" = "Unduh file kamus untuk %@";
+"(Default spell check option)" = "(Opsi standar pemeriksaan ejaan)";
+"Failed to load spellcheck module" = "Gagal memuat modul pemeriksaan ejaan";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> telah diaktifkan.";
+"You could turn it off from `View` menu." = "Anda dapat menonaktifkannya dari menu `Tinjauan`.";
+"The file is too large to render in Typora." = "File terlalu besar untuk di-render di Typora.";
+"Open in…" = "Buka di…";
+"Quick Look" = "Lihat Sekilas";
+
+"Filter" = "Filter";
+"No result found." = "Tidak ada hasil yang ditemukan.";
+"Continue & Overwrite" = "Lanjut & Timpa";
+"The file is read-only, or you do not have right permissions to modify the file." = "File dibatasi hanya untuk dilihat, atau Anda tidak punya izin yang sesuai untuk mengubah file tersebut.";
+
+"Learn Data Recovery" = "Pelajari Pemulihan Data";

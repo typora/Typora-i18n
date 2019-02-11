@@ -32,7 +32,7 @@
 "Replace" = "Nahradit";
 "All" = "Vše;
 "Search text not found in article" = "Vyhledávaný text nebyl v článku nalezen";
-"search text" = "hledat text";
+"search text" = "Hledat text";
 
 /* Quick Open */
 "Search by file name" = "Hledat podle názvu souboru";

@@ -161,7 +161,7 @@
 "Reset Advanced Settings" = "Сбросить расширенные настройки";
 
 /* Image relates on macOS */
-"This fucntion requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
+"This function requires latest version of iPic to be installed." = "Эта функция требует последнюю версию iPic для работы.";
 "Get iPic" = "Получить iPic";
 "Cannot Continue…" = "Не удается продолжить…";
 "This feature require macOS >= 10.11" = "Эта функция требует macOS версии >= 10.11";

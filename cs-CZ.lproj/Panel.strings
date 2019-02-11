@@ -90,13 +90,13 @@
 "Follow instructions to install Pandoc" = "Následujte instrukce pro instalaci Pandocu";
 "Cancel" = "Zrušit";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "Importuje se";
 "Importing in progress..." = "Probíhá import...";
 "Converting file with Pandoc. This may take some time." = "Převádí se soubor pomocí Pandocu. Může to zabrat nějáký čas.";
 "Abort" = "Přerušit";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "Exportuje se...";
 "Exporting in progress..." = "Probíhá export...";
 "Converting file with Pandoc. This may take some time." = "Převádí se soubory pomocí Pandocu. Může to chvíli trvat.";
@@ -116,7 +116,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, jestli je neuložíte.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připevnit záložku pro PDF soubor.";
 "Dark Theme not support" = "Tmavé téma není podporováno";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
 "Print with default theme" = "Tisknout s původním tématem";
 "Export to PDF successfully." = "PDF bylo vyexportováno úspěšně.";
 "Converting file using Pandoc. This may take some time." = "Probíhá převod souboru pomocí Pandocu. Může to chvíli trvat.";

@@ -84,13 +84,13 @@
 "Follow instructions to install Pandoc" = "Seguir instrucciones para instalar Pandoc";
 "Cancel" = "Cancelar";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "Importando...";
 "Importing in progress..." = "Importación en progeso...";
 "Converting file with Pandoc. This may take some time." = "Convirtiendo archivo con Pandoc. Esto puede tomar algo de tiempo.";
 "Abort" = "Abortar";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "Exportando...";
 "Exporting in progress..." = "Exportación en progreso...";
 "Converting file with Pandoc. This may take some time." = "Convirtiendo archivo con Pandoc. Esto puede tomar algo de tiempo.";
@@ -110,7 +110,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "¿Deseas guardar los cambios hechos a éste documento?<br> Se perderán todos los cambios si no se guardan.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Warning] Error al adjuntar marcadador al archivo PDF.";
 "Dark Theme not support" = "Tema oscuro no soportado";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "Lo sentimos, la versión actual de Typora no imprimirá en color de fondo en el PDF exportado, por lo que el tema oscuro aún no está soportado para exportar PDFs. \nConsidera escoger un tema claro o haz clic en \"Imprimir con el tema predeterminado\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Lo sentimos, la versión actual de Typora no imprimirá en color de fondo en el PDF exportado, por lo que el tema oscuro aún no está soportado para exportar PDFs. \nConsidera escoger un tema claro o haz clic en \"Imprimir con el tema predeterminado\"";
 "Print with default theme" = "Imprimir con el tema predeterminado";
 "Export to PDF successfully." = "Exportación a PDF exitosa.";
 "Converting file using Pandoc. This may take some time." = "Convirtiendo archivo con Pandoc. Esto puede tomar algo de tiempo.";

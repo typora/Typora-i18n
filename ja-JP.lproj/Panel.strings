@@ -91,13 +91,13 @@
 "Follow instructions to install Pandoc" = "指示に従ってPandocをインストールしてください";
 "Cancel" = "キャンセル";
 
-/* Panodc Import Panel */
+/* Pandoc Import Panel */
 "Importing..." = "インポートする";
 "Importing in progress..." = "インポート実行中";
 "Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります。";
 "Abort" = "中止";
 
-/* Panodc Export Panel */
+/* Pandoc Export Panel */
 "Exporting..." = "エクスポートする";
 "Exporting in progress..." = "エクスポート実行中";
 "Converting file with Pandoc. This may take some time." = "Pandocでファイルを変換しています。時間がかかることがあります";
@@ -117,7 +117,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか？<br>保存しないと変更は失われます";
 "[Warning] Failed to attach bookmark for PDF file." = "【警告】PDFファイルへのブックマークに失敗しました";
 "Dark Theme not support" = "ダークテーマはサポートされていません";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exproting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
 "Print with default theme" = "デフォルトのテーマで印刷";
 "Export to PDF successfully." = "PDFの出力に成功しました";
 "Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";

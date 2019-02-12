@@ -76,13 +76,13 @@
 "Sort by Name" = "按文件名排序";
 "Sort by Modification Date" = "按修改时间排序";
 "Location" = "目录";
-"Switch File List/Tree View" = "切换列表/树视图";
+"Switch File List/Tree View" = "切换列表／树视图";
 "No Files Available" = "文件列表为空";
 "No Folder is Opened." = "没有打开的文件夹";
 "Outline is Empty." = "大纲内容为空";
 
 /* Status Bar */
-"Toggle Sidebar" = "显示/隐藏侧边栏";
+"Toggle Sidebar" = "显示／隐藏侧边栏";
 "Toggle Source Code Mode" = "启用源代码模式";
 "Exit Source Code Mode" = "退出源代码模式";
 
@@ -131,7 +131,7 @@
 "Case Sensitive" = "区分大小写";
 "Whole Word" = "查找整个单词";
 
-"input image URL" = "输入图片地址";
+"input image URL" = "输入图片 URL";
 "Select image from local file" = "选择本地图片";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "无法打开 <code>$1</code> ，您是想打开 <a href='https://$3'>https://$2</a> 么？";
 
@@ -145,8 +145,8 @@
 "Disable Spell Check" = "不使用拼写检查";
 "Global Setting…" = "全局设置…";
 "Dictionary file is missing to enable spellcheck support for %@." = "拼写检查: 缺少对于 %@ 的字典文件。";
-"Install Language Support" = "安装改语言的拼写检查支持";
-"License Information" = "版权信息";
+"Install Language Support" = "安装该语言的拼写检查支持";
+"License Information" = "许可证信息";
 "Download" = "下载";
 "Install dictionary file only for Typora" = "安装仅适用于 Typora 的拼写检查支持";
 "Spell Check (%@ unavailable)" = "拼写检查 (%@ 不可用)";
@@ -157,9 +157,9 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> 已开启。";
 "You could turn it off from `View` menu." = "可以在`视图`菜单中关闭";
-"The file is too large to render in Typora." = "文件过大。";
+"The file is too large to render in Typora." = "该文件过大，因此无法在 Typora 中呈现";
 "Open in…" = "打开方式…";
-"Quick Look" = "Quick Look";
+"Quick Look" = "预览";
 
 "Filter" = "查找";
 "No result found." = "没有找到对应的内容。";

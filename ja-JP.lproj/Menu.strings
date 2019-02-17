@@ -13,6 +13,9 @@
 
  by HelloRusk(@HelloRusk)
  hellorusk1998@gmail.com
+
+ by TAKAHASHI Shuuji (＠shuuji3)
+ shuuji3@gmail.com
 */
 
 /* Typora Menu */
@@ -238,18 +241,18 @@
 "Paragraph (after)" = "段落（後）";
 
 "Search with Google" = "Googleで検索";
-"Search With…" = "~で検索";
+"Search With…" = "〜で検索";
 
 /* Related Panel */
 "Open Failed" = "開くのに失敗しました";
-"File or folder does not exist." = "ファイルやフォルダがありません";
+"File or folder does not exist." = "ファイルやフォルダがありません。";
 
 "Prettify Source Code" = "ソースコードを整形";
-"Copy '%@'" = "Copy '%@'";
-"Copy to %@" = "Copy to %@";
-"Copy Image to..." = "Copy Image to...";
-"Upload via iPic" = "Upload via iPic";
-"Open Image Location" = "Open Image Location";
+"Copy '%@'" = "'%@' をコピー";
+"Copy to %@" = "%@ にコピー";
+"Copy Image to..." = "画像をコピー...";
+"Upload via iPic" = "iPic経由でアップロード";
+"Open Image Location" = "画像の場所を開く";
 
 "Learn More" = "詳細を見る";
 "Whitespace and Line Breaks" = "空白と改行";
@@ -262,23 +265,23 @@
 "Reopen Closed File" = "閉じたファイルを再び開く";
 
 "Global Image Settings" = "画像の設定";
-"Smart Punctuation" = "Smart Punctuation";
+"Smart Punctuation" = "スマート置換";
 "Convert on Input" = "入力時に置換";
 "Convert on Rendering" = "レンダリング中に置換";
 "Remap Unicode Punctuation on Parse" = "パースの際にUnicodeの記号に置き換える";
 "More Options" = "高度な設定";
 
-"HTML Block" = "HTML Block";
+"HTML Block" = "HTMLブロック";
 "Delete Block" = "ブロックを削除する";
-"Delete %@" = "Delete %@";
-"Play" = "Play";
-"Pause" = "Pause";
+"Delete %@" = "%@ を削除";
+"Play" = "再生";
+"Pause" = "一時停止";
 
-"Spell Check" = "Spell Check";
-"Unlearn Spelling" = "Unlearn Spelling";
+"Spell Check" = "スペルチェック";
+"Unlearn Spelling" = "スペルチェックの学習をリセット";
 "Properties" = "プロパティ";
 
 "Search" = "検索";
-"Copy without Theme Styling" = "Copy without Theme Styling";
-"Recent Files" = "Recent Files";
-"File Results" = "File Results";
+"Copy without Theme Styling" = "テーマスタイルなしでコピー";
+"Recent Files" = "最近のファイル";
+"File Results" = "ファイルの結果";

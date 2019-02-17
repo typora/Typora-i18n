@@ -276,3 +276,6 @@
 "Copy %@" = "拷贝 %@";
 "Move %@" = "移动 %@";
 "Delete %@" = "删除 %@";
+
+"Turn off Typewriter / Focus Mode" = "关闭 打字机模式 / 专注模式";
+"Typewriter / Focus Mode have been turned off." = "打字机模式 / 专注模式 已被关闭。";

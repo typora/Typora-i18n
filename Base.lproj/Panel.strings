@@ -275,3 +275,6 @@
 "Copy %@" = "Copy %@";
 "Move %@" = "Move %@";
 "Delete %@" = "Delete %@";
+
+"Turn off Typewriter / Focus Mode" = "Turn off Typewriter / Focus Mode";
+"Typewriter / Focus Mode have been turned off." = "Typewriter / Focus Mode have been turned off.";

@@ -11,6 +11,8 @@
  by gageas(@gageas)
  gageas@gageas.com
 
+ by TAKAHASHI Shuuji (＠shuuji3)
+ shuuji3@gmail.com
 */
 
 /* Preference Panel */
@@ -143,7 +145,7 @@
 "Appearance" = "表示";
 "System Native" = "システム標準";
 "Unibody" = "ユニボディ";
-"(applied after restart)" = "適用後に再起動";
+"(applied after restart)" = "再起動後に適用";
 "Status Bar" = "ステータスバー";
 "Show status bar" = "ステータスバーを表示";
 "Save & Recover" = "保存と復元";
@@ -181,7 +183,7 @@
 "The option `%@` must be enabled first" = "「%@」の機能を先にオンにしてください";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしました。しかし、フォルダが存在しません。今作成しますか？";
 "Create Folder and Continue" = "フォルダを作成して続ける";
 "Document must be saved first" = "最初に文書を保存してください";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typoraは新規画像を相対パスで保存します。そのため最初に文書を保存してください";
@@ -220,66 +222,66 @@
 "Indent Size for Code" = "コードブロックのインデント";
 "Auto wrap long lines" = "長い行を折り返す";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
-"Export to PDF" = "Export to PDF";
-"Pretty indentation" = "Pretty indentation";
-"Update markdown reference for this image" = "Update markdown reference for this image";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "申し訳ありません。現在のバージョンのTyporaは背景色を印刷できないため、ダークテーマは印刷には対応していません。\n\nこのドキュメントをPDFに出力するには、ライトテーマを選択してください。。";
+"Export to PDF" = "PDFにエクスポート";
+"Pretty indentation" = "自動インデント";
+"Update markdown reference for this image" = "この画像に対するMarkdownリファレンスを更新する";
 
-"No special action" = "No special action";
-"Copy image to current folder (./)" = "Copy image to current folder (./)";
-"Copy image to ./assets" = "Copy image to ./assets";
-"Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
-"Upload image via iPic" = "Upload image via iPic";
-"Apply above rules to local images" = "Apply above rules to local images";
-"Apply above rules to online images" = "Apply above rules to online images";
-"Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";
+"No special action" = "特別な操作をしない";
+"Copy image to current folder (./)" = "画像を現在のフォルダに保存する (./)";
+"Copy image to ./assets" = "画像を ./assets に保存する";
+"Copy image to ./${filename}.assets" = "画像を ./${filename}.assets に保存する";
+"Upload image via iPic" = "画像をiPic経由でアップロード";
+"Apply above rules to local images" = "上記のルールをローカルの画像に適用";
+"Apply above rules to online images" = "上記のルールをオンラインの画像に適用";
+"Allow upload images automatically based on YAML settings" = "YAMLの設定を元に画像を自動的にアップロード";
 
-"Learn More…" = "Learn More…";
-"Whitespace / Line Break" = "Whitespace / Line Break";
-"When Writing" = "When Writing";
-"Export / Print" = "Export / Print";
-"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
-"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
+"Learn More…" = "詳しく見る…";
+"Whitespace / Line Break" = "ホワイトスペース / ラインブレーク";
+"When Writing" = "入力時";
+"Export / Print" = "エクスポート / 印刷時";
+"Preserve sequential whitespace and single line break" = "ホワイトスペースと単一のラインブレークを保存する";
+"Ignore sequential whitespace and single line break" = "ホワイトスペースと単一のラインブレークを無視する";
 
-"Quit" = "Quit";
-"Quit Typora when last window is closed" = "Quit Typora when last window is closed";
-"On Launch" = "On Launch";
-"Open new file" = "Open new file";
-"Restore last closed folders" = "Restore last closed folders";
-"Restore last closed files and folders" = "Restore last closed files and folders";
-"Open custom folder" = "Open custom folder";
-"Select custom folder" = "Select custom folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an app\" in System Preferences";
+"Quit" = "終了";
+"Quit Typora when last window is closed" = "最後のウィンドウが閉じた時、Typoraを終了する";
+"On Launch" = "起動時";
+"Open new file" = "新規ファイルを開く";
+"Restore last closed folders" = "最後に閉じたフォルダを復元";
+"Restore last closed files and folders" = "最後に閉じたファイルとフォルダを復元";
+"Open custom folder" = "指定したフォルダを開く";
+"Select custom folder" = "フォルダを指定";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "このオプションは、システム環境設定の \"アプリケーションを保存するときにウィンドウを閉じる\" に上書きされる可能性があります。";
 
-"Ignore" = "Ignore";
-"Choose Default Folder" = "Choose Default Folder";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+"Ignore" = "無視";
+"Choose Default Folder" = "デフォルトのフォルダを選択する";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>入力時に置換</strong>: ASCII文字のダッシュまたは引用符を入力すると、カーリー引用符またはUnicodeのダッシュ文字として保存されます。<br/><strong>レンダリング中に置換</strong>: ASCII文字のダッシュまたは引用符として保存されますが、カーリー引用符またはUnicodeのダッシュとしてレンダリングされます。</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Markdownのパース時に、Unicode文字をASCII文字として認識します。例:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>入力文字がスマート置換されるときに自動的に削除されます。<div>";
 
-"Copy image to custom folder" = "Copy image to custom folder";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
-"Restore to previous setting" = "Restore to previous setting";
-"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
-"Please input a folder path." = "Please input a folder path.";
-"Cannot use root path." = "Cannot use root path.";
+"Copy image to custom folder" = "指定したフォルダに画像をコピー";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "現在のフォルダへの相対パスを './' または '../' から始まるように指定するか、フォルダへの絶対パスとして指定してください。(`${filename}` は現在のファイル名を表します。)";
+"Restore to previous setting" = "以前の設定に復元";
+"Folder not exist at %@, please input another path." = "%@ にはフォルダが存在しません。他のパスを指定してください。";
+"Please input a folder path." = "フォルダのパスを入力してください。";
+"Cannot use root path." = "ルートパスは使用できません。";
 
-"Get Themes" = "Get Themes";
-"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
-"Keep Both" = "Keep Both";
-"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+"Get Themes" = "テーマを取得";
+"File/directory alreay exists at target path." = "指定したパスにファイル/ディレクトリがすでに存在します。";
+"Keep Both" = "両方とも保存する";
+"Are you sure you want to move %@?" = "本当に %@ を移動しますか？";
 
-"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
-"You can restore from the Trash." = "You can restore from the Trash.";
+"Are you sure you want to delete %@?" = "%@ をゴミ箱に捨てますか？";
+"You can restore from the Trash." = "ゴミ箱から復元できます。";
 
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
-"Dialogs" = "Dialogs";
-"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+"Reset All Dialog Warnings" = "すべての警告ダイアログをリセット";
+"Dialogs" = "ダイアログ";
+"Dialog warnings have been reset." = "警告ダイアログをリセットしました。";
 
-"Operation Failed" = "Operation Failed";
-"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+"Operation Failed" = "操作に失敗";
+"Failed to move target file or folder to trash" = "対象のファイルまたはフォルダをゴミ箱に移動することに失敗しました";
 
-"Undo %@" = "Undo %@";
-"Rename %@" = "Rename %@";
-"Copy %@" = "Copy %@";
-"Move %@" = "Move %@";
-"Delete %@" = "Delete %@";
+"Undo %@" = "%@ を元に戻す";
+"Rename %@" = "%@ を名前変更";
+"Copy %@" = "%@ をコピー";
+"Move %@" = "%@ を移動";
+"Delete %@" = "%@ を削除";

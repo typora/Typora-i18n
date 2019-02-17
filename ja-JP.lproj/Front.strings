@@ -1,4 +1,4 @@
-/* 
+/*
   Front.strings
   Typora
 
@@ -10,6 +10,9 @@
 
  by gageas(@gageas)
  gageas@gageas.com
+
+ by TAKAHASHI Shuuji (@shuuji3)
+ shuuji3@gmail.com
 
 */
 
@@ -51,7 +54,8 @@
 "Delete Table" = "表の削除";
 
 /* Images */
-"Copy Image To..." = "~に画像をコピー";
+"Copy Image To..." = "〜に画像をコピー";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typoraは、YAMLフロントマターの設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ <code id='image-create-folder-target'></code> に保存してようとしています。しかし、対象のフォルダが存在しません。今作成しますか？";
 "Create Folder" = "フォルダを作成";
 
 /* Math */
@@ -118,14 +122,13 @@
 "File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか？"
 "Should continue moving and overwrite exisiting file(s) ?" = "既存のファイルを上書きして移動を続けますか？";
 
-"Rename Failed" = "名称変更に失敗しました";
-"Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか";
+"Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか？";
 "Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"から\"{1}\"への名称変更に失敗しました";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "{0}個の画像アップロードに成功しました";
-"Failed to upload image. Error Message:" = "画像アップロードに失敗。エラーメッセージは：";
-"Failed to Copy Image to Target Folder." = "対象フォルダへの画像のコピーに失敗しました";
+"Successfully uploaded {0} images." = "{0}個の画像アップロードに成功しました。";
+"Failed to upload image. Error Message:" = "画像アップロードに失敗しました。エラーメッセージ：";
+"Failed to Copy Image to Target Folder." = "対象フォルダへの画像のコピーに失敗しました。";
 "Select Container Folder" = "コンテナのフォルダを指定してください";
 
 "Saved" = "保存できました";
@@ -136,3 +139,40 @@
 /* search option */
 "Case Sensitive" = "大文字・小文字を区別";
 "Whole Word" = "単語として扱う";
+
+"input image URL" = "画像のURLを入力";
+"Select image from local file" = "ローカルファイルから画像を選択";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='https://$3'>https://$2</a> で正しいですか？";
+
+"select a language" = "言語を選択";
+"Finish Editing" = "編集を完了";
+
+"Revert advanced setting file to default one ?" = "高度な設定ファイルをデフォルトのものに復元しますか？";
+
+"Select Spell Check Language" = "スペルチェックの言語を選択";
+"Auto Detect Language" = "言語を自動検出";
+"Disable Spell Check" = "スペルチェックを無効化";
+"Global Setting…" = "グローバル設定…";
+"Dictionary file is missing to enable spellcheck support for %@." = "%@ に対するスペルチェックを有効にするための辞書ファイルが見つかりません。";
+"Install Language Support" = "言語サポートをインストール";
+"License Information" = "ライセンス情報";
+"Download" = "ダウンロード";
+"Install dictionary file only for Typora" = "辞書ファイルをTyporaのみにインストール";
+"Spell Check (%@ unavailable)" = "スペルチェック (%@ 使用不可)";
+"Spell Check (%@ downloading)" = "スペルチェック (%@ ダウンロード中)";
+"Download dictionary file for %@" = "%@ の辞書ファイルをダウンロード";
+"(Default spell check option)" = "(デフォルトのスペルチェックオプション)";
+"Failed to load spellcheck module" = "スペルチェックモジュールの読み込みに失敗";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> が有効になりました。";
+"You could turn it off from `View` menu." = "`表示` メニューから無効にできます。";
+"The file is too large to render in Typora." = "ファイルサイズが大きすぎるため、Typoraではレンダリングできません。";
+"Open in…" = "…で開く";
+"Quick Look" = "クイックルック";
+
+"Filter" = "フィルター";
+"No result found." = "結果が見つかりません。";
+"Continue & Overwrite" = "Continue & Overwrite";
+"The file is read-only, or you do not have right permissions to modify the file." = "このファイルは読み込み専用または編集する権限がありません。";
+
+"Learn Data Recovery" = "データの復元について詳しく見る";

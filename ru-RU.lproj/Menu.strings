@@ -244,11 +244,31 @@
 "Learn More" = "Узнать больше";
 "Whitespace and Line Breaks" = "Пробелы и разрывы строк";
 "Indent first line of paragraphs" = "Отступ первой строки абзацев";
+"Preserve single line break" = "Сохранять разрыв строки";
 "Visible <br/>" = "Видимый <br/> и разрыв строки markdown";
-"Preserve sequential whitespace and single line break" = "Сохранять последовательные пробелы и разрывы строк";
 
 "Save All" = "Сохранить все";
 "New Window" = "Новое окно";
 "Reopen Closed File" = "Повторно открыть закрытый файл";
 
+"Global Image Settings" = "Глобальные настройки изображений";
+"Smart Punctuation" = "Умная пунктуация";
+"Convert on Input" = "Преобразовать на входе";
+"Convert on Rendering" = "Преобразование при рендеринге";
+"Remap Unicode Punctuation on Parse" = "Переопределить пунктуацию Unicode при разборе";
+"More Options" = "Дополнительные параметры";
+
+"HTML Block" = "HTML блок";
+"Delete Block" = "Удалить блок";
+"Delete %@" = "Удалить %@";
+"Play" = "Воспроизвести";
+"Pause" = "Приостановить";
+
+"Spell Check" = "Проверка орфографии";
+"Unlearn Spelling" = "Забыть орфографию";
+"Properties" = "Свойства";
+
 "Search" = "Поиск";
+"Copy without Theme Styling" = "Копировать без стилизации темы";
+"Recent Files" = "Недавние файлы";
+"File Results" = "Результаты";

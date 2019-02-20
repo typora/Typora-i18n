@@ -147,8 +147,6 @@
 "Default Line Ending" = "Окончание строки по умолчанию";
 "Line ending for new file" = "Окончание строки для новых файлов";
 "Spell Check" = "Проверка правописания";
-"(support US English only)" = "(поддерживается только US English)";
-"Enable spell check" = "Включить проверку орфографии";
 "Auto correct spelling" = "Автоматически исправлять орфографию";
 "System" = "Системные";
 "Privacy" = "Приватность";
@@ -175,6 +173,7 @@
 "The option `%@` must be enabled first" = "Сначала нужно активировать параметр `%@`.";
 "%@ is a file, not a directory" = "%@ — файл, не директория";
 "Copy Images To…" = "Копировать изображения в…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку %@ в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её?";
 "Create Folder and Continue" = "Создать папку и продолжить";
 "Document must be saved first" = "Сначала необходимо сохранить документ";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora скопирует вставленное изображение в папку по выбранному относительному пути, поэтому сначала сохраните файл.";
@@ -246,3 +245,36 @@
 
 "Ignore" = "Игнорировать";
 "Choose Default Folder" = "Выбрать папку по умолчанию";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертировать на входе</strong>: вводимые ASCII-тире или кавычки конвертируются и сохраняются как фигурные кавычки или юникод-тире.<br/><strong>Конвертировать при рендеринге</strong>: ввод и сохранение в виде ASCII-тире или кавычек, рендеринг в виде фигурных кавычек или юникод-тире.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>При распознавании разметки распознавать знаки Unicode как ASCII, например:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Будет настроено автоматически, если умные кавычки или тире преобразуются при вводе.<div>";
+
+"Copy image to custom folder" = "Скопировать изображение в пользовательскую папку";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Пожалуйста, укажите относительный путь к текущей папке, который начинается с './' или '../', или абсолютный путь к папке. (`${filename}` - имя текущего файла.)";
+"Restore to previous setting" = "Восстановить предыдущую настройку";
+"Folder not exist at %@, please input another path." = "Папка не существует в %@. Пожалуйста, укажите другой путь.";
+"Please input a folder path." = "Пожалуйста, введите путь к папке.";
+"Cannot use root path." = "Невозможно использовать корневой путь.";
+
+"Get Themes" = "Скачать темы";
+"File/directory alreay exists at target path." = "Файл/каталог уже существует по целевому пути.";
+"Keep Both" = "Сохранить оба";
+"Are you sure you want to move %@?" = "Хотите переместить %@?";
+
+"Are you sure you want to delete %@?" = "Хотите удалить %@?";
+"You can restore from the Trash." = "Можно восстановить из корзины.";
+
+"Reset All Dialog Warnings" = "Сбросить все предупреждения";
+"Dialogs" = "Диалоги";
+"Dialog warnings have been reset." = "Предупреждения сброшены.";
+
+"Operation Failed" = "Операция не удалась";
+"Failed to move target file or folder to trash" = "Не удалось переместить целевой файл или папку в корзину";
+
+"Undo %@" = "Отменить %@";
+"Rename %@" = "Переименовать %@";
+"Copy %@" = "Копировать %@";
+"Move %@" = "Переместить %@";
+"Delete %@" = "Удалить %@";
+
+"Turn off Typewriter / Focus Mode" = "Отключить режим пишущей машинки / фокусировки";
+"Typewriter / Focus Mode have been turned off." = "Режим пишущей машинки / фокусировки отключен.";

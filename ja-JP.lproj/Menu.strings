@@ -14,7 +14,7 @@
  by HelloRusk(@HelloRusk)
  hellorusk1998@gmail.com
 
- by TAKAHASHI Shuuji (＠shuuji3)
+ by TAKAHASHI Shuuji (@shuuji3)
  shuuji3@gmail.com
 */
 
@@ -131,12 +131,12 @@
 "Task List" = "タスクリスト";
 "Task Status" = "タスクの状態";
 "Toggle Task Status" = "タスクの状態の切り替え";
-"Mark as Complete" = "完了にマーク";
-"Mark as Incomplete" = "未完にマーク";
+"Mark as Complete" = "完了としてマーク";
+"Mark as Incomplete" = "未完了としてマーク";
 "List Indentation" = "リストのインデント";
-"Indent" = "インデントする";
-"Outdent" = "アウトデントする";
-"Link Reference" = "参照にリンク";
+"Indent" = "インデントを増やす";
+"Outdent" = "インデントを減らす";
+"Link Reference" = "参照リンク";
 "Footnotes" = "脚注";
 "Horizontal Line" = "水平線";
 "Table of Contents" = "目次";
@@ -144,7 +144,7 @@
 
 /* Format Menu */
 "Format" = "フォーマット";
-"Strong" = "ストロング";
+"Strong" = "太字";
 "Emphasis" = "強調";
 "Underline" = "下線";
 "Code" = "コード";
@@ -186,7 +186,7 @@
 "Window" = "ウィンドウ";
 "Minimize" = "最小化";
 "Zoom" = "ズーム";
-"Bring All to Front" = "全てを前面に";
+"Bring All to Front" = "すべてを前面に";
 
 /* Help Menu */
 "Help" = "ヘルプ";
@@ -206,11 +206,11 @@
 
 /* Extra Context Menu */
 "Table" = "表";
-"Add Row Above" = "前に行を挿入";
-"Add Row Below" = "後ろに行を追加";
+"Add Row Above" = "上に行を挿入";
+"Add Row Below" = "下に行を挿入";
 "Delete Row" = "行を削除";
-"Add Column Before" = "前に列を追加";
-"Add Column After" = "後ろに列を追加";
+"Add Column Before" = "左に列を挿入";
+"Add Column After" = "右に列を挿入";
 "Delete Column" = "列を削除";
 "Copy Table" = "表をコピー";
 "Delete Table" = "表を削除";
@@ -226,9 +226,9 @@
 "Open in New Window" = "新しいウィンドウで開く";
 "Copy File Path" = "ファイルパスをコピー";
 "New File" = "新規ファイル";
-"Rename" = "名前を変える";
+"Rename" = "名前の変更";
 "New Folder" = "新規フォルダ";
-"Move to Trash" = "ゴミ箱に入れる";
+"Move to Trash" = "ごみ箱に移動";
 
 /* Electron */
 "Learn Spelling" = "スペリングを登録";
@@ -260,7 +260,7 @@
 "Preserve single line break" = "改行を保持する";
 "Visible <br/>" = "改行タグを見えるようにする";
 
-"Save All" = "全て保存する";
+"Save All" = "すべて保存する";
 "New Window" = "新しいウィンドウ";
 "Reopen Closed File" = "閉じたファイルを再び開く";
 

@@ -4,15 +4,11 @@
 
  by hi@typora.io
 
- Japanese translation
- by Tomohiko Hayashi(@tomochan001)
- t.hayashi36@members.leeds.ac.uk
-
- by gageas(@gageas)
- gageas@gageas.com
-
- by TAKAHASHI Shuuji (＠shuuji3)
- shuuji3@gmail.com
+Japanese translated by
+ @tomochan001 / Tomohiko Hayashi <t.hayashi36@members.leeds.ac.uk>
+ @gageas <gageas@gageas.com>
+ @shuuji3 / TAKAHASHI Shuuji <shuuji3@gmail.com>
+ @ScratchBuild <foobarbuzz@gmail.com>
 */
 
 /* Preference Panel */
@@ -83,8 +79,8 @@
 
 /* Security Panel */
 "Security" = "セキュリティ";
-"Enable Debug" = "デバッグをオンに";
-"Send Anonymous Usage Info" = "匿名使用データを送る";
+"Enable Debug" = "デバッグをオンにする";
+"Send Anonymous Usage Info" = "匿名の使用情報を送信する";
 
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "Pandocが必要です";
@@ -124,9 +120,9 @@
 "Exporting file using Pandoc. This may take some time." = "Pandocを使ってエクスポートしています。時間がかかることがあります";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "iPic経由で画像をアップロードしています";
-"Uploading in progress..." = "アップロード中";
-"Do not show this again" = "このメッセージを非表示に";
+"Uploading Images via iPic..." = "iPic経由で画像をアップロードしています...";
+"Uploading in progress..." = "アップロード中...";
+"Do not show this again" = "次回から表示しない";
 
 /* Word Count */
 "Minute" = "分";
@@ -150,7 +146,7 @@
 "Show status bar" = "ステータスバーを表示";
 "Save & Recover" = "保存と復元";
 "Auto Save" = "自動保存";
-"Recover Unsaved Drafts" = "保存されていない草稿を復元";
+"Recover Unsaved Drafts" = "未保存の下書きを復元";
 "Emoji Autocomplete" = "絵文字の自動補完";
 "Trigger by ESC key" = "ESCキーでトリガー";
 "Trigger automatically" = "自動でトリガー";
@@ -164,14 +160,14 @@
 "Update" = "更新";
 "Check Updates" = "更新をチェック";
 "Check updates automatically" = "更新を自動チェック";
-"Advanced Settings" = "上級設定";
-"Open Advanced Settings" = "上級設定を開く";
-"Reset Advanced Settings" = "上級設定をリセットする";
+"Advanced Settings" = "高度な設定";
+"Open Advanced Settings" = "高度な設定を開く";
+"Reset Advanced Settings" = "高度な設定をリセットする";
 
 /* Image relates on macOS */
 "This function requires latest version of iPic to be installed." = "この機能にはiPicの最新バージョンが必要です";
 "Get iPic" = "iPicを取得";
-"Cannot Continue…" = "続けられません";
+"Cannot Continue…" = "続行できません";
 "This feature require macOS >= 10.11" = "macOS 10.11以上のバージョンが必要です";
 "One More Step" = "あと一歩";
 "Notice" = "注意";
@@ -179,8 +175,8 @@
 
 "%d Images Failed to Upload." = "%d個のファイルのアップロードに失敗しました";
 "%d Succeeded," = "%d個は成功しました, ";
-"Enable this feature on preferences panel" = "この機能を設定画面で設定可能にする";
-"The option `%@` must be enabled first" = "「%@」の機能を先にオンにしてください";
+"Enable this feature on preferences panel" = "設定画面でこの機能を有効にする";
+"The option `%@` must be enabled first" = "「%@」の機能を先に有効にしてください";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしました。しかし、フォルダが存在しません。今作成しますか？";
@@ -194,9 +190,9 @@
 "Markdown File" = "Markdownファイル";
 "Plain Text File" = "プレーンテキスト";
 "All Files" = "すべてのファイル";
-"All Supported Formats" = "サポートされている全てのフォーマット";
-"Discard Changes" = "変更結果を捨てる";
-"Discard" = "捨てる";
+"All Supported Formats" = "サポートされているすべてのフォーマット";
+"Discard Changes" = "変更を破棄";
+"Discard" = "破棄する";
 
 "Menu" = "メニュー";
 "Back" = "戻る";
@@ -236,15 +232,15 @@
 "Apply above rules to online images" = "上記のルールをオンラインの画像に適用";
 "Allow upload images automatically based on YAML settings" = "YAMLの設定を元に画像を自動的にアップロード";
 
-"Learn More…" = "詳しく見る…";
-"Whitespace / Line Break" = "ホワイトスペース / ラインブレーク";
+"Learn More…" = "もっと詳しく…";
+"Whitespace / Line Break" = "空白と改行";
 "When Writing" = "入力時";
 "Export / Print" = "エクスポート / 印刷時";
-"Preserve sequential whitespace and single line break" = "ホワイトスペースと単一のラインブレークを保存する";
-"Ignore sequential whitespace and single line break" = "ホワイトスペースと単一のラインブレークを無視する";
+"Preserve sequential whitespace and single line break" = "空白と単一の改行を保存する";
+"Ignore sequential whitespace and single line break" = "空白と単一の改行を無視する";
 
 "Quit" = "終了";
-"Quit Typora when last window is closed" = "最後のウィンドウが閉じた時、Typoraを終了する";
+"Quit Typora when last window is closed" = "最後のウィンドウを閉じる時、Typoraを終了する";
 "On Launch" = "起動時";
 "Open new file" = "新規ファイルを開く";
 "Restore last closed folders" = "最後に閉じたフォルダを復元";
@@ -253,7 +249,7 @@
 "Select custom folder" = "フォルダを指定";
 "This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "このオプションは、システム環境設定の \"アプリケーションを保存するときにウィンドウを閉じる\" に上書きされる可能性があります。";
 
-"Ignore" = "無視";
+"Ignore" = "無視する";
 "Choose Default Folder" = "デフォルトのフォルダを選択する";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>入力時に置換</strong>: ASCII文字のダッシュまたは引用符を入力すると、カーリー引用符またはUnicodeのダッシュ文字として保存されます。<br/><strong>レンダリング中に置換</strong>: ASCII文字のダッシュまたは引用符として保存されますが、カーリー引用符またはUnicodeのダッシュとしてレンダリングされます。</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Markdownのパース時に、Unicode文字をASCII文字として認識します。例:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>入力文字がスマート置換されるときに自動的に削除されます。<div>";
@@ -270,18 +266,21 @@
 "Keep Both" = "両方とも保存する";
 "Are you sure you want to move %@?" = "本当に %@ を移動しますか？";
 
-"Are you sure you want to delete %@?" = "%@ をゴミ箱に捨てますか？";
-"You can restore from the Trash." = "ゴミ箱から復元できます。";
+"Are you sure you want to delete %@?" = "%@ をごみ箱に移動しますか？";
+"You can restore from the Trash." = "ごみ箱から復元することができます。";
 
 "Reset All Dialog Warnings" = "すべての警告ダイアログをリセット";
 "Dialogs" = "ダイアログ";
 "Dialog warnings have been reset." = "警告ダイアログをリセットしました。";
 
 "Operation Failed" = "操作に失敗";
-"Failed to move target file or folder to trash" = "対象のファイルまたはフォルダをゴミ箱に移動することに失敗しました";
+"Failed to move target file or folder to trash" = "対象のファイルまたはフォルダをごみ箱に移動できませんでした";
 
 "Undo %@" = "%@ を元に戻す";
 "Rename %@" = "%@ を名前変更";
 "Copy %@" = "%@ をコピー";
 "Move %@" = "%@ を移動";
 "Delete %@" = "%@ を削除";
+
+"Turn off Typewriter / Focus Mode" = "タイプライター/フォーカスモードをオフにする";
+"Typewriter / Focus Mode have been turned off." = "タイプライター/フォーカスモードがオフになっています。";

@@ -279,3 +279,7 @@
 
 "Turn off Typewriter / Focus Mode" = "关闭 打字机模式 / 专注模式";
 "Typewriter / Focus Mode have been turned off." = "打字机模式 / 专注模式 已被关闭。";
+
+"Reading Speed" = "阅读速度";
+"Auto" = "自动";
+"words / min" = "词每分钟";

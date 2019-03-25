@@ -2,167 +2,167 @@
   Front.strings
   Typora
 
- by hi@typora.io
+ by sadra@isapanah.com
 */
 
 /* Common */
-"OK" = "OK";
-"Cancel" = "Cancel";
-"Yes" = "Yes";
-"No" = "No";
-"Close" = "Close";
-"Select" = "Select";
-"Continue" = "Continue";
-"Learn More…" = "Learn More…";
-"Untitled" = "Untitled";
-"Undo" = "Undo";
-"Dismiss" = "Dismiss";
-"Confirm" = "Confirm";
-"Error" = "Error";
+"OK" = "باشه";
+"Cancel" = "لغو";
+"Yes" = "بله";
+"No" = "خیر";
+"Close" = "بستن";
+"Select" = "انتخاب";
+"Continue" = "ادامه";
+"Learn More…" = "بیشتر بدانید…";
+"Untitled" = "بدون عنوان";
+"Undo" = "بازگرداندن";
+"Dismiss" = "رد";
+"Confirm" = "تایید";
+"Error" = "خطا";
 
 /* Search Panel */
-"Search" = "Search";
-"Replace" = "Replace";
-"All" = "All";
-"Search text not found in article" = "Search text not found in article";
-"search text" = "search text";
+"Search" = "جستجو";
+"Replace" = "جایگزینی";
+"All" = "همه";
+"Search text not found in article" = "متن جستجو شده در مقاله یافت نشد";
+"search text" = "متن جستجو";
 
 /* Quick Open */
-"Search by file name" = "Search by file name";
-"Searching" = "Searching";
-"Gathering more results" = "Gathering more results";
+"Search by file name" = "جستجو با نام فایل";
+"Searching" = "جستجو کردن";
+"Gathering more results" = "جمع آوری نتایج بیشتر";
 
 /* Tables */
-"Insert Table" = "Insert Table";
-"Columns" = "Columns";
-"Rows" = "Rows";
-"Align Left" = "Align Left";
-"Align Center" = "Align Center";
-"Align Right" = "Align Right";
-"Resize Table" = "Resize Table";
-"Delete Table" = "Delete Table";
+"Insert Table" = "افزودن جدول";
+"Columns" = "ستون‌ها";
+"Rows" = "ردیف‌ها";
+"Align Left" = "هماهنگی به چپ";
+"Align Center" = "هماهنگی به مرکز";
+"Align Right" = "هماهنگی به راست";
+"Resize Table" = "تغییر اندازه جدول";
+"Delete Table" = "حذف جدول";
 
 /* Images */
-"Copy Image To..." = "Copy Image To...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
-"Create Folder" = "Create Folder";
+"Copy Image To..." = "کپی تصویر به...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "اپلیکیشن Typora در تلاش است تا با توجه به YAML Front Matter شما یا تنظیمات سراسری تصویر افزوده شده‌ی جدید را به پوشه <code id='image-create-folder-target'></code> کپی کنید. اما پوشه مقصد وجود ندارد، تمایل دارید هم اکنون این پوشه ساخته شود?";
+"Create Folder" = "ساختن پوشه";
 
 /* Math */
-"Edit" = "Edit";
-"Delete Math" = "Delete Math";
-"Preview" = "Preview";
+"Edit" = "ویرایش";
+"Delete Math" = "حذف ریاضی";
+"Preview" = "پیش‌ نمایش";
 
 /* Sidebar */
-"Articles" = "Articles";
-"Outline" = "Outline";
-"Files" = "Files";
-"Switch to File List view" = "Switch to File List view";
-"Switch to File Tree view" = "Switch to File Tree view";
-"Switch to Outline view" = "Switch to Outline view";
-"Close sidebar" = "Close sidebar";
-"Loading" = "Loading";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
-"New File" = "New File";
-"Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Open Folder...";
-"Action" = "Action";
-"Close Sidebar Menu" = "Close Sidebar Menu";
-"Reveal in Finder" = "Reveal in Finder";
-"Reveal in File Explorer" = "Reveal in File Explorer";
-"Refresh Folder" = "Refresh Folder";
-"Sort" = "Sort";
-"Group By Folder" = "Group By Folder";
-"Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
-"Location" = "Location";
-"Switch File List/Tree View" = "Switch File List/Tree View";
-"No Files Available" = "No Files Available";
-"No Folder is Opened." = "No Folder is Opened.";
-"Outline is Empty." = "Outline is Empty.";
+"Articles" = "مقالات";
+"Outline" = "طرح کلی";
+"Files" = "فایل‌ها";
+"Switch to File List view" = "تغییر به فایل نمایه‌ی فهرست";
+"Switch to File Tree view" = "تغییر به فایل نمایه‌ی  درخت";
+"Switch to Outline view" = "تغییر به فایل نمایه‌ی  طرح کلی";
+"Close sidebar" = "بستن نوار کناری";
+"Loading" = "بارگذاری";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "پوشه انتخابی فایل‌های زیادی دارید. \nلطفا جهت افزایش کارایی به حالت <a id='switch-to-tree-on-oversize'>File Tree view</a> سوییچ کنید.";
+"New File" = "فایل جدید";
+"Unpin Outline Panel" = "خروج از حالت ثابت طرح کلی پنل";
+"Open Folder..." = "بازکردن پوشه...";
+"Action" = "عمل";
+"Close Sidebar Menu" = "بستن منو نوار کناری";
+"Reveal in Finder" = "نمایش دادن در Finder";
+"Reveal in File Explorer" = "نمایش دادن در File Explorer";
+"Refresh Folder" = "تازه کردن پوشه";
+"Sort" = "مرتب کردن";
+"Group By Folder" = "گروه کردن با توجه به پوشه";
+"Sort Naturally" = "مرتب کردن طبیعی";
+"Sort by Name" = "مرتب کردن با توجه به نام";
+"Sort by Modification Date" = "مرتب کردن با توجه به تاریخ ویرایش";
+"Location" = "محل";
+"Switch File List/Tree View" = "سوییچ کرده به فهرست فایل/درخت";
+"No Files Available" = "هیچ فایلی در دسترس نیست";
+"No Folder is Opened." = "هیچ پوشه باز شده‌ای وجود ندارد.";
+"Outline is Empty." = "طرح کلی خالی است.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Toggle Sidebar";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
-"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Sidebar" = "تغییر وضعیت در نوار کناری";
+"Toggle Source Code Mode" = "تغییر وضعیت در حالت منبع کد";
+"Exit Source Code Mode" = "خروج از حالت منبع کد";
 
-"Table of Contents" = "Table of Contents";
-"Empty Diagram" = "Empty Diagram";
-"Input Math TeX here" = "Input Math TeX here";
+"Table of Contents" = "جدول محتوا";
+"Empty Diagram" = "دیاگرام خالی";
+"Input Math TeX here" = "متن ریاضی را در اینجا قرار دهید";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "نیاز است تا پانویس مرجع <b>{0}</b> با توجه به این استایل <a>[^{1}]: www.example.com تعریف کنید</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "نیاز است تا لینک مرجع <b>[{0}]</b> با توجه به این استایل <b>[{1}]: www.example.com</b> تعریف کنید";
+"Please define image reference by \n[{0}]: http://example.png" = "لطفا منبع تصویر را به این صورت مشخص کنید \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Failed to create file";
-"Failed to create folder" = "Failed to create folder";
-"Failed to rename file" = "Failed to rename file";
-"Folder does not exist at %@" = "Folder does not exist at %@";
-"File with the same name already exists at target path" = "File with the same name already exists at target path";
-"Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
-"Stop" = "Stop";
-"back to document" = "back to document";
-"Failed to load file" = "Failed to load file";
-"Save File Failed!" = "Save File Failed!";
-"Cannot open folder {0}" = "Cannot open folder {0}";
+"Failed to create file" = "فایل ساخته نشد";
+"Failed to create folder" = "پوشه ساخته نشد";
+"Failed to rename file" = "تغییر نام انجام نشد";
+"Folder does not exist at %@" = "پوشه در  %@ وجود ندارد";
+"File with the same name already exists at target path" = "در مسیر انتخاب شده فایلی با همین نام وجود دارد";
+"Apply to All" = "اعمال به همه";
+"Overwrite" = "بازنویسی";
+"Stop" = "توقف";
+"back to document" = "بازگشت به سند";
+"Failed to load file" = "فایل باز نشد";
+"Save File Failed!" = "فایل ذخیره نشد!";
+"Cannot open folder {0}" = "نمی‌توانم فایل را باز کنم {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+"File content is changed by external applications. Reload content from disk ?" = "محتوای فایل با اپلیکیشن/ابزار دیگری تغییر کرده است. محتوا را از روی دیسک دوباره بارگذاری کنم?";
+"Should continue moving and overwrite exisiting file(s) ?" = "آیا انتقال و بازنویسی فایل(های) موجود ادامه یابد?";
 
-"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Rename to \"{0}\" ?" = "تغییر نام به \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "تغییر نام از \"{0}\" به \"{1}\" انجام نشد";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
-"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
-"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
-"Select Container Folder" = "Select Container Folder";
+"Successfully uploaded {0} images." = "آپلود تصاویر {0} با موفقیت انجام شد.";
+"Failed to upload image. Error Message:" = "آپلود تصویر انجام نشد. متن خطا:";
+"Failed to Copy Image to Target Folder." = "کپی کردن تصویر به مسیر انتخاب شده انجام نشد.";
+"Select Container Folder" = "انتخاب پوشه نگهدارنده";
 
-"Saved" = "Saved";
+"Saved" = "ذخیره شد";
 
 /* place holder in find & replace input */
-"search text" = "search text";
-"replace with" = "replace with";
+"search text" = "متن جستجو";
+"replace with" = "جایگزینی با";
 /* search option */
-"Case Sensitive" = "Case Sensitive";
-"Whole Word" = "Whole Word";
+"Case Sensitive" = "حساس به بزرگی حروف";
+"Whole Word" = "تمام کلمه";
 
-"input image URL" = "input image URL";
-"Select image from local file" = "Select image from local file";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+"input image URL" = "لینک تصویر ورودی";
+"Select image from local file" = "انتخاب تصویر از فایل محلی";
+"Cannot open location <code>$<$<$<$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
 
-"select a language" = "select a language";
-"Finish Editing" = "Finish Editing";
+"select a language" = "انتخاب یک زبان";
+"Finish Editing" = "پایان ویرایش";
 
-"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+"Revert advanced setting file to default one ?" = "فایل تنظیمات پیشرفته را به حابت پیش فرض بازگردانم ?";
 
-"Select Spell Check Language" = "Select Spell Check Language";
-"Auto Detect Language" = "Auto Detect Language";
-"Disable Spell Check" = "Disable Spell Check";
-"Global Setting…" = "Global Setting…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
-"Install Language Support" = "Install Language Support";
-"License Information" = "License Information";
-"Download" = "Download";
-"Install dictionary file only for Typora" = "Install dictionary file only for Typora";
-"Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
-"Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
-"Download dictionary file for %@" = "Download dictionary file for %@";
-"(Default spell check option)" = "(Default spell check option)";
-"Failed to load spellcheck module" = "Failed to load spellcheck module";
+"Select Spell Check Language" = "انتخاب زبان بررسی املا";
+"Auto Detect Language" = "تشخصی زبان خودکار";
+"Disable Spell Check" = "غیر فعال کردن بررسی املا";
+"Global Setting…" = "تنظیمات کلی…";
+"Dictionary file is missing to enable spellcheck support for %@." = "فایل لغت نامه جهت فعال سازی بررسی کننده املا برای پشتیبانی %@ گم شده است.";
+"Install Language Support" = "نصب زبان پشتیبان";
+"License Information" = "اطلاعات گواهینامه";
+"Download" = "دانلود";
+"Install dictionary file only for Typora" = "نصب فایل لغتنامه فقط برای Typora";
+"Spell Check (%@ unavailable)" = "بررسی املا (%@ خارج از دسترس)";
+"Spell Check (%@ downloading)" = "بررسی املا (%@ درحال دانلود)";
+"Download dictionary file for %@" = "دانلود فایل لغتنامه برای %@";
+"(Default spell check option)" = "(گزینه بررسی املای پیشفرض)";
+"Failed to load spellcheck module" = "بارگذاری ماژول بررسی املا ناموفق بود.";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
-"You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
-"The file is too large to render in Typora." = "The file is too large to render in Typora.";
-"Open in…" = "Open in…";
-"Quick Look" = "Quick Look";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> روشن شده است.";
+"You could turn it off from `View` menu." = "شما می‌توانید آن را از منوی `نمایش` خاموش کنید.";
+"The file is too large to render in Typora." = "فایل جهت رندر کردن در Typora بیش از حد بزرگ است.";
+"Open in…" = "بازکردن در…";
+"Quick Look" = "دیدن سریع";
 
-"Filter" = "Filter";
-"No result found." = "No result found.";
-"Continue & Overwrite" = "Continue & Overwrite";
-"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
+"Filter" = "فیلتر";
+"No result found." = "هیچ نتیجه‌ای نداشت.";
+"Continue & Overwrite" = "ادامه و بازنویسی";
+"The file is read-only, or you do not have right permissions to modify the file." = "فایل فقط قابل خواندن است، یا شما دسترسی کافی جهت ویرایش آن را ندارید..";
 
-"Learn Data Recovery" = "Learn Data Recovery";
-"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Learn Data Recovery" = "آموزش بازگردانی داده";
+"Auto refresh on Files Panel cannot be enabled." = "تازه‌سازی خودکار در پنل پوشه‌ها نمی‌تواند فعال شو..";

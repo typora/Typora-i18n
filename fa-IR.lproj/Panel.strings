@@ -1,9 +1,11 @@
-/*
+/* 
  Panel.strings
  translations for preference panel and other dialogs
- 
- by hi@typora.io 
- */
+
+ by sadra@isapanah.com
+*/
+
+
 
 /* Preference Panel */
 "Preferences" = "Preferences";

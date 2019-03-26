@@ -259,7 +259,7 @@
 "Get Themes" = "获取主题";
 "File/directory alreay exists at target path." = "目标路径上已有文件存在。";
 "Keep Both" = "全部保留";
-"Are you sure you want to move %@?" = "是否要移动至 %@?";
+"Are you sure you want to move %@?" = "是否要移动 %@?";
 
 "Are you sure you want to delete %@?" = "是否要删除 %@?";
 "You can restore from the Trash." = "您可以从回收站恢复文件。";

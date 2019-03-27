@@ -176,11 +176,13 @@
 
 /* Help Menu */
 "Help" = "帮助";
+"More Topics" = "更多主题";
 "Privacy Policy" = "隐私条款";
 "Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
 "Feedback" = "反馈";
+"Check Updates" = "检查更新";
 "About" = "关于";
 
 /* Touchbar */

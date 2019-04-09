@@ -47,7 +47,7 @@
 
 /* Edit Menu */
 "Edit" = "编辑";
-"Undo" = "撤销";
+"Undo" = "撤消";
 "Redo" = "重做";
 "Cut" = "剪切";
 "Copy" = "复制";

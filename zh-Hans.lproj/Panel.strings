@@ -251,7 +251,7 @@
 
 "Copy image to custom folder" = "复制到指定路径";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入相对路径（以 './' 或 '../' 开头）或绝对路径。（其中 `${filename}` 表示当前文件名）";
-"Restore to previous setting" = "撤销更改";
+"Restore to previous setting" = "撤消更改";
 "Folder not exist at %@, please input another path." = "目录 %@ 不存在，请指定另一个路径。";
 "Please input a folder path." = "请输入目录路径。";
 "Cannot use root path." = "不能使用根目录。";
@@ -271,7 +271,7 @@
 "Operation Failed" = "操作失败";
 "Failed to move target file or folder to trash" = "将文件移至回收站失败";
 
-"Undo %@" = "撤销%@";
+"Undo %@" = "撤消%@";
 "Rename %@" = "重命名 %@";
 "Copy %@" = "拷贝 %@";
 "Move %@" = "移动 %@";

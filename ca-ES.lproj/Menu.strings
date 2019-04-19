@@ -1,0 +1,236 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Sobre Typora";
+"Preferences" = "Preferències";
+"Check for Updates" = "Cercar actualitzacions";
+"Services" = "Serveis";
+"Hide Typora" = "Amagar Typora";
+"Hide Others" = "Amagar altres";
+"Show All" = "Mostar tot";
+"Quit Typora" = "Sortir de Typora";
+
+/* File Menu */
+
+"File" = "Arxiu";
+"New" = "Nou";
+"Open" = "Obrir";
+"Open Folder" = "Obrir carpeta";
+"Reopen with Encoding" = "Reobrir amb codificació";
+"Auto" = "Auto";
+"Open Recent" = "Obrir recents";
+"Recent Locations" = "Ubicacions recents";
+"Clear Items" = "Netejar elements";
+"No Recent Files" = "No hi ha arxius recents";
+"Open Quickly" = "Obrir ràpidament";
+"Open File Location" = "Obrir la ubicació de l'arxiu";
+"Reveal in Library" = "Mostrar a la llibreria"; /* Needs context */
+"Reveal in File Tree" = "Mostrar a l'arbre d'arxius";
+"Close" = "Tancar";
+"Save" = "Desar";
+"Save As" = "Desar com a";
+"Duplicate" = "Duplicar"; /* Needs context */
+"Rename" = "Reanomenar";
+"Move To" = "Moure a";
+"Revert To" = "Reverteix a ";
+"Browse All Versions" = "Explorar totes les versions";
+"Import" = "Importar";
+"Export" = "Exportar";
+"Page Setup" = "Configuració de la pàgina";
+"Print" = "Imprimir";
+
+/* Edit Menu */
+"Edit" = "Editar";
+"Undo" = "Desfer";
+"Redo" = "Refer";
+"Cut" = "Retallar";
+"Copy" = "Copiar";
+"Paste" = "Enganxar";
+"Copy as Markdown" = "Copiar com a Markdown";
+"Copy as HTML Code" = "Copiar com a codi HTML";
+"Paste as Plain Text" = "Enganxar com a text sense format";
+"Select All" = "Seleccionar tot";
+"Select Line/Sentence" = "Seleccionar línia/oració";
+"Select Styled Scope" = "Seleccionar àmbit d'estil";
+"Select Word" = "Seleccionar paraula";
+"Delete" = "Eliminar";
+"Delete Range" = "Eliminar rang";
+"Delete Word" = "Eliminar paraula";
+"Delete Styled Scope" = "Eliminar àmbit d'estil";
+"Delete Line/Sentence" = "Eliminar línia/oració";
+"Jump To" = "Saltar a";
+"Jump to Top" = "Saltar a la part superior";
+"Jump to Selection" = "Saltar a la selecció";
+"Jump to Bottom" = "Saltar a la part inferior";
+"Math Tools" = "Eines matemàtiques";
+"Refresh All Math Expressions" = "Actualitzar totes les expressions matemàtiques";
+"Image Tools" = "Eines d'imatge";
+"Insert Local Images" = "Inserir imatges locals";
+"Upload Local Images via iPic" = "Carregar imatges locals via iPic";
+"When Insert Local Image" = "Quan inserir una imatge local";
+"Copy Image File to Folder" = "Copiar arxiu d'imatge a la carpeta";
+"Upload Image via iPic" = "Carregar imatge via iPic";
+"Use Image Root Path" = "Usar ruta principal de la imatge";
+"Line Endings" = "Finals de línia";
+"Windows Line Endings (CRLF)" = "Finals de línia de Windows (CRLF)";
+"Unix Line Endings (LF)" = "Finals de línia de Unix (LF)";
+"Find" = "Cercar";
+"Find Next" = "Cercar següent";
+"Find Previous" = "Cercar anterior";
+"Find and Replace" = "Cercar i Substituir";
+"Replace" = "Reemplaçar";
+"Replace Next" = "Reemplaçar següent";
+"Spelling and Grammar" = "Ortografia i gramàtica";
+"Check Document Now" = "Comprovar document ara";
+"Check Spelling While Typing" = "Comprovar ortografia mentre s'escriu";
+"Check Grammar With Spelling" = "Comprovar gramàtica amb ortografia";
+"Correct Spelling Automatically" = "Corregir ortografia automàticament";
+"Substitutions" = "Substitucions";
+"Smart Quotes" = "Cites intel·ligents";
+"Smart Dashes" = "Guions intel·ligents";
+"Text Replacement" = "Reemplaçar text";
+"Speech" = "Parla";
+"Start Speaking" = "Començar a lectura en veu alta";
+"Stop Speaking" = "Aturar lectura en veu alta";
+
+/* Paragraph Menu */
+"Paragraph" = "Paràgraf";
+"Heading 1" = "Capçalera 1";
+"Heading 2" = "Capçalera 2";
+"Heading 3" = "Capçalera 3";
+"Heading 4" = "Capçalera 4";
+"Heading 5" = "Capçalera 5";
+"Heading 6" = "Capçalera 6";
+"Increase Heading Level" = "Augmentar nivell de capçalera";
+"Decrease Heading Level" = "Disminuir nivell de capçalera";
+"Table" = "Taula";
+"Code Fences" = "Bloc de codi";
+"Math Block" = "Bloc d'equacions";
+"Quote" = "Citar";
+"Ordered List" = "Llista enumerada";
+"Unordered List" = "Llista sense ordenar";
+"Task List" = "Llista de tasques";
+"Task Status" = "Estat de les tasques";
+"Toggle Task Status" = "Alternar estat de les tasques";
+"Mark as Complete" = "Marcar com a completat";
+"Mark as Incomplete" = "Marcar com a no completat";
+"List Indentation" = "Sagnat de llista";
+"Indent" = "Augmentar sagnat";
+"Outdent" = "Disminuir sagnat";
+"Link Reference" = "Vincular referència";
+"Footnotes" = "Notes a peu";
+"Horizontal Line" = "Línia horitzontal";
+"Table of Contents" = "Taula de continguts";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Negreta";
+"Emphasis" = "Cursiva";
+"Underline" = "Subratllar";
+"Code" = "Codi";
+"Inline Math" = "Marcar com a equació";
+"Strike" = "Tatxar";
+"Highlight" = "Ressaltar";
+"Superscript" = "Superíndex";
+"Subscript" = "Subíndex";
+"Comment" = "Comentari";
+"Hyperlink" = "Enllaç";
+"Image" = "Imatge";
+"Clear Format" = "Esborrar format";
+
+/* View Menu */
+"View" = "Visualització";
+"New Tab" = "Nova pestanya";
+"Source Code Mode" = "Mode de codi font";
+"Focus Mode" = "Mode sense distraccions";
+"Typewriter Mode" = "Mode de màquina d'escriure";
+"Toggle Sidebar" = "Alternar barra lateral";
+"Outline" = "Esquema";
+"Articles" = "Articles";
+"File Tree" = "Arbre d'arxius";
+"Always on Top" = "Sempre a dalt";
+"Full Screen" = "Pantalla completa";
+"Show Status Bar" = "Mostrar barra d'estat";
+"Toggle Fullscreen" = "Canviar a pantalla completa";
+"Actual Size" = "Mida real";
+"Zoom In" = "Ampliar";
+"Zoom Out" = "Reduir";
+"Switch Between Opened Documents" = "Canviar entre documents oberts";
+"Toggle DevTools" = "Alternar a eines de desenvolupador";
+
+
+/* Themes Menu */
+"Themes" = "Temes";
+
+/* Window Menu */
+"Window" = "Finestra";
+"Minimize" = "Minimitzar";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Portar al davant";
+
+/* Help Menu */
+"Help" = "Ajuda";
+"Credits" = "Crèdits";
+"Change Log" = "Registre de canvis";
+"Website" = "Lloc web";
+"Feedback" = "Enviar comentaris";
+"About" = "Sobre";
+
+/* Touchbar */
+"Block Styles" = "Bloc d'estils";
+"Inline Styles" = "Estils de línia";
+"List Styles / Remove Block" = "Llista d'estils / Eliminar bloc";
+"Exit Source Code Mode" = "Sortir del mode codi font";
+"Toggle Source Code Mode" = "Alternar mode codi font";
+
+/* Extra Context Menu */
+"Table" = "Taula";
+"Add Row Above" = "Inserir fila abans";
+"Add Row Below" = "Inserir fila després";
+"Delete Row" = "Eliminar fila";
+"Add Column Before" = "Inserir columna abans";
+"Add Column After" = "Inserir columna després";
+"Delete Column" = "Eliminar columna";
+"Copy Table" = "Copiar taula";
+"Delete Table" = "Eliminar taula";
+"Insert Paragraph After" = "Inserir paràgraf després";
+"Insert Paragraph Before" = "Inserir paràgraf abans";
+"Delete Code Block" = "Eliminar bloc de codi";
+"Copy as MathML" = "Copiar com a MathML";
+"Copy as Tex" = "Copiar com a TeX";
+"Copy Math" = "Copiar equació";
+"Reveal in Finder" = "Mostrar al Finder";
+"Open Link" = "Obrir enllaç";
+"Reveal in Sidebar" = "Mostrar a la barra lateral";
+"Open in New Window" = "Obrir en una nova finestra";
+"Copy File Path" = "Copiar ruta d'arxiu";
+"New File" = "Nou arxiu";
+"Rename" = "Reanomenar";
+"New Folder" = "Nova carpeta";
+"Move to Trash" = "Moure a la paperera";
+
+/* Electron */
+"Learn Spelling" = "Afegir al diccionari";
+"Copy / Paste As…" = "Copiar / Enganxar com  a...";
+"Math" = "Matemàtiques";
+"Insert" = "Inserir";
+"Inspect Element" = "Inspeccionar element";
+"Copy to MS Word" = "Copiar a MS Word";
+"Paragraph (before)" = "Paràgraf (abans)";
+"Paragraph (after)" = "Paràgraf (després)";
+
+"Search with Google" = "Cercar amb Google";
+"Search With…" = "Cercar amb…";
+
+/* Related Panel */
+"Open Failed" = "Error a l'obrir";
+"File or folder does not exist." = "L'arxiu o la carpeta no existeix.";
+
+"Search" = "Cercar";

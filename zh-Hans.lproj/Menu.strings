@@ -163,7 +163,7 @@
 "Zoom In" = "放大"; 
 "Zoom Out" = "缩小"; 
 "Switch Between Opened Documents" = "应用内窗口切换"; 
-"Toggle DevTools" = "打开开发者工具"; 
+"Toggle DevTools" = "开发者工具"; 
 
 /* Themes Menu */
 "Themes" = "主题";

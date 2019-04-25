@@ -39,11 +39,11 @@ Japanese translated by
 
 /* Editor Panel */
 "Editor" = "エディタ";
-"Indent Size on Save" = "保存する";
+"Indent Size on Save" = "保存時のインデント幅";
 "only apply to quotes and lists created from menu bar or hybrid view" = "メニューバーまたはハイブリッドビューで作られた引用とリストにのみ適用";
 "Trigger Autocomplete without ESC key for" = "～についてはESCなしでオートコンプリートを起動";
 "Emoji (e.g. :smile:)" = "絵文字（例 :smile:）";
-"Images Insert" = "画像挿入";
+"Images Insert" = "画像の挿入";
 "Use relative path if possible" = "可能であれば相対パスを使う";
 "Auto Pair" = "オートペア";
 "Auto pair brackets and quotes" = "カッコと引用符のオートペア";
@@ -51,12 +51,12 @@ Japanese translated by
 "Live Rendering" = "ライブレンダリング";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "当該ブロック（見出しなど含む）のソースを\n表示";
 "Default Copy Behavior" = "デフォルトのコピー動作";
-"Copy Markdown source as plain text" = "マークダウンをテキストとしてコピー";
+"Copy Markdown source as plain text" = "Markdownをテキストとしてコピー";
 "Typewriter Mode" = "タイプライターモード";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "タイプライターモードで、キャレットを常に\n中央に";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "有効時はキャレットを常に中央に表示する";
 
 /* Markdown Panel */
-"Markdown" = "マークダウン";
+"Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "（以下の設定は再起動後に有効になります）";
 "Syntax Support" = "文法サポート";
 "Inline Math  ( e.g: $\LaTeX$ )" = "インライン数式（例：$\LaTeX$）";
@@ -284,3 +284,7 @@ Japanese translated by
 
 "Turn off Typewriter / Focus Mode" = "タイプライター/フォーカスモードをオフにする";
 "Typewriter / Focus Mode have been turned off." = "タイプライター/フォーカスモードがオフになっています。";
+
+"Reading Speed" = "Reading Speed";
+"Auto" = "自動";
+"words / min" = "単語 / 分";

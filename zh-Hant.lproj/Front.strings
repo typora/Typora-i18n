@@ -13,10 +13,10 @@
 "Close" = "關閉";
 "Select" = "選擇";
 "Continue" = "繼續";
-"Learn More…" = "查看更多…";
+"Learn More…" = "深入了解…";
 "Untitled" = "未命名";
-"Undo" = "回上一步";
-"Dismiss" = "忽略";
+"Undo" = "復原";
+"Dismiss" = "關閉";
 "Confirm" = "確認";
 "Error" = "錯誤";
 
@@ -30,25 +30,26 @@
 /* Quick Open */
 "Search by file name" = "依檔名搜尋";
 "Searching" = "搜尋中";
-"Gathering more results" = "搜集更多結果";
+"Gathering more results" = "收集更多結果";
 
 /* Tables */
 "Insert Table" = "插入表格";
 "Columns" = "欄";
 "Rows" = "列";
-"Align Left" = "向左對齊";
-"Align Center" = "向中對齊";
-"Align Right" = "向右對齊";
-"Resize Table" = "縮放表格";
+"Align Left" = "靠左對齊";
+"Align Center" = "置中對齊";
+"Align Right" = "靠右對齊";
+"Resize Table" = "調整表格大小";
 "Delete Table" = "刪除表格";
 
 /* Images */
-"Copy Image To..." = "複製圖像至...";
+"Copy Image To..." = "複製圖片至...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 <code id='image-create-folder-target'></code>。但是目標資料夾不存在，現在要新增它嗎？";
 "Create Folder" = "新增資料夾";
 
 /* Math */
 "Edit" = "編輯";
-"Delete Math" = "刪除算式";
+"Delete Math" = "刪除數學算式";
 "Preview" = "預覽";
 
 /* Sidebar */
@@ -62,12 +63,12 @@
 "Loading" = "載入中";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所選資料夾內含太多檔案，\n請切換至<a id='switch-to-tree-on-oversize'>樹狀檢視</a>取得較佳效能。";
 "New File" = "新增檔案";
-"Unpin Outline Panel" = "解鎖大綱區塊";
-"Open Folder..." = "打開資料夾...";
+"Unpin Outline Panel" = "取消釘選大綱面板";
+"Open Folder..." = "開啟資料夾...";
 "Action" = "動作";
 "Close Sidebar Menu" = "關閉側邊欄選單";
 "Reveal in Finder" = "在 Finder 中顯示";
-"Reveal in File Explorer" = "在檔案管理員中顯示";
+"Reveal in File Explorer" = "在檔案總管中顯示";
 "Refresh Folder" = "重新載入資料夾";
 "Sort" = "排序";
 "Group By Folder" = "依資料夾分組";
@@ -86,12 +87,12 @@
 "Exit Source Code Mode" = "離開原始碼模式";
 
 "Table of Contents" = "目錄";
-"Empty Diagram" = "空白圖示";
+"Empty Diagram" = "空白圖表";
 "Input Math TeX here" = "在此輸入 TeX 公式";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "請以此格式來宣告底標連結 <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "請以此格式來宣告網址連結 <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "請以此格式來宣告圖片連結 \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "請以此格式來定義註腳 <b>{0}</b>: <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "請以此格式來定義參照連結 <b>[{0}]</b>: <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "請以此格式來定義參照圖片\n[{0}]: http://example.png";
 
 /* msg */
 "Failed to create file" = "新增檔案失敗";
@@ -105,12 +106,11 @@
 "back to document" = "回到文件";
 "Failed to load file" = "載入檔案失敗";
 "Save File Failed!" = "存檔失敗!"
-"Cannot open folder {0}" = "無法打開資料夾 {0}";
+"Cannot open folder {0}" = "無法開啟資料夾 {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
-"Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現存檔案嗎？";
+"Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現有檔案嗎？";
 
-"Rename Failed" = "重新命名失敗";
 "Rename to \"{0}\" ?" = "重新命名為 \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 為 \"{1}\" 失敗";
 
@@ -127,8 +127,42 @@
 "replace with" = "取代為";
 /* search option */
 "Case Sensitive" = "區分大小寫";
-"Whole Word" = "查找整個單字";
+"Whole Word" = "尋找整個單字";
 
 "input image URL" = "輸入圖片網址";
 "Select image from local file" = "選擇本機圖片";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='https://$3'>https://$2</a> 嗎？";
+
+"select a language" = "選取一個語言";
+"Finish Editing" = "完成編輯";
+
+"Revert advanced setting file to default one ?" = "要將進階設定檔回復成預設檔嗎？";
+
+"Select Spell Check Language" = "選擇拼字檢查的語言";
+"Auto Detect Language" = "自動偵測語言";
+"Disable Spell Check" = "停用拼字檢查";
+"Global Setting…" = "全域設定…";
+"Dictionary file is missing to enable spellcheck support for %@." = "字典檔案遺失，因此無法啟用支援 %@ 的拼字檢查";
+"Install Language Support" = "安裝語言支援";
+"License Information" = "授權資訊";
+"Download" = "下載";
+"Install dictionary file only for Typora" = "安裝僅適用於 Typora 的字典檔案";
+"Spell Check (%@ unavailable)" = "拼字檢查 (%@ 無法使用)";
+"Spell Check (%@ downloading)" = "拼字檢查 (%@ 下載中)";
+"Download dictionary file for %@" = "下載 %@ 的字典檔案";
+"(Default spell check option)" = "(拼字檢查預設選項)";
+"Failed to load spellcheck module" = "無法載入拼字檢查模組";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> 已被開啟。";
+"You could turn it off from `View` menu." = "您可以在「檢視」中將它關閉。";
+"The file is too large to render in Typora." = "這個檔案過大，Typora 無法呈現。";
+"Open in…" = "開啟於…";
+"Quick Look" = "快速瀏覽";
+
+"Filter" = "篩選";
+"No result found." = "沒有找到任何結果。";
+"Continue & Overwrite" = "繼續並覆寫";
+"The file is read-only, or you do not have right permissions to modify the file." = "此為唯讀檔案，或是您沒有權限可以修改檔案。";
+
+"Learn Data Recovery" = "了解資料修復";
+"Auto refresh on Files Panel cannot be enabled." = "無法啟用檔案面板上的自動重新整理。";

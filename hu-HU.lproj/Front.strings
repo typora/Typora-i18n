@@ -111,7 +111,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "A fájl tartalmát egy másik alkalmazás megváltoztatta. Újra betöltsük a lemezről?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Folytassuk a mozgatást és felülírjuk a létező fájl(oka)t?";
 
-"Rename Failed" = "Az átnevezés nem sikerült";
 "Rename to \"{0}\" ?" = "Átnevezés erre \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Az átnevezés \"{0}\" névről \"{1}\" névre nem sikerült.";
 
@@ -156,7 +155,14 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> bekapcsolódott.";
 "You could turn it off from `View` menu." = "A `Nézet` menüből kikapcsolható.";
-"Never show this again." = "Ne mutassa többet.";
 "The file is too large to render in Typora." = "A fájl nem jeleníthető meg, mert túl nagy.";
 "Open in…" = "Társítás…";
 "Quick Look" = "Gyorsnézet";
+
+"Filter" = "Szűrő";
+"No result found." = "Nincs találat.";
+"Continue & Overwrite" = "Folytatás és felülírás";
+"The file is read-only, or you do not have right permissions to modify the file." = "A fájl írásvédett vagy nincs jogosultsága a módosításához.";
+
+"Learn Data Recovery" = "Tudnivalók az adatvisszaállításról";
+"Auto refresh on Files Panel cannot be enabled." = "Nem sikerült bekapcsolni az automatikus frissítést a Fájlkezelőben.";

@@ -256,3 +256,31 @@
 "Folder not exist at %@, please input another path." = "A %@ helyen nincs mappa, adjon meg egy másik útvonalat.";
 "Please input a folder path." = "Írjon be egy elérési utat.";
 "Cannot use root path." = "A gyökérmappa nem használható.";
+
+"Get Themes" = "Új témák beszerzése";
+"File/directory alreay exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
+"Keep Both" = "Mindkettő megtartása";
+"Are you sure you want to move %@?" = "Biztosan mozgatni akarja ezt: %@?";
+
+"Are you sure you want to delete %@?" = "Biztosan törölni akarja ezt: %@?";
+"You can restore from the Trash." = "A Lomtárból később visszaállíthatja.";
+
+"Reset All Dialog Warnings" = "A párbeszédablakok figyelmeztetéseinek visszaállítása";
+"Dialogs" = "Párbeszédablakok";
+"Dialog warnings have been reset." = "A párbeszédablakok figyelmeztetéseinek visszaállítása megtörtént.";
+
+"Operation Failed" = "A művelet sikertelen";
+"Failed to move target file or folder to trash" = "A cél fájl vagy könyvtár mozgatása a lomtárba nem sikerült";
+
+"Undo %@" = "%@ visszavonása";
+"Rename %@" = "%@ átnevezése";
+"Copy %@" = "%@ másolása";
+"Move %@" = "%@ mozgatása";
+"Delete %@" = "%@ törlése";
+
+"Turn off Typewriter / Focus Mode" = "Írógép/fókusz mód kikapcsolása";
+"Typewriter / Focus Mode have been turned off." = "Az írógép/fókusz mód kikapcsolása megtörtént.";
+
+"Reading Speed" = "Olvasási sebesség";
+"Auto" = "Automatikus";
+"words / min" = "szó/perc";

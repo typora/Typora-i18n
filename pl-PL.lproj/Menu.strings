@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by iriusturar350@Gmail.com
+ by darek.rzeznicki@g1ant.com, iriusturar350@Gmail.com
 */
 
 /* Typora Menu */
@@ -113,8 +113,8 @@
 "Code Fences" = "Blok kodu";
 "Math Block" = "Blok matematyczny";
 "Quote" = "Cytat";
-"Ordered List" = "Lista uporządkowana";
-"Unordered List" = "Lista nieuporządkowana";
+"Ordered List" = "Lista numerowana";
+"Unordered List" = "Lista wypunktowana";
 "Task List" = "Lista zadań";
 "Task Status" = "Status zadania";
 "Toggle Task Status" = "Przełącz status zadania";
@@ -157,7 +157,7 @@
 "File Tree" = "Drzewo plików";
 "Always on Top" = "Zawsze na wierzchu";
 "Full Screen" = "Pełny ekran";
-"Show Status Bar" = "Pokaż pasek postępu";
+"Show Status Bar" = "Pokaż pasek stanu";
 "Toggle Fullscreen" = "Włącz tryb pełnoekranowy";
 "Actual Size" = "Rzeczywisty rozmiar";
 "Zoom In" = "Powiększ";
@@ -202,7 +202,7 @@
 "Copy Table" = "Kopiuj tabelę";
 "Delete Table" = "Usuń tabelę";
 "Insert Paragraph After" = "Wstaw akapit po";
-"Insert Paragraph Before" = "Wstaw paragraf przed";
+"Insert Paragraph Before" = "Wstaw akapit przed";
 "Delete Code Block" = "Usuń blok kodu";
 "Copy as MathML" = "Kopiuj jako MathML";
 "Copy as Tex" = "Kopiuj jako TeX";
@@ -242,9 +242,9 @@
 "Open Image Location" = "Otwórz położenie pliku";
 
 "Learn More" = "Dowiedz się więcej";
-"Whitespace and Line Breaks" = "Znaki spacji i końca wiersza";
+"Whitespace and Line Breaks" = "Znaki spacji i końca linii";
 "Indent first line of paragraphs" = "Wcięcie pierwszego wiersza akapitu";
-"Preserve single line break" = "Zachowaj pojedynczy znak końca wiersza";
+"Preserve single line break" = "Zachowaj pojedynczy znak końca linii";
 "Visible <br/>" = "Widoczne <br/>";
 
 "Save All" = "Zapisz wszystkie";
@@ -255,7 +255,7 @@
 "Smart Punctuation" = "Inteligentna interpunkcja";
 "Convert on Input" = "Konwertuj podczas wpisywania";
 "Convert on Rendering" = "Konwertuj podczas renderingu";
-"Remap Unicode Punctuation on Parse" = "Przekształć interpunkcję Unicode podczas parsowania";
+"Remap Unicode Punctuation on Parse" = "Przekształć interpunkcję Unicode podczas przetwarzania";
 "More Options" = "Więcej opcji";
 
 "HTML Block" = "Blok HTML";

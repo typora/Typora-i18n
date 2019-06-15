@@ -73,8 +73,10 @@
 "Sort" = "Сортировка";
 "Group By Folder" = "Группировать по папке";
 "Sort Naturally" = "Естественная сортировка";
-"Sort by Name" = "Сортировать по имени";
-"Sort by Modification Date" = "Сортировать по дате модификации";
+"Sort by Name (Ascending)" = "Сортировать по имени (Ascending)";
+"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (Ascending)";
+"Sort by Name (Descending)" = "Сортировать по имени (Descending)";
+"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (Descending)";
 "Location" = "Расположение";
 "Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";

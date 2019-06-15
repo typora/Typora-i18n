@@ -73,8 +73,10 @@
 "Sort" = "Sort";
 "Group By Folder" = "Group By Folder";
 "Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
+"Sort by Name (Ascending)" = "Sort by Name (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
+"Sort by Name (Descending)" = "Sort by Name (Descending)";
+"Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
 "Location" = "Location";
 "Switch File List/Tree View" = "Switch File List/Tree View";
 "No Files Available" = "No Files Available";
@@ -166,3 +168,4 @@
 
 "Learn Data Recovery" = "Learn Data Recovery";
 "Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "Delete Permanently";

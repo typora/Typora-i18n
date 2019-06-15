@@ -79,8 +79,10 @@ Japanese translated by
 "Sort" = "並び替え";
 "Group By Folder" = "フォルダをグループ分け";
 "Sort Naturally" = "自然に並び替え";
-"Sort by Name" = "名称で並び替え";
-"Sort by Modification Date" = "更新日時で並び替え";
+"Sort by Name (Ascending)" = "名称で並び替え (Ascending)";
+"Sort by Modification Date (Ascending)" = "更新日時で並び替え (Ascending)";
+"Sort by Name (Descending)" = "名称で並び替え (Descending)";
+"Sort by Modification Date (Descending)" = "更新日時で並び替え (Descending)";
 "Location" = "場所";
 "Switch File List/Tree View" = "リスト表示とツリー表示を切替";
 "No Files Available" = "ファイルが見つかりません";

@@ -75,8 +75,10 @@
 "Sort" = "Sorteren";
 "Group By Folder" = "Groeperen op Map";
 "Sort Naturally" = "Natuurlijk sorteren";
-"Sort by Name" = "Sorteren op naam";
-"Sort by Modification Date" = "Sorten op wijzigingsdatum";
+"Sort by Name (Ascending)" = "Sorteren op naam (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sorten op wijzigingsdatum (Ascending)";
+"Sort by Name (Descending)" = "Sorteren op naam (Descending)";
+"Sort by Modification Date (Descending)" = "Sorten op wijzigingsdatum (Descending)";
 "Location" = "Locatie";
 "Switch File List/Tree View" = "Schakel bestands lijst/boom weergave";
 "No Files Available" = "Geen bestanden beschikbaar";

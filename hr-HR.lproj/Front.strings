@@ -72,8 +72,10 @@
 "Sort" = "Sortiraj";
 "Group By Folder" = "Grupiraj po direktoriju";
 "Sort Naturally" = "Sortiraj prirodno";
-"Sort by Name" = "Sortiraj po imenu";
-"Sort by Modification Date" = "Sortiraj po datumu uređivanja";
+"Sort by Name (Ascending)" = "Sortiraj po imenu (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sortiraj po datumu uređivanja (Ascending)";
+"Sort by Name (Descending)" = "Sortiraj po imenu (Descending)";
+"Sort by Modification Date (Descending)" = "Sortiraj po datumu uređivanja (Descending)";
 "Location" = "Lokacija";
 "Switch File List/Tree View" = "Prebaci pregled datoteka Lista/Stablo";
 "No Files Available" = "Nema dostupnih datoteka";

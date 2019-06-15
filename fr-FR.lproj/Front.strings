@@ -72,8 +72,10 @@
 "Sort" = "Trier";
 "Group By Folder" = "Regrouper par dossier";
 "Sort Naturally" = "Trier";
-"Sort by Name" = "Trier par nom";
-"Sort by Modification Date" = "Trier par date de modification";
+"Sort by Name (Ascending)" = "Trier par nom (Ascending)";
+"Sort by Modification Date (Ascending)" = "Trier par date de modification (Ascending)";
+"Sort by Name (Descending)" = "Trier par nom (Descending)";
+"Sort by Modification Date (Descending)" = "Trier par date de modification (Descending)";
 "Location" = "Emplacement";
 "Switch File List/Tree View" = "Basculer vers la vue en liste/arborescence de fichiers";
 "No Files Available" = "Aucun fichier disponible";

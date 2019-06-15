@@ -74,8 +74,10 @@
 "Sort" = "Sắp xếp";
 "Group By Folder" = "Nhóm bởi thư mục";
 "Sort Naturally" = "Sắp xếp tự nhiên";
-"Sort by Name" = "Sắp xếp theo tên";
-"Sort by Modification Date" = "Sắp xếp theo ngày chỉnh sửa";
+"Sort by Name (Ascending)" = "Sắp xếp theo tên (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sắp xếp theo ngày chỉnh sửa (Ascending)";
+"Sort by Name (Descending)" = "Sắp xếp theo tên (Descending)";
+"Sort by Modification Date (Descending)" = "Sắp xếp theo ngày chỉnh sửa (Descending)";
 "Recent Locations" = "Vị trí gần đây";
 "Location" = "Vị trí";
 "Switch File List/Tree View" = "Chuyển đổi kiểu xem Danh sách/Cây tập tin";

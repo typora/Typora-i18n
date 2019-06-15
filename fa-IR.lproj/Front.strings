@@ -73,8 +73,10 @@
 "Sort" = "مرتب کردن";
 "Group By Folder" = "گروه کردن با توجه به پوشه";
 "Sort Naturally" = "مرتب کردن طبیعی";
-"Sort by Name" = "مرتب کردن با توجه به نام";
-"Sort by Modification Date" = "مرتب کردن با توجه به تاریخ ویرایش";
+"Sort by Name (Ascending)" = "مرتب کردن با توجه به نام (Ascending)";
+"Sort by Modification Date (Ascending)" = "مرتب کردن با توجه به تاریخ ویرایش (Ascending)";
+"Sort by Name (Descending)" = "مرتب کردن با توجه به نام (Descending)";
+"Sort by Modification Date (Descending)" = "مرتب کردن با توجه به تاریخ ویرایش (Descending)";
 "Location" = "محل";
 "Switch File List/Tree View" = "سوییچ کرده به فهرست فایل/درخت";
 "No Files Available" = "هیچ فایلی در دسترس نیست";

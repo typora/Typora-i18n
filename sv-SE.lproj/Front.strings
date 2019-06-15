@@ -72,8 +72,10 @@
 "Sort" = "Sortera";
 "Group By Folder" = "Gruppera efter mapp";
 "Sort Naturally" = "Sortera naturligt";
-"Sort by Name" = "Sortera efter namn";
-"Sort by Modification Date" = "Sortera efter modifieringsdatum";
+"Sort by Name (Ascending)" = "Sortera efter namn (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sortera efter modifieringsdatum (Ascending)";
+"Sort by Name (Descending)" = "Sortera efter namn (Descending)";
+"Sort by Modification Date (Descending)" = "Sortera efter modifieringsdatum (Descending)";
 "Location" = "Plats";
 "Switch File List/Tree View" = "Växla listvy/trädvy";
 "No Files Available" = "Inga tillgängliga filer";

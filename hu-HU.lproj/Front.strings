@@ -73,8 +73,10 @@
 "Sort" = "Rendezés";
 "Group By Folder" = "Mappánkénti csoportosítás";
 "Sort Naturally" = "Természetes sorrend";
-"Sort by Name" = "Rendezés név szerint";
-"Sort by Modification Date" = "Rendezés utolsó módosítás szerint";
+"Sort by Name (Ascending)" = "Rendezés név szerint (Ascending)";
+"Sort by Modification Date (Ascending)" = "Rendezés utolsó módosítás szerint (Ascending)";
+"Sort by Name (Descending)" = "Rendezés név szerint (Descending)";
+"Sort by Modification Date (Descending)" = "Rendezés utolsó módosítás szerint (Descending)";
 "Location" = "Hely";
 "Switch File List/Tree View" = "Váltás Fa és Betekintés között";
 "No Files Available" = "Nincsenek elérhető fájlok";

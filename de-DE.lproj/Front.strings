@@ -73,8 +73,10 @@
 "Sort" = "Sortieren";
 "Group By Folder" = "Nach Ordnern gruppieren";
 "Sort Naturally" = "Natürlich sortieren";
-"Sort by Name" = "Nach Name sortieren";
-"Sort by Modification Date" = "Nach Änderungsdatum sortieren";
+"Sort by Name (Ascending)" = "Nach Name sortieren (Ascending)";
+"Sort by Modification Date (Ascending)" = "Nach Änderungsdatum sortieren (Ascending)";
+"Sort by Name (Descending)" = "Nach Name sortieren (Descending)";
+"Sort by Modification Date (Descending)" = "Nach Änderungsdatum sortieren (Descending)";
 "Location" = "Ort";
 "Switch File List/Tree View" = "Zwischen Dateilisten- / -baumansicht wechseln";
 "No Files Available" = "Es sind keine Dateien verfügbar";

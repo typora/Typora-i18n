@@ -73,8 +73,10 @@
 "Sort" = "排序";
 "Group By Folder" = "依資料夾分組";
 "Sort Naturally" = "自然排序";
-"Sort by Name" = "依名稱排序";
-"Sort by Modification Date" = "依修改日期排序";
+"Sort by Name (Ascending)" = "依名稱排序 (Ascending)";
+"Sort by Modification Date (Ascending)" = "依修改日期排序 (Ascending)";
+"Sort by Name (Descending)" = "依名稱排序 (Descending)";
+"Sort by Modification Date (Descending)" = "依修改日期排序 (Descending)";
 "Location" = "位置";
 "Switch File List/Tree View" = "切換檔案/樹狀結構檢視";
 "No Files Available" = "檔案不存在";

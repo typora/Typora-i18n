@@ -73,8 +73,10 @@
 "Sort" = "排序";
 "Group By Folder" = "按文件夹分组";
 "Sort Naturally" = "自然排序";
-"Sort by Name" = "按文件名排序";
-"Sort by Modification Date" = "按修改时间排序";
+"Sort by Name (Ascending)" = "按文件名排序（升序）";
+"Sort by Modification Date (Ascending)" = "按修改时间排序（升序）";
+"Sort by Name (Descending)" = "按文件名排序（降序）";
+"Sort by Modification Date (Descending)" = "按修改时间排序（降序）";
 "Location" = "目录";
 "Switch File List/Tree View" = "切换列表／树视图";
 "No Files Available" = "文件列表为空";
@@ -168,3 +170,4 @@
 
 "Learn Data Recovery" = "如何恢复文件";
 "Auto refresh on Files Panel cannot be enabled." = "无法自动刷新文件列表。";
+"Delete Permanently" = "永久删除";

@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by iriusturar350@Gmail.com
+ by darek.rzeznicki@g1ant.com, iriusturar350@Gmail.com
 */
 
 /* Common */
@@ -65,7 +65,7 @@
 "New File" = "Nowy plik";
 "Unpin Outline Panel" = "Odepnij panel konspektu";
 "Open Folder..." = "Otwórz folder…";
-"Action" = "Akcja"; // plural of "action" in Polish is "Akcje"
+"Action" = "Działania"
 "Close Sidebar Menu" = "Zamknij menu panelu bocznego";
 "Reveal in Finder" = "Otwórz w Finderze";
 "Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
@@ -73,10 +73,10 @@
 "Sort" = "Sortuj";
 "Group By Folder" = "Grupuj według folderu";
 "Sort Naturally" = "Sortuj naturalnie";
-"Sort by Name (Ascending)" = "Sortuj według nazwy (Ascending)";
-"Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (Ascending)";
-"Sort by Name (Descending)" = "Sortuj według nazwy (Descending)";
-"Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (Descending)";
+"Sort by Name" = "Sortuj według nazwy (rosnąco)";
+"Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
+"Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";
+"Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (malejąco)";
 "Location" = "Położenie";
 "Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
 "No Files Available" = "Brak dostępnych plików";
@@ -152,7 +152,7 @@
 "Spell Check (%@ unavailable)" = "Sprawdzanie pisowni (%@ niedostępny)";
 "Spell Check (%@ downloading)" = "Sprawdzanie pisowni (%@ pobierany)";
 "Download dictionary file for %@" = "Pobierz plik słownika (język %@)";
-"(Default spell check option)" = "(Domyślna opcja sprawdzania pisowni)";
+"(Default spell check option)" = "(domyślna opcja sprawdzania pisowni)";
 "Failed to load spellcheck module" = "Załadowanie modułu sprawdzania pisowni nie powiodło się";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> został włączony.";

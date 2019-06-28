@@ -51,7 +51,7 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(下面的偏好設定會再重新啟動 Typora 後套用)";
+"(Following preferences will be applied after restart.)" = "(下面的偏好設定會在重新啟動 Typora 後套用)";
 "Syntax Support" = "Markdown 擴展支援";
 "Inline Math  ( e.g: $\LaTeX$ )" = "行內數學式  (如: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "下標    (如: H~2~O )";
@@ -104,7 +104,7 @@
 "Failed to import file from <em>{0}</em>" = "無法從 <em>{0}</em> 匯入檔案";
 "File does not exist at <em>{0}</em>" = "檔案不存在於 <em>{0}</em>";
 "Export to..." = "匯出至...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "要儲存對此文件所做得變更嗎？<br> 若不儲存，將會遺失所做的更動。";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "要儲存對此文件所做的變更嗎？<br> 若不儲存，將會遺失所做的更動。";
 "[Warning] Failed to attach bookmark for PDF file." = "[警告] 無法添加目錄至 PDF 檔";
 "Dark Theme not support" = "不支援深色佈景主題";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，此 Typora 版本無法列印背景色至輸出的 PDF 檔，因此尚不支援深色佈景主題的 PDF 輸出。 \n請選擇淺色佈景主題或選擇 \"以預設佈景主題列印\"";

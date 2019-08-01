@@ -46,12 +46,12 @@
 
 /* Images */
 "Copy Image To..." = "Kopírovať obrázok do...";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sa snaží skopírovať novo vložený obrázok do priečinka <code id='image-create-folder-target'></code> podľa vášho nastavenia YAML Front Matter alebo globálnych preferencií. Cieľový priečinok však neexistuje, vytvoriť teraz?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sa snaží skopírovať novo vložený obrázok do priečinka <code id='image-create-folder-target'></code> podľa vášho nastavenia preddefinovaných premenných YAML alebo globálnych preferencií. Cieľový priečinok však neexistuje, vytvoriť teraz?";
 "Create Folder" = "Vytvoriť priečinok";
 
 /* Math */
 "Edit" = "Upraviť";
-"Delete Math" = "Odstrániť Math";
+"Delete Math" = "Odstrániť Matematiku";
 "Preview" = "Náhľad";
 
 /* Sidebar */
@@ -92,7 +92,7 @@
 
 "Table of Contents" = "Obsah";
 "Empty Diagram" = "Prázdny diagram";
-"Input Math TeX here" = "Vložiť Math TeX tu";
+"Input Math TeX here" = "Vložiť Matematiku TeX tu";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Potreba definovať referenčnú poznámku pod čiarou <b>{0}</b> so syntaxou <a>[^{1}]: www.priklad.sk</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Potreba definovať referenčný odkaz <b>[{0}]</b> so syntaxou <b>[{1}]: www.priklad.sk</b>";

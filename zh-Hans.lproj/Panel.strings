@@ -283,3 +283,23 @@
 "Reading Speed" = "阅读速度";
 "Auto" = "自动";
 "words / min" = "词每分钟";
+
+"Reset to Default" = "重置";
+"Select custom folder" = "选择文件夹";
+"120  words/minute (Slow)" = "120  词每分钟 (较慢)";
+"240  words/minute (Medium)" = "240  词每分钟 (中等)";
+"382  words/minute (Fast)" = "382  词每分钟 (较快)";
+
+"Copy and update image source to…" = "复制并更新图片路径到…";
+"Updater" = "更新";
+"Install Updates ?" = "是否安装更新？";
+"Quit and Install" = "退出并安装";
+"Download failed" = "下载失败";
+"Downloading Updates…" = "下载中…";
+"Checking Updates…" = "检查中…";
+"Check Update Failed" = "检查更新失败";
+"You are update to date!" = "当前已是最新！";
+"Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
+"Auto escape image URL when insert" = "插入时自动转义图片 URL";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭改选项可以获得更高的可读性。";

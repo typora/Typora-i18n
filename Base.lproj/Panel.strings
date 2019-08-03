@@ -302,3 +302,9 @@
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
 "Auto escape image URL when insert" = "Auto escape image URL when insert";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
+"Check updates automatically" = "Check updates automatically";
+"Skip This Version" = "Skip This Version";
+"Remind Me Later" = "Remind Me Later";
+"Download Update" = "Download Update";
+"New version avaiable." = "New version avaiable.";
+

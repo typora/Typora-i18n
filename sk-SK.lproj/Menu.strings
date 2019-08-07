@@ -1,7 +1,9 @@
 /* 
   Menu.strings
   Typora
+
  by hi@typora.io
+
  Slovak translation by Petr Mátl <petr.matl42@gmail.com>
 */
 
@@ -244,7 +246,7 @@
 "Learn More" = "Ďalšie informácie";
 "Whitespace and Line Breaks" = "Medzery a zlomy riadkov";
 "Indent first line of paragraphs" = "Odsadiť prvý riadok odsekov";
-"Preserve single line break" = "Zachovať jednoduché konce riadkov";
+"Preserve single line break" = "Zachovať jednoduché zlomy riadkov";
 "Visible <br/>" = "Viditeľné <br/>";
 
 "Save All" = "Uložiť všetko";

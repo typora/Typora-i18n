@@ -1,0 +1,173 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Slovak translation by Petr Mátl <petr.matl42@gmail.com>
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Zrušiť";
+"Yes" = "Áno";
+"No" = "Nie";
+"Close" = "Zatvoriť";
+"Select" = "Vybrať";
+"Continue" = "Pokračovať";
+"Learn More…" = "Ďalšie informácie…";
+"Untitled" = "Bez názvu";
+"Undo" = "Odvolať";
+"Dismiss" = "Zrušiť";
+"Confirm" = "Potvrdiť";
+"Error" = "Chyba";
+
+/* Search Panel */
+"Search" = "Hľadať";
+"Replace" = "Nahradiť";
+"All" = "Všetko;
+"Search text not found in article" = "Hľadaný text nebol v článku nájdený";
+"search text" = "hľadať text";
+
+/* Quick Open */
+"Search by file name" = "Hľadánie podľa názvu súboru";
+"Searching" = "Hľadá sa";
+"Gathering more results" = "Získava sa viac výsledkov";
+
+/* Tables */
+"Insert Table" = "Vložiť tabuľku";
+"Columns" = "Stĺpce";
+"Rows" = "Riadky";
+"Align Left" = "Zarovnať doľava";
+"Align Center" = "Zarovnať na stred";
+"Align Right" = "Zarovnať doprava";
+"Resize Table" = "Zmeniť veľkosť tabuľky";
+"Delete Table" = "Odstrániť tabuľku";
+
+/* Images */
+"Copy Image To..." = "Kopírovať obrázok do...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sa snaží skopírovať novo vložený obrázok do priečinka <code id='image-create-folder-target'></code> podľa vášho nastavenia preddefinovaných premenných YAML alebo globálnych nastaveniach. Cieľový priečinok však neexistuje, vytvoriť teraz?";
+"Create Folder" = "Vytvoriť priečinok";
+
+/* Math */
+"Edit" = "Upraviť";
+"Delete Math" = "Odstrániť Matematiku";
+"Preview" = "Náhľad";
+
+/* Sidebar */
+"Articles" = "Články";
+"Outline" = "Prehľad";
+"Files" = "Súbory";
+"Switch to File List view" = "Prepnúť na zobrazenie zoznamu súborov";
+"Switch to File Tree view" = "Prepnúť na stromové zobrazenie súborov";
+"Switch to Outline view" = "Prepnúť na zobrazenie prehľadu";
+"Close sidebar" = "Zatvoriť bočný panel";
+"Loading" = "Načítava sa";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Vybraté priečinky obsahujú príliš veľa súborov. \nProsím prepnite na <a id='switch-to-tree-on-oversize'>Stromové zobrazenie súborov</a> pre lepší výkon.";
+"New File" = "Nový súbor";
+"Unpin Outline Panel" = "Odpojiť prehľadový panel";
+"Open Folder..." = "Otvoriť priečinok...";
+"Action" = "Akcia";
+"Close Sidebar Menu" = "Zatvoriť ponuku bočného panela";
+"Reveal in Finder" = "Zobraziť vo Finderi";
+"Reveal in File Explorer" = "Zobraziť v Prieskumníkovi súborov";
+"Refresh Folder" = "Obnoviť priečinok";
+"Sort" = "Zoradiť";
+"Group By Folder" = "Zoskupiť podľa priečinka";
+"Sort Naturally" = "Zoradiť prirodzene";
+"Sort by Name (Ascending)" = "Zoradiť podľa názvu (Vzostupne)";
+"Sort by Modification Date (Ascending)" = "Zoradiť podľa dátumu zmeny (Vzostupne)";
+"Sort by Name (Descending)" = "Zoradiť podľa názvu (Zostupne)";
+"Sort by Modification Date (Descending)" = "Zoradiť podľa dátumu zmeny (Zostupne)";
+"Location" = "Umiestnenie";
+"Switch File List/Tree View" = "Prepnúť medzi zobrazením Zoznamu/Stromu";
+"No Files Available" = "Nie sú k dispozícii žiadne súbory";
+"No Folder is Opened." = "Nie je otvorený žiadny priečinok";
+"Outline is Empty." = "Prehľad je prázdny.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Prepnúť bočný panel";
+"Toggle Source Code Mode" = "Prepnúť režim zdrojového kódu";
+"Exit Source Code Mode" = "Ukončiť režim zdrojového kódu";
+
+"Table of Contents" = "Obsah";
+"Empty Diagram" = "Prázdny diagram";
+"Input Math TeX here" = "Vložiť Matematiku TeX tu";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Potreba definovať referenčnú poznámku pod čiarou <b>{0}</b> so syntaxou <a>[^{1}]: www.priklad.sk</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Potreba definovať referenčný odkaz <b>[{0}]</b> so syntaxou <b>[{1}]: www.priklad.sk</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Prosím definujte odkaz na obrázok pomocou \n[{0}]: http://priklad.png";
+
+/* msg */
+"Failed to create file" = "Zlyhalo vytvorenie súboru";
+"Failed to create folder" = "Zlyhalo vytvorenie priečinka";
+"Failed to rename file" = "Zlyhalo premenovanie súboru";
+"Folder does not exist at %@" = "Priečinok neexistuje v %@";
+"File with the same name already exists at target path" = "Na cieľovej ceste už existuje súbor s rovnakým názvom";
+"Apply to All" = "Použiť na všetky";
+"Overwrite" = "Prepísať";
+"Stop" = "Zastaviť";
+"back to document" = "späť do dokumentu";
+"Failed to load file" = "Zlyhalo načítanie súboru";
+"Save File Failed!" = "Zlyhalo uloženie súboru!"
+"Cannot open folder {0}" = "Nemožno otvoriť priečinok {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Obsah súboru bol zmenený externou aplikáciou. Chcete načítať obsah z disku ?"
+"Should continue moving and overwrite exisiting file(s) ?" = "Malo by sa pokračovať v presúvanie a prepísať súbor(y) ?";
+
+"Rename to \"{0}\" ?" = "Premenovať na \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Zlyhalo premenovanie z \"{0}\" na \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Bolo úspešne nahrané {0} obrázkov";
+"Failed to upload image. Error Message:" = "Zlyhalo nahranie obrázka. Chybové hlásenie:";
+"Failed to Copy Image to Target Folder." = "Zlyhalo kopirovanie obrázka do cieľového priečinka.";
+"Select Container Folder" = "Vybrať kontajnerový priečinok";
+
+"Saved" = "Uložené";
+
+/* place holder in find & replace input */
+"search text" = "vyhľadávaný text";
+"replace with" = "nahradiť čím";
+/* search option */
+"Case Sensitive" = "Rozlišovať veľké a malé písmená";
+"Whole Word" = "Celé slová";
+
+"input image URL" = "vložiť URL obrázka";
+"Select image from local file" = "Vybrať obrázok z lokálného súboru";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>, myslíš <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "vybrať jazyk";
+"Finish Editing" = "Dokončiť úpravy";
+
+"Revert advanced setting file to default one ?" = "Vrátiť súbor rozšíreného nastavenia do predvolenej podoby ?";
+
+"Select Spell Check Language" = "Vybrať jazyk kontroly pravopisu";
+"Auto Detect Language" = "Automaticky zistiť jazyk";
+"Disable Spell Check" = "Vypnúť kontrolu pravopisu";
+"Global Setting…" = "Globálne nastavenie…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Chýba súbor slovníka pre podporu %@.";
+"Install Language Support" = "Inštalovať podporu jazyka";
+"License Information" = "Informácie o licencii";
+"Download" = "Stiahnuť";
+"Install dictionary file only for Typora" = "Inštalovať súbor slovníka iba pre Typoru";
+"Spell Check (%@ unavailable)" = "Kontrola pravopisu (%@ nie je k dispozícii)";
+"Spell Check (%@ downloading)" = "Kontrola pravopisu (%@ sťahuje sa)";
+"Download dictionary file for %@" = "Stiahnuť súbor slovníka pre %@";
+"(Default spell check option)" = "(Predvolená možnosť kontroly pravopisu)";
+"Failed to load spellcheck module" = "Zlyhalo načítanie modulu kontroly pravopisu";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> bolo zapnuté.";
+"You could turn it off from `View` menu." = "Môžete vypnúť z ponuky `Zobrazenie`.";
+"The file is too large to render in Typora." = "Súbor je príliš veľký na vykreslenie v Typore.";
+"Open in…" = "Otvoriť v…";
+"Quick Look" = "Rýchly náhľad";
+
+"Filter" = "Filter";
+"No result found." = "Nenašiel sa žiadny výsledok.";
+"Continue & Overwrite" = "Pokračovať & Prepísať";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tento súbor je iba na čítanie alebo nemáte oprávnenie na jeho úpravu.";
+
+"Learn Data Recovery" = "Naučiť sa Obnovenie údajov";
+"Auto refresh on Files Panel cannot be enabled." = "Automatické obnovenie na paneli súborov nie je možné povoliť.";
+"Delete Permanently" = "Odstrániť natrvalo";

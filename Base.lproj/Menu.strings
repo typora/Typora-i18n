@@ -276,3 +276,8 @@
 "Insert Table" = "Insert Table";
 "Insert Image" = "Insert Image";
 "Allow Magnification" = "Allow Magnification";
+
+"Move Row Up" = "Move Row Up";
+"Move Row Down" = "Move Row Down";
+"Move Column Left" = "Move Column Left";
+"Move Column Right" = "Move Column Right";

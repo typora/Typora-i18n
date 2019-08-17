@@ -277,3 +277,8 @@
 "Insert Table" = "插入表格";
 "Insert Image" = "插入图片";
 "Allow Magnification" = "双指缩放";
+
+"Move Row Up" = "上移该行";
+"Move Row Down" = "下移该行";
+"Move Column Left" = "左移该列";
+"Move Column Right" = "右移该列";

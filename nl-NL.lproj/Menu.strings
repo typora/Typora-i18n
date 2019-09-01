@@ -240,7 +240,7 @@
 "Prettify Source Code" = "Prettify Broncode";
 "Copy '%@'" = "Kopieer '%@'";
 "Copy to %@" = "Kopiëren naar %@";
-"Copy Image to..." = "Kopieer Afbeelding naar...";
+"Copy Image to…" = "Kopieer Afbeelding naar...";
 "Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Afbeeldingslocatie";
 
@@ -248,3 +248,5 @@
 
 "Insert Table" = "Tabel invoegen";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Afbeelding kopiëren naar...";

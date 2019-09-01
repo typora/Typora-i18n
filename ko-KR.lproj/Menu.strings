@@ -240,7 +240,7 @@
 "Prettify Source Code" = "소스코드 이쁘게 하기";
 "Copy '%@'" = "'%@' 복사";
 "Copy to %@" = "%@로 복사";
-"Copy Image to..." = "다음으로 이미지 복사";
+"Copy Image to…" = "다음으로 이미지 복사";
 "Upload via iPic" = "iPic를 통해서 업로드";
 "Open Image Location" = "이미지 위치 열기";
 
@@ -266,3 +266,5 @@
 
 "Insert Table" = "표 삽입";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "다음으로 이미지 복사...";

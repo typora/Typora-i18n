@@ -43,7 +43,6 @@
 "Delete Table" = "Usuń tabelę";
 
 /* Images */
-"Copy Image To..." = "Kopiuj obraz do…";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora usiłuje skopiować świeżo wstawiony obraz do folderu <code id='image-create-folder-target'></code> zgodnie z ustawieniami YAML Front Matter lub globalnymi preferencjami. Docelowy folder jednak nie istnieje — utworzyć go?";
 "Create Folder" = "Utwórz folder";
 

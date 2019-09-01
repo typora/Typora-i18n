@@ -43,7 +43,6 @@
 "Delete Table" = "حذف جدول";
 
 /* Images */
-"Copy Image To..." = "کپی تصویر به...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "اپلیکیشن Typora در تلاش است تا با توجه به YAML Front Matter شما یا تنظیمات سراسری تصویر افزوده شده‌ی جدید را به پوشه <code id='image-create-folder-target'></code> کپی کنید. اما پوشه مقصد وجود ندارد، تمایل دارید هم اکنون این پوشه ساخته شود?";
 "Create Folder" = "ساختن پوشه";
 

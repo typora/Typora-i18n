@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Upiększ kod źródłowy";
 "Copy '%@'" = "Skopiuj '%@'";
 "Copy to %@" = "Skopiuj do %@";
-"Copy Image to..." = "Skopiuj obraz do…";
+"Copy Image to…" = "Skopiuj obraz do…";
 "Upload via iPic" = "Prześlij za pomocą iPic";
 "Open Image Location" = "Otwórz położenie pliku";
 
@@ -274,3 +274,5 @@
 
 "Insert Table" = "Wstaw tabelę";
 "Insert Image" = "Wstaw obraz";
+
+"Copy Image to…" = "Kopiuj obraz do…";

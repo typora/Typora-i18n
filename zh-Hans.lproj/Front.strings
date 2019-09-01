@@ -43,7 +43,6 @@
 "Delete Table" = "删除表格";
 
 /* Images */
-"Copy Image To..." = "将图片复制到…";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typora 尝试将新插入的图片复制到目录 <code id='image-create-folder-target'></code>。但该目录不存在，是否立即创建？";
 "Create Folder" = "创建文件夹";
 

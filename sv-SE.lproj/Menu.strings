@@ -235,7 +235,7 @@
 "Prettify Source Code" = "Formatera källkod";
 "Copy '%@'" = "Kopiera '%@'";
 "Copy to %@" = "Kopiera till %@";
-"Copy Image to..." = "Kopiera bild till...";
+"Copy Image to…" = "Kopiera bild till...";
 "Upload via iPic" = "Ladda upp via iPic";
 "Open Image Location" = "Öppna bildmapp";
 
@@ -260,3 +260,5 @@
 
 "Insert Table" = "Infoga tabell";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Kopiera bilder till...";

@@ -236,7 +236,7 @@
 "Prettify Source Code" = "منبع کد زیبا";
 "Copy '%@'" = "کپی '%@'";
 "Copy to %@" = "کپی به %@";
-"Copy Image to..." = "کپی تصویر به...";
+"Copy Image to…" = "کپی تصویر به...";
 "Upload via iPic" = "آپلود بوسیله iPic";
 "Open Image Location" = "باز کردن محل تصویر";
 
@@ -274,3 +274,5 @@
 
 "Insert Table" = "افزودن جدول";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "کپی تصویر به...";

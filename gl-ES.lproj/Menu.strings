@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Embelecer Código fonte";
 "Copy '%@'" = "Copiar '%@'";
 "Copy to %@" = "Copiar a %@";
-"Copy Image to..." = "Copiar Imaxe a...";
+"Copy Image to…" = "Copiar Imaxe a...";
 "Upload via iPic" = "Cargar a través de iPic";
 "Open Image Location" = "Abrir a localización da imaxe";
 
@@ -270,3 +270,5 @@
 
 "Insert Table" = "Insertar táboa";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Copiar imaxe a...";

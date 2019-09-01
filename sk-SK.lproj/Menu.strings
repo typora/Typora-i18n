@@ -239,7 +239,7 @@
 "Prettify Source Code" = "Skrášliť zdrojový kód";
 "Copy '%@'" = "Kopírovať '%@'";
 "Copy to %@" = "Kopírovať do %@";
-"Copy Image to..." = "Kopírovať obrázok do..";
+"Copy Image to…" = "Kopírovať obrázok do..";
 "Upload via iPic" = "Nahrať pomocou iPic";
 "Open Image Location" = "Otvoriť umiestnenie obrázka";
 
@@ -274,3 +274,5 @@
 "Copy without Theme Styling" = "Kopírovať bez motívu";
 "Recent Files" = "Naposledy otvorené súbory";
 "File Results" = "Výsledky hľadania súborov";
+
+"Copy Image to…" = "Kopírovať obrázok do...";

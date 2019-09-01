@@ -44,7 +44,6 @@
 "Delete Table" = "Xoá bảng";
 
 /* Images */
-"Copy Image To..." = "Sao chép hình ảnh đến...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục <code id='image-create-folder-target'></code> dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
 "Create Folder" = "Tạo thư mục";
 

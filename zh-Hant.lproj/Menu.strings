@@ -237,7 +237,7 @@
 "Prettify Source Code" = "程式碼格式化";
 "Copy '%@'" = "複製 '%@'";
 "Copy to %@" = "複製到 %@";
-"Copy Image to..." = "複製圖片到...";
+"Copy Image to…" = "複製圖片到...";
 "Upload via iPic" = "透過 iPic 上傳";
 "Open Image Location" = "開啟圖片位置";
 
@@ -275,3 +275,5 @@
 
 "Insert Table" = "插入表格";
 "Insert Image" = "插入圖片";
+
+"Copy Image to…" = "複製圖片至...";

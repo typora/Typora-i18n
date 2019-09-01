@@ -243,7 +243,7 @@
 "Prettify Source Code" = "Zkrášlit zdrojový kód";
 "Copy '%@'" = "Kopírovat '%@'";
 "Copy to %@" = "Kopírovat do %@";
-"Copy Image to..." = "Kopírovat obrázek do..";
+"Copy Image to…" = "Kopírovat obrázek do..";
 "Upload via iPic" = "Nahrát pomocí iPic";
 "Open Image Location" = "Otevřít umístění obrázku";
 
@@ -278,3 +278,5 @@
 
 "Insert Table" = "Vložit tabulku";
 "Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Kopírovat obrázek do...";

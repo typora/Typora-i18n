@@ -243,7 +243,7 @@ Japanese translated by
 "Prettify Source Code" = "ソースコードを整形";
 "Copy '%@'" = "'%@' をコピー";
 "Copy to %@" = "%@ にコピー";
-"Copy Image to..." = "画像をコピー...";
+"Copy Image to…" = "画像をコピー...";
 "Upload via iPic" = "iPic経由でアップロード";
 "Open Image Location" = "画像の場所を開く";
 
@@ -278,3 +278,8 @@ Japanese translated by
 "Copy without Theme Styling" = "テーマスタイルなしでコピー";
 "Recent Files" = "最近のファイル";
 "File Results" = "ファイルの結果";
+
+"Insert Table" = "表を挿入";
+"Insert Image" = "画像を挿入";
+
+"Copy Image to…" = "〜に画像をコピー";

@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Prettify Source Code";
 "Copy '%@'" = "Copy '%@'";
 "Copy to %@" = "Copy to %@";
-"Copy Image to..." = "Copy Image to...";
+"Copy Image to…" = "Copy Image to…";
 "Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Image Location";
 
@@ -272,3 +272,16 @@
 "Copy without Theme Styling" = "Copy without Theme Styling";
 "Recent Files" = "Recent Files";
 "File Results" = "File Results";
+
+"Insert Table" = "Insert Table";
+"Insert Image" = "Insert Image";
+"Allow Magnification" = "Allow Magnification";
+
+"Move Row Up" = "Move Row Up";
+"Move Row Down" = "Move Row Down";
+"Move Column Left" = "Move Column Left";
+"Move Column Right" = "Move Column Right";
+
+"Copy Image to…" = "Copy Image to…";
+"Zoom Image" = "Zoom Image";
+"Zoom Image to %@" = "Zoom Image to %@";

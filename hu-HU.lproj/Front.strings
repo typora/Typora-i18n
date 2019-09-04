@@ -43,7 +43,6 @@
 "Delete Table" = "Táblázat törlése";
 
 /* Images */
-"Copy Image To..." = "Kép másolása ide...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "A beszúrt képet a Typora megpróbálta a YAML Front Matterben beállított <code id='image-create-folder-target'></code> mappába másolni, de az nem létezik. Létrehozzuk?";
 "Create Folder" = "Mappa létrehozása";
 

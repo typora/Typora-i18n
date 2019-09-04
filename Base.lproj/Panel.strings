@@ -195,7 +195,7 @@
 "Open From..." = "Open From...";
 "Import..." = "Import...";
 "Recent Documents" = "Recent Documents";
-"Search for…" = "Search for…";
+"Search for…" = "Search…";
 "Clear Recent Documents" = "Clear Recent Documents";
 "File Name" = "File Name";
 "Path" = "Path";
@@ -282,3 +282,29 @@
 "Reading Speed" = "Reading Speed";
 "Auto" = "Auto";
 "words / min" = "words / min";
+
+"Reset to Default" = "Reset to Default";
+"Select custom folder" = "Select custom folder";
+"120  words/minute (Slow)" = "120  words/minute (Slow)";
+"240  words/minute (Medium)" = "240  words/minute (Medium)";
+"382  words/minute (Fast)" = "382  words/minute (Fast)";
+
+"Copy and update image source to…" = "Copy and update image source to…";
+"Updater" = "Updater";
+"Install Updates ?" = "Install Updates ?";
+"Quit and Install" = "Quit and Install";
+"Download failed" = "Download failed";
+"Downloading Updates…" = "Downloading Updates…";
+"Checking Updates…" = "Checking Updates…";
+"Check Update Failed" = "Check Update Failed";
+"You are update to date!" = "You are update to date!";
+"Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"Auto escape image URL when insert" = "Auto escape image URL when insert";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
+"Check updates automatically" = "Check updates automatically";
+"Skip This Version" = "Skip This Version";
+"Remind Me Later" = "Remind Me Later";
+"Download Update" = "Download Update";
+"New version avaiable." = "New version avaiable.";
+

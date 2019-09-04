@@ -49,7 +49,6 @@ Japanese translated by
 "Delete Table" = "表の削除";
 
 /* Images */
-"Copy Image To..." = "〜に画像をコピー";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typoraは、YAMLフロントマターの設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ <code id='image-create-folder-target'></code> に保存してようとしています。しかし、対象のフォルダが存在しません。今作成しますか？";
 "Create Folder" = "フォルダを作成";
 

@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Uljepšaj izvorni kôd";
 "Copy '%@'" = "Kopiraj '%@'";
 "Copy to %@" = "Kopiraj u %@";
-"Copy Image to..." = "Kopiraj sliku u...";
+"Copy Image to…" = "Kopiraj sliku u...";
 "Upload via iPic" = "Pošalji koristeći iPic";
 "Open Image Location" = "Otvori lokaciju slike";
 
@@ -252,3 +252,8 @@
 "Reopen Closed File" = "Ponovo otvori zatvorenu datoteku";
 
 "Search" = "Pretraži";
+
+"Insert Table" = "Umetni tablicu";
+"Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Kopiraj sliku u...";

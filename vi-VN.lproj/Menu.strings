@@ -238,7 +238,7 @@
 "Prettify Source Code" = "Prettify Source Code";
 "Copy '%@'" = "Sao chép '%@'";
 "Copy to %@" = "Sao chép tới %@";
-"Copy Image to..." = "Sao chép hình ảnh đến...";
+"Copy Image to…" = "Sao chép hình ảnh đến...";
 "Upload via iPic" = "Tải lên qua iPic";
 "Open Image Location" = "Mở vị trí hình ảnh";
 
@@ -273,3 +273,8 @@
 "Copy without Theme Styling" = "Sao chép không kèm định dạng nguồn";
 "Recent Files" = "Tập tin gần đây";
 "File Results" = "Kết quả tập tin";
+
+"Insert Table" = "Chèn bảng";
+"Insert Image" = "Insert Image";
+
+"Copy Image to…" = "Sao chép hình ảnh đến...";

@@ -70,7 +70,7 @@
 "Jump to Bottom" = "跳转到文末";
 "Math Tools" = "数学工具";
 "Refresh All Math Expressions" = "刷新所有数学公式";
-"Image Tools" = "图片工具";
+"Image Tools" = "图像工具";
 "Insert Local Images" = "插入本地图片";
 "Upload Local Images via iPic" = "使用 iPic 上传本地图片";
 "When Insert Local Image" = "当插入本地图片时";
@@ -238,7 +238,7 @@
 "Prettify Source Code" = "格式化表格源码";
 "Copy '%@'" = "复制 '%@'";
 "Copy to %@" = "复制到 %@";
-"Copy Image to..." = "复制图片到…";
+"Copy Image to…" = "复制图片到…";
 "Upload via iPic" = "通过 iPic 上传图片";
 "Open Image Location" = "打开图片位置";
 
@@ -273,3 +273,16 @@
 "Copy without Theme Styling" = "复制内容并简化格式";
 "Recent Files" = "最近打开的文件";
 "File Results" = "匹配的文件";
+
+"Insert Table" = "插入表格";
+"Insert Image" = "插入图片";
+"Allow Magnification" = "双指缩放";
+
+"Move Row Up" = "上移该行";
+"Move Row Down" = "下移该行";
+"Move Column Left" = "左移该列";
+"Move Column Right" = "右移该列";
+
+"Copy Image to…" = "将图片复制到…";
+"Zoom Image" = "缩放图片";
+"Zoom Image to %@" = "缩放图片至 %@";

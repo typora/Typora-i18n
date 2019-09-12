@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by darek.rzeznicki@g1ant.com, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com
 */
 
 /* Common */
@@ -167,3 +167,4 @@
 
 "Learn Data Recovery" = "Dowiedz się o odzyskiwaniu danych";
 "Auto refresh on Files Panel cannot be enabled." = "Nie można włączyć automatycznego odświeżania w panelu plików.";
+"Delete Permanently" = "Usuń bezpowrotnie";

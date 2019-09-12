@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
  
- by darek.rzeznicki@g1ant.com, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com
  */
 
 /* Preference Panel */
@@ -11,7 +11,7 @@
 /* General Panel */
 "General" = "Ogólne";
 "Window Style" = "Wygląd okna";
-"Classic" = "Klasyczny";
+"Classic" = "klasyczny";
 "Seamless" = "Bezramkowy";
 "Seamless window only support OS X later than 10.10." = "Okno bezramkowe jest dostępne jedynie dla OS X nowszych niż 10.10.";
 "Themes" = "Motywy";
@@ -20,8 +20,8 @@
 "Word Count" = "Licznik słów";
 "Always Show Word Count" = "Zawsze pokazuj licznik słów";
 "Font Size" = "Rozmiar czcionki";
-"Auto ( Recommended )" = "Automatyczny (zalecany)";
-"Customized" = "Własny";
+"Auto ( Recommended )" = "automatyczny (zalecany)";
+"Customized" = "własny";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Jeśli wybrano opcję własnego rozmiaru czcionki, jej faktyczny rozmiar będzie zależał od rozmiaru czcionki podstawowej oraz stylu css.";
 "Left Panel" = "Panel boczny";
 "Show Outline Panel by Default" = "Domyślnie pokazuj widok konspektu";
@@ -44,7 +44,7 @@
 "Auto pair common Markdown syntax" = "Pary typowych elementów składni Markdown";
 "Live Rendering" = "Renderowanie na bieżąco";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Wyświetlaj źródło prostych bloków\n(nagłówków itp.) po najechaniu kursorem";
-"Default Copy Behavior" = "Domyślne sposób kopiowania";
+"Default Copy Behavior" = "Domyślny sposób kopiowania";
 "Copy Markdown source as plain text" = "Kopiuj źródłowy Markdown jako czysty tekst";
 "Typewriter Mode" = "Tryb maszyny do pisania";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Karetka zawsze pośrodku ekranu,\ngdy włączony jest tryb maszyny do pisania";
@@ -134,7 +134,7 @@
 /* Windows Prefernce Panel*/
 "Appearance" = "Wygląd";
 "System Native" = "Typowy dla systemu";
-"Unibody" = "Uniwersalny";
+"Unibody" = "uniwersalny";
 "(applied after restart)" = "(wdrożone po ponownym uruchomieniu programu)";
 "Status Bar" = "Pasek stanu";
 "Show status bar" = "Pokaż pasek stanu";
@@ -151,7 +151,7 @@
 "System" = "System";
 "Privacy" = "Prywatność";
 "Developer" = "Programista";
-"Update" = "Aktualizuj";
+"Update" = "Aktualizacje";
 "Check Updates" = "Sprawdź dostępność aktualizacji";
 "Check updates automatically" = "Automatycznie sprawdzaj dostępność aktualizacji";
 "Advanced Settings" = "Ustawienia zaawansowane";
@@ -282,3 +282,29 @@
 "Reading Speed" = "Szybkość czytania";
 "Auto" = "Auto";
 "words / min" = "słów/min";
+
+"Reset to Default" = "Przywróć domyślny";
+"Select custom folder" = "Wybierz własny folder";
+"120  words/minute (Slow)" = "120 słów/minutę (wolno)";
+"240  words/minute (Medium)" = "240 słów/minutę (średnio)";
+"382  words/minute (Fast)" = "382 słowa/minutę (szybko)";
+
+"Copy and update image source to…" = "Skopiuj i zaktualizuj źródło obrazu na…";
+"Updater" = "Narzędzie aktualizacji";
+"Install Updates ?" = "Zainstalować aktualizację?";
+"Quit and Install" = "Zamknij i zainstaluj";
+"Download failed" = "Nieudane pobieranie";
+"Downloading Updates…" = "Pobieranie aktualizacji…";
+"Checking Updates…" = "Sprawdzanie aktualizacji…";
+"Check Update Failed" = "Nieudane sprawdzanie aktualizacji";
+"You are update to date!" = "Jesteś na bieżąco!";
+"Latest version is $1, your version is $2" = "Najnowsza wersja to $1, Twoja to $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te opcje można zmienić także w menu \"Edycja→Znaki spacji i końca linii\"";
+"Auto escape image URL when insert" = "Automatyczna konwersja adresu URL obrazu podczas wstawiania";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Jeśli na przykład wstawiasz obraz z 'img/plik testowy.png', zmieni się w 'img/plik%20testowy.png'. Włącz tę opcję, by uzyskać lepszą zgodność z innymi silnikami Markdown albo wyłącz, by uzyskać lepszą czytelność.";
+"Check updates automatically" = "Automatycznie sprawdzaj dostępność aktualizacji";
+"Skip This Version" = "Pomiń tę wersję";
+"Remind Me Later" = "Przypomnij mi później";
+"Download Update" = "Pobierz aktualizację";
+"New version avaiable." = "Dostępna nowa wersja.";
+

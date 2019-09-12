@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by darek.rzeznicki@g1ant.com, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com
 */
 
 /* Typora Menu */
@@ -46,7 +46,7 @@
 "Print" = "Drukuj";
 
 /* Edit Menu */
-"Edit" = "Edytuj";
+"Edit" = "Edycja";
 "Undo" = "Cofnij";
 "Redo" = "Ponów";
 "Cut" = "Wytnij";
@@ -271,8 +271,17 @@
 "Search" = "Szukaj";
 "Copy without Theme Styling" = "Skopiuj bez formatowania stylów";
 "Recent Files" = "Ostatnio używane pliki";
+"File Results" = "Pliki wynikowe";
 
 "Insert Table" = "Wstaw tabelę";
 "Insert Image" = "Wstaw obraz";
+"Allow Magnification" = "Zezwól na powiększenie";
+
+"Move Row Up" = "Przenieś wiersz wyżej";
+"Move Row Down" = "Przenieś wiersz niżej";
+"Move Column Left" = "Przenieś kolumnę w lewo";
+"Move Column Right" = "Przenieś kolumnę w prawo";
 
 "Copy Image to…" = "Kopiuj obraz do…";
+"Zoom Image" = "Powiększ obraz";
+"Zoom Image to %@" = "Powiększ obraz o %@";

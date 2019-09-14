@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, vreality64, Third9
+ by ryush00, vreality64, Third9, IdionKim
 */
 
 /* Typora Menu */
@@ -267,4 +267,4 @@
 "Insert Table" = "표 삽입";
 "Insert Image" = "이미지 삽입";
 
-"Copy Image to…" = "다음으로 이미지 복사...";
+"Copy Image to…" = "다음으로 이미지 복사…";

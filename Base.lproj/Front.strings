@@ -42,7 +42,7 @@
 "Resize Table" = "Resize Table";
 "Delete Table" = "Delete Table";
 
-/* Images */s
+/* Images */
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "Create Folder";
 

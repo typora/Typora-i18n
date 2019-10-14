@@ -308,3 +308,7 @@
 "Download Update" = "Pobierz aktualizację";
 "New version available." = "Dostępna nowa wersja.";
 
+"When copy / export as HTML (without style)" = "Podczas kopiowania/eksportowania jako HTML (bez stylów)";
+"Use Rendered SVG" = "używaj renderowanego SVG";
+"Use LaTeX Source" = "używaj źródła LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ma zastosowanie podczas eksportowania jako HTML (bez stylów) albo kopiowania bez stylu motywu.<br/>Po wybraniu <strong>używaj źródła LaTeX</strong> Typora wstawi czyste źródło LaTeX (np. $X^2$).<br/>Po wybraniu <strong>używaj renderowanego SVG</strong>, zostanie użyty wyrenderowana grafika SVG; po wklejeniu tekstu do innej aplikacji obraz SVG może zostać pominięty.</div>";

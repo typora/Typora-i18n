@@ -307,4 +307,9 @@
 "Skip This Version" = "跳过该版本";
 "Remind Me Later" = "稍后提醒我";
 "Download Update" = "下载更新";
-"New version available." = "有新版本更新。";
+"New version avaiable." = "有新版本更新。";
+
+"When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
+"Use Rendered SVG" = "使用 SVG";
+"Use LaTeX Source" = "使用 LaTeX 代码";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";

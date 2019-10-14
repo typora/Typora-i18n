@@ -308,3 +308,7 @@
 "Download Update" = "Download Update";
 "New version available." = "New version available.";
 
+"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"Use Rendered SVG" = "Use Rendered SVG";
+"Use LaTeX Source" = "Use LaTeX Source";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";

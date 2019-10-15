@@ -286,3 +286,5 @@
 "Copy Image to…" = "将图片复制到…";
 "Zoom Image" = "缩放图片";
 "Zoom Image to %@" = "缩放图片至 %@";
+
+"Copy as Plain Text" = "复制为纯文本";

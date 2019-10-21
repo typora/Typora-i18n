@@ -288,3 +288,8 @@
 "Zoom Image to %@" = "缩放图片至 %@";
 
 "Copy as Plain Text" = "复制为纯文本";
+
+"Selection" = "选择";
+"Start Speaking" = "开始朗读";
+"Stop Speaking" = "结束朗读";
+"Check Updates" = "检查更新";

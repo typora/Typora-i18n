@@ -1,0 +1,296 @@
+/*
+  Menu.strings
+  Typora
+
+  by hi@typora.io
+  Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Om Typora";
+"Preferences" = "Indstillinger";
+"Check for Updates" = "Kig efter opdateringer";
+"Services" = "Servicer";
+"Hide Typora" = "Skjul Typora";
+"Hide Others" = "Skjul andre";
+"Show All" = "Vis alle";
+"Quit Typora" = "Afslut ypora";
+
+/* File Menu */
+
+"File" = "Fil";
+"New" = "Ny";
+"Open" = "Åben";
+"Open Folder" = "Åben mappe";
+"Reopen with Encoding" = "Genåben med tegnsæt";
+"Auto" = "Auto";
+"Open Recent" = "Åben seneste";
+"Recent Locations" = "Seneste placeringer";
+"Clear Items" = "Slet seneste";
+"No Recent Files" = "Ingen seneste filer";
+"Open Quickly" = "Åben hurtigt";
+"Open File Location" = "Åben filplacering";
+"Reveal in Library" = "Vis i bibliotek";
+"Reveal in File Tree" = "Vis i træstruktur";
+"Close" = "Luk";
+"Save" = "Gem";
+"Save As" = "Gem som";
+"Duplicate" = "Dobbeltgænger";
+"Rename" = "Omdøb";
+"Move To" = "Flyt til";
+"Revert To" = "Gendan til";
+"Browse All Versions" = "Vis alle udgaver";
+"Import" = "Importér";
+"Export" = "Eksportér";
+"Page Setup" = "Sideopsætning";
+"Print" = "Udskriv";
+
+/* Edit Menu */
+"Edit" = "Redigér";
+"Undo" = "Fortryd";
+"Redo" = "Gentag";
+"Cut" = "Klip";
+"Copy" = "Kopier";
+"Paste" = "Indsæt";
+"Copy as Markdown" = "Kopier som Markdown";
+"Copy as HTML Code" = "Kopier som HTML";
+"Paste as Plain Text" = "Indsæt som tekst";
+"Select All" = "Vælg alt";
+"Select Line/Sentence" = "Vælg linje/sætning";
+"Select Styled Scope" = "Vælg formatteret blok";
+"Select Word" = "Vælg ord";
+"Delete" = "Slet";
+"Delete Range" = "Slet område";
+"Delete Word" = "Slet ord";
+"Delete Styled Scope" = "Slet formatteret blok";
+"Delete Line/Sentence" = "Slet linje/sætning";
+"Jump To" = "Gå til";
+"Jump to Top" = "Gå til top";
+"Jump to Selection" = "Gå til markering";
+"Jump to Bottom" = "Gå til bund";
+"Math Tools" = "Formularværktøjer";
+"Refresh All Math Expressions" = "Gentegn alle formularer";
+"Image Tools" = "Billedværktøjer";
+"Insert Local Images" = "Indsæt lokalt billede";
+"Upload Local Images via iPic" = "Upload lokalt billede vha. iPic";
+"When Insert Local Image" = "Når lokalt billede indsættes";
+"Copy Image File to Folder" = "Kopier billede til mappe";
+"Upload Image via iPic" = "Upload billede vha. iPic";
+"Use Image Root Path" = "Brug billedes rodsti";
+"Line Endings" = "Linjeslut";
+"Windows Line Endings (CRLF)" = "Windows linjeslut (CRLF)";
+"Unix Line Endings (LF)" = "Unix linjeslut (LF)";
+"Find" = "Find";
+"Find Next" = "Find næste";
+"Find Previous" = "Find forrige";
+"Find and Replace" = "Find og erstat";
+"Replace" = "Erstat";
+"Replace Next" = "Erstat næste";
+"Spelling and Grammar" = "Stavekontrol og grammatik";
+"Check Document Now" = "Tjek dokument nu";
+"Check Spelling While Typing" = "Tjek dokument under indtastning";
+"Check Grammar With Spelling" = "Tjek grammatik med stavekontrol";
+"Correct Spelling Automatically" = "Korrigér stavefejl automatisk";
+"Substitutions" = "Erstatninger";
+"Smart Quotes" = "Smarte citationstegn";
+"Smart Dashes" = "Smarte bindesteger";
+"Text Replacement" = "Teksterstatning";
+"Speech" = "Oplæsning";
+"Start Speaking" = "Start oplæsning";
+"Stop Speaking" = "Stop oplæsning";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraf";
+"Heading 1" = "Overskrift 1";
+"Heading 2" = "Overskrift 2";
+"Heading 3" = "Overskrift 3";
+"Heading 4" = "Overskrift 4";
+"Heading 5" = "Overskrift 5";
+"Heading 6" = "Overskrift 6";
+"Increase Heading Level" = "Forøg overskriftsniveau";
+"Decrease Heading Level" = "Formindsk overskriftsniveau";
+"Table" = "Tabel";
+"Code Fences" = "Kodeblokke";
+"Math Block" = "Formularblok";
+"Quote" = "Citat";
+"Ordered List" = "Ordnet liste";
+"Unordered List" = "Uordnet liste";
+"Task List" = "Opgaveliste";
+"Task Status" = "Opgavestatus";
+"Toggle Task Status" = "Vis/skjul opgavestatus";
+"Mark as Complete" = "Markér som færdig";
+"Mark as Incomplete" = "Markér som ufærdig";
+"List Indentation" = "Listeindrykning";
+"Indent" = "Ryk ind";
+"Outdent" = "Ryk ud";
+"Link Reference" = "Kædehenvisning";
+"Footnotes" = "Fodnoter";
+"Horizontal Line" = "Horisontal linje";
+"Table of Contents" = "Indholdsfortegnelse";
+"YAML Front Matter" = "YAML fortekst";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Stærk";
+"Emphasis" = "Fremhævet";
+"Underline" = "Understregning";
+"Code" = "Kode";
+"Inline Math" = "Indbygget formular";
+"Strike" = "Gennemstreg";
+"Highlight" = "Fremhævning";
+"Superscript" = "Hævet tekst";
+"Subscript" = "Sænket tekst";
+"Comment" = "Kommentar";
+"Hyperlink" = "Hyperlink";
+"Image" = "Billede";
+"Clear Format" = "Slet format";
+
+/* View Menu */
+"View" = "Visning";
+"New Tab" = "Ny fane";
+"Source Code Mode" = "Kildekodevisning";
+"Focus Mode" = "Fokusvisning";
+"Typewriter Mode" = "Skrivemaskinevisning";
+"Toggle Sidebar" = "Vis/skjul sidepanel";
+"Outline" = "Disposition";
+"Articles" = "Artikler";
+"File Tree" = "Træstruktur";
+"Always on Top" = "Altid øverst";
+"Full Screen" = "Fuldskærm";
+"Show Status Bar" = "Vis statuslinje";
+"Toggle Fullscreen" = "Vis/skjul fuldskærm";
+"Actual Size" = "Faktisk størrelse";
+"Zoom In" = "Zoom ind";
+"Zoom Out" = "Zoom ud";
+"Switch Between Opened Documents" = "Skift mellem åbne dokumenter";
+"Toggle DevTools" = "Vis/skjul udviklerværktøjer";
+
+
+/* Themes Menu */
+"Themes" = "Temaer";
+
+/* Window Menu */
+"Window" = "Vindue";
+"Minimize" = "Minimér";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Vis alle";
+
+/* Help Menu */
+"Help" = "Hjælp";
+"Privacy Policy" = "Privatlivspolitik";
+"Credits" = "Tak til";
+"Change Log" = "Ændringshistorik";
+"Website" = "Hjemmeside";
+"Feedback" = "Tilbagemelding";
+"About" = "Om";
+
+/* Touchbar */
+"Block Styles" = "Bloktypografier";
+"Inline Styles" = "Indbyggede typografier";
+"List Styles / Remove Block" = "Vis typografier/fjern blok";
+"Exit Source Code Mode" = "Forlad kildekodevisning";
+"Toggle Source Code Mode" = "Vis/skjul kildekodevisning";
+
+/* Extra Context Menu */
+"Table" = "Tabel";
+"Add Row Above" = "Tilføj række over";
+"Add Row Below" = "Tilføj række under";
+"Delete Row" = "Slet række";
+"Add Column Before" = "Tilføj kolonne før";
+"Add Column After" = "Tilføj kolonne efter";
+"Delete Column" = "Slet kolonne";
+"Copy Table" = "Kopier tabel";
+"Delete Table" = "Slet tabel";
+"Insert Paragraph After" = "Indsæt paragraf efter";
+"Insert Paragraph Before" = "Indsæt paragraf før";
+"Delete Code Block" = "Slet kodeblok";
+"Copy as MathML" = "Kopier som MathML";
+"Copy as Tex" = "Kopier som tekst";
+"Copy Math" = "Kopier formular";
+"Reveal in Finder" = "Vis i Finder";
+"Open Link" = "Åben link";
+"Reveal in Sidebar" = "Vis i sidepanel";
+"Open in New Window" = "Åben i nyt vindue";
+"Copy File Path" = "Kopier filsti";
+"New File" = "Ny fil";
+"Rename" = "Omdøb";
+"New Folder" = "Ny mappe";
+"Move to Trash" = "Flyt til papirkurv";
+
+/* Electron */
+"Learn Spelling" = "Lær stavning";
+"Copy / Paste As…" = "Kopier/Indsæt som…";
+"Math" = "Formular";
+"Insert" = "Indsæt";
+"Inspect Element" = "Inspicér element";
+"Copy to MS Word" = "Kopier til MS Word";
+"Paragraph (before)" = "Paragraf (før)";
+"Paragraph (after)" = "Paragraf (efter)";
+
+"Search with Google" = "Søg med Google";
+"Search With…" = "Søg med…";
+
+/* Related Panel */
+"Open Failed" = "Fejl ved åbning";
+"File or folder does not exist." = "Fil eller mappe findes ikke.";
+
+"Prettify Source Code" = "Gør kildekode pæn";
+"Copy '%@'" = "Kopier '%@'";
+"Copy to %@" = "Kopier til %@";
+"Copy Image to..." = "Kopier billede til...";
+"Upload via iPic" = "Upload vha. iPic";
+"Open Image Location" = "Åben billedeplacering";
+
+"Learn More" = "Læs mere";
+"Whitespace and Line Breaks" = "Mellemrum og linjeskift";
+"Indent first line of paragraphs" = "Indryk første linje af paragrafer";
+"Preserve single line break" = "Bevar enkelt linjeskift";
+"Visible <br/>" = "Synlige <br/>";
+
+"Save All" = "Gem alle";
+"New Window" = "Nyt vindue";
+"Reopen Closed File" = "Genåbn lukket fil";
+
+"Global Image Settings" = "Globale billedindstillinger";
+"Smart Punctuation" = "Smarte punkttegn";
+"Convert on Input" = "Konverter ved indtastning";
+"Convert on Rendering" = "Konvertér ved visning";
+"Remap Unicode Punctuation on Parse" = "Erstat Unicode punkttegn under analyse";
+"More Options" = "Flere indstillinger";
+
+"HTML Block" = "HTML blok";
+"Delete Block" = "Slet blok";
+"Delete %@" = "Slet %@";
+"Play" = "Afspil";
+"Pause" = "Pause";
+
+"Spell Check" = "Stavekontrol";
+"Unlearn Spelling" = "Glem stavning";
+"Properties" = "Egenskaber";
+
+"Search" = "Søg";
+"Copy without Theme Styling" = "Kopier uden typografi";
+"Recent Files" = "Seneste filer";
+"File Results" = "Filresultater";
+
+"Insert Table" = "Indsæt tabel";
+"Insert Image" = "Indsæt billede";
+"Allow Magnification" = "Tillad forstørrelse";
+
+"Move Row Up" = "Flyt række op";
+"Move Row Down" = "Flyt række ned";
+"Move Column Left" = "Flyt kolonne til venstre";
+"Move Column Right" = "Flyt kolonne til højre";
+
+"Copy Image to…" = "Kopier billede til…";
+"Zoom Image" = "Forstør billede";
+"Zoom Image to %@" = "Forstør billede til %@";
+
+"Copy as Plain Text" = "Kopier som ren tekst";
+
+"Selection" = "Valg";
+"Start Speaking" = "Start oplæsning";
+"Stop Speaking" = "Stop oplæsning";
+"Check Updates" = "Kig efter opdateringer";
+

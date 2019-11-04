@@ -1,0 +1,314 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by dying.escape@gmail.com
+ */
+
+/* Preference Panel */
+"Preferences" = "Параметри";
+
+/* General Panel */
+"General" = "Загальне";
+"Window Style" = "Стиль вікна";
+"Classic" = "Класичний";
+"Seamless" = "Безрамковий";
+"Seamless window only support OS X later than 10.10." = "Безрамкове вікно доступне тільки у OS X, новіших за 10.10.";
+"Themes" = "Теми";
+"Open Theme Folder" = "Відкрити директорію тем";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Будь ласка, перегляньте короткий вступ у меню `Довідка`->`Швидкий початок`. Відвідайте http://theme.typora.io, щоб отримати більше тем або інструкцій.";
+"Word Count" = "Кількість слів";
+"Always Show Word Count" = "Показувати кількість слів завжди";
+"Font Size" = "Розмір шрифту";
+"Auto ( Recommended )" = "Автоматично (Рекомендовано)";
+"Customized" = "Власний";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Якщо використовується власний розмір шрифту, актуальний розмір шрифту залежатиме від базового розміру і css-стилів.";
+"Left Panel" = "Ліва панель";
+"Show Outline Panel by Default" = "Показувати Панель структури за замовчуванням";
+"Collapsible Outline on Left Panel" = "Розкладна структура на Лівій панелі";
+"Save without asking when\nswitch files on side panel" = "Зберігати без перепитування, коли\nперемикаються файли на бічній панелі";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редаговані файли зберігатимуться без перепитування при перемиканні між файлами у лівій панелі. \nКоли у Системних параметрах увімкнено \"Питати, чи зберігати зміни, при закритті документів\", це налаштування завжди увімкнене.";
+"Language" = "Мова";
+"System Language" = "Системна мова";
+
+/* Editor Panel */
+"Editor" = "Редактор";
+"Indent Size on Save" = "Розмір відступу при збереженні";
+"only apply to quotes and lists created from menu bar or hybrid view" = "застосовується тільки до цитат і списків, створених через рядок меню або гібридний вид";
+"Trigger Autocomplete without ESC key for" = "Викликати Автозаповнення без клавіші ESC";
+"Emoji (e.g. :smile:)" = "Емоджі (наприклад, :smile:)";
+"Images Insert" = "Вставка зображень";
+"Use relative path if possible" = "Використовувати відносний шлях, якщо можливо";
+"Auto Pair" = "Автоматичні пари";
+"Auto pair brackets and quotes" = "Автоматичні пари дужок і лапок";
+"Auto pair common Markdown syntax" = "Автоматичні пари основного синтаксису Markdown";
+"Live Rendering" = "Рендеринг наживо";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Показувати джерело для простих блоків\n(включно із заголовками тощо) під фокусом";
+"Default Copy Behavior" = "Стандартна поведінка при копіюванні";
+"Copy Markdown source as plain text" = "Копіювати Markdown-джерело як простий текст";
+"Typewriter Mode" = "Режим друкарської машинки";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Завжди тримати курсор посередині екрану,\nколи увімкнений режим друкарської машинки";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Наступні параметри будуть застосовані після перезапуску застосунку.)";
+"Syntax Support" = "Підтримка синтаксису";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Вбудована математика ( наприклад: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Підрядковий текст ( наприклад: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Надрядковий текст ( наприклад: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Виділення     (наприклад: ==key==)";
+"Diagrams" = "Графіки";
+"(Sequence, Flowchart and Mermaid)" = "(Послідовностей, блок-схеми і Mermaid)";
+"Syntax Preference" = "Налаштування синтаксису";
+"(only applies to styles created from menubar or hybrid view)" = "(застосовується тільки до стилів, створених через рядок меню або гібридний вид)";
+"Strict Mode" = "Строгий режим";
+"(more strict to GFM spec)" = "(більш строгий до специфікації GFM)";
+"Heading Style" = "Стиль заголовків";
+"Unordered List" = "Маркований список";
+"Ordered List" = "Нумерований список";
+"Code Fences" = "Блоки коду";
+"Display line numbers for code fences" = "Показувати номери рядків у блоках коду";
+"Math Blocks" = "Блоки математики";
+"Auto Numbering Math Equations" = "Автонумерація математичних рівнянь";
+
+/* Security Panel */
+"Security" = "Безпека";
+"Enable Debug" = "Увімкнути налагодження";
+"Send Anonymous Usage Info" = "Надсилати анонімну інформацію про використання";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Для продовження потрібен Pandoc...";
+"Follow instructions to install Pandoc" = "Дотримуйтесь інструкцій для встановлення Pandoc";
+"Cancel" = "Скасувати";
+
+/* Pandoc Import Panel */
+"Importing..." = "Імпортую...";
+"Importing in progress..." = "Імпорт триває...";
+"Converting file with Pandoc. This may take some time." = "Перетворення файлу із Pandoc. Воно може вимагати часу.";
+"Abort" = "Перервати";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Екпортую...";
+"Exporting in progress..." = "Експорт триває...";
+"Converting file with Pandoc. This may take some time." = "Перетворення файлу із Pandoc. Воно може вимагати часу.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Для імпорту цих форматів потрібен Pandoc";
+"Check help->Install and use Pandoc from menubar for detail" = "Дізнайтесь більше через меню Довідка->Встановлення й використання Pandoc";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Функції імпорту й деякі функції експорту потребують встановлення <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "Дотримуйтесь інструкцій для встановлення/оновлення Pandoc";
+"Export Failed" = "Експорт провалився";
+"Import Failed" = "Імпорт провалився";
+"Generated Image too Large" = "Згенероване зображення занадто велике";
+"Failed to export file to <em>{0}</em>" = "Не вдалося експортувати файл до <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Не вдалося імпортувати файл із <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Файлу не існує у <em>{0}</em>";
+"Export to..." = "Експортувати до...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Ви хочете зберегти зміни, внесені у цей документ?<br> Ваші зміни будуть втрачені, якщо ви не збережете їх.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Увага] Не вдалося приєднати закладку до PDF-файлу.";
+"Dark Theme not support" = "Відсутня підтримка Темної теми";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Вибачте, чинна версія Typora не друкує колір тла в експортованому PDF, тож темна тема при експорті PDF поки не підтримується. \nБудь ласка, виберіть світлу тему або натисніть \"Друкувати з темою за замовчуванням\"";
+"Print with default theme" = "Друкувати з темою за замовчуванням";
+"Export to PDF successfully." = "Експорт у PDF успішний.";
+"Converting file using Pandoc. This may take some time." = "Перетворення файлу з використанням Pandoc. Воно може вимагати часу.";
+"Exporting file using Pandoc. This may take some time." = "Експортування файлу з використанням Pandoc. Воно може вимагати часу.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Завантаження зображень через iPic...";
+"Uploading in progress..." = "Завантаження триває...";
+"Do not show this again" = "Більше це не показувати";
+
+/* Word Count */
+"Minute" = "Хвилина";
+"Line" = "Рядок";
+"Word" = "Слово";
+"Character" = "Символ";
+
+"Minutes" = "Хвилини";
+"Lines" = "Рядки";
+"Words" = "Слова";
+"Characters" = "Символи";
+"In Selection" = "У вибраному";
+"Panel" = "Панель";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Вигляд";
+"System Native" = "Типовий для системи";
+"Unibody" = "Універсальний";
+"(applied after restart)" = "(застосується після перезапуску застосунку)";
+"Status Bar" = "Рядок стану";
+"Show status bar" = "Показувати рядок стану";
+"Save & Recover" = "Зберегти і відновити";
+"Auto Save" = "Автозбереження";
+"Recover Unsaved Drafts" = "Відновити незбережені чернетки";
+"Emoji Autocomplete" = "Автозаповнення емоджі";
+"Trigger by ESC key" = "Запускати клавішею ESC";
+"Trigger automatically" = "Запускати автоматично";
+"Default Line Ending" = "Кінець рядка за замовчуванням";
+"Line ending for new file" = "Кінець рядка для нового файлу";
+"Spell Check" = "Перевірка орфографії";
+"Auto correct spelling" = "Автоматично виправляти правопис";
+"System" = "Система";
+"Privacy" = "Конфіденційність";
+"Developer" = "Розробник";
+"Update" = "Оновлення";
+"Check Updates" = "Перевірити наявність оновлень";
+"Check updates automatically" = "Перевіряти оновлення автоматично";
+"Advanced Settings" = "Розширені налаштування";
+"Open Advanced Settings" = "Відкрити розширені налаштування";
+"Reset Advanced Settings" = "Скинути розширені налаштування";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Цій функції потрібно, щоб була встановлена найновіша версія iPic.";
+"Get iPic" = "Отримати iPic";
+"Cannot Continue…" = "Не можу продовжити…";
+"This feature require macOS >= 10.11" = "Цій функції потрібна macOS >= 10.11";
+"One More Step" = "Ще один крок";
+"Notice" = "Увага";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Потрібно, щоб був встановлений iPic — файли зображень будуть завантажені у хмарні сервіси через iPic. Будь ласка, зауважте, що базовий хмарний сервіс не підтримує видалення завантажених зображень.";
+
+"%d Images Failed to Upload." = "%d зображень завантажити не вдалося.";
+"%d Succeeded," = "%d успішних, ";
+"Enable this feature on preferences panel" = "Увімкніть цю функцію на панелі параметрів";
+"The option `%@` must be enabled first" = "Спершу має бути увімкнена опція `%@`.";
+"%@ is a file, not a directory" = "%@ — файл, а не директорія";
+"Copy Images To…" = "Скопіювати зображення до…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora намагається скопіювати свіжовставлене зображення у директорію %@ відповідно до вашого налаштування YAML Front Matter або глобальних налаштувань, але цільва директорія не існує. Створити її зараз?";
+"Create Folder and Continue" = "Створити директорію і продовжити";
+"Document must be saved first" = "Спершу потрібно зберегти документ";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora скопіює свіжовставлене зображення у директорію із вибраним відносним шляхом, тож, будь ласка, спершу збережіть файл.";
+"Open Operation Failed" = "Дія Відкрити не вдалася";
+
+"Support Documentation" = "Супровідна документація";
+
+"Markdown File" = "Файл Markdown";
+"Plain Text File" = "Простий текстовий файл";
+"All Files" = "Усі файли";
+"All Supported Formats" = "Усі підтримувані формати";
+"Discard Changes" = "Відкинути зміни";
+"Discard" = "Відкинути";
+
+"Menu" = "Меню";
+"Back" = "Назад";
+
+"Contact" = "Контактна інформація";
+"Open From..." = "Відкрити з...";
+"Import..." = "Імпортувати...";
+"Recent Documents" = "Останні документи";
+"Search for…" = "Шукати…";
+"Clear Recent Documents" = "Очистити Останні документи";
+"File Name" = "Ім’я файлу";
+"Path" = "Шлях";
+"Export As..." = "Експортувати як...";
+"More Formats" = "Більше форматів";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Для форматів файлів у розділі 'Більше форматів' потрібно <a class='open-pandoc-guide'>встановити Pandoc</a>.";
+"Something is Wrong…" = "Щось не так…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Збереження вмісту з якоїсь причини не вдалося.<br/>Ви можете скопіювати вміст у нове вікно Typora, і потім зберегти його. <br/>Дізнайтеся більше тут:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Повідомити про помилку</a></li><li><a href='http://support.typora.io/Version-Control//'>Відновити втрачений вміст</a></li></ul>";
+"Copy Content" = "Скопіювати вміст";
+
+
+"Total" = "Загалом";
+"Word count only support OS X later than 10.10." = "Лічильник слів підтримує тільки OS X, новішу за 10.10.";
+"Indent Size for Code" = "Розмір відступу для коду";
+"Auto wrap long lines" = "Автоматичне перенесення довгих рядків";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Вибачте, чинна версія Typora не друкуватиме колір тла.\nТож Темна тема для друку поки не доступна.\n\nБудь ласка, виберіть світлу тему або експортуйте цей документ у PDF.";
+"Export to PDF" = "Експортувати у PDF";
+"Pretty indentation" = "Красивий відступ";
+"Update markdown reference for this image" = "Оновити markdown-посилання на це зображення";
+
+"No special action" = "Жодної спеціальної дії";
+"Copy image to current folder (./)" = "Скопіювати зображення у чинну директорію (./)";
+"Copy image to ./assets" = "Скопіювати зображення у ./assets";
+"Copy image to ./${filename}.assets" = "Скопіювати зображення у ./${filename}.assets";
+"Upload image via iPic" = "Завантажити зображення через iPic";
+"Apply above rules to local images" = "Застосувати вибрані правила до локальних зображень";
+"Apply above rules to online images" = "Застосувати вибрані правила до онлайн-зображень";
+"Allow upload images automatically based on YAML settings" = "Дозволити автоматичне завантаження файлів згідно з налаштуваннями YAML";
+
+"Learn More…" = "Дізнатися більше…";
+"Whitespace / Line Break" = "Пробіл/Кінець рядка";
+"When Writing" = "При написанні";
+"Export / Print" = "Експорт/Друк";
+"Preserve sequential whitespace and single line break" = "Зберігати послідовні пробіл і одинарний кінець рядка";
+"Ignore sequential whitespace and single line break" = "Ігнорувати послідовні пробіл і одинарний кінець рядка";
+
+"Quit" = "Завершити";
+"Quit Typora when last window is closed" = "Завершити Typora, коли закрите останнє вікно";
+"On Launch" = "При запуску";
+"Open new file" = "Відкрити новий файл";
+"Restore last closed folders" = "Відновити останні закриті директорії";
+"Restore last closed files and folders" = "Відновити останні закриті файли і директорії";
+"Open custom folder" = "Відкрити власну директорію";
+"Select custom folder" = "Вибрати власну директорію";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Ця опція може бути перекрита Системним параметром \"Закрити вікна при закритті застосунку\" ";
+
+"Ignore" = "Ігнорувати";
+"Choose Default Folder" = "Вибрати директорію за замовчуванням";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертувати при вводі</strong>: Введені тире або лапки ASCII будуть перетворені й збережені як фігурні лапки або unicode-тире.<br/><strong>Конвертувати при рендерингу</strong>: Введені й збережені ASCII тире й лапки будуть показані як фігурні лапки або unicode-тире.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Розпізнавати unicode-пунктуацію як ASCII при читанні markdown, наприклад:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Це налаштування увімкнеться автоматично, якщо озумні лапки/тире будуть конвертуватися при вводі.<div>";
+
+"Copy image to custom folder" = "Скопіювати зображення до власної директорії";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Будь ласка, вкажіть відносний шлях до чинної директорії, який починається з './' або '../', або ж абсолютний шлях до директорії. (`${filename}` репрезентує ім’я чинного файлу.)";
+"Restore to previous setting" = "Відкотитися до попереднього налаштування";
+"Folder not exist at %@, please input another path." = "Директорія %@ не існує; будь ласка, введіть інший шлях.";
+"Please input a folder path." = "Будь ласка, ввежіть шлях до директорії.";
+"Cannot use root path." = "Неможливо використати кореневий шлях.";
+
+"Get Themes" = "Отримати теми";
+"File/directory alreay exists at target path." = "Файл/директорія за цільовим шляхом уже існує.";
+"Keep Both" = "Зберегти обидва/обидві";
+"Are you sure you want to move %@?" = "Ви дійсно хочете перемістити %@?";
+
+"Are you sure you want to delete %@?" = "Ви дійсно хочете видалити %@?";
+"You can restore from the Trash." = "Ви можете відновити із Смітника.";
+
+"Reset All Dialog Warnings" = "Скинути усі діалогові попередження";
+"Dialogs" = "Діалоги";
+"Dialog warnings have been reset." = "Діалогові попередженні скинуті.";
+
+"Operation Failed" = "Помилка дії";
+"Failed to move target file or folder to trash" = "Не вдалося перемістити цільовий файл або директорію у смітник";
+
+"Undo %@" = "Відмінити %@";
+"Rename %@" = "Перейменувати %@";
+"Copy %@" = "Скопіювати %@";
+"Move %@" = "Перемістити %@";
+"Delete %@" = "Видалити %@";
+
+"Turn off Typewriter / Focus Mode" = "Вимкнути режим друкарської машинки/фокусу";
+"Typewriter / Focus Mode have been turned off." = "Режим друкарської машинки/фокусу вимкнений.";
+
+"Reading Speed" = "Швидкість читання";
+"Auto" = "Авто";
+"words / min" = "слів/хв.";
+
+"Reset to Default" = "Скинути до замовчування";
+"Select custom folder" = "Вибрати власну директорію";
+"120  words/minute (Slow)" = "120  слів/хвилину (Повільно)";
+"240  words/minute (Medium)" = "240  слів/хвилину (Середньо)";
+"382  words/minute (Fast)" = "382  слів/хвилину (Швидко)";
+
+"Copy and update image source to…" = "Скопіювати й оновити джерело зображення як…";
+"Updater" = "Оновлювач";
+"Install Updates ?" = "Встановити оновлення?";
+"Quit and Install" = "Завершити й інсталювати";
+"Download failed" = "Помилка завантаження";
+"Downloading Updates…" = "Оновлення завантажуються…";
+"Checking Updates…" = "Перевірка оновлень…";
+"Check Update Failed" = "Помилка перевірки оновлень";
+"You are update to date!" = "Маєте найновішу версію!";
+"Latest version is $1, your version is $2" = "Найновіша версія — $1; ваша версія — $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ці налаштування також можна змінити у меню \"Редагувати → Пробіли і Розриви рядка\" ";
+"Auto escape image URL when insert" = "Автоматично виправляти URL зображення при вставці";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Наприклад, якщо ви вставляєте файл як 'img/example file.png', посилання перетвориться на 'img/example%20file.png'. Увімкніть це налаштування для кращої сумісності з іншими Markdown-рушіями, або вимкніть для кращої читабельності.";
+"Check updates automatically" = "Перевіряти оновлення автоматично";
+"Skip This Version" = "Пропустити цю версію";
+"Remind Me Later" = "Нагадати пізніше";
+"Download Update" = "Завантажити оновлення";
+"New version available." = "Доступна нова версія.";
+
+"When copy / export as HTML (without style)" = "При копіюванні/експорті як HTML (без стилів)";
+"Use Rendered SVG" = "Використовувати згенерований SVG";
+"Use LaTeX Source" = "Використовувати LaTeX-джерело";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Діє при експортуванні як HTML (без стилів) або копіюванні як HTML-код, або копіюванні без стилю теми.<br/>Коли вибрано <strong>Використовувати LaTeX-джерело</strong>, Typora вставить оригінальне LaTeX-джерело (наприклад: $X^2$),<br/>Коли вибрано <strong>Використовувати згенерований SVG</strong>, буде використано згенерований SVG. При вставці в інший застосунок SVG може виявитися проігнорованим.</div>";

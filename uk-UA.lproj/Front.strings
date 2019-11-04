@@ -1,0 +1,170 @@
+/* 
+  Front.strings
+  Typora
+
+ by dying.escape@gmail.com
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Скасувати";
+"Yes" = "Так";
+"No" = "Ні";
+"Close" = "Закрити";
+"Select" = "Виділити";
+"Continue" = "Продовжити";
+"Learn More…" = "Дізнатися більше…";
+"Untitled" = "Без назви";
+"Undo" = "Відмінити";
+"Dismiss" = "Відхилити";
+"Confirm" = "Підтвердити";
+"Error" = "Помилка";
+
+/* Search Panel */
+"Search" = "Пошук";
+"Replace" = "Заміна";
+"All" = "Усе";
+"Search text not found in article" = "Шуканий фрагмент у тексті не знайдений";
+"search text" = "шуканий текст";
+
+/* Quick Open */
+"Search by file name" = "Шукати за іменем файлу";
+"Searching" = "Йде пошук";
+"Gathering more results" = "Збір результатів триває";
+
+/* Tables */
+"Insert Table" = "Вставити таблицю";
+"Columns" = "Стовпці";
+"Rows" = "Рядки";
+"Align Left" = "Вирівняти за лівим краєм";
+"Align Center" = "Вирівняти по центру";
+"Align Right" = "Вирівняти за правим краєм";
+"Resize Table" = "Змінити розмір таблиці";
+"Delete Table" = "Видалити таблицю";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora намагається скопіювати свіжовставлене зображення у директорію <code id='image-create-folder-target'></code> відповідно до вашого налаштування YAML Front Matter або глобальних налаштувань, але цільва директорія не існує. Створити її зараз?";
+"Create Folder" = "Створити директорію";
+
+/* Math */
+"Edit" = "Редагування";
+"Delete Math" = "Видалити математику";
+"Preview" = "Попередній перегляд";
+
+/* Sidebar */
+"Articles" = "Статті";
+"Outline" = "Структура";
+"Files" = "Файли";
+"Switch to File List view" = "Перемкнутися на Список файлів";
+"Switch to File Tree view" = "Перемкнутися на Дерево файлів";
+"Switch to Outline view" = "Перемкнутися на Структуру";
+"Close sidebar" = "Закрити бічну панель";
+"Loading" = "Завантаження";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Вибрані директорії містять забагато файлів. \nБудь ласка, перемкніться на <a id='switch-to-tree-on-oversize'>Дерево файлів</a> для кращої продуктивності.";
+"New File" = "Новий файл";
+"Unpin Outline Panel" = "Відкріпити панель структури";
+"Open Folder..." = "Відкрити директорію...";
+"Action" = "Дія";
+"Close Sidebar Menu" = "Закрити меню бічної панелі";
+"Reveal in Finder" = "Виявити у Finder";
+"Reveal in File Explorer" = "Виявити у File Explorer";
+"Refresh Folder" = "Оновити директорію";
+"Sort" = "Сортування";
+"Group By Folder" = "Групувати за директорією";
+"Sort Naturally" = "Сортувати натурально";
+"Sort by Name (Ascending)" = "Сортувати за ім’ям (за зростанням)";
+"Sort by Modification Date (Ascending)" = "Сортувати за датою останньої зміни (за зростанням)";
+"Sort by Name (Descending)" = "Сортувати за ім’ям (за спаданням)";
+"Sort by Modification Date (Descending)" = "Сортувати за датою останньої зміни (за спаданням)";
+"Location" = "Розташування";
+"Switch File List/Tree View" = "Перемкнути Список/Дерево файлів";
+"No Files Available" = "Файлів немає";
+"No Folder is Opened." = "Жодна директорія не відкрита.";
+"Outline is Empty." = "Структура пуста.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Перемкнути бічну панель";
+"Toggle Source Code Mode" = "Увімкнути режим джерельного коду";
+"Exit Source Code Mode" = "Вийти з режиму джерельного коду";
+
+"Table of Contents" = "Зміст";
+"Empty Diagram" = "Порожній графік";
+"Input Math TeX here" = "Введіть формулу TeX тут";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Потрібно визначити виноску <b>{0}</b> синтаксимом <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Потрібно визначити посилання <b>[{0}]</b> синтаксисом <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Будь ласка, задайте посилання на зображення як \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Не вдалося створити файл";
+"Failed to create folder" = "Не вдалося створити директорію";
+"Failed to rename file" = "Не вдалося перейменувати файл";
+"Folder does not exist at %@" = "Директорія не існує у %@";
+"File with the same name already exists at target path" = "Файл з таким іменем уже існує за цільовою адресою";
+"Apply to All" = "Застосувати до всіх";
+"Overwrite" = "Переписати";
+"Stop" = "Зупинитися";
+"back to document" = "назад до документу";
+"Failed to load file" = "Не вдалося завантажити файл";
+"Save File Failed!" = "Зберегти файл не вдалося!";
+"Cannot open folder {0}" = "Не можу відкрити директорію {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Вміст файлу був змінений зовнішнім застосунком. Перезавантажити вміст з диску?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Продовжити переміщення і перезаписати наявний файл(и)?";
+
+"Rename to \"{0}\" ?" = "Перейменувати як \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Не вдалося перейменувати файл із \"{0}\" на \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Успішно завантажено {0} зображень.";
+"Failed to upload image. Error Message:" = "Не вдалося завантажити зображення. Повідомлення про помилку:";
+"Failed to Copy Image to Target Folder." = "Не вдалося скопіювати зображення до цільової директорії.";
+"Select Container Folder" = "Виберіть директорію-контейнер";
+
+"Saved" = "Збережено";
+
+/* place holder in find & replace input */
+"search text" = "шуканий текст";
+"replace with" = "замінити на";
+/* search option */
+"Case Sensitive" = "З урахуванням регістру";
+"Whole Word" = "Ціле слово";
+
+"input image URL" = "введіть URL зображення";
+"Select image from local file" = "Виберіть зображення з локального файлу";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не можу відкрити розташування <code>$1</code>, ви маєте на увазі <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "виберіть мову";
+"Finish Editing" = "Завершити редагування";
+
+"Revert advanced setting file to default one ?" = "Повернути файл розширених налаштувань за замовчуванням?";
+
+"Select Spell Check Language" = "Виберіть мову перевірки орфографії";
+"Auto Detect Language" = "Визначати мову автоматично";
+"Disable Spell Check" = "Вимкнути перевірку орфографії";
+"Global Setting…" = "Глобальні налаштування…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Файл словника відсутній, тому неможливо увімкнути підтримку перевірки орфографії для %@.";
+"Install Language Support" = "Встановити підтримку мови";
+"License Information" = "Інформація про ліцензію";
+"Download" = "Завантажити";
+"Install dictionary file only for Typora" = "Встановити файл словника тільки для Typora";
+"Spell Check (%@ unavailable)" = "Перевірка орфографії (%@ недоступна)";
+"Spell Check (%@ downloading)" = "Перевірка орфографії (%@ завантажується)";
+"Download dictionary file for %@" = "Завантажити файл словника для %@";
+"(Default spell check option)" = "(Опція перевірки орфографії за замовчуванням)";
+"Failed to load spellcheck module" = "Не вдалося завантажити модуль перевірки орфографії";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> було увімкнено.";
+"You could turn it off from `View` menu." = "Ви можете вимкнути її з меню `Вигляд`.";
+"The file is too large to render in Typora." = "Файл занадто великий для відображення у Typora.";
+"Open in…" = "Відкрити у…";
+"Quick Look" = "Швидкий перегляд";
+
+"Filter" = "Фільтр";
+"No result found." = "Результатів не знайдено.";
+"Continue & overwrite" = "Продовжити і перезаписати";
+"The file is read-only, or you do not have right permissions to modify the file." = "Файл доступний тільки для читання, або ж ви не маєте прав для його зміни.";
+
+"Learn Data Recovery" = "Дізнатися про відновлення даних";
+"Auto refresh on Files Panel cannot be enabled." = "Автоматичне оновлення на Панелі файлів неможливо увімкнути.";
+"Delete Permanently" = "Видалити остаточно";

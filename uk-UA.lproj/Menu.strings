@@ -1,0 +1,294 @@
+/* 
+  Menu.strings
+  Typora
+
+ by dying.escape@gmail.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Про Typora";
+"Preferences" = "Параметри";
+"Check for Updates" = "Перевіряти наявність оновлень";
+"Services" = "Сервіси";
+"Hide Typora" = "Сховати Typora";
+"Hide Others" = "Сховати інші";
+"Show All" = "Показати всі";
+"Quit Typora" = "Завершити Typora";
+
+/* File Menu */
+
+"File" = "Файл";
+"New" = "Новий";
+"Open" = "Відкрити";
+"Open Folder" = "Відкрити директорію";
+"Reopen with Encoding" = "Перевідкрити з кодуванням";
+"Auto" = "Автоматично";
+"Open Recent" = "Відкрити останнє";
+"Recent Locations" = "Відкрити місця";
+"Clear Items" = "Очистити";
+"No Recent Files" = "Останніх файлів немає";
+"Open Quickly" = "Відкрити швидко";
+"Open File Location" = "Відкрити розташування файлу";
+"Reveal in Library" = "Виявити у бібліотеці";
+"Reveal in File Tree" = "Виявити у дереві файлів";
+"Close" = "Закрити";
+"Save" = "Зберегти";
+"Save As" = "Зберегти як";
+"Duplicate" = "Дублювати";
+"Rename" = "Перейменувати";
+"Move To" = "Перемістити до";
+"Revert To" = "Повернути до";
+"Browse All Versions" = "Переглянути усі версії";
+"Import" = "Імпортувати";
+"Export" = "Експортувати";
+"Page Setup" = "Налаштування сторінки";
+"Print" = "Друк";
+
+/* Edit Menu */
+"Edit" = "Редагування";
+"Undo" = "Відмінити";
+"Redo" = "Повторити";
+"Cut" = "Вирізати";
+"Copy" = "Скопіювати";
+"Paste" = "Вставити";
+"Copy as Markdown" = "Скопіювати як Markdown";
+"Copy as HTML Code" = "Скопіювати як HTML-код";
+"Paste as Plain Text" = "Вставити як звичайний текст";
+"Select All" = "Виділити все";
+"Select Line/Sentence" = "Виділити рядок/речення";
+"Select Styled Scope" = "Виділити діапазон із цим стилем";
+"Select Word" = "Виділити слово";
+"Delete" = "Видалити";
+"Delete Range" = "Видалити діапазон";
+"Delete Word" = "Видалити слово";
+"Delete Styled Scope" = "Видалити діапазон із цим стилем";
+"Delete Line/Sentence" = "Видалити рядок/речення";
+"Jump To" = "Перейти до";
+"Jump to Top" = "Перейти нагору";
+"Jump to Selection" = "Перейти до виділеного";
+"Jump to Bottom" = "Перейти донизу";
+"Math Tools" = "Інструменти математики";
+"Refresh All Math Expressions" = "Оновити усі математичні вирази";
+"Image Tools" = "Інструменти зображень";
+"Insert Local Images" = "Вставити локальні зображення";
+"Upload Local Images via iPic" = "Завантажити локальні зображення через iPic";
+"When Insert Local Image" = "При вставці локального зображення";
+"Copy Image File to Folder" = "Скопіювати файл зображення до директорії";
+"Upload Image via iPic" = "Завантажити зображення через iPic";
+"Use Image Root Path" = "Використати кореневий шлях до зображення";
+"Line Endings" = "Кінець рядка";
+"Windows Line Endings (CRLF)" = "Як у Windows (CRLF)";
+"Unix Line Endings (LF)" = "Як у Unix (LF)";
+"Find" = "Пошук";
+"Find Next" = "Знайти наступний";
+"Find Previous" = "Знайти попередній";
+"Find and Replace" = "Знайти і замінити";
+"Replace" = "Заміна";
+"Replace Next" = "Замінити наступний";
+"Spelling and Grammar" = "Правопис і граматика";
+"Check Document Now" = "Перевірити документ зараз";
+"Check Spelling While Typing" = "Перевіряти правопис під час введення";
+"Check Grammar With Spelling" = "Перевіряти граматику із правописом";
+"Correct Spelling Automatically" = "Автоматично виправляти правопис";
+"Substitutions" = "Підстановки";
+"Smart Quotes" = "Розумні лапки";
+"Smart Dashes" = "Розумні тире";
+"Text Replacement" = "Замінення тексту";
+"Speech" = "Читання вголос";
+"Start Speaking" = "Розпочати читання";
+"Stop Speaking" = "Зупинити читання";
+
+/* Paragraph Menu */
+"Paragraph" = "Абзац";
+"Heading 1" = "Заголовок 1";
+"Heading 2" = "Заголовок 2";
+"Heading 3" = "Заголовок 3";
+"Heading 4" = "Заголовок 4";
+"Heading 5" = "Заголовок 5";
+"Heading 6" = "Заголовок 6";
+"Increase Heading Level" = "Збільшити рівень заголовка";
+"Decrease Heading Level" = "Зменшити рівень заголовка";
+"Table" = "Таблиця";
+"Code Fences" = "Блок коду";
+"Math Block" = "Блок математики";
+"Quote" = "Цитата";
+"Ordered List" = "Нумерований список";
+"Unordered List" = "Маркований список";
+"Task List" = "Список завдань";
+"Task Status" = "Статус завдання";
+"Toggle Task Status" = "Перемкнути статус завдання";
+"Mark as Complete" = "Позначити як виконане";
+"Mark as Incomplete" = "Позначити як невиконане";
+"List Indentation" = "Відступ у списку";
+"Indent" = "Збільшити";
+"Outdent" = "Зменшити";
+"Link Reference" = "Посилання";
+"Footnotes" = "Виноски";
+"Horizontal Line" = "Горизонтальна лінія";
+"Table of Contents" = "Зміст";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Формат";
+"Strong" = "Напівжирний";
+"Emphasis" = "Курсив";
+"Underline" = "Підкреслення";
+"Code" = "Код";
+"Inline Math" = "Математика в рядку";
+"Strike" = "Перекреслення";
+"Highlight" = "Виділення";
+"Superscript" = "Надрядковий текст";
+"Subscript" = "Підрядковий текст";
+"Comment" = "Коментар";
+"Hyperlink" = "Гіперпосилання";
+"Image" = "Зображення";
+"Clear Format" = "Очистити формат";
+
+/* View Menu */
+"View" = "Вигляд";
+"New Tab" = "Нова вкладка";
+"Source Code Mode" = "Режим джерельного коду";
+"Focus Mode" = "Режим фокусу";
+"Typewriter Mode" = "Режим друкарської машинки";
+"Toggle Sidebar" = "Перемкнути бічну панель";
+"Outline" = "Структура";
+"Articles" = "Статті";
+"File Tree" = "Дерево файлів";
+"Always on Top" = "Завжди нагорі";
+"Full Screen" = "Повноекранний режим";
+"Show Status Bar" = "Показати рядок стану";
+"Toggle Fullscreen" = "Перемкнути повноекранний режим";
+"Actual Size" = "Актуальний розмір";
+"Zoom In" = "Збільшити";
+"Zoom Out" = "Зменшити";
+"Switch Between Opened Documents" = "Перемкнутися між відкритими документами";
+"Toggle DevTools" = "Перемкнути інструменти розробника";
+
+
+/* Themes Menu */
+"Themes" = "Теми";
+
+/* Window Menu */
+"Window" = "Вікно";
+"Minimize" = "Згорнути";
+"Zoom" = "Оптимізувати";
+"Bring All to Front" = "Усі наперед";
+
+/* Help Menu */
+"Help" = "Довідка";
+"Privacy Policy" = "Політика конфіденційності";
+"Credits" = "Подяки";
+"Change Log" = "Лог змін";
+"Website" = "Вебсайт";
+"Feedback" = "Відгук";
+"About" = "Про";
+
+/* Touchbar */
+"Block Styles" = "Блокові стилі";
+"Inline Styles" = "Рядкові стилі";
+"List Styles / Remove Block" = "Стилі списків / Видалення блоку";
+"Exit Source Code Mode" = "Вийти з режиму джерельного коду";
+"Toggle Source Code Mode" = "Увімкнути режим джерельного коду";
+
+/* Extra Context Menu */
+"Table" = "Таблиця";
+"Add Row Above" = "Додати рядок вище";
+"Add Row Below" = "Додати рядок нижче";
+"Delete Row" = "Видалити рядок";
+"Add Column Before" = "Додати стовпець ліворуч";
+"Add Column After" = "Додати стовпець праворуч";
+"Delete Column" = "Видалити стовпець";
+"Copy Table" = "Скопіювати таблицю";
+"Delete Table" = "Видалити таблицю";
+"Insert Paragraph After" = "Вставити абзац нижче";
+"Insert Paragraph Before" = "Вставити абзац вище";
+"Delete Code Block" = "Видалити блок коду";
+"Copy as MathML" = "Скопіювати як MathML";
+"Copy as Tex" = "Скопіювати як Tex";
+"Copy Math" = "Скопіювати математику";
+"Reveal in Finder" = "Виявити у Finder";
+"Open Link" = "Відкрити посилання";
+"Reveal in Sidebar" = "Виявити у бічній панелі";
+"Open in New Window" = "Відкрити у новому вікні";
+"Copy File Path" = "Скопіювати шлях до файлу";
+"New File" = "Новий файл";
+"Rename" = "Перейменувати";
+"New Folder" = "Нова директорія";
+"Move to Trash" = "Перемістити до смітника";
+
+/* Electron */
+"Learn Spelling" = "Вивчити правопис";
+"Copy / Paste As…" = "Скопіювати/вставити як…";
+"Math" = "Математика";
+"Insert" = "Вставити";
+"Inspect Element" = "Перевірити елемент";
+"Copy to MS Word" = "Скопіювати у MS Word";
+"Paragraph (before)" = "Абзац (вище)";
+"Paragraph (after)" = "Абзац (нижче)";
+
+"Search with Google" = "Шукати за допомогою Google";
+"Search With…" = "Шукати за допомогою…";
+
+/* Related Panel */
+"Open Failed" = "Помилка при відкритті";
+"File or folder does not exist." = "Файл або директорія не існує.";
+
+"Prettify Source Code" = "Прикрасити джерельний код";
+"Copy '%@'" = "Скопіювати '%@'";
+"Copy to %@" = "Скопіювати у %@";
+"Copy Image to…" = "Скопіювати зображення у…";
+"Upload via iPic" = "Завантажити через iPic";
+"Open Image Location" = "Відкрити розташування зображення";
+
+"Learn More" = "Дізнатися більше";
+"Whitespace and Line Breaks" = "Пробіл і розриви рядка";
+"Indent first line of paragraphs" = "Відступ у першому рядку абзацу";
+"Preserve single line break" = "Зберігати одинарний розрив рядка";
+"Visible <br/>" = "Видимий <br/>";
+
+"Save All" = "Зберегти усі";
+"New Window" = "Нове вікно";
+"Reopen Closed File" = "Перевідкрити закритий файл";
+
+"Global Image Settings" = "Глобальні налаштування зображень";
+"Smart Punctuation" = "Розумна пунктуація";
+"Convert on Input" = "Конвертувати при вводі";
+"Convert on Rendering" = "Конвертувати при рендерингу";
+"Remap Unicode Punctuation on Parse" = "Перепризначити Unicode-пунктуацію при розборі";
+"More Options" = "Більше опцій";
+
+"HTML Block" = "Блок HTML";
+"Delete Block" = "Видалити блок";
+"Delete %@" = "Видалити %@";
+"Play" = "Грати";
+"Pause" = "Пауза";
+
+"Spell Check" = "Перевірка орфографії";
+"Unlearn Spelling" = "Забути правопис";
+"Properties" = "Властивості";
+
+"Search" = "Пошук";
+"Copy without Theme Styling" = "Скопіювати без стилю теми";
+"Recent Files" = "Останні файли";
+"File Results" = "Знайдені файли";
+
+"Insert Table" = "Вставити таблицю";
+"Insert Image" = "Вставити зображення";
+"Allow Magnification" = "Дозволити збільшення";
+
+"Move Row Up" = "Перемістити рядок вгору";
+"Move Row Down" = "Перемістити рядок вниз";
+"Move Column Left" = "Перемістити стовпець ліворуч";
+"Move Column Right" = "Перемістити стовпець праворуч";
+
+"Copy Image to…" = "Скопіювати зображення у…";
+"Zoom Image" = "Збільшити зображення";
+"Zoom Image to %@" = "Збільшити зображення до %@";
+
+"Copy as Plain Text" = "Скопіювати як звичайний текст";
+
+"Selection" = "Виділення";
+"Start Speaking" = "Розпочати читання";
+"Stop Speaking" = "Зупинити читання";
+"Check Updates" = "Перевірити наявність оновлень";

@@ -9,7 +9,7 @@
 
 "About Typora" = "Про Typora";
 "Preferences" = "Параметри";
-"Check for Updates" = "Перевіряти наявність оновлень";
+"Check for Updates" = "Перевірити наявність оновлень";
 "Services" = "Сервіси";
 "Hide Typora" = "Сховати Typora";
 "Hide Others" = "Сховати інші";
@@ -24,7 +24,7 @@
 "Open Folder" = "Відкрити директорію";
 "Reopen with Encoding" = "Перевідкрити з кодуванням";
 "Auto" = "Автоматично";
-"Open Recent" = "Відкрити останнє";
+"Open Recent" = "Відкрити останні";
 "Recent Locations" = "Відкрити місця";
 "Clear Items" = "Очистити";
 "No Recent Files" = "Останніх файлів немає";
@@ -38,7 +38,7 @@
 "Duplicate" = "Дублювати";
 "Rename" = "Перейменувати";
 "Move To" = "Перемістити до";
-"Revert To" = "Повернути до";
+"Revert To" = "Повернути";
 "Browse All Versions" = "Переглянути усі версії";
 "Import" = "Імпортувати";
 "Export" = "Експортувати";
@@ -68,7 +68,7 @@
 "Jump to Top" = "Перейти нагору";
 "Jump to Selection" = "Перейти до виділеного";
 "Jump to Bottom" = "Перейти донизу";
-"Math Tools" = "Інструменти математики";
+"Math Tools" = "Математичні інструменти";
 "Refresh All Math Expressions" = "Оновити усі математичні вирази";
 "Image Tools" = "Інструменти зображень";
 "Insert Local Images" = "Вставити локальні зображення";
@@ -77,7 +77,7 @@
 "Copy Image File to Folder" = "Скопіювати файл зображення до директорії";
 "Upload Image via iPic" = "Завантажити зображення через iPic";
 "Use Image Root Path" = "Використати кореневий шлях до зображення";
-"Line Endings" = "Кінець рядка";
+"Line Endings" = "Кінці рядків";
 "Windows Line Endings (CRLF)" = "Як у Windows (CRLF)";
 "Unix Line Endings (LF)" = "Як у Unix (LF)";
 "Find" = "Пошук";
@@ -111,7 +111,7 @@
 "Decrease Heading Level" = "Зменшити рівень заголовка";
 "Table" = "Таблиця";
 "Code Fences" = "Блок коду";
-"Math Block" = "Блок математики";
+"Math Block" = "Математичний блок";
 "Quote" = "Цитата";
 "Ordered List" = "Нумерований список";
 "Unordered List" = "Маркований список";
@@ -135,7 +135,7 @@
 "Emphasis" = "Курсив";
 "Underline" = "Підкреслення";
 "Code" = "Код";
-"Inline Math" = "Математика в рядку";
+"Inline Math" = "Математичний блок у рядку";
 "Strike" = "Перекреслення";
 "Highlight" = "Виділення";
 "Superscript" = "Надрядковий текст";
@@ -206,10 +206,10 @@
 "Delete Code Block" = "Видалити блок коду";
 "Copy as MathML" = "Скопіювати як MathML";
 "Copy as Tex" = "Скопіювати як Tex";
-"Copy Math" = "Скопіювати математику";
-"Reveal in Finder" = "Виявити у Finder";
+"Copy Math" = "Скопіювати математичний блок";
+"Reveal in Finder" = "Показати у Finder";
 "Open Link" = "Відкрити посилання";
-"Reveal in Sidebar" = "Виявити у бічній панелі";
+"Reveal in Sidebar" = "Показати у бічній панелі";
 "Open in New Window" = "Відкрити у новому вікні";
 "Copy File Path" = "Скопіювати шлях до файлу";
 "New File" = "Новий файл";
@@ -234,7 +234,7 @@
 "Open Failed" = "Помилка при відкритті";
 "File or folder does not exist." = "Файл або директорія не існує.";
 
-"Prettify Source Code" = "Прикрасити джерельний код";
+"Prettify Source Code" = "Покращити вигляд джерельного коду";
 "Copy '%@'" = "Скопіювати '%@'";
 "Copy to %@" = "Скопіювати у %@";
 "Copy Image to…" = "Скопіювати зображення у…";
@@ -254,8 +254,8 @@
 "Global Image Settings" = "Глобальні налаштування зображень";
 "Smart Punctuation" = "Розумна пунктуація";
 "Convert on Input" = "Конвертувати при вводі";
-"Convert on Rendering" = "Конвертувати при рендерингу";
-"Remap Unicode Punctuation on Parse" = "Перепризначити Unicode-пунктуацію при розборі";
+"Convert on Rendering" = "Конвертувати при показі";
+"Remap Unicode Punctuation on Parse" = "Перепризначити Unicode-пунктуацію під час парсингу";
 "More Options" = "Більше опцій";
 
 "HTML Block" = "Блок HTML";

@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "Показувати Панель структури за замовчуванням";
 "Collapsible Outline on Left Panel" = "Розкладна структура на Лівій панелі";
 "Save without asking when\nswitch files on side panel" = "Зберігати без перепитування, коли\nперемикаються файли на бічній панелі";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редаговані файли зберігатимуться без перепитування при перемиканні між файлами у лівій панелі. \nКоли у Системних параметрах увімкнено \"Питати, чи зберігати зміни, при закритті документів\", це налаштування завжди увімкнене.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редаговані файли зберігатимуться без перепитування при перемиканні між файлами на лівій панелі. \nКоли у Системних параметрах увімкнено \"Питати, чи зберігати зміни, при закритті документів\", це налаштування завжди увімкнене.";
 "Language" = "Мова";
 "System Language" = "Системна мова";
 
@@ -45,7 +45,7 @@
 "Live Rendering" = "Рендеринг наживо";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Показувати джерело для простих блоків\n(включно із заголовками тощо) під фокусом";
 "Default Copy Behavior" = "Стандартна поведінка при копіюванні";
-"Copy Markdown source as plain text" = "Копіювати Markdown-джерело як простий текст";
+"Copy Markdown source as plain text" = "Копіювати Markdown-джерело як звичайний текст";
 "Typewriter Mode" = "Режим друкарської машинки";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Завжди тримати курсор посередині екрану,\nколи увімкнений режим друкарської машинки";
 
@@ -53,22 +53,22 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Наступні параметри будуть застосовані після перезапуску застосунку.)";
 "Syntax Support" = "Підтримка синтаксису";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Вбудована математика ( наприклад: $\LaTeX$ )";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Формули в рядку ( наприклад: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Підрядковий текст ( наприклад: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Надрядковий текст ( наприклад: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Виділення     (наприклад: ==key==)";
 "Diagrams" = "Графіки";
 "(Sequence, Flowchart and Mermaid)" = "(Послідовностей, блок-схеми і Mermaid)";
 "Syntax Preference" = "Налаштування синтаксису";
-"(only applies to styles created from menubar or hybrid view)" = "(застосовується тільки до стилів, створених через рядок меню або гібридний вид)";
+"(only applies to styles created from menubar or hybrid view)" = "(застосовується тільки до стилів, створених через меню або гібридний вид)";
 "Strict Mode" = "Строгий режим";
-"(more strict to GFM spec)" = "(більш строгий до специфікації GFM)";
+"(more strict to GFM spec)" = "(більш строгий згідно зі специфікацією GFM)";
 "Heading Style" = "Стиль заголовків";
 "Unordered List" = "Маркований список";
 "Ordered List" = "Нумерований список";
 "Code Fences" = "Блоки коду";
 "Display line numbers for code fences" = "Показувати номери рядків у блоках коду";
-"Math Blocks" = "Блоки математики";
+"Math Blocks" = "Математичні блоки";
 "Auto Numbering Math Equations" = "Автонумерація математичних рівнянь";
 
 /* Security Panel */
@@ -84,18 +84,18 @@
 /* Pandoc Import Panel */
 "Importing..." = "Імпортую...";
 "Importing in progress..." = "Імпорт триває...";
-"Converting file with Pandoc. This may take some time." = "Перетворення файлу із Pandoc. Воно може вимагати часу.";
+"Converting file with Pandoc. This may take some time." = "Конвертую файл через Pandoc. Це може вимагати часу.";
 "Abort" = "Перервати";
 
 /* Pandoc Export Panel */
 "Exporting..." = "Екпортую...";
 "Exporting in progress..." = "Експорт триває...";
-"Converting file with Pandoc. This may take some time." = "Перетворення файлу із Pandoc. Воно може вимагати часу.";
+"Converting file with Pandoc. This may take some time." = "Конвертую файл через Pandoc. Це може вимагати часу.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Для імпорту цих форматів потрібен Pandoc";
+"Pandoc is needed for importing these file formats" = "Для імпорту цих форматів файлів потрібен Pandoc";
 "Check help->Install and use Pandoc from menubar for detail" = "Дізнайтесь більше через меню Довідка->Встановлення й використання Pandoc";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Функції імпорту й деякі функції експорту потребують встановлення <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Функції імпорту і деякі функції експорту потребують встановлення <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
 "Follow Instructions to Install/Update Pandoc" = "Дотримуйтесь інструкцій для встановлення/оновлення Pandoc";
 "Export Failed" = "Експорт провалився";
 "Import Failed" = "Імпорт провалився";
@@ -110,8 +110,8 @@
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Вибачте, чинна версія Typora не друкує колір тла в експортованому PDF, тож темна тема при експорті PDF поки не підтримується. \nБудь ласка, виберіть світлу тему або натисніть \"Друкувати з темою за замовчуванням\"";
 "Print with default theme" = "Друкувати з темою за замовчуванням";
 "Export to PDF successfully." = "Експорт у PDF успішний.";
-"Converting file using Pandoc. This may take some time." = "Перетворення файлу з використанням Pandoc. Воно може вимагати часу.";
-"Exporting file using Pandoc. This may take some time." = "Експортування файлу з використанням Pandoc. Воно може вимагати часу.";
+"Converting file using Pandoc. This may take some time." = "Конвертую файл з використанням Pandoc. Це може вимагати часу.";
+"Exporting file using Pandoc. This may take some time." = "Експортую файл з використанням Pandoc. Це може вимагати часу.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Завантаження зображень через iPic...";
@@ -128,7 +128,7 @@
 "Lines" = "Рядки";
 "Words" = "Слова";
 "Characters" = "Символи";
-"In Selection" = "У вибраному";
+"In Selection" = "У виділеному";
 "Panel" = "Панель";
 
 /* Windows Prefernce Panel*/
@@ -153,7 +153,7 @@
 "Developer" = "Розробник";
 "Update" = "Оновлення";
 "Check Updates" = "Перевірити наявність оновлень";
-"Check updates automatically" = "Перевіряти оновлення автоматично";
+"Check updates automatically" = "Перевіряти наявність оновлень автоматично";
 "Advanced Settings" = "Розширені налаштування";
 "Open Advanced Settings" = "Відкрити розширені налаштування";
 "Reset Advanced Settings" = "Скинути розширені налаштування";
@@ -182,7 +182,7 @@
 "Support Documentation" = "Супровідна документація";
 
 "Markdown File" = "Файл Markdown";
-"Plain Text File" = "Простий текстовий файл";
+"Plain Text File" = "Звичайний текстовий файл";
 "All Files" = "Усі файли";
 "All Supported Formats" = "Усі підтримувані формати";
 "Discard Changes" = "Відкинути зміни";
@@ -214,7 +214,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Вибачте, чинна версія Typora не друкуватиме колір тла.\nТож Темна тема для друку поки не доступна.\n\nБудь ласка, виберіть світлу тему або експортуйте цей документ у PDF.";
 "Export to PDF" = "Експортувати у PDF";
-"Pretty indentation" = "Красивий відступ";
+"Pretty indentation" = "Красиві відступи";
 "Update markdown reference for this image" = "Оновити markdown-посилання на це зображення";
 
 "No special action" = "Жодної спеціальної дії";
@@ -245,14 +245,14 @@
 
 "Ignore" = "Ігнорувати";
 "Choose Default Folder" = "Вибрати директорію за замовчуванням";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертувати при вводі</strong>: Введені тире або лапки ASCII будуть перетворені й збережені як фігурні лапки або unicode-тире.<br/><strong>Конвертувати при рендерингу</strong>: Введені й збережені ASCII тире й лапки будуть показані як фігурні лапки або unicode-тире.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Розпізнавати unicode-пунктуацію як ASCII при читанні markdown, наприклад:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Це налаштування увімкнеться автоматично, якщо озумні лапки/тире будуть конвертуватися при вводі.<div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертувати при вводі</strong>: Введені тире або лапки ASCII будуть перетворені й збережені як фігурні лапки або unicode-тире.<br/><strong>Конвертувати при показі</strong>: Введені й збережені ASCII тире й лапки будуть показані як фігурні лапки або unicode-тире.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Розпізнавати unicode-пунктуацію як ASCII при читанні markdown, наприклад:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Це налаштування увімкнеться автоматично, якщо розумні лапки/тире будуть конвертуватися при вводі.<div>";
 
 "Copy image to custom folder" = "Скопіювати зображення до власної директорії";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Будь ласка, вкажіть відносний шлях до чинної директорії, який починається з './' або '../', або ж абсолютний шлях до директорії. (`${filename}` репрезентує ім’я чинного файлу.)";
 "Restore to previous setting" = "Відкотитися до попереднього налаштування";
 "Folder not exist at %@, please input another path." = "Директорія %@ не існує; будь ласка, введіть інший шлях.";
-"Please input a folder path." = "Будь ласка, ввежіть шлях до директорії.";
+"Please input a folder path." = "Будь ласка, введіть шлях до директорії.";
 "Cannot use root path." = "Неможливо використати кореневий шлях.";
 
 "Get Themes" = "Отримати теми";
@@ -280,7 +280,7 @@
 "Typewriter / Focus Mode have been turned off." = "Режим друкарської машинки/фокусу вимкнений.";
 
 "Reading Speed" = "Швидкість читання";
-"Auto" = "Авто";
+"Auto" = "Автоматична";
 "words / min" = "слів/хв.";
 
 "Reset to Default" = "Скинути до замовчування";
@@ -299,10 +299,10 @@
 "Check Update Failed" = "Помилка перевірки оновлень";
 "You are update to date!" = "Маєте найновішу версію!";
 "Latest version is $1, your version is $2" = "Найновіша версія — $1; ваша версія — $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ці налаштування також можна змінити у меню \"Редагувати → Пробіли і Розриви рядка\" ";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ці налаштування також можна змінити у меню \"Редагування → Пробіл і розриви рядка\" ";
 "Auto escape image URL when insert" = "Автоматично виправляти URL зображення при вставці";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Наприклад, якщо ви вставляєте файл як 'img/example file.png', посилання перетвориться на 'img/example%20file.png'. Увімкніть це налаштування для кращої сумісності з іншими Markdown-рушіями, або вимкніть для кращої читабельності.";
-"Check updates automatically" = "Перевіряти оновлення автоматично";
+"Check updates automatically" = "Перевіряти наявність оновлень автоматично";
 "Skip This Version" = "Пропустити цю версію";
 "Remind Me Later" = "Нагадати пізніше";
 "Download Update" = "Завантажити оновлення";
@@ -311,4 +311,4 @@
 "When copy / export as HTML (without style)" = "При копіюванні/експорті як HTML (без стилів)";
 "Use Rendered SVG" = "Використовувати згенерований SVG";
 "Use LaTeX Source" = "Використовувати LaTeX-джерело";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Діє при експортуванні як HTML (без стилів) або копіюванні як HTML-код, або копіюванні без стилю теми.<br/>Коли вибрано <strong>Використовувати LaTeX-джерело</strong>, Typora вставить оригінальне LaTeX-джерело (наприклад: $X^2$),<br/>Коли вибрано <strong>Використовувати згенерований SVG</strong>, буде використано згенерований SVG. При вставці в інший застосунок SVG може виявитися проігнорованим.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Діє при експортуванні як HTML (без стилів) або копіюванні як HTML-код, або копіюванні без стилю теми.<br/>Коли вибрано <strong>Використовувати LaTeX-джерело</strong>, Typora вставить оригінальне LaTeX-джерело (наприклад: $X^2$),<br/>Коли вибрано <strong>Використовувати згенерований SVG</strong>, буде використано згенерований SVG, але слід пам'ятати, що при вставці в інший застосунок SVG може виявитися проігнорованим.</div>";

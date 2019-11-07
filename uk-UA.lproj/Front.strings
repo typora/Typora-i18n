@@ -23,7 +23,7 @@
 /* Search Panel */
 "Search" = "Пошук";
 "Replace" = "Заміна";
-"All" = "Усе";
+"All" = "Усі";
 "Search text not found in article" = "Шуканий фрагмент у тексті не знайдений";
 "search text" = "шуканий текст";
 
@@ -48,7 +48,7 @@
 
 /* Math */
 "Edit" = "Редагування";
-"Delete Math" = "Видалити математику";
+"Delete Math" = "Видалити математичний блок";
 "Preview" = "Попередній перегляд";
 
 /* Sidebar */
@@ -66,12 +66,12 @@
 "Open Folder..." = "Відкрити директорію...";
 "Action" = "Дія";
 "Close Sidebar Menu" = "Закрити меню бічної панелі";
-"Reveal in Finder" = "Виявити у Finder";
-"Reveal in File Explorer" = "Виявити у File Explorer";
+"Reveal in Finder" = "Показати у Finder";
+"Reveal in File Explorer" = "Показати у File Explorer";
 "Refresh Folder" = "Оновити директорію";
 "Sort" = "Сортування";
 "Group By Folder" = "Групувати за директорією";
-"Sort Naturally" = "Сортувати натурально";
+"Sort Naturally" = "Сортувати звичайно";
 "Sort by Name (Ascending)" = "Сортувати за ім’ям (за зростанням)";
 "Sort by Modification Date (Ascending)" = "Сортувати за датою останньої зміни (за зростанням)";
 "Sort by Name (Descending)" = "Сортувати за ім’ям (за спаданням)";
@@ -132,7 +132,7 @@
 
 "input image URL" = "введіть URL зображення";
 "Select image from local file" = "Виберіть зображення з локального файлу";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не можу відкрити розташування <code>$1</code>, ви маєте на увазі <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не можу відкрити розташування <code>$1</code>; можливо, ви мали на увазі <a href='https://$3'>https://$2</a> ?";
 
 "select a language" = "виберіть мову";
 "Finish Editing" = "Завершити редагування";
@@ -155,7 +155,7 @@
 "Failed to load spellcheck module" = "Не вдалося завантажити модуль перевірки орфографії";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> було увімкнено.";
-"You could turn it off from `View` menu." = "Ви можете вимкнути її з меню `Вигляд`.";
+"You could turn it off from `View` menu." = "Ви можете вимкнути її через меню `Вигляд`.";
 "The file is too large to render in Typora." = "Файл занадто великий для відображення у Typora.";
 "Open in…" = "Відкрити у…";
 "Quick Look" = "Швидкий перегляд";
@@ -166,5 +166,5 @@
 "The file is read-only, or you do not have right permissions to modify the file." = "Файл доступний тільки для читання, або ж ви не маєте прав для його зміни.";
 
 "Learn Data Recovery" = "Дізнатися про відновлення даних";
-"Auto refresh on Files Panel cannot be enabled." = "Автоматичне оновлення на Панелі файлів неможливо увімкнути.";
+"Auto refresh on Files Panel cannot be enabled." = "Автоматичне оновлення на Панелі файлів увімкнути неможливо.";
 "Delete Permanently" = "Видалити остаточно";

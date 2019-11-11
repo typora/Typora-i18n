@@ -147,7 +147,7 @@
 
 /* View Menu */
 "View" = "显示";
-"New Tab" = "新建标签";
+"New Tab" = "新建标签页";
 "Source Code Mode" = "源代码模式";
 "Focus Mode" = "专注模式";
 "Typewriter Mode" = "打字机模式";

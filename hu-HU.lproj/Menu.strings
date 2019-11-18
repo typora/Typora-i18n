@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Programkód csinosítása";
 "Copy '%@'" = "'%@' másolása";
 "Copy to %@" = "Másolás ide %@";
-"Copy Image to…" = "Kép másolása ide...";
+"Copy Image to" = "Kép másolása ide";
 "Upload via iPic" = "Feltöltés iPic-kel";
 "Open Image Location" = "Kép helyének megnyitása";
 
@@ -277,5 +277,3 @@
 
 "Insert Table" = "Táblázat beszúrása";
 "Insert Image" = "Insert Image";
-
-"Copy Image to…" = "Kép másolása ide...";

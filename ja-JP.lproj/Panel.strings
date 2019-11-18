@@ -209,7 +209,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='https://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 

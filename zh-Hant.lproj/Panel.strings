@@ -203,7 +203,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要<a class='open-pandoc-guide'>先安裝 Pandoc </a>才能匯出「更多格式」中所列的檔案格式。";
 "Something is Wrong…" = "出錯了...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個 Typora 視窗再儲存它。<br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>回報問題給我們</a></li><li><a href='http://support.typora.io/Version-Control//'>恢復遺失的內容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個 Typora 視窗再儲存它。<br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>回報問題給我們</a></li><li><a href='https://support.typora.io/Version-Control//'>恢復遺失的內容</a></li></ul>";
 "Copy Content" = "複製內容";
 
 

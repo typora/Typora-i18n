@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Prettify Source Code";
 "Copy '%@'" = "Copy '%@'";
 "Copy to %@" = "Copy to %@";
-"Copy Image to…" = "Copy Image to…";
+"Copy Image to" = "Copy Image to";
 "Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Image Location";
 
@@ -282,7 +282,6 @@
 "Move Column Left" = "Move Column Left";
 "Move Column Right" = "Move Column Right";
 
-"Copy Image to…" = "Copy Image to…";
 "Zoom Image" = "Zoom Image";
 "Zoom Image to %@" = "Zoom Image to %@";
 

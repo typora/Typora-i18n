@@ -241,7 +241,7 @@
 "Prettify Source Code" = "Percantik Source Code";
 "Copy '%@'" = "Salin '%@'";
 "Copy to %@" = "Salin ke %@";
-"Copy Image to…" = "Salin gambar ke...";
+"Copy Image to" = "Salin gambar ke";
 "Upload via iPic" = "Unggah melalui iPic";
 "Open Image Location" = "Buka Lokasi Gambar";
 
@@ -279,5 +279,3 @@
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Insert Image";
-
-"Copy Image to…" = "Salin Gambar ke...";

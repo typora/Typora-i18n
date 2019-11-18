@@ -238,7 +238,7 @@
 "Prettify Source Code" = "Gør kildekode pæn";
 "Copy '%@'" = "Kopier '%@'";
 "Copy to %@" = "Kopier til %@";
-"Copy Image to..." = "Kopier billede til...";
+"Copy Image to" = "Kopier billede til";
 "Upload via iPic" = "Upload vha. iPic";
 "Open Image Location" = "Åben billedeplacering";
 
@@ -283,7 +283,6 @@
 "Move Column Left" = "Flyt kolonne til venstre";
 "Move Column Right" = "Flyt kolonne til højre";
 
-"Copy Image to…" = "Kopier billede til…";
 "Zoom Image" = "Forstør billede";
 "Zoom Image to %@" = "Forstør billede til %@";
 

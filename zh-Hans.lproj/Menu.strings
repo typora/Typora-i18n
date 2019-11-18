@@ -238,7 +238,7 @@
 "Prettify Source Code" = "格式化表格源码";
 "Copy '%@'" = "复制 '%@'";
 "Copy to %@" = "复制到 %@";
-"Copy Image to…" = "复制图片到…";
+"Copy Image to" = "复制图片到";
 "Upload via iPic" = "通过 iPic 上传图片";
 "Open Image Location" = "打开图片位置";
 
@@ -283,7 +283,6 @@
 "Move Column Left" = "左移该列";
 "Move Column Right" = "右移该列";
 
-"Copy Image to…" = "将图片复制到…";
 "Zoom Image" = "缩放图片";
 "Zoom Image to %@" = "缩放图片至 %@";
 

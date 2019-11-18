@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Приукрасить исходный код";
 "Copy '%@'" = "Скопировать '%@'";
 "Copy to %@" = "Скопировать в %@";
-"Copy Image to…" = "Скопировать изображение...";
+"Copy Image to" = "Скопировать изображение...";
 "Upload via iPic" = "Загрузить через iPic";
 "Open Image Location" = "Открыть папку изображения";
 
@@ -275,5 +275,3 @@
 
 "Insert Table" = "Вставить таблицу";
 "Insert Image" = "Insert Image";
-
-"Copy Image to…" = "Копировать изображение в…";

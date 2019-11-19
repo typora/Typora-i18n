@@ -281,7 +281,6 @@ Japanese translated by
 
 "Insert Table" = "表を挿入";
 "Insert Image" = "画像を挿入";
-<<<<<<< HEAD
 "Allow Magnification" = "ズームを許可する";
 
 "Move Row Up" = "行を上に移動";
@@ -289,7 +288,6 @@ Japanese translated by
 "Move Column Left" = "列を左に移動";
 "Move Column Right" = "列を右に移動";
 
-"Copy Image to…" = "指定の場所に画像をコピー…";
 "Zoom Image" = "画像を拡大";
 "Zoom Image to %@" = "画像を %@ にズーム";
 

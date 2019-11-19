@@ -209,7 +209,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='https://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告</a></li><li><a href='https://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 
@@ -218,7 +218,7 @@ Japanese translated by
 "Indent Size for Code" = "コードブロックのインデント";
 "Auto wrap long lines" = "長い行を折り返す";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "申し訳ありません。現在のバージョンのTyporaは背景色を印刷できないため、ダークテーマは印刷には対応していません。\n\nこのドキュメントをPDFに出力するには、ライトテーマを選択してください。。";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "申し訳ありません。現在のバージョンのTyporaは背景色を印刷できないため、ダークテーマは印刷には対応していません。\n\nこのドキュメントをPDFに出力するには、ライトテーマを選択してください。";
 "Export to PDF" = "PDFにエクスポート";
 "Pretty indentation" = "自動インデント";
 "Update markdown reference for this image" = "この画像に対するMarkdownリファレンスを更新する";
@@ -318,3 +318,6 @@ Japanese translated by
 "Use Rendered SVG" = "レンダリングにSVGを使用";
 "Use LaTeX Source" = "LaTeXのソースを使用";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "インポート機能といくつかのフォーマット形式によるエクスポートには、Pandoc (≥%@) のインストールが必要です。";
+"Do not show this message again" = "このメッセージを次回から表示しない";

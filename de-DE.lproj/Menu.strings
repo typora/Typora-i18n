@@ -4,6 +4,7 @@
 
  by hi@typora.io
  translated by Alexander Rink <typora@rcvd.io>
+               Indeximal <indeximal@gmail.com>
 */
 
 /* Typora Menu */
@@ -112,7 +113,7 @@
 "Decrease Heading Level" = "Überschriftenebene verringern";
 "Table" = "Tabelle";
 "Code Fences" = "Code Bereich";
-"Math Block" = "Mathe Formel Block";
+"Math Block" = "Formelblock";
 "Quote" = "Zitat";
 "Ordered List" = "Geordnete Liste";
 "Unordered List" = "Ungeordnete Liste";
@@ -172,9 +173,9 @@
 
 /* Window Menu */
 "Window" = "Fenster";
-"Minimize" = "Minimieren";
-"Zoom" = "Vergrößern";
-"Bring All to Front" = "Alle in den Vordergrund";
+"Minimize" = "Im Dock ablegen";
+"Zoom" = "Zoomen";
+"Bring All to Front" = "Alle nach vorne bringen";
 
 /* Help Menu */
 "Help" = "Hilfe";
@@ -220,7 +221,7 @@
 
 /* Electron */
 "Learn Spelling" = "Rechtschreibung lernen";
-"Copy / Paste As…" = "Kopieren / Einfügen als…";
+"Copy / Paste As…" = "Kopieren/Einfügen als…";
 "Math" = "Formel";
 "Insert" = "Einfügen";
 "Inspect Element" = "Element untersuchen";
@@ -236,10 +237,61 @@
 "File or folder does not exist." = "Datei oder Ordner existiert nicht.";
 
 "Prettify Source Code" = "Source Code verschönern";
+"Copy '%@'" = "'%@' kopieren";
+"Copy to %@" = "Nach %@ kopieren";
+"Copy Image to" = "Bild kopieren nach";
+"Upload via iPic" = "Hochladen via iPic";
+"Open Image Location" = "Bild-Speicherort öffnen";
+
+"Learn More" = "Mehr erfahren";
+"Whitespace and Line Breaks" = "Leerraum und Zeilenumbrüche";
+"Indent first line of paragraphs" = "Erste Zeile des Absatzes einrücken";
+"Preserve single line break" = "Einzelnen Zeilenumbruch bewahren";
+"Visible <br/>" = "Sichbare <br/>";
+
+"Save All" = "Alle speichern";
+"New Window" = "Neues Fenster";
+"Reopen Closed File" = "Zuletzt geschlossene Datei erneut öffnen";
+
+"Global Image Settings" = "Globale Bild-Einstellungen";
+"Smart Punctuation" = "Intelligente Zeichensetzung";
+"Convert on Input" = "Bei Eingabe umwandeln";
+"Convert on Rendering" = "Bei Darstellung umwandeln";
+"Remap Unicode Punctuation on Parse" = "Unicode-Zeichensetzung beim Parsen neu belegen";
+"More Options" = "Weitere Optionen";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Absatz löschen";
+"Delete %@" = "%@ löschen";
+"Play" = "Wiedergabe";
+"Pause" = "Pause";
+
+"Spell Check" = "Rechschreibekorrektur";
+"Unlearn Spelling" = "Reichtreibung vergessen";
+"Properties" = "Eigenschaften";
 
 "Search" = "Suchen";
+"Copy without Theme Styling" = "Ohne Themen-Stil kopieren";
+"Recent Files" = "Kürzliche Dateien";
+"File Results" = "Datei-Resultate";
 
 "Insert Table" = "Tabelle einfügen";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Bild einfügen";
+"Allow Magnification" = "Zoomen zulassen";
 
-"Copy Image to" = "Bild kopieren nach";
+"Move Row Up" = "Reihe nach oben verschieben";
+"Move Row Down" = "Reihe nach unten verschieben";
+"Move Column Left" = "Zeile nach links verschieben";
+"Move Column Right" = "Zeile nach rechts verschieben";
+
+"Zoom Image" = "Bild vergrössern";
+"Zoom Image to %@" = "Bild nach %@ vergrössern";
+
+"Copy as Plain Text" = "Als reinen Text kopieren";
+
+"Selection" = "Auswahl";
+"Start Speaking" = "Sprechen beginnen";
+"Stop Speaking" = "Sprechen stoppen";
+"Check Updates" = "Updates überprüfen";
+
+

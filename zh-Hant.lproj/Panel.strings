@@ -13,16 +13,16 @@
 "Window Style" = "視窗樣式";
 "Classic" = "經典";
 "Seamless" = "無縫";
-"Seamless window only support OS X later than 10.10." = "OS X 版本需高於 10.10 才支援無縫視窗";
+"Seamless window only support OS X later than 10.10." = "OS X 版本需比 10.10 還新才支援無縫視窗";
 "Themes" = "佈景主題";
-"Open Theme Folder" = "打開佈景主題資料夾";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "請查閱在 `說明`->`快速啟動` 裡的介紹。 造訪 http://theme.typora.io 取得更多佈景主題及介紹";
+"Open Theme Folder" = "開啟佈景主題資料夾";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "請查閱 `說明`->`快速啟動` 裡的介紹。造訪 http://theme.typora.io 取得更多佈景主題及介紹。";
 "Word Count" = "字數統計";
 "Always Show Word Count" = "總是顯示字數統計";
-"Font Size" = "字體大小";
-"Auto ( Recommended )" = "自動 (推薦使用)";
+"Font Size" = "字型大小";
+"Auto ( Recommended )" = "自動 (建議使用)";
 "Customized" = "自訂";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "若自行挑選字體大小，則實際字體大小將隨基礎字體大小及 CSS 樣式改變。";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "若自行挑選字型大小，則實際字型大小將隨基礎字型大小及 CSS 樣式改變。";
  "Left Panel" = "側邊欄";
 "Show Outline Panel by Default" = "預設顯示大綱欄";
 "Collapsible Outline on Left Panel" = "左側欄可允許收放";
@@ -36,7 +36,7 @@
 "Indent Size on Save" = "存檔時調整縮排";
 "only apply to quotes and lists created from menu bar or hybrid view" = "僅套用產生自選單或快捷鍵生成的引號及清單有效果";
 "Trigger Autocomplete without ESC key for" = "無需 ESC 鍵即觸發自動完成";
-"Emoji (e.g. :smile:)" = "Emoji 表情文字 (例如 :smile:)";
+"Emoji (e.g. :smile:)" = "顏文字 (例如 :smile:)";
 "Images Insert" = "插入圖片";
 "Use relative path if possible" = "優先使用相對路徑";
 "Auto Pair" = "自動配對";
@@ -45,18 +45,18 @@
 "Live Rendering" = "即時呈現";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "停留在區塊元素時顯示其原始碼\n (包含標題等區塊元素)";
 "Default Copy Behavior" = "預設複製行為";
-"Copy Markdown source as plain text" = "複製 Markdown 為純文字";
+"Copy Markdown source as plain text" = "複製 Markdown 成純文字";
 "Typewriter Mode" = "打字機模式";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "當打字機模式啟用時\n將游標保持在螢幕中央";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(下面的偏好設定會在重新啟動 Typora 後套用)";
-"Syntax Support" = "Markdown 擴展支援";
+"Syntax Support" = "Markdown 語法擴充支援";
 "Inline Math  ( e.g: $\LaTeX$ )" = "行內數學式  (如: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "下標    (如: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "上標 (如: X^2^ )";
-"Highlight     (e.g: ==key==)" = "語法高亮     (如: ==key==)";
+"Highlight     (e.g: ==key==)" = "語法標示     (如: ==key==)";
 "Diagrams" = "圖表";
 "(Sequence, Flowchart and Mermaid)" = "(序列圖, 流程圖和 Mermaid)";
 "Syntax Preference" = "Markdown 語法偏好";
@@ -99,15 +99,15 @@
 "Follow Instructions to Install/Update Pandoc" = "依照指示來安裝及更新 Pandoc";
 "Export Failed" = "匯出失敗";
 "Import Failed" = "匯入失敗";
-"Generated Image too Large" = "生成的圖片過大";
+"Generated Image too Large" = "產生的圖片過大";
 "Failed to export file to <em>{0}</em>" = "無法匯出檔案至 <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "無法從 <em>{0}</em> 匯入檔案";
 "File does not exist at <em>{0}</em>" = "檔案不存在於 <em>{0}</em>";
 "Export to..." = "匯出至...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "要儲存對此文件所做的變更嗎？<br> 若不儲存，將會遺失所做的更動。";
-"[Warning] Failed to attach bookmark for PDF file." = "[警告] 無法添加目錄至 PDF 檔";
+"[Warning] Failed to attach bookmark for PDF file." = "[警告] 無法加入目錄至 PDF 檔";
 "Dark Theme not support" = "不支援深色佈景主題";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，此 Typora 版本無法列印背景色至輸出的 PDF 檔，因此尚不支援深色佈景主題的 PDF 輸出。 \n請選擇淺色佈景主題或選擇 \"以預設佈景主題列印\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，此 Typora 版本無法列印背景色至輸出的 PDF 檔，因此尚不支援深色佈景主題的 PDF 輸出。 \n請選擇淺色佈景主題或選擇「以預設佈景主題列印」";
 "Print with default theme" = "以預設佈景主題列印";
 "Export to PDF successfully." = "成功輸出為 PDF 檔";
 "Converting file using Pandoc. This may take some time." = "使用 Pandoc 轉換檔案，這可能會花一些時間。";
@@ -135,13 +135,13 @@
 "Appearance" = "外觀";
 "System Native" = "系統原生";
 "Unibody" = "一體化";
-"(applied after restart)" = "(重啟後套用)";
+"(applied after restart)" = "(重新啟用後套用)";
 "Status Bar" = "狀態欄";
 "Show status bar" = "顯示狀態欄";
 "Save & Recover" = "儲存並恢復";
 "Auto Save" = "自動儲存";
 "Recover Unsaved Drafts" = "恢復未存檔的文件";
-"Emoji Autocomplete" = "自動完成 Emoji 表情文字";
+"Emoji Autocomplete" = "自動完成顏文字";
 "Trigger by ESC key" = "用 ESC 鍵觸發";
 "Trigger automatically" = "自動觸發";
 "Default Line Ending" = "預設換行符號";
@@ -155,12 +155,12 @@
 "Check Updates" = "檢查更新";
 "Check updates automatically" = "自動檢查更新";
 "Advanced Settings" = "進階設定";
-"Open Advanced Settings" = "打開進階設定";
-"Reset Advanced Settings" = "重置進階設定";
+"Open Advanced Settings" = "開啟進階設定";
+"Reset Advanced Settings" = "重設進階設定";
 
 /* Image relates on macOS */
 "This function requires latest version of iPic to be installed." = "此功能需要安裝最新版的 iPic";
-"Get iPic" = "獲取 iPic";
+"Get iPic" = "取得 iPic";
 "Cannot Continue…" = "無法繼續...";
 "This feature require macOS >= 10.11" = "此功能僅支援 macOS 10.11 及以上版本";
 "One More Step" = "下一步";
@@ -176,8 +176,8 @@
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 %@。但是目標資料夾不存在，現在要新增它嗎？";
 "Create Folder and Continue" = "新增資料夾並繼續";
 "Document must be saved first" = "請先儲存文件";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 將根據選定的相對路徑，將新插入的圖片複製至該處，所以請先儲存檔案。";
-"Open Operation Failed" = "開啟程序失敗";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 將根據所選的相對路徑，將新插入的圖片複製至該處，所以請先儲存檔案。";
+"Open Operation Failed" = "開啟程式失敗";
 
 "Support Documentation" = "支援文件";
 
@@ -192,7 +192,7 @@
 "Back" = "返回";
 
 "Contact" = "聯絡我們";
-"Open From..." = "自...開啟";
+"Open From..." = "開啟方式...";
 "Import..." = "匯入...";
 "Recent Documents" = "最近使用的文件";
 "Search for…" = "搜尋...";
@@ -245,12 +245,12 @@
 
 "Ignore" = "略過";
 "Choose Default Folder" = "選擇預設資料夾";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>輸入時即轉換</strong>: 輸入的 ASCII 的引號或破折號會被轉換成智慧引號或 unicode 破折號並以轉換後的符號儲存。<br/><strong>呈現時才轉換</strong>: 輸入的 ASCII 引號或破折號將會以原本的符號儲存，呈現時才會轉換成智慧型引號或 unicode 破折號。</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>剖析 Markdown 時，將 unicode 標點符號辨識為其 ASCII 的對應標點符號。例如:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>若智慧型標點符號的設定為輸入時即轉換，此會被自動開啟。<div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>輸入時即轉換</strong>: 輸入的 ASCII 的引號或破折號會被轉換成智慧引號或 Unicode 破折號並以轉換後的符號儲存。<br/><strong>呈現時才轉換</strong>: 輸入的 ASCII 引號或破折號將會以原本的符號儲存，呈現時才會轉換成智慧型引號或 Unicode 破折號。</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>剖析 Markdown 時，將 Unicode 標點符號辨識為其 ASCII 的對應標點符號。例如:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>若智慧型標點符號的設定為輸入時即轉換，此會被自動開啟。<div>";
 
 "Copy image to custom folder" = "複製圖片至自訂資料夾";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "請指定一個以 './' 或 '../' 為開頭的相對路徑或是一個絕對路徑。 (`${filename}` 為目前的檔案名稱)";
-"Restore to previous setting" = "回復至之前的設定";
+"Restore to previous setting" = "還原先前設定";
 "Folder not exist at %@, please input another path." = "資料夾不存在 %@，請輸入其他的路徑。";
 "Please input a folder path." = "請輸入一個資料夾路徑。";
 "Cannot use root path." = "無法使用根路徑。";

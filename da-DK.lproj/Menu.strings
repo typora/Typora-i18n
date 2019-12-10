@@ -15,11 +15,11 @@
 "Hide Typora" = "Skjul Typora";
 "Hide Others" = "Skjul andre";
 "Show All" = "Vis alle";
-"Quit Typora" = "Afslut ypora";
+"Quit Typora" = "Afslut Typora";
 
 /* File Menu */
 
-"File" = "Fil";
+"File" = "Filer";
 "New" = "Ny";
 "Open" = "Åben";
 "Open Folder" = "Åben mappe";
@@ -33,7 +33,7 @@
 "Open File Location" = "Åben filplacering";
 "Reveal in Library" = "Vis i bibliotek";
 "Reveal in File Tree" = "Vis i træstruktur";
-"Close" = "Luk";
+"Close" = "Afslut";
 "Save" = "Gem";
 "Save As" = "Gem som";
 "Duplicate" = "Dobbeltgænger";

@@ -215,7 +215,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Beklager, men den nuværende udgave af Typora kan ikke udskrive baggrundsfarver.\nDerfor kan mørke temaer endnu ikke udskrives.\n\nVælg venligst et lyst tema eller eksportér dette dokument som PDF.";
 "Export to PDF" = "Eksportér til PDF";
-"Pretty indentation" = "Pænt indrykning";
+"Pretty indentation" = "Pæn indrykning";
 "Update markdown reference for this image" = "Opdatér markdown henvisning for dette billede";
 
 "No special action" = "Ingen speciel handling";
@@ -301,7 +301,7 @@
 "You are update to date!" = "Din version af Typora er opdateret!";
 "Latest version is $1, your version is $2" = "Den seneste version er $1, din version er $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Disse indstillinger kan også ændres i menuen \"Rediger→Mellemrum og linjeskift\"";
-"Auto escape image URL when insert" = "Konverter automatisk billed URL ved indsættelse";
+"Auto escape image URL when insert" = "Konverter automatisk billed-URL ved indsættelse";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "F. eks., hvis du indsætter filen 'img/example file.png', vil det blive konverteret til 'img/example%20file.png'. Aktivér dette for at få bedre kompatibilitet med andre Markdown motorer eller deaktiver dette for bedre læsbarhed.";
 "Check updates automatically" = "Kig automatisk efter opdateringer";
 "Skip This Version" = "Spring denne version over";
@@ -310,7 +310,7 @@
 "New version available." = "Ny version tilgængelig.";
 
 "When copy / export as HTML (without style)" = "Når du kopier/eksporterer som HTML (uden typografi)";
-"Use Rendered SVG" = "Brug Tegnet SVG";
+"Use Rendered SVG" = "Brug tegnet SVG";
 "Use LaTeX Source" = "Brug LaTeX kildekode";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Aktiveres når du eksporterer som HTML (uden typografier), kopier som HTML, eller kopiere uden typografi.<br/>Når <strong>Brug LaTeX kildekode</strong> er valgt, vil Typora indsætte den rå LaTeX kildekode (e.g: $X^2$),<br/>Når <strong>Brug Tegnet SVG</strong> er valgt, bliver det tegnede SVG brug. Hvis du indsætter i et andet program, SVG kan blive ignoreret.</div>";
 

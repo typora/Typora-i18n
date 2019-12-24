@@ -315,3 +315,10 @@
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
 "Do not show this message again" = "Do not show this message again";
+
+"Page break between top level sections" = "Page Break between top level sections";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
+"Try Recovery" = "Try Recovery";
+"Other options for Data Recovery" = "Other options for Data Recovery";

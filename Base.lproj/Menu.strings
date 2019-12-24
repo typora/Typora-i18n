@@ -291,3 +291,14 @@
 "Start Speaking" = "Start Speaking";
 "Stop Speaking" = "Stop Speaking";
 "Check Updates" = "Check Updates";
+
+"HTML (without Styles)" = "HTML (without Styles)";
+
+"Highlight Current Header" = "Highlight Current Header";
+"Expand All" = "Expand All";
+"Collapse All" = "Collapse All";
+"Collapsible Outline" = "Collapsible Outline";
+"Flat Outline" = "Flat Outline";
+"Articles (List View)" = "Articles (List View)";
+"File Tree (Tree View)" = "File Tree (Tree View)";
+"Filter" = "Filter";

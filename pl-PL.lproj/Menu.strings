@@ -291,3 +291,14 @@
 "Start Speaking" = "Zacznij mówić";
 "Stop Speaking" = "Zatrzymaj mowę";
 "Check Updates" = "Sprawdź dostępność aktualizacji";
+
+"HTML (without Styles)" = "HTML (bez stylów)";
+
+"Highlight Current Header" = "Podświetl bieżący nagłówek";
+"Expand All" = "Rozwiń wszystko";
+"Collapse All" = "Zwiń wszystko";
+"Collapsible Outline" = "Rozwijany konspekt";
+"Flat Outline" = "Płaski konspekt";
+"Articles (List View)" = "Artykuły (widok listy)";
+"File Tree (Tree View)" = "Drzewo plików (widok drzewa)";
+"Filter" = "Filtruj";

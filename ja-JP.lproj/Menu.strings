@@ -82,7 +82,7 @@ Japanese translated by
 "When Insert Local Image" = "ローカル画像を挿入時の挙動";
 "Copy Image File to Folder" = "画像をフォルダにコピー";
 "Upload Image via iPic" = "iPic経由で画像をアップ";
-"Use Image Root Path" = "ルートパスで画像を指定";
+"Use Image Root Path" = "絶対パスで画像を指定";
 "Line Endings" = "改行コード";
 "Windows Line Endings (CRLF)" = "Windows改行 (CRLF)";
 "Unix Line Endings (LF)" = "Unix改行 (LF)";
@@ -243,7 +243,7 @@ Japanese translated by
 "Prettify Source Code" = "ソースコードを整形";
 "Copy '%@'" = "'%@' をコピー";
 "Copy to %@" = "%@ にコピー";
-"Copy Image to…" = "画像をコピー...";
+"Copy Image to" = "画像をコピー";
 "Upload via iPic" = "iPic経由でアップロード";
 "Open Image Location" = "画像の場所を開く";
 
@@ -281,5 +281,19 @@ Japanese translated by
 
 "Insert Table" = "表を挿入";
 "Insert Image" = "画像を挿入";
+"Allow Magnification" = "ズームを許可する";
 
-"Copy Image to…" = "〜に画像をコピー";
+"Move Row Up" = "行を上に移動";
+"Move Row Down" = "行を下に移動";
+"Move Column Left" = "列を左に移動";
+"Move Column Right" = "列を右に移動";
+
+"Zoom Image" = "画像を拡大";
+"Zoom Image to %@" = "画像を %@ にズーム";
+
+"Copy as Plain Text" = "プレーンテキストとしてコピー";
+
+"Selection" = "選択";
+"Start Speaking" = "読み上げを開始";
+"Stop Speaking" = "読み上げを停止";
+"Check Updates" = "更新を確認";

@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Prettify Source Code";
 "Copy '%@'" = "Copy '%@'";
 "Copy to %@" = "Copy to %@";
-"Copy Image to…" = "Copy Image to…";
+"Copy Image to" = "Copy Image to";
 "Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Image Location";
 
@@ -282,7 +282,6 @@
 "Move Column Left" = "Move Column Left";
 "Move Column Right" = "Move Column Right";
 
-"Copy Image to…" = "Copy Image to…";
 "Zoom Image" = "Zoom Image";
 "Zoom Image to %@" = "Zoom Image to %@";
 
@@ -292,3 +291,14 @@
 "Start Speaking" = "Start Speaking";
 "Stop Speaking" = "Stop Speaking";
 "Check Updates" = "Check Updates";
+
+"HTML (without Styles)" = "HTML (without Styles)";
+
+"Highlight Current Header" = "Highlight Current Header";
+"Expand All" = "Expand All";
+"Collapse All" = "Collapse All";
+"Collapsible Outline" = "Collapsible Outline";
+"Flat Outline" = "Flat Outline";
+"Articles (List View)" = "Articles (List View)";
+"File Tree (Tree View)" = "File Tree (Tree View)";
+"Filter" = "Filter";

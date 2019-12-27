@@ -203,7 +203,7 @@
 "More Formats" = "More Formats";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
 "Something is Wrong…" = "Something is Wrong…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
 "Copy Content" = "Copy Content";
 
 
@@ -246,7 +246,7 @@
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choose Default Folder";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
 
 "Copy image to custom folder" = "Copy image to custom folder";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
@@ -312,3 +312,13 @@
 "Use Rendered SVG" = "Use Rendered SVG";
 "Use LaTeX Source" = "Use LaTeX Source";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
+"Do not show this message again" = "Do not show this message again";
+
+"Page break between top level sections" = "Page Break between top level sections";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
+"Try Recovery" = "Try Recovery";
+"Other options for Data Recovery" = "Other options for Data Recovery";

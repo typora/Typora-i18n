@@ -207,7 +207,7 @@
 "More Formats" = "Format Lainnya";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Format file dalam 'Format Lainnya' memerlukan pemasangan <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Ada Kesalahan…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Penyimpanan konten gagal dengan sejumlah alasan.<br/>Anda dapat menyalin konten ke jendela Typora yang baru, kemudian simpan. <br/>Pelajari lebih lanjut tentang:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Laporkan bug ke kami</a></li><li><a href='http://support.typora.io/Version-Control//'>Dapatkan kembali konten yang hilang</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Penyimpanan konten gagal dengan sejumlah alasan.<br/>Anda dapat menyalin konten ke jendela Typora yang baru, kemudian simpan. <br/>Pelajari lebih lanjut tentang:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Laporkan bug ke kami</a></li><li><a href='https://support.typora.io/Version-Control//'>Dapatkan kembali konten yang hilang</a></li></ul>";
 "Copy Content" = "Salin Konten";
 
 

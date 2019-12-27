@@ -32,7 +32,7 @@ Japanese translated by
 "Left Panel" = "左パネル";
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
 "Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
-"Save without asking when\nswitch files on side panel" = "サイドパネルのファイル切替の際に\n自動保存";
+"Save without asking when\nswitch files on side panel" = "サイドパネルでファイルの切り替え時に自動保存";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "左パネルのファイルを切り替えると、問い合わせなしにファイルを自動保存します。「文書を閉じるときは保存するか尋ねる」がシステム設定でオンになっているときは、このオプションは常にオンです。";
 "Language" = "言語";
 "System Language" = "システム言語";
@@ -158,8 +158,8 @@ Japanese translated by
 "Privacy" = "プライバシー";
 "Developer" = "開発者";
 "Update" = "更新";
-"Check Updates" = "更新をチェック";
-"Check updates automatically" = "更新を自動チェック";
+"Check Updates" = "更新を確認";
+"Check updates automatically" = "更新を自動的に確認";
 "Advanced Settings" = "高度な設定";
 "Open Advanced Settings" = "高度な設定を開く";
 "Reset Advanced Settings" = "高度な設定をリセットする";
@@ -209,7 +209,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='http://support.typora.io/Report-Bugs/'>バグをレポート</a></li><li><a href='http://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告</a></li><li><a href='https://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 
@@ -218,7 +218,7 @@ Japanese translated by
 "Indent Size for Code" = "コードブロックのインデント";
 "Auto wrap long lines" = "長い行を折り返す";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "申し訳ありません。現在のバージョンのTyporaは背景色を印刷できないため、ダークテーマは印刷には対応していません。\n\nこのドキュメントをPDFに出力するには、ライトテーマを選択してください。。";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "申し訳ありません。現在のバージョンのTyporaは背景色を印刷できないため、ダークテーマは印刷には対応していません。\n\nこのドキュメントをPDFに出力するには、ライトテーマを選択してください。";
 "Export to PDF" = "PDFにエクスポート";
 "Pretty indentation" = "自動インデント";
 "Update markdown reference for this image" = "この画像に対するMarkdownリファレンスを更新する";
@@ -259,7 +259,7 @@ Japanese translated by
 "Restore to previous setting" = "以前の設定に復元";
 "Folder not exist at %@, please input another path." = "%@ にはフォルダが存在しません。他のパスを指定してください。";
 "Please input a folder path." = "フォルダのパスを入力してください。";
-"Cannot use root path." = "ルートパスは使用できません。";
+"Cannot use root path." = "絶対パスは使用できません。";
 
 "Get Themes" = "テーマを取得";
 "File/directory alreay exists at target path." = "指定したパスにファイル/ディレクトリがすでに存在します。";
@@ -288,3 +288,36 @@ Japanese translated by
 "Reading Speed" = "Reading Speed";
 "Auto" = "自動";
 "words / min" = "単語 / 分";
+
+"Reset to Default" = "デフォルトにリセット";
+"Select custom folder" = "カスタムフォルダを選択";
+"120  words/minute (Slow)" = "120 単語/分 (低速)";
+"240  words/minute (Medium)" = "240 単語/分 (標準)";
+"382  words/minute (Fast)" = "382 単語/分 (高速)";
+
+"Copy and update image source to…" = "画像のソースをコピーして更新…";
+"Updater" = "Updater";
+"Install Updates ?" = "更新をインストールしますか？";
+"Quit and Install" = "終了してインストール";
+"Download failed" = "ダウンロードに失敗しました";
+"Downloading Updates…" = "更新をダウンロード中…";
+"Checking Updates…" = "更新を確認中…";
+"Check Update Failed" = "更新の確認に失敗しました";
+"You are update to date!" = "既に最新版を利用中です";
+"Latest version is $1, your version is $2" = "最新版: $1、インストール済み: $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "これらのオプションは \"編集 → 空白と改行\" メニューからも変更することができます";
+"Auto escape image URL when insert" = "画像URLの挿入時に自動でエスケープ";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "例えば、'img/example file.png' にファイルを挿入すると、'img/example%%20file.png' になります。他の Markdown エンジンとの互換性を高めるためにはこれを有効にするか、読みやすさを優先するには機能を無効にします。";
+"Check updates automatically" = "更新を自動的に確認";
+"Skip This Version" = "このバージョンをスキップ";
+"Remind Me Later" = "後で通知";
+"Download Update" = "更新をダウンロード";
+"New version available." = "新しいバージョンが利用可能です。";
+
+"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"Use Rendered SVG" = "レンダリングにSVGを使用";
+"Use LaTeX Source" = "LaTeXのソースを使用";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "インポート機能といくつかのフォーマット形式によるエクスポートには、Pandoc (≥%@) のインストールが必要です。";
+"Do not show this message again" = "このメッセージを次回から表示しない";

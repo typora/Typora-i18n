@@ -21,15 +21,15 @@
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Bitte nutzen Sie `Hilfe`->`Quick Start` für eine kurze Einführung. Besuchen Sie http://theme.typora.io um mehr Themen oder Anleitungen zu bekommen.";
 "Word Count" = "Wortanzahl";
 "Always Show Word Count" = "Wortanzahl immer zeigen";
-"Font Size" = "Schriftgröße";
+"Font Size" = "Schriftgrösse";
 "Auto ( Recommended )" = "Automatisch (Empfohlen)";
 "Customized" = "Benutzerdefiniert";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "Wenn eine angepasste Schriftgröße genutzt wird, ist die tatsächliche Schriftgröße abhängig von der Basis-Schriftgröße und der CSS Formatierung.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Wenn eine angepasste Schriftgrösse genutzt wird, ist die tatsächliche Schriftgrösse abhängig von der Basis-Schriftgrösse und der CSS Formatierung.";
  "Left Panel" = "Linke Seitenleiste";
-"Show Outline Panel by Default" = "Gliederungsleiste standardmäßig anzeigen";
+"Show Outline Panel by Default" = "Gliederungsleiste standardmässig anzeigen";
 "Collapsible Outline on Left Panel" = "Zusammenklappbare Gliederung in der linken Seitenleiste";
 "Save without asking when\nswitch files on side panel" = "Ohne Nachfragen speichern, wenn\nDateien über die Seitenleiste gewechselt werden";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Geänderte Dateien werden ohne Nachfrage gespeichert, wenn die Datei über die Seitenleiste gewechselt wird. \nWenn \"Wenn beim Schließen immer fragen, ob Änderungen gespeichert werden sollen\" in den Einstellungen aktiviert ist, ist diese Option immer aktiv.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Geänderte Dateien werden ohne Nachfrage gespeichert, wenn die Datei über die Seitenleiste gewechselt wird. \nWenn \"Wenn beim Schliessen immer fragen, ob Änderungen gespeichert werden sollen\" in den Einstellungen aktiviert ist, ist diese Option immer aktiv.";
 "Language" = "Sprache";
 "System Language" = "Systemsprache";
 
@@ -62,7 +62,7 @@
 "Superscript ( e.g: X^2^ )" = "Hochstellen (z.B: X^2^)";
 "Highlight     (e.g: ==key==)" = "Hervorhebung     (z.B: ==key==)";
 "Diagrams" = "Diagramme";
-"(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flußdiagramm und Mermaid)";
+"(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flussdiagramm und Mermaid)";
 "Syntax Preference" = "Syntax Einstellungen";
 "(only applies to styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden)";
 "Strict Mode" = "Strikter Modus";
@@ -103,7 +103,7 @@
 "Follow Instructions to Install/Update Pandoc" = "Folgen Sie der Anleitung um Pandoc zu installieren/aktualisieren";
 "Export Failed" = "Export fehlgeschlagen";
 "Import Failed" = "Import fehlgeschlagen";
-"Generated Image too Large" = "Generiertes Bild zu groß";
+"Generated Image too Large" = "Generiertes Bild zu gross";
 "Failed to export file to <em>{0}</em>" = "Export der Datei nach <em>{0}</em> fehlgeschlagen";
 "Failed to import file from <em>{0}</em>" = "Import der Datei von <em>{0}</em> fehlgeschlagen";
 "File does not exist at <em>{0}</em>" = "Datei unter <em>{0}</em> existiert nicht";
@@ -215,7 +215,7 @@
 
 "Total" = "Gesamt";
 "Word count only support OS X later than 10.10." = "Wörteranzahl wird erst von OS X neuer als 10.10. unterstützt";
-"Indent Size for Code" = "Einrückungsmaß für Code";
+"Indent Size for Code" = "Einrückungsmass für Code";
 "Auto wrap long lines" = "Lange Zeilen automatisch umbrechen";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Entschuldigung, die aktuelle Typora version druckt keine Hintergrundfarbe.\nAlso is der Dunkelmodus noch nicht unterstützt für das Drucken. \n\nBitte wähle eine helles Thema oder exportiere dieses Dokument als PDF.";
@@ -247,7 +247,7 @@
 "Restore last closed files and folders" = "Zuletzt geöffnete Ordner und Dateien öffnen";
 "Open custom folder" = "Benutzerdefinierten Ordner öffnen";
 "Select custom folder" = "Benutzerdefinierten Ordner wählen";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Diese Option könnte von \"Fenster beim Beenden eines Programmes schließen\" in den Systemeinstellungen überschrieben werden.";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Diese Option könnte von \"Fenster beim Beenden eines Programmes schliessen\" in den Systemeinstellungen überschrieben werden.";
 
 "Ignore" = "Ignorieren";
 "Choose Default Folder" = "Standard-Ordner auswähen";

@@ -205,7 +205,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
 "Total" = "总计";
@@ -313,3 +313,9 @@
 "Use Rendered SVG" = "使用 SVG";
 "Use LaTeX Source" = "使用 LaTeX 代码";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
+
+"Page break between top level sections" = "按一级标题分页";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
+"Try Recovery" = "尝试恢复";
+"Other options for Data Recovery" = "其他恢复选项";

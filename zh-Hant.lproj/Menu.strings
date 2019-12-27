@@ -23,7 +23,7 @@
 "Open" = "開啟";
 "Open Folder" = "開啟資料夾";
 "Recent Locations" = "最近位置";
-"Reopen with Encoding" = "選擇編碼重新載入檔案";
+"Reopen with Encoding" = "重新依選擇編碼載入檔案";
 "Auto" = "自動";
 "Open Recent" = "開啟最近的檔案";
 "Clear Items" = "清空項目";
@@ -35,10 +35,10 @@
 "Close" = "關閉";
 "Save" = "儲存";
 "Save As" = "另存新檔";
-"Duplicate" = "建立副本";
+"Duplicate" = "建立複本";
 "Rename" = "重新命名";
 "Move To" = "移動至";
-"Revert To" = "恢復為";
+"Revert To" = "恢復至";
 "Browse All Versions" = "瀏覽所有版本";
 "Import" = "匯入";
 "Export" = "匯出";
@@ -48,7 +48,7 @@
 /* Edit Menu */
 "Edit" = "編輯";
 "Undo" = "還原";
-"Redo" = "重做";
+"Redo" = "重作";
 "Cut" = "剪下";
 "Copy" = "複製";
 "Paste" = "貼上";
@@ -137,7 +137,7 @@
 "Code" = "程式碼";
 "Inline Math" = "行內數學式";
 "Strike" = "刪除線";
-"Highlight" = "高亮";
+"Highlight" = "標示";
 "Superscript" = "上標";
 "Subscript" = "下標";
 "Comment" = "註解";
@@ -165,7 +165,6 @@
 "Switch Between Opened Documents" = "在已開啟的文件間切換";
 "Toggle DevTools" = "開啟/關閉開發者工具";
 
-
 /* Themes Menu */
 "Themes" = "主題";
 
@@ -173,7 +172,7 @@
 "Window" = "視窗";
 "Minimize" = "最小化";
 "Zoom" = "縮放";
-"Bring All to Front" = "所有視窗都移至最前方";
+"Bring All to Front" = "移動所有視窗至最前方";
 
 /* Help Menu */
 "Help" = "說明";
@@ -223,7 +222,7 @@
 "Math" = "數學式";
 "Insert" = "插入";
 "Inspect Element" = "檢查元素";
-"Copy to MS Word" = "複製為微軟 Word";
+"Copy to MS Word" = "複製到 MS Word"; /* I think MS Word shouldn't be translated. */
 "Paragraph (before)" = "段落 (上方)";
 "Paragraph (after)" = "段落 (下方)";
 
@@ -235,9 +234,9 @@
 "File or folder does not exist." = "檔案或資料夾不存在";
 
 "Prettify Source Code" = "程式碼格式化";
-"Copy '%@'" = "複製 '%@'";
+"Copy '%@'" = "複製「%@」";
 "Copy to %@" = "複製到 %@";
-"Copy Image to…" = "複製圖片到...";
+"Copy Image to" = "複製圖片到";
 "Upload via iPic" = "透過 iPic 上傳";
 "Open Image Location" = "開啟圖片位置";
 
@@ -247,7 +246,7 @@
 "Preserve single line break" = "保留單一換行符號";
 "Visible <br/>" = "顯示 <br/>";
 
-"Save All" = "儲存全部";
+"Save All" = "全部儲存";
 "New Window" = "開新視窗";
 "Reopen Closed File" = "重新開啟已關閉的檔案";
 
@@ -275,5 +274,3 @@
 
 "Insert Table" = "插入表格";
 "Insert Image" = "插入圖片";
-
-"Copy Image to…" = "複製圖片至...";

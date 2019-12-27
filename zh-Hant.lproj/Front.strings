@@ -72,10 +72,10 @@
 "Sort" = "排序";
 "Group By Folder" = "依資料夾分組";
 "Sort Naturally" = "自然排序";
-"Sort by Name (Ascending)" = "依名稱排序 (Ascending)";
-"Sort by Modification Date (Ascending)" = "依修改日期排序 (Ascending)";
-"Sort by Name (Descending)" = "依名稱排序 (Descending)";
-"Sort by Modification Date (Descending)" = "依修改日期排序 (Descending)";
+"Sort by Name (Ascending)" = "依名稱排序 (升冪)";
+"Sort by Modification Date (Ascending)" = "依修改日期排序 (升冪)";
+"Sort by Name (Descending)" = "依名稱排序 (降冪)";
+"Sort by Modification Date (Descending)" = "依修改日期排序 (降冪)";
 "Location" = "位置";
 "Switch File List/Tree View" = "切換檔案/樹狀結構檢視";
 "No Files Available" = "檔案不存在";
@@ -106,14 +106,14 @@
 "Stop" = "停止";
 "back to document" = "回到文件";
 "Failed to load file" = "載入檔案失敗";
-"Save File Failed!" = "存檔失敗!"
+"Save File Failed!" = "存檔失敗！"
 "Cannot open folder {0}" = "無法開啟資料夾 {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
 "Should continue moving and overwrite exisiting file(s) ?" = "要繼續覆蓋現有檔案嗎？";
 
-"Rename to \"{0}\" ?" = "重新命名為 \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 為 \"{1}\" 失敗";
+"Rename to \"{0}\" ?" = "重新命名成 \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 成 \"{1}\" 失敗";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "已成功上傳 {0} 張圖片.";
@@ -137,7 +137,7 @@
 "select a language" = "選取一個語言";
 "Finish Editing" = "完成編輯";
 
-"Revert advanced setting file to default one ?" = "要將進階設定檔回復成預設檔嗎？";
+"Revert advanced setting file to default one ?" = "要將進階設定檔還原至預設檔嗎？";
 
 "Select Spell Check Language" = "選擇拼字檢查的語言";
 "Auto Detect Language" = "自動偵測語言";

@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Upiększ kod źródłowy";
 "Copy '%@'" = "Skopiuj '%@'";
 "Copy to %@" = "Skopiuj do %@";
-"Copy Image to…" = "Skopiuj obraz do…";
+"Copy Image to" = "Skopiuj obraz do";
 "Upload via iPic" = "Prześlij za pomocą iPic";
 "Open Image Location" = "Otwórz położenie pliku";
 
@@ -282,7 +282,6 @@
 "Move Column Left" = "Przenieś kolumnę w lewo";
 "Move Column Right" = "Przenieś kolumnę w prawo";
 
-"Copy Image to…" = "Kopiuj obraz do…";
 "Zoom Image" = "Powiększ obraz";
 "Zoom Image to %@" = "Powiększ obraz o %@";
 

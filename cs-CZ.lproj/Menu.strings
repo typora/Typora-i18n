@@ -61,7 +61,7 @@
 "Paste" = "Vložit";
 "Copy as Markdown" = "Kopírovat jako Markdown";
 "Copy as HTML Code" = "Kopírovat jako HTML";
-"Paste as Plain Text" = "Kopírovat jako prostý text";
+"Paste as Plain Text" = "Vložit jako prostý text";
 "Select All" = "Vybrat vše";
 "Select Line/Sentence" = "Vybrat řádek/větu";
 "Select Styled Scope" = "Vybrat rozsah stylu";
@@ -243,7 +243,7 @@
 "Prettify Source Code" = "Zkrášlit zdrojový kód";
 "Copy '%@'" = "Kopírovat '%@'";
 "Copy to %@" = "Kopírovat do %@";
-"Copy Image to…" = "Kopírovat obrázek do..";
+"Copy Image to" = "Kopírovat obrázek do";
 "Upload via iPic" = "Nahrát pomocí iPic";
 "Open Image Location" = "Otevřít umístění obrázku";
 
@@ -278,5 +278,3 @@
 
 "Insert Table" = "Vložit tabulku";
 "Insert Image" = "Insert Image";
-
-"Copy Image to…" = "Kopírovat obrázek do...";

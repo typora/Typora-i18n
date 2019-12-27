@@ -204,7 +204,7 @@
 "More Formats" = "Định dạng khác";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Tập tin sử dụng tuỳ chọn 'Định dạng khác' cần <a class='open-pandoc-guide'>cài đặt Pandoc</a> để hoạt động được.";
 "Something is Wrong…" = "Có vấn đề xảy ra…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Vì một vài lý do nên việc lưu lại không thành công.<br/>Bạn có thể sao chép lại nội dung sang một cửa sổ Typora mới và thử lưu lại nó. <br/>Tìm hiểu thêm tại:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Báo cáo lỗi cho chúng tôi</a></li><li><a href='http://support.typora.io/Version-Control//'>Khôi phục nội dung bị mất</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Vì một vài lý do nên việc lưu lại không thành công.<br/>Bạn có thể sao chép lại nội dung sang một cửa sổ Typora mới và thử lưu lại nó. <br/>Tìm hiểu thêm tại:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Báo cáo lỗi cho chúng tôi</a></li><li><a href='https://support.typora.io/Version-Control//'>Khôi phục nội dung bị mất</a></li></ul>";
 "Copy Content" = "Sao chép nội dung";
 
 

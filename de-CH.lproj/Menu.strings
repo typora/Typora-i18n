@@ -34,7 +34,7 @@
 "Open File Location" = "Dateiort öffnen";
 "Reveal in Library" = "In Bibliothek anzeigen";
 "Reveal in File Tree" = "In Dateibaum anzeigen";
-"Close" = "Schließen";
+"Close" = "Schliessen";
 "Save" = "Speichern";
 "Save As" = "Speichern unter";
 "Duplicate" = "Duplizieren";
@@ -126,7 +126,7 @@
 "Indent" = "Einrücken";
 "Outdent" = "Ausrücken";
 "Link Reference" = "Referenz verknüpfen";
-"Footnotes" = "Fußnoten";
+"Footnotes" = "Fussnoten";
 "Horizontal Line" = "Horizontale Linie";
 "Table of Contents" = "Inhaltsverzeichnis";
 "YAML Front Matter" = "YAML Front Matter";
@@ -161,8 +161,8 @@
 "Full Screen" = "Vollbild";
 "Show Status Bar" = "Statusleiste zeigen";
 "Toggle Fullscreen" = "Vollbild umschalten";
-"Actual Size" = "Tatsächliche Größe";
-"Zoom In" = "Vergrößern";
+"Actual Size" = "Tatsächliche Grösse";
+"Zoom In" = "Vergrössern";
 "Zoom Out" = "Verkleinern";
 "Switch Between Opened Documents" = "Zwischen geöffneten Dokumenten wechseln";
 "Toggle DevTools" = "Entwicklerwerkzeuge umschalten";

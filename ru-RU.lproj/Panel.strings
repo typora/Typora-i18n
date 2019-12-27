@@ -203,7 +203,7 @@
 "More Formats" = "Дополнительные форматы";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc должен быть установлен</a>.";
 "Something is Wrong…" = "Что-то не так…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "По какой-то причине сохранить содержимое не удалось.<br/>Вы можете скопировать содержимое в новое окно Typora, а затем сохранить его. <br/>Ссылки по теме:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Сообщить об ошибках программы</a></li><li><a href='http://support.typora.io/Version-Control//'>Как восстановить потерянное содержимое</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "По какой-то причине сохранить содержимое не удалось.<br/>Вы можете скопировать содержимое в новое окно Typora, а затем сохранить его. <br/>Ссылки по теме:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Сообщить об ошибках программы</a></li><li><a href='https://support.typora.io/Version-Control//'>Как восстановить потерянное содержимое</a></li></ul>";
 "Copy Content" = "Скопировать содержимое";
 
 

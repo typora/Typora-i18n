@@ -205,7 +205,7 @@
 "More Formats" = "További formátumok";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "A 'További formátumok' szakaszban szereplő formátumokhoz <a class='open-pandoc-guide'>telepíteni kell a Pandoc-ot</a>.";
 "Something is Wrong…" = "Hiba történt…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "A mentés valamilyen okból nem sikerült.<br/>Átmásolhatja a dokumentum tartalmát egy új Typora ablakba, és onnan elmentheti. <br/>További információk:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Programhibák bejelentése</a></li><li><a href='http://support.typora.io/Version-Control//'>Elveszett tartalom helyreállítása</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "A mentés valamilyen okból nem sikerült.<br/>Átmásolhatja a dokumentum tartalmát egy új Typora ablakba, és onnan elmentheti. <br/>További információk:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Programhibák bejelentése</a></li><li><a href='https://support.typora.io/Version-Control//'>Elveszett tartalom helyreállítása</a></li></ul>";
 "Copy Content" = "Tartalom másolása";
 
 

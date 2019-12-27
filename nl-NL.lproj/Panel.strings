@@ -207,7 +207,7 @@
 "More Formats" = "Meer Formaten";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Voor bestandsformaten onder 'Meer Formaten' is het nodig dat <a class='open-pandoc-guide'>Pandoc geïnstalleerd</a> is.";
 "Something is Wrong…" = "Er is iets fout gegaan…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Het opslaan van inhoud is om een of andere reden mislukt.<br/>U kunt de inhoud naar een nieuw Typora-venster kopiëren en vervolgens opslaan.<br/>Meer informatie over bugs rapporteren: <ul> <li> <a href='http://support.typora.io/Report-Bugs/'>Rapporteer fouten bij ons</a></li><li><a href='http://support.typora.io/Version-Control//'>Herstel verloren inhoud</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Het opslaan van inhoud is om een of andere reden mislukt.<br/>U kunt de inhoud naar een nieuw Typora-venster kopiëren en vervolgens opslaan.<br/>Meer informatie over bugs rapporteren: <ul> <li> <a href='https://support.typora.io/Report-Bugs/'>Rapporteer fouten bij ons</a></li><li><a href='https://support.typora.io/Version-Control//'>Herstel verloren inhoud</a></li></ul>";
 "Copy Content" = "Kopieer Inhoud";
 
 

@@ -52,6 +52,7 @@
 "Cut" = "剪下";
 "Copy" = "複製";
 "Paste" = "貼上";
+"Copy as Plain Text" = "複製為純文本";
 "Copy as Markdown" = "複製為 Markdown";
 "Copy as HTML Code" = "複製為 HTML";
 "Paste as Plain Text" = "以純文字貼上";
@@ -164,7 +165,8 @@
 "Zoom Out" = "縮小";
 "Switch Between Opened Documents" = "在已開啟的文件間切換";
 "Toggle DevTools" = "開啟/關閉開發者工具";
-
+"Allow Magnification" = "允許放大"; /*I don't whether it is correct*/
+ 
 /* Themes Menu */
 "Themes" = "主題";
 
@@ -182,6 +184,12 @@
 "Website" = "網站";
 "Feedback" = "回饋";
 "About" = "關於";
+"Quick Start" = "快速開始";
+"Markdown Reference" = "Markdown參考資料";
+"Install and Use Pandoc" = "安裝與使用Pandoc";
+"Custom Themes" = "自定義主題";
+"Use Images in Typora" = "在Typora中使用圖片";
+"Data Recovery and Version Control" = "數據恢復與版本控制";
 
 /* Touchbar */
 "Block Styles" = "區塊樣式";

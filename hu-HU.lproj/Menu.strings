@@ -237,7 +237,7 @@
 "Prettify Source Code" = "Programkód csinosítása";
 "Copy '%@'" = "'%@' másolása";
 "Copy to %@" = "Másolás ide %@";
-"Copy Image to..." = "Kép másolása ide...";
+"Copy Image to" = "Kép másolása ide";
 "Upload via iPic" = "Feltöltés iPic-kel";
 "Open Image Location" = "Kép helyének megnyitása";
 
@@ -269,3 +269,11 @@
 "Spell Check" = "Helyesírás ellenőrzés";
 "Unlearn Spelling" = "Helyesírás elfelejtése";
 "Properties" = "Tulajdonságok";
+
+"Search" = "Keresés";
+"Copy without Theme Styling" = "Másolás Téma-formázás nélkül";
+"Recent Files" = "Legutóbbi fájlok";
+"File Results" = "Talált fájlok";
+
+"Insert Table" = "Táblázat beszúrása";
+"Insert Image" = "Insert Image";

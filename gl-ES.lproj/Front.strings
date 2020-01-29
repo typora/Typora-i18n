@@ -43,7 +43,6 @@
 "Delete Table" = "Eliminar táboa";
 
 /* Images */
-"Copy Image To..." = "Copiar imaxe a...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imaxe recentemente inserida no cartafol <code id='image-create-folder-target'></code> de acordo coa súa configuración de YAML Front Matter -tema frontal YAML- ou as preferencias globais. Pero o cartafol de destino non existe, creálo agora?";
 "Create Folder" = "Create Folder";
 
@@ -73,8 +72,10 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Grupo por cartafol";
 "Sort Naturally" = "Ordenar naturalmente";
-"Sort by Name" = "Ordenar por nome";
-"Sort by Modification Date" = "Ordenar por data de modificación";
+"Sort by Name (Ascending)" = "Ordenar por nome (Ascending)";
+"Sort by Modification Date (Ascending)" = "Ordenar por data de modificación (Ascending)";
+"Sort by Name (Descending)" = "Ordenar por nome (Descending)";
+"Sort by Modification Date (Descending)" = "Ordenar por data de modificación (Descending)";
 "Location" = "Localización";
 "Switch File List/Tree View" = "Cambiar Lista de arquivos/Vista de árbore";
 "No Files Available" = "Non hai arquivos dispoñibles";

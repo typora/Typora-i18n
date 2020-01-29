@@ -195,7 +195,7 @@
 "Open From..." = "Open From...";
 "Import..." = "Import...";
 "Recent Documents" = "Recent Documents";
-"Search for…" = "Search for…";
+"Search for…" = "Search…";
 "Clear Recent Documents" = "Clear Recent Documents";
 "File Name" = "File Name";
 "Path" = "Path";
@@ -203,7 +203,7 @@
 "More Formats" = "More Formats";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
 "Something is Wrong…" = "Something is Wrong…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
 "Copy Content" = "Copy Content";
 
 
@@ -246,7 +246,7 @@
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choose Default Folder";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
 
 "Copy image to custom folder" = "Copy image to custom folder";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
@@ -278,3 +278,47 @@
 
 "Turn off Typewriter / Focus Mode" = "Turn off Typewriter / Focus Mode";
 "Typewriter / Focus Mode have been turned off." = "Typewriter / Focus Mode have been turned off.";
+
+"Reading Speed" = "Reading Speed";
+"Auto" = "Auto";
+"words / min" = "words / min";
+
+"Reset to Default" = "Reset to Default";
+"Select custom folder" = "Select custom folder";
+"120  words/minute (Slow)" = "120  words/minute (Slow)";
+"240  words/minute (Medium)" = "240  words/minute (Medium)";
+"382  words/minute (Fast)" = "382  words/minute (Fast)";
+
+"Copy and update image source to…" = "Copy and update image source to…";
+"Updater" = "Updater";
+"Install Updates ?" = "Install Updates ?";
+"Quit and Install" = "Quit and Install";
+"Download failed" = "Download failed";
+"Downloading Updates…" = "Downloading Updates…";
+"Checking Updates…" = "Checking Updates…";
+"Check Update Failed" = "Check Update Failed";
+"You are update to date!" = "You are update to date!";
+"Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"Auto escape image URL when insert" = "Auto escape image URL when insert";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
+"Check updates automatically" = "Check updates automatically";
+"Skip This Version" = "Skip This Version";
+"Remind Me Later" = "Remind Me Later";
+"Download Update" = "Download Update";
+"New version available." = "New version available.";
+
+"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"Use Rendered SVG" = "Use Rendered SVG";
+"Use LaTeX Source" = "Use LaTeX Source";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
+"Do not show this message again" = "Do not show this message again";
+
+"Page break between top level sections" = "Page Break between top level sections";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
+"Try Recovery" = "Try Recovery";
+"Other options for Data Recovery" = "Other options for Data Recovery";

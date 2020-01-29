@@ -47,7 +47,7 @@
 
 /* Edit Menu */
 "Edit" = "编辑";
-"Undo" = "撤销";
+"Undo" = "撤消";
 "Redo" = "重做";
 "Cut" = "剪切";
 "Copy" = "复制";
@@ -70,7 +70,7 @@
 "Jump to Bottom" = "跳转到文末";
 "Math Tools" = "数学工具";
 "Refresh All Math Expressions" = "刷新所有数学公式";
-"Image Tools" = "图片工具";
+"Image Tools" = "图像工具";
 "Insert Local Images" = "插入本地图片";
 "Upload Local Images via iPic" = "使用 iPic 上传本地图片";
 "When Insert Local Image" = "当插入本地图片时";
@@ -147,14 +147,14 @@
 
 /* View Menu */
 "View" = "显示";
-"New Tab" = "新建标签";
+"New Tab" = "新建标签页";
 "Source Code Mode" = "源代码模式";
 "Focus Mode" = "专注模式";
 "Typewriter Mode" = "打字机模式";
 "Toggle Sidebar" = "显示／隐藏侧边栏";
-"Outline" = "大纲视图";
-"Articles" = "文档列表视图";
-"File Tree" = "文件树视图";
+"Outline" = "大纲";
+"Articles" = "文档列表";
+"File Tree" = "文件树";
 "Always on Top" = "保持窗口在最前端";
 "Full Screen" = "全屏";
 "Show Status Bar" = "显示状态栏";
@@ -163,7 +163,7 @@
 "Zoom In" = "放大"; 
 "Zoom Out" = "缩小"; 
 "Switch Between Opened Documents" = "应用内窗口切换"; 
-"Toggle DevTools" = "打开开发者工具"; 
+"Toggle DevTools" = "开发者工具"; 
 
 /* Themes Menu */
 "Themes" = "主题";
@@ -176,11 +176,13 @@
 
 /* Help Menu */
 "Help" = "帮助";
+"More Topics" = "更多主题";
 "Privacy Policy" = "隐私条款";
 "Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
 "Feedback" = "反馈";
+"Check Updates" = "检查更新";
 "About" = "关于";
 
 /* Touchbar */
@@ -236,7 +238,7 @@
 "Prettify Source Code" = "格式化表格源码";
 "Copy '%@'" = "复制 '%@'";
 "Copy to %@" = "复制到 %@";
-"Copy Image to..." = "复制图片到…";
+"Copy Image to" = "复制图片到";
 "Upload via iPic" = "通过 iPic 上传图片";
 "Open Image Location" = "打开图片位置";
 
@@ -271,3 +273,33 @@
 "Copy without Theme Styling" = "复制内容并简化格式";
 "Recent Files" = "最近打开的文件";
 "File Results" = "匹配的文件";
+
+"Insert Table" = "插入表格";
+"Insert Image" = "插入图片";
+"Allow Magnification" = "双指缩放";
+
+"Move Row Up" = "上移该行";
+"Move Row Down" = "下移该行";
+"Move Column Left" = "左移该列";
+"Move Column Right" = "右移该列";
+
+"Zoom Image" = "缩放图片";
+"Zoom Image to %@" = "缩放图片至 %@";
+
+"Copy as Plain Text" = "复制为纯文本";
+
+"Selection" = "选择";
+"Start Speaking" = "开始朗读";
+"Stop Speaking" = "结束朗读";
+"Check Updates" = "检查更新";
+
+"HTML (without Styles)" = "HTML (无样式)";
+
+"Highlight Current Header" = "高亮当前标题";
+"Expand All" = "全部展开";
+"Collapse All" = "全部折叠";
+"Collapsible Outline" = "大纲视图（可折叠）";
+"Flat Outline" = "大纲视图（无折叠）";
+"Articles (List View)" = "文档列表";
+"File Tree (Tree View)" = "文档树";
+"Filter" = "搜索";

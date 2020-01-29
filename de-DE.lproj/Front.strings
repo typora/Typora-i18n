@@ -4,6 +4,7 @@
 
  by hi@typora.io
  translated by Alexander Rink <typora@rcvd.io>
+               Indeximal <indeximal@gmail.com>
 */
 
 /* Common */
@@ -44,7 +45,6 @@
 "Delete Table" = "Tabelle löschen";
 
 /* Images */
-"Copy Image To..." = "Bild kopieren nach...";
 "Create Folder" = "Ordner erstellen";
 
 /* Math */
@@ -73,10 +73,12 @@
 "Sort" = "Sortieren";
 "Group By Folder" = "Nach Ordnern gruppieren";
 "Sort Naturally" = "Natürlich sortieren";
-"Sort by Name" = "Nach Name sortieren";
-"Sort by Modification Date" = "Nach Änderungsdatum sortieren";
+"Sort by Name (Ascending)" = "Nach Name sortieren (Aufsteigend)";
+"Sort by Modification Date (Ascending)" = "Nach Änderungsdatum sortieren (Aufsteigend)";
+"Sort by Name (Descending)" = "Nach Name sortieren (Absteigend)";
+"Sort by Modification Date (Descending)" = "Nach Änderungsdatum sortieren (Absteigend)";
 "Location" = "Ort";
-"Switch File List/Tree View" = "Zwischen Dateilisten- / -baumansicht wechseln";
+"Switch File List/Tree View" = "Zwischen Listen- und Baumansicht wechseln";
 "No Files Available" = "Es sind keine Dateien verfügbar";
 "No Folder is Opened." = "Es ist kein Ordner geöffnet.";
 "Outline is Empty." = "Die Gliederung ist leer.";
@@ -119,7 +121,7 @@
 "Successfully uploaded {0} images." = "{0} Bilder wurden erfolgreich hochgeladen";
 "Failed to upload image. Error Message:" = "Bild konnte nicht hochgeladen werden. Fehler Nachricht:";
 "Failed to Copy Image to Target Folder." = "Bild konnte nicht in den Zielordner kopiert werden.";
-"Select Container Folder" = "Container Ordner auswählen";
+"Select Container Folder" = "Container-Ordner auswählen";
 
 "Saved" = "Gespeichert";
 
@@ -129,3 +131,43 @@
 /* search option */
 "Case Sensitive" = "Groß- und Kleinschreibung beachten";
 "Whole Word" = "Gesamtes Wort";
+
+"input image URL" = "Gib die Bild-URL ein";
+"Select image from local file" = "Wähle ein Bild vom Computer";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> konnte nicht geöffnet werden, meintest du <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "wähle eine Sprache aus";
+"Finish Editing" = "Bearbeiten beenden";
+
+"Revert advanced setting file to default one ?" = "Soll die Datei der erweiterten Einstellung zurückgesetzt werden ?";
+
+"Select Spell Check Language" = "Wähle Rechschreibekorrektur-Sprache";
+"Auto Detect Language" = "Automatisch Sprache erkennen";
+"Disable Spell Check" = "Rechschreibekorrektur deaktivieren";
+"Global Setting…" = "Globale Einstellungen…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Die Wörterbuch-Datei für %@ ist nicht vorhanden.";
+"Install Language Support" = "Sprachunterstützung installieren";
+"License Information" = "Lizenz-Informationen";
+"Download" = "Download";
+"Install dictionary file only for Typora" = "Wörterbuch-Datei nur für Typora installieren";
+"Spell Check (%@ unavailable)" = "Rechschreibekorrektur (%@ nicht verfügbar)";
+"Spell Check (%@ downloading)" = "Rechschreibekorrektur (%@ wird heruntergeladen)";
+"Download dictionary file for %@" = "Wörterbuch-Datei für %@ herunterladen";
+"(Default spell check option)" = "(Standard Rechschreibekorrektur-Option)";
+"Failed to load spellcheck module" = "Das Laden des Rechschreibekorrektur-Moduls ist gescheitert";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> wurde angeschalten.";
+"You could turn it off from `View` menu." = "Du könntest es im `Darstellung`-Menü ausstellen.";
+"The file is too large to render in Typora." = "Die Datei ist zu groß, um in Typora dargestellt zu werden.";
+"Open in…" = "Öffnen mit…";
+"Quick Look" = "Schnellvorschau";
+
+"Filter" = "Filter";
+"No result found." = "Keine Resultate gefunden.";
+"Continue & Overwrite" = "Fortfahren und Überschreiben";
+"The file is read-only, or you do not have right permissions to modify the file." = "Diese Datei ist schreibgeschützt oder du hast nicht die Berechtigungen diese Datei zu verändern.";
+
+"Learn Data Recovery" = "Data-Recovery kennenlernen";
+"Auto refresh on Files Panel cannot be enabled." = "Automatisches Neuladen vom Files-Panel konnten nicht aktiviert werden.";
+"Delete Permanently" = "Unwiderruflich Löschen";
+

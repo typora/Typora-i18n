@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com
 */
 
 /* Typora Menu */
@@ -11,10 +11,10 @@
 "Preferences" = "Preferencje";
 "Check for Updates" = "Sprawdź dostępność aktualizacji";
 "Services" = "Usługi";
-"Hide Typora" = "Ukryj Typora";
+"Hide Typora" = "Ukryj Typorę";
 "Hide Others" = "Ukryj resztę";
 "Show All" = "Pokaż wszystko";
-"Quit Typora" = "Zamknij Typora";
+"Quit Typora" = "Zamknij Typorę";
 
 /* File Menu */
 
@@ -24,12 +24,12 @@
 "Open Folder" = "Otwórz folder";
 "Reopen with Encoding" = "Otwórz ponownie z kodowaniem";
 "Auto" = "Automatycznie";
-"Open Recent" = "Otwórz najnowszy";
-"Recent Locations" = "Ostatnie lokacje";
-"Clear Items" = "Wyczyść pozycję";
-"No Recent Files" = "Brak najnowszych plików";
+"Open Recent" = "Otwórz ostatnio używane";
+"Recent Locations" = "Ostatnie lokalizacje";
+"Clear Items" = "Wyczyść listę";
+"No Recent Files" = "Brak ostatnio używanych plików";
 "Open Quickly" = "Szybkie otwarcie";
-"Open File Location" = "Otwórz lokację pliku";
+"Open File Location" = "Otwórz położenie pliku";
 "Reveal in Library" = "Pokaż w bibliotece";
 "Reveal in File Tree" = "Pokaż w drzewie pliku";
 "Close" = "Zamknij";
@@ -46,9 +46,9 @@
 "Print" = "Drukuj";
 
 /* Edit Menu */
-"Edit" = "Edytuj";
+"Edit" = "Edycja";
 "Undo" = "Cofnij";
-"Redo" = "Popraw";
+"Redo" = "Ponów";
 "Cut" = "Wytnij";
 "Copy" = "Kopiuj";
 "Paste" = "Wklej";
@@ -56,35 +56,34 @@
 "Copy as HTML Code" = "Kopiuj jako kod HTML";
 "Paste as Plain Text" = "Wklej jako zwykły tekst";
 "Select All" = "Zaznacz wszystko";
-"Select Line/Sentence" = "Zaznacz linijkę/zdanie";
+"Select Line/Sentence" = "Zaznacz wiersz/zdanie";
 "Select Styled Scope" = "Zaznacz stylizowany zakres";
 "Select Word" = "Zaznacz słowo";
 "Delete" = "Usuń";
 "Delete Range" = "Usuń zaznaczenie";
 "Delete Word" = "Usuń słowo";
 "Delete Styled Scope" = "Usuń stylizowany zakres";
-"Delete Line/Sentence" = "Usuń linijkę/zdanie";
+"Delete Line/Sentence" = "Usuń wiersz/zdanie";
 "Jump To" = "Przeskocz do";
-"Jump to Top" = "Przeskocz do góry";
+"Jump to Top" = "Przeskocz na początek";
 "Jump to Selection" = "Przeskocz do zaznaczenia";
-"Jump to Bottom" = "Przeskocz do dołu";
+"Jump to Bottom" = "Przeskocz na koniec";
 "Math Tools" = "Narzędzia matematyczne";
-"Refresh All Math Expressions" = "Odśwież wszytskie wyrażenia matematyczne";
+"Refresh All Math Expressions" = "Odśwież wszystkie wyrażenia matematyczne";
 "Image Tools" = "Narzędzia edycji obrazu";
 "Insert Local Images" = "Wstaw lokalny obraz";
-"Upload Local Images via iPic" = "Przekaż lokalne obrazy za pomocą iPic";
+"Upload Local Images via iPic" = "Prześlij lokalne obrazy za pomocą iPic";
 "When Insert Local Image" = "Kiedy zostanie wstawiony lokalny obraz";
 "Copy Image File to Folder" = "Kopiuj obraz do folderu";
-"Upload Image via iPic" = "Przekaż obraz za pomocą iPic";
+"Upload Image via iPic" = "Prześlij obraz za pomocą iPic";
 "Use Image Root Path" = "Użyj ścieżki źródłowej obrazu";
 "Line Endings" = "Zakończenia linii";
 "Windows Line Endings (CRLF)" = "Zakończenia linii według Windows (CRLF)";
 "Unix Line Endings (LF)" = "Zakończenia linii według Unix (LF)";
 "Find" = "Znajdź";
-"Find" = "Znajdź";
 "Find Next" = "Znajdź następny";
 "Find Previous" = "Znajdź poprzedni";
-"Find and Replace" = "Znajdź oraz zamień";
+"Find and Replace" = "Znajdź i zamień";
 "Replace" = "Zamień";
 "Replace Next" = "Zamień następny";
 "Spelling and Grammar" = "Pisownia i gramatyka";
@@ -97,7 +96,7 @@
 "Smart Dashes" = "Inteligentne myślniki";
 "Text Replacement" = "Zamiana tekstu";
 "Speech" = "Mowa";
-"Start Speaking" = "Rozpocznij mowę";
+"Start Speaking" = "Zacznij mówić";
 "Stop Speaking" = "Zatrzymaj mowę";
 
 /* Paragraph Menu */
@@ -108,24 +107,24 @@
 "Heading 4" = "Nagłówek 4";
 "Heading 5" = "Nagłówek 5";
 "Heading 6" = "Nagłówek 6";
-"Increase Heading Level" = "Zwiększ nagłówek";
-"Decrease Heading Level" = "Zmniejsz nagłówek";
+"Increase Heading Level" = "Podnieś poziom nagłówka";
+"Decrease Heading Level" = "Obniż poziom nagłówka";
 "Table" = "Tabela";
-"Code Fences" = "Kod";
+"Code Fences" = "Blok kodu";
 "Math Block" = "Blok matematyczny";
 "Quote" = "Cytat";
-"Ordered List" = "Uporządkowana lista";
-"Unordered List" = "Nieuporządkowana lista";
+"Ordered List" = "Lista numerowana";
+"Unordered List" = "Lista wypunktowana";
 "Task List" = "Lista zadań";
 "Task Status" = "Status zadania";
-"Toggle Task Status" = "Pokaż status zadań";
+"Toggle Task Status" = "Przełącz status zadania";
 "Mark as Complete" = "Oznacz jako zakończone";
 "Mark as Incomplete" = "Oznacz jako niezakończone";
-"List Indentation" = "Spis akapitów";
-"Indent" = "Akapit";
+"List Indentation" = "Wcięcie listy";
+"Indent" = "Zwiększ wcięcie";
 "Outdent" = "Zmniejsz wcięcie";
-"Link Reference" = "Odniesienie do linku";
-"Footnotes" = "Stópki";
+"Link Reference" = "Odsyłacz do łącza URL";
+"Footnotes" = "Stopki";
 "Horizontal Line" = "Linia pozioma";
 "Table of Contents" = "Spis treści";
 "YAML Front Matter" = "Predefiniowane zmienne YAML";
@@ -133,36 +132,36 @@
 /* Format Menu */
 "Format" = "Format";
 "Strong" = "Pogrubienie";
-"Emphasis" = "Pochylenie";
+"Emphasis" = "Kursywa";
 "Underline" = "Podkreślenie";
 "Code" = "Kod";
 "Inline Math" = "Wyróżnienie wstawki matematycznej";
 "Strike" = "Przekreślenie";
-"Highlight" = "Podświetlenie";
-"Superscript" = "Górna część linijki";
-"Subscript" = "Dolna część linijki";
+"Highlight" = "Wyróżnienie";
+"Superscript" = "Indeks górny";
+"Subscript" = "Indeks dolny";
 "Comment" = "Komentarz";
-"Hyperlink" = "Hyperlink";
+"Hyperlink" = "Hiperłącze";
 "Image" = "Obraz";
 "Clear Format" = "Wyczyść formatowanie";
 
 /* View Menu */
 "View" = "Widok";
 "New Tab" = "Nowa karta";
-"Source Code Mode" = "Tryb Kodu Źródłowego";
+"Source Code Mode" = "Tryb kodu źródłowego";
 "Focus Mode" = "Tryb skupienia";
-"Typewriter Mode" = "Tryb pisarza";
-"Toggle Sidebar" = "Aktywuj panel boczny";
-"Outline" = "Zmniejsz wcięcie";
-"Articles" = "Notatki";
-"File Tree" = "Drzewo pliku";
+"Typewriter Mode" = "Tryb maszyny do pisania";
+"Toggle Sidebar" = "Pokaż/ukryj panel boczny";
+"Outline" = "Konspekt";
+"Articles" = "Artykuły";
+"File Tree" = "Drzewo plików";
 "Always on Top" = "Zawsze na wierzchu";
 "Full Screen" = "Pełny ekran";
-"Show Status Bar" = "Pokaż pasek postępu";
+"Show Status Bar" = "Pokaż pasek stanu";
 "Toggle Fullscreen" = "Włącz tryb pełnoekranowy";
-"Actual Size" = "Aktualny rozmiar";
-"Zoom In" = "Przybliż";
-"Zoom Out" = "Oddal";
+"Actual Size" = "Rzeczywisty rozmiar";
+"Zoom In" = "Powiększ";
+"Zoom Out" = "Pomniejsz";
 "Switch Between Opened Documents" = "Przejdź między otwartymi dokumentami";
 "Toggle DevTools" = "Aktywuj narzędzia deweloperskie";
 
@@ -173,23 +172,24 @@
 /* Window Menu */
 "Window" = "Okno";
 "Minimize" = "Minimalizuj";
-"Zoom" = "Przybliż";
-"Bring All to Front" = "Przenieś wszystko do przodu";
+"Zoom" = "Powiększ";
+"Bring All to Front" = "Przenieś wszystko na wierzch";
 
 /* Help Menu */
 "Help" = "Pomoc";
+"Privacy Policy" = "Polityka prywatności";
 "Credits" = "Podziękowania";
-"Change Log" = "Changelog";
-"Website" = "Strona";
+"Change Log" = "Dziennik zmian";
+"Website" = "Witryna WWW";
 "Feedback" = "Kontakt";
 "About" = "O nas";
 
 /* Touchbar */
 "Block Styles" = "Style bloku";
 "Inline Styles" = "Style wstawki";
-"List Styles / Remove Block" = "Spis stylów / Usuń blok";
-"Exit Source Code Mode" = "Wyłącz tryb Kodu Źródłowego";
-"Toggle Source Code Mode" = "Aktywuj tryb Kodu Źródłowego";
+"List Styles / Remove Block" = "Style listy / Usuń blok";
+"Exit Source Code Mode" = "Wyłącz tryb kodu źródłowego";
+"Toggle Source Code Mode" = "Przełącz tryb kodu źródłowego";
 
 /* Extra Context Menu */
 "Table" = "Tabela";
@@ -202,13 +202,13 @@
 "Copy Table" = "Kopiuj tabelę";
 "Delete Table" = "Usuń tabelę";
 "Insert Paragraph After" = "Wstaw akapit po";
-"Insert Paragraph Before" = "Wstaw paragraf przed";
+"Insert Paragraph Before" = "Wstaw akapit przed";
 "Delete Code Block" = "Usuń blok kodu";
 "Copy as MathML" = "Kopiuj jako MathML";
 "Copy as Tex" = "Kopiuj jako TeX";
 "Copy Math" = "Kopiuj działanie";
 "Reveal in Finder" = "Pokaż w Finderze";
-"Open Link" = "Otwórz link";
+"Open Link" = "Otwórz łącze";
 "Reveal in Sidebar" = "Pokaż w panelu bocznym";
 "Open in New Window" = "Otwórz w nowym oknie";
 "Copy File Path" = "Kopiuj ścieżkę pliku";
@@ -218,7 +218,7 @@
 "Move to Trash" = "Przenieś do kosza";
 
 /* Electron */
-"Learn Spelling" = "Nauka pisowni";
+"Learn Spelling" = "Zapamiętaj pisownię";
 "Copy / Paste As…" = "Kopiuj / Wklej jako…";
 "Math" = "Działanie matematyczne";
 "Insert" = "Wstaw";
@@ -234,4 +234,71 @@
 "Open Failed" = "Otwarcie nie powiodło się.";
 "File or folder does not exist." = "Plik lub folder nie istnieje.";
 
+"Prettify Source Code" = "Upiększ kod źródłowy";
+"Copy '%@'" = "Skopiuj '%@'";
+"Copy to %@" = "Skopiuj do %@";
+"Copy Image to" = "Skopiuj obraz do";
+"Upload via iPic" = "Prześlij za pomocą iPic";
+"Open Image Location" = "Otwórz położenie pliku";
+
+"Learn More" = "Dowiedz się więcej";
+"Whitespace and Line Breaks" = "Znaki spacji i końca linii";
+"Indent first line of paragraphs" = "Wcięcie pierwszego wiersza akapitu";
+"Preserve single line break" = "Zachowaj pojedynczy znak końca linii";
+"Visible <br/>" = "Widoczne <br/>";
+
+"Save All" = "Zapisz wszystkie";
+"New Window" = "Nowe okno";
+"Reopen Closed File" = "Otwórz zamknięty plik";
+
+"Global Image Settings" = "Globalne ustawienia obrazów";
+"Smart Punctuation" = "Inteligentna interpunkcja";
+"Convert on Input" = "Konwertuj podczas wpisywania";
+"Convert on Rendering" = "Konwertuj podczas renderingu";
+"Remap Unicode Punctuation on Parse" = "Przekształć interpunkcję Unicode podczas przetwarzania";
+"More Options" = "Więcej opcji";
+
+"HTML Block" = "Blok HTML";
+"Delete Block" = "Usuń blok";
+"Delete %@" = "Usuń %@";
+"Play" = "Odtwórz";
+"Pause" = "Wstrzymaj";
+
+"Spell Check" = "Sprawdzanie pisowni";
+"Unlearn Spelling" = "Zapomnij pisownię";
+"Properties" = "Właściwości";
+
 "Search" = "Szukaj";
+"Copy without Theme Styling" = "Skopiuj bez formatowania stylów";
+"Recent Files" = "Ostatnio używane pliki";
+"File Results" = "Pliki wynikowe";
+
+"Insert Table" = "Wstaw tabelę";
+"Insert Image" = "Wstaw obraz";
+"Allow Magnification" = "Zezwól na powiększenie";
+
+"Move Row Up" = "Przenieś wiersz wyżej";
+"Move Row Down" = "Przenieś wiersz niżej";
+"Move Column Left" = "Przenieś kolumnę w lewo";
+"Move Column Right" = "Przenieś kolumnę w prawo";
+
+"Zoom Image" = "Powiększ obraz";
+"Zoom Image to %@" = "Powiększ obraz o %@";
+
+"Copy as Plain Text" = "Kopiuj jako zwykły tekst";
+
+"Selection" = "Zaznaczenie";
+"Start Speaking" = "Zacznij mówić";
+"Stop Speaking" = "Zatrzymaj mowę";
+"Check Updates" = "Sprawdź dostępność aktualizacji";
+
+"HTML (without Styles)" = "HTML (bez stylów)";
+
+"Highlight Current Header" = "Podświetl bieżący nagłówek";
+"Expand All" = "Rozwiń wszystko";
+"Collapse All" = "Zwiń wszystko";
+"Collapsible Outline" = "Rozwijany konspekt";
+"Flat Outline" = "Płaski konspekt";
+"Articles (List View)" = "Artykuły (widok listy)";
+"File Tree (Tree View)" = "Drzewo plików (widok drzewa)";
+"Filter" = "Filtruj";

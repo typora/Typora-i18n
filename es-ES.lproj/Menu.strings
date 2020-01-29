@@ -28,7 +28,7 @@
 "Recent Locations" = "Ubicaciones recientes";
 "Clear Items" = "Limpiar elementos";
 "No Recent Files" = "No hay archivos recientes";
-"Open Quickly" = "Arbir rápidamente";
+"Open Quickly" = "Abrir rápidamente";
 "Open File Location" = "Abrir ubicación del archivo";
 "Reveal in Library" = "Mostrar como librería"; /* Needs context */
 "Reveal in File Tree" = "Mostrar como árbol de archivos";
@@ -234,3 +234,8 @@
 "File or folder does not exist." = "Archivo o carpeta no existe.";
 
 "Search" = "Buscar";
+
+"Insert Table" = "Insertar tabla";
+"Insert Image" = "Insert Image";
+
+"Copy Image to" = "Copiar imagen a";

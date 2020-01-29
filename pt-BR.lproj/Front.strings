@@ -43,7 +43,6 @@
 "Delete Table" = "Remover tabela";
 
 /* Images */
-"Copy Image To..." = "Copiar imagem para...";
 "Create Folder" = "Criar diretório";
 
 /* Math */
@@ -72,8 +71,10 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por diretório";
 "Sort Naturally" = "Naturalmente";
-"Sort by Name" = "Ordem alfabética";
-"Sort by Modification Date" = "Data de alteração";
+"Sort by Name (Ascending)" = "Ordem alfabética (Ascending)";
+"Sort by Modification Date (Ascending)" = "Data de alteração (Ascending)";
+"Sort by Name (Descending)" = "Ordem alfabética (Descending)";
+"Sort by Modification Date (Descending)" = "Data de alteração (Descending)";
 "Location" = "Localização";
 "Switch File List/Tree View" = "Exibição em Lista/Árvore";
 "No Files Available" = "Nenhum arquivo disponível";

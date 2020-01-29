@@ -205,7 +205,7 @@
 "More Formats" = "További formátumok";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "A 'További formátumok' szakaszban szereplő formátumokhoz <a class='open-pandoc-guide'>telepíteni kell a Pandoc-ot</a>.";
 "Something is Wrong…" = "Hiba történt…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "A mentés valamilyen okból nem sikerült.<br/>Átmásolhatja a dokumentum tartalmát egy új Typora ablakba, és onnan elmentheti. <br/>További információk:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Programhibák bejelentése</a></li><li><a href='http://support.typora.io/Version-Control//'>Elveszett tartalom helyreállítása</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "A mentés valamilyen okból nem sikerült.<br/>Átmásolhatja a dokumentum tartalmát egy új Typora ablakba, és onnan elmentheti. <br/>További információk:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Programhibák bejelentése</a></li><li><a href='https://support.typora.io/Version-Control//'>Elveszett tartalom helyreállítása</a></li></ul>";
 "Copy Content" = "Tartalom másolása";
 
 
@@ -256,3 +256,31 @@
 "Folder not exist at %@, please input another path." = "A %@ helyen nincs mappa, adjon meg egy másik útvonalat.";
 "Please input a folder path." = "Írjon be egy elérési utat.";
 "Cannot use root path." = "A gyökérmappa nem használható.";
+
+"Get Themes" = "Új témák beszerzése";
+"File/directory alreay exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
+"Keep Both" = "Mindkettő megtartása";
+"Are you sure you want to move %@?" = "Biztosan mozgatni akarja ezt: %@?";
+
+"Are you sure you want to delete %@?" = "Biztosan törölni akarja ezt: %@?";
+"You can restore from the Trash." = "A Lomtárból később visszaállíthatja.";
+
+"Reset All Dialog Warnings" = "A párbeszédablakok figyelmeztetéseinek visszaállítása";
+"Dialogs" = "Párbeszédablakok";
+"Dialog warnings have been reset." = "A párbeszédablakok figyelmeztetéseinek visszaállítása megtörtént.";
+
+"Operation Failed" = "A művelet sikertelen";
+"Failed to move target file or folder to trash" = "A cél fájl vagy könyvtár mozgatása a lomtárba nem sikerült";
+
+"Undo %@" = "%@ visszavonása";
+"Rename %@" = "%@ átnevezése";
+"Copy %@" = "%@ másolása";
+"Move %@" = "%@ mozgatása";
+"Delete %@" = "%@ törlése";
+
+"Turn off Typewriter / Focus Mode" = "Írógép/fókusz mód kikapcsolása";
+"Typewriter / Focus Mode have been turned off." = "Az írógép/fókusz mód kikapcsolása megtörtént.";
+
+"Reading Speed" = "Olvasási sebesség";
+"Auto" = "Automatikus";
+"words / min" = "szó/perc";

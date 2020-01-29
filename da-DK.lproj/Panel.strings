@@ -1,0 +1,316 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+
+ by hi@typora.io
+ Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
+ */
+
+/* Preference Panel */
+"Preferences" = "Indstillinger";
+
+/* General Panel */
+"General" = "Generelt";
+"Window Style" = "Vinduestype";
+"Classic" = "Klassisk";
+"Seamless" = "Sømløst";
+"Seamless window only support OS X later than 10.10." = "Sømløst vindue understøttes kun på OS X senere end 10.10.";
+"Themes" = "Temaer";
+"Open Theme Folder" = "Åbn temafolder";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Læs venligst `Hjælp`->`Hurtigstart` for at få en hurtig introduktion. Besøg http://theme.typora.io for at finde flere temaer og instruktioner.";
+"Word Count" = "Antal ord";
+"Always Show Word Count" = "Vis altid antal ord";
+"Font Size" = "Fontstørrelse";
+"Auto ( Recommended )" = "Auto (Anbefalet)";
+"Customized" = "Tilpasset";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Hvis tilpasset fontstørrelse anvendes så vil den faktiske fontstørrelse afhængige af grundfontens størrelse og CSS typografi.";
+"Left Panel" = "Sidepanel";
+"Show Outline Panel by Default" = "Vis sidepanel ved opstart";
+"Collapsible Outline on Left Panel" = "Disposition i sidepanel der kan skjules";
+"Save without asking when\nswitch files on side panel" = "Gem automatisk uden at bekræfte når\nder vælges en anden fil i sidepanelet";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Rettede filer bliver gemt uden bekræftelse når der vælges en anden fil i sidepanelet. \nDette er altid koblet til når \"Bekræft gemning af ændringer når et dokument lukkes\" er koblet til i Systemindstillingerne.";
+"Language" = "Sprog";
+"System Language" = "Systemsprog";
+
+/* Editor Panel */
+"Editor" = "Editor";
+"Indent Size on Save" = "Størrelse af indrykninger når der gemmes";
+"only apply to quotes and lists created from menu bar or hybrid view" = "anvend kun på citater og lister der er oprettet ved hjælp af menuen eller i blandet visning";
+"Trigger Autocomplete without ESC key for" = "Fuldfør automatisk uden ESC tast";
+"Emoji (e.g. :smile:)" = "Emoji (f. eks. :smile:)";
+"Images Insert" = "Indsætning af billeder";
+"Use relative path if possible" = "Brug relative stier hvis muligt";
+"Auto Pair" = "Automatisk parring";
+"Auto pair brackets and quotes" = "Brug automatisk parring af klammer og citationstegn";
+"Auto pair common Markdown syntax" = "Brug automatisk parring i almindeligt Markdown format";
+"Live Rendering" = "Levende visning";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Vis kildekode for simple blokke\n(inklusive overskrifter m.m.) ved fokus";
+"Default Copy Behavior" = "Kopiering";
+"Copy Markdown source as plain text" = "Kopiér Markdown kildetekst som almindelig tekst";
+"Typewriter Mode" = "Skrivemaskinetilstand";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Tving markøren til at altid være i midten\naf skærmen når skrivemaskinetilstand er aktiveret";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(De følgende indstillinger anvendes først når Typora genstartes.)";
+"Syntax Support" = "Formater";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Indbyggede formler (f. eks.: $\LaTeX$)";
+"Subscript    ( e.g: H~2~O )" = "Sænket skrift      (f. eks.: H~2~O)";
+"Superscript ( e.g: X^2^ )" = "Hævet skrift    (f. eks.: X^2^)";
+"Highlight     (e.g: ==key==)" = "Markeret skrift    (f. eks.: ==key==)";
+"Diagrams" = "Diagrammer";
+"(Sequence, Flowchart and Mermaid)" = "(sekvens, rutediagram og Mermaid)";
+"Syntax Preference" = "Indstillinger for formater";
+"(only apply for styles created from menubar or hybrid view)" = "(anvendes kun for typografier der er oprettet ved hjælp af menuen eller i blandet visning)";
+"Strict Mode" = "Krævende tilstand";
+"(more strict to GFM spec)" = "(mere krævende end GFM standard)";
+"Heading Style" = "Overskriftstypografi";
+"Unordered List" = "Ikke-ordnet liste";
+"Ordered List" = "Ordnet liste";
+"Code Fences" = "Kodeblokke";
+"Display line numbers for code fences" = "Vis linjenumre i kodeblokke";
+"Math Blocks" = "Formularblokke";
+"Auto Numbering Math Equations" = "Nummerér automatisk matematiske formler";
+
+/* Security Panel */
+"Security" = "Sikkerhed";
+"Enable Debug" = "Aktivér debugging";
+"Send Anonymous Usage Info" = "Send anonyme brugsoplysninger";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Pandoc kræves for at fortsætte...";
+"Follow instructions to install Pandoc" = "Installér Pandoc i henhold til instruktionerne";
+"Cancel" = "Afbryd";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importerer...";
+"Importing in progress..." = "Importerer stadigvæk...";
+"Converting file with Pandoc. This may take some time." = "Konverterer filen med Pandoc. Dette kan tage lidt tid.";
+"Abort" = "Afbryd";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Exporterer...";
+"Exporting in progress..." = "Eksporterer stadigvæk...";
+"Converting file with Pandoc. This may take some time." = "Konverterer filen med Pandoc. Dette kan tage lidt tid.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc kræves for at importere disse filformater";
+"Check help->Install and use Pandoc from menubar for detail" = "Læs 'Hjælp->Installér og brug Pandoc' i menuen for flere oplysninger";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import- og nogle eksportfunktioner kræver at <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) er installeret.";
+"Follow Instructions to Install/Update Pandoc" = "Følg instruktionerne for at installere/opdatere Pandoc";
+"Export Failed" = "Eksport fejlede";
+"Import Failed" = "Import fejlede";
+"Generated Image too Large" = "Det dannede billede er for stort";
+"Failed to export file to <em>{0}</em>" = "Kunne ikke eksportere filen til <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Kunne ikke importere filen fra <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Filen <em>{0}</em> findes ikke";
+"Export to..." = "Eksportér til...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Ønsker du at gemme ændringerne i dette dokument?<br>Dine ændringer vil gå tabt hvis du ikke gemmer dem.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Advarsel] Kunne ikke vedhægte bogmærke for PDF fil.";
+"Dark Theme not support" = "Mørkt tema understøttes ikke";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Beklager men den nuværende version af Typora gemmer ikke baggrundsfarven i eksporterede PDF filer så mørke temaer understøttes endnu ikke ved eksport af PDF filer.\nVælg venligst et lyst tema eller klik \"Udskriv med normalt tema\"";
+"Print with default theme" = "Udskriv med normalt tema";
+"Export to PDF successfully." = "PDF fil eksporteret uden fejl.";
+"Converting file using Pandoc. This may take some time." = "Konverterer vha. Pandoc. Dette kan tage lidt tid.";
+"Exporting file using Pandoc. This may take some time." = "Eksporterer vha. Pandoc. Dette kan tage lidt tid.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Uploader billeder vha. iPic...";
+"Uploading in progress..." = "Upload i gang...";
+"Do not show this again" = "Vis ikke dette igen";
+
+/* Word Count */
+"Minute" = "minut";
+"Line" = "linje";
+"Word" = "ord";
+"Character" = "tegn";
+
+"Minutes" = "minutter";
+"Lines" = "linjer";
+"Words" = "ord";
+"Characters" = "tegn";
+"In Selection" = "I markering";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Udseende";
+"System Native" = "Systemets standard";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(anvendes efter genstart)";
+"Status Bar" = "Statuslinje";
+"Show status bar" = "Vis statuslinje";
+"Save & Recover" = "Gem og gendan";
+"Auto Save" = "Automatisk gemning";
+"Recover Unsaved Drafts" = "Gendan ikke-gemte kladder";
+"Emoji Autocomplete" = "Fuldfør Emoji";
+"Trigger by ESC key" = "Udløs af ESC tast";
+"Trigger automatically" = "Udløs automatisk";
+"Default Line Ending" = "Linjesluttegn";
+"Line ending for new file" = "Linjesluttegn i ny fil";
+"Spell Check" = "Stavekontrol";
+"Auto correct spelling" = "Korrigér automatisk stavning";
+"System" = "System";
+"Privacy" = "Privatliv";
+"Developer" = "Udvikler";
+"Update" = "Opdateringer";
+"Check Updates" = "Tjek for opdateringer";
+"Check updates automatically" = "Tjek automatisk for opdateringer";
+"Advanced Settings" = "Avancerede indstillinger";
+"Open Advanced Settings" = "Åbn avancerede indstillinger";
+"Reset Advanced Settings" = "Nulstil avancerede indstillinger";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Denne funktion kræver at den seneste udgave af iPic er installeret.";
+"Get iPic" = "Hent iPic";
+"Cannot Continue…" = "Kan ikke fortsætte…";
+"This feature require macOS >= 10.11" = "Denne funktion kræver macOS 10.11 eller nyere";
+"One More Step" = "Et trin mere";
+"Notice" = "Bemærk";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Dette kræver at iPic er installeret og billeder henvist til i dokumentet vil blive uploadet til cloud tjenester vha. iPic. Bemærk venligst også at den normale cloud tjeneste ikke understøtter sletning af uploadede billeder.";
+
+"%d Images Failed to Upload." = "%d billeder kunne ikke uploades.";
+"%d Succeeded," = "%d lykkedes, ";
+"Enable this feature on preferences panel" = "Aktivér denne funktion i indstillingerne";
+"The option `%@` must be enabled first" = "Indstillingen `%@` skal aktiveres først";
+"%@ is a file, not a directory" = "%@ er en fil, ikke en mappe";
+"Copy Images To…" = "Kopiér billeder til…";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML fortekst indstilling, men mappen findes ikke - opret den nu?";
+"Create Folder and Continue" = "Opret folder og fortsæt";
+"Document must be saved first" = "Dokumentet skal først gemmes";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vil kopiere det seneste indsatte billede til mappen angivet med en relativ sti, så gem venligst filen først.";
+"Open Operation Failed" = "Fejl ved åbning";
+
+"Support Documentation" = "Support dokumentation";
+
+"Markdown File" = "Markdown fil";
+"Plain Text File" = "Almindelig tekstfil";
+"All Files" = "Alle filer";
+"All Supported Formats" = "Alle understøttede formater";
+"Discard Changes" = "Fortryd ændringer";
+"Discard" = "Fortryd";
+
+"Menu" = "Menu";
+"Back" = "Tilbage";
+
+"Contact" = "Kontakt";
+"Open From..." = "Åbn fra...";
+"Import..." = "Importér...";
+"Recent Documents" = "Seneste dokumenter";
+"Search for…" = "Søg efter…";
+"Clear Recent Documents" = "Ryd seneste dokumenter";
+"File Name" = "Filnavn";
+"Path" = "Sti";
+"Export As..." = "Eksportér som...";
+"More Formats" = "Flere formater";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformaterne under 'Flere formater' kræver at <a class='open-pandoc-guide'>Pandoc er installeret</a>.";
+"Something is Wrong…" = "Noget gik galt…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Forsøget på at gemme fejlede af en eller anden årsag.<br/>Du kan f. eks. kopiere indholdet ind i et nyt Typora vindue og så gemme det.<br/>Lær mere om:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Rapportér fejl til os</a></li><li><a href='http://support.typora.io/Version-Control//'>Gendanne mistet indhold</a></li></ul>";
+"Copy Content" = "Kopiér indhold";
+
+
+"Total" = "Totalt";
+"Word count only support OS X later than 10.10." = "Antal ord kan kun vises på OS X senere end 10.10.";
+"Indent Size for Code" = "Indrykningsstørrelse for kode";
+"Auto wrap long lines" = "Del automatisk lange linjer";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Beklager, men den nuværende udgave af Typora kan ikke udskrive baggrundsfarver.\nDerfor kan mørke temaer endnu ikke udskrives.\n\nVælg venligst et lyst tema eller eksportér dette dokument som PDF.";
+"Export to PDF" = "Eksportér til PDF";
+"Pretty indentation" = "Pæn indrykning";
+"Update markdown reference for this image" = "Opdatér markdown henvisning for dette billede";
+
+"No special action" = "Ingen speciel handling";
+"Copy image to current folder (./)" = "Kopiér billede til nuværende mappe (./)";
+"Copy image to ./assets" = "Kopiér billede til ./assets";
+"Copy image to ./${filename}.assets" = "Kopiér billede til ./${filename}.assets";
+"Upload image via iPic" = "Upload billede vha. iPic";
+"Apply above rules to local images" = "Anvend ovenstående regler på lokale billeder";
+"Apply above rules to online images" = "Anvend ovenstående regler på online billeder";
+"Allow upload images automatically based on YAML settings" = "Upload billeder automatisk baseret på YAML indstillinger";
+
+"Learn More…" = "Læs mere…";
+"Whitespace / Line Break" = "Mellemrum/linjesluttegn";
+"When Writing" = "Ved udskrivning";
+"Export / Print" = "Eksportér/Udskriv";
+"Preserve sequential whitespace and single line break" = "Bevar mellemrum og enkelt linjeskift";
+"Ignore sequential whitespace and single line break" = "Ignorér mellemrum og enkelt linjeskift";
+
+"Quit" = "Afslut";
+"Quit Typora when last window is closed" = "Luk Typora når sidste vindue bliver lukket";
+"On Launch" = "Opstart";
+"Open new file" = "Åben ny fil";
+"Restore last closed folders" = "Gendan seneste lukkede mapper";
+"Restore last closed files and folders" = "Gendan seneste lukkede filer og mapper";
+"Open custom folder" = "Åben tilpasset folder";
+"Select custom folder" = "Vælg tilpasset folder";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Denne indstilling kan blive overstyret af \"Luk vinduer når et program lukkes\" i System indstillingerne";
+
+"Ignore" = "Ignorér";
+"Choose Default Folder" = "Vælg standardmappe";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Konvertér ved indtastning</strong>: Indtast ASCII bindestreger og citationstegn, konverter og gem som Unicode bindestreger/bølgede citationstegn.<br/><strong>Konvertér ved visning</strong>: Indtast og gem ASCII bindestreger/citationstegn, vis som Unicode bindestreger/citationstegn.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Genkend Unicode punkttegn som ASCII punkttegn når Markdown analyseres, e.g:<br/> <pre> 》 blokcitat → > blokcitat <br/> [navn](src ’titel’) → [navn](src 'titel')</pre>Dette bliver automatisk aktiveret hvis smarte bindestreger/citationstegn bliver konvertet under indtastning.<div>";
+
+"Copy image to custom folder" = "Kopier billede til specifik mappe";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Angiv venligst en relativ sti (som begynder med './' eller '../') eller en absolut sti til den nuværende mappe. (`${filename}` bruges til at repræsentere det nuværende filnavn.)";
+"Restore to previous setting" = "Gendan tidligere indstilling";
+"Folder not exist at %@, please input another path." = "Mappe %@ ikke fundet, angiv venligst en anden sti.";
+"Please input a folder path." = "Indtast venligst en mappesti.";
+"Cannot use root path." = "Kan ikke bruge roden som sti.";
+
+"Get Themes" = "Hent temaer";
+"File/directory alreay exists at target path." = "Fil eller mappe findes allerede.";
+"Keep Both" = "Behold begge";
+"Are you sure you want to move %@?" = "Er du sikker på, at du ønsker at flytte %@?";
+
+"Are you sure you want to delete %@?" = "Er du sikker på, at du ønsker at slette %@?";
+"You can restore from the Trash." = "Du kan genskabe fra papirkurven.";
+
+"Reset All Dialog Warnings" = "Nulstil alle dialogadvarsler";
+"Dialogs" = "Dialoger";
+"Dialog warnings have been reset." = "Dialogadvarsler er blevet nulstillet.";
+
+"Operation Failed" = "Operationen fejlede";
+"Failed to move target file or folder to trash" = "Kunne ikke flytte fil eller folder til papirkurven";
+
+"Undo %@" = "Fortryd %@";
+"Rename %@" = "Omdøb %@";
+"Copy %@" = "Kopier %@";
+"Move %@" = "Flyt %@";
+"Delete %@" = "Slet %@";
+
+"Turn off Typewriter / Focus Mode" = "Deaktiver skrivemaskinetilstand/fokustilstand";
+"Typewriter / Focus Mode have been turned off." = "Skrivemaskinetilstand/fokustilstand er blevet deaktiveret.";
+
+"Reading Speed" = "Oplæsningshastighed";
+"Auto" = "Auto";
+"words / min" = "ord pr. minut";
+
+"Reset to Default" = "Nulstil til standardværdier";
+"Select custom folder" = "Vælg tilpasset mappe";
+"120  words/minute (Slow)" = "120  ord pr. minut (langsom)";
+"240  words/minute (Medium)" = "240  ord pr. minut (mellem)";
+"382  words/minute (Fast)" = "382  ord pr. minut (hurtig)";
+
+"Copy and update image source to…" = "Kopier og opdatér billedkilde til…";
+"Updater" = "Opdatering";
+"Install Updates ?" = "Installér opdateringer?";
+"Quit and Install" = "Afslut og installér";
+"Download failed" = "Download fejlede";
+"Downloading Updates…" = "Henter opdateringer…";
+"Checking Updates…" = "Kigger efter opdateringer…";
+"Check Update Failed" = "Kunne ikke kigge efter opdateringer";
+"You are update to date!" = "Din version af Typora er opdateret!";
+"Latest version is $1, your version is $2" = "Den seneste version er $1, din version er $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Disse indstillinger kan også ændres i menuen \"Rediger→Mellemrum og linjeskift\"";
+"Auto escape image URL when insert" = "Konverter automatisk billed-URL ved indsættelse";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "F. eks., hvis du indsætter filen 'img/example file.png', vil det blive konverteret til 'img/example%20file.png'. Aktivér dette for at få bedre kompatibilitet med andre Markdown motorer eller deaktiver dette for bedre læsbarhed.";
+"Check updates automatically" = "Kig automatisk efter opdateringer";
+"Skip This Version" = "Spring denne version over";
+"Remind Me Later" = "Mind mig om det senere";
+"Download Update" = "Hent opdatering";
+"New version available." = "Ny version tilgængelig.";
+
+"When copy / export as HTML (without style)" = "Når du kopier/eksporterer som HTML (uden typografi)";
+"Use Rendered SVG" = "Brug tegnet SVG";
+"Use LaTeX Source" = "Brug LaTeX kildekode";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Aktiveres når du eksporterer som HTML (uden typografier), kopier som HTML, eller kopiere uden typografi.<br/>Når <strong>Brug LaTeX kildekode</strong> er valgt, vil Typora indsætte den rå LaTeX kildekode (e.g: $X^2$),<br/>Når <strong>Brug Tegnet SVG</strong> er valgt, bliver det tegnede SVG brug. Hvis du indsætter i et andet program, SVG kan blive ignoreret.</div>";
+

@@ -1,0 +1,278 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+ */
+
+/* Preference Panel */
+"Preferences" = "Cài đặt";
+
+/* General Panel */
+"General" = "Chung";
+"Window Style" = "Kiểu dáng cửa sổ";
+"Classic" = "Cổ điển";
+"Seamless" = "Không viền";
+"Seamless window only support OS X later than 10.10." = "Không viền chỉ hoạt động cho phiên bản OS X mới hơn 10.10.";
+"Themes" = "Themes";
+"Open Theme Folder" = "Mở thư mục Theme";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Vui lòng xem qua `Giúp đỡ`->`Khởi đầu nhanh` để có thêm thông tin cơ bản. Truy cập http://theme.typora.io để nhận thêm theme và hướng dẫn chi tiết.";
+"Word Count" = "Bộ đếm từ";
+"Always Show Word Count" = "Luôn hiện số lượng từ";
+"Font Size" = "Kích cỡ chữ";
+"Auto ( Recommended )" = "Tự động ( Đề xuất )";
+"Customized" = "Tùy chỉnh";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Nếu kích cỡ chử được tuỳ chỉnh lại thì các kích cỡ chữ thực tế sẽ phụ thuộc vào kích cỡ ban đầu và định kiểu trong css.";
+"Left Panel" = "Bảng bên trái";
+"Show Outline Panel by Default" = "Hiện bảng dàn bài theo mặc định";
+"Collapsible Outline on Left Panel" = "Bảng dàn bài gấp được ở bảng bên trái";
+"Save without asking when\nswitch files on side panel" = "Lưu mà không cần hỏi khi\nchuyển sang tập tin khác ở bảng bên";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Tập tin đã được chỉnh sửa sẽ tự động lưu mà không cần hỏi khi chuyển sang tập tin khác ở bảng bên. \nKhi đó \"Hỏi lại để lưu thay đổi khi đóng tài liệu\" được bật trong Tuỳ chỉnh hệ thống, sẽ luôn được bật.";
+"Language" = "Ngôn ngữ";
+"System Language" = "Ngôn ngữ hệ thống";
+
+/* Editor Panel */
+"Editor" = "Trình soạn thảo";
+"Indent Size on Save" = "Định kích thước thục lề khi lưu";
+"only apply to quotes and lists created from menu bar or hybrid view" = "chỉ áp dụng cho trích dẫn và danh sách được tạo từ thanh menu hoặc kiểu xem hỗn hợp";
+"Trigger Autocomplete without ESC key for" = "Bật/tắt tự động hoàn tất không cần dùng phím ESC cho";
+"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Images Insert" = "Chèn hình ảnh";
+"Use relative path if possible" = "Sử dụng đường dẫn tương đối nếu có thể";
+"Auto Pair" = "Tự động đóng dấu";
+"Auto pair brackets and quotes" = "Tự động đóng dấu ngoặc đơn và kép";
+"Auto pair common Markdown syntax" = "Tự động đóng các ký hiệu Markdown phổ biến";
+"Live Rendering" = "Biên dịch trực tiếp";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Hiển thị nguồn cho các khối đơn giản\n(bao gồm các tiêu đề, v.v...) khi trỏ chuột vào";
+"Default Copy Behavior" = "Kiểu sao chép mặc định";
+"Copy Markdown source as plain text" = "Sao chép nguồn Markdown như văn bản gốc";
+"Typewriter Mode" = "Chế độ máy đánh chữ";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Luôn giữ dấu mũ ở giữa màn hình \nkhi chế độ máy đánh chữ được kích hoạt";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Các tuỳ chỉnh sau sẽ có hiệu lực sau khi khởi động lại chương trình.)";
+"Syntax Support" = "Hỗ trợ cú pháp";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Biểu thức toán giữa câu  ( e.g: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Chỉ số dưới    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Chỉ số trên ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
+"Diagrams" = "Sơ đồ";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart và  Mermaid)";
+"Syntax Preference" = "Tuỳ chỉnh cú pháp";
+"(only applies to styles created from menubar or hybrid view)" = "(chỉ áp dụng cho kiểu định dạng được tạo từ thanh menu hoặc kiểu xem hỗn hợp)";
+"Strict Mode" = "Chế độ nghiêm ngặt";
+"(more strict to GFM spec)" = "(thêm mức nghiêm ngặt theo tiêu chí GFM)";
+"Heading Style" = "Kiểu tiêu đề";
+"Unordered List" = "Danh sách không theo thứ tự";
+"Ordered List" = "Danh sách theo thứ tự";
+"Code Fences" = "Khung nhập mã lệnh";
+"Display line numbers for code fences" = "Hiện số dòng trong khung nhập mã lệnh";
+"Math Blocks" = "Khối biểu thức toán";
+"Auto Numbering Math Equations" = "Tự động đánh số thứ tự các biểu thức toán";
+
+/* Security Panel */
+"Security" = "Bảo mật";
+"Enable Debug" = "Bật chế độ debug";
+"Send Anonymous Usage Info" = "Gửi thông tin sử dụng ẩn danh";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Yêu cầu cài đặt Pandoc để tiếp tục...";
+"Follow instructions to install Pandoc" = "Làm theo hướng dẫn sau để cài đặt Pandoc";
+"Cancel" = "Huỷ bỏ";
+
+/* Pandoc Import Panel */
+"Importing..." = "Nhập...";
+"Importing in progress..." = "Đang xử lý lệnh nhập...";
+"Converting file with Pandoc. This may take some time." = "Đang chuyển đổi tập tin với Pandoc sẽ mất một ít thời gian.";
+"Abort" = "Từ bỏ";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Xuất...";
+"Exporting in progress..." = "Đang xử lý lệnh xuất...";
+"Converting file with Pandoc. This may take some time." = "Đang chuyển đổi tập tin với Pandoc sẽ mất một ít thời gian.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Cần có Pandoc để nhập các tập tin có định dạng này";
+"Check help->Install and use Pandoc from menubar for detail" = "Kiểm tra Giúp đỡ->Cài đặt và sử dụng Pandoc từ thanh menu để biết thêm chi tiết";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Một số tính năng nhập hoặc xuất cần có <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) được cài đặt.";
+"Follow Instructions to Install/Update Pandoc" = "Làm theo hướng dẫn để Cài đặt/Cập nhật Pandoc";
+"Export Failed" = "Xuất không thành công";
+"Import Failed" = "Nhập không thành công";
+"Generated Image too Large" = "Hình ảnh tạo ra quá lớn";
+"Failed to export file to <em>{0}</em>" = "Không thể xuất tập tin đến <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Không thể nhập tập tin từ <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Tập tin không tồn tại ở <em>{0}</em>";
+"Export to..." = "Xuất đến...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Bạn có muốn lưu lại thay đổi trên tập tin này ?<br> Mọi thay đổi của bạn sẽ bị mất nếu bạn không lưu chúng.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Cảnh báo] Không thể đính kèm bookmark cho tệp PDF.";
+"Dark Theme not support" = "Dark Theme không hỗ trợ";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Xin lỗi, phiên bản hiện tại của Typora không in được màu nền vào tập PDF đã xuất, vì thế Dark Theme chưa được hỗ trợ cho việc xuất tập tin PDF. \nVui lòng chọn một theme khác hoặc chọn \"In với theme mặc định\"";
+"Print with default theme" = "In với theme mặc định";
+"Export to PDF successfully." = "Xuất tập tin PDF thành công.";
+"Converting file using Pandoc. This may take some time." = "Đang chuyển đổi tập tin với Pandoc sẽ mất một ít thời gian.";
+"Exporting file using Pandoc. This may take some time." = "Đang xuất tập tin với Pandoc sẽ mất một ít thời gian.";
+
+/* Upload via iPic */
+"Uploading Images via iPic..." = "Đang tải ảnh lên bằng iPic...";
+"Uploading in progress..." = "Đang xử lý tải lên...";
+"Do not show this again" = "Không hiện lại thông báo này";
+
+/* Word Count */
+"Minute" = "Phút";
+"Line" = "Dòng";
+"Word" = "Từ";
+"Character" = "Ký tự";
+
+"Minutes" = "Phút";
+"Lines" = "Dòng";
+"Words" = "Từ";
+"Characters" = "Ký tự";
+"In Selection" = "Đang chọn";
+"Panel" = "Bảng điều khiển";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Giao diện";
+"System Native" = "Theo mặc định hệ thống";
+"Unibody" = "Giao diện đồng nhất";
+"(applied after restart)" = "(được áp dụng sau khi khởi động lại)";
+"Status Bar" = "Thanh trạng thái";
+"Show status bar" = "Hiện thanh trạng thái";
+"Save & Recover" = "Lưu và khôi phục";
+"Auto Save" = "Tự động lưu";
+"Recover Unsaved Drafts" = "Khôi phục bản thảo chưa lưu";
+"Emoji Autocomplete" = "Tự động hoàn tất Emoji";
+"Trigger by ESC key" = "Bật/tắt bằng phím ESC";
+"Trigger automatically" = "Bật/tắt tự động";
+"Default Line Ending" = "Kiểu kết thúc dòng mặc định";
+"Line ending for new file" = "Kết thúc dòng cho một tập tin mới";
+"Spell Check" = "Kiểm tra chính tả";
+"Auto correct spelling" = "Tự động sửa lỗi chính tả";
+"System" = "Hệ thống";
+"Privacy" = "Bảo mật";
+"Developer" = "Phát triển";
+"Update" = "Cập nhật";
+"Check Updates" = "Kiểm tra cập nhật";
+"Check updates automatically" = "Tự động kiểm tra cập nhật";
+"Advanced Settings" = "Cài đặt nâng cao";
+"Open Advanced Settings" = "Mở cài đặt nâng cao";
+"Reset Advanced Settings" = "Khôi phục mặc định cài đặt nâng cao";
+
+/* Image relates on macOS */
+"This fucntion requires latest version of iPic to be installed." = "Tính năng này yêu cầu cài đặt phiên bản iPic mới nhất.";
+"Get iPic" = "Cài đặt iPic";
+"Cannot Continue…" = "Không thể tiếp tục…";
+"This feature require macOS >= 10.11" = "Tính năng này yêu cầu macOS >= 10.11";
+"One More Step" = "Chỉ còn tí xíu thôi";
+"Notice" = "Thông báo";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Điều này yêu cầu iPic đã được cài đặt và tất cả các hình ảnh có liên quan sẽ được tải lên dịch vụ đám mây thông qua iPic. Lưu ý, dịch vụ đám mây mặc định không hỗ trợ xoá đi các hình ảnh đã tải lên.";
+
+"%d Images Failed to Upload." = "%d hình ảnh đã tải lên không thành công.";
+"%d Succeeded," = "%d đã thành công, ";
+"Enable this feature on preferences panel" = "Bật tính năng này trong cửa sổ Cài đặt";
+"The option `%@` must be enabled first" = "Phần mục `%@` phải được bật lên trước.";
+"%@ is a file, not a directory" = "%@ là một tập tin, không phải một thư mục";
+"Copy Images To…" = "Sao chép hình ảnh đến…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục %@ dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
+"Create Folder and Continue" = "Tạo thư mục và tiếp tục";
+"Document must be saved first" = "Tài liệu phải được lưu trước đã";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora sẽ sao chép hình ảnh vừa mới chèn vào thư mục bằng cách chọn đường dẫn gần kề đó, do đó vui lòng lưu lại tập tin trước đã.";
+"Open Operation Failed" = "Xử lý lệnh mở không thành công";
+
+"Support Documentation" = "Tài liệu hỗ trợ";
+
+"Markdown File" = "Tập tin Markdown";
+"Plain Text File" = "Tập tin văn bản thông thường";
+"All Files" = "Tất cả các tập tin";
+"All Supported Formats" = "Tất cả các định dạng được hỗ trợ";
+"Discard Changes" = "Huỷ bỏ những thay đổi";
+"Discard" = "Huỷ bỏ";
+
+"Menu" = "Menu";
+"Back" = "Quay lại";
+
+"Contact" = "Liên hệ";
+"Open From..." = "Mở từ...";
+"Import..." = "Nhập...";
+"Recent Documents" = "Tài liệu gần đây";
+"Search for…" = "Tìm kiếm về…";
+"Clear Recent Documents" = "Dọn sạch tài liệu gần đây";
+"File Name" = "Tên tập tin";
+"Path" = "Đường dẫn";
+"Export As..." = "Xuất dưới dạng...";
+"More Formats" = "Định dạng khác";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Tập tin sử dụng tuỳ chọn 'Định dạng khác' cần <a class='open-pandoc-guide'>cài đặt Pandoc</a> để hoạt động được.";
+"Something is Wrong…" = "Có vấn đề xảy ra…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Vì một vài lý do nên việc lưu lại không thành công.<br/>Bạn có thể sao chép lại nội dung sang một cửa sổ Typora mới và thử lưu lại nó. <br/>Tìm hiểu thêm tại:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Báo cáo lỗi cho chúng tôi</a></li><li><a href='https://support.typora.io/Version-Control//'>Khôi phục nội dung bị mất</a></li></ul>";
+"Copy Content" = "Sao chép nội dung";
+
+
+"Total" = "Tổng cộng";
+"Word count only support OS X later than 10.10." = "Bộ đếm từ chỉ hoạt động với phiên bản OS X mới hơn 10.10.";
+"Indent Size for Code" = "Kích cỡ thụt dòng cho mã lệnh";
+"Auto wrap long lines" = "Tự động xuống dòng cho câu quá dài";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Xin lỗi, phiên bản hiện tại của Typora không in được màu nền vào tập PDF đã xuất.\nvì thế Dark Theme chưa được hỗ trợ cho việc xuất tập tin PDF. \n\nVui lòng chọn một theme khác hoặc tiếp tục xuất tập tin này dưới dạng PDF.";
+"Export to PDF" = "Xuất dưới dạng PDF";
+"Pretty indentation" = "Thụt dòng sâu hơn";
+"Update markdown reference for this image" = "Cập nhật chú thích markdown cho hình ảnh này";
+
+"No special action" = "Không có hành động đặc biệt";
+"Copy image to current folder (./)" = "Sao chép hình ảnh vào thư mục hiện tại (./)";
+"Copy image to ./assets" = "Sao chép hình ảnh vào thư mục ./assets";
+"Copy image to ./${filename}.assets" = "Sao chép hình ảnh vào thư mục ./${filename}.assets";
+"Upload image via iPic" = "Tải ảnh lên bằng iPic";
+"Apply above rules to local images" = "Áp dụng quy tắc trên cho hình ảnh trong máy";
+"Apply above rules to online images" = "Áp dụng quy tắc trên cho hình ảnh trực tuyến";
+"Allow upload images automatically based on YAML settings" = "Cho phép tải ảnh lên tự động dựa trên cài đặt YAML";
+
+"Learn More…" = "Tìm hiểu thêm…";
+"Whitespace / Line Break" = "Khoảng trắng / Ngắt dòng";
+"When Writing" = "Khi gõ";
+"Export / Print" = "Xuất / In";
+"Preserve sequential whitespace and single line break" = "Giữ lại các khoảng trắng liên tiếp và các ngắt dòng đơn";
+"Ignore sequential whitespace and single line break" = "Bỏ qua các khoảng trắng liên tiếp và các ngắt dòng đơn";
+
+"Quit" = "Thoát";
+"Quit Typora when last window is closed" = "Thoát Typora khi cửa sổ cuối cùng đóng lại";
+"On Launch" = "Lúc khởi động";
+"Open new file" = "Mở tập tin mới";
+"Restore last closed folders" = "Quay lại thư mục đã đóng gần đây";
+"Restore last closed files and folders" = "Quay lại tập tin và thư mục đã đóng gần đây";
+"Open custom folder" = "Mở thư mục cụ thể";
+"Select custom folder" = "Chọn thư mục cụ thể";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Tuỳ chọn này có thể bị mất hiệu lực bởi \"Đóng cửa sổ khi thoát một ứng dụng\" trong Tùy chọn hệ thống";
+
+"Ignore" = "Bỏ qua";
+"Choose Default Folder" = "Chọn thư mục mặc định";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Chuyển đổi từ đầu nhập</strong>: Nhập dấu gạch ngang hoặc dấu ngoặc kép ASCII, sau đó chuyển đổi và lưu dưới dạng ngoặc kép hoặc dấu gạch ngang unicode.<br/><strong>Chuyển đổi khi hiển thị</strong>: Nhập và lưu dưới dạng dấu gạch ngang hoặc dấu ngoặc kép ASCII, hiển thị dưới dạng ngoặc kép hoặc dấu gạch ngang unicode.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Xem các dấu chấm unicode như dạng đấu chấm ASCII khi phân tích markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Nó sẽ được bật tự động khi dấu ngoặc kép/dấu gạch ngang được tự động chỉnh sửa khi nhập vào.<div>";
+
+"Copy image to custom folder" = "Sao chép hình ảnh vào thư mục cụ thể";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Vui lòng phân biệt một đường dẫn lân cận dẫn đến thư mục hiện tại sẽ luôn bắt đầu bằng './' or '../', hoặc một đường dẫn đầy đủ đến thư mục. (`${filename}` chính là tên hiện tại của tập tin.)";
+"Restore to previous setting" = "Khôi phục về cài đặt trước đó";
+"Folder not exist at %@, please input another path." = "Thư mục không tồn tại ở %@, vui lòng nhập một đường dẫn khác.";
+"Please input a folder path." = "Vui lòng nhập một đường dẫn thư mục.";
+"Cannot use root path." = "Không thể sử dụng đường dẫn gốc.";
+
+"Get Themes" = "Tải thêm Themes";
+"File/directory alreay exists at target path." = "Tập tin/thư mục đã tồn tại ở đường dẫn đã chọn.";
+"Keep Both" = "Giữ cả hai";
+"Are you sure you want to move %@?" = "Bạn chắc chắn muốn di chuyển %@?";
+
+"Are you sure you want to delete %@?" = "Bạn chắc chắn muốn xoá %@?";
+"You can restore from the Trash." = "Bạn có thể khôi phục lại từ Thùng rác.";
+
+"Reset All Dialog Warnings" = "Đặt lại toàn bộ hộp thoại thông báo";
+"Dialogs" = "Hộp thoại";
+"Dialog warnings have been reset." = "Các hộp thoại thông báo đã được đặt lại.";
+
+"Operation Failed" = "Xử lý không thành công";
+"Failed to move target file or folder to trash" = "Không thể di chuyển tập tin hay thư mục đã chọn vào Thùng rác";
+
+"Undo %@" = "Hoàn tác %@";
+"Rename %@" = "Đổi tên %@";
+"Copy %@" = "Sao chép %@";
+"Move %@" = "Di chuyển %@";
+"Delete %@" = "Xoá %@";

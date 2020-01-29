@@ -43,7 +43,6 @@
 "Delete Table" = "Delete Table";
 
 /* Images */
-"Copy Image To..." = "Copy Image To...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "Create Folder";
 
@@ -73,8 +72,10 @@
 "Sort" = "Sort";
 "Group By Folder" = "Group By Folder";
 "Sort Naturally" = "Sort Naturally";
-"Sort by Name" = "Sort by Name";
-"Sort by Modification Date" = "Sort by Modification Date";
+"Sort by Name (Ascending)" = "Sort by Name (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
+"Sort by Name (Descending)" = "Sort by Name (Descending)";
+"Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
 "Location" = "Location";
 "Switch File List/Tree View" = "Switch File List/Tree View";
 "No Files Available" = "No Files Available";
@@ -166,3 +167,4 @@
 
 "Learn Data Recovery" = "Learn Data Recovery";
 "Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "Delete Permanently";

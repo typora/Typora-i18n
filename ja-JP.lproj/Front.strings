@@ -4,16 +4,11 @@
 
  by hi@typora.io
 
- Japanese translation
- by Tomohiko Hayashi(@tomochan001)
- t.hayashi36@members.leeds.ac.uk
-
- by gageas(@gageas)
- gageas@gageas.com
-
- by TAKAHASHI Shuuji (@shuuji3)
- shuuji3@gmail.com
-
+Japanese translated by
+ @tomochan001 / Tomohiko Hayashi <t.hayashi36@members.leeds.ac.uk>
+ @gageas <gageas@gageas.com>
+ @shuuji3 / TAKAHASHI Shuuji <shuuji3@gmail.com>
+ @ScratchBuild <foobarbuzz@gmail.com>
 */
 
 /* Common */
@@ -23,8 +18,8 @@
 "No" = "いいえ";
 "Close" = "閉じる";
 "Select" = "選択";
-"Continue" = "継続";
-"Learn More…" = "もっと知る";
+"Continue" = "続行";
+"Learn More…" = "もっと詳しく…";
 "Untitled" = "無題";
 "Undo" = "元に戻す";
 "Dismiss" = "無視する";
@@ -34,7 +29,7 @@
 /* Search Panel */
 "Search" = "検索";
 "Replace" = "置換";
-"All" = "全て";
+"All" = "すべて";
 "Search text not found in article" = "見つかりませんでした";
 "search text" = "検索文言";
 
@@ -54,7 +49,6 @@
 "Delete Table" = "表の削除";
 
 /* Images */
-"Copy Image To..." = "〜に画像をコピー";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typoraは、YAMLフロントマターの設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ <code id='image-create-folder-target'></code> に保存してようとしています。しかし、対象のフォルダが存在しません。今作成しますか？";
 "Create Folder" = "フォルダを作成";
 
@@ -74,20 +68,22 @@
 "Loading" = "読み込み中";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "選択されたフォルダには多数のファイルがあります。 \n<a id='switch-to-tree-on-oversize'>ツリー表示</a>に切り替えると速度が向上します。";
 "New File" = "新規ファイル";
-"Unpin Outline Panel" = "アウトラインパネルからピンを外す";
+"Unpin Outline Panel" = "アウトラインパネルの固定を解除";
 "Open Folder..." = "フォルダを開く";
 "Action" = "アクション";
 "Close Sidebar Menu" = "サイドバーメニューを閉じる";
 "Reveal in Finder" = "Finderで見る";
 "Reveal in File Explorer" = "エクスプローラで見る";
-"Refresh Folder" = "フォルダをリフレッシュ";
+"Refresh Folder" = "フォルダを更新";
 "Sort" = "並び替え";
 "Group By Folder" = "フォルダをグループ分け";
 "Sort Naturally" = "自然に並び替え";
-"Sort by Name" = "名称で並び替え";
-"Sort by Modification Date" = "更新日付で並び替え";
+"Sort by Name (Ascending)" = "名称で並び替え (昇順)";
+"Sort by Modification Date (Ascending)" = "更新日時で並び替え (昇順)";
+"Sort by Name (Descending)" = "名称で並び替え (降順)";
+"Sort by Modification Date (Descending)" = "更新日時で並び替え (降順)";
 "Location" = "場所";
-"Switch File List/Tree View" = "リスト表示とツリー表示切替";
+"Switch File List/Tree View" = "リスト表示とツリー表示を切替";
 "No Files Available" = "ファイルが見つかりません";
 "No Folder is Opened." = "フォルダが見つかりません";
 "Outline is Empty." = "アウトラインが空です";
@@ -99,7 +95,7 @@
 
 "Table of Contents" = "目次";
 "Empty Diagram" = "空のダイアグラム";
-"Input Math TeX here" = "ここに数式を入れる";
+"Input Math TeX here" = "ここに数式を入力";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "脚注を<b>{0}</b>文法付きで<a>[^{1}]: www.example.com</a>定義してください";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "参照リンクを<b>[{0}]</b>文法付きで<b>[{1}]: www.example.com</b>定義してください";
@@ -111,7 +107,7 @@
 "Failed to rename file" = "名前の変更に失敗しました";
 "Folder does not exist at %@" = "%@にフォルダがありません";
 "File with the same name already exists at target path" = "対象パスに同一名称のファイルがすでにあります";
-"Apply to All" = "全てに適用";
+"Apply to All" = "すべてに適用";
 "Overwrite" = "上書きする";
 "Stop" = "ストップ";
 "back to document" = "文書に戻る";
@@ -168,11 +164,12 @@
 "You could turn it off from `View` menu." = "`表示` メニューから無効にできます。";
 "The file is too large to render in Typora." = "ファイルサイズが大きすぎるため、Typoraではレンダリングできません。";
 "Open in…" = "…で開く";
-"Quick Look" = "クイックルック";
+"Quick Look" = "簡易表示";
 
 "Filter" = "フィルター";
 "No result found." = "結果が見つかりません。";
-"Continue & Overwrite" = "Continue & Overwrite";
+"Continue & Overwrite" = "上書きして続行";
 "The file is read-only, or you do not have right permissions to modify the file." = "このファイルは読み込み専用または編集する権限がありません。";
 
-"Learn Data Recovery" = "データの復元について詳しく見る";
+"Learn Data Recovery" = "データの復元についてもっと詳しく";
+"Auto refresh on Files Panel cannot be enabled." = "ファイルパネルの自動更新は有効にできません。";

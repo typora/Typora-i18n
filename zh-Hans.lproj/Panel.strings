@@ -205,7 +205,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
 "Total" = "总计";
@@ -251,7 +251,7 @@
 
 "Copy image to custom folder" = "复制到指定路径";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入相对路径（以 './' 或 '../' 开头）或绝对路径。（其中 `${filename}` 表示当前文件名）";
-"Restore to previous setting" = "撤销更改";
+"Restore to previous setting" = "撤消更改";
 "Folder not exist at %@, please input another path." = "目录 %@ 不存在，请指定另一个路径。";
 "Please input a folder path." = "请输入目录路径。";
 "Cannot use root path." = "不能使用根目录。";
@@ -259,7 +259,7 @@
 "Get Themes" = "获取主题";
 "File/directory alreay exists at target path." = "目标路径上已有文件存在。";
 "Keep Both" = "全部保留";
-"Are you sure you want to move %@?" = "是否要移动至 %@?";
+"Are you sure you want to move %@?" = "是否要移动 %@?";
 
 "Are you sure you want to delete %@?" = "是否要删除 %@?";
 "You can restore from the Trash." = "您可以从回收站恢复文件。";
@@ -271,7 +271,7 @@
 "Operation Failed" = "操作失败";
 "Failed to move target file or folder to trash" = "将文件移至回收站失败";
 
-"Undo %@" = "撤销%@";
+"Undo %@" = "撤消%@";
 "Rename %@" = "重命名 %@";
 "Copy %@" = "拷贝 %@";
 "Move %@" = "移动 %@";
@@ -279,3 +279,43 @@
 
 "Turn off Typewriter / Focus Mode" = "关闭 打字机模式 / 专注模式";
 "Typewriter / Focus Mode have been turned off." = "打字机模式 / 专注模式 已被关闭。";
+
+"Reading Speed" = "阅读速度";
+"Auto" = "自动";
+"words / min" = "词每分钟";
+
+"Reset to Default" = "重置";
+"Select custom folder" = "选择文件夹";
+"120  words/minute (Slow)" = "120  词每分钟 (较慢)";
+"240  words/minute (Medium)" = "240  词每分钟 (中等)";
+"382  words/minute (Fast)" = "382  词每分钟 (较快)";
+
+"Copy and update image source to…" = "复制并更新图片路径到…";
+"Updater" = "更新";
+"Install Updates ?" = "是否安装更新？";
+"Quit and Install" = "退出并安装";
+"Download failed" = "下载失败";
+"Downloading Updates…" = "下载中…";
+"Checking Updates…" = "检查中…";
+"Check Update Failed" = "检查更新失败";
+"You are update to date!" = "当前已是最新！";
+"Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
+"Auto escape image URL when insert" = "插入时自动转义图片 URL";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭改选项可以获得更高的可读性。";
+"Check updates automatically" = "自动检查更新";
+"Skip This Version" = "跳过该版本";
+"Remind Me Later" = "稍后提醒我";
+"Download Update" = "下载更新";
+"New version avaiable." = "有新版本更新。";
+
+"When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
+"Use Rendered SVG" = "使用 SVG";
+"Use LaTeX Source" = "使用 LaTeX 代码";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
+
+"Page break between top level sections" = "按一级标题分页";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
+"Try Recovery" = "尝试恢复";
+"Other options for Data Recovery" = "其他恢复选项";

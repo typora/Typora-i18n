@@ -44,7 +44,6 @@
 "Delete Table" = "Διαγραφή Πίνακα";
 
 /* Images */
-"Copy Image To..." = "Αντιγραφή Εικόνας Σε...";
 "Create Folder" = "Δημιουργία Φακέλου";
 
 /* Math */
@@ -73,8 +72,10 @@
 "Sort" = "Ταξινόμηση";
 "Group By Folder" = "Ομαδοποίηση Ανά Φάκελο";
 "Sort Naturally" = "Φυσική Ταξινόμηση";
-"Sort by Name" = "Ταξινόμηση ανά Όνομα";
-"Sort by Modification Date" = "Ταξινόμηση ανά Ημερομηνία Τροποποίησης";
+"Sort by Name (Ascending)" = "Ταξινόμηση ανά Όνομα (Ascending)";
+"Sort by Modification Date (Ascending)" = "Ταξινόμηση ανά Ημερομηνία Τροποποίησης (Ascending)";
+"Sort by Name (Descending)" = "Ταξινόμηση ανά Όνομα (Descending)";
+"Sort by Modification Date (Descending)" = "Ταξινόμηση ανά Ημερομηνία Τροποποίησης (Descending)";
 "Location" = "Τοποθεσία";
 "Switch File List/Tree View" = "Αλλάξετε σε Προβολή Λίστας/Δενδρογράμματος";
 "No Files Available" = "Δεν υπάρχουν Διαθέσιμα Αρχεία";

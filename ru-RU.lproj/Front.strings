@@ -43,7 +43,6 @@
 "Delete Table" = "Удалить таблицу";
 
 /* Images */
-"Copy Image To..." = "Копировать изображение в...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку <code id='image-create-folder-target'></code> в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её?";
 "Create Folder" = "Создать папку";
 
@@ -73,8 +72,10 @@
 "Sort" = "Сортировка";
 "Group By Folder" = "Группировать по папке";
 "Sort Naturally" = "Естественная сортировка";
-"Sort by Name" = "Сортировать по имени";
-"Sort by Modification Date" = "Сортировать по дате модификации";
+"Sort by Name (Ascending)" = "Сортировать по имени (Ascending)";
+"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (Ascending)";
+"Sort by Name (Descending)" = "Сортировать по имени (Descending)";
+"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (Descending)";
 "Location" = "Расположение";
 "Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";

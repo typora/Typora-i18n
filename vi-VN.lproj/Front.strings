@@ -1,0 +1,170 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Huỷ bỏ";
+"Yes" = "Đồng ý";
+"No" = "Không";
+"Close" = "Đóng";
+"Select" = "Chọn";
+"Continue" = "Tiếp tục";
+"Learn More…" = "Tìm hiểu thêm…";
+"Untitled" = "Chưa có tiêu đề";
+"Undo" = "Hoàn tác";
+"Dismiss" = "Bỏ qua";
+"Confirm" = "Xác nhận";
+"Error" = "Lỗi";
+
+/* Search Panel */
+"Search" = "Tìm kiếm";
+"Replace" = "Thay thế";
+"All" = "Tất cả";
+"Search text not found in article" = "Không tìm thấy đoạn văn bản trong bài viết";
+"search text" = "tìm kiếm đoạn văn";
+
+/* Quick Open */
+"Search by file name" = "Tìm theo tên tập tin";
+"Searching" = "Đang tìm kiếm";
+"Gathering more results" = "Thu thập nhiều kết quả hơn";
+
+/* Tables */
+"Insert Table" = "Chèn bảng";
+"Columns" = "Cột";
+"Rows" = "Dòng";
+"Align Left" = "Căng lề trái";
+"Align Center" = "Căng giữa";
+"Align Right" = "Căng lề phải";
+"Resize Table" = "Chỉnh kích cỡ bảng";
+"Delete Table" = "Xoá bảng";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục <code id='image-create-folder-target'></code> dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
+"Create Folder" = "Tạo thư mục";
+
+/* Math */
+"Edit" = "Chỉnh sửa";
+"Delete Math" = "Xoá công thức";
+"Preview" = "Xem trước";
+
+/* Sidebar */
+"Articles" = "Bài viết";
+"Outline" = "Dàn bài";
+"Files" = "Tập tin";
+"Switch to File List view" = "Chuyển kiểu xem Danh sách tập tin";
+"Switch to File Tree view" = "Chuyển kiểu xem Cây tập tin";
+"Switch to Outline view" = "Chuyển kiểu xem Dàn bài";
+"Close sidebar" = "Đóng thanh bên";
+"Loading" = "Đang tải";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Thư mục được chọn chứa quá nhiều tập tin. \nVui lòng chuyển sang <a id='switch-to-tree-on-oversize'>kiểu xem Cây tập tin</a> để có trải nghiệm tốt hơn.";
+"New File" = "Tập tin mới";
+"Unpin Outline Panel" = "Bỏ ghim Bảng Dàn bài";
+"Open Folder..." = "Mở thư mục...";
+"Action" = "Hành động";
+"Close Sidebar Menu" = "Đóng Menu thanh bên";
+"Reveal in Finder" = "Mở trong Finder";
+"Reveal in File Explorer" = "Mở trong File Explorer";
+"Refresh Folder" = "Làm mới thư mục";
+"Sort" = "Sắp xếp";
+"Group By Folder" = "Nhóm bởi thư mục";
+"Sort Naturally" = "Sắp xếp tự nhiên";
+"Sort by Name (Ascending)" = "Sắp xếp theo tên (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sắp xếp theo ngày chỉnh sửa (Ascending)";
+"Sort by Name (Descending)" = "Sắp xếp theo tên (Descending)";
+"Sort by Modification Date (Descending)" = "Sắp xếp theo ngày chỉnh sửa (Descending)";
+"Recent Locations" = "Vị trí gần đây";
+"Location" = "Vị trí";
+"Switch File List/Tree View" = "Chuyển đổi kiểu xem Danh sách/Cây tập tin";
+"No Files Available" = "Không có tệp nào";
+"No Folder is Opened." = "Không có thư mục nào được mở.";
+"Outline is Empty." = "Dàn bài đang trống.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Chuyển đổi thanh bên";
+"Toggle Source Code Mode" = "Chuyển đổi chế độ mã nguồn";
+"Exit Source Code Mode" = "Thoát chế độ mã nguồn";
+
+"Table of Contents" = "Mục lục";
+"Empty Diagram" = "Sơ đồ trống";
+"Input Math TeX here" = "Chèn Math TeX vào đây";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Cần định nghĩa chú thích tham chiếu <b>{0}</b> với cú pháp <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Cần xác định liên kết tham chiếu <b>[{0}]</b> với cú pháp <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Vui lòng xác định hình ảnh tham chiếu bằng cách \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Không thể tạo tập tin";
+"Failed to create folder" = "Không thể tạo thư mục";
+"Failed to rename file" = "Không thể đổi tên tập tin";
+"Folder does not exist at %@" = "Thư mục không tồn tại ở %@";
+"File with the same name already exists at target path" = "Tập tin có tên trùng với tập đã có trước đó trong thư mục";
+"Apply to All" = "Áp dụng cho tất cả";
+"Overwrite" = "Ghi đè";
+"Stop" = "Dừng lại";
+"back to document" = "quay lại tài liệu";
+"Failed to load file" = "Không thể tải tập tin";
+"Save File Failed!" = "Lưu tệp không thành công!";
+"Cannot open folder {0}" = "Không thể mở thư mục {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Nội dung tập tin đã thay đổi bởi các chương trình khác. Bạn có muốn tải lại tập tin từ đĩa ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Bạn sẽ tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
+
+"Rename to \"{0}\" ?" = "Đổi tên thành \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Không thể đổi tên từ \"{0}\" sang \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Đã tải lên thành công {0} hình ảnh.";
+"Failed to upload image. Error Message:" = "Không thể tải lên hình ảnh. Thông báo lỗi:";
+"Failed to Copy Image to Target Folder." = "Không thể sao chép hình ảnh vào thư mục yêu cầu.";
+"Select Container Folder" = "Chọn thư mục chứa";
+
+"Saved" = "Đã lưu";
+
+/* place holder in find & replace input */
+"search text" = "tìm đoạn văn bản";
+"replace with" = "thay thế bằng";
+/* search option */
+"Case Sensitive" = "Phân biệt HOA-thường";
+"Whole Word" = "Tìm trọn cả từ";
+
+"input image URL" = "chèn URL hình ảnh";
+"Select image from local file" = "Chọn hình ảnh từ tập tin trong máy";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Không thể mở khu vực <code>$1</code>, ý bạn là <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "chọn một ngôn ngữ";
+"Finish Editing" = "Kết thúc chỉnh sửa";
+
+"Revert advanced setting file to default one ?" = "Phục hồi tập tin cài đặt nâng cao về mặc định ?";
+
+"Select Spell Check Language" = "Lựa chọn ngôn ngữ kiểm tra chính tả";
+"Auto Detect Language" = "Tự động phát hiện ngôn ngữ";
+"Disable Spell Check" = "Tắt kiểm tra chính tả";
+"Global Setting…" = "Cài đặt chung…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Tập tin từ điển đang bị thiếu để bật kiểm tra ngôn ngữ hỗ trợ cho %@.";
+"Install Language Support" = "Cài đặt hỗ trợ ngôn ngữ";
+"License Information" = "Thông tin bản quyền";
+"Download" = "Tải về";
+"Install dictionary file only for Typora" = "Chỉ cài đặt tập tin từ điển cho duy nhất Typora";
+"Spell Check (%@ unavailable)" = "Kiểm tra chính tả (%@ không khả dụng)";
+"Spell Check (%@ downloading)" = "Kiểm tra chính tả (%@ đang tải về)";
+"Download dictionary file for %@" = "Tải tập tin từ điển cho %@";
+"(Default spell check option)" = "(Tuỳ chọn kiểm tra chính tả mặc định)";
+"Failed to load spellcheck module" = "Không thể tải module kiểm tra chính tả";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
+"You could turn it off from `View` menu." = "Bạn có thể tắt nó từ menu `Xem`.";
+"The file is too large to render in Typora." = "Tập tin quá lớn để hiển thị trong Typora.";
+"Open in…" = "Mở trong…";
+"Quick Look" = "Xem nhanh";
+
+"Filter" = "Lọc";
+"No result found." = "Không tìm thấy kết quả.";
+"Continue & Overwrite" = "Tiếp tục & ghi đè";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tập tin ở chế độ chỉ đọc (read-only) hoặc bạn không có quyền truy cập để chỉnh sửa tập tin.";
+
+"Learn Data Recovery" = "Tìm hiểu về khôi phục dữ liệu";

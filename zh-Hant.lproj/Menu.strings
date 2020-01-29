@@ -21,9 +21,9 @@
 "File" = "檔案";
 "New" = "新增檔案";
 "Open" = "開啟";
-"Open Folder" = "開啟目錄";
+"Open Folder" = "開啟資料夾";
 "Recent Locations" = "最近位置";
-"Reopen with Encoding" = "選擇編碼重新載入檔案";
+"Reopen with Encoding" = "重新依選擇編碼載入檔案";
 "Auto" = "自動";
 "Open Recent" = "開啟最近的檔案";
 "Clear Items" = "清空項目";
@@ -31,24 +31,24 @@
 "Open Quickly" = "快速開啟";
 "Open File Location" = "開啟檔案路徑";
 "Reveal in Library" = "在列表中顯示";
-"Reveal in File Tree" = "在樹狀結構中顯示";
+"Reveal in File Tree" = "在檔案樹狀目錄中顯示";
 "Close" = "關閉";
 "Save" = "儲存";
-"Save As" = "另存為";
-"Duplicate" = "建立副本";
+"Save As" = "另存新檔";
+"Duplicate" = "建立複本";
 "Rename" = "重新命名";
 "Move To" = "移動至";
-"Revert To" = "恢復為";
+"Revert To" = "恢復至";
 "Browse All Versions" = "瀏覽所有版本";
 "Import" = "匯入";
 "Export" = "匯出";
-"Page Setup" = "頁面設置";
+"Page Setup" = "頁面設定";
 "Print" = "列印";
 
 /* Edit Menu */
 "Edit" = "編輯";
-"Undo" = "上一步";
-"Redo" = "下一步";
+"Undo" = "還原";
+"Redo" = "重作";
 "Cut" = "剪下";
 "Copy" = "複製";
 "Paste" = "貼上";
@@ -68,8 +68,8 @@
 "Jump to Top" = "跳到最上方";
 "Jump to Selection" = "跳到所選處";
 "Jump to Bottom" = "跳到最下方";
-"Math Tools" = "公式工具";
-"Refresh All Math Expressions" = "更新全部公式表示式";
+"Math Tools" = "數學工具";
+"Refresh All Math Expressions" = "更新全部數學運算式";
 "Image Tools" = "圖片工具";
 "Insert Local Images" = "插入本機圖片";
 "Upload Local Images via iPic" = "透過 iPic 上傳本機圖片";
@@ -83,18 +83,18 @@
 "Find" = "尋找";
 "Find Next" = "尋找下一個";
 "Find Previous" = "尋找上一個";
-"Find and Replace" = "尋找並取代";
+"Find and Replace" = "尋找與取代";
 "Replace" = "取代";
 "Replace Next" = "取代下一個";
-"Spelling and Grammar" = "拼寫與文法";
-"Check Document Now" = "立刻檢查文件";
-"Check Spelling While Typing" = "隨打即檢查拼寫";
-"Check Grammar With Spelling" = "隨打即檢查文法";
-"Correct Spelling Automatically" = "自動修正拼寫";
-"Substitutions" = "取代";
-"Smart Quotes" = "智慧引言";
-"Smart Dashes" = "智慧分隔線";
-"Text Replacement" = "文字取代";
+"Spelling and Grammar" = "拼字及文法檢查";
+"Check Document Now" = "立即檢查文件";
+"Check Spelling While Typing" = "在輸入時同步檢查拼字";
+"Check Grammar With Spelling" = "檢查拼字文法";
+"Correct Spelling Automatically" = "自動更正拼字";
+"Substitutions" = "替代";
+"Smart Quotes" = "智慧型引號";
+"Smart Dashes" = "智慧型破折號";
+"Text Replacement" = "替代文字";
 "Speech" = "語音";
 "Start Speaking" = "開始朗讀";
 "Stop Speaking" = "停止朗讀";
@@ -110,7 +110,7 @@
 "Increase Heading Level" = "增加標題層級";
 "Decrease Heading Level" = "降低標題層級";
 "Table" = "表格";
-"Code Fences" = "原始碼區塊";
+"Code Fences" = "程式碼區塊";
 "Math Block" = "公式區塊";
 "Quote" = "引言";
 "Ordered List" = "有次序清單";
@@ -134,10 +134,10 @@
 "Strong" = "粗體";
 "Emphasis" = "斜體";
 "Underline" = "底線";
-"Code" = "原始碼";
+"Code" = "程式碼";
 "Inline Math" = "行內數學式";
 "Strike" = "刪除線";
-"Highlight" = "高亮";
+"Highlight" = "標示";
 "Superscript" = "上標";
 "Subscript" = "下標";
 "Comment" = "註解";
@@ -154,7 +154,7 @@
 "Toggle Sidebar" = "顯示/隱藏側邊欄";
 "Outline" = "大綱";
 "Articles" = "文章";
-"File Tree" = "檔案樹";
+"File Tree" = "檔案樹狀目錄";
 "Always on Top" = "一律在最上層";
 "Full Screen" = "切換全螢幕";
 "Show Status Bar" = "顯示狀態列";
@@ -165,7 +165,6 @@
 "Switch Between Opened Documents" = "在已開啟的文件間切換";
 "Toggle DevTools" = "開啟/關閉開發者工具";
 
-
 /* Themes Menu */
 "Themes" = "主題";
 
@@ -173,7 +172,7 @@
 "Window" = "視窗";
 "Minimize" = "最小化";
 "Zoom" = "縮放";
-"Bring All to Front" = "所有視窗都移至最前方";
+"Bring All to Front" = "移動所有視窗至最前方";
 
 /* Help Menu */
 "Help" = "說明";
@@ -223,7 +222,7 @@
 "Math" = "數學式";
 "Insert" = "插入";
 "Inspect Element" = "檢查元素";
-"Copy to MS Word" = "複製為微軟 Word";
+"Copy to MS Word" = "複製到 MS Word"; /* I think MS Word shouldn't be translated. */
 "Paragraph (before)" = "段落 (上方)";
 "Paragraph (after)" = "段落 (下方)";
 
@@ -235,22 +234,43 @@
 "File or folder does not exist." = "檔案或資料夾不存在";
 
 "Prettify Source Code" = "程式碼格式化";
-"Copy '%@'" = "複製 '%@'";
+"Copy '%@'" = "複製「%@」";
 "Copy to %@" = "複製到 %@";
-"Copy Image to..." = "複製圖片到...";
+"Copy Image to" = "複製圖片到";
 "Upload via iPic" = "透過 iPic 上傳";
 "Open Image Location" = "開啟圖片位置";
 
 "Learn More" = "了解更多";
-"Whitespace and Line Breaks" = "空格和換行";
+"Whitespace and Line Breaks" = "空格和換行符號";
 "Indent first line of paragraphs" = "段落首行縮排";
+"Preserve single line break" = "保留單一換行符號";
 "Visible <br/>" = "顯示 <br/>";
-"Preserve sequential whitespace and single line break" = "保留連續的空格和單一換行";
 
-"Save All" = "儲存全部";
+"Save All" = "全部儲存";
 "New Window" = "開新視窗";
 "Reopen Closed File" = "重新開啟已關閉的檔案";
 
+"Global Image Settings" = "全域圖片設定";
+"Smart Punctuation" = "智慧型標點符號";
+"Convert on Input" = "輸入時即轉換";
+"Convert on Rendering" = "顯示時才轉換";
+"Remap Unicode Punctuation on Parse" = "剖析時將 Unicode 標題符號重新對應成 ASCII 符號";
+"More Options" = "更多選項";
+
+"HTML Block" = "HTML 區塊";
+"Delete Block" = "刪除區塊";
+"Delete %@" = "刪除 %@";
+"Play" = "播放";
+"Pause" = "暫停";
+
+"Spell Check" = "拼字檢查";
+"Unlearn Spelling" = "忘記此拼字";
 "Properties" = "檔案屬性";
 
 "Search" = "搜尋";
+"Copy without Theme Styling" = "複製時不包括主題的樣式";
+"Recent Files" = "最近的檔案";
+"File Results" = "檔案的結果";
+
+"Insert Table" = "插入表格";
+"Insert Image" = "插入圖片";

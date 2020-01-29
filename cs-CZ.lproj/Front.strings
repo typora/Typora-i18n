@@ -50,7 +50,6 @@
 "Delete Table" = "Smazat tabulku";
 
 /* Images */
-"Copy Image To..." = "Kopírovat obrázek do...";
 "Create Folder" = "Vytvořit složku";
 
 /* Math */
@@ -79,8 +78,10 @@
 "Sort" = "Seřadit";
 "Group By Folder" = "Seskupit podle složky";
 "Sort Naturally" = "Seřadit přirozeně";
-"Sort by Name" = "Seřadit podle jména";
-"Sort by Modification Date" = "Seřadit podle data změny";
+"Sort by Name (Ascending)" = "Seřadit podle jména (Ascending)";
+"Sort by Modification Date (Ascending)" = "Seřadit podle data změny (Ascending)";
+"Sort by Name (Descending)" = "Seřadit podle jména (Descending)";
+"Sort by Modification Date (Descending)" = "Seřadit podle data změny (Descending)";
 "Location" = "Umístění";
 "Switch File List/Tree View" = "Přepnout do pohledu Seznamu/Stromu";
 "No Files Available" = "Žádné dostupné soubory";

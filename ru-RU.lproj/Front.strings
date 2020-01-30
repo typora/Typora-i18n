@@ -48,7 +48,7 @@
 
 /* Math */
 "Edit" = "Правка";
-"Delete Math" = "Удалить Math";
+"Delete Math" = "Удалить формулу";
 "Preview" = "Превью";
 
 /* Sidebar */
@@ -72,10 +72,10 @@
 "Sort" = "Сортировка";
 "Group By Folder" = "Группировать по папке";
 "Sort Naturally" = "Естественная сортировка";
-"Sort by Name (Ascending)" = "Сортировать по имени (Ascending)";
-"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (Ascending)";
-"Sort by Name (Descending)" = "Сортировать по имени (Descending)";
-"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (Descending)";
+"Sort by Name (Ascending)" = "Сортировать по имени (по возрастанию)";
+"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (по возрастанию)";
+"Sort by Name (Descending)" = "Сортировать по имени (по убыванию)";
+"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (по убыванию)";
 "Location" = "Расположение";
 "Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";
@@ -89,7 +89,7 @@
 
 "Table of Contents" = "Оглавление";
 "Empty Diagram" = "Пустая диаграмма";
-"Input Math TeX here" = "Введите Math TeX";
+"Input Math TeX here" = "Введите формулу TeX";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Нужно определить сноску <b>{0}</b> с синтаксисом <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Нужно определить ссылку <b>[{0}]</b> с синтаксисом <b>[{1}]: www.example.com</b>";
@@ -167,3 +167,4 @@
 
 "Learn Data Recovery" = "Подробнее о восстановлении данных";
 "Auto refresh on Files Panel cannot be enabled." = "Автоматическое обновление на панели файлов невозможно.";
+"Delete Permanently" = "Удалить навсегда";

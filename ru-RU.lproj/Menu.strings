@@ -220,7 +220,7 @@
 /* Electron */
 "Learn Spelling" = "Учить правописание";
 "Copy / Paste As…" = "Копировать / Вставить как…";
-"Math" = "Math";
+"Math" = "Формулы";
 "Insert" = "Вставить";
 "Inspect Element" = "Осмотреть элемент";
 "Copy to MS Word" = "Копировать в MS Word";
@@ -269,9 +269,36 @@
 "Properties" = "Свойства";
 
 "Search" = "Поиск";
-"Copy without Theme Styling" = "Копировать без стилизации темы";
+"Copy without Theme Styling" = "Копировать без стилей";
 "Recent Files" = "Недавние файлы";
 "File Results" = "Результаты";
 
 "Insert Table" = "Вставить таблицу";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Вставить изображение";
+"Allow Magnification" = "Разрешить увеличение";
+
+"Move Row Up" = "Переместить строку вверх";
+"Move Row Down" = "Переместить строку вниз";
+"Move Column Left" = "Переместить столбец влево";
+"Move Column Right" = "Переместить столбец вправо";
+
+"Zoom Image" = "Увеличить изображение";
+"Zoom Image to %@" = "Увеличить изображение до %@";
+
+"Copy as Plain Text" = "Копировать как обычный текст";
+
+"Selection" = "Выделение";
+"Start Speaking" = "Запустить речь";
+"Stop Speaking" = "Остановить речь";
+"Check Updates" = "Проверка обновлений";
+
+"HTML (without Styles)" = "HTML (без стилей)";
+
+"Highlight Current Header" = "Выделить текущий заголовок";
+"Expand All" = "Развернуть все";
+"Collapse All" = "Свернуть все";
+"Collapsible Outline" = "Иерархическая схема";
+"Flat Outline" = "Плоская схема";
+"Articles (List View)" = "Статьи (Представление в виде списка)";
+"File Tree (Tree View)" = "Дерево файлов (Представление в виде дерева)";
+"Filter" = "Фильтр";

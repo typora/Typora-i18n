@@ -294,4 +294,13 @@
 "Stop Speaking" = "Sprechen stoppen";
 "Check Updates" = "Updates überprüfen";
 
+"HTML (without Styles)" = "HTML (Stillos)";
 
+"Highlight Current Header" = "Momentanen Übertitel hervorheben";
+"Expand All" = "Alle aufklappen";
+"Collapse All" = "Alle zuklappen";
+"Collapsible Outline" = "Einklappbare Kontur";
+"Flat Outline" = "Flache Kontur";
+"Articles (List View)" = "Artikellistenansicht";
+"File Tree (Tree View)" = "Dateibaumansicht";
+"Filter" = "Filter";

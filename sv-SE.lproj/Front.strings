@@ -43,6 +43,7 @@
 "Delete Table" = "Radera tabell";
 
 /* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder" = "Skapa mapp";
 
 /* Math */
@@ -133,3 +134,38 @@
 "input image URL" = "bild URL";
 "Select image from local file" = "Välj bild från lokal fil";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan inte öppna <code>$1</code>, menar du <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "välj ett språk";
+"Finish Editing" = "Avsluta redigering";
+
+"Revert advanced setting file to default one ?" = "Återställ inställningarna  ?";
+
+"Select Spell Check Language" = "Välj rättstavningsspråk";
+"Auto Detect Language" = "Välj Språk Automatiskt";
+"Disable Spell Check" = "Stäng Av Rättstavning";
+"Global Setting…" = "Global inställning…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Ordbok saknas för att aktivera rättstavning på %@.";
+"Install Language Support" = "Installera stöd för språk";
+"License Information" = "Licens Information";
+"Download" = "Ladda ner";
+"Install dictionary file only for Typora" = "Installera ordlist-fil endast för Typora";
+"Spell Check (%@ unavailable)" = "Rättstavning (%@ ej tillgänglig)";
+"Spell Check (%@ downloading)" = "Rättstavning (%@ laddar ner)";
+"Download dictionary file for %@" = "Ladda ner ordlist-fil till %@";
+"(Default spell check option)" = "(Ursprungligt rättstavningsval)";
+"Failed to load spellcheck module" = "Misslyckades att ladda rättstavnigsmodul";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> är aktiverat.";
+"You could turn it off from `View` menu." = "Du kan stänga av det från `Innehåll` menyn.";
+"The file is too large to render in Typora." = "Filen är för stor för att rendera i Typora.";
+"Open in…" = "Öppna i…";
+"Quick Look" = "Snabbtitt";
+
+"Filter" = "Filter";
+"No result found." = "Inga resultat funna.";
+"Continue & Overwrite" = "Fortsätt & skriv över";
+"The file is read-only, or you do not have right permissions to modify the file." = "Filen är skrivskyddad eller så har du inte rätt rättigheter för att ändra filen.";
+
+"Learn Data Recovery" = "Learn Data Recovery";
+"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "Ta bort Permanent";

@@ -115,7 +115,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "使用 iPic 上傳圖片...";
-"Uploading in progress..." = "上傳中...";
+"Uploading in progress…" = "上傳中...";
 "Do not show this again" = "不再顯示";
 
 /* Word Count */
@@ -170,7 +170,7 @@
 "%d Images Failed to Upload." = "%d 張圖片上傳失敗";
 "%d Succeeded," = "%d 張成功, ";
 "Enable this feature on preferences panel" = "在偏好設定中啟用此功能";
-"The option `%@` must be enabled first" = "請先啟用選項 `%@`";
+"The option `%@` must be enabled first." = "請先啟用選項 `%@`";
 "%@ is a file, not a directory" = "%@ 是檔案，不是資料夾";
 "Copy Images To…" = "複製圖片至...";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 %@。但是目標資料夾不存在，現在要新增它嗎？";
@@ -226,7 +226,7 @@
 "Apply above rules to online images" = "對雲端上的圖片套用上述規則";
 "Allow upload images automatically based on YAML settings" = "允許根據 YAML 的設定自動上傳圖片";
 
-"Learn More…" = "了解更多...";
+"Learn More" = "了解更多";
 "Whitespace / Line Break" = "空格與換行符號";
 "When Writing" = "編輯時";
 "Export / Print" = "匯出 / 列印";
@@ -246,7 +246,7 @@
 "Ignore" = "略過";
 "Choose Default Folder" = "選擇預設資料夾";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>輸入時即轉換</strong>: 輸入的 ASCII 的引號或破折號會被轉換成智慧引號或 Unicode 破折號並以轉換後的符號儲存。<br/><strong>呈現時才轉換</strong>: 輸入的 ASCII 引號或破折號將會以原本的符號儲存，呈現時才會轉換成智慧型引號或 Unicode 破折號。</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>剖析 Markdown 時，將 Unicode 標點符號辨識為其 ASCII 的對應標點符號。例如:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>若智慧型標點符號的設定為輸入時即轉換，此會被自動開啟。<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>剖析 Markdown 時，將 Unicode 標點符號辨識為其 ASCII 的對應標點符號。例如:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>若智慧型標點符號的設定為輸入時即轉換，此會被自動開啟。<div>";
 
 "Copy image to custom folder" = "複製圖片至自訂資料夾";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "請指定一個以 './' 或 '../' 為開頭的相對路徑或是一個絕對路徑。 (`${filename}` 為目前的檔案名稱)";

@@ -115,7 +115,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Upload slika preko iPic...";
-"Uploading in progress..." = "Upload u toku...";
+"Uploading in progress…" = "Upload u toku...";
 "Do not show this again" = "Ne prikazuj ovo opet";
 
 /* Word Count */
@@ -172,7 +172,7 @@
 "%d Images Failed to Upload." = "%d slike nisu uploadane.";
 "%d Succeeded," = "%d uspio, ";
 "Enable this feature on preferences panel" = "Omogući ovu značajku u postavkama";
-"The option `%@` must be enabled first" = "Prvo mora biti omogućena opcija '%@'.";
+"The option `%@` must be enabled first." = "Prvo mora biti omogućena opcija '%@'.";
 "%@ is a file, not a directory" = "%@ je datoteka, a ne direktorij";
 "Copy Images To…" = "Kopiraj slike u…";
 "Create Folder and Continue" = "Stvori direktorij i nastavi";
@@ -227,7 +227,7 @@
 "Apply above rules to online images" = "Primijeni gornja pravila na slike na internetu";
 "Allow upload images automatically based on YAML settings" = "Omogući automatski upload slika baziran na YAML postavkama";
 
-"Learn More…" = "Nauči više…";
+"Learn More" = "Nauči više";
 "Whitespace / Line Break" = "Razmak / Prijelom";
 "When Writing" = "Kad pišem";
 "Export / Print" = "Izvoz / Ispis";

@@ -8,7 +8,7 @@
 /* Typora Menu */
 
 "About Typora" = "About Typora";
-"Preferences" = "Preference";
+"Preferences" = "Preferences";
 "Check for Updates" = "Check for Updates";
 "Services" = "Services";
 "Hide Typora" = "Hide Typora";
@@ -302,3 +302,7 @@
 "Articles (List View)" = "Articles (List View)";
 "File Tree (Tree View)" = "File Tree (Tree View)";
 "Filter" = "Filter";
+
+"Upload Image" = "Upload Image";
+"Upload All Local Images" = "Upload All Local Images";
+"Open Image in Browser" = "Open Image in Browser";

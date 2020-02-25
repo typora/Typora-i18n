@@ -118,7 +118,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Μεταφόρτωση Εικόνων με το iPic...";
-"Uploading in progress..." = "Μεταφόρτωση σε εξέλιξη...";
+"Uploading in progress…" = "Μεταφόρτωση σε εξέλιξη...";
 "Do not show this again" = "Μην το δείξεις ξανά";
 
 /* Word Count */
@@ -175,7 +175,7 @@
 "%d Images Failed to Upload." = "%d Αποτυχία μεταφόρτωσης εικόνων.";
 "%d Succeeded," = "%d έγινε επιτυχημένα, ";
 "Enable this feature on preferences panel" = "Ενεργοποιήστε αυτή την λειτουργία στον πίνακα προτιμήσεων";
-"The option `%@` must be enabled first" = "Απαιτείται ενεργοποίηση της επιλογής `%@`.";
+"The option `%@` must be enabled first." = "Απαιτείται ενεργοποίηση της επιλογής `%@`.";
 "%@ is a file, not a directory" = "%@ είναι αρχείο, όχι κατάλογος";
 "Copy Images To…" = "Αντιγραφή Εικόνων Σε…";
 "Create Folder and Continue" = "Δημιουργία Φακέλου και Συνέχεια";

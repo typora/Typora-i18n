@@ -117,7 +117,7 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Carregando Imagens via iPic...";
-"Uploading in progress..." = "Carregamento em andamento...";
+"Uploading in progress…" = "Carregamento em andamento...";
 "Do not show this again" = "Não exibir isto novamente";
 
 /* Word Count */
@@ -170,7 +170,7 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "%d Images Failed to Upload." = "%d Imagens Falharam ao Serem Carregadas.";
 "%d Succeeded," = "%d Bem sucedidas, ";
 "Enable this feature on preferences panel" = "Ative esta funcionalidade no painel de preferências";
-"The option `%@` must be enabled first" = "A opção `%@` precisa estar habilitada primeiro.";
+"The option `%@` must be enabled first." = "A opção `%@` precisa estar habilitada primeiro.";
 "%@ is a file, not a directory" = "%@ é um ficheiro, não uma pasta";
 "Copy Images To…" = "Copiar Imagens Para…";
 "Create Folder and Continue" = "Criar Pasta e Continuar";

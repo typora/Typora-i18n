@@ -170,3 +170,7 @@
 "Learn Data Recovery" = "如何恢复文件";
 "Auto refresh on Files Panel cannot be enabled." = "无法自动刷新文件列表。";
 "Delete Permanently" = "永久删除";
+
+"Failed to upload images:" = "上传文件失败";
+"Uploading in progress" = "上传中";
+"Successfully uploaded {0} images, {1} failed." = "成功上传 {0} 个图片，失败 {1} 个。";

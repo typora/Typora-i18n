@@ -116,7 +116,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Cargar imaxes vía iPic...";
-"Uploading in progress..." = "Carga en progreso...";
+"Uploading in progress…" = "Carga en progreso...";
 "Do not show this again" = "Non amosar isto de novo";
 
 /* Word Count */
@@ -167,7 +167,7 @@
 "%d Images Failed to Upload." = "%d Non se puideron cargar as imaxes.";
 "%d Succeeded," = "%d deu resultado,";
 "Enable this feature on preferences panel" = "Activa esta característica no panel de preferencias";
-"The option `%@` must be enabled first" = "A opción `%@` debe estar habilitada primeiro.";
+"The option `%@` must be enabled first." = "A opción `%@` debe estar habilitada primeiro.";
 "%@ is a file, not a directory" = "%@ é un arquivo, non un cartafol";
 "Copy Images To…" = "Copiar Imaxes A…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imaxe recentemente inserida no cartafol %@ de acordo coa súa configuración de YAML Front Matter -tema frontal YAML- ou as preferencias globais. Pero o cartafol de destino non existe, creálo agora?";
@@ -223,7 +223,7 @@
 "Apply above rules to online images" = "Aplicar as regras anteriores ás imaxes en liña";
 "Allow upload images automatically based on YAML settings" = "Permitir subir imaxes automaticamente en función da configuración de YAML";
 
-"Learn More…" = "Saber Máis…";
+"Learn More" = "Saber Máis";
 "Whitespace / Line Break" = "Espazo en branco / Salto de Liña";
 "When Writing" = "Ao escribir";
 "Export / Print" = "Exportar / Imprimir";
@@ -243,7 +243,7 @@
 "Ignore" = "Ignorar";
 "Choose Default Folder" = "Escoller o cartafol predefinido";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Converter na Entrada</strong>: Introduza guións ou comiñas ASCII, convertidos e gardados como comiñas rizadas ou guións unicode. <br/> <strong> Converte en renderizar </strong>: introducir e gardar como guións ou comiñas ASCII, facer como comiñas rixidas ou guións unicode.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> Recoñécese as puntuacións unicode como ASCII cando se analiza o markdown, por exemplo: <br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> se truncará automaticamente se as comiñas/guións intelixentes se converterán na entrada.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> Recoñécese as puntuacións unicode como ASCII cando se analiza o markdown, por exemplo: <br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre> se truncará automaticamente se as comiñas/guións intelixentes se converterán na entrada.<div>";
 
 "Copy image to custom folder" = "Copiar imaxe no cartafol personalizado";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Especifica unha ruta relativa á carpeta actual que comeze con './' ou '../', ou unha ruta de cartafol absoluta. (`$ {filename}` representado por nomes de arquivos correntes).";

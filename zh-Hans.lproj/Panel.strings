@@ -114,8 +114,7 @@
 "Exporting file using Pandoc. This may take some time." = "使用 Pandoc 导出中，请稍候。";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "通过 iPic 上传图片…";
-"Uploading in progress..." = "正在上传…";
+"Uploading in progress…" = "正在上传…";
 "Do not show this again" = "不再显示";
 
 /* Word Count */
@@ -165,14 +164,14 @@
 "Get iPic" = "获取 iPic";
 "Cannot Continue…" = "无法继续…";
 "This feature require macOS >= 10.11" = "此功能只支持 macOS 10.11 及以上版本";
-"One More Step" = "下一步";
-"Notice" = "注意";
+"One More Step" = "无法继续…";
+"Notice" = "请注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic ， 本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
 "%d Images Failed to Upload." = "%d个图片上传失败。";
 "%d Succeeded," = "%d个成功, ";
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
-"The option `%@` must be enabled first" = "请先开启选项`%@`。";
+"The option `%@` must be enabled first." = "请先开启选项`%@`。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typera 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
@@ -222,12 +221,11 @@
 "Copy image to current folder (./)" = "复制图片到当前文件夹（./）";
 "Copy image to ./assets" = "复制图片到 ./assets 文件夹";
 "Copy image to ./${filename}.assets" = "复制图片到 ./${filename}.assets 文件夹";
-"Upload image via iPic" = "通过 iPic 上传图片";
 "Apply above rules to local images" = "对本地位置的图片应用上述规则";
 "Apply above rules to online images" = "对网络位置的图片应用上述规则";
 "Allow upload images automatically based on YAML settings" = "允许根据 YAML 设置自动上传图片";
 
-"Learn More…" = "了解更多…";
+"Learn More" = "了解更多";
 "Whitespace / Line Break" = "空格与换行";
 "When Writing" = "编辑时";
 "Export / Print" = "导出与打印";
@@ -247,7 +245,7 @@
 "Ignore" = "忽略";
 "Choose Default Folder" = "选择默认文件夹";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>输入时转换</strong>: 输入 ASCII 的引号/破折号，转化并保存为英式或 Unicode 的引号/破折号。<br/><strong>渲染时转化</strong>: 输入并保存 ASCII 的引号/破折号，但渲染为英式或 Unicode 的引号/破折号</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>解析 Markdown 符号时，允许并转化 Unicode 标点，例：<br/> <pre> 》 引用 → > 引用 <br/> [链接](src ’标题’) → [链接](src '标题')</pre>当选中“输入时转换“，并开启“智能引号“或者”智能破折号”时，该选项会默认开启<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>解析 Markdown 符号时，允许并转化 Unicode 标点，例：<br/> <pre> 》 引用 → > 引用 <br/> [链接](src ’标题’) → [链接](src '标题')</pre>当选中“输入时转换“，并开启“智能引号“或者”智能破折号”时，该选项会默认开启<div>";
 
 "Copy image to custom folder" = "复制到指定路径";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入相对路径（以 './' 或 '../' 开头）或绝对路径。（其中 `${filename}` 表示当前文件名）";
@@ -319,3 +317,41 @@
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
 "Try Recovery" = "尝试恢复";
 "Other options for Data Recovery" = "其他恢复选项";
+
+"When Insert" = "插入图片时";
+"Upload image" = "上传图片";
+"e.g: %@" = "例: %@";
+"Test Uploader" = "验证图片上传选项";
+"Validating" = "验证中";
+"Validation Failed" = "验证失败";
+"Validation Succeed" = "验证成功";
+"Testing image uploading using command:" = "使用以下命令测试图片上传选项：";
+"Running… Waiting for results." = "运行中…… 请稍等";
+"Output from the console:" = "程序运行结果：";
+"Error from the console:" = "错误：";
+"Failed to fetch uploaded image from command output." = "无法从程序运行结果中获取新的图片路径";
+"Successfully get uploaded image url." = "成功上传图片并获得新的URL";
+"Image Uploader" = "上传服务";
+"Instructions" = "说明";
+"Download %@" = "下载 %@";
+"Image Upload Setting" = "上传服务设定";
+"Please set an image uploader in Preferences panel before using this function." = "请先在在 偏好设置 中设置一个图片上传服务。";
+"Download or Upgrade" = "下载或更新";
+"Open Config File" = "打开配置文件";
+"Command" = "自定义命令";
+"PicGo Path" = "PicGo 路径";
+"Executable" = "可执行文件";
+"Checking" = "检查中";
+"Download" = "下载";
+"Agree and Download" = "同意并下载";
+"Download and Reinstall" = "下载并重新安装";
+"Loading PicGo-Core License" = "正在加载许可证";
+"Failed to get installed version of PicGo-Core (command line)" = "获取已安装的 PicGo-Core（命令行）的版本失败";
+"You have the latest PicGo-Core (CLI)" = "您已装有最新版本的 PicGo-Core（命令行）";
+"Newer version is available" = "有版本更新";
+
+"Downloading…" = "下载中…";
+"Unzipping…" = "解压中…";
+"Finished" = "已完成";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";

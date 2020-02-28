@@ -113,8 +113,6 @@
 "Converting file using Pandoc. This may take some time." = "Konwertuję plik za pomocą Pandoc. To może zająć trochę czasu.";
 "Exporting file using Pandoc. This may take some time." = "Eksportuję plik za pomocą Pandoc. To może zająć trochę czasu.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Przesyłanie obrazów przez iPic…";
 "Uploading in progress…" = "Przesyłanie w toku…";
 "Do not show this again" = "Nie pokazuj tego ponownie";
 
@@ -165,7 +163,6 @@
 "This feature require macOS >= 10.11" = "Ta funkcja wymaga minimalnie macOS >= 10.11";
 "One More Step" = "Jeszcze jeden krok";
 "Notice" = "Ostrzeżenie";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Ta czynność wymaga instalacji iPic, a wskazane pliki obrazów zostaną przesłane do chmury przez iPic. Pamiętaj też, że domyślnie usługa chmury nie pozwala na usuwanie przesłanych obrazów.";
 
 "%d Images Failed to Upload." = "%d plików nie udało się przesłać.";
 "%d Succeeded," = "%d plików zostało pomyślnie przesłanych, ";
@@ -221,7 +218,6 @@
 "Copy image to current folder (./)" = "Skopiuj obraz do bieżącego folderu (./)";
 "Copy image to ./assets" = "Skopiuj obraz do ./assets";
 "Copy image to ./${filename}.assets" = "Skopiuj obraz do ./${filename}.assets";
-"Upload image via iPic" = "Prześlij obraz przez iPic";
 "Apply above rules to local images" = "Zastosuj powyższe reguły do obrazów lokalnych";
 "Apply above rules to online images" = "Zastosuj powyższe reguły do obrazów w sieci";
 "Allow upload images automatically based on YAML settings" = "Zezwól na automatyczne przesyłanie obrazów zgodnie z ustawieniami YAML";
@@ -322,3 +318,42 @@
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Przepraszamy, ale wystąpił jakiś błąd, a obecna zawartość tekstowa została skopiowana do schowka. Możesz to zgłosić pod adresem <hi@typora.io>, byśmy mogli naprawić ten błąd.";
 "Try Recovery" = "Wypróbuj odzyskiwanie";
 "Other options for Data Recovery" = "Inne opcje odzyskiwania danych";
+
+"When Insert" = "Podczas wstawiania";
+"Upload image" = "Prześlij plik";
+"e.g: %@" = "np. %@";
+"Test Uploader" = "Przetestuj przesyłanie";
+"Validating" = "Weryfikowanie narzędzia do przesyłania";
+"Validation Failed" = "Weryfikacja nieudana";
+"Validation Succeed" = "Weryfikacja zakończona powodzeniem";
+"Testing image uploading using command:" = "Testowanie przesyłania obrazu z użyciem polecenia:";
+"Running… Waiting for results." = "Uruchomione… Oczekiwanie na wyniki.";
+"Output from the console:" = "Komunikaty z konsoli:";
+"Error from the console:" = "Błąd z konsoli:";
+"Failed to fetch uploaded image from command output." = "Nie udało się pobrać z konsoli danych o przesłanym obrazie.";
+"Successfully get uploaded image url." = "Adres URL przesłanego obrazu pomyślnie pobrany.";
+"Image Uploader" = "Narzędzie do przesyłania obrazu";
+"Instructions" = "Instrukcje";
+"Download %@" = "Pobierz %@";
+"Image Upload Setting" = "Ustawienie przesyłania obrazu";
+"Please set an image uploader in Preferences panel before using this function." = "Przed użyciem tej funkcji wybierz narzędzie do przesyłania obrazu w panelu Preferencji.";
+"Download or Upgrade" = "Pobierz albo zaktualizuj";
+"Open Config File" = "Otwórz plik konfiguracyjny";
+"Command" = "Polecenie";
+"PicGo Path" = "Ścieżka do PicGo";
+"Path of PicGo binary" = "Ścieżka do programu PicGo";
+"Executable" = "Plik wykonywalny";
+"Checking" = "Sprawdzanie";
+"Download" = "Pobierz";
+"Agree and Download" = "Potwierdź i pobierz";
+"Download and Reinstall" = "Pobierz i ponownie instaluj";
+"Loading PicGo-Core License" = "Pobieranie licencji PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Nieudany dostęp do zainstalowanej wersji PicGo-Core (wiersza poleceń)";
+"You have the latest PicGo-Core (CLI)" = "Masz najnowszą wersję PicGo-Core (CLI)";
+"Newer version is available" = "Dostępna jest nowsza wersja";
+
+"Downloading…" = "Pobieranie…";
+"Unzipping…" = "Rozpakowywanie…";
+"Finished" = "Zakończone";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora uruchomi aplikację zewnętrzną z ścieżkami do plików wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów i dysk w chmurze będą wówczas mieć dostęp do Twoich obrazów lokalnych. Na pewno kontynować?";

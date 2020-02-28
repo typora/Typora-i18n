@@ -118,7 +118,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Carregant imatges via iPic...";
-"Uploading in progress..." = "Carregar en progres...";
+"Uploading in progress…" = "Carregar en progres...";
 "Do not show this again" = "No mostrar de nou";
 
 /* Word Count */
@@ -175,7 +175,7 @@
 "%d Images Failed to Upload." = "%d imatges no s'han pogut carregar.";
 "%d Succeeded," = "%d correctes,";
 "Enable this feature on preferences panel" = "Activar aquesta característica al panell de preferències";
-"The option `%@` must be enabled first" = "La opció `%@` ha d'estar activada abans.";
+"The option `%@` must be enabled first." = "La opció `%@` ha d'estar activada abans.";
 "%@ is a file, not a directory" = "%@ és un arxiu, no un directori";
 "Copy Images To…" = "Copiar imatges a…";
 "Create Folder and Continue" = "Crear carpeta i continuar";

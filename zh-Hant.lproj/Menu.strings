@@ -52,6 +52,7 @@
 "Cut" = "剪下";
 "Copy" = "複製";
 "Paste" = "貼上";
+"Copy as Plain Text" = "複製為 純文字";
 "Copy as Markdown" = "複製為 Markdown";
 "Copy as HTML Code" = "複製為 HTML";
 "Paste as Plain Text" = "以純文字貼上";
@@ -164,7 +165,8 @@
 "Zoom Out" = "縮小";
 "Switch Between Opened Documents" = "在已開啟的文件間切換";
 "Toggle DevTools" = "開啟/關閉開發者工具";
-
+"Allow Magnification" = "允許兩指縮放";
+ 
 /* Themes Menu */
 "Themes" = "主題";
 

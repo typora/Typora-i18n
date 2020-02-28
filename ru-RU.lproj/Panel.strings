@@ -42,9 +42,9 @@
 "Auto Pair" = "Автозавершение";
 "Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
 "Auto pair common Markdown syntax" = "Автозавершение основных тегов Markdown";
-"Live Rendering" = "Живой рендеринг";
+"Live Rendering" = "Рендеринг";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Отображать исходник для обычных блоков при фокусе";
-"Default Copy Behavior" = "Стандартный тип\nкопирования";
+"Default Copy Behavior" = "Стандартное копирование";
 "Copy Markdown source as plain text" = "Копировать разметку Markdown как обычный\nтекст";
 "Typewriter Mode" = "Режим печатной машинки";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Всегда держать курсор в центре экрана";
@@ -115,7 +115,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Загрузка изображений через iPic...";
-"Uploading in progress..." = "Выполняется загрузка...";
+"Uploading in progress…" = "Выполняется загрузка...";
 "Do not show this again" = "Не показывать это снова";
 
 /* Word Count */
@@ -170,7 +170,7 @@
 "%d Images Failed to Upload." = "Не удалось загрузить изображений: %d.";
 "%d Succeeded," = "успешно: %d, ";
 "Enable this feature on preferences panel" = "Включить эту функцию на панели настроек";
-"The option `%@` must be enabled first" = "Сначала нужно активировать параметр `%@`.";
+"The option `%@` must be enabled first." = "Сначала нужно активировать параметр `%@`.";
 "%@ is a file, not a directory" = "%@ — файл, не директория";
 "Copy Images To…" = "Копировать изображения в…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку %@ в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её?";
@@ -201,7 +201,7 @@
 "Path" = "Путь";
 "Export As..." = "Экспортировать как...";
 "More Formats" = "Дополнительные форматы";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc должен быть установлен</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Для форматов файлов в секции 'Дополнительные форматы' <a class='open-pandoc-guide'>должен быть установлен Pandoc</a>.";
 "Something is Wrong…" = "Что-то не так…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "По какой-то причине сохранить содержимое не удалось.<br/>Вы можете скопировать содержимое в новое окно Typora, а затем сохранить его. <br/>Ссылки по теме:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Сообщить об ошибках программы</a></li><li><a href='https://support.typora.io/Version-Control//'>Как восстановить потерянное содержимое</a></li></ul>";
 "Copy Content" = "Скопировать содержимое";
@@ -226,7 +226,7 @@
 "Apply above rules to online images" = "Применить правила выше для онлайн-изображений";
 "Allow upload images automatically based on YAML settings" = "Разрешить загрузку изображений автоматически на основе настроек YAML";
 
-"Learn More…" = "Узнать больше…";
+"Learn More" = "Узнать больше";
 "Whitespace / Line Break" = "Пробелы / Разрыв строки";
 "When Writing" = "При написании";
 "Export / Print" = "Экспорт / Печать";
@@ -241,12 +241,12 @@
 "Restore last closed files and folders" = "Восстановить последние закрытые файлы и папки";
 "Open custom folder" = "Открыть указанную папку";
 "Select custom folder" = "Выберите папку";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Этот параметр может быть перезаписан \"Close windows when quitting an app\" в системных настройках (Mac OS)";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Этот параметр может быть перезаписан \"Закрывать окна при завершении работы программы\" в системных настройках (Mac OS)";
 
 "Ignore" = "Игнорировать";
 "Choose Default Folder" = "Выбрать папку по умолчанию";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертировать на входе</strong>: вводимые ASCII-тире или кавычки конвертируются и сохраняются как фигурные кавычки или юникод-тире.<br/><strong>Конвертировать при рендеринге</strong>: ввод и сохранение в виде ASCII-тире или кавычек, рендеринг в виде фигурных кавычек или юникод-тире.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>При распознавании разметки распознавать знаки Unicode как ASCII, например:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Будет настроено автоматически, если умные кавычки или тире преобразуются при вводе.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>При распознавании разметки распознавать знаки Unicode как ASCII, например:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Будет настроено автоматически, если умные кавычки или тире преобразуются при вводе.<div>";
 
 "Copy image to custom folder" = "Скопировать изображение в пользовательскую папку";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Пожалуйста, укажите относительный путь к текущей папке, который начинается с './' или '../', или абсолютный путь к папке. (`${filename}` - имя текущего файла.)";
@@ -278,3 +278,47 @@
 
 "Turn off Typewriter / Focus Mode" = "Отключить режим пишущей машинки / фокусировки";
 "Typewriter / Focus Mode have been turned off." = "Режим пишущей машинки / фокусировки отключен.";
+
+"Reading Speed" = "Скорость чтения";
+"Auto" = "Автоматическая";
+"words / min" = "слов/минуту";
+
+"Reset to Default" = "Восстановление значений по умолчанию";
+"Select custom folder" = "Выбрать папку";
+"120  words/minute (Slow)" = "120 слов/минуту (Медленно)";
+"240  words/minute (Medium)" = "240 слов/минуту (Средне)";
+"382  words/minute (Fast)" = "382 слова/минуту (Быстро)";
+
+"Copy and update image source to…" = "Скопировать и обновить источник изображений в…";
+"Updater" = "Скрипт обновления";
+"Install Updates ?" = "Установить обновления?";
+"Quit and Install" = "Выйти и установить";
+"Download failed" = "Ошибка загрузки";
+"Downloading Updates…" = "Загрузка обновлений…";
+"Checking Updates…" = "Проверка обновлений…";
+"Check Update Failed" = "Не удалось проверить обновления";
+"You are update to date!" = "У вас последняя версия!";
+"Latest version is $1, your version is $2" = "Последняя версия - $1, установленная - $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Эти параметры также можно изменить в меню \"Правка → Пробелы и разрывы строк\"";
+"Auto escape image URL when insert" = "Автоматическое экранирование URL-адреса изображения при вставке";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Например, при вставке файла 'img/example file.png', адрес будет преобразован в 'img/example%20file.png'. Включите эту опцию для лучшей совместимости с другими движками Markdown или отключите для лучшей читаемости.";
+"Check updates automatically" = "Проверять обновления автоматически";
+"Skip This Version" = "Пропустить эту версию";
+"Remind Me Later" = "Напомнить позже";
+"Download Update" = "Загрузить обновление";
+"New version available." = "Доступна новая версия.";
+
+"When copy / export as HTML (without style)" = "При копировании или экспорте в формате HTML (без стилей)";
+"Use Rendered SVG" = "Использовать отрендеренный SVG";
+"Use LaTeX Source" = "Использовать источник Use LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Примите эффекты при экспорте в формате HTML (без стилей) или скопируйте обычный HTML-код, или скопируйте без каких-либо стилей.<br/>При выборе <strong>Использовать источник LaTeX</strong> Typora will put the raw LaTeX source (например: $X^2$),<br/>при выборе <strong>Использовать отрендеренный SVG</strong> будет использоваться обработанный SVG-формат; если вы вставите другой текст, SVG может быть проигнорирован.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Функция импорта и некоторые форматы экспорта требуют установки Pandoc (≥%@).";
+"Do not show this message again" = "Не показывать это сообщение снова";
+
+"Page break between top level sections" = "Разрыв страницы между разделами верхнего уровня";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Вы можете установить шаблоны цитат в Системных настройках → Клавиатура → Текст. Для применения нового шаблона потребуется перезагрузка программы.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Извините, произошла ошибка, текущее содержимое записи скопировано в буфер обмена. Вы можете сообщить об этом по адресу <hi@typora.io>, чтобы помочь нам исправить эту ошибку.";
+"Try Recovery" = "Попробовать восстановить";
+"Other options for Data Recovery" = "Другие варианты восстановления данных";

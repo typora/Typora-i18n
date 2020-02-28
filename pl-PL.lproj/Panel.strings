@@ -115,7 +115,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Przesyłanie obrazów przez iPic…";
-"Uploading in progress..." = "Przesyłanie w toku…";
+"Uploading in progress…" = "Przesyłanie w toku…";
 "Do not show this again" = "Nie pokazuj tego ponownie";
 
 /* Word Count */
@@ -170,7 +170,7 @@
 "%d Images Failed to Upload." = "%d plików nie udało się przesłać.";
 "%d Succeeded," = "%d plików zostało pomyślnie przesłanych, ";
 "Enable this feature on preferences panel" = "Włącz tę funkcję w panelu preferencji";
-"The option `%@` must be enabled first" = "Najpierw trzeba włączyć opcję `%@`.";
+"The option `%@` must be enabled first." = "Najpierw trzeba włączyć opcję `%@`.";
 "%@ is a file, not a directory" = "%@ jest plikiem, nie katalogiem";
 "Copy Images To…" = "Kopiuj obrazy do…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora usiłuje skopiować świeżo wstawiony obraz do folderu %@ zgodnie z ustawieniem YAML Front Matter bądź preferencjami globalnymi, lecz folder docelowy nie istnieje. Stworzyć go teraz?";
@@ -226,7 +226,7 @@
 "Apply above rules to online images" = "Zastosuj powyższe reguły do obrazów w sieci";
 "Allow upload images automatically based on YAML settings" = "Zezwól na automatyczne przesyłanie obrazów zgodnie z ustawieniami YAML";
 
-"Learn More…" = "Dowiedz się więcej…";
+"Learn More" = "Dowiedz się więcej";
 "Whitespace / Line Break" = "Znak spacji / końca linii";
 "When Writing" = "Podczas zapisywania";
 "Export / Print" = "Eksport/druk";
@@ -246,7 +246,7 @@
 "Ignore" = "Ignoruj";
 "Choose Default Folder" = "Wybierz folder domyślny";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Konwertuj podczas wpisywania</strong>: wprowadzane myślniki bądź cudzysłowy ASCII będą konwertowane i zapisywane jako cudzysłowy drukarskie lub myślniki Unicode.<br/><strong>Konwertuj podczas renderingu</strong>: wprowadzane myślniki bądź cudzysłowy ASCII będą zapisywane jako ASCII, ale renderowane jako cudzysłowy drukarskie lub myślniki Unicode.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozpoznawaj znaki interpunkcyjne Unicode jako ASCII podczas przetwarzania Markdowna, np. <br/> <pre> 》 blok → > blok <br/> [łącze](src ’tytuł’) → [łącze](src 'tytuł')</pre>będzie automatycznie włączone, gdy inteligentne cudzysłowy/myślniki będą konwertowane podczas wpisywania.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozpoznawaj znaki interpunkcyjne Unicode jako ASCII podczas przetwarzania Markdowna, np. <br/> <pre> 》 blok → > blok <br/> [łącze](src ’tytuł’) → [łącze](src 'tytuł')</pre>będzie automatycznie włączone, gdy inteligentne cudzysłowy/myślniki będą konwertowane podczas wpisywania.<div>";
 
 "Copy image to custom folder" = "Skopiuj obraz do własnego folderu";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Podaj względną ścieżkę do obecnego folderu, używając './' lub '../', albo bezwzględną ścieżkę do folderu (z `${filename}` będącym reprezentacją bieżącej nazwy pliku).";

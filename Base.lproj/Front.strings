@@ -168,3 +168,8 @@
 "Learn Data Recovery" = "Learn Data Recovery";
 "Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
 "Delete Permanently" = "Delete Permanently";
+
+
+"Failed to upload images:" = "Failed to upload images:";
+"Uploading in progress" = "Uploading in progress";
+"Successfully uploaded {0} images, {1} failed." = "Successfully uploaded {0} images, {1} failed.";

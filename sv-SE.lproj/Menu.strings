@@ -6,6 +6,7 @@
 */
 
 /* Typora Menu */
+
 "About Typora" = "Om Typora";
 "Preferences" = "Inställningar";
 "Check for Updates" = "Sök efter uppdateringar";
@@ -16,6 +17,7 @@
 "Quit Typora" = "Avsluta Typora";
 
 /* File Menu */
+
 "File" = "Arkiv";
 "New" = "Ny";
 "Open" = "Öppna";
@@ -24,7 +26,7 @@
 "Auto" = "Auto";
 "Open Recent" = "Öppna tidigare";
 "Recent Locations" = "Tidigare platser";
-"Clear Items" = "Rensa";
+"Clear Items" = "Rensa historiken";
 "No Recent Files" = "Inga tidigare filer";
 "Open Quickly" = "Öppna snabbt";
 "Open File Location" = "Öppna filsökväg";
@@ -254,9 +256,49 @@
 "Convert on Input" = "Omvandla vid skrift";
 "Convert on Rendering" = "Omvandla vid rendering";
 "Remap Unicode Punctuation on Parse" = "Aktivera stöd för unicode-skiljetecken";
-"More Options" = "Fler val";
+"More Options" = "Fler Val";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Ta bort Block";
+"Delete %@" = "Ta bort %@";
+"Play" = "Spela";
+"Pause" = "Pausa";
+
+"Spell Check" = "Rättstavningskontroll";
+"Unlearn Spelling" = "Glöm Stavning";
+"Properties" = "Inställningar";
 
 "Search" = "Sök";
+"Copy without Theme Styling" = "Kopiera utan temats stil";
+"Recent Files" = "Senaste filerna";
+"File Results" = "Fliresultat";
 
-"Insert Table" = "Infoga tabell";
-"Insert Image" = "Insert Image";
+"Insert Table" = "Infoga Tabell";
+"Insert Image" = "Infoga Bild";
+"Allow Magnification" = "Tillåt Förstoring";
+
+"Move Row Up" = "Flytta Rad Upp";
+"Move Row Down" = "Flytta Rad Ner";
+"Move Column Left" = "Flytta Kolumn Vänster";
+"Move Column Right" = "Flytta Kolumn Höger";
+
+"Zoom Image" = "Zooma Bild";
+"Zoom Image to %@" = "Zooma Bild till %@";
+
+"Copy as Plain Text" = "Kopiera som ren text";
+
+"Selection" = "Markernig";
+"Start Speaking" = "Börja tala";
+"Stop Speaking" = "Sluta tala";
+"Check Updates" = "Kontrollera ändringar";
+
+"HTML (without Styles)" = "HTML (utan Stilar)";
+
+"Highlight Current Header" = "Markera Nuvarande Rubrik";
+"Expand All" = "Expandera Alla";
+"Collapse All" = "Minimera Alla";
+"Collapsible Outline" = "Dispossitionsträdvy";
+"Flat Outline" = "Dispossitionslista";
+"Articles (List View)" = "Artiklar (List Vy)";
+"File Tree (Tree View)" = "Filträd (Tree Vy)";
+"Filter" = "Filter";

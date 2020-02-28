@@ -119,7 +119,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Bilder über iPic hochladen...";
-"Uploading in progress..." = "Hochladen in Bearbeitung...";
+"Uploading in progress…" = "Hochladen in Bearbeitung...";
 "Do not show this again" = "Nicht erneut anzeigen";
 
 /* Word Count */
@@ -176,7 +176,7 @@
 "%d Images Failed to Upload." = "%d Bild(er) konnten nicht hochgeladen werden.";
 "%d Succeeded," = "%d erfolgreich, ";
 "Enable this feature on preferences panel" = "Aktivieren Sie diese Funktion in den Eigenschaften";
-"The option `%@` must be enabled first" = "Die Option `%@` muss zuerst aktiviert werden.";
+"The option `%@` must be enabled first." = "Die Option `%@` muss zuerst aktiviert werden.";
 "%@ is a file, not a directory" = "%@ ist eine Datei, kein Verzeichnis";
 "Copy Images To…" = "Bilder kopieren nach…";
 "Create Folder and Continue" = "Ordner erstellen und fortsetzen";
@@ -232,7 +232,7 @@
 "Apply above rules to online images" = "Obige Regel auf Bilder aus dem Internet anwenden";
 "Allow upload images automatically based on YAML settings" = "Bilder hochladen aufgrund der YAML-Einstellungen erlauben";
 
-"Learn More…" = "Mehr erfahren…";
+"Learn More" = "Mehr erfahren";
 "Whitespace / Line Break" = "Leerraum / Zeilenumbrüche";
 "When Writing" = "Während dem Schreiben";
 "Export / Print" = "Exportieren / Drucken";
@@ -252,7 +252,7 @@
 "Ignore" = "Ignorieren";
 "Choose Default Folder" = "Standard-Ordner auswähen";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Bei Eingabe umwandeln</strong>: Eingegebene ASCII Querstriche und Anführungszeichen werden als Unicode-Querstriche und schöne Anführungszeichen gesichert.<br/><strong>Bei Darstellung umwandeln</strong>: Gespeicherte ASCII Querstriche und Anführungszeichen werden als Unicode-Querstriche und schöne Anführungszeichen angezeigt.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be truned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Unicode-Zeichensetzung als ASCII wahrnehmen, wenn Markdown geparst wird, z.B.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Wird automatisch angeschalten, wenn Intelligente Anführungszeichen gewäht wurde.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Unicode-Zeichensetzung als ASCII wahrnehmen, wenn Markdown geparst wird, z.B.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Wird automatisch angeschalten, wenn Intelligente Anführungszeichen gewäht wurde.<div>";
 
 "Copy image to custom folder" = "Bild in benutzerdefinierten Ordner kopieren";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Bitte einen relativen Pfad zum momentanen Ordner angeben, welcher mit './' oder '../' beginnt. Oder einen absoluten Pfan angeben. (`${filename}` repräsentiert den momentanen Dateinamen";
@@ -317,7 +317,15 @@
 "When copy / export as HTML (without style)" = "Beim kopieren/exportiern als HTML ohne Stil";
 "Use Rendered SVG" = "Benutze gerenderte SVG";
 "Use LaTeX Source" = "Benutze LaTeX-Source";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Tritt in Kraft, wenn als HTMl exportiert wird, der HTML-Kode kopiert wird oder ohne Themen-Stil kopiert wird.<br/>Wenn <strong>Benutze LaTeX-Source</strong> ausgewählt ist, wird Typora den reinen LaTeX-Source-Code (z.B.: $X^2$) verwenden,<br/>Wenn <strong>Benutze gerenderte SVG</strong> ausgewählt ist, wird die gerenderte SVG-Grafik verwendet. Wenn du in ein anders Programm kopiert, könnte SVG ignoriert werden.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Tritt in Kraft, wenn als HTMl exportiert wird, der HTML-Kode kopiert wird oder ohne Themen-Stil kopiert wird.<br/>Wenn <strong>Benutze LaTeX-Source</strong> ausgewählt ist, wird Typora den reinen LaTeX-Source-Code (z.B.: $X^2$) verwenden,<br/>Wenn <strong>Benutze gerenderte SVG</strong> ausgewählt ist, wird die gerenderte SVG-Grafik verwendet. Wenn du in ein anders Programm kopierst, könnte SVG ignoriert werden.</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Für die Importfunktion und mehrere Exportformate muss Pandoc (≥%@) installiert sein.";
 "Do not show this message again" = "Diese Nachricht nicht nochmal anzeigen";
+
+"Page break between top level sections" = "Seitenumbruch zwischen Top-Level-Abschnitten";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kannst Zitier-Stile in Systemeinstellungen → Tastatur → Text ändern. Typora muss neugestartet werden, um diese Änderung anzuwenden.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Ups, ein Fehler ist eingetreten. Der Inhalt des momentanen Dokumentes wurde in die Zwischenablage kopiert. Du kannst dies an <hi@typora.io> melden, um uns zu helfen, den Fehler zu beheben.";
+"Try Recovery" = "Wiederherstellung versuchen";
+"Other options for Data Recovery" = "Weitere Optionen für die Datenwiederherstellung";
+

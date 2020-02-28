@@ -91,7 +91,7 @@
 "Check Spelling While Typing" = "Sprawdzaj pisownię podczas pisania";
 "Check Grammar With Spelling" = "Sprawdzaj gramatykę z pisownią";
 "Correct Spelling Automatically" = "Poprawiaj pisownię automatycznie";
-"Substitutions" = "Zastępstwa";
+"Substitutions" = "Zastępowanie";
 "Smart Quotes" = "Inteligentne cytaty";
 "Smart Dashes" = "Inteligentne myślniki";
 "Text Replacement" = "Zamiana tekstu";
@@ -302,3 +302,8 @@
 "Articles (List View)" = "Artykuły (widok listy)";
 "File Tree (Tree View)" = "Drzewo plików (widok drzewa)";
 "Filter" = "Filtruj";
+
+
+"Upload Image" = "Prześlij obraz";
+"Upload All Local Images" = "Prześlij wszystkie obrazy lokalne";
+"Open Image in Browser" = "Otwórz obraz w przeglądarce";

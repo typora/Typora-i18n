@@ -168,3 +168,8 @@
 "Learn Data Recovery" = "Dowiedz się o odzyskiwaniu danych";
 "Auto refresh on Files Panel cannot be enabled." = "Nie można włączyć automatycznego odświeżania w panelu plików.";
 "Delete Permanently" = "Usuń bezpowrotnie";
+
+
+"Failed to upload images:" = "Nieudane wysyłanie plików:";
+"Uploading in progress" = "Wysyłanie w toku";
+"Successfully uploaded {0} images, {1} failed." = "Obrazy wysłane: {0}, nie wysłano: {1}.";

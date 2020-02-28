@@ -170,6 +170,6 @@
 "Delete Permanently" = "Usuń bezpowrotnie";
 
 
-"Failed to upload images:" = "Nieudane wysyłanie plików:";
-"Uploading in progress" = "Wysyłanie w toku";
-"Successfully uploaded {0} images, {1} failed." = "Obrazy wysłane: {0}, nie wysłano: {1}.";
+"Failed to upload images:" = "Nieudane przesyłanie plików:";
+"Uploading in progress" = "Przesyłanie w toku";
+"Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";

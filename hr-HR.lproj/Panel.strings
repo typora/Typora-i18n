@@ -172,7 +172,6 @@
 "%d Images Failed to Upload." = "%d slike nisu uploadane.";
 "%d Succeeded," = "%d uspio, ";
 "Enable this feature on preferences panel" = "Omogući ovu značajku u postavkama";
-"The option `%@` must be enabled first." = "Prvo mora biti omogućena opcija '%@'.";
 "%@ is a file, not a directory" = "%@ je datoteka, a ne direktorij";
 "Copy Images To…" = "Kopiraj slike u…";
 "Create Folder and Continue" = "Stvori direktorij i nastavi";

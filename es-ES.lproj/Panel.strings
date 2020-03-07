@@ -175,7 +175,6 @@
 "%d Images Failed to Upload." = "%d imágenes fallaron al cargarse.";
 "%d Succeeded," = "%d correctas, ";
 "Enable this feature on preferences panel" = "Activa esta característica en el panel de preferencias";
-"The option `%@` must be enabled first." = "La opción `%@` debe estar activada primero.";
 "%@ is a file, not a directory" = "%@ es un archivo, no un directorio";
 "Copy Images To…" = "Copiar imágenes a…";
 "Create Folder and Continue" = "Crear carpeta y continuar";

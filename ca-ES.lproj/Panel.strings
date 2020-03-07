@@ -175,7 +175,6 @@
 "%d Images Failed to Upload." = "%d imatges no s'han pogut carregar.";
 "%d Succeeded," = "%d correctes,";
 "Enable this feature on preferences panel" = "Activar aquesta característica al panell de preferències";
-"The option `%@` must be enabled first." = "La opció `%@` ha d'estar activada abans.";
 "%@ is a file, not a directory" = "%@ és un arxiu, no un directori";
 "Copy Images To…" = "Copiar imatges a…";
 "Create Folder and Continue" = "Crear carpeta i continuar";

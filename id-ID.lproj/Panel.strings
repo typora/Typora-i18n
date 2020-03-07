@@ -174,7 +174,6 @@
 "%d Images Failed to Upload." = "%d Gambar Gagal Diunggah.";
 "%d Succeeded," = "%d Berhasil, ";
 "Enable this feature on preferences panel" = "Aktifkan fitur ini pada panel preferensi";
-"The option `%@` must be enabled first." = "Opsi `%@` harus diaktifkan terlebih dahulu.";
 "%@ is a file, not a directory" = "%@ adalah file, bukan folder";
 "Copy Images To…" = "Salin Gambar Ke…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sedang berusaha untuk menyalin gambar yang baru disisipkan ke folder %@ sesuai dengan aturan YAML Front Matter atau preferensi global Anda. Namun, folder tujuan belum ada. Buat folder tersebut sekarang?";

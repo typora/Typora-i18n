@@ -171,7 +171,6 @@
 "%d Images Failed to Upload." = "%d billeder kunne ikke uploades.";
 "%d Succeeded," = "%d lykkedes, ";
 "Enable this feature on preferences panel" = "Aktivér denne funktion i indstillingerne";
-"The option `%@` must be enabled first." = "Indstillingen `%@` skal aktiveres først";
 "%@ is a file, not a directory" = "%@ er en fil, ikke en mappe";
 "Copy Images To…" = "Kopiér billeder til…";
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML fortekst indstilling, men mappen findes ikke - opret den nu?";

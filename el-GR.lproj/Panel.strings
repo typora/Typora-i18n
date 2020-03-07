@@ -175,7 +175,6 @@
 "%d Images Failed to Upload." = "%d Αποτυχία μεταφόρτωσης εικόνων.";
 "%d Succeeded," = "%d έγινε επιτυχημένα, ";
 "Enable this feature on preferences panel" = "Ενεργοποιήστε αυτή την λειτουργία στον πίνακα προτιμήσεων";
-"The option `%@` must be enabled first." = "Απαιτείται ενεργοποίηση της επιλογής `%@`.";
 "%@ is a file, not a directory" = "%@ είναι αρχείο, όχι κατάλογος";
 "Copy Images To…" = "Αντιγραφή Εικόνων Σε…";
 "Create Folder and Continue" = "Δημιουργία Φακέλου και Συνέχεια";

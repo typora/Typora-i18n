@@ -176,7 +176,6 @@ Japanese translated by
 "%d Images Failed to Upload." = "%d個のファイルのアップロードに失敗しました";
 "%d Succeeded," = "%d個は成功しました, ";
 "Enable this feature on preferences panel" = "設定画面でこの機能を有効にする";
-"The option `%@` must be enabled first." = "「%@」の機能を先に有効にしてください";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしました。しかし、フォルダが存在しません。今作成しますか？";

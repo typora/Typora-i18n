@@ -170,7 +170,6 @@
 "%d Images Failed to Upload." = "%d зображень завантажити не вдалося.";
 "%d Succeeded," = "%d успішних, ";
 "Enable this feature on preferences panel" = "Увімкніть цю функцію на панелі параметрів";
-"The option `%@` must be enabled first." = "Спершу має бути увімкнена опція `%@`.";
 "%@ is a file, not a directory" = "%@ — файл, а не директорія";
 "Copy Images To…" = "Скопіювати зображення до…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora намагається скопіювати свіжовставлене зображення у директорію %@ відповідно до вашого налаштування YAML Front Matter або глобальних налаштувань, але цільва директорія не існує. Створити її зараз?";

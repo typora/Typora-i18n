@@ -177,7 +177,6 @@
 "%d Images Failed to Upload." = "%d개의 이미지 업로드 실패.";
 "%d Succeeded," = "%d개 성공";
 "Enable this feature on preferences panel" = "이 기능을 설정 패널에서 활성화";
-"The option `%@` must be enabled first." = "`%@` 옵션을 먼저 활성화해야 합니다";
 "%@ is a file, not a directory" = "%@는 폴더가 아니라 파일입니다";
 "Copy Images To…" = "다음으로 이미지 복사…";
 "Create Folder and Continue" = "폴더 생성 후 계속";

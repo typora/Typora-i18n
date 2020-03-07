@@ -172,7 +172,6 @@
 "%d Images Failed to Upload." = "Zlyhalo nahratie %d obrázkov.";
 "%d Succeeded," = "%d úspešné,";
 "Enable this feature on preferences panel" = "Zapnite túto funkciu na paneli nastavení";
-"The option `%@` must be enabled first." = "Možnosť `%@` musí byť najprv zapnutá";
 "%@ is a file, not a directory" = "%@ je súbor, nie priečinok";
 "Copy Images To…" = "Kopírovať obrázky do…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sa snaží skopírovať novo vložený obrázok do priečinka % @ podľa vášho nastavenia preddefinovaných premenných YAML alebo globálnych nastaveniach. Cieľový priečinok však neexistuje, vytvoriť teraz?";

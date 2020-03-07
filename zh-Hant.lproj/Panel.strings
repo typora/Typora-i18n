@@ -170,7 +170,6 @@
 "%d Images Failed to Upload." = "%d 張圖片上傳失敗";
 "%d Succeeded," = "%d 張成功, ";
 "Enable this feature on preferences panel" = "在偏好設定中啟用此功能";
-"The option `%@` must be enabled first." = "請先啟用選項 `%@`";
 "%@ is a file, not a directory" = "%@ 是檔案，不是資料夾";
 "Copy Images To…" = "複製圖片至...";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 %@。但是目標資料夾不存在，現在要新增它嗎？";

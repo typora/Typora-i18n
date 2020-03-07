@@ -171,7 +171,6 @@
 "%d Images Failed to Upload." = "%d hình ảnh đã tải lên không thành công.";
 "%d Succeeded," = "%d đã thành công, ";
 "Enable this feature on preferences panel" = "Bật tính năng này trong cửa sổ Cài đặt";
-"The option `%@` must be enabled first." = "Phần mục `%@` phải được bật lên trước.";
 "%@ is a file, not a directory" = "%@ là một tập tin, không phải một thư mục";
 "Copy Images To…" = "Sao chép hình ảnh đến…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục %@ dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";

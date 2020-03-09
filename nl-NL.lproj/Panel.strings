@@ -175,7 +175,6 @@
 "%d Images Failed to Upload." = "%d Afbeeldingen mislukt te uploaden.";
 "%d Succeeded," = "%d Geslaagd, ";
 "Enable this feature on preferences panel" = "Deze functionaliteit kan bij het voorkeuren paneel ingeschakeld worden";
-"The option `%@` must be enabled first." = "De optie `%@` moet eerst ingeschakeld worden.";
 "%@ is a file, not a directory" = "%@ is een bestand, niet een map";
 "Copy Images To…" = "Kopieer Afbeeldingen Naar…";
 "Create Folder and Continue" = "Maak map en ga door";

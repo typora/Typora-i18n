@@ -181,7 +181,6 @@
 "%d Images Failed to Upload." = "%d obrázky se nepodařilo nahrát.";
 "%d Succeeded," = "%d uspěl,";
 "Enable this feature on preferences panel" = "Zapněte tuto funkci na panelu předvoleb";
-"The option `%@` must be enabled first." = "Možnost `%@` musí být nejprve zapnuta";
 "%@ is a file, not a directory" = "%@ je soubor, ne složka";
 "Copy Images To…" = "Kopírovat obrázky do …";
 "Create Folder and Continue" = "Vytvořit složku a pokračovat";

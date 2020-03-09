@@ -172,7 +172,6 @@
 "%d Images Failed to Upload." = "%d kép feltöltése nem sikerült.";
 "%d Succeeded," = "%d sikeres volt, ";
 "Enable this feature on preferences panel" = "Engedélyezze ezt a funkciót a Beállításokban";
-"The option `%@` must be enabled first." = "A `%@` lehetőséget előbb engedélyezni kell.";
 "%@ is a file, not a directory" = "%@ nem mappa, hanem fájl";
 "Copy Images To…" = "Képek másolása ide…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban szereplő %@ mappába másolni, de az nem létezik. Létrehozzuk?";

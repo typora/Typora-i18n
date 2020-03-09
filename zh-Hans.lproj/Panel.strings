@@ -171,7 +171,7 @@
 "%d Images Failed to Upload." = "%d个图片上传失败。";
 "%d Succeeded," = "%d个成功, ";
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
-"The option `%@` must be enabled first." = "请先开启选项`%@`。";
+"The option `%@` must be enabled first to automatically upload images." = "请先开启选项`%@`以允许图片自动上传。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typera 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
@@ -354,4 +354,4 @@
 "Unzipping…" = "解压中…";
 "Finished" = "已完成";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";

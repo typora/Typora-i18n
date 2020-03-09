@@ -174,7 +174,6 @@
 "%d Images Failed to Upload." = "%d images n'ont pas pu être téléversées.";
 "%d Succeeded," = "%d réussis, ";
 "Enable this feature on preferences panel" = "Activer cette fonction dans les préférences";
-"The option `%@` must be enabled first." = "L'option `%@` doit d'abord être activée.";
 "%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
 "Copy Images To…" = "Copier les images vers…";
 "Create Folder and Continue" = "Créer le dossier et continuer";

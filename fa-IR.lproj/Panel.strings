@@ -172,7 +172,6 @@
 "%d Images Failed to Upload." = "%d آپلود تصاویر ناموفق بود.";
 "%d Succeeded," = "%d موفق, ";
 "Enable this feature on preferences panel" = "این خصوصیت را در پنل تنظیمات فعال کنید";
-"The option `%@` must be enabled first." = "گزینه‌ی `%@` ابتدا باید فعال شود.";
 "%@ is a file, not a directory" = "%@ یک فایل است، نه یک مسیر";
 "Copy Images To…" = "کپی تصاویر به…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora تلاش می‌کند تا فایل تصویر جدید افزوده شده را به پوشه‌ی %@ مطابق با تنظیمات YAML Front Matter یا تنظیمات فراگیر کپی کند. اما پوشه هدف وجود ندارد, تمایل دارید این پوشه هم اکنون ساخته شود؟";

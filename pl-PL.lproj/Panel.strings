@@ -167,6 +167,7 @@
 "%d Images Failed to Upload." = "%d plików nie udało się przesłać.";
 "%d Succeeded," = "%d plików zostało pomyślnie przesłanych, ";
 "Enable this feature on preferences panel" = "Włącz tę funkcję w panelu preferencji";
+"The option `%@` must be enabled first to automatically upload images." = "W celu automatycznego przesyłania obrazów najpierw trzeba włączyć opcję `%@`.";
 "%@ is a file, not a directory" = "%@ jest plikiem, nie katalogiem";
 "Copy Images To…" = "Kopiuj obrazy do…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora usiłuje skopiować świeżo wstawiony obraz do folderu %@ zgodnie z ustawieniem YAML Front Matter bądź preferencjami globalnymi, lecz folder docelowy nie istnieje. Stworzyć go teraz?";

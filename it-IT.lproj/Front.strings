@@ -43,6 +43,7 @@
 "Delete Table" = "Elimina tabella";
 
 /* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sta provando a copiare l'immagine appena inserita nella cartella <code id='image-create-folder-target'></code> in base alla preferenza o alle impostazioni globali di YAML Front Matter. Ma la cartella di destinazione non esiste, vuoi crearla?";
 "Create Folder" = "Crea cartella";
 
 /* Math */
@@ -54,12 +55,12 @@
 "Articles" = "Articoli";
 "Outline" = "Struttura";
 "Files" = "File";
-"Switch to File List view" = "Passa a vista Elenco file";
-"Switch to File Tree view" = "Passa a vista Albero file";
+"Switch to File List view" = "Passa a vista Elenco";
+"Switch to File Tree view" = "Passa a vista Albero";
 "Switch to Outline view" = "Passa a vista Struttura";
 "Close sidebar" = "Chiudi barra laterale";
 "Loading" = "Caricamento in corso";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Le cartelle selezionate contengono troppi file. \nPassa alla <a id='switch-to-tree-on-oversize'>vista Albero file</a> per ottenere un miglior risultato.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Le cartelle selezionate contengono troppi file. \nPassa alla <a id='switch-to-tree-on-oversize'>vista Albero</a> per ottenere un miglior risultato.";
 "New File" = "Nuovo file";
 "Unpin Outline Panel" = "Separa pannello Struttura";
 "Open Folder..." = "Apri cartella...";
@@ -76,7 +77,7 @@
 "Sort by Name (Descending)" = "Ordina per nome (Descending)";
 "Sort by Modification Date (Descending)" = "Ordina per data di modifica (Descending)";
 "Location" = "Posizioni";
-"Switch File List/Tree View" = "Passa a vista Elenco file/Albero file";
+"Switch File List/Tree View" = "Passa a vista Elenco/Albero";
 "No Files Available" = "Nessun file disponibile";
 "No Folder is Opened." = "Nessuna cartella aperta.";
 "Outline is Empty." = "La Struttura è vuota.";
@@ -122,3 +123,54 @@
 "Select Container Folder" = "Seleziona cartella di origine";
 
 "Saved" = "Salvato";
+
+/* place holder in find & replace input */
+"search text" = "cerca testo";
+"replace with" = "sostituisci con";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Parola intera";
+
+"input image URL" = "inserisci URL dell'immagine";
+"Select image from local file" = "Seleziona immagine da file locale";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Impossibile aprire la posizione <code>$1</code>, forse intendi <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "seleziona una lingua";
+"Finish Editing" = "Termina modifica";
+
+"Revert advanced setting file to default one ?" = "Ripristinare le impostazioni avanzate predefinite ?";
+
+"Select Spell Check Language" = "Seleziona lingua per il controllo ortografico";
+"Auto Detect Language" = "Rileva lingua automaticamente";
+"Disable Spell Check" = "Disattiva controllo ortografico";
+"Global Setting…" = "Impostazioni globali…";
+"Dictionary file is missing to enable spellcheck support for %@." = "File del dizionario mancante per abilitare il controllo ortografico %@.";
+"Install Language Support" = "Installa il supporto per la lingua";
+"License Information" = "Informazioni sulla licenza";
+"Download" = "Download";
+"Install dictionary file only for Typora" = "Installa il file del dizionario solo per Typora";
+"Spell Check (%@ unavailable)" = "Controllo ortografico (%@ non disponibile)";
+"Spell Check (%@ downloading)" = "Controllo ortografico (%@ in download)";
+"Download dictionary file for %@" = "Scarica il file del dizionario per %@";
+"(Default spell check option)" = "(Opzione di controllo ortografico predefinita)";
+"Failed to load spellcheck module" = "Impossibile caricare il modulo per il controllo ortografico";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> è stato abilitato.";
+"You could turn it off from `View` menu." = "Puoi disattivarlo dal menu `Vista`.";
+"The file is too large to render in Typora." = "Il file è troppo grande per essere visualizzato in Typora.";
+"Open in…" = "Apri in…";
+"Quick Look" = "Quick Look";
+
+"Filter" = "Filtro";
+"No result found." = "Nessun risultato trovato.";
+"Continue & Overwrite" = "Continua & sovrascrivi";
+"The file is read-only, or you do not have right permissions to modify the file." = "Il file è di sola lettura, o non disponi dell'autorizzazione per modificare il file.";
+
+"Learn Data Recovery" = "Impara Recupero dei dati";
+"Auto refresh on Files Panel cannot be enabled." = "Impossibile abilitare l'aggiornamento automatico del del pannello File.";
+"Delete Permanently" = "Elimina definitivamente";
+
+
+"Failed to upload images:" = "Caricamento immagini non riuscito:";
+"Uploading in progress" = "Caricamento in corso";
+"Successfully uploaded {0} images, {1} failed." = "Sono state caricate {0} immagini, {1} non riuscito.";

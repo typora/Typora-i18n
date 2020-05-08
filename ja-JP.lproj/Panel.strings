@@ -320,3 +320,7 @@ Japanese translated by
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "インポート機能といくつかのフォーマット形式によるエクスポートには、Pandoc (≥%@) のインストールが必要です。";
 "Do not show this message again" = "このメッセージを次回から表示しない";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "エラーが発生しました、現在の入力内容がクリップボードにコピーされています。<hi@typora.io> 宛に報告を頂けると、この問題の解決に役立てることができます。";
+"Try Recovery" = "復旧を試みる";
+"Other options for Data Recovery" = "データ復旧のための他のオプション";

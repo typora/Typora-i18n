@@ -72,10 +72,10 @@
 "Sort" = "Rendezés";
 "Group By Folder" = "Mappánkénti csoportosítás";
 "Sort Naturally" = "Természetes sorrend";
-"Sort by Name (Ascending)" = "Rendezés név szerint (Ascending)";
-"Sort by Modification Date (Ascending)" = "Rendezés utolsó módosítás szerint (Ascending)";
-"Sort by Name (Descending)" = "Rendezés név szerint (Descending)";
-"Sort by Modification Date (Descending)" = "Rendezés utolsó módosítás szerint (Descending)";
+"Sort by Name (Ascending)" = "Rendezés név szerint (növekvő)";
+"Sort by Modification Date (Ascending)" = "Rendezés utolsó módosítás szerint (növekvő)";
+"Sort by Name (Descending)" = "Rendezés név szerint (csökkenő)";
+"Sort by Modification Date (Descending)" = "Rendezés utolsó módosítás szerint (csökkenő)";
 "Location" = "Hely";
 "Switch File List/Tree View" = "Váltás Fa és Betekintés között";
 "No Files Available" = "Nincsenek elérhető fájlok";
@@ -167,3 +167,9 @@
 
 "Learn Data Recovery" = "Tudnivalók az adatvisszaállításról";
 "Auto refresh on Files Panel cannot be enabled." = "Nem sikerült bekapcsolni az automatikus frissítést a Fájlkezelőben.";
+"Delete Permanently" = "Végleges törlés";
+
+
+"Failed to upload images:" = "A képek feltöltése nem sikerült:";
+"Uploading in progress" = "Feltöltés folyamatban";
+"Successfully uploaded {0} images, {1} failed." = "{0} kép feltöltése sikeres, {1} képé sikertelen volt.";

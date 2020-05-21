@@ -194,7 +194,7 @@
 "Open From..." = "Открыть из...";
 "Import..." = "Импортировать...";
 "Recent Documents" = "Недавние документы";
-"Search for…" = "Искать…";
+"Search for" = "Искать";
 "Clear Recent Documents" = "Очистить список";
 "File Name" = "Имя файла";
 "Path" = "Путь";
@@ -255,7 +255,7 @@
 "Cannot use root path." = "Невозможно использовать корневой путь.";
 
 "Get Themes" = "Скачать темы";
-"File/directory alreay exists at target path." = "Файл/каталог уже существует по целевому пути.";
+"File/directory already exists at target path." = "Файл/каталог уже существует по целевому пути.";
 "Keep Both" = "Сохранить оба";
 "Are you sure you want to move %@?" = "Хотите переместить %@?";
 

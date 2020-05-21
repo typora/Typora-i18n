@@ -194,7 +194,7 @@
 "Open From..." = "開啟方式...";
 "Import..." = "匯入...";
 "Recent Documents" = "最近使用的文件";
-"Search for…" = "搜尋...";
+"Search for" = "搜尋";
 "Clear Recent Documents" = "清除最近使用的文件";
 "File Name" = "檔名";
 "Path" = "路徑";
@@ -255,7 +255,7 @@
 "Cannot use root path." = "無法使用根路徑。";
 
 "Get Themes" = "取得主題";
-"File/directory alreay exists at target path." = "檔案/目錄已存在目標路徑。";
+"File/directory already exists at target path." = "檔案/目錄已存在目標路徑。";
 "Keep Both" = "兩者都保留";
 "Are you sure you want to move %@?" = "您確定要移動 %@？";
 

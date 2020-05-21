@@ -200,7 +200,7 @@ Japanese translated by
 "Open From..." = "～から開く";
 "Import..." = "インポートする";
 "Recent Documents" = "履歴";
-"Search for…" = "～を探す";
+"Search for" = "～を探す";
 "Clear Recent Documents" = "履歴の消去";
 "File Name" = "ファイル名";
 "Path" = "パス";
@@ -261,7 +261,7 @@ Japanese translated by
 "Cannot use root path." = "絶対パスは使用できません。";
 
 "Get Themes" = "テーマを取得";
-"File/directory alreay exists at target path." = "指定したパスにファイル/ディレクトリがすでに存在します。";
+"File/directory already exists at target path." = "指定したパスにファイル/ディレクトリがすでに存在します。";
 "Keep Both" = "両方とも保存する";
 "Are you sure you want to move %@?" = "本当に %@ を移動しますか？";
 

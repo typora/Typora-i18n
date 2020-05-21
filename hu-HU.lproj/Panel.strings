@@ -196,7 +196,7 @@
 "Open From..." = "Megnyitás innen...";
 "Import..." = "Importálás...";
 "Recent Documents" = "Legutóbbi dokumentumok";
-"Search for…" = "Keresés…";
+"Search for" = "Keresés";
 "Clear Recent Documents" = "Legutóbbi dokumentumok listájának törlése";
 "File Name" = "Fájlnév";
 "Path" = "Útvonal";
@@ -256,7 +256,7 @@
 "Cannot use root path." = "A gyökérmappa nem használható.";
 
 "Get Themes" = "Új témák beszerzése";
-"File/directory alreay exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
+"File/directory already exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
 "Keep Both" = "Mindkettő megtartása";
 "Are you sure you want to move %@?" = "Biztosan mozgatni akarja ezt: %@?";
 

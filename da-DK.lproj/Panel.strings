@@ -195,7 +195,7 @@
 "Open From..." = "Åbn fra...";
 "Import..." = "Importér...";
 "Recent Documents" = "Seneste dokumenter";
-"Search for…" = "Søg efter…";
+"Search for" = "Søg efter";
 "Clear Recent Documents" = "Ryd seneste dokumenter";
 "File Name" = "Filnavn";
 "Path" = "Sti";
@@ -256,7 +256,7 @@
 "Cannot use root path." = "Kan ikke bruge roden som sti.";
 
 "Get Themes" = "Hent temaer";
-"File/directory alreay exists at target path." = "Fil eller mappe findes allerede.";
+"File/directory already exists at target path." = "Fil eller mappe findes allerede.";
 "Keep Both" = "Behold begge";
 "Are you sure you want to move %@?" = "Er du sikker på, at du ønsker at flytte %@?";
 

@@ -204,7 +204,7 @@
 "Open From..." = "Otevřít z...";
 "Import..." = "Importovat...";
 "Recent Documents" = "Nedávné dokumenty";
-"Search for…" = "Hledat...";
+"Search for" = "Hledat";
 "Clear Recent Documents" = "Vyčistit nedávné dokumenty";
 "File Name" = "Název souboru";
 "Path" = "Cesta";
@@ -265,7 +265,7 @@
 "Cannot use root path." = "Nelze použít kořenový adresář.";
 
 "Get Themes" = "Získat témata vzhledu";
-"File/directory alreay exists at target path." = "Složka/soubor již existuje na cilové cestě.";
+"File/directory already exists at target path." = "Složka/soubor již existuje na cilové cestě.";
 "Keep Both" = "Zachovat obojí";
 "Are you sure you want to move %@?" = "Jste si jistí, že chcete přesunout %@?";
 

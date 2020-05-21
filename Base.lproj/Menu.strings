@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Upload Local Images via iPic";
 "When Insert Local Image" = "When Insert Local Image";
 "Copy Image File to Folder" = "Copy Image File to Folder";
-"Upload Image via iPic" = "Upload Image via iPic";
 "Use Image Root Path" = "Use Image Root Path";
 "Line Endings" = "Line Endings";
 "Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
@@ -238,7 +237,6 @@
 "Copy '%@'" = "Copy '%@'";
 "Copy to %@" = "Copy to %@";
 "Copy Image to" = "Copy Image to";
-"Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Image Location";
 
 "Learn More" = "Learn More";

@@ -196,7 +196,7 @@
 "Open From..." = "باز کردن فرم...";
 "Import..." = "افزودن...";
 "Recent Documents" = "اسناد اخیر";
-"Search for…" = "جستجو برای…";
+"Search for" = "جستجو برای";
 "Clear Recent Documents" = "پاک کردن اسناد اخیر";
 "File Name" = "نام فایل";
 "Path" = "مسیر";
@@ -257,7 +257,7 @@
 "Cannot use root path." = "مسیر root قابل استفاده نیست.";
 
 "Get Themes" = "دریافت پوسته‌ها";
-"File/directory alreay exists at target path." = "فایل‫/‬دایرکتوری در مسیر ذکر شده وجود دارد.";
+"File/directory already exists at target path." = "فایل‫/‬دایرکتوری در مسیر ذکر شده وجود دارد.";
 "Keep Both" = "نگهداری هردو";
 "Are you sure you want to move %@?" = "آیا از انتقال  %@ اطمینان دارید؟";
 

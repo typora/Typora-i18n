@@ -192,7 +192,7 @@
 "Open From..." = "Open From...";
 "Import..." = "Import...";
 "Recent Documents" = "Recent Documents";
-"Search for…" = "Search…";
+"Search for" = "Search";
 "Clear Recent Documents" = "Clear Recent Documents";
 "File Name" = "File Name";
 "Path" = "Path";
@@ -252,7 +252,7 @@
 "Cannot use root path." = "Cannot use root path.";
 
 "Get Themes" = "Get Themes";
-"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
+"File/directory already exists at target path." = "File/directory already exists at target path.";
 "Keep Both" = "Keep Both";
 "Are you sure you want to move %@?" = "Are you sure you want to move %@?";
 
@@ -357,3 +357,5 @@
 "Finished" = "Finished";
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
+
+"Export operation finished successfully." = "Export operation finished successfully.";

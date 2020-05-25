@@ -196,7 +196,7 @@
 "Open From..." = "Otvoriť z...";
 "Import..." = "Importovať...";
 "Recent Documents" = "Naposledy otvorené dokumenty";
-"Search for…" = "Hľadať...";
+"Search for" = "Hľadať";
 "Clear Recent Documents" = "Vymazať naposledy otvorené dokumenty";
 "File Name" = "Názov súboru";
 "Path" = "Cesta";
@@ -257,7 +257,7 @@
 "Cannot use root path." = "Nemožno použiť koreňovú cestu.";
 
 "Get Themes" = "Získať motívy";
-"File/directory alreay exists at target path." = "Súbor/priečinok už existuje na cieľovej ceste.";
+"File/directory already exists at target path." = "Súbor/priečinok už existuje na cieľovej ceste.";
 "Keep Both" = "Ponechať obidva";
 "Are you sure you want to move %@?" = "Naozaj chcete presunúť %@?";
 

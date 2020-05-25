@@ -200,7 +200,7 @@
 "Open From..." = "다음으로 열기...";
 "Import..." = "가져오기...";
 "Recent Documents" = "최근 문서";
-"Search for…" = "다음으로 검색…";
+"Search for" = "다음으로 검색";
 "Clear Recent Documents" = "최근 문서 비우기";
 "File Name" = "파일 이름";
 "Path" = "경로";

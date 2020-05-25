@@ -77,7 +77,7 @@
 "Copy Image File to Folder" = "Copia immagine nella cartella";
 "Upload Image via iPic" = "Invia immagine con iPic";
 "Use Image Root Path" = "Usa percorso di origine";
-"Line Endings" = "Line Endings";
+"Line Endings" = "Interruzioni di linea";
 "Windows Line Endings (CRLF)" = "Formato Windows (CRLF)";
 "Unix Line Endings (LF)" = "Formato Unix (LF)";
 "Find" = "Trova";
@@ -177,6 +177,7 @@
 
 /* Help Menu */
 "Help" = "Aiuto";
+"Privacy Policy" = "Privacy Policy";
 "Credits" = "Ringraziamenti";
 "Change Log" = "Change Log";
 "Website" = "Sito web";
@@ -233,9 +234,75 @@
 "Open Failed" = "Impossibile aprire";
 "File or folder does not exist." = "Il file o la cartella non esiste.";
 
+"Prettify Source Code" = "Abbellisci codice sorgente";
+"Copy '%@'" = "Copia '%@'";
+"Copy to %@" = "Copia in %@";
+"Copy Image to" = "Copia immagine in";
+"Upload via iPic" = "Invia con iPic";
+"Open Image Location" = "Apri posizione immagine";
+
+"Learn More" = "Per saperne di più";
+"Whitespace and Line Breaks" = "Spazi vuoti e interruzioni di riga";
+"Indent first line of paragraphs" = "Indenta la prima riga dei paragrafi";
+"Preserve single line break" = "Conserva interruzione di riga singola";
+"Visible <br/>" = "Visibile <br/>";
+
+"Save All" = "Salva tutto";
+"New Window" = "Nuova finestra";
+"Reopen Closed File" = "Riapri file chiuso";
+
+"Global Image Settings" = "Impostazioni globali immagine";
+"Smart Punctuation" = "Punteggiatura intelligente";
+"Convert on Input" = "Converti nel codice";
+"Convert on Rendering" = "Converti nell'anteprima";
+"Remap Unicode Punctuation on Parse" = "Rimappa punteggiatura Unicode durante il parsing";
+"More Options" = "Altre opzioni";
+
+"HTML Block" = "Blocco HTML";
+"Delete Block" = "Elimina blocco";
+"Delete %@" = "Cancella %@";
+"Play" = "Avvia";
+"Pause" = "Pausa";
+
+"Spell Check" = "Controllo ortografico";
+"Unlearn Spelling" = "Dimentica ortografia";
+"Properties" = "Proprietà";
+
 "Search" = "Cerca";
+"Copy without Theme Styling" = "Copia senza stile tema";
+"Recent Files" = "File recenti";
+"File Results" = "Risultati file";
 
 "Insert Table" = "Inserisci tabella";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Inserisci immagine";
+"Allow Magnification" = "Consenti ingrandimento";
 
-"Copy Image to" = "Copia immagine in";
+"Move Row Up" = "Sposta riga in alto";
+"Move Row Down" = "Sposta riga in basso";
+"Move Column Left" = "Sposta colonna a sinistra";
+"Move Column Right" = "Sposta colonna a destra";
+
+"Zoom Image" = "Zoom immagine";
+"Zoom Image to %@" = "Zoom immagine su %@";
+
+"Copy as Plain Text" = "Copia come testo semplice";
+
+"Selection" = "Selezione";
+"Start Speaking" = "Inizia a parlare";
+"Stop Speaking" = "Smetti di parlare";
+"Check Updates" = "Controlla aggiornamenti";
+
+"HTML (without Styles)" = "HTML (senza stili)";
+
+"Highlight Current Header" = "Evidenzia titolo corrente";
+"Expand All" = "Espandi tutto";
+"Collapse All" = "Comprimi tutto";
+"Collapsible Outline" = "Struttura comprimibile";
+"Flat Outline" = "Struttura espansa";
+"Articles (List View)" = "Articoli (vista Elenco)";
+"File Tree (Tree View)" = "File (vista Albero)";
+"Filter" = "Filtro";
+
+"Upload Image" = "Carica immagine";
+"Upload All Local Images" = "Carica tutte le immagini locali";
+"Open Image in Browser" = "Apri immagine nel browser";

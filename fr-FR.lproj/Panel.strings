@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by hi@typora.io and hello@mordinateur.com
+ by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
  */
 
 /* Preference Panel */
@@ -176,6 +176,7 @@
 "Enable this feature on preferences panel" = "Activer cette fonction dans les préférences";
 "%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
 "Copy Images To…" = "Copier les images vers…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier les images nouvellement insérées au dossier %@ d'après vos paramètres de YAML Front Matter ou vos préférences globales. Cependant la cible n'existe pas, voulez-vous la créer ?";
 "Create Folder and Continue" = "Créer le dossier et continuer";
 "Document must be saved first" = "Le document doit d'abord être enregistré";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiera les nouvelles images insérées vers le dossier selon le chemin relatif spécifié, merci de d'abord sauver le fichier.";
@@ -197,7 +198,7 @@
 "Open From..." = "Ouvrir depuis...";
 "Import..." = "Importer...";
 "Recent Documents" = "Documents récents";
-"Search for…" = "Rechercher…";
+"Search for" = "Rechercher";
 "Clear Recent Documents" = "Effacer documents récents";
 "File Name" = "Nom de fichier";
 "Path" = "Chemin";
@@ -207,3 +208,70 @@
 "Something is Wrong…" = "Quelque chose ne va pas…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "La sauvegarde des contenus n'a pas fonctionné.<br/>Vous pouvez copier les contenus dans une nouvelle fenêtre Typora, puis enregistrer. <br/>En savoir plus sur:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Le signalement des bugs </a></li><li><a href='https://support.typora.io/Version-Control//'>La récupération de contenus perdus</a></li></ul>";
 "Copy Content" = "Copier contenu";
+
+"Total" = "Total";
+"Word count only support OS X later than 10.10." = "Le décompte des mots n'est supporté que sur les OS X plus récents que 10.10.";
+"Auto wrap long lines" = "Retour à la ligne automatique pour les lignes longues";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Désolé, la version actuelle de Typora n'affiche pas les couleurs de fond.\nDonc les thèmes sombres ne sont pour l'instant pas supportés pour l'impression. \n\nVeuillez choisir un thème clair pour exporter au format PDF.";
+"Export to PDF" = "Exporter au format PDF";
+"Pretty indentation" = "Belle indentation";
+"Update markdown reference for this image" = "Mettre à jour les références markdown de cette image";
+
+"No special action" = "Aucune action spécifique";
+"Copy image to current folder (./)" = "Copier l'image vers le dossier courant (./)";
+"Copy image to ./assets" = "Copier l'image vers ./assets";
+"Copy image to ./${filename}.assets" = "Copier l'image vers ./${filename}.assets";
+"Apply above rules to local images" = "Appliquer les règles ci-dessus sur les images locales";
+"Apply above rules to online images" = "Appliquer les règles ci-dessus sur les images en ligne";
+"Allow upload images automatically based on YAML settings" = "Autoriser le téléversement d'images automatiquement d'après les paramètres YAML";
+
+"Learn More" = "En apprendre plus";
+"Whitespace / Line Break" = "Espaces / Retours à la ligne";
+"When Writing" = "Lors de l'impression";
+"Export / Print" = "Export / Impression";
+"Preserve sequential whitespace and single line break" = "Preserver les espaces successifs et les retours à la ligne simples";
+"Ignore sequential whitespace and single line break" = "Ignorer les espaces successifs et les retours à la ligne simples";
+"Quit" = "Quit";
+"Quit Typora when last window is closed" = "Quitter Typora lorsque la dernière fenêtre est fermée";
+"On Launch" = "Au lançement";
+"Open new file" = "Ouvrir le nouveau fichier";
+"Restore last closed folders" = "Restaurer les derniers dossiers fermés";
+"Restore last closed files and folders" = "Restaurer les derniers fichiers et dossiers fermés";
+"Open custom folder" = "Ouvrir un dossier spécifique";
+"Select custom folder" = "Sélectionner un dossier spécifique";
+
+"Ignore" = "Ignore";
+"Choose Default Folder" = "Choisir dossier par défaut";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convertir à la saisie</strong>: Les tirets et guillements ASCII saisis sont ensuite convertis et enregistés en tirets unicode ou guillements arrondis.<br/><strong>Convertir à l'affichage</strong>: Les tirets et guillements ASCII saisis sont enregistés tels quels et convertis en tirets unicode ou guillements arrondis seulement lors de l'affichage.</div>";
+
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconnaître la ponctuation unicode telle qu'ASCII lors de l'analyse du Markdown, e.g.:<br/> <pre> 》 citation → > citation <br/> [lien](src ’titre’) → [lien](src 'titre')</pre>Ce paramètre est automatiquement activé si les guillemets/tirets intelligents sont convertis à l'entrée.<div>";
+
+"Copy image to custom folder" = "Copier l'image vers un dossier spécifique";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Veuillez spécifier un chemin relatif au dossier courant, commençant par './' ou '../', ou un chemin de dossier absolu. (`${filename}` représentant le nom des fichiers courants.)";
+"Restore to previous setting" = "Restaurer les paramètres précédents.";
+"Folder not exist at %@, please input another path." = "Le dossier à %@ n'existe pas, veuilliez entrer un autre chemin.";
+"Please input a folder path." = "Veuillez enter un chemin vers un dossier.";
+"Cannot use root path." = "Impossible d'utiliser le chemin racine.";
+
+"Get Themes" = "Récupérer les thèmes";
+"File/directory alreay exists at target path." = "Le fichier/dossier existe déjà au chemin ciblé.";
+"Keep Both" = "Conserver les deux";
+"Are you sure you want to move %@?" = "Êtes-vous sûrs de vouloir déplacer %@ ?";
+
+"Are you sure you want to delete %@?" = "Êtes-vous sûrs de vouloir supprimer %@ ?";
+"You can restore from the Trash." = "Vous pouvez le récupérer de la corbeille.";
+
+"Reset All Dialog Warnings" = "Réinitialiser tous les dialogues d'avertissement";
+"Dialogs" = "Dialogues";
+"Dialog warnings have been reset." = "Les dialogues d'avertissement on été réinitialisés.";
+
+"Operation Failed" = "l'operation a échoué";
+"Failed to move target file or folder to trash" = "Échec du déplacement du fichier ou dossier vers la corbeille";
+
+"Undo %@" = "Annuler %@";
+"Rename %@" = "Renommer %@";
+"Copy %@" = "Copier %@";
+"Move %@" = "Déplacer %@";
+"Delete %@" = "Supprimer %@";
+

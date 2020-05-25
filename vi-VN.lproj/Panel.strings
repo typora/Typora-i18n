@@ -195,7 +195,7 @@
 "Open From..." = "Mở từ...";
 "Import..." = "Nhập...";
 "Recent Documents" = "Tài liệu gần đây";
-"Search for…" = "Tìm kiếm về…";
+"Search for" = "Tìm kiếm về";
 "Clear Recent Documents" = "Dọn sạch tài liệu gần đây";
 "File Name" = "Tên tập tin";
 "Path" = "Đường dẫn";
@@ -256,7 +256,7 @@
 "Cannot use root path." = "Không thể sử dụng đường dẫn gốc.";
 
 "Get Themes" = "Tải thêm Themes";
-"File/directory alreay exists at target path." = "Tập tin/thư mục đã tồn tại ở đường dẫn đã chọn.";
+"File/directory already exists at target path." = "Tập tin/thư mục đã tồn tại ở đường dẫn đã chọn.";
 "Keep Both" = "Giữ cả hai";
 "Are you sure you want to move %@?" = "Bạn chắc chắn muốn di chuyển %@?";
 

@@ -276,4 +276,35 @@
 "File Results" = "Talált fájlok";
 
 "Insert Table" = "Táblázat beszúrása";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Kép beszúrása";
+"Allow Magnification" = "Nagyítás engedélyezése";
+
+"Move Row Up" = "Sor feljebb";
+"Move Row Down" = "Sor lejjebb";
+"Move Column Left" = "Oszlop balra";
+"Move Column Right" = "Oszlop jobbra";
+
+"Zoom Image" = "Kép nagyítása";
+"Zoom Image to %@" = "Kép nagyítása legyen %@";
+
+"Copy as Plain Text" = "Másolás formázatlan szövegként";
+
+"Selection" = "Kijelölés";
+"Start Speaking" = "Beszéd indítása";
+"Stop Speaking" = "Beszéd leállítása";
+"Check Updates" = "Frissítések keresése";
+
+"HTML (without Styles)" = "HTML (formázás nélkül)";
+
+"Highlight Current Header" = "Jelenlegi fejléc kijelölése";
+"Expand All" = "Összes kibontása";
+"Collapse All" = "Összes összecsukása";
+"Collapsible Outline" = "Többszintű vázlat";
+"Flat Outline" = "Egyszintű vázlat";
+"Articles (List View)" = "Cikkek (lista nézet)";
+"File Tree (Tree View)" = "Fájlok (lista nézet)";
+"Filter" = "Szűrő";
+
+"Upload Image" = "Kép feltöltése";
+"Upload All Local Images" = "Összes helyi fájl feltöltése";
+"Open Image in Browser" = "Kép megnyitása böngészőben";

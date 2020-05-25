@@ -195,7 +195,7 @@
 "Open From..." = "Öppna från...";
 "Import..." = "Importera...";
 "Recent Documents" = "Senast öppnade dokument";
-"Search for…" = "Sök efter…";
+"Search for" = "Sök efter";
 "Clear Recent Documents" = "Rensa senast öppnade dokument";
 "File Name" = "Filnamn";
 "Path" = "Sökväg";
@@ -256,7 +256,7 @@
 "Cannot use root path." = "Cannot use root path.";
 
 "Get Themes" = "Get Themes";
-"File/directory alreay exists at target path." = "File/directory alreay exists at target path.";
+"File/directory already exists at target path." = "File/directory already exists at target path.";
 "Keep Both" = "Keep Both";
 "Are you sure you want to move %@?" = "Are you sure you want to move %@?";
 

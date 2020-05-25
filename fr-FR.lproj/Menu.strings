@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io and hello@mordinateur.com
+ by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
 */
 
 /* Typora Menu */
@@ -22,7 +22,7 @@
 "New" = "Nouveau";
 "Open" = "Ouvrir";
 "Open Folder" = "Ouvrir le dossier";
-"Reopen with Encoding" = "Rouvrir avec codage";
+"Reopen with Encoding" = "Rouvrir avec l'encodage";
 "Auto" = "Auto";
 "Open Recent" = "Ouvrir les fichiers récents";
 "Recent Locations" = "Emplacements récents";
@@ -52,9 +52,9 @@
 "Cut" = "Couper";
 "Copy" = "Copier";
 "Paste" = "Coller";
-"Copy as Markdown" = "Copier comme Markdown";
-"Copy as HTML Code" = "Copier comme code HTML";
-"Paste as Plain Text" = "Coller comme texte brut";
+"Copy as Markdown" = "Copier au format Markdown";
+"Copy as HTML Code" = "Copier au format code HTML";
+"Paste as Plain Text" = "Coller au format texte brut";
 "Select All" = "Sélectionner tout";
 "Select Line/Sentence" = "Sélectionner ligne/phrase";
 "Select Styled Scope" = "Sélectionner bloc";
@@ -69,7 +69,7 @@
 "Jump to Selection" = "Aller à la sélection";
 "Jump to Bottom" = "Aller tout en bas";
 "Math Tools" = "Outils Maths";
-"Refresh All Math Expressions" = "Rafraichir toutes les formules mathématiques";
+"Refresh All Math Expressions" = "Rafraîchir toutes les formules mathématiques";
 "Image Tools" = "Outils d'image";
 "Insert Local Images" = "Insérer les images locales";
 "Upload Local Images via iPic" = "Téléverser les images locales via iPic";
@@ -85,16 +85,16 @@
 "Find Previous" = "Trouver précédent";
 "Find and Replace" = "Trouver et Remplacer";
 "Replace" = "Remplacer";
-"Replace Next" = "Replacer suivant";
+"Replace Next" = "Remplacer suivant";
 "Spelling and Grammar" = "Orthographe et Grammaire";
 "Check Document Now" = "Vérifier le document maintenant";
 "Check Spelling While Typing" = "Vérification automatique de l'orthographe";
 "Check Grammar With Spelling" = "Vérification automatique de la grammaire";
-"Correct Spelling Automatically" = "Correction orthagraphique automatique";
+"Correct Spelling Automatically" = "Correction orthographique automatique";
 "Substitutions" = "Substitutions";
 "Smart Quotes" = "Guillemets intelligents";
 "Smart Dashes" = "Tirets intelligents";
-"Text Replacement" = "Replacement de texte";
+"Text Replacement" = "Remplacement de texte";
 "Speech" = "Lecture à voix haute";
 "Start Speaking" = "Commencer à lire";
 "Stop Speaking" = "Arrêter la lecture";
@@ -150,7 +150,7 @@
 "New Tab" = "Nouvel onglet";
 "Source Code Mode" = "Source Code Mode";
 "Focus Mode" = "Mode Focus";
-"Typewriter Mode" = "Mode Machine à Ecrire";
+"Typewriter Mode" = "Mode Machine à Écrire";
 "Toggle Sidebar" = "Montrer/cacher la barre latérale";
 "Outline" = "Plan";
 "Articles" = "Articles";
@@ -177,6 +177,7 @@
 
 /* Help Menu */
 "Help" = "Aide";
+"Privacy Policy" = "Politique de Confidentialité";
 "Credits" = "Crédits";
 "Change Log" = "Change Log";
 "Website" = "Site web";
@@ -233,9 +234,79 @@
 "Open Failed" = "Impossible d'ouvrir";
 "File or folder does not exist." = "Le fichier ou le dossier n'existe pas.";
 
+"Prettify Source Code" = "Embellir le Code Source";
+"Copy '%@'" = "Copier '%@'";
+"Copy to %@" = "Copier vers %@";
+"Copy Image to" = "Copier l'image vers";
+"Upload via iPic" = "Téléverser via iPic";
+"Open Image Location" = "Ouvirir l'emplacement de l'image";
+
+"Learn More" = "En apprendre plus";
+"Whitespace and Line Breaks" = "Espaces et Retours à la ligne";
+"Indent first line of paragraphs" = "Indenter la première ligne des paragraphes";
+"Preserve single line break" = "Conserver un retour à la ligne simple";
+"Visible <br/>" = "Balise <br/> visible";
+
+"Save All" = "Tout Enregistrer";
+"New Window" = "Nouvelle Fenêtre";
+"Reopen Closed File" = "Ré-ouvrir des fichiers fermés";
+
+"Global Image Settings" = "Paramètes d'Image Globaux";
+"Smart Punctuation" = "Ponctuation Intelligente";
+"Convert on Input" = "Convertir à la saisie";
+"Convert on Rendering" = "Convertir à l'affichage";
+"Remap Unicode Punctuation on Parse" = "Remapper la Ponctuation Unicode lors de l'Analyse";
+"More Options" = "Plus d'options";
+
+"HTML Block" = "Bloc HTML";
+"Delete Block" = "Supprimer le Bloc";
+"Delete %@" = "Supprimer %@";
+"Play" = "Lancer";
+"Pause" = "Pause";
+
+"Spell Check" = "Vérification Orthographique";
+"Unlearn Spelling" = "Dés-apprendre l'orthographe";
+"Properties" = "Propriétés";
+
 "Search" = "Rechercher";
+
+"Copy without Theme Styling" = "Copier sans le style du Thème";
+"Recent Files" = "Fichiers Recents";
+"File Results" = "Résultats du fichier";
 
 "Insert Table" = "Insérer Tableau";
 "Insert Image" = "Insert Image";
+
+"Allow Magnification" = "Autoriser l'Amplification";
+
+"Move Row Up" = "Déplacer la ligne vers le Haut";
+"Move Row Down" = "Déplacer la ligne vers le Bas";
+"Move Column Left" = "Déplacer la ligne vers la Gauche";
+"Move Column Right" = "Déplacer la ligne vers la Droite";
+
+"Zoom Image" = "Agrandir l'image";
+"Zoom Image to %@" = "Agrandir l'image jusqu'à %@";
+
+"Copy as Plain Text" = "Copier en tant que Texte Brut";
+
+"Selection" = "Sélection";
+"Start Speaking" = "Commencer à parler";
+"Stop Speaking" = "Arrêter de parler";
+"Check Updates" = "Vérifier les mises-à-jour";
+
+"HTML (without Styles)" = "HTML (sans Style)";
+
+"Highlight Current Header" = "Surligner le titre actuel";
+"Expand All" = "Tout Développer";
+"Collapse All" = "Tout Réduire";
+"Collapsible Outline" = "Plan Réductible";
+"Flat Outline" = "Plan Plat";
+"Articles (List View)" = "Articles (Vue en Liste)";
+"File Tree (Tree View)" = "File Tree (Vue en Arborescence)";
+"Filter" = "Filtrer";
+
+"Upload Image" = "Téléverser l'image";
+"Upload All Local Images" = "Téléverser toutes les images locales";
+"Open Image in Browser" = "Ouvrir l'image dans le Navigateur";
 
 "Copy Image to" = "Copier l'image vers";

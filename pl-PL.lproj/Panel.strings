@@ -357,3 +357,5 @@
 "Finished" = "Zakończone";
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora uruchomi aplikację zewnętrzną z ścieżkami do plików wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów i dysk w chmurze będą wówczas mieć dostęp do Twoich obrazów lokalnych. Na pewno kontynować?";
+
+"Export operation finished successfully." = "Operacja eksportu zakończona powodzeniem.";

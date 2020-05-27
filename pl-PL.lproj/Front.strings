@@ -71,7 +71,8 @@
 "Refresh Folder" = "Odśwież folder";
 "Sort" = "Sortuj";
 "Group By Folder" = "Grupuj według folderu";
-"Sort Naturally" = "Sortuj naturalnie";
+"Sort Naturally (Ascending)" = "Sortuj naturalnie (rosnąco)";
+"Sort Naturally (Descending)" = "Sortuj naturalnie (malejąco)";
 "Sort by Name (Ascending)" = "Sortuj według nazwy (rosnąco)";
 "Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
 "Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";

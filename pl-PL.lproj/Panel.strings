@@ -192,7 +192,7 @@
 "Open From..." = "Otwórz z…";
 "Import..." = "Importuj…";
 "Recent Documents" = "Ostatnie dokumenty";
-"Search for…" = "Szukaj…";
+"Search for" = "Szukaj";
 "Clear Recent Documents" = "Wyczyść listę ostatnich dokumentów";
 "File Name" = "Nazwa pliku";
 "Path" = "Ścieżka";
@@ -252,7 +252,7 @@
 "Cannot use root path." = "Nie można użyć katalogu źródłowego.";
 
 "Get Themes" = "Pobierz motywy";
-"File/directory alreay exists at target path." = "Plik/katalog już istnieje w docelowej ścieżce.";
+"File/directory already exists at target path." = "Plik/katalog już istnieje w docelowej ścieżce.";
 "Keep Both" = "Zachowaj oba";
 "Are you sure you want to move %@?" = "Na pewno chcesz przenieść %@?";
 
@@ -357,3 +357,5 @@
 "Finished" = "Zakończone";
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora uruchomi aplikację zewnętrzną z ścieżkami do plików wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów i dysk w chmurze będą wówczas mieć dostęp do Twoich obrazów lokalnych. Na pewno kontynować?";
+
+"Export operation finished successfully." = "Operacja eksportu zakończona powodzeniem.";

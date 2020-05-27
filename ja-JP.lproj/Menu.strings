@@ -297,3 +297,6 @@ Japanese translated by
 "Start Speaking" = "読み上げを開始";
 "Stop Speaking" = "読み上げを停止";
 "Check Updates" = "更新を確認";
+"Highlight Current Header" = "現在のヘッダーを強調表示";
+"Expand All" = "すべて展開する";
+"Collapse All" = "すべて折り畳む";

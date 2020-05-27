@@ -115,7 +115,7 @@
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Fájlok feltöltése iPic-kel...";
-"Uploading in progress…" = "A feltöltés folyamatban...";
+"Uploading in progress…" = "A feltöltés folyamatban…";
 "Do not show this again" = "Ne jelenlen meg újra";
 
 /* Word Count */
@@ -167,11 +167,11 @@
 "This feature require macOS >= 10.11" = "Ez a funkció macOS >= 10.11 igényel";
 "One More Step" = "Még egy lépés";
 "Notice" = "Figyelmeztetés";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Ehhez telepíteni kell az iPic-ket. A hivatkozott képfájlok az iPic felhőszolgáltatásába kerülnek feltöltésre. Vegye figyelembe, hogy a felhőszolgáltatás alapesetben nem támogatja a képek törlését.";
 
 "%d Images Failed to Upload." = "%d kép feltöltése nem sikerült.";
 "%d Succeeded," = "%d sikeres volt, ";
 "Enable this feature on preferences panel" = "Engedélyezze ezt a funkciót a Beállításokban";
+"The option `%@` must be enabled first to automatically upload images." = "A képek automatikus feltöltéséhez előbb engedélyezni kell a(z) `%@` beállítást.";
 "%@ is a file, not a directory" = "%@ nem mappa, hanem fájl";
 "Copy Images To…" = "Képek másolása ide…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban szereplő %@ mappába másolni, de az nem létezik. Létrehozzuk?";
@@ -196,7 +196,7 @@
 "Open From..." = "Megnyitás innen...";
 "Import..." = "Importálás...";
 "Recent Documents" = "Legutóbbi dokumentumok";
-"Search for…" = "Keresés…";
+"Search for" = "Keresés";
 "Clear Recent Documents" = "Legutóbbi dokumentumok listájának törlése";
 "File Name" = "Fájlnév";
 "Path" = "Útvonal";
@@ -222,12 +222,11 @@
 "Copy image to current folder (./)" = "Kép másolása az aktuális mappába (./)";
 "Copy image to ./assets" = "Kép másolása az ./assets mappába";
 "Copy image to ./${filename}.assets" = "Kép másolása a ./${fájlnév}.assets mappába";
-"Upload image via iPic" = "Kép feltöltése iPic-kel";
 "Apply above rules to local images" = "Fenti szabályok alkalmazása a helyi képekre";
 "Apply above rules to online images" = "Fenti szabályok alkalmazása az online képekre";
 "Allow upload images automatically based on YAML settings" = "Képek automatikus feltöltésének engedélyezése a YAML beállítások alapján";
 
-"Learn More" = "További információk";
+"Learn More…" = "További információk…";
 "Whitespace / Line Break" = "Elválasztó karakterek / sortörés";
 "When Writing" = "Íráskor";
 "Export / Print" = "Exportálás / Nyomtatáskor";
@@ -257,7 +256,7 @@
 "Cannot use root path." = "A gyökérmappa nem használható.";
 
 "Get Themes" = "Új témák beszerzése";
-"File/directory alreay exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
+"File/directory already exists at target path." = "A cél elérési útján a fájl/könyvtár már létezik.";
 "Keep Both" = "Mindkettő megtartása";
 "Are you sure you want to move %@?" = "Biztosan mozgatni akarja ezt: %@?";
 
@@ -283,3 +282,81 @@
 "Reading Speed" = "Olvasási sebesség";
 "Auto" = "Automatikus";
 "words / min" = "szó/perc";
+"Reset to Default" = "Alapbeállítások";
+"Select custom folder" = "Egyéni mappa választása";
+"120  words/minute (Slow)" = "120  szó/perc (lassú)";
+"240  words/minute (Medium)" = "240  szó/perc (közepes)";
+"382  words/minute (Fast)" = "382  szó/perc (gyors)";
+
+"Copy and update image source to…" = "Kép másolása és helyének frissítése…";
+"Updater" = "Frissítés";
+"Install Updates ?" = "Telepíti a frissítéseket?";
+"Quit and Install" = "Kilépés és frissítés";
+"Download failed" = "Letöltés nem sikerült";
+"Downloading Updates…" = "Frissítések letöltése…";
+"Checking Updates…" = "Frissítések keresése…";
+"Check Update Failed" = "Frissítések keresése nem sikerült";
+"You are update to date!" = "Már a legfrissebb verziót használja!";
+"Latest version is $1, your version is $2" = "$1 a legújabb verzió, $2 a jelenleg használt verzió";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ezek a beállítások a \"Szerkesztés→Elválasztó karakterek és sortörések\" menüben is megváltoztathatók";
+"Auto escape image URL when insert" = "Kép beszúrásakor vezérlőkarakterek beiktatása az URL-be";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Például ha beszúrja a 'img/example file.png' képet, az automatikusan 'img/example%20file.png'-re cserélődik. Ez jobb kompatibilitást jelent más Markdown motorokkal, de a jobb olvashatóság érdekében ki is kapcsolható.";
+"Check updates automatically" = "Frissítések automatikus keresése";
+"Skip This Version" = "Ennek a verziónak a kihagyása";
+"Remind Me Later" = "Emlékeztessen később";
+"Download Update" = "Frissítés letöltése";
+"New version available." = "Új verzió érhető el.";
+
+"When copy / export as HTML (without style)" = "HTML (formázás nélkül) másolása vagy exportálása esetén";
+"Use Rendered SVG" = "Átalakítás SVG-be";
+"Use LaTeX Source" = "LaTeX forráskód használata";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>HTML (formázás nélkül) exportálás, Másolás HTML-ként vagy Másolás Téma-formázás nélkül esetén van hatása.<br/>A <strong>LaTeX forráskód használata</strong> esetén a Typora a nyers LaTeX kódot (pl. $X^2$) használja,<br/>míg <strong>Átalakítás SVG-be</strong> esetén előbb SVG formátumba alakítja. Más alkalmazások beillesztéskor figyelmen kívül hagyhatják az SVG formátumot.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importálás és a legtöbb formátumba történő exportáláshoz szükséges a Pandoc (≥%@) telepítése.";
+"Do not show this message again" = "Ne mutassa ezt az üzenetet még egyszer";
+
+"Page break between top level sections" = "Legfelső szintű szakaszok elválasztása oldaltöréssel";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Az idézőjelpárok a Rendszerbeállítások → Billentyűzet → Szöveg menüben állíthatók. Megváltoztatás után a Typorát újra kell indítani.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sajnos hiba lépett fel. A dokumentumot a vágólapra másoltuk. Ha bejelenti a hibát a <hi@typora.io> címen, azzal segít nekünk a kijavításában.";
+"Try Recovery" = "Helyreállítás megkísérlése";
+"Other options for Data Recovery" = "Egyéb helyreállítási lehetőségek";
+
+"When Insert" = "Beszúráskor";
+"Upload image" = "Kép feltöltése";
+"e.g: %@" = "pl. %@";
+"Test Uploader" = "Feltöltő tesztelése";
+"Validating" = "Képfeltöltő ellenőrzése";
+"Validation Failed" = "Ellenőrzés sikertelen";
+"Validation Succeed" = "Ellenőrzés sikeres";
+"Testing image uploading using command:" = "Ezzel a paranccsal tesztelem a képfeltöltést:";
+"Running… Waiting for results." = "Folymatban… Várakozás az eredményekre.";
+"Output from the console:" = "Parancssor kimenete:";
+"Error from the console:" = "Hiba a parancssorból:";
+"Failed to fetch uploaded image from command output." = "Nem sikerült a feltöltőtt kép megállapítása a parancs kimenetéből.";
+"Successfully get uploaded image url." = "A feltöltőtt kép url beolvasása sikerült.";
+"Image Uploader" = "Képfeltöltő";
+"Instructions" = "Használati utasítás";
+"Download %@" = "%@ letöltése";
+"Image Upload Setting" = "Képfeltöltés beállítása";
+"Please set an image uploader in Preferences panel before using this function." = "Használat előtt állítson be egy Képfeltöltőt a Beállításokban.";
+"Download or Upgrade" = "Letöltés vagy frissítés";
+"Open Config File" = "Konfigurációs fájl megnyitása";
+"Command" = "Parancs";
+"PicGo Path" = "PicGo útvonala";
+"Path of PicGo binary" = "PicGo program útvonala";
+"Executable" = "Végrehajtható fájl";
+"Checking" = "Ellenőrzés";
+"Download" = "Letöltés";
+"Agree and Download" = "Beleegyezés és letöltés";
+"Download and Reinstall" = "Letöltés és újratelepítés";
+"Loading PicGo-Core License" = "PicGo-Core licenc betöltése";
+"Failed to get installed version of PicGo-Core (command line)" = "Nem sikerült megállapítani a telepített PicGo-Core (parancssoros) verzióját.";
+"You have the latest PicGo-Core (CLI)" = "Már rendelkezik a legfrissebb PicGo-Core (CLI) verzióval";
+"Newer version is available" = "Új verzió érhető el";
+
+"Downloading…" = "Letöltés…";
+"Unzipping…" = "Kitömörítés…";
+"Finished" = "Kész";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "A Typora alkalmazni fogja a harmadik fél által készített alkalmazást az összes helyben tárolt képre. Ezzel a képfeltöltő és a felhőtárhely hozzáférést szerez a dokumentum helyben tárolt képeihez. Szeretné folytatni?";

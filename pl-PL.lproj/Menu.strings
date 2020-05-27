@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Prześlij lokalne obrazy za pomocą iPic";
 "When Insert Local Image" = "Kiedy zostanie wstawiony lokalny obraz";
 "Copy Image File to Folder" = "Kopiuj obraz do folderu";
-"Upload Image via iPic" = "Prześlij obraz za pomocą iPic";
 "Use Image Root Path" = "Użyj ścieżki źródłowej obrazu";
 "Line Endings" = "Zakończenia linii";
 "Windows Line Endings (CRLF)" = "Zakończenia linii według Windows (CRLF)";
@@ -238,7 +237,6 @@
 "Copy '%@'" = "Skopiuj '%@'";
 "Copy to %@" = "Skopiuj do %@";
 "Copy Image to" = "Skopiuj obraz do";
-"Upload via iPic" = "Prześlij za pomocą iPic";
 "Open Image Location" = "Otwórz położenie pliku";
 
 "Learn More" = "Dowiedz się więcej";

@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "使用 iPic 上传本地图片";
 "When Insert Local Image" = "当插入本地图片时";
 "Copy Image File to Folder" = "复制图片到文件夹";
-"Upload Image via iPic" = "使用 iPic 上传图片";
 "Use Image Root Path" = "设置图片根目录";
 "Line Endings" = "换行符";
 "Windows Line Endings (CRLF)" = "Windows 换行符 (CRLF)";
@@ -239,7 +238,6 @@
 "Copy '%@'" = "复制 '%@'";
 "Copy to %@" = "复制到 %@";
 "Copy Image to" = "复制图片到";
-"Upload via iPic" = "通过 iPic 上传图片";
 "Open Image Location" = "打开图片位置";
 
 "Learn More" = "了解更多";

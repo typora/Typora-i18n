@@ -194,7 +194,7 @@
 "Open From..." = "Відкрити з...";
 "Import..." = "Імпортувати...";
 "Recent Documents" = "Останні документи";
-"Search for…" = "Шукати…";
+"Search for" = "Шукати";
 "Clear Recent Documents" = "Очистити Останні документи";
 "File Name" = "Ім’я файлу";
 "Path" = "Шлях";
@@ -255,7 +255,7 @@
 "Cannot use root path." = "Неможливо використати кореневий шлях.";
 
 "Get Themes" = "Отримати теми";
-"File/directory alreay exists at target path." = "Файл/директорія за цільовим шляхом уже існує.";
+"File/directory already exists at target path." = "Файл/директорія за цільовим шляхом уже існує.";
 "Keep Both" = "Зберегти обидва/обидві";
 "Are you sure you want to move %@?" = "Ви дійсно хочете перемістити %@?";
 

@@ -198,7 +198,7 @@
 "Open From..." = "Buka Dari...";
 "Import..." = "Impor...";
 "Recent Documents" = "Dokumen Terkini";
-"Search for…" = "Cari…";
+"Search for" = "Cari";
 "Clear Recent Documents" = "Hilangkan Dokumen Terkini";
 "File Name" = "Nama File";
 "Path" = "Path";
@@ -259,7 +259,7 @@
 "Cannot use root path." = "Tidak dapat menggunakan path asal.";
 
 "Get Themes" = "Dapatkan tema";
-"File/directory alreay exists at target path." = "File/folder sudah ada di path tujuan.";
+"File/directory already exists at target path." = "File/folder sudah ada di path tujuan.";
 "Keep Both" = "Simpan Keduanya";
 "Are you sure you want to move %@?" = "Apakah Anda yakin ingin memindahkan %@?";
 

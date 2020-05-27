@@ -200,7 +200,7 @@
 "Open From..." = "Öffnen von...";
 "Import..." = "Importieren...";
 "Recent Documents" = "Zuletzt verwendete Dokumente";
-"Search for…" = "Suchen nach…";
+"Search for" = "Suchen nach";
 "Clear Recent Documents" = "Liste der zuletzt verwendeten Dokumente leeren";
 "File Name" = "Dateiname";
 "Path" = "Pfad";
@@ -261,7 +261,7 @@
 "Cannot use root path." = "Root-Verzeichniss kann nicht verwendet werden.";
 
 "Get Themes" = "Themen erkunden";
-"File/directory alreay exists at target path." = "Datei/Ordner existiert bereits beim Zielpfad.";
+"File/directory already exists at target path." = "Datei/Ordner existiert bereits beim Zielpfad.";
 "Keep Both" = "Beide behalten";
 "Are you sure you want to move %@?" = "Bist du sicher, dass du %@ verschieben willst?";
 

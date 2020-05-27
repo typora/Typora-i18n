@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Téléverser les images locales via iPic";
 "When Insert Local Image" = "Lors de l'insertion de l'image locale";
 "Copy Image File to Folder" = "Copier fichier d'image vers le dossier";
-"Upload Image via iPic" = "Téléverser images via iPic";
 "Use Image Root Path" = "Utiliser le chemin racine de l'image";
 "Line Endings" = "Fin de ligne";
 "Windows Line Endings (CRLF)" = "Format Windows (CRLF)";
@@ -238,7 +237,6 @@
 "Copy '%@'" = "Copier '%@'";
 "Copy to %@" = "Copier vers %@";
 "Copy Image to" = "Copier l'image vers";
-"Upload via iPic" = "Téléverser via iPic";
 "Open Image Location" = "Ouvirir l'emplacement de l'image";
 
 "Learn More" = "En apprendre plus";

@@ -255,7 +255,7 @@
 "Cannot use root path." = "Impossible d'utiliser le chemin racine.";
 
 "Get Themes" = "Récupérer les thèmes";
-"File/directory alreay exists at target path." = "Le fichier/dossier existe déjà au chemin ciblé.";
+"File/directory already exists at target path." = "Le fichier/dossier existe déjà au chemin ciblé.";
 "Keep Both" = "Conserver les deux";
 "Are you sure you want to move %@?" = "Êtes-vous sûrs de vouloir déplacer %@ ?";
 

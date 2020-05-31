@@ -71,7 +71,8 @@
 "Refresh Folder" = "Rafraîchir le dossier";
 "Sort" = "Trier";
 "Group By Folder" = "Regrouper par dossier";
-"Sort Naturally" = "Trier";
+"Sort Naturally (Ascending)" = "Trier dans l'ordre croissant";
+"Sort Naturally (Descending)" = "Trier dans l'ordre décroissant";
 "Sort by Name (Ascending)" = "Trier par nom (Croissant)";
 "Sort by Modification Date (Ascending)" = "Trier par date de modification (Croissant)";
 "Sort by Name (Descending)" = "Trier par nom (Décroissant)";

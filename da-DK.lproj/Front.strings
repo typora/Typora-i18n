@@ -45,7 +45,7 @@
 "Delete Table" = "Slet tabel";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen <code id='image-create-folder-target'></code> i henhold til din YAML fortekst eller de globale indstillinger, men mappen findes ikke - opret den nu?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen <code id='image-create-folder-target'></code> i henhold til din YAML-fortekst eller de globale indstillinger, men mappen findes ikke - opret den nu?";
 "Create Folder" = "Opret mappe";
 
 /* Math */

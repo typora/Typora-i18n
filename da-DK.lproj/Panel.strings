@@ -65,7 +65,7 @@
 "Strict Mode" = "Krævende tilstand";
 "(more strict to GFM spec)" = "(mere krævende end GFM standard)";
 "Heading Style" = "Overskriftstypografi";
-"Unordered List" = "Ikke-ordnet liste";
+"Unordered List" = "Uordnet liste";
 "Ordered List" = "Ordnet liste";
 "Code Fences" = "Kodeblok";
 "Display line numbers for code fences" = "Vis linjenumre i kodeblokke";

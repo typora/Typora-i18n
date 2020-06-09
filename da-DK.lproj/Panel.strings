@@ -67,7 +67,7 @@
 "Heading Style" = "Overskriftstypografi";
 "Unordered List" = "Ikke-ordnet liste";
 "Ordered List" = "Ordnet liste";
-"Code Fences" = "Kodeblokke";
+"Code Fences" = "Kodeblok";
 "Display line numbers for code fences" = "Vis linjenumre i kodeblokke";
 "Math Blocks" = "Formularblokke";
 "Auto Numbering Math Equations" = "Nummerér automatisk matematiske formler";

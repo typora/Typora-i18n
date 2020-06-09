@@ -57,11 +57,11 @@
 "Outline" = "Disposition";
 "Files" = "Filer";
 "Switch to File List view" = "Skift til listevisning";
-"Switch to File Tree view" = "Skift til træstruktur";
+"Switch to File Tree view" = "Skift til filoversigt";
 "Switch to Outline view" = "Skift til disposition";
 "Close sidebar" = "Luk sidepanel";
 "Loading" = "Indlæser";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "De valgte mapper indeholder for mange filer. \nSkift venligst til <a id='switch-to-tree-on-oversize'>træstruktur</a> for at opnå bedre ydelse.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "De valgte mapper indeholder for mange filer. \nSkift venligst til <a id='switch-to-tree-on-oversize'>filoversigt</a> for at opnå bedre ydelse.";
 "New File" = "Ny fil";
 "Unpin Outline Panel" = "Løsgør disposition";
 "Open Folder..." = "Åben mappe...";
@@ -78,8 +78,8 @@
 "Sort by Name (Descending)" = "Sortér efter navn (faldende)";
 "Sort by Modification Date (Descending)" = "Sort efter ændringsdato (faldende)";
 "Location" = "Placering";
-"Switch File List/Tree View" = "Skift mellem listevisning og træstruktur";
-"No Files Available" = "Ingen filder tilgængelige";
+"Switch File List/Tree View" = "Skift mellem listevisning og filoversigt";
+"No Files Available" = "Ingen filer tilgængelige";
 "No Folder is Opened." = "Ingen mappe åbnet.";
 "Outline is Empty." = "Disposition er tom.";
 

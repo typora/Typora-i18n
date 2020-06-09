@@ -32,7 +32,7 @@
 "Open Quickly" = "Åben hurtigt";
 "Open File Location" = "Åben filplacering";
 "Reveal in Library" = "Vis i bibliotek";
-"Reveal in File Tree" = "Vis i træstruktur";
+"Reveal in File Tree" = "Vis i filoversigt";
 "Close" = "Afslut";
 "Save" = "Gem";
 "Save As" = "Gem som";
@@ -155,7 +155,7 @@
 "Toggle Sidebar" = "Vis/skjul sidepanel";
 "Outline" = "Disposition";
 "Articles" = "Artikler";
-"File Tree" = "Træstruktur";
+"File Tree" = "Filoversigt";
 "Always on Top" = "Altid øverst";
 "Full Screen" = "Fuldskærm";
 "Show Status Bar" = "Vis statuslinje";

@@ -30,7 +30,6 @@
 "Show Outline Panel by Default" = "Standaard Overzichtspaneel weergeven";
 "Collapsible Outline on Left Panel" = "Inklapbaar overzicht op linker paneel";
 "Save without asking when\nswitch files on side panel" = "Sla op zonder te vragen wanneer \ntussen bestanden wordt geschakeld op het zijpaneel";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Bewerkte bestanden worden opgeslagen zonder te vragen wanneer tussen bestanden wordt gewijzigd in het linker paneel. \nWanneer \"Vragen om wijzigingen te behouden bij het sluiten van documenten\" is ingeschakeld in Systeemvoorkeur, is dit altijd ingeschakeld.";
 "Language" = "Taal";
 "System Language" = "Systeem Taal";
 

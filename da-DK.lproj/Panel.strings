@@ -29,7 +29,6 @@
 "Show Outline Panel by Default" = "Vis sidepanel ved opstart";
 "Collapsible Outline on Left Panel" = "Disposition i sidepanel der kan skjules";
 "Save without asking when\nswitch files on side panel" = "Gem automatisk uden at bekræfte når\nder vælges en anden fil i sidepanelet";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Rettede filer bliver gemt uden bekræftelse når der vælges en anden fil i sidepanelet. \nDette er altid koblet til når \"Bekræft gemning af ændringer når et dokument lukkes\" er koblet til i Systemindstillingerne.";
 "Language" = "Sprog";
 "System Language" = "Systemsprog";
 

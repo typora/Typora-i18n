@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "Show Outline Panel by Default";
 "Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
 "Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
 "Language" = "Language";
 "System Language" = "System Language";
 

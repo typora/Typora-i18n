@@ -29,7 +29,6 @@
 "Show Outline Panel by Default" = "نمایش نوار کناری بصورت پیشفرض";
 "Collapsible Outline on Left Panel" = "طرح‌های پیچیده در نوار سمت چپ";
 "Save without asking when\nswitch files on side panel" = "ذخیره بدون پرسش از چه چه موقع‫/‬سویچ فایل‌ها در نوار کناری";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "فایل‌های ویرایش شده بدون پرسش در هنگام سوییش کردن با پنل کناری ذخیره خواهند شد‫.‬ تا هنگام پرسش ‫/‬"تقاضا برای نگهداری تغییرات در هنگام بسته کردن فایل\" در System Prefrences فعال است، این قسمت همیشه فعال است‫.‬";
 "Language" = "زبان";
 "System Language" = "زبان سیستم";
 

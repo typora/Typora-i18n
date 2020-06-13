@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "A bal oldali panel alapértelmezés szerint megjelenik";
 "Collapsible Outline on Left Panel" = "Összecsukható vázlat a bal oldali panelen";
 "Save without asking when\nswitch files on side panel" = "Kérdés nélküli mentés, amikor\naz oldalsó panelen másik fájlt választ";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "A szerkesztett fájlok kérdés nélkül mentésre kerülnek, mikor új fájlt választunk a bal oldali panelen. \nEz az opció mindig engedélyezve van, amikor a \"Bezáráskor kérdezzen rá a változtatások megtartására\" engedélyezett a Beállításokban.";
 "Language" = "Nyelv";
 "System Language" = "A rendszer nyelve";
 

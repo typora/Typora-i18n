@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
 "Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，该选项被默认启用。";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被关闭时，该选项被默认启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
 

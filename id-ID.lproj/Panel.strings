@@ -31,7 +31,6 @@
 "Show Outline Panel by Default" = "Tampilkan Panel Ikhtisar sebagai standar";
 "Collapsible Outline on Left Panel" = "Ikhtisar yang dapat dilipat pada Panel Kiri";
 "Save without asking when\nswitch files on side panel" = "Simpan tanpa pertanyaan ketika\nberpindah file pada panel sisi";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "File yang diubah akan disimpan tanpa pertanyaan ketika berpindah file di panel kiri. \nKetika \"Pertanyaan untuk menyimpan perubahan saat menutup dokumen\" diaktifkan di Preferensi Sistem, fitur ini selalu diaktifkan.";
 "Language" = "Bahasa";
 "System Language" = "Bahasa Sistem";
 

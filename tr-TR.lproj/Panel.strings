@@ -1,0 +1,361 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+
+/* Preference Panel */
+"Preferences" = "Ayarlar";
+
+/* General Panel */
+"General" = "Genel";
+"Window Style" = "Pencere Modu";
+"Classic" = "Klasik";
+"Seamless" = "Kesintisiz";
+"Seamless window only support OS X later than 10.10." = "Kesintisiz mod sadece 10.10'dan sonraki OS X 'i destekler.";
+"Themes" = "Temalar";
+"Open Theme Folder" = "Tema Klasörünü Aç";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Lütfen kısa tanıtım için `yardım`->`hızlı başlangıç` konumunu kontrol edin. Daha fazla tema indirmek veya tanıtım için  http://theme.typora.io sitesini ziyaret edin.";
+"Word Count" = "Kelime Sayısı";
+"Always Show Word Count" = "Her Zaman Kelime Sayısını Göster";
+"Font Size" = "Yazı Tipi Boyutu";
+"Auto ( Recommended )" = "Otomatik ( Önerilen )";
+"Customized" = "Özelleştirilmiş";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Eğer özel yazı tipi kullanımdaysa asıl yazı tipi temel yazı tipi ve css stiline göre değişecektir.";
+"Left Panel" = "Sol Panel";
+"Show Outline Panel by Default" = "Özet Panelini Varsayılan Olarak Göster";
+"Collapsible Outline on Left Panel" = "Sol Panel Üzerinde Daraltılabilen Özet";
+"Save without asking when\nswitch files on side panel" = "\nswitch dosyaları kenar panelindeyken sormadan kaydet";
+"Language" = "Dil";
+"System Language" = "Sistem Dili";
+
+/* Editor Panel */
+"Editor" = "Editör";
+"Indent Size on Save" = "Kayıt üzerine Boyut Girintile";
+"only apply to quotes and lists created from menu bar or hybrid view" = "sadece alıntılara ve menü çubuğu veya hibrid görüntülemeden oluşturulmuş listelere uygula";
+"Trigger Autocomplete without ESC key for" = "ESC tuşuna basmadan Otomatik Tamamlamayı aktifleştir";
+"Emoji (e.g. :smile:)" = "Emoji (örneğin :gülücük:)";
+"Images Insert" = "Resim Ekle";
+"Use relative path if possible" = "Mümkünse ilgili konumu kullan";
+"Auto Pair" = "Otomatik Eşleştirme";
+"Auto pair brackets and quotes" = "Köşeli parantez ve alıntıları otomatik olarak eşle";
+"Auto pair common Markdown syntax" = "Genel Markdown sözdizilimlerini otomatik olarak eşle";
+"Live Rendering" = "Anlık Oluşturma";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Odaklamada basit öbeklerin \n(başlıklar da dahil olmak üzere ve benzerleri) kaynaklarını göster";
+"Default Copy Behavior" = "Varsayılan Kopyalama Davranışı";
+"Copy Markdown source as plain text" = "Markdown kaynağını düz yazı olarak kopyala";
+"Typewriter Mode" = "Daktilo Modu";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "\ndaktilo modu aktifleştiğinde her zaman düzeltme imini ekranın ortasında tut";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Değiştirilmiş ayarlar yeniden başlatmanın ardından uygulanacaktır.)";
+"Syntax Support" = "Sözdizimi Desteği";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Satıriçi Matematik  (örneğin: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subscript    (örneğin: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superscript (örneğin: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Vurgu     (örneğin: ==key==)";
+"Diagrams" = "Diyagramlar";
+"(Sequence, Flowchart and Mermaid)" = "(Sıra numarası, Akış Şeması ve Mermaid)";
+"Syntax Preference" = "Sözdizimi Ayarları";
+"(only applies to styles created from menubar or hybrid view)" = "(sadece menü çubuğundan veya hibrit görüntülemeden oluşturulmuş stiller üzerine uygulanır)";
+"Strict Mode" = "Katı Mod";
+"(more strict to GFM spec)" = "(GFM özelliklerine daha katı)";
+"Heading Style" = "Başlık Stili";
+"Unordered List" = "Düzenlenmemiş Liste";
+"Ordered List" = "Düzenlenmiş Liste";
+"Code Fences" = "Kod Satırı";
+"Display line numbers for code fences" = "Kod satırları için sıra numaralarını göster";
+"Math Blocks" = "Matematik Öbekleri";
+"Auto Numbering Math Equations" = "Matematik Denklemlerini Otomatik Olarak Numaralandır";
+
+/* Security Panel */
+"Security" = "Güvenlik";
+"Enable Debug" = "Hata Ayıklamayı Etkinleştir";
+"Send Anonymous Usage Info" = "Anonim Kullanım Bilgisi Gönder";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Devam Etmek İçin Pandoc Gerekli...";
+"Follow instructions to install Pandoc" = "Pandoc yüklemek için talimatları uygulayın";
+"Cancel" = "İptal";
+
+/* Pandoc Import Panel */
+"Importing..." = "İçe Aktarılıyor...";
+"Importing in progress..." = "İçe Aktarma devam ediyor...";
+"Converting file with Pandoc. This may take some time." = "Dosya Pandoc'la çevriliyor. Bu biraz zaman alabilir.";
+"Abort" = "Durdur";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Dışa Aktarılıyor...";
+"Exporting in progress..." = "Dışa Aktarma devam ediyor...";
+"Converting file with Pandoc. This may take some time." = "Dosya Pandoc'la çevriliyor. Bu biraz zaman alabilir.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Bu dosya formatlarının içe alınması için Pandoc gerekli";
+"Check help->Install and use Pandoc from menubar for detail" = " yardım->Kurulum kısmını kontrol edin ve detaylar için menü çubuğundan Pandoc kullanın";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Bazı içe ve dışa aktarım özellikleri <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) yüklenmesini gerektirmektedir.";
+"Follow Instructions to Install/Update Pandoc" = "Pandoc kurmak/güncelleştirmek için talimatları uygulayın";
+"Export Failed" = "Dışa Aktarma Başarısız";
+"Import Failed" = "İçe Aktarma Başarısız";
+"Generated Image too Large" = "Oluşturulan Resim çok büyük";
+"Failed to export file to <em>{0}</em>" = "Dosyayı <em>{0}</em> 'ya dışa aktarma işlemi başarısız";
+"Failed to import file from <em>{0}</em>" = "Doayayı <em>{0}</em> 'dan içe aktarma işlemi başarısız";
+"File does not exist at <em>{0}</em>" = "Dosya <em>{0}</em> 'da bulunmuyor";
+"Export to..." = "Dışa Aktar...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Bu dosya üzerindeki  değişiklikleri kaydetmek istiyor musunuz ?<br> Değişiklikleri kaydetmezseniz silinecekler.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Uyarı] PDF dosyası için yer işareti ekleme başarısız.";
+"Dark Theme not support" = "Koyu Tema desteklenmiyor";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Üzgünüz, Typora'nın güncel versiyonu dışa aktarılmış PDF üzerine arkaplan rengi yazdıramaz, koyu tema PDF dışa aktarım için henüz desteklenmemektedir. \nLütfen açık tema seçiniz veya \"Varsayılan temayı yazdır\" 'a tıklayınız.";
+"Print with default theme" = "Varsayılan temayı yazdır";
+"Export to PDF successfully." = "PDF'i dışa aktarma işlemi başarılı.";
+"Converting file using Pandoc. This may take some time." = "Pandoc kullanarak dosya çevriliyor. Bu biraz zaman alabilir.";
+"Exporting file using Pandoc. This may take some time." = "Pandoc kullanarak dosya dışa aktarılıyor. Bu biraz zaman alabilir.";
+
+"Uploading in progress…" = "Karşıya yükleme işlemi sürüyor…";
+"Do not show this again" = "Bunu tekrar gösterme";
+
+/* Word Count */
+"Minute" = "Dakika";
+"Line" = "Satır";
+"Word" = "Kelime";
+"Character" = "Karakter";
+
+"Minutes" = "Dakikalar";
+"Lines" = "Satırlar";
+"Words" = "Kelimeler";
+"Characters" = "Karakterler";
+"In Selection" = "Seçili";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Görünüm";
+"System Native" = "Sisteme Uyumlu";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(yeniden başlatmanın ardından uygulanacak)";
+"Status Bar" = "Durum Çubuğu";
+"Show status bar" = "Durum çubuğunu göster";
+"Save & Recover" = "Kaydet & Kurtar";
+"Auto Save" = "Otomatik Kayıt";
+"Recover Unsaved Drafts" = "Kaydedilmemiş Taslakları Kurtar";
+"Emoji Autocomplete" = "Emoji Otomatik Tamamlama";
+"Trigger by ESC key" = "ESC tuşuyla aktifleşme";
+"Trigger automatically" = "Otomatik olarak aktifleşme";
+"Default Line Ending" = "Varsayılan Satır Bitişleri";
+"Line ending for new file" = "Yeni dosya için satır bitişi";
+"Spell Check" = "Kelime Kontrolü";
+"Auto correct spelling" = "Otomatik Kelime Düzeltme";
+"System" = "Sistem";
+"Privacy" = "Gizlilik";
+"Developer" = "Geliştirici";
+"Update" = "Güncelleme";
+"Check Updates" = "Güncellemeleri Denetle";
+"Check updates automatically" = "Güncellemeleri Otomatik Olarak Denetle";
+"Advanced Settings" = "Gelişmiş Ayarlar";
+"Open Advanced Settings" = "Gelişmiş Ayarları Aç";
+"Reset Advanced Settings" = "Gelişmiş Ayarları Sıfırla";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Bu fonksiyon iPic'in en son versiyonunun yüklü olmasını gerektirmektedir.";
+"Get iPic" = "iPic Edin";
+"Cannot Continue…" = "Devam Edemiyor…";
+"This feature require macOS >= 10.11" = "Bu özellik macOS >= 10.11 gerektirmektedir";
+"One More Step" = "Bir Adım Daha";
+"Notice" = "Bildirim";
+
+"%d Images Failed to Upload." = "%d Resim Yükleme Başarısız.";
+"%d Succeeded," = "%d Başarılı, ";
+"Enable this feature on preferences panel" = "Bu özelliği ayarlar panelinden etkinleştirin";
+"The option `%@` must be enabled first to automatically upload images." = "Resimlerin otomatik olarak güncellenebilmesi için ilk olarak `%@` seçeneğinin etkinleştirilmesi gerekmektedir.";
+"%@ is a file, not a directory" = "%@ bir dosya, dizin değil";
+"Copy Images To…" = "Resimleri Şuraya Kopyala…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora yeni ekli resmi sizin YAML Ön Bölüm ayarlarınız veya genel ayarlara göre %@ klasörüne kopyalamaya çalışıyor, fakat hedef klasör mevcut değil. Şimdi oluşturulsun mu?";
+"Create Folder and Continue" = "Klasör Oluştur ve Devam Et";
+"Document must be saved first" = "İlk önce belge kaydedilmeli";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora yeni eklenmiş resmi ilgili konumu seçerek klasöre kopyalayacak, lütfen öncelikle dosyayı kaydedin.";
+"Open Operation Failed" = "Açma İşlemi Başarısız";
+
+"Support Documentation" = "Yardım Belgeleri";
+
+"Markdown File" = "Markdown Dosyası";
+"Plain Text File" = "Düz Yazı Dosyası";
+"All Files" = "Tüm Dosyalar";
+"All Supported Formats" = "Tüm Desteklenen Biçimler";
+"Discard Changes" = "Değişiklikleri İptal Et";
+"Discard" = "İptal";
+
+"Menu" = "Menü";
+"Back" = "Geri";
+
+"Contact" = "İrtibat";
+"Open From..." = "... 'dan Açın";
+"Import..." = "İçe Aktarma...";
+"Recent Documents" = "Son Belgeler";
+"Search for" = "Arama";
+"Clear Recent Documents" = "Son Belgeleri Temizle";
+"File Name" = "Dosya Adı";
+"Path" = "Konum";
+"Export As..." = "... Olarak Dışa Aktar";
+"More Formats" = "Daha Fazla Biçim";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = " 'Daha Fazla Biçim' altındaki dosya biçimleri bölümü <a class='open-pandoc-guide'>Pandoc 'un yüklü olmasını gerektirmektedir</a>.";
+"Something is Wrong…" = "Bir Hata Oluştu…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Yüklü içerik bir sebepten dolayı başarısız oldu.<br/>İçeriği yeni bir Typora penceresine kopyalayıp kaydedebilirsiniz. <br/>Daha fazla öğrenmek için:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Bize hata bildirin</a></li><li><a href='https://support.typora.io/Version-Control//'>Kayıp içerikleri kurtarın</a></li></ul>";
+"Copy Content" = "İçeriği Kopyala";
+
+
+"Total" = "Toplam";
+"Word count only support OS X later than 10.10." = "Kelime sayımı sadece 10.10'dan sonraki OS X 'i destekler.";
+"Indent Size for Code" = "Kodlar için Girinti Büyüklüğü";
+"Auto wrap long lines" = "Uzun satırları otomatik olarak kaydır";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Üzgünüz, Typora'nın güncel versiyonu arkaplan rengini yazdırmaz.\nBu sebepten koyu tema henüz yazdırmak için destelenmemektedir. \n\nLütfen açık bir tema seçin veya bu belgeyi PDF'e aktarın.";
+"Export to PDF" = "PDF'e aktar";
+"Pretty indentation" = "Düzenli girintileme";
+"Update markdown reference for this image" = "Bu resmin referansı için mardown'u güncelle";
+
+"No special action" = "Özel eylem yok";
+"Copy image to current folder (./)" = "Resmi açık klasöre kopyala (./)";
+"Copy image to ./assets" = "Resmi ./assets 'a kopyala";
+
+"Copy image to ./${filename}.assets" = "Resmi şuraya kopyala: ./${filename}.assets";
+"Apply above rules to local images" = "Yukarıdaki kuralları yerel resimlere uygula";
+"Apply above rules to online images" = "Yukarıdaki kuralları online resimlere uygula";
+"Allow upload images automatically based on YAML settings" = "YAML ayarlarına göre resimlerin otomatik olarak yüklenmesine izin ver";
+
+"Learn More" = "Daha fazla öğren";
+"Whitespace / Line Break" = "Boşluk / Satır Sonu";
+"When Writing" = "Yazıyorken";
+"Export / Print" = "Dışarı aktar / Yazdırma";
+"Preserve sequential whitespace and single line break" = "Boşlukları ve tek satır sonunu koru";
+"Ignore sequential whitespace and single line break" = "Boşluk ve tek satır sonunu görmezden gel";
+
+"Quit" = "Çık";
+"Quit Typora when last window is closed" = "Son pencere kapatıldığında Typora'dan çık";
+"On Launch" = "Açılışta";
+"Open new file" = "Yeni dosya aç";
+"Restore last closed folders" = "En son kapatılmış klasörleri kurtar";
+"Restore last closed files and folders" = "En son kapatılmış dosya ve klasörleri kurtar";
+"Open custom folder" = "Özel dosya aç";
+"Select custom folder" = "Özel dosya seç";
+"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Bu seçenek Sistem Ayarlarında \"Bir uygulamadan çıkarken pencereleri kapat\" tarafından iptal edilmiş olabilir";
+
+"Ignore" = "Görmezden gel";
+"Choose Default Folder" = "Varsayılan Klasörü Seç";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Giriş üzerinden dönüştür</strong>: ASCII panoları veya alıntıları girin, tırnak işareti veya unicode panoları olarak kaydedilmiş veya çevirilmiş olarak girin.<br/><strong>İşleyici olarak çevir</strong>: Tırnak işaretleri veya unicode panoları olarak işlenenleri ASCII panoları veya alıntıları olarak girin ve kaydedin.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> Ayrıştırma etiketlemesi yapılırken unicode noktalama işaretlerini ASCII olanlar olarak tanıma, örneğin: <br/> <pre>》 blok alıntı →> blok alıntı <br/> [bağlantı] (src 'başlık') → [bağlantı] (src 'başlık') </pre> Girişte akıllı tırnak işaretleri / kısa çizgiler dönüştürülecekse otomatik olarak açılacaktır. <div> ";
+
+"Copy image to custom folder" = "Resmi özel dosyaya kopyala";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Lütfen './' veya '../' ile başlayan veya kesin bir klasör konumu olan en son klasöre yakın bir konum belirtin (`${filename}` en son dosya isimlerini belirtmektedir.)";
+"Restore to previous setting" = "Önceki ayarlara çevir";
+"Folder not exist at %@, please input another path." = " %@ konumunda dosya bulunamadı, lütfen başka bir konumu deneyin.";
+"Please input a folder path." = "Lütfen bir dosya konumu girin.";
+"Cannot use root path." = "Kök yolu kullanılamıyor.";
+
+"Get Themes" = "Tema Edinin";
+"File/directory already exists at target path." = "Dosya/hedef dizini zaten hedeflenen konumda mevcut.";
+"Keep Both" = "İkisini de Tut";
+"Are you sure you want to move %@?" = "%@ 'yı taşımak istediğinize emin misiniz?";
+
+"Are you sure you want to delete %@?" = "%@ 'yı silmek istediğinize emin misiniz?";
+"You can restore from the Trash." = "Çöpten tekrar geri kurtarabilirsiniz.";
+
+"Reset All Dialog Warnings" = "Bütün Diyalog Uyarılarını Sıfırla";
+"Dialogs" = "Diyaloglar";
+"Dialog warnings have been reset." = "Diyalog uyarıları sıfırlandı.";
+
+"Operation Failed" = "İşlem Başarısız";
+"Failed to move target file or folder to trash" = "Hedef dosya veya klasörü çöpe taşıma başarısız";
+
+"Undo %@" = "Geri al: %@";
+"Rename %@" = "Yeniden adlandır: %@";
+"Copy %@" = "Kopyala: %@";
+"Move %@" = "Taşı: %@";
+"Delete %@" = "Sil: %@";
+
+"Turn off Typewriter / Focus Mode" = "Daktilo Modu / Odak Modu Kapat";
+"Typewriter / Focus Mode have been turned off." = "Daktilo Modu / Odak Modu kapatıldı.";
+
+"Reading Speed" = "Okuma Hızı";
+"Auto" = "Otomatik";
+"words / min" = "kelime / dakika";
+
+"Reset to Default" = "Varsayılanlara Sıfırla";
+"Select custom folder" = "Özel klasör seç";
+"120  words/minute (Slow)" = "120  kelime/dakika (Yavaş)";
+"240  words/minute (Medium)" = "240  kelime/dakika (Orta)";
+"382  words/minute (Fast)" = "382  kelime/dakika (Hızlı)";
+
+"Copy and update image source to…" = "Resim kaynağını şuraya kopyala veya yükle…";
+"Updater" = "Güncelleyici";
+"Install Updates ?" = "Güncellemeleri Yükle ?";
+"Quit and Install" = "Çık ve Yükle";
+"Download failed" = "İndirme başarısız";
+"Downloading Updates…" = "Güncellemeler Yükleniyor…";
+"Checking Updates…" = "Güncellemeler Kontrol Ediliyor…";
+"Check Update Failed" = "Güncelleme Kontrolü Başarısız";
+"You are update to date!" = "Güncelsiniz!";
+"Latest version is $1, your version is $2" = "Son sürüm $1, sizin sürümünüz ise $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Bu seçenekler \"Düzenle→Boşluk ve Satır Sonları\" menüsünden değiştirilebilir";
+"Auto escape image URL when insert" = "Yerleştirildiğinde resim URL'sinden otomatik çıkış";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Örneğin, eğer 'img/example file.png' konumuna bir dosya yüklerseniz, 'img/example%20file.png' olacaktır. Bunu diğer Markdown motorlarıyla daha iyi uyumluluk için etkinleştirin veya daha iyi okunabilirlik için etkinliği kaldırın.";
+"Check updates automatically" = "Güncellemeleri otomatik olarak kontrol et";
+"Skip This Version" = "Bu Sürümü Atla";
+"Remind Me Later" = "Sonra Hatırlat";
+"Download Update" = "Güncellemeyi İndir";
+"New version available." = "Yeni sürüm mevcut.";
+
+"When copy / export as HTML (without style)" = "HTML olarak kopyalandığında / dışarı aktarıldığında (stil olmadan)";
+"Use Rendered SVG" = "İşlenmiş SVG'yi Kullan";
+"Use LaTeX Source" = "LaTeX Kaynağı Kullan";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div> HTML olarak (stiller olmadan) dışarı alındığında efektleri al veya HTML kodu olarak kopyala ya da tema stili olmadan kopyala.<br/> <strong> kullanıldığında LaTeX Kaynak</strong> seçilir, Typora ham LaTeX kaynağını ($X^2$ gibi) kullanacaktır,<br/> <strong> kullanıldığında SVG</strong> işleyicisi seçilir, işlenmiş SVG kullanılır, eğer başka bir uygulamaya yapıştırırsanız SVG görmezden gelinebilir.</div>"; ???
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Fonksiyonları içe aktarma ve pek çok dışa aktarma formatı Pandoc (≥%@) yüklü olmasını gerektirmektedir.";
+"Do not show this message again" = "Bu mesajı tekrar gösterme";
+
+"Page break between top level sections" = "En yukarıdaki bölümler arasına sayfa sonu";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Sistem Ayarları → Klavye → Metin üzerinden alıntı modellerini ayarlayabilirsiniz. Eğer değiştirirseniz Typora'nın uygulayabilmek için yeniden başlatılması gerekir.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Üzgünüz, bir hata oluştu, son yazılan içerik panoya kopyalandı. Bu hatayı düzeltmemiz için <hi@typora.io> adresine bildirerek bize yardım edebilirsiniz.";
+"Try Recovery" = "Kurtarmayı Dene";
+"Other options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
+
+"When Insert" = "Yerleştirildiğinde";
+"Upload image" = "Resim yükle";
+"e.g: %@" = "örneğin: %@";
+"Test Uploader" = "Yükleyiciyi Test Et";
+"Validating" = "Onaylanıyor";
+"Validation Failed" = "Onaylama Başarısız";
+"Validation Succeed" = "Onaylama Başarılı";
+"Testing image uploading using command:" = "Resim yükleme komut kullanılarak test ediliyor:";
+"Running… Waiting for results." = "Yürütülüyor… Sonuçlar bekleniyor.";
+"Output from the console:" = "Konsoldan çıktı:";
+"Error from the console:" = "Konsoldan hata:";
+"Failed to fetch uploaded image from command output." = "Komut çıktısından resim yükleme başarısız.";
+"Successfully get uploaded image url." = "Resim url'si başarıyla yüklendi";
+"Image Uploader" = "Resim Yükleyici";
+"Instructions" = "Açıklamalar";
+"Download %@" = "İndir: %@";
+"Image Upload Setting" = "Resim Yükleme Ayarları";
+"Please set an image uploader in Preferences panel before using this function." = "Bu işlevi kullanabilmek için lütfen Ayarlar panelinden bir resim yükleyicisi ayarlayın.";
+"Download or Upgrade" = "İndir veya Sürümünü Yükselt";
+"Open Config File" = "Yapılandırma Dosyasını Aç";
+"Command" = "Emir ver";
+"PicGo Path" = "PicGo Konumu";
+"Path of PicGo binary" = "PicGo binary konumu";
+"Executable" = "Yürütülebilir";
+"Checking" = "Kontrol ediyor";
+"Download" = "İndir";
+"Agree and Download" = "Kabul et ve İndir";
+"Download and Reinstall" = "İndir ve Tekrar Yükle";
+"Loading PicGo-Core License" = "PicGo-Core Lisansı Yükleniyor";
+"Failed to get installed version of PicGo-Core (command line)" = "PicGo-Core'un sürümü yüklenemedi (komut satırı)";
+"You have the latest PicGo-Core (CLI)" = "En son PicGo-Core (CLI) 'a sahipsiniz";
+"Newer version is available" = "Yeni sürüm mevcut";
+
+"Downloading…" = "İndiriliyor…";
+"Unzipping…" = "Sıkıştırılmış Dosya Açılıyor…";
+"Finished" = "Tamamlandı";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora tüm yerel resimlerin dosya konumlarıyla üçüncü parti uygulamasını çalıştıracak. Resim yükleyici ve bulut resim depolaması yerel dosyalarınıza erişebilecek. Devam etmek istediğinize emin misiniz?";
+
+"Export operation finished successfully." = "Dışa aktarma işlemi başarıyla sonlandırıldı.";

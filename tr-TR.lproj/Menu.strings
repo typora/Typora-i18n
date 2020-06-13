@@ -1,0 +1,306 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Typora Hakkında";
+"Preferences" = "Ayarlar";
+"Check for Updates" = "Güncellemeleri Denetle";
+"Services" = "Servisler";
+"Hide Typora" = "Typora 'yı Gizle";
+"Hide Others" = "Diğerlerini Gizle";
+"Show All" = "Her şeyi Göster";
+"Quit Typora" = "Typora 'dan Çık";
+
+/* File Menu */
+
+"File" = "Dosya";
+"New" = "Yeni";
+"Open" = "Aç";
+"Open Folder" = "Klasörü Aç";
+"Reopen with Encoding" = "Şifreleme ile Yeniden Aç";
+"Auto" = "Otomatik";
+"Open Recent" = "Son Açılanları Aç";
+"Recent Locations" = "Son Konumlar";
+"Clear Items" = "Ögeleri Temizle";
+"No Recent Files" = "Son Açılan Dosyalar Yok";
+"Open Quickly" = "Hızlı Aç";
+"Open File Location" = "Dosya Konumunu Aç";
+"Reveal in Library" = "Kütüphanede Görüntüle";
+"Reveal in File Tree" = "Dosya Ağacında Görüntüle";
+"Close" = "Kapat";
+"Save" = "Kaydet";
+"Save As" = "Farklı Kaydet";
+"Duplicate" = "Çoğalt";
+"Rename" = "Yeniden Adlandır";
+"Move To" = "Taşı";
+"Revert To" = "Geri Çevir";
+"Browse All Versions" = "Tüm Versyonları İncele";
+"Import" = "İçe Aktar";
+"Export" = "Dışa Aktar";
+"Page Setup" = "Sayfa Ayarları";
+"Print" = "Yazdır";
+
+/* Edit Menu */
+"Edit" = "Düzenle";
+"Undo" = "Geri All";
+"Redo" = "Yinile";
+"Cut" = "Kes";
+"Copy" = "Kopyala";
+"Paste" = "Yapıştır";
+"Copy as Markdown" = "Markdown Olarak Kopyala";
+"Copy as HTML Code" = "HTML Kodu Olarak Kopyala";
+"Paste as Plain Text" = "Düz Yazı Olarak Kopyala";
+"Select All" = "Tümünü Seç";
+"Select Line/Sentence" = "Satırı/Cümleyi Seç";
+"Select Styled Scope" = "Stili Seç";
+"Select Word" = "Kelimeyi Seç";
+"Delete" = "Sil";
+"Delete Range" = "Aralığı Sil";
+"Delete Word" = "Kelimeyi Sil";
+"Delete Styled Scope" = "Stili Sil";
+"Delete Line/Sentence" = "Satırı/Cümleyi Sil";
+"Jump To" = "Atla";
+"Jump to Top" = "En Tepeye Git";
+"Jump to Selection" = "Seçime Git";
+"Jump to Bottom" = "En Aşağıya Git";
+"Math Tools" = "Matematik Araçları";
+"Refresh All Math Expressions" = "Tüm Matematik Eklentilerini Yenile";
+"Image Tools" = "Resim Araçları";
+"Insert Local Images" = "Bilgisayardan Resim Yükle";
+"Upload Local Images via iPic" = "iPic 'den Resim Yükle";
+"When Insert Local Image" = "Yerel Resim Yüklendiğinde";
+"Copy Image File to Folder" = "Resim Dosyasını Klasöre Kopyala";
+"Use Image Root Path" = "Resmin Kök Dosyasını Kullan";
+"Line Endings" = "Satır Sonları";
+"Windows Line Endings (CRLF)" = "Windows Satır Sonları (CRLF)";
+"Unix Line Endings (LF)" = "Unix Satır Sonları (LF)";
+"Find" = "Bul";
+"Find Next" = "Sonrakini Bul";
+"Find Previous" = "Öncekini Bul";
+"Find and Replace" = "Bul ve Değiştir";
+"Replace" = "Değiştir";
+"Replace Next" = "Sonrakini Değiştir";
+"Spelling and Grammar" = "Yazım ve Gramer";
+"Check Document Now" = "Belgeyi Hemen Denetle";
+"Check Spelling While Typing" = "Yazı Sırasında Yazımı Denetle";
+"Check Grammar With Spelling" = "Yazımla Birlikte Grameri de Denetle";
+"Correct Spelling Automatically" = "Yazımı Otomatikman Düzelt";
+"Substitutions" = "Eşleştirmeler";
+"Smart Quotes" = "Akıllı Alıntılar";
+"Smart Dashes" = "Akıllı Kesik Çizgiler";
+"Text Replacement" = "Yazı Değiştirme";
+"Speech" = "Konuşma";
+"Start Speaking" = "Konuşmayı Başlat";
+"Stop Speaking" = "Konuşmayı Durdur";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraf";
+"Heading 1" = "Başlık 1";
+"Heading 2" = "Başlık 2";
+"Heading 3" = "Başlık 3";
+"Heading 4" = "Başlık 4";
+"Heading 5" = "Başlık 5";
+"Heading 6" = "Başlık 6";
+"Increase Heading Level" = "Başlık Seviyesini Yükselt";
+"Decrease Heading Level" = "Başlık Seviyesini Düşür";
+"Table" = "Tablo";
+"Code Fences" = "Kod Satırı";
+"Math Block" = "Matematik Öbeği";
+"Quote" = "Alıntı";
+"Ordered List" = "Düzenli Liste";
+"Unordered List" = "Düzensiz Liste";
+"Task List" = "Yapılıcaklar Listesi";
+"Task Status" = "Yapılıcaklar Durumu";
+"Toggle Task Status" = "Yapılıcaklar Durumunu Aç/Kapat";
+"Mark as Complete" = "Tamamlandı Olarak İşaretle";
+"Mark as Incomplete" = "Tamamlanmadı Olarak İşaretle";
+"List Indentation" = "Girintileri Listele";
+"Indent" = "Girintile";
+"Outdent" = "Girintilemeyi Kaldır";
+"Link Reference" = "Link Referansı";
+"Footnotes" = "Dipnotlar";
+"Horizontal Line" = "Yatay Çizgi";
+"Table of Contents" = "İçindekiler";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Biçim";
+"Strong" = "Sert";
+"Emphasis" = "Italik";
+"Underline" = "Altı Çizgili";
+"Code" = "Kod";
+"Inline Math" = "Satıriçi Matematik";
+"Strike" = "Orta Çizgili";
+"Highlight" = "Vurgulu";
+"Superscript" = "Superscript";
+"Subscript" = "Subscript";
+"Comment" = "Yorum";
+"Hyperlink" = "Hyperlink";
+"Image" = "Resim";
+"Clear Format" = "Formatı Kaldır";
+
+/* View Menu */
+"View" = "Görünüm";
+"New Tab" = "Yeni Sekme";
+"Source Code Mode" = "Kaynak Kodu Modu";
+"Focus Mode" = "Odak Modu";
+"Typewriter Mode" = "Daktilo Modu";
+"Toggle Sidebar" = "Kenar Çubuğunu Aç/Kapat";
+"Outline" = "Özet";
+"Articles" = "Metinler";
+"File Tree" = "Dosya Ağacı";
+"Always on Top" = "Her Zaman En Yukarıda Tut";
+"Full Screen" = "Tam Ekran";
+"Show Status Bar" = "Durum Çubuğunu Göster";
+"Toggle Fullscreen" = "Tam Ekran Aç/Kapat";
+"Actual Size" = "Gerçek Boyut";
+"Zoom In" = "Yakınlaştır";
+"Zoom Out" = "Uzaklaştır";
+"Switch Between Opened Documents" = "Açık Belgeler Arasında Geçiş Yap";
+"Toggle DevTools" = "DevTools 'u Aç/Kapat";
+
+
+/* Themes Menu */
+"Themes" = "Temalar";
+
+/* Window Menu */
+"Window" = "Pencere Görünümü";
+"Minimize" = "Simge Durumuna Küçült";
+"Zoom" = "Yakınlaştır";
+"Bring All to Front" = "Hepsini Öne Taşı";
+
+/* Help Menu */
+"Help" = "Yardım";
+"Privacy Policy" = "Gizlilik İlkesi";
+"Credits" = "Emeği Geçenler";
+"Change Log" = "Değişiklikler Listesi";
+"Website" = "Web sitesi";
+"Feedback" = "Geri Bildirim";
+"About" = "Hakkında";
+
+/* Touchbar */
+"Block Styles" = "Öbek Stilleri";
+"Inline Styles" = "Satıriçi Stilleri";
+"List Styles / Remove Block" = "Liste Stilleri / Öbeği Kaldır";
+"Exit Source Code Mode" = "Kaynak Kodu Modundan Çık";
+"Toggle Source Code Mode" = "Kaynak Kodu Modunu Aç/Kapat";
+
+/* Extra Context Menu */
+"Table" = "Tablo";
+"Add Row Above" = "Üste Satır Ekle";
+"Add Row Below" = "Alta Satır Ekle";
+"Delete Row" = "Satırı Sil";
+"Add Column Before" = "Geriye Stün Ekle";
+"Add Column After" = "İleriye Stün Ekle";
+"Delete Column" = "Sütünu Sil";
+"Copy Table" = "Tabloyu Kopyala";
+"Delete Table" = "Tabloyu Sil";
+"Insert Paragraph After" = "Sonrasına Paragraf Ekle";
+"Insert Paragraph Before" = "Öncesine Paragraf Ekle";
+"Delete Code Block" = "Kod Öbeğini Sil";
+"Copy as MathML" = "MathML Olarak Kopyala";
+"Copy as Tex" = "Tex Olarak Kopyala";
+"Copy Math" = "Matematiği Kopyala";
+"Reveal in Finder" = "Dosya Konumunda Göster";
+"Open Link" = "Linki Aç";
+"Reveal in Sidebar" = "Kenar Çubuğunda Göster";
+"Open in New Window" = "Yeni Pencerede Aç";
+"Copy File Path" = "Dosya Konumunu Kopyala";
+"New File" = "Yeni Belge";
+"Rename" = "Yeniden Adlandır";
+"New Folder" = "Yeni Klasör";
+"Move to Trash" = "Çöpe Taşı";
+
+/* Electron */
+"Learn Spelling" = "Yazmayı Öğren";
+"Copy / Paste As…" = "Olarak Kopyala/Yapıştır";
+"Math" = "Matematik";
+"Insert" = "Yerleştir";
+"Inspect Element" = "Ögeyi İncele";
+"Copy to MS Word" = "MS Word 'e Kopyala";
+"Paragraph (before)" = "Paragraf (Önceki)";
+"Paragraph (after)" = "Paragraf (Sonraki)";
+
+"Search with Google" = "Google ile Ara";
+"Search With…" = "… ile Ara";
+
+/* Related Panel */
+"Open Failed" = "Açış Sırasında Hata Meydana Geldi";
+"File or folder does not exist." = "Dosya Veya Klasör Bulunamadı.";
+
+"Prettify Source Code" = "Kaynak Kodunu Güzelleştir";
+"Copy '%@'" = "'%@' Ögesini Kopyala";
+"Copy to %@" = "Şuraya '%@' Kopyala";
+"Copy Image to" = "Resmi Şuraya kopyala";
+"Open Image Location" = "Resim Konumunu Aç";
+
+"Learn More" = "Dahasını Öğren";
+"Whitespace and Line Breaks" = "Boşluk ve Satır Sonları";
+"Indent first line of paragraphs" = "Paragrafların İlk Satırını Girintile";
+"Preserve single line break" = "Tek Satırları Koru";
+"Visible <br/>" = "Görünür <br/>";
+
+"Save All" = "Hepsini Kaydet";
+"New Window" = "Yeni Pencere";
+"Reopen Closed File" = "Kapatılmış Dosyayı Geri Aç";
+
+"Global Image Settings" = "Genel Görsel Ayarları";
+"Smart Punctuation" = "Akıllı Noktalama";
+"Convert on Input" = "Girişte Çevir";
+"Convert on Rendering" = "Oluşturmada Çevir";
+"Remap Unicode Punctuation on Parse" = " Unicode Noktalamalarını Çözümleyerek Yeniden İşlevlendirmek";
+"More Options" = "Daha Fazla Seçenek";
+
+"HTML Block" = "HTML Öbeği";
+"Delete Block" = "Öbeği Sil";
+"Delete %@" = "%@ 'i Sil";
+"Play" = "Oynat";
+"Pause" = "Duraklat";
+
+"Spell Check" = "Yazım Denetimi";
+"Unlearn Spelling" = "Yazımı Unut";
+"Properties" = "Ayarlar";
+
+"Search" = "Ara";
+"Copy without Theme Styling" = "Tema Stilleştirmesi Olmadan Kopyala";
+"Recent Files" = "Son Dosyalar";
+"File Results" = "Dosya Sonuçları";
+
+"Insert Table" = "Tablo Aktar";
+"Insert Image" = "Resim Aktar";
+"Allow Magnification" = "Yakınlaştırmaya İzin Ver";
+
+"Move Row Up" = "Satırı Yukarı Taşı";
+"Move Row Down" = "Satırı Aşşağı Taşı";
+"Move Column Left" = "Sütünu Sola Taşı";
+"Move Column Right" = "Sütünu Sağa Taşı";
+
+"Zoom Image" = "Resmi Yakınlaştır";
+"Zoom Image to %@" = "%@ 'a Resmi Yakınlaştır";
+
+"Copy as Plain Text" = "Sade Yazı Olarak Kopyala";
+
+"Selection" = "Seçim";
+"Start Speaking" = "Konuşmayı Başlat";
+"Stop Speaking" = "Konuşmayı Durdur";
+"Check Updates" = "Güncellemeleri Denetle";
+
+"HTML (without Styles)" = "HTML (Stiller Olmadan)";
+
+"Highlight Current Header" = "Seçili Başlığı Vurgula";
+"Expand All" = "Hepsini Genişlet";
+"Collapse All" = "Hepsini Daralt";
+"Collapsible Outline" = "Açılır/Kapanır Özet";
+"Flat Outline" = "Düz Özet";
+"Articles (List View)" = "Metinler (Liste Görünüm)";
+"File Tree (Tree View)" = "Dosya Ağacı (Ağaç Görünümü)";
+"Filter" = "Filtre";
+
+"Upload Image" = "Resmi Karşıya Yükle";
+"Upload All Local Images" = "Tüm Yerel Resimleri Karşıya Yükle";
+"Open Image in Browser" = "Resmi Tarayıcıda Aç";

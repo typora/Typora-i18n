@@ -4,6 +4,7 @@
 
   by hi@typora.io
   Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
+  Reviewed by Toke Riis Ebbesen.
 */
 
 /* Common */
@@ -44,24 +45,24 @@
 "Delete Table" = "Slet tabel";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen <code id='image-create-folder-target'></code> i henhold til din YAML fortekst eller de globale indstillinger, men mappen findes ikke - opret den nu?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen <code id='image-create-folder-target'></code> i henhold til din YAML-fortekst eller de globale indstillinger, men mappen findes ikke - opret den nu?";
 "Create Folder" = "Opret mappe";
 
 /* Math */
-"Edit" = "Redigér";
+"Edit" = "Rediger";
 "Delete Math" = "Slet formel";
 "Preview" = "Forhåndsvisning";
 
 /* Sidebar */
-"Articles" = "Artikler";
+"Articles" = "Bibliotek";
 "Outline" = "Disposition";
 "Files" = "Filer";
 "Switch to File List view" = "Skift til listevisning";
-"Switch to File Tree view" = "Skift til træstruktur";
+"Switch to File Tree view" = "Skift til filoversigt";
 "Switch to Outline view" = "Skift til disposition";
 "Close sidebar" = "Luk sidepanel";
 "Loading" = "Indlæser";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "De valgte mapper indeholder for mange filer. \nSkift venligst til <a id='switch-to-tree-on-oversize'>træstruktur</a> for at opnå bedre ydelse.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "De valgte mapper indeholder for mange filer. \nSkift venligst til <a id='switch-to-tree-on-oversize'>filoversigt</a> for at opnå bedre ydelse.";
 "New File" = "Ny fil";
 "Unpin Outline Panel" = "Løsgør disposition";
 "Open Folder..." = "Åben mappe...";
@@ -78,8 +79,8 @@
 "Sort by Name (Descending)" = "Sortér efter navn (faldende)";
 "Sort by Modification Date (Descending)" = "Sort efter ændringsdato (faldende)";
 "Location" = "Placering";
-"Switch File List/Tree View" = "Skift mellem listevisning og træstruktur";
-"No Files Available" = "Ingen filder tilgængelige";
+"Switch File List/Tree View" = "Skift mellem listevisning og filoversigt";
+"No Files Available" = "Ingen filer tilgængelige";
 "No Folder is Opened." = "Ingen mappe åbnet.";
 "Outline is Empty." = "Disposition er tom.";
 

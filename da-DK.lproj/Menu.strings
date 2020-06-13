@@ -4,6 +4,7 @@
 
   by hi@typora.io
   Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
+  Reviewed by Toke Riis Ebbesen.
 */
 
 /* Typora Menu */
@@ -11,7 +12,7 @@
 "About Typora" = "Om Typora";
 "Preferences" = "Indstillinger";
 "Check for Updates" = "Søg efter opdateringer";
-"Services" = "Servicer";
+"Services" = "Tjenester";
 "Hide Typora" = "Skjul Typora";
 "Hide Others" = "Skjul andre";
 "Show All" = "Vis alle";
@@ -32,7 +33,7 @@
 "Open Quickly" = "Åben hurtigt";
 "Open File Location" = "Åben filplacering";
 "Reveal in Library" = "Vis i bibliotek";
-"Reveal in File Tree" = "Vis i træstruktur";
+"Reveal in File Tree" = "Vis i filoversigt";
 "Close" = "Afslut";
 "Save" = "Gem";
 "Save As" = "Gem som";
@@ -47,7 +48,7 @@
 "Print" = "Udskriv";
 
 /* Edit Menu */
-"Edit" = "Redigér";
+"Edit" = "Rediger";
 "Undo" = "Fortryd";
 "Redo" = "Gentag";
 "Cut" = "Klip";
@@ -101,7 +102,7 @@
 "Stop Speaking" = "Stop oplæsning";
 
 /* Paragraph Menu */
-"Paragraph" = "Paragraf";
+"Paragraph" = "Afsnit";
 "Heading 1" = "Overskrift 1";
 "Heading 2" = "Overskrift 2";
 "Heading 3" = "Overskrift 3";
@@ -111,7 +112,7 @@
 "Increase Heading Level" = "Forøg overskriftsniveau";
 "Decrease Heading Level" = "Formindsk overskriftsniveau";
 "Table" = "Tabel";
-"Code Fences" = "Kodeblokke";
+"Code Fences" = "Kodeblok";
 "Math Block" = "Formularblok";
 "Quote" = "Citat";
 "Ordered List" = "Ordnet liste";
@@ -128,13 +129,13 @@
 "Footnotes" = "Fodnoter";
 "Horizontal Line" = "Horisontal linje";
 "Table of Contents" = "Indholdsfortegnelse";
-"YAML Front Matter" = "YAML fortekst";
+"YAML Front Matter" = "YAML-fortekst";
 
 /* Format Menu */
 "Format" = "Format";
 "Strong" = "Stærk";
 "Emphasis" = "Fremhævet";
-"Underline" = "Understregning";
+"Underline" = "Understreget";
 "Code" = "Kode";
 "Inline Math" = "Indbygget formular";
 "Strike" = "Gennemstreg";
@@ -154,8 +155,8 @@
 "Typewriter Mode" = "Skrivemaskinevisning";
 "Toggle Sidebar" = "Vis/skjul sidepanel";
 "Outline" = "Disposition";
-"Articles" = "Artikler";
-"File Tree" = "Træstruktur";
+"Articles" = "Bibliotek";
+"File Tree" = "Filoversigt";
 "Always on Top" = "Altid øverst";
 "Full Screen" = "Fuldskærm";
 "Show Status Bar" = "Vis statuslinje";
@@ -202,8 +203,8 @@
 "Delete Column" = "Slet kolonne";
 "Copy Table" = "Kopier tabel";
 "Delete Table" = "Slet tabel";
-"Insert Paragraph After" = "Indsæt paragraf efter";
-"Insert Paragraph Before" = "Indsæt paragraf før";
+"Insert Paragraph After" = "Indsæt afsnit efter";
+"Insert Paragraph Before" = "Indsæt afsnit før";
 "Delete Code Block" = "Slet kodeblok";
 "Copy as MathML" = "Kopier som MathML";
 "Copy as Tex" = "Kopier som tekst";
@@ -225,8 +226,8 @@
 "Insert" = "Indsæt";
 "Inspect Element" = "Inspicér element";
 "Copy to MS Word" = "Kopier til MS Word";
-"Paragraph (before)" = "Paragraf (før)";
-"Paragraph (after)" = "Paragraf (efter)";
+"Paragraph (before)" = "Afsnit (før)";
+"Paragraph (after)" = "Afsnit (efter)";
 
 "Search with Google" = "Søg med Google";
 "Search With…" = "Søg med…";
@@ -244,7 +245,7 @@
 
 "Learn More" = "Læs mere";
 "Whitespace and Line Breaks" = "Mellemrum og linjeskift";
-"Indent first line of paragraphs" = "Indryk første linje af paragrafer";
+"Indent first line of paragraphs" = "Indryk første linje af afsnit";
 "Preserve single line break" = "Bevar enkelt linjeskift";
 "Visible <br/>" = "Synlige <br/>";
 

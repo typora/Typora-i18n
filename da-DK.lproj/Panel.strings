@@ -4,6 +4,7 @@
 
  by hi@typora.io
  Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
+ Reviewed by Toke Riis Ebbesen.
  */
 
 /* Preference Panel */
@@ -28,7 +29,6 @@
 "Show Outline Panel by Default" = "Vis sidepanel ved opstart";
 "Collapsible Outline on Left Panel" = "Disposition i sidepanel der kan skjules";
 "Save without asking when\nswitch files on side panel" = "Gem automatisk uden at bekræfte når\nder vælges en anden fil i sidepanelet";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Rettede filer bliver gemt uden bekræftelse når der vælges en anden fil i sidepanelet. \nDette er altid koblet til når \"Bekræft gemning af ændringer når et dokument lukkes\" er koblet til i Systemindstillingerne.";
 "Language" = "Sprog";
 "System Language" = "Systemsprog";
 
@@ -65,9 +65,9 @@
 "Strict Mode" = "Krævende tilstand";
 "(more strict to GFM spec)" = "(mere krævende end GFM standard)";
 "Heading Style" = "Overskriftstypografi";
-"Unordered List" = "Ikke-ordnet liste";
+"Unordered List" = "Uordnet liste";
 "Ordered List" = "Ordnet liste";
-"Code Fences" = "Kodeblokke";
+"Code Fences" = "Kodeblok";
 "Display line numbers for code fences" = "Vis linjenumre i kodeblokke";
 "Math Blocks" = "Formularblokke";
 "Auto Numbering Math Equations" = "Nummerér automatisk matematiske formler";
@@ -173,7 +173,7 @@
 "Enable this feature on preferences panel" = "Aktivér denne funktion i indstillingerne";
 "%@ is a file, not a directory" = "%@ er en fil, ikke en mappe";
 "Copy Images To…" = "Kopiér billeder til…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML fortekst indstilling, men mappen findes ikke - opret den nu?";
+"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML-fortekst indstilling, men mappen findes ikke - opret den nu?";
 "Create Folder and Continue" = "Opret folder og fortsæt";
 "Document must be saved first" = "Dokumentet skal først gemmes";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vil kopiere det seneste indsatte billede til mappen angivet med en relativ sti, så gem venligst filen først.";
@@ -224,7 +224,7 @@
 "Upload image via iPic" = "Upload billede vha. iPic";
 "Apply above rules to local images" = "Anvend ovenstående regler på lokale billeder";
 "Apply above rules to online images" = "Anvend ovenstående regler på online billeder";
-"Allow upload images automatically based on YAML settings" = "Upload billeder automatisk baseret på YAML indstillinger";
+"Allow upload images automatically based on YAML settings" = "Upload billeder automatisk baseret på YAML-indstillinger";
 
 "Learn More" = "Læs mere";
 "Whitespace / Line Break" = "Mellemrum/linjesluttegn";

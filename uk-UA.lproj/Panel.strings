@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "Показувати Панель структури за замовчуванням";
 "Collapsible Outline on Left Panel" = "Розкладна структура на Лівій панелі";
 "Save without asking when\nswitch files on side panel" = "Зберігати без перепитування, коли\nперемикаються файли на бічній панелі";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редаговані файли зберігатимуться без перепитування при перемиканні між файлами на лівій панелі. \nКоли у Системних параметрах увімкнено \"Питати, чи зберігати зміни, при закритті документів\", це налаштування завжди увімкнене.";
 "Language" = "Мова";
 "System Language" = "Системна мова";
 

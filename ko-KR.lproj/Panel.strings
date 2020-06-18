@@ -30,7 +30,6 @@
 "Show Outline Panel by Default" = "개략 패널 기본 표시";
 "Collapsible Outline on Left Panel" = "접을 수 있는 왼쪽 개략 패널";
 "Save without asking when\nswitch files on side panel" = "사이드 패널에서 파일 전환시\n묻지 않고 저장";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "좌측 패널에서 파일을 전환 시 수정된 파일이 저장됩니다.\n \"도큐멘트를 닫을 때 변경사항 유지\"가 활성화된 경우, 이 기능이 활성화됩니다.";
 "Language" = "언어";
 "System Language" = "시스템 언어";
 

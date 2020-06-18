@@ -28,7 +28,6 @@
 "Show Outline Panel by Default" = "Amosar panel de esquema por defecto";
 "Collapsible Outline on Left Panel" = "Esquema plegable no panel esquerdo";
 "Save without asking when\nswitch files on side panel" = "Gardar sen preguntar ao \ncambiar os arquivos no panel lateral";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Os arquivos editados gardaranse sen preguntar cando se cambien no panel esquerdo. \nEntón \"Preguntar si mantemos os cambios ao pechar documentos\" está habilitado nas Preferencias do Sistema, isto sempre está activado.";
 "Language" = "Idioma";
 "System Language" = "Idioma do sistema";
 

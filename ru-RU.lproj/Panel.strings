@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "Отображать по умолчанию панель оглавления";
 "Collapsible Outline on Left Panel" = "Сворачиваемое оглавление в боковой панели";
 "Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Редактируемые файлы будут сохраняться без запроса, при переключении между ними в боковой панели. \nКогда параметр \"Спрашивать о сохранении изменений при закрытии документов\" активирован в системных настройках, это включено всегда.";
 "Language" = "Язык";
 "System Language" = "Язык системы";
 

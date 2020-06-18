@@ -29,7 +29,6 @@
 "Show Outline Panel by Default" = "Gliederungsleiste standardmäßig anzeigen";
 "Collapsible Outline on Left Panel" = "Zusammenklappbare Gliederung in der linken Seitenleiste";
 "Save without asking when\nswitch files on side panel" = "Ohne Nachfragen speichern, wenn\nDateien über die Seitenleiste gewechselt werden";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Geänderte Dateien werden ohne Nachfrage gespeichert, wenn die Datei über die Seitenleiste gewechselt wird. \nWenn \"Wenn beim Schließen immer fragen, ob Änderungen gespeichert werden sollen\" in den Einstellungen aktiviert ist, ist diese Option immer aktiv.";
 "Language" = "Sprache";
 "System Language" = "Systemsprache";
 
@@ -297,7 +296,7 @@
 "Copy and update image source to…" = "Bildquelle kopieren und aktualisieren…";
 "Updater" = "Updater";
 "Install Updates ?" = "Updates installieren?";
-"Quit and Install" = "Beenden und installisieren";
+"Quit and Install" = "Beenden und installieren";
 "Download failed" = "Download ist fehlgeschlagen";
 "Downloading Updates…" = "Updates werden heruntergeladen…";
 "Checking Updates…" = "Updates werden überprüft…";

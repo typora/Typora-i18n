@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "Mostra pannello Struttura come predefinito";
 "Collapsible Outline on Left Panel" = "Espandi/comprimi Struttura sulla barra laterale";
 "Save without asking when\nswitch files on side panel" = "Salva automaticamente quando \napri un altro file dalla barra laterale";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "I file modificati verranno salvati automaticamente quando si apre un nuovo file dalla barra laterale. \nQuando \"Chiedi di mantenere le modifiche alla chiusura dei documenti\" è abilitato in Preferenze di Sistema, questa opzione è sempre attiva.";
 "Language" = "Lingua";
 "System Language" = "Lingua di sistema";
 

@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "預設顯示大綱欄";
 "Collapsible Outline on Left Panel" = "左側欄可允許收放";
 "Save without asking when\nswitch files on side panel" = "在側邊欄切換檔案時自動存檔無需詢問";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在側邊欄切換檔案時，編輯中的檔案將自動存檔無需詢問。 \n若系統偏好中，\"關閉文件時詢問是否保留改變\"，此處也會啟用";
 "Language" = "語言";
 "System Language" = "系統語言";
 

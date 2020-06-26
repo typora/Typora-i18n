@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by aride.moulin@gmail.com
+ by aride.moulin@gmail.com, @teuscard
 */
 
 /* Common */
@@ -13,8 +13,8 @@
 "Close" = "Fechar";
 "Select" = "Selecionar";
 "Continue" = "Continuar";
-"Learn More…" = "Saiba mais…";
-"Untitled" = "Sem nome";
+"Learn More…" = "Saiba Mais…";
+"Untitled" = "Sem Título";
 "Undo" = "Desfazer";
 "Dismiss" = "Dispensar";
 "Confirm" = "Confirmar";
@@ -24,8 +24,8 @@
 "Search" = "Pesquisar";
 "Replace" = "Substituir";
 "All" = "Todos";
-"Search text not found in article" = "Termo não encontrado no artigo";
-"search text" = "texto para pesquisar";
+"Search text not found in article" = "Busca de texto não encontrada no artigo";
+"search text" = "texto para busca";
 
 /* Quick Open */
 "Search by file name" = "Pesquisar pelo nome do arquivo";
@@ -33,62 +33,62 @@
 "Gathering more results" = "Obtendo mais resultados";
 
 /* Tables */
-"Insert Table" = "Inserir tabela";
+"Insert Table" = "Inserir Tabela";
 "Columns" = "Colunas";
 "Rows" = "Linhas";
-"Align Left" = "Alinhar à esquerda";
+"Align Left" = "Alinhar à Esquerda";
 "Align Center" = "Centralizar";
-"Align Right" = "Alinhar à direita";
-"Resize Table" = "Redimensionar tabela";
-"Delete Table" = "Remover tabela";
+"Align Right" = "Alinhar à Direita";
+"Resize Table" = "Redimensionar Tabela";
+"Delete Table" = "Remover Tabela";
 
 /* Images */
-"Create Folder" = "Criar diretório";
+"Create Folder" = "Criar Pasta";
 
 /* Math */
 "Edit" = "Editar";
-"Delete Math" = "Deletar equação";
+"Delete Math" = "Deletar Equação";
 "Preview" = "Pré-visualizar";
 
 /* Sidebar */
 "Articles" = "Artigos";
 "Outline" = "Índices";
 "Files" = "Arquivos";
-"Switch to File List view" = "Visualizar como lista";
-"Switch to File Tree view" = "Visualizar como árvore";
-"Switch to Outline view" = "Visualizar Índice";
+"Switch to File List view" = "Visualizar como Lista";
+"Switch to File Tree view" = "Visualizar como Árvore";
+"Switch to Outline view" = "Visualizar como Tópicos";
 "Close sidebar" = "Fechar barra lateral";
 "Loading" = "Carregando";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "O diretório selecionado possui muitos arquivos. \nPor favor alterne para <a id='switch-to-tree-on-oversize'>Árvore de Arquivos</a> para melhorar o desempenho.";
-"New File" = "Novo arquivo";
-"Unpin Outline Panel" = "Desafixar Índice";
-"Open Folder..." = "Abrir diretório...";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A pasta selecionada possui muitos arquivos. \nPor favor alterne para <a id='switch-to-tree-on-oversize'>Árvore de Arquivos</a> para melhorar o desempenho.";
+"New File" = "Novo Arquivo";
+"Unpin Outline Panel" = "Desafixar Tópicos";
+"Open Folder..." = "Abrir Pasta...";
 "Action" = "Ação";
-"Close Sidebar Menu" = "Fechar menu";
-"Reveal in Finder" = "Exibir no finder";
+"Close Sidebar Menu" = "Fechar Menu Lateral";
+"Reveal in Finder" = "Exibir no Finder";
 "Reveal in File Explorer" = "Exibir no Explorador de Arquivos";
-"Refresh Folder" = "Atualizar diretório";
+"Refresh Folder" = "Atualizar Pasta";
 "Sort" = "Ordenar";
-"Group By Folder" = "Agrupar por diretório";
-"Sort Naturally" = "Naturalmente";
-"Sort by Name (Ascending)" = "Ordem alfabética (Ascending)";
-"Sort by Modification Date (Ascending)" = "Data de alteração (Ascending)";
-"Sort by Name (Descending)" = "Ordem alfabética (Descending)";
-"Sort by Modification Date (Descending)" = "Data de alteração (Descending)";
+"Group By Folder" = "Ordenar por Pasta";
+"Sort Naturally" = "Ordenar Naturalmente";
+"Sort by Name (Ascending)" = "Ordenar por Nome (Crescente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por Data de Modificação (Crescente)";
+"Sort by Name (Descending)" = "Ordenar por Nome (Decrescente)";
+"Sort by Modification Date (Descending)" = "Ordenar por Data de Modificação (Decrescente)";
 "Location" = "Localização";
-"Switch File List/Tree View" = "Exibição em Lista/Árvore";
-"No Files Available" = "Nenhum arquivo disponível";
-"No Folder is Opened." = "Nenhum diretório aberto.";
-"Outline is Empty." = "Índice está vazio.";
+"Switch File List/Tree View" = "Alternar Visualização em Lista/Árvore";
+"No Files Available" = "Nenhum Arquivo Disponível";
+"No Folder is Opened." = "Nenhuma Pasta está Aberta.";
+"Outline is Empty." = "Estrutura está Vazia.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Exibir Barra Lateral";
-"Toggle Source Code Mode" = "Modo Código Fonte";
+"Toggle Source Code Mode" = "Entrar no Modo Código Fonte";
 "Exit Source Code Mode" = "Sair do Modo Código Fonte";
 
-"Table of Contents" = "Índice (TOC)";
-"Empty Diagram" = "Diagrama vazio";
-"Input Math TeX here" = "Insira equação TeX aqui";
+"Table of Contents" = "Índice";
+"Empty Diagram" = "Diagrama Vazio";
+"Input Math TeX here" = "Insira Equação TeX aqui";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "É necessário definir a referência da nota de rodapé <b>{0}</b> com sintaxe <a>[^{1}]: www.exemplo.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "É necessário definir o link <b>[{0}]</b> com sintaxe <b>[{1}]: www.exemplo.com</b>";
@@ -96,36 +96,36 @@
 
 /* msg */
 "Failed to create file" = "Erro ao criar arquivo";
-"Failed to create folder" = "Erro ao criar diretório";
+"Failed to create folder" = "Erro ao criar pasta";
 "Failed to rename file" = "Erro ao renomear arquivo";
-"Folder does not exist at %@" = "Diretório não existe em %@";
+"Folder does not exist at %@" = "Pasta não existe em %@";
 "File with the same name already exists at target path" = "Um arquivo com o mesmo nome já existe no local de destino";
-"Apply to All" = "Aplicar a todos";
-"Overwrite" = "Sobrescrever";
+"Apply to All" = "Aplicar a Todos";
+"Overwrite" = "Substituir";
 "Stop" = "Interromper";
 "back to document" = "voltar ao documento";
 "Failed to load file" = "Erro ao carregar arquivo";
-"Save File Failed!" = "Erro ao salvar arquivo!"
-"Cannot open folder {0}" = "Não foi possível abrir o diretório{0}";
+"Save File Failed!" = "Erro ao Salvar Arquivo!"
+"Cannot open folder {0}" = "Não foi possível abrir a pasta {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "O conteúdo do arquivo foi modificado por aplicações externas. Recarregar o conteúdo?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Continuar movendo e sobrescrever o(s) arquivo(s) existente(s))?";
+"File content is changed by external applications. Reload content from disk ?" = "O conteúdo do arquivo foi modificado por aplicativos externos. Recarregar o conteúdo do disco?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Deseja continuar a sobrescrever o(s) arquivo(s) existente(s) ?";
 
-"Rename Failed" = "Erro ao renomear";
+"Rename Failed" = "Erro ao Renomear";
 "Rename to \"{0}\" ?" = "Renomear para \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Erro ao renomear de \"{0}\" para \"{1}\"";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "{0} imagens carregadas com sucesso.";
-"Failed to upload image. Error Message:" = "Erro ao carregar imagem. Mensagem de erro:";
-"Failed to Copy Image to Target Folder." = "Erro ao copiar imagem para diretório de destino.";
-"Select Container Folder" = "Selecionar diretório de origem";
+"Failed to upload image. Error Message:" = "Erro ao carregar imagem. Mensagem de Erro:";
+"Failed to Copy Image to Target Folder." = "Erro ao Copiar Imagem para Pasta de Destino.";
+"Select Container Folder" = "Selecionar Pasta de Origem";
 
 "Saved" = "Salvo";
 
 /* place holder in find & replace input */
-"search text" = "texto para pesquisar";
+"search text" = "texto para busca";
 "replace with" = "substituir por";
 /* search option */
-"Case Sensitive" = "Maiúsculas/minúsculas";
-"Whole Word" = "Palavra exata";
+"Case Sensitive" = "Distinguir Maiúsculas e Minúsculas";
+"Whole Word" = "Palavra Exata";

@@ -243,7 +243,7 @@
 "Restore last closed files and folders" = "Kembalikan file dan folder yang terakhir ditutup";
 "Open custom folder" = "Buka folder khusus";
 "Select custom folder" = "Pilih folder khusus";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Opsi ini mungkin akan ditimpa oleh \"Tutup jendela ketika keluar dari aplikasi\" di Preferensi Sistem";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Opsi ini mungkin akan ditimpa oleh \"Tutup jendela ketika keluar dari aplikasi\" di Preferensi Sistem";
 
 "Ignore" = "Abaikan";
 "Choose Default Folder" = "Pilih Folder Standar";

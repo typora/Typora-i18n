@@ -245,7 +245,7 @@
 "Restore last closed files and folders" = "Zuletzt geöffnete Ordner und Dateien öffnen";
 "Open custom folder" = "Benutzerdefinierten Ordner öffnen";
 "Select custom folder" = "Benutzerdefinierten Ordner wählen";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Diese Option könnte von \"Fenster beim Beenden eines Programmes schließen\" in den Systemeinstellungen überschrieben werden.";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Diese Option könnte von \"Fenster beim Beenden eines Programmes schließen\" in den Systemeinstellungen überschrieben werden.";
 
 "Ignore" = "Ignorieren";
 "Choose Default Folder" = "Standard-Ordner auswähen";

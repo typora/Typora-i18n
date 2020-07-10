@@ -241,7 +241,7 @@
 "Restore last closed files and folders" = "Gendan seneste lukkede filer og mapper";
 "Open custom folder" = "Åben tilpasset folder";
 "Select custom folder" = "Vælg tilpasset folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Denne indstilling kan blive overstyret af \"Luk vinduer når et program lukkes\" i System indstillingerne";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Denne indstilling kan blive overstyret af \"Luk vinduer når et program lukkes\" i System indstillingerne";
 
 "Ignore" = "Ignorér";
 "Choose Default Folder" = "Vælg standardmappe";

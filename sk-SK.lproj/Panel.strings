@@ -241,7 +241,7 @@
 "Restore last closed files and folders" = "Obnoviť posledné uzavreté súbory a priečinky";
 "Open custom folder" = "Otvoriť vlastný priečinok";
 "Select custom folder" = "Vybrať vlastný priečinok";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Táto možnosť sa dá prepísať \"Zatvoriť okná pri zatvorení aplikácie\" v systémových nastaveniach";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Táto možnosť sa dá prepísať \"Zatvoriť okná pri zatvorení aplikácie\" v systémových nastaveniach";
 
 "Ignore" = "Ignorovať";
 "Choose Default Folder" = "Vybrať predvolený priečinok";

@@ -249,7 +249,7 @@
 "Restore last closed files and folders" = "Obnovit poslední zavřené soubory a složky";
 "Open custom folder" = "Otevřít volitelnou složku";
 "Select custom folder" = "Vybrat volitelnou složku";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Tohle nastavení může být přebito nastavením \"Zavřít okna behěm zavírání aplikace\" v systémových nastaveních";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Tohle nastavení může být přebito nastavením \"Zavřít okna behěm zavírání aplikace\" v systémových nastaveních";
 
 "Ignore" = "Ignorovat";
 "Choose Default Folder" = "Vybrat původní složku";

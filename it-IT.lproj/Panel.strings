@@ -236,7 +236,7 @@
 "Restore last closed files and folders" = "Ripristina ultimi file e cartelle chiusi";
 "Open custom folder" = "Apri cartella personalizzata";
 "Select custom folder" = "Seleziona cartella personalizzata";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Questa opzione può essere sovrascritta da \"Chiudi finestre quando esci da un'app\" in Preferenze di Sistema";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Questa opzione può essere sovrascritta da \"Chiudi finestre quando esci da un'app\" in Preferenze di Sistema";
 
 "Ignore" = "Ignora";
 "Choose Default Folder" = "Scegli cartella predefinita";

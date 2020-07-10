@@ -239,7 +239,7 @@
 "Restore last closed files and folders" = "重新開啟上次使用的檔案和資料夾";
 "Open custom folder" = "開啟指定的資料夾";
 "Select custom folder" = "選擇指定的資料夾";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "此選項可能會被系統設定給覆蓋掉";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "此選項可能會被系統設定給覆蓋掉";
 
 "Ignore" = "略過";
 "Choose Default Folder" = "選擇預設資料夾";

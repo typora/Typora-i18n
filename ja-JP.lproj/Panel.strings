@@ -245,7 +245,7 @@ Japanese translated by
 "Restore last closed files and folders" = "最後に閉じたファイルとフォルダを復元";
 "Open custom folder" = "指定したフォルダを開く";
 "Select custom folder" = "フォルダを指定";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "このオプションは、システム環境設定の \"アプリケーションを保存するときにウィンドウを閉じる\" に上書きされる可能性があります。";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "このオプションは、システム環境設定の \"アプリケーションを保存するときにウィンドウを閉じる\" に上書きされる可能性があります。";
 
 "Ignore" = "無視する";
 "Choose Default Folder" = "デフォルトのフォルダを選択する";

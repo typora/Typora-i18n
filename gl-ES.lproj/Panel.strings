@@ -236,7 +236,7 @@
 "Restore last closed files and folders" = "Restaurar os últimos arquivos e cartafoles pechados";
 "Open custom folder" = "Abrir o cartafol personalizado";
 "Select custom folder" = "Seleccionar o cartafol personalizado";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Esta opción pode ser anulada por \"Pechar ventás ao sair dunha aplicación\" en Preferencias do Sistema";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Esta opción pode ser anulada por \"Pechar ventás ao sair dunha aplicación\" en Preferencias do Sistema";
 
 "Ignore" = "Ignorar";
 "Choose Default Folder" = "Escoller o cartafol predefinido";

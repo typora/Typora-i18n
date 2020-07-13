@@ -237,7 +237,7 @@
 "Restore last closed files and folders" = "Restore last closed files and folders";
 "Open custom folder" = "Open custom folder";
 "Select custom folder" = "Select custom folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an app\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
 
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choose Default Folder";
@@ -359,3 +359,6 @@
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
 
 "Export operation finished successfully." = "Export operation finished successfully.";
+
+"Shortcut Keys" = "Shortcut Keys";
+"Custom Shortcut Keys" = "Custom Shortcut Keys";

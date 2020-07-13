@@ -239,7 +239,7 @@
 "Restore last closed files and folders" = "Відновити останні закриті файли і директорії";
 "Open custom folder" = "Відкрити власну директорію";
 "Select custom folder" = "Вибрати власну директорію";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Ця опція може бути перекрита Системним параметром \"Закрити вікна при закритті застосунку\" ";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Ця опція може бути перекрита Системним параметром \"Закрити вікна при закритті застосунку\" ";
 
 "Ignore" = "Ігнорувати";
 "Choose Default Folder" = "Вибрати директорію за замовчуванням";

@@ -237,7 +237,7 @@
 "Restore last closed files and folders" = "przywróć ostatnio zamknięte pliki i foldery";
 "Open custom folder" = "otwórz własny folder";
 "Select custom folder" = "Wybierz własny folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Ta opcja może być uchylona ustawieniem \"Zamykaj okna, gdy zamykam aplikacje\" w Preferencjach systemowych";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Ta opcja może być uchylona ustawieniem \"Zamykaj okna, gdy zamykam aplikacje\" w Preferencjach systemowych";
 
 "Ignore" = "Ignoruj";
 "Choose Default Folder" = "Wybierz folder domyślny";

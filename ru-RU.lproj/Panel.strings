@@ -239,7 +239,7 @@
 "Restore last closed files and folders" = "Восстановить последние закрытые файлы и папки";
 "Open custom folder" = "Открыть указанную папку";
 "Select custom folder" = "Выберите папку";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Этот параметр может быть перезаписан \"Закрывать окна при завершении работы программы\" в системных настройках (Mac OS)";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Этот параметр может быть перезаписан \"Закрывать окна при завершении работы программы\" в системных настройках (Mac OS)";
 
 "Ignore" = "Игнорировать";
 "Choose Default Folder" = "Выбрать папку по умолчанию";

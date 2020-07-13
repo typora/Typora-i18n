@@ -246,7 +246,7 @@
 "Restore last closed files and folders" = "마지막 파일과 폴더 열기";
 "Open custom folder" = "사용자 정의 폴더 열기";
 "Select custom folder" = "사용자 정의 폴더 선택";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "이 옵션은 시스템 환경설정의 \"Typora 종료 시 윈도우 닫기\" 옵션에 의해 변경될 수 있습니다.";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "이 옵션은 시스템 환경설정의 \"Typora 종료 시 윈도우 닫기\" 옵션에 의해 변경될 수 있습니다.";
 
 "Ignore" = "무시";
 "Choose Default Folder" = "기본 폴더 선택";

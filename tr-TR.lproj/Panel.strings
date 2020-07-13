@@ -237,7 +237,7 @@
 "Restore last closed files and folders" = "En son kapatılmış dosya ve klasörleri kurtar";
 "Open custom folder" = "Özel dosya aç";
 "Select custom folder" = "Özel dosya seç";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Bu seçenek Sistem Ayarlarında \"Bir uygulamadan çıkarken pencereleri kapat\" tarafından iptal edilmiş olabilir";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Bu seçenek Sistem Ayarlarında \"Bir uygulamadan çıkarken pencereleri kapat\" tarafından iptal edilmiş olabilir";
 
 "Ignore" = "Görmezden gel";
 "Choose Default Folder" = "Varsayılan Klasörü Seç";

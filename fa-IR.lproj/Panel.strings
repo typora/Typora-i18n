@@ -241,7 +241,7 @@
 "Restore last closed files and folders" = "بازیابی آخرین پوشه‌ها و فایل‌های بسته شده";
 "Open custom folder" = "باز کردن پوشه‌ی سفارشی";
 "Select custom folder" = "انتخاب پوشه‌ی سفارشی";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "این گزینه ممکن است بواسطه‌ی \"بستن پنجره‌ها در هنگام خروج از یک اپلیکیشن\" در تنظیمات سیستم، لغو شده باشد‫.‬";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "این گزینه ممکن است بواسطه‌ی \"بستن پنجره‌ها در هنگام خروج از یک اپلیکیشن\" در تنظیمات سیستم، لغو شده باشد‫.‬";
 
 "Ignore" = "نادیده گرفتن";
 "Choose Default Folder" = "انتخاب پوشه‌ی پیش‌فرض";

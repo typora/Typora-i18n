@@ -1,0 +1,308 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+نقله للعربية
+ أحمد العلق
+*/
+
+/* Typora Menu */
+
+"About Typora" = "حول تايبورا";
+"Preferences" = "Preferences";
+"Check for Updates" = "تحقق من وجود تحديثات";
+"Services" = "خدمات";
+"Hide Typora" = "إخفاء تايبورا";
+"Hide Others" = "إخفاء الأخرى";
+"Show All" = "إظهار الكل";
+"Quit Typora" = "إغلاق تايبورا";
+
+/* File Menu */
+
+"File" = "ملف";
+"New" = "جديد";
+"Open" = "فتح";
+"Open Folder" = "فتح مجلد";
+"Reopen with Encoding" = "إعادة فتح مع الترميز";
+"Auto" = "تلقائي";
+"Open Recent" = "Open Recent";
+"Recent Locations" = "Recent Locations";
+"Clear Items" = "Clear Items";
+"No Recent Files" = "No Recent Files";
+"Open Quickly" = "Open Quickly";
+"Open File Location" = "فتح مسار الملف";
+"Reveal in Library" = "عرض في المكتبة";
+"Reveal in File Tree" = "عرض في شجرة الملفات";
+"Close" = "إغلاق";
+"Save" = "حفظ";
+"Save As" = "حفظ كـ";
+"Duplicate" = "Duplicate";
+"Rename" = "إعادة تسمية";
+"Move To" = "نقل لـ";
+"Revert To" = "Revert To";
+"Browse All Versions" = "استعراض كل النسخ";
+"Import" = "استيراد";
+"Export" = "تصدير";
+"Page Setup" = "Page Setup";
+"Print" = "طباعة";
+
+/* Edit Menu */
+"Edit" = "تعديل";
+"Undo" = "Undo";
+"Redo" = "Redo";
+"Cut" = "قص";
+"Copy" = "نسخ";
+"Paste" = "لصق";
+"Copy as Markdown" = "نسخ هيئة المارك داون";
+"Copy as HTML Code" = "Copy as HTML Code";
+"Paste as Plain Text" = "Paste as Plain Text";
+"Select All" = "تحديد الكل";
+"Select Line/Sentence" = "تحديد سطر/جملة";
+"Select Styled Scope" = "Select Styled Scope";
+"Select Word" = "تحديد كلمة";
+"Delete" = "حذف";
+"Delete Range" = "Delete Range";
+"Delete Word" = "حذف كلمة";
+"Delete Styled Scope" = "Delete Styled Scope";
+"Delete Line/Sentence" = "حذف سطر/جملة";
+"Jump To" = "قفز إلى";
+"Jump to Top" = "قفز إلى الأعلى";
+"Jump to Selection" = "قفز إلى المحدد";
+"Jump to Bottom" = "قفز إلى الأسفل";
+"Math Tools" = "أدوات الرياضيات";
+"Refresh All Math Expressions" = "تحديث كل العبارات الرياضية";
+"Image Tools" = "أدوات الصور";
+"Insert Local Images" = "إدخال صور محلية";
+"Upload Local Images via iPic" = "رفع الصور المحلية عبر iPic";
+"When Insert Local Image" = "When Insert Local Image";
+"Copy Image File to Folder" = "Copy Image File to Folder";
+"Use Image Root Path" = "Use Image Root Path";
+"Line Endings" = "Line Endings";
+"Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
+"Unix Line Endings (LF)" = "Unix Line Endings (LF)";
+"Find" = "بحث";
+"Find Next" = "بحث التالي";
+"Find Previous" = "بحث السابق";
+"Find and Replace" = "بحث واستبدال";
+"Replace" = "استبدال";
+"Replace Next" = "استبدال التالي";
+"Spelling and Grammar" = "التصحيح القواعدي والإملائي";
+"Check Document Now" = "Check Document Now";
+"Check Spelling While Typing" = "Check Spelling While Typing";
+"Check Grammar With Spelling" = "Check Grammar With Spelling";
+"Correct Spelling Automatically" = "Correct Spelling Automatically";
+"Substitutions" = "Substitutions";
+"Smart Quotes" = "Smart Quotes";
+"Smart Dashes" = "Smart Dashes";
+"Text Replacement" = "Text Replacement";
+"Speech" = "Speech";
+"Start Speaking" = "Start Speech";
+"Stop Speaking" = "Stop Speech";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraph";
+"Heading 1" = "عنوان 1";
+"Heading 2" = "عنوان 2";
+"Heading 3" = "عنوان 3";
+"Heading 4" = "عنوان 4";
+"Heading 5" = "عنوان 5";
+"Heading 6" = "عنوان 6";
+"Increase Heading Level" = "زيادة مستوى العنوان";
+"Decrease Heading Level" = "تنقيص مستوى العنوان";
+"Table" = "جدول";
+"Code Fences" = "Code Fences";
+"Math Block" = "Math Block";
+"Quote" = "اقتباس";
+"Ordered List" = "قائمة مرتبة";
+"Unordered List" = "قائمة غير مرتبة";
+"Task List" = "Task List";
+"Task Status" = "Task Status";
+"Toggle Task Status" = "Toggle Task Status";
+"Mark as Complete" = "Mark as Complete";
+"Mark as Incomplete" = "Mark as Incomplete";
+"List Indentation" = "List Indentation";
+"Indent" = "Indent";
+"Outdent" = "Outdent";
+"Link Reference" = "Link Reference";
+"Footnotes" = "Footnotes";
+"Horizontal Line" = "خط عرضي";
+"Table of Contents" = "قائمة المحتويات";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Strong";
+"Emphasis" = "Emphasis";
+"Underline" = "Underline";
+"Code" = "Code";
+"Inline Math" = "Inline Math";
+"Strike" = "Strike";
+"Highlight" = "Highlight";
+"Superscript" = "Superscript";
+"Subscript" = "Subscript";
+"Comment" = "Comment";
+"Hyperlink" = "Hyperlink";
+"Image" = "Image";
+"Clear Format" = "Clear Format";
+
+/* View Menu */
+"View" = "View";
+"New Tab" = "New Tab";
+"Source Code Mode" = "Source Code Mode";
+"Focus Mode" = "Focus Mode";
+"Typewriter Mode" = "Typewriter Mode";
+"Toggle Sidebar" = "Toggle Sidebar";
+"Outline" = "Outline";
+"Articles" = "Articles";
+"File Tree" = "File Tree";
+"Always on Top" = "Always on Top";
+"Full Screen" = "شاشة كاملة";
+"Show Status Bar" = "Show Status Bar";
+"Toggle Fullscreen" = "Toggle Fullscreen";
+"Actual Size" = "Actual Size";
+"Zoom In" = "Zoom In";
+"Zoom Out" = "Zoom Out";
+"Switch Between Opened Documents" = "Switch Between Opened Documents";
+"Toggle DevTools" = "Toggle DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Themes";
+
+/* Window Menu */
+"Window" = "نافذة";
+"Minimize" = "تصغير";
+"Zoom" = "تكبير";
+"Bring All to Front" = "Bring All to Front";
+
+/* Help Menu */
+"Help" = "مساعدة";
+"Privacy Policy" = "سياسة الخصوصية";
+"Credits" = "الحقوق";
+"Change Log" = "ما الجديد";
+"Website" = "الموقع";
+"Feedback" = "للاقتراحات";
+"About" = "عن";
+
+/* Touchbar */
+"Block Styles" = "Block Styles";
+"Inline Styles" = "Inline Styles";
+"List Styles / Remove Block" = "List Styles / Remove Block";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+
+/* Extra Context Menu */
+"Table" = "Table";
+"Add Row Above" = "إضافة صف إلى الأعلى";
+"Add Row Below" = "إضافة صف إلى الأسفل";
+"Delete Row" = "حذف صف";
+"Add Column Before" = "إضافة عمود لليسار";
+"Add Column After" = "إضافة عمود لليمين";
+"Delete Column" = "حذف عمود";
+"Copy Table" = "نسخ الجدول";
+"Delete Table" = "حذف الجدول";
+"Insert Paragraph After" = "إضافة فقرة إلى الأعلى";
+"Insert Paragraph Before" = "إضافة فقرة إلى الأسفل";
+"Delete Code Block" = "Delete Code Block";
+"Copy as MathML" = "Copy as MathML";
+"Copy as Tex" = "نسخ كـ Tex";
+"Copy Math" = "نسخ الرموز الرياضياتية";
+"Reveal in Finder" = "إظهار في الباحث";
+"Open Link" = "فتح الرابط";
+"Reveal in Sidebar" = "فتح في القائمة الجانبية";
+"Open in New Window" = "فتح في نافذة جانبية";
+"Copy File Path" = "نسخ مسار الملف";
+"New File" = "ملف جديد";
+"Rename" = "إعادة تسمية";
+"New Folder" = "مجلد جديد";
+"Move to Trash" = "نقل لسلة المهملات";
+
+/* Electron */
+"Learn Spelling" = "Learn Spelling";
+"Copy / Paste As…" = "نسخ / لصق كـ…";
+"Math" = "رياضيات";
+"Insert" = "إدراج";
+"Inspect Element" = "فخص العنصر";
+"Copy to MS Word" = "نسخ لمايكروسوفت ورد";
+"Paragraph (before)" = "فقرة (قبل)";
+"Paragraph (after)" = "فقرة (بعد)";
+
+"Search with Google" = "بحث جوجل";
+"Search With…" = "البحث بـ…";
+
+/* Related Panel */
+"Open Failed" = "الفتح فشل";
+"File or folder does not exist." = "الملف أو المجلد غير موجود.";
+
+"Prettify Source Code" = "تجميل النص المصدري";
+"Copy '%@'" = "نسخ '%@'";
+"Copy to %@" = "نسخ لـ %@";
+"Copy Image to" = "نسخ الصورة لـ";
+"Open Image Location" = "فتح مسار الصورة";
+
+"Learn More" = "اعرف أكثر";
+"Whitespace and Line Breaks" = "المسافات والسطور";
+"Indent first line of paragraphs" = "وضع مسافة لأول سطر";
+"Preserve single line break" = "Preserve single line break";
+"Visible <br/>" = "ظاهر <br/>";
+
+"Save All" = "حفظ الكل";
+"New Window" = "نافذة جديدة";
+"Reopen Closed File" = "إعادة فتح الملف المغلق";
+
+"Global Image Settings" = "Global Image Settings";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Convert on Input";
+"Convert on Rendering" = "Convert on Rendering";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "More Options";
+
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "تشغيل";
+"Pause" = "إيقاف مؤقت";
+
+"Spell Check" = "تصحيح إملائي";
+"Unlearn Spelling" = "Unlearn Spelling";
+"Properties" = "خصائص";
+
+"Search" = "بحث";
+"Copy without Theme Styling" = "نسخ بدون النمط";
+"Recent Files" = "الملفات الحديثة";
+"File Results" = "نتائج الملف";
+
+"Insert Table" = "إدراج جدول";
+"Insert Image" = "إدراج صورة";
+"Allow Magnification" = "السماح بالتكبير";
+
+"Move Row Up" = "حرك الصف إلى الأعلى";
+"Move Row Down" = "حرك الصف إلى الأسفل";
+"Move Column Left" = "حرك العمود إلى اليسار";
+"Move Column Right" = "حرك العمود إلى اليمين";
+
+"Zoom Image" = "Zoom Image";
+"Zoom Image to %@" = "Zoom Image to %@";
+
+"Copy as Plain Text" = "نسخ كنص مجرد";
+
+"Selection" = "تحديد";
+"Start Speaking" = "Start Speaking";
+"Stop Speaking" = "Stop Speaking";
+"Check Updates" = "Check Updates";
+
+"HTML (without Styles)" = "HTML (بلا نمط)";
+
+"Highlight Current Header" = "Highlight Current Header";
+"Expand All" = "توسيع الكل";
+"Collapse All" = "طي الكل";
+"Collapsible Outline" = "موجز قابل للطي";
+"Flat Outline" = "موجز مسطح";
+"Articles (List View)" = "المستندات (عرض كقائمة)";
+"File Tree (Tree View)" = "شجرة الملفات (عرض كشجرة)";
+"Filter" = "تنقية";
+
+"Upload Image" = "رفع صورة";
+"Upload All Local Images" = "رفع جميع الصور المحلية";
+"Open Image in Browser" = "فتح الصورة في المتصفح";

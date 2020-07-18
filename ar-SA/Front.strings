@@ -1,0 +1,179 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ نقله للعربية
+ أحمد العلق
+
+*/
+
+/* Common */
+"OK" = "حسنًا";
+"Cancel" = "إلغاء";
+"Yes" = "نعم";
+"No" = "لا";
+"Close" = "إغلاق";
+"Select" = "تحديد";
+"Continue" = "متابعة";
+"Learn More…" = "معرفة المزيد";
+"Untitled" = "بدون عنوان";
+"Undo" = "إعادة";
+"Dismiss" = "تجاهل";
+"Confirm" = "تأكيد";
+"Error" = "خطأ";
+
+/* Search Panel */
+"Search" = "بحث";
+"Replace" = "استبدال";
+"All" = "الكل";
+"Search text not found in article" = "لم يتم العثور على نص البحث في المستند";
+"search text" = "بحث النص";
+
+/* Quick Open */
+"Search by file name" = "البحث باسم الملف";
+"Searching" = "جار البحث";
+"Gathering more results" = "جمع نتائج أكثر";
+
+/* Tables */
+"Insert Table" = "إدراج جدول";
+"Columns" = "أعمدة";
+"Rows" = "صفوف";
+"Align Left" = "محاذاة لليسار";
+"Align Center" = "محاذاة للوسط";
+"Align Right" = "محاذاة لليمين";
+"Resize Table" = "تعديل حجم الجدول";
+"Delete Table" = "حذف الجدول";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Create Folder" = "إنشاء مجلد";
+
+/* Math */
+"Edit" = "تعديل";
+"Delete Math" = "حذف الرموز الرياضياتية";
+"Preview" = "معاينة";
+
+/* Sidebar */
+"Articles" = "المستندات";
+"Outline" = "موجز";
+"Files" = "الملفات";
+"Switch to File List view" = "Switch to File List view";
+"Switch to File Tree view" = "Switch to File Tree view";
+"Switch to Outline view" = "Switch to Outline view";
+"Close sidebar" = "إغلاق الشريط الجانبي";
+"Loading" = "جار التحميل";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
+"New File" = "ملف جديد";
+"Unpin Outline Panel" = "إلغاء تثبيت لوحة الموجز";
+"Open Folder..." = "فتح ملف...";
+"Action" = "إجراء";
+"Close Sidebar Menu" = "إغلاق الشريط الجانبي";
+"Reveal in Finder" = "العرض في الباحث";
+"Reveal in File Explorer" = "العرض في مستكشف الملفات";
+"Refresh Folder" = "تحديث الملف";
+"Sort" = "ترتيب";
+"Group By Folder" = "تجميع حسب المجلد";
+"Sort Naturally (Ascending)" = "Sort Naturally (Ascending)";
+"Sort Naturally (Descending)" = "Sort Naturally (Descending)";
+"Sort by Name (Ascending)" = "Sort by Name (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
+"Sort by Name (Descending)" = "Sort by Name (Descending)";
+"Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
+"Location" = "Location";
+"Switch File List/Tree View" = "Switch File List/Tree View";
+"No Files Available" = "لا يوجد ملفات متاحة";
+"No Folder is Opened." = "لا يوجد مجلد مفتوح.";
+"Outline is Empty." = "الموجز فارغ.";
+
+/* Status Bar */
+"Toggle Sidebar" = "إظهار وإخفاء الشريط الجانبي";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+
+"Table of Contents" = "جدول المحتويات";
+"Empty Diagram" = "Empty Diagram";
+"Input Math TeX here" = "إدخال رموز ماث تيكس الرياضياتية هنا";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "فشل في إنشاء الملف";
+"Failed to create folder" = "فشل في إنشاء المجلد";
+"Failed to rename file" = "فشل في إعادة تسمية الملف";
+"Folder does not exist at %@" = "المجلد غير موجود في %@";
+"File with the same name already exists at target path" = "يوجد ملف يحمل نفس الاسم في المسار المحدد";
+"Apply to All" = "Apply to All";
+"Overwrite" = "Overwrite";
+"Stop" = "Stop";
+"back to document" = "العودة للمستند";
+"Failed to load file" = "تحمل الملف فشل";
+"Save File Failed!" = "حفظ الملف فشل!";
+"Cannot open folder {0}" = "لا يمكن فتح المجلد {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+
+"Rename to \"{0}\" ?" = "إعادة التسمية لـ \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "إعادة التسمية فشلت من \"{0}\" لـ \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "رفعت {0} صور بنجاح.";
+"Failed to upload image. Error Message:" = "تحميل الصورة فشل. رسالة خطأ:";
+"Failed to Copy Image to Target Folder." = "فشل في نسخ الصورة إلى المجلد المحدد.";
+"Select Container Folder" = "Select Container Folder";
+
+"Saved" = "Saved";
+
+/* place holder in find & replace input */
+"search text" = "بحث النص";
+"replace with" = "استبدال بـ";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "كلمة كاملة";
+
+"input image URL" = "input image URL";
+"Select image from local file" = "تحديد صورة من ملف محلي";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "تحديد لغة";
+"Finish Editing" = "انتهاء التعديل";
+
+"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+
+"Select Spell Check Language" = "تحديد مصحح اللغة الإملائي";
+"Auto Detect Language" = "تحديد لغة تلقائي";
+"Disable Spell Check" = "تعطيل المصحح الإملائي";
+"Global Setting…" = "Global Setting…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
+"Install Language Support" = "تحميل دعم اللغة";
+"License Information" = "معلومات الرخصة";
+"Download" = "تحميل";
+"Install dictionary file only for Typora" = "تحميل قاموس فقط لتايبورا";
+"Spell Check (%@ unavailable)" = "المصحح الإملائي (%@ غير متاح)";
+"Spell Check (%@ downloading)" = "المصحح الإملائي (%@ يحمل)";
+"Download dictionary file for %@" = "تحميل القاموس %@";
+"(Default spell check option)" = "(خيار المصحح الإملائي الافتراضي)";
+"Failed to load spellcheck module" = "فشل في تحميل جزئية المصحح الإملائي";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> تم تشغيله.";
+"You could turn it off from `View` menu." = "تستطيع إيقافه من قائمة `عرض`.";
+"The file is too large to render in Typora." = "الملف كبير جدًا على تايبورا.";
+"Open in…" = "فتح في…";
+"Quick Look" = "نظرة سريعة";
+
+"Filter" = "تصفية";
+"No result found." = "لا نتائج";
+"Continue & Overwrite" = "المتابعة والكتابة";
+"The file is read-only, or you do not have right permissions to modify the file." = "إما أن الملف للقراءة فقط أو ليس لديك صلاحيات لتعديله.";
+
+"Learn Data Recovery" = "Learn Data Recovery";
+"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "حذف نهائي";
+
+
+"Failed to upload images:" = "فشل في رفع الصور:";
+"Uploading in progress" = "جار الرفع";
+"Successfully uploaded {0} images, {1} failed." = "رفعت  {0} صور بنجاح و{1} فشلت.";

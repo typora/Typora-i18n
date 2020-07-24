@@ -58,9 +58,9 @@
 "Articles" = "المستندات";
 "Outline" = "موجز";
 "Files" = "الملفات";
-"Switch to File List view" = "Switch to File List view";
-"Switch to File Tree view" = "Switch to File Tree view";
-"Switch to Outline view" = "Switch to Outline view";
+"Switch to File List view" = "تبديل لوضعية قائمة الملفات";
+"Switch to File Tree view" = "تبديل لوضعية شجرة الملفات";
+"Switch to Outline view" = "تبديل لوضعية الموجز";
 "Close sidebar" = "إغلاق الشريط الجانبي";
 "Loading" = "جار التحميل";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
@@ -74,14 +74,14 @@
 "Refresh Folder" = "تحديث الملف";
 "Sort" = "ترتيب";
 "Group By Folder" = "تجميع حسب المجلد";
-"Sort Naturally (Ascending)" = "Sort Naturally (Ascending)";
-"Sort Naturally (Descending)" = "Sort Naturally (Descending)";
-"Sort by Name (Ascending)" = "Sort by Name (Ascending)";
-"Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
-"Sort by Name (Descending)" = "Sort by Name (Descending)";
-"Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
-"Location" = "Location";
-"Switch File List/Tree View" = "Switch File List/Tree View";
+"Sort Naturally (Ascending)" = "ترتيب طبيعي (Ascending)";
+"Sort Naturally (Descending)" = "ترتيب طبيعي (Descending)";
+"Sort by Name (Ascending)" = "ترتيب حسب الاسم (Ascending)";
+"Sort by Modification Date (Ascending)" = "ترتيب حسب تاريخ التعديل (Ascending)";
+"Sort by Name (Descending)" = "ترتيب حسب الاسم (Descending)";
+"Sort by Modification Date (Descending)" = "ترتيب حسب تاريخ التعديل (Descending)";
+"Location" = "مسار";
+"Switch File List/Tree View" = "تبديل العرض لقائمة/شجرة الملفات";
 "No Files Available" = "لا يوجد ملفات متاحة";
 "No Folder is Opened." = "لا يوجد مجلد مفتوح.";
 "Outline is Empty." = "الموجز فارغ.";
@@ -92,7 +92,7 @@
 "Exit Source Code Mode" = "Exit Source Code Mode";
 
 "Table of Contents" = "جدول المحتويات";
-"Empty Diagram" = "Empty Diagram";
+"Empty Diagram" = "إفراغ الرسم البياني";
 "Input Math TeX here" = "إدخال رموز ماث تيكس الرياضياتية هنا";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
@@ -167,7 +167,7 @@
 "Filter" = "تصفية";
 "No result found." = "لا نتائج";
 "Continue & Overwrite" = "المتابعة والكتابة";
-"The file is read-only, or you do not have right permissions to modify the file." = "إما أن الملف للقراءة فقط أو ليس لديك صلاحيات لتعديله.";
+"The file is read-only, or you do not have right permissions to modify the file." = "إما أن الملف للقراءة فقط أو ليس لديك صلاحيات تعديله.";
 
 "Learn Data Recovery" = "Learn Data Recovery";
 "Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";

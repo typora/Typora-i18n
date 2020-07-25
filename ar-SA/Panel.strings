@@ -40,8 +40,8 @@
 "only apply to quotes and lists created from menu bar or hybrid view" = "only apply to quotes and lists created from menu bar or hybrid view";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
-"Images Insert" = "Images Insert";
-"Use relative path if possible" = "Use relative path if possible";
+"Images Insert" = "إدراج صورة";
+"Use relative path if possible" = "استخدام مسار نسبي لو أمكن";
 "Auto Pair" = "Auto Pair";
 "Auto pair brackets and quotes" = "Auto pair brackets and quotes";
 "Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
@@ -49,7 +49,7 @@
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
 "Default Copy Behavior" = "Default Copy Behavior";
 "Copy Markdown source as plain text" = "Copy Markdown source as plain text";
-"Typewriter Mode" = "Typewriter Mode";
+"Typewriter Mode" = "وضعية الآلة الكاتبة";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
 
 /* Markdown Panel */
@@ -82,7 +82,7 @@
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "يتطلب Pandoc للمتابعة...";
 "Follow instructions to install Pandoc" = "تابع التعليمات لتثبيت Pandoc";
-"Cancel" = "Cancel";
+"Cancel" = "إلغاء";
 
 /* Pandoc Import Panel */
 "Importing..." = "استيراد...";
@@ -162,12 +162,12 @@
 /* Image relates on macOS */
 "This function requires latest version of iPic to be installed." = "This function requires latest version of iPic to be installed.";
 "Get iPic" = "Get iPic";
-"Cannot Continue…" = "Cannot Continue…";
-"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
-"One More Step" = "One More Step";
-"Notice" = "Notice";
+"Cannot Continue…" = "لا يمكن المتابعة…";
+"This feature require macOS >= 10.11" = "هذه الخاصية تتطلب نسخة macOS >= 10.11";
+"One More Step" = "خطوة أخرى";
+"Notice" = "تنبيه";
 
-"%d Images Failed to Upload." = "%d Images Failed to Upload.";
+"%d Images Failed to Upload." = "%d صور فشلت في الرفع.";
 "%d Succeeded," = "%d Succeeded, ";
 "Enable this feature on preferences panel" = "Enable this feature on preferences panel";
 "The option `%@` must be enabled first to automatically upload images." = "The option `%@` must be enabled first to automatically upload images.";
@@ -191,29 +191,29 @@
 "Menu" = "Menu";
 "Back" = "Back";
 
-"Contact" = "Contact";
-"Open From..." = "Open From...";
-"Import..." = "Import...";
-"Recent Documents" = "Recent Documents";
-"Search for" = "Search";
+"Contact" = "تواصل";
+"Open From..." = "فتح من...";
+"Import..." = "استيراد...";
+"Recent Documents" = "مستندات حديثة";
+"Search for" = "بحث";
 "Clear Recent Documents" = "Clear Recent Documents";
-"File Name" = "File Name";
-"Path" = "Path";
-"Export As..." = "Export As...";
-"More Formats" = "More Formats";
+"File Name" = "اسم الملف";
+"Path" = "مسار";
+"Export As..." = "تصدير كـ...";
+"More Formats" = "هيئات أخرى";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
 "Something is Wrong…" = "Something is Wrong…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
 "Copy Content" = "Copy Content";
 
 
-"Total" = "Total";
+"Total" = "مجموع";
 "Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
 "Indent Size for Code" = "Indent Size for Code";
 "Auto wrap long lines" = "Auto wrap long lines";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
-"Export to PDF" = "Export to PDF";
+"Export to PDF" = "تصدير كـ PDF";
 "Pretty indentation" = "Pretty indentation";
 "Update markdown reference for this image" = "Update markdown reference for this image";
 

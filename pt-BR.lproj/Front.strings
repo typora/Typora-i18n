@@ -21,15 +21,15 @@
 "Error" = "Erro";
 
 /* Search Panel */
-"Search" = "Pesquisar";
+"Search" = "Buscar";
 "Replace" = "Substituir";
 "All" = "Todos";
 "Search text not found in article" = "Busca de texto não encontrada no artigo";
 "search text" = "texto para busca";
 
 /* Quick Open */
-"Search by file name" = "Pesquisar pelo nome do arquivo";
-"Searching" = "Pesquisando";
+"Search by file name" = "Buscar pelo nome do arquivo";
+"Searching" = "Buscando";
 "Gathering more results" = "Obtendo mais resultados";
 
 /* Tables */
@@ -43,6 +43,7 @@
 "Delete Table" = "Remover Tabela";
 
 /* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imagem recém inserida para a pasta <code id='image-create-folder-target'></code> de acordo com seu ajuste de YAML Front Matter ou suas preferências globais. No entanto, a pasta de destino não existe, criar agora?";
 "Create Folder" = "Criar Pasta";
 
 /* Math */
@@ -54,12 +55,12 @@
 "Articles" = "Artigos";
 "Outline" = "Índices";
 "Files" = "Arquivos";
-"Switch to File List view" = "Visualizar como Lista";
-"Switch to File Tree view" = "Visualizar como Árvore";
-"Switch to Outline view" = "Visualizar como Tópicos";
+"Switch to File List view" = "Visualizar em Lista";
+"Switch to File Tree view" = "Visualizar em Árvore";
+"Switch to Outline view" = "Visualizar em Tópicos";
 "Close sidebar" = "Fechar barra lateral";
 "Loading" = "Carregando";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A pasta selecionada possui muitos arquivos. \nPor favor alterne para <a id='switch-to-tree-on-oversize'>Árvore de Arquivos</a> para melhorar o desempenho.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A pasta selecionada possui muitos arquivos. \nPor favor alterne para <a id='switch-to-tree-on-oversize'>Visualização em Árvore</a> para melhorar o desempenho.";
 "New File" = "Novo Arquivo";
 "Unpin Outline Panel" = "Desafixar Tópicos";
 "Open Folder..." = "Abrir Pasta...";
@@ -70,7 +71,8 @@
 "Refresh Folder" = "Atualizar Pasta";
 "Sort" = "Ordenar";
 "Group By Folder" = "Ordenar por Pasta";
-"Sort Naturally" = "Ordenar Naturalmente";
+"Sort Naturally (Ascending)" = "Ordenar Naturalmente (Crescente)";
+"Sort Naturally (Descending)" = "Ordenar Naturalmente (Decrescente)";
 "Sort by Name (Ascending)" = "Ordenar por Nome (Crescente)";
 "Sort by Modification Date (Ascending)" = "Ordenar por Data de Modificação (Crescente)";
 "Sort by Name (Descending)" = "Ordenar por Nome (Decrescente)";
@@ -79,14 +81,14 @@
 "Switch File List/Tree View" = "Alternar Visualização em Lista/Árvore";
 "No Files Available" = "Nenhum Arquivo Disponível";
 "No Folder is Opened." = "Nenhuma Pasta está Aberta.";
-"Outline is Empty." = "Estrutura está Vazia.";
+"Outline is Empty." = "Sem Índices.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Exibir Barra Lateral";
 "Toggle Source Code Mode" = "Entrar no Modo Código Fonte";
 "Exit Source Code Mode" = "Sair do Modo Código Fonte";
 
-"Table of Contents" = "Índice";
+"Table of Contents" = "Tabela de Conteúdos";
 "Empty Diagram" = "Diagrama Vazio";
 "Input Math TeX here" = "Insira Equação TeX aqui";
 
@@ -111,7 +113,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "O conteúdo do arquivo foi modificado por aplicativos externos. Recarregar o conteúdo do disco?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Deseja continuar a sobrescrever o(s) arquivo(s) existente(s) ?";
 
-"Rename Failed" = "Erro ao Renomear";
 "Rename to \"{0}\" ?" = "Renomear para \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Erro ao renomear de \"{0}\" para \"{1}\"";
 
@@ -129,3 +130,47 @@
 /* search option */
 "Case Sensitive" = "Distinguir Maiúsculas e Minúsculas";
 "Whole Word" = "Palavra Exata";
+
+"input image URL" = "URL da imagem da entrada";
+"Select image from local file" = "Selecionar imagem de um arquivo local";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "A localização <code>$1</code> não pôde ser aberta, você quis dizer <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "selecionar um idioma";
+"Finish Editing" = "Concluir Edição";
+
+"Revert advanced setting file to default one ?" = "Reverter o arquivo de ajustes avançados para o padrão ?";
+
+"Select Spell Check Language" = "Selecionar o Idioma da Verificação Ortográfica";
+"Auto Detect Language" = "Detectar Idioma Automaticamente";
+"Disable Spell Check" = "Desabilitar Verificação Ortográfica";
+"Global Setting…" = "Ajuste Global...";
+"Dictionary file is missing to enable spellcheck support for %@." = "Arquivo de dicionário ausente para habilitar suporte à verificação ortográfica para %@.";
+"Install Language Support" = "Instalar Suporte ao Idioma";
+"License Information" = "Informação de Licensa";
+"Download" = "Baixar";
+"Install dictionary file only for Typora" = "Instalar arquivo de dicionário somente para o Typora";
+"Spell Check (%@ unavailable)" = "Verificação Ortográfica (%@ indisponível)";
+"Spell Check (%@ downloading)" = "Verificação Ortográfica (%@ baixando)";
+"Download dictionary file for %@" = "Baixar arquivo de dicionário para %@";
+"(Default spell check option)" = "(Opção de verificação ortográfica padrão)";
+"Failed to load spellcheck module" = "Falha ao carregar o módulo de verificação ortográfica";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> foi habilitado.";
+"You could turn it off from `View` menu." = "Você pode desabilitá-lo no menu `Visualização";
+"The file is too large to render in Typora." = "O arquivo é muito grande para renderizar no Typora.";
+"Open in…" = "Abrir no";
+"Quick Look" = "Visualização Rápida";
+
+"Filter" = "Filtrar";
+"No result found." = "Nenhum resultado encontrado.";
+"Continue & Overwrite" = "Continuar & Sobrescrever";
+"The file is read-only, or you do not have right permissions to modify the file." = "O arquivo só permite leitura ou você não tem permissão para modificá-lo.";
+
+"Learn Data Recovery" = "Aprender Recuperação de Dados";
+"Auto refresh on Files Panel cannot be enabled." = "Atualização automática no Painel de Arquivos não pôde ser habilitada.";
+"Delete Permanently" = "Remover Permanentemente";
+
+
+"Failed to upload images:" = "Erro ao carregar imagens:";
+"Uploading in progress" = "Carregamento em processo";
+"Successfully uploaded {0} images, {1} failed." = "{0} imagens carregadas com sucesso, {1} falharam.";

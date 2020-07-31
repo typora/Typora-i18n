@@ -27,8 +27,8 @@
 "Customized" = "خاص";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
 "Left Panel" = "اللوحة اليسرى";
-"Show Outline Panel by Default" = "Show Outline Panel by Default";
-"Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
+"Show Outline Panel by Default" = "إظهار الموجز تلقائيًا";
+"Collapsible Outline on Left Panel" = "موجز قابل للطي على القائمة اليسرى";
 "Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
 "Language" = "اللغة";
@@ -36,47 +36,47 @@
 
 /* Editor Panel */
 "Editor" = "محرر";
-"Indent Size on Save" = "Indent Size on Save";
-"only apply to quotes and lists created from menu bar or hybrid view" = "only apply to quotes and lists created from menu bar or hybrid view";
+"Indent Size on Save" = "Indent Size on Save";Indent Size on
+"only apply to quotes and lists created from menu bar or hybrid view" = "طبق فقط على الاقتباسات والقوائم المنشئة من شريط القائمة أو العرض المختلط";
 "Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
-"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Emoji (e.g. :smile:)" = "إموجي (مثال:smile:)";
 "Images Insert" = "إدراج صورة";
 "Use relative path if possible" = "استخدام مسار نسبي لو أمكن";
 "Auto Pair" = "Auto Pair";
-"Auto pair brackets and quotes" = "Auto pair brackets and quotes";
-"Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
-"Live Rendering" = "Live Rendering";
+"Auto pair brackets and quotes" = "قرن الأقواس المربعة بالاقتباسات";
+"Auto pair common Markdown syntax" = "قرن رموز الماركداون الشائعة";
+"Live Rendering" = "عرض مباشر";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
-"Default Copy Behavior" = "Default Copy Behavior";
-"Copy Markdown source as plain text" = "Copy Markdown source as plain text";
+"Default Copy Behavior" = "سلوك نسخ تلقائي";
+"Copy Markdown source as plain text" = "نسخ ترميز الماركداون كنص مجرد";
 "Typewriter Mode" = "وضعية الآلة الكاتبة";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
-"Syntax Support" = "Syntax Support";
+"(Following preferences will be applied after restart.)" = "(سيتم تطبيق التفضيلات بعد إعادة التشغيل.)";
+"Syntax Support" = "دعم التركيب";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
 "Diagrams" = "Diagrams";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
-"Syntax Preference" = "Syntax Preference";
+"Syntax Preference" = "تفضيلات التركيب";
 "(only applies to styles created from menubar or hybrid view)" = "(only applies to styles created from menubar or hybrid view)";
-"Strict Mode" = "Strict Mode";
+"Strict Mode" = "وضع صارم";
 "(more strict to GFM spec)" = "(more strict to GFM spec)";
-"Heading Style" = "Heading Style";
-"Unordered List" = "Unordered List";
-"Ordered List" = "Ordered List";
-"Code Fences" = "Code Fences";
+"Heading Style" = "نمط العنوان";
+"Unordered List" = "قائمة غير مرتبة";
+"Ordered List" = "قائمة غير مرتبة";
+"Code Fences" = "سياج الرمز المصدري";
 "Display line numbers for code fences" = "Display line numbers for code fences";
-"Math Blocks" = "Math Blocks";
-"Auto Numbering Math Equations" = "Auto Numbering Math Equations";
+"Math Blocks" = "مجموعة الرموز الرياضياتية";
+"Auto Numbering Math Equations" = "ترقيم المعادلات الرياضياتية تلقائيًا";
 
 /* Security Panel */
-"Security" = "Security";
-"Enable Debug" = "Enable Debug";
+"Security" = "الأمان";
+"Enable Debug" = "تشغيل وضع التشخيص";
 "Send Anonymous Usage Info" = "إرسال معلومات استخدام مجهولة";
 
 /* Pandoc Error Panel */
@@ -96,27 +96,27 @@
 "Converting file with Pandoc. This may take some time." = "تحويل الملف باستخدام Pandoc. قد يأخذ هذا بعض الوقت.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";
-"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
-"Follow Instructions to Install/Update Pandoc" = "Follow Instructions to Install/Update Pandoc";
-"Export Failed" = "Export Failed";
-"Import Failed" = "Import Failed";
-"Generated Image too Large" = "Generated Image too Large";
-"Failed to export file to <em>{0}</em>" = "Failed to export file to <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Failed to import file from <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "File does not exist at <em>{0}</em>";
-"Export to..." = "Export to...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
-"Dark Theme not support" = "Dark Theme not support";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
-"Print with default theme" = "Print with default theme";
-"Export to PDF successfully." = "Export to PDF successfully.";
-"Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
-"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.";
+"Pandoc is needed for importing these file formats" = "Pandoc مطلوب لاستيراد تنسيقات الملفات هذه";
+"Check help->Install and use Pandoc from menubar for detail" = "تحقق من التعليمات-> تثبيت Pandoc واستخدامه من شريط القوائم للحصول على التفاصيل";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "يتطلب الاستيراد أو بعض ميزات التصدير تثبيت <a href='http://pandoc.org/' target='_blank'> Pandoc </a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "اتبع التعليمات لتثبيت / تحديث Pandoc";
+"Export Failed" = "فشل التصدير";
+"Import Failed" = "فشل الاستيراد";
+"Generated Image too Large" = "الصورة التي تم إنشاؤها كبيرة جدًا";
+"Failed to export file to <em>{0}</em>" = "فشل تصدير الملف إلى <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "فشل استيراد الملف من <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "الملف غير موجود في <em>{0}</em>";
+"Export to..." = "تصدير لـ...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "هل تريد حفظ التغييرات التي تم إجراؤها على هذا المستند؟ <br> ستفقد التغييرات إذا لم تقم بحفظها.";
+"[Warning] Failed to attach bookmark for PDF file." = "[تحذير] فشل في إرفاق إشارة مرجعية لملف PDF";
+"Dark Theme not support" = "المظهر الداكن غير مدعوم";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "عذرًا ، لن يقوم الإصدار الحالي من تايبورا بطباعة لون الخلفية على ملف PDF المُصدَّر ، لذا فإن المظهر الداكن غير مدعوم حتى الآن لتصدير PDF. \ n الرجاء اختيار سمة خفيفة أو النقر فوق \" طباعة باستخدام السمة الافتراضية \ "" ؛
+"Print with default theme" = "الطباعة باستخدام السمة الافتراضية";
+"Export to PDF successfully." = "تم تصدير الملف إلى PDF بنجاح";
+"Converting file using Pandoc. This may take some time." = "جار تحويل الملف باستخدام Pandoc. هذا قد يستغرق بعض الوقت.";
+"Exporting file using Pandoc. This may take some time." = "جار تصدير الملف باستخدام Pandoc. هذا قد يستغرق بعض الوقت.";
 
-"Uploading in progress…" = "Uploading in progress…";
+"Uploading in progress…" = "جارٍ التحميل ...";
 "Do not show this again" = "لا تظهر هذه مجددًا";
 
 /* Word Count */
@@ -134,21 +134,21 @@
 
 /* Windows Prefernce Panel*/
 "Appearance" = "المظهر";
-"System Native" = "System Native";
-"Unibody" = "Unibody";
-"(applied after restart)" = "(applied after restart)";
+"System Native" = "مظهر النظام الأصلي";
+"Unibody" = "أحادي";
+"(applied after restart)" = "(تطبق بعد إعادة التشغيل)";
 "Status Bar" = "شريط الحالة";
 "Show status bar" = "إظهار شريط الحالة";
 "Save & Recover" = "حفظ واستعادة";
 "Auto Save" = "حفظ تلقائي";
-"Recover Unsaved Drafts" = "Recover Unsaved Drafts";
-"Emoji Autocomplete" = "Emoji Autocomplete";
-"Trigger by ESC key" = "Trigger by ESC key";
-"Trigger automatically" = "Trigger automatically";
+"Recover Unsaved Drafts" = "استعادة المسودات غير المحفوظة";
+"Emoji Autocomplete" = "اكمال التلقائي للإموجي";
+"Trigger by ESC key" = "تشغيل بمفتاح ESC";
+"Trigger automatically" = "تشغيل تلقائي";
 "Default Line Ending" = "Default Line Ending";
 "Line ending for new file" = "Line ending for new file";
-"Spell Check" = "Spell Check";
-"Auto correct spelling" = "Auto correct spelling";
+"Spell Check" = "تصحيح إملائي";
+"Auto correct spelling" = "تصحيح إملائي تلقائي";
 "System" = "النظام";
 "Privacy" = "الخصوصية";
 "Developer" = "المطور";
@@ -160,8 +160,8 @@
 "Reset Advanced Settings" = "إعادة ضبط الخيارات المتقدمة";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "This function requires latest version of iPic to be installed.";
-"Get iPic" = "Get iPic";
+"This function requires latest version of iPic to be installed." = "تتطلب هذه الوظيفة تثبيت أحدث إصدار من iPic.";
+"Get iPic" = "الحصول على iPic";
 "Cannot Continue…" = "لا يمكن المتابعة…";
 "This feature require macOS >= 10.11" = "هذه الخاصية تتطلب نسخة macOS >= 10.11";
 "One More Step" = "خطوة أخرى";
@@ -169,10 +169,10 @@
 
 "%d Images Failed to Upload." = "%d صور فشلت في الرفع.";
 "%d Succeeded," = "%d Succeeded, ";
-"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
-"The option `%@` must be enabled first to automatically upload images." = "The option `%@` must be enabled first to automatically upload images.";
-"%@ is a file, not a directory" = "%@ is a file, not a directory";
-"Copy Images To…" = "Copy Images To…";
+"Enable this feature on preferences panel" = "قم بتمكين هذه الميزة في لوحة التفضيلات";
+"The option `%@` must be enabled first to automatically upload images." = "يجب تمكين الخيار `%@` أولاً لتحميل الملفات.";
+"%@ is a file, not a directory" = "%@ هو ملف وليس مجلد";
+"Copy Images To…" = "نسخ الصور لـ…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
 "Create Folder and Continue" = "Create Folder and Continue";
 "Document must be saved first" = "Document must be saved first";

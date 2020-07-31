@@ -111,19 +111,19 @@
 "Increase Heading Level" = "زيادة مستوى العنوان";
 "Decrease Heading Level" = "تنقيص مستوى العنوان";
 "Table" = "جدول";
-"Code Fences" = "Code Fences";
-"Math Block" = "Math Block";
+"Code Fences" = "سياج الرمز المصدري";
+"Math Block" = "قالب رموز رياضياتية";
 "Quote" = "اقتباس";
 "Ordered List" = "قائمة مرتبة";
 "Unordered List" = "قائمة غير مرتبة";
 "Task List" = "قائمة المهام";
 "Task Status" = "حالة المهام";
-"Toggle Task Status" = "Toggle Task Status";
+"Toggle Task Status" = "تبديل حالة المهام";
 "Mark as Complete" = "علم كمنجز";
 "Mark as Incomplete" = "علم كعدم منجز";
-"List Indentation" = "List Indentation";
-"Indent" = "Indent";
-"Outdent" = "Outdent";
+"List Indentation" = "إدراج مسافة بادئة";
+"Indent" = "مسافة بادئة";
+"Outdent" = "تراجع سلبي";
 "Link Reference" = "رابط مرجعي";
 "Footnotes" = "حاشية";
 "Horizontal Line" = "خط عرضي";
@@ -132,15 +132,15 @@
 
 /* Format Menu */
 "Format" = "تهيئة";
-"Strong" = "Strong";
+"Strong" = "تمتين";
 "Emphasis" = "تأكيد";
 "Underline" = "خط سفلي";
 "Code" = "نص مصدري";
 "Inline Math" = "رمز رياضي في السطر";
-"Strike" = "Strike";
-"Highlight" = "Highlight";
-"Superscript" = "Superscript";
-"Subscript" = "Subscript";
+"Strike" = "شطب";
+"Highlight" = "إبراز";
+"Superscript" = "حرف فوقي";
+"Subscript" = "حرف سفلي";
 "Comment" = "تعليق";
 "Hyperlink" = "ارتباط تشعبي";
 "Image" = "صورة";
@@ -187,11 +187,11 @@
 
 
 /* Touchbar */
-"Block Styles" = "Block Styles";
-"Inline Styles" = "Inline Styles";
-"List Styles / Remove Block" = "List Styles / Remove Block";
-"Exit Source Code Mode" = "Exit Source Code Mode";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Block Styles" = "أنماط مقولبة";
+"Inline Styles" = "أنماط مضمنة";
+"List Styles / Remove Block" = "إسدال الأنماط / إزالة القوالب";
+"Exit Source Code Mode" = "الخروج من وضعية الرمز المصدري";
+"Toggle Source Code Mode" = "تبديل وضعية الرمز المصدري";
 
 /* Extra Context Menu */
 "Table" = "جدول";
@@ -205,8 +205,8 @@
 "Delete Table" = "حذف الجدول";
 "Insert Paragraph After" = "إضافة فقرة إلى الأعلى";
 "Insert Paragraph Before" = "إضافة فقرة إلى الأسفل";
-"Delete Code Block" = "Delete Code Block";
-"Copy as MathML" = "Copy as MathML";
+"Delete Code Block" = "حذف قالب الرمز المصدري";
+"Copy as MathML" = "نسخ كـ MathML";
 "Copy as Tex" = "نسخ كـ Tex";
 "Copy Math" = "نسخ الرموز الرياضياتية";
 "Reveal in Finder" = "إظهار في الباحث";
@@ -252,16 +252,16 @@
 "New Window" = "نافذة جديدة";
 "Reopen Closed File" = "إعادة فتح الملف المغلق";
 
-"Global Image Settings" = "Global Image Settings";
-"Smart Punctuation" = "Smart Punctuation";
-"Convert on Input" = "Convert on Input";
-"Convert on Rendering" = "Convert on Rendering";
+"Global Image Settings" = "إعدادات الصورة العامة";
+"Smart Punctuation" = "علامات ترقيم ذكية";
+"Convert on Input" = "تحويل عند الإدخال";
+"Convert on Rendering" = "تحويل عند القراءة";
 "Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
 "More Options" = "خيارات أكثر";
 
-"HTML Block" = "HTML Block";
-"Delete Block" = "Delete Block";
-"Delete %@" = "Delete %@";
+"HTML Block" = "HTML قالب";
+"Delete Block" = "حذف القالب";
+"Delete %@" = "حذف %@";
 "Play" = "تشغيل";
 "Pause" = "إيقاف مؤقت";
 
@@ -295,7 +295,7 @@
 
 "HTML (without Styles)" = "HTML (بلا نمط)";
 
-"Highlight Current Header" = "Highlight Current Header";
+"Highlight Current Header" = "إبراز التروسية الحالية";
 "Expand All" = "توسيع الكل";
 "Collapse All" = "طي الكل";
 "Collapsible Outline" = "موجز قابل للطي";

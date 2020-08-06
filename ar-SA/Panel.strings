@@ -56,10 +56,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(سيتم تطبيق التفضيلات بعد إعادة التشغيل.)";
 "Syntax Support" = "دعم التركيب";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "ترميز رياضياتي على السطر  ( مثال: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "سفلي    ( مثال: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "علوي ( مثال: X^2^ )";
+"Highlight     (e.g: ==key==)" = "إبراز     (مثال: ==key==)";
 "Diagrams" = "Diagrams";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "تفضيلات التركيب";
@@ -70,7 +70,7 @@
 "Unordered List" = "قائمة غير مرتبة";
 "Ordered List" = "قائمة غير مرتبة";
 "Code Fences" = "سياج الرمز المصدري";
-"Display line numbers for code fences" = "Display line numbers for code fences";
+"Display line numbers for code fences" = "إظهار عدد الأسطر في أسيجة النصوص المصدرية";
 "Math Blocks" = "مجموعة الرموز الرياضياتية";
 "Auto Numbering Math Equations" = "ترقيم المعادلات الرياضياتية تلقائيًا";
 
@@ -145,8 +145,8 @@
 "Emoji Autocomplete" = "اكمال التلقائي للإموجي";
 "Trigger by ESC key" = "تشغيل بمفتاح ESC";
 "Trigger automatically" = "تشغيل تلقائي";
-"Default Line Ending" = "Default Line Ending";
-"Line ending for new file" = "Line ending for new file";
+"Default Line Ending" = "نهاية سطر تلقائية";
+"Line ending for new file" = "نهاية سطر لملف جديد";
 "Spell Check" = "تصحيح إملائي";
 "Auto correct spelling" = "تصحيح إملائي تلقائي";
 "System" = "النظام";
@@ -173,13 +173,13 @@
 "The option `%@` must be enabled first to automatically upload images." = "يجب تمكين الخيار `%@` أولاً لتحميل الملفات.";
 "%@ is a file, not a directory" = "%@ هو ملف وليس مجلد";
 "Copy Images To…" = "نسخ الصور لـ…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
-"Create Folder and Continue" = "Create Folder and Continue";
-"Document must be saved first" = "Document must be saved first";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
-"Open Operation Failed" = "Open Operation Failed";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "يحاول تايبورا بنسخ الصورة المدرجة للتو في مجلد %@ حسب الـ YAML Front Matter خاصتك أو الإعدادات العامة. ولكن المجلد المستهدف غير موجود، أتود إنشاءه؟";
+"Create Folder and Continue" = "إنشاء مجلد والمتابعة";
+"Document must be saved first" = "يجب حفظ المستند أولًا";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "سيقوم تايبورا بحفظ الصورة المدرجة للتو في مجلد نسبي للمستند، لذا احفظ المستند أولًا.";
+"Open Operation Failed" = "فشلت عملية الفتح";
 
-"Support Documentation" = "Support Documentation";
+"Support Documentation" = "دعم التوثيق";
 
 "Markdown File" = "ملف مارك-داون";
 "Plain Text File" = "ملف نص عادي";
@@ -188,29 +188,29 @@
 "Discard Changes" = "تجاهل التعديلات";
 "Discard" = "تجاهل";
 
-"Menu" = "Menu";
-"Back" = "Back";
+"Menu" = "قائمة";
+"Back" = "رجوع";
 
 "Contact" = "تواصل";
 "Open From..." = "فتح من...";
 "Import..." = "استيراد...";
 "Recent Documents" = "مستندات حديثة";
 "Search for" = "بحث";
-"Clear Recent Documents" = "Clear Recent Documents";
+"Clear Recent Documents" = "محو المستندات الحديثة";
 "File Name" = "اسم الملف";
 "Path" = "مسار";
 "Export As..." = "تصدير كـ...";
 "More Formats" = "هيئات أخرى";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
-"Something is Wrong…" = "Something is Wrong…";
+"Something is Wrong…" = "حدث خطأ";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
-"Copy Content" = "Copy Content";
+"Copy Content" = "نسخ المحتوى";
 
 
 "Total" = "مجموع";
-"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
-"Indent Size for Code" = "Indent Size for Code";
-"Auto wrap long lines" = "Auto wrap long lines";
+"Word count only support OS X later than 10.10." = "خاصية عدد الأحرف تدعم OS X أحدث من 10.10.";
+"Indent Size for Code" = "حجم المسافة البادئة للرمز المصدري";
+"Auto wrap long lines" = "التفاف تلقائي للأسطر الطويلة";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
 "Export to PDF" = "تصدير كـ PDF";

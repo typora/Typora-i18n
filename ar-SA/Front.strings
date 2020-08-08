@@ -63,7 +63,7 @@
 "Switch to Outline view" = "تبديل لوضعية الموجز";
 "Close sidebar" = "إغلاق الشريط الجانبي";
 "Loading" = "جار التحميل";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "تحتوي المجلدات المحددة على ملفات كثيرة جدًا. \nالرجاء التبديل لـ <a id='switch-to-tree-on-oversize'>النموذج الشجري</a> لأداء أفضل.";
 "New File" = "ملف جديد";
 "Unpin Outline Panel" = "إلغاء تثبيت لوحة الموجز";
 "Open Folder..." = "فتح ملف...";
@@ -95,9 +95,9 @@
 "Empty Diagram" = "إفراغ الرسم البياني";
 "Input Math TeX here" = "إدخال رموز ماث تيكس الرياضياتية هنا";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "تحتاج إلى تحديد الحاشية المرجعية <b>{0}</b> بالتركيب <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "تحتاج إلى تحديد الارتباط المرجعي <b>[{0}]</b> بالتركيب <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "يرجى تحديد مرجع الصورة بواسطة \n[{0}]: http://example.png";
 
 /* msg */
 "Failed to create file" = "فشل في إنشاء الملف";

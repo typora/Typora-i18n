@@ -18,27 +18,26 @@
 "Seamless window only support OS X later than 10.10." = "النوافذ السلسة تدعم نظام تشغيل OS X أجدد من 10.10.";
 "Themes" = "الأنماط";
 "Open Theme Folder" = "فتح ملف الأنماط";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." =
- "Please check `help`->`Quick Start` for short introduction. Visit to get more themes or instructions.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "يرجى التحقق من "مساعدة" -> "بداية سريعة" لمقدمة قصيرة. قم بزيارة للحصول على المزيد من المواضيع أو التعليمات.";
 "Word Count" = "عدد الكلمات";
 "Always Show Word Count" = "إظهار عدد الكلمات دائمًا";
 "Font Size" = "حجم الخط";
 "Auto ( Recommended )" = "تلقائي (محبذ)";
 "Customized" = "خاص";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "إذا تم استخدام حجم الخط المخصص ، فسيعتمد حجم الخط الفعلي على حجم الخط الأساسي ونمط css.";
 "Left Panel" = "اللوحة اليسرى";
 "Show Outline Panel by Default" = "إظهار الموجز تلقائيًا";
 "Collapsible Outline on Left Panel" = "موجز قابل للطي على القائمة اليسرى";
-"Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Save without asking when\nswitch files on side panel" = "الحفظ دون السؤال عند\nتبديل الملفات على اللوحة الجانبية";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "سيتم حفظ الملفات التي تم تحريرها دون السؤال عند تبديل الملفات في اللوحة اليسرى. \nعند \"السؤال عند حفظ التغييرات عند إغلاق المستندات\" تم تعطيله في تفضيلات النظام ، يتم تمكين هذا دائمًا.";
 "Language" = "اللغة";
 "System Language" = "لغة النظام";
 
 /* Editor Panel */
 "Editor" = "محرر";
-"Indent Size on Save" = "Indent Size on Save";Indent Size on
+"Indent Size on Save" = "حجم المسافة البادئة عند الحفظ";
 "only apply to quotes and lists created from menu bar or hybrid view" = "طبق فقط على الاقتباسات والقوائم المنشئة من شريط القائمة أو العرض المختلط";
-"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
+"Trigger Autocomplete without ESC key for" = "تشغيل الإكمال التلقائي بدون مفتاح ESC";
 "Emoji (e.g. :smile:)" = "إموجي (مثال:smile:)";
 "Images Insert" = "إدراج صورة";
 "Use relative path if possible" = "استخدام مسار نسبي لو أمكن";
@@ -307,18 +306,18 @@
 "Download Update" = "تحميل الترقية";
 "New version available." = "نسخة جديدة متاحة.";
 
-"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
-"Use Rendered SVG" = "Use Rendered SVG";
-"Use LaTeX Source" = "Use LaTeX Source";
+"When copy / export as HTML (without style)" = "نسخ / تصدير كـHTML بدون النمط";
+"Use Rendered SVG" = "استخدم الـSVG المولدة";
+"Use LaTeX Source" = "استخدام مصدر لاتخ";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
 
-"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "تتطلب وظيفة الاستيراد والعديد من تنسيقات التصدير تنصيب  Pandoc (≥%@).";
 "Do not show this message again" = "عدم إظهار هذه الرسالة مرة أخرى";
 
-"Page break between top level sections" = "Page Break between top level sections";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+"Page break between top level sections" = "فاصل الصفحة بين أقسام المستوى الأعلى";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "يمكنك تعيين أنماط الاقتباس في تفضيلات النظام ← لوحة المفاتيح ← النص. إذا تم تغييره ، فسيحتاج تايبورا  إلى إعادة تشغيل لتطبيقه.";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "عذرًا ، حدث خطأ ما ، تم نسخ محتوى الكتابة الحالي إلى الحافظة. يمكنك الإبلاغ عن هذا إلى <hi@typora.io> لمساعدتنا في إصلاح هذا الخطأ.";
 "Try Recovery" = "تجربة الاستعادة";
 "Other options for Data Recovery" = "خيارات أخرى لاستعادة البيانات";
 
@@ -349,11 +348,11 @@
 "Checking" = "يتفقد";
 "Download" = "تحميل";
 "Agree and Download" = "الموافقة والتحميل";
-"Download and Reinstall" = "Download and Reinstall";
-"Loading PicGo-Core License" = "Loading PicGo-Core License";
-"Failed to get installed version of PicGo-Core (command line)" = "Failed to get installed version of PicGo-Core (command line)";
-"You have the latest PicGo-Core (CLI)" = "You have the latest PicGo-Core (CLI)";
-"Newer version is available" = "Newer version is available";
+"Download and Reinstall" = "تنزيل وإعادة التثبيت";
+"Loading PicGo-Core License" = "تحميل ترخيص PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "فشل الحصول على الإصدار المثبت من PicGo-Core (سطر الأوامر)";
+"You have the latest PicGo-Core (CLI)" = "لديك أحدث إصدار من سطر الأوامر PicGo-Core ";
+"Newer version is available" = "تتوفر نسخة أحدث";
 
 "Downloading…" = "جار التحميل...";
 "Unzipping…" = "جار فك الضغط...";

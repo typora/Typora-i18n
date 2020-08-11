@@ -44,7 +44,7 @@
 "Auto pair brackets and quotes" = "قرن الأقواس المربعة بالاقتباسات";
 "Auto pair common Markdown syntax" = "قرن رموز الماركداون الشائعة";
 "Live Rendering" = "عرض مباشر";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "عرض المصدر للفقرات البسيطة\n(تضمن العناوين وما إلى ذلك.) عند التركيز";
 "Default Copy Behavior" = "سلوك نسخ تلقائي";
 "Copy Markdown source as plain text" = "نسخ ترميز الماركداون كنص مجرد";
 "Typewriter Mode" = "وضعية الآلة الكاتبة";
@@ -61,9 +61,9 @@
 "Diagrams" = "رسومات بيانية";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "تفضيلات التركيب";
-"(only applies to styles created from menubar or hybrid view)" = "(only applies to styles created from menubar or hybrid view)";
+"(only applies to styles created from menubar or hybrid view)" = "(تطبيق فقط على الأنماط التي تم إنشاؤها من شريط القوائم أو بطريقة العرض المختلطة)";
 "Strict Mode" = "وضع صارم";
-"(more strict to GFM spec)" = "(more strict to GFM spec)";
+"(more strict to GFM spec)" = "(أكثر صرامة لمواصفات GFM)";
 "Heading Style" = "نمط العنوان";
 "Unordered List" = "قائمة غير مرتبة";
 "Ordered List" = "قائمة غير مرتبة";
@@ -209,11 +209,11 @@
 "Word count only support OS X later than 10.10." = "خاصية عدد الأحرف تدعم OS X أحدث من 10.10.";
 "Indent Size for Code" = "حجم المسافة البادئة للرمز المصدري";
 "Auto wrap long lines" = "التفاف تلقائي للأسطر الطويلة";
-
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
+عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.";
 "Export to PDF" = "تصدير كـ PDF";
 "Pretty indentation" = "ترتيب المسافات البادئة";
-"Update markdown reference for this image" = "Update markdown reference for this image";
+"Update markdown reference for this image" = "تحديث مرجع الماركداون لهذه الصورة";
 
 "No special action" = "لا إجراء خاص";
 "Copy image to current folder (./)" = "نسخ الصورة إلى المجلد الحالي (./)";
@@ -227,8 +227,8 @@
 "Whitespace / Line Break" = "المسافات الفارغة / الأسطر";
 "When Writing" = "عند الكتابة";
 "Export / Print" = "تصدير / طباعة";
-"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
-"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
+"Preserve sequential whitespace and single line break" = "الحفاظ على المسافات وسطر واحد";
+"Ignore sequential whitespace and single line break" = "تجاهل المسافات والسطر الواحد";
 
 "Quit" = "Quit";
 "Quit Typora when last window is closed" = "الخروج من تايبورا عند إغلاق آخر نافذة";
@@ -238,17 +238,17 @@
 "Restore last closed files and folders" = "استعادة الملفات والمجلدات المغلقة حديثًا";
 "Open custom folder" = "فتح مجلد خاص";
 "Select custom folder" = "تحديد مجلد خاص";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "يمكن تعديل هذا الخيار من خلال  "إغلاق النوافذ عند الخروج من التطبيق" في تفضيلات النظام";
 
-"Ignore" = "Ignore";
+"Ignore" = "تجاهل";
 "Choose Default Folder" = "اختيار المجلد الافتراضي";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
 
 "Copy image to custom folder" = "نسخ الصورة لملف خاص";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "الرجاء تحديد مسار نسبي للمجلد الحالي والذي يبدأ بـ './' أو '../', أو مسار مجلد مطلق. (`${filename}` تمثل اسم الملف الحالي.)";
 "Restore to previous setting" = "استعادة الإعدادات السابقة";
-"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
+"Folder not exist at %@, please input another path." = "المجلد غير موجود في %@، الرجاء إدخال مسار آخر.";
 "Please input a folder path." = "الرجاء إدخال مسار ملف.";
 "Cannot use root path." = "لا يمكن استخدام المسار الأساسي.";
 
@@ -296,9 +296,9 @@
 "Check Update Failed" = "التحقق من التحديثات فشل";
 "You are update to date!" = "لديك آخر نسخة!";
 "Latest version is $1, your version is $2" = "آخر نسخة هي $1, نسختك هي $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "يمكن أيضًا تغيير هذه الخيارات من قائمة \"تحرير → المسافات والأسطر\";
 "Auto escape image URL when insert" = "Auto escape image URL when insert";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "على سبيل المثال ، إذا قمت بإدراج ملف في 'img/example file.png', سيصبح 'img/example%20file.png'. قم بتمكين هذا من أجل توافق أفضل مع محركات ماركداون الأخرى ، أو قم بتعطيله لقراءة أفضل.";
 "Check updates automatically" = "التحقق من التحديثات دوريًا";
 "Skip This Version" = "تخطي هذه النسخة";
 "Remind Me Later" = "ذكرني لاحقًا";
@@ -357,7 +357,7 @@
 "Unzipping…" = "جار فك الضغط...";
 "Finished" = "انتهى";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "سيطلق تايبورا برنامجًا تابعًا لجهة خارجية مشاركًا مسارات جميع الصور المحلية. سيتمكن برنامج تحميل الصور وتخزين الصور السحابية من الوصول إلى صورك المحلية. هل أنت متأكد من المتابعة؟";
 
 "Export operation finished successfully." = "التصدير انتهى بنجاح.";
 

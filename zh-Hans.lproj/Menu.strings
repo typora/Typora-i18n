@@ -50,7 +50,7 @@
 "Undo" = "撤消";
 "Redo" = "重做";
 "Cut" = "剪切";
-"Copy" = "复制";
+"Copy" = "拷贝";
 "Paste" = "粘贴";
 "Copy as Markdown" = "复制为 Markdown";
 "Copy as HTML Code" = "复制为 HTML 代码";
@@ -305,3 +305,5 @@
 "Upload Image" = "上传图片";
 "Upload All Local Images" = "上传所有本地图片";
 "Open Image in Browser" = "在浏览器中打开图片";
+
+"Copy Image" = "拷贝图片";

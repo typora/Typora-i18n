@@ -362,3 +362,11 @@
 
 "Shortcut Keys" = "Shortcut Keys";
 "Custom Shortcut Keys" = "Custom Shortcut Keys";
+
+"Theme" = "Theme";
+"Light Theme" = "Light Theme";
+"Dark Theme" = "Dark Theme";
+"Use separate theme in dark mode" = "Use separate theme in dark mode";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Convert -- to – (en dash), and --- to — (em dash)";
+"Convert -- and --- to — (em dash)" = "Convert -- and --- to — (em dash)";

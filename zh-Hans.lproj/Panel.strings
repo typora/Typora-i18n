@@ -356,5 +356,15 @@
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";
 
+"Export operation finished successfully." = "导出成功";
+
 "Shortcut Keys" = "快捷键";
 "Custom Shortcut Keys" = "自定义快捷键";
+
+"Theme" = "主题";
+"Light Theme" = "浅色主题";
+"Dark Theme" = "深色主题";
+"Use separate theme in dark mode" = "在深色模式下使用独立的主题";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或者 Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 将 – (en dash)， 将 ---  转化为 — (em dash)";
+"Convert -- and --- to — (em dash)" = "将 -- 和 --- 将 — (em dash)";

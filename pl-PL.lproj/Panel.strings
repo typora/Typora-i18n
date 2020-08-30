@@ -362,3 +362,11 @@
 
 "Shortcut Keys" = "Klawisze skrótów";
 "Custom Shortcut Keys" = "Własne klawisze skrótów";
+
+"Theme" = "Motyw";
+"Light Theme" = "Jasny motyw";
+"Dark Theme" = "Ciemny motyw";
+"Use separate theme in dark mode" = "Użyj innego motywu w trybie ciemnym";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Obsługiwane przez macOS ≥ 10.15 lub Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Zamieniaj -- na – (półpauzę) oraz --- na — (pauzę)";
+"Convert -- and --- to — (em dash)" = "Zamieniaj -- oraz --- na — (półpauzę)";

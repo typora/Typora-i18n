@@ -156,7 +156,7 @@
 "(Default spell check option)" = "(Standard Rechschreibekorrektur-Option)";
 "Failed to load spellcheck module" = "Das Laden des Rechschreibekorrektur-Moduls ist gescheitert";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> wurde angeschalten.";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> wurde angeschaltet.";
 "You could turn it off from `View` menu." = "Du könntest es im `Darstellung`-Menü ausstellen.";
 "The file is too large to render in Typora." = "Die Datei ist zu groß, um in Typora dargestellt zu werden.";
 "Open in…" = "Öffnen mit…";

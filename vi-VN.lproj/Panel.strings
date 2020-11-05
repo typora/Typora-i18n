@@ -28,7 +28,6 @@
 "Show Outline Panel by Default" = "Hiện bảng dàn bài theo mặc định";
 "Collapsible Outline on Left Panel" = "Bảng dàn bài gấp được ở bảng bên trái";
 "Save without asking when\nswitch files on side panel" = "Lưu mà không cần hỏi khi\nchuyển sang tập tin khác ở bảng bên";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Tập tin đã được chỉnh sửa sẽ tự động lưu mà không cần hỏi khi chuyển sang tập tin khác ở bảng bên. \nKhi đó \"Hỏi lại để lưu thay đổi khi đóng tài liệu\" được bật trong Tuỳ chỉnh hệ thống, sẽ luôn được bật.";
 "Language" = "Ngôn ngữ";
 "System Language" = "Ngôn ngữ hệ thống";
 
@@ -241,7 +240,7 @@
 "Restore last closed files and folders" = "Quay lại tập tin và thư mục đã đóng gần đây";
 "Open custom folder" = "Mở thư mục cụ thể";
 "Select custom folder" = "Chọn thư mục cụ thể";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Tuỳ chọn này có thể bị mất hiệu lực bởi \"Đóng cửa sổ khi thoát một ứng dụng\" trong Tùy chọn hệ thống";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Tuỳ chọn này có thể bị mất hiệu lực bởi \"Đóng cửa sổ khi thoát một ứng dụng\" trong Tùy chọn hệ thống";
 
 "Ignore" = "Bỏ qua";
 "Choose Default Folder" = "Chọn thư mục mặc định";

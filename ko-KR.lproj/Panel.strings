@@ -30,7 +30,6 @@
 "Show Outline Panel by Default" = "개략 패널 기본 표시";
 "Collapsible Outline on Left Panel" = "접을 수 있는 왼쪽 개략 패널";
 "Save without asking when\nswitch files on side panel" = "사이드 패널에서 파일 전환시\n묻지 않고 저장";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "좌측 패널에서 파일을 전환 시 수정된 파일이 저장됩니다.\n \"도큐멘트를 닫을 때 변경사항 유지\"가 활성화된 경우, 이 기능이 활성화됩니다.";
 "Language" = "언어";
 "System Language" = "시스템 언어";
 
@@ -247,7 +246,7 @@
 "Restore last closed files and folders" = "마지막 파일과 폴더 열기";
 "Open custom folder" = "사용자 정의 폴더 열기";
 "Select custom folder" = "사용자 정의 폴더 선택";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "이 옵션은 시스템 환경설정의 \"Typora 종료 시 윈도우 닫기\" 옵션에 의해 변경될 수 있습니다.";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "이 옵션은 시스템 환경설정의 \"Typora 종료 시 윈도우 닫기\" 옵션에 의해 변경될 수 있습니다.";
 
 "Ignore" = "무시";
 "Choose Default Folder" = "기본 폴더 선택";

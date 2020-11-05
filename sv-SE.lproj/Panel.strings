@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "Visa översiktspanelen som standard";
 "Collapsible Outline on Left Panel" = "Hopfällbar översikt på vänsterpanelen";
 "Save without asking when\nswitch files on side panel" = "Spara utan att fråga\nvid filbyte i sidopanelen";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Redigerade filer kommer sparas utan att fråga vid byte av filer i vänsterpanelen. \nNär \"Fråga om ändringar ska sparas när dokument stängs\" är aktiverat i systeminställningarna är detta alltid aktiverat.";
 "Language" = "Språk";
 "System Language" = "Systemspråk";
 
@@ -241,7 +240,7 @@
 "Restore last closed files and folders" = "Återställ senast stängda filer och mappar";
 "Open custom folder" = "Öppna anpassad mapp";
 "Select custom folder" = "Välj anpassad mapp";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Detta val kan åsidosättas av \"Stäng fönster när ett program avslutas\" i dina systeminställnigar";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Detta val kan åsidosättas av \"Stäng fönster när ett program avslutas\" i dina systeminställnigar";
 
 "Ignore" = "Ignorera";
 "Choose Default Folder" = "Välj standardmapp";

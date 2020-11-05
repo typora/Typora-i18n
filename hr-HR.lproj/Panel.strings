@@ -27,7 +27,6 @@
 "Show Outline Panel by Default" = "Prikaži panel sadržaja kao zadani";
 "Collapsible Outline on Left Panel" = "Panel sadržaja s opcijom skrivanja";
 "Save without asking when\nswitch files on side panel" = "Automatski sačuvaj prilikom prelaska s datoteke na datoteku u bočnoj traci";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Uređene datoteke će biti sačuvane bez pitanja kada prelazite na novu datoteku u lijevom panelu. \nSve dok je \"Pitaj da sačuvaš promjene pri zatvaranju dokumenata\" omogućeno u postavkama sustava, ovo će uvijek biti omogućeno.";
 "Language" = "Jezik";
 "System Language" = "Jezik sustava";
 

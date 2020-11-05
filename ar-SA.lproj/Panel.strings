@@ -1,0 +1,365 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ Arabic Translation: ahmedelq
+ */
+
+/* Preference Panel */
+"Preferences" = "التفضيلات";
+
+/* General Panel */
+"General" = "عام";
+"Window Style" = "نمط النافذة";
+"Classic" = "كلاسيكي";
+"Seamless" = "سلس";
+"Seamless window only support OS X later than 10.10." = "النوافذ السلسة تدعم نظام تشغيل OS X أجدد من 10.10.";
+"Themes" = "الأنماط";
+"Open Theme Folder" = "فتح ملف الأنماط";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "يرجى التحقق من "مساعدة" -> "بداية سريعة" لمقدمة قصيرة. قم بزيارة للحصول على المزيد من المواضيع أو التعليمات.";
+"Word Count" = "عدد الكلمات";
+"Always Show Word Count" = "إظهار عدد الكلمات دائمًا";
+"Font Size" = "حجم الخط";
+"Auto ( Recommended )" = "تلقائي (محبذ)";
+"Customized" = "خاص";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "إذا تم استخدام حجم الخط المخصص ، فسيعتمد حجم الخط الفعلي على حجم الخط الأساسي ونمط css.";
+"Left Panel" = "اللوحة اليسرى";
+"Show Outline Panel by Default" = "إظهار الموجز تلقائيًا";
+"Collapsible Outline on Left Panel" = "موجز قابل للطي على القائمة اليسرى";
+"Save without asking when\nswitch files on side panel" = "الحفظ دون السؤال عند\nتبديل الملفات على اللوحة الجانبية";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "سيتم حفظ الملفات التي تم تحريرها دون السؤال عند تبديل الملفات في اللوحة اليسرى. \nعند \"السؤال عند حفظ التغييرات عند إغلاق المستندات\" تم تعطيله في تفضيلات النظام ، يتم تمكين هذا دائمًا.";
+"Language" = "اللغة";
+"System Language" = "لغة النظام";
+
+/* Editor Panel */
+"Editor" = "محرر";
+"Indent Size on Save" = "حجم المسافة البادئة عند الحفظ";
+"only apply to quotes and lists created from menu bar or hybrid view" = "طبق فقط على الاقتباسات والقوائم المنشئة من شريط القائمة أو العرض المختلط";
+"Trigger Autocomplete without ESC key for" = "تشغيل الإكمال التلقائي بدون مفتاح ESC";
+"Emoji (e.g. :smile:)" = "إموجي (مثال:smile:)";
+"Images Insert" = "إدراج صورة";
+"Use relative path if possible" = "استخدام مسار نسبي لو أمكن";
+"Auto Pair" = "Auto Pair";
+"Auto pair brackets and quotes" = "قرن الأقواس المربعة بالاقتباسات";
+"Auto pair common Markdown syntax" = "قرن رموز الماركداون الشائعة";
+"Live Rendering" = "عرض مباشر";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "عرض المصدر للفقرات البسيطة\n(تضمن العناوين وما إلى ذلك.) عند التركيز";
+"Default Copy Behavior" = "سلوك نسخ تلقائي";
+"Copy Markdown source as plain text" = "نسخ ترميز الماركداون كنص مجرد";
+"Typewriter Mode" = "وضعية الآلة الكاتبة";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "أبق مؤشر الكتابة في المنتصف دائمًا\nعند تفعيل وضعية الآلة الكاتبة";
+
+/* Markdown Panel */
+"Markdown" = "ماركداون";
+"(Following preferences will be applied after restart.)" = "(سيتم تطبيق التفضيلات بعد إعادة التشغيل.)";
+"Syntax Support" = "دعم التركيب";
+"Inline Math  ( e.g: $\LaTeX$ )" = "ترميز رياضياتي على السطر  ( مثال: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "سفلي    ( مثال: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "علوي ( مثال: X^2^ )";
+"Highlight     (e.g: ==key==)" = "إبراز     (مثال: ==key==)";
+"Diagrams" = "رسومات بيانية";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"Syntax Preference" = "تفضيلات التركيب";
+"(only applies to styles created from menubar or hybrid view)" = "(تطبيق فقط على الأنماط التي تم إنشاؤها من شريط القوائم أو بطريقة العرض المختلطة)";
+"Strict Mode" = "وضع صارم";
+"(more strict to GFM spec)" = "(أكثر صرامة لمواصفات GFM)";
+"Heading Style" = "نمط العنوان";
+"Unordered List" = "قائمة غير مرتبة";
+"Ordered List" = "قائمة غير مرتبة";
+"Code Fences" = "سياج الرمز المصدري";
+"Display line numbers for code fences" = "إظهار عدد الأسطر في أسيجة النصوص المصدرية";
+"Math Blocks" = "مجموعة الرموز الرياضياتية";
+"Auto Numbering Math Equations" = "ترقيم المعادلات الرياضياتية تلقائيًا";
+
+/* Security Panel */
+"Security" = "الأمان";
+"Enable Debug" = "تشغيل وضع التشخيص";
+"Send Anonymous Usage Info" = "إرسال معلومات استخدام مجهولة";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "يتطلب Pandoc للمتابعة...";
+"Follow instructions to install Pandoc" = "تابع التعليمات لتثبيت Pandoc";
+"Cancel" = "إلغاء";
+
+/* Pandoc Import Panel */
+"Importing..." = "استيراد...";
+"Importing in progress..." = "جار الاستيراد...";
+"Converting file with Pandoc. This may take some time." = "تحويل الملف باستخدام Pandoc. قد يأخذ هذا بعض الوقت.";
+"Abort" = "Abort";
+
+/* Pandoc Export Panel */
+"Exporting..." = "تصدير...";
+"Exporting in progress..." = "جار التصدير...";
+"Converting file with Pandoc. This may take some time." = "تحويل الملف باستخدام Pandoc. قد يأخذ هذا بعض الوقت.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc مطلوب لاستيراد تنسيقات الملفات هذه";
+"Check help->Install and use Pandoc from menubar for detail" = "تحقق من التعليمات-> تثبيت Pandoc واستخدامه من شريط القوائم للحصول على التفاصيل";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "يتطلب الاستيراد أو بعض ميزات التصدير تثبيت <a href='http://pandoc.org/' target='_blank'> Pandoc </a> (≥ v1.16).";
+"Follow Instructions to Install/Update Pandoc" = "اتبع التعليمات لتثبيت / تحديث Pandoc";
+"Export Failed" = "فشل التصدير";
+"Import Failed" = "فشل الاستيراد";
+"Generated Image too Large" = "الصورة التي تم إنشاؤها كبيرة جدًا";
+"Failed to export file to <em>{0}</em>" = "فشل تصدير الملف إلى <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "فشل استيراد الملف من <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "الملف غير موجود في <em>{0}</em>";
+"Export to..." = "تصدير لـ...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "هل تريد حفظ التغييرات التي تم إجراؤها على هذا المستند؟ <br> ستفقد التغييرات إذا لم تقم بحفظها.";
+"[Warning] Failed to attach bookmark for PDF file." = "[تحذير] فشل في إرفاق إشارة مرجعية لملف PDF";
+"Dark Theme not support" = "المظهر الداكن غير مدعوم";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "عذرًا ، لن يقوم الإصدار الحالي من تايبورا بطباعة لون الخلفية على ملف PDF المُصدَّر ، لذا فإن المظهر الداكن غير مدعوم حتى الآن لتصدير PDF. \ n الرجاء اختيار سمة خفيفة أو النقر فوق \" طباعة باستخدام السمة الافتراضية \ "" ؛
+"Print with default theme" = "الطباعة باستخدام السمة الافتراضية";
+"Export to PDF successfully." = "تم تصدير الملف إلى PDF بنجاح";
+"Converting file using Pandoc. This may take some time." = "جار تحويل الملف باستخدام Pandoc. هذا قد يستغرق بعض الوقت.";
+"Exporting file using Pandoc. This may take some time." = "جار تصدير الملف باستخدام Pandoc. هذا قد يستغرق بعض الوقت.";
+
+"Uploading in progress…" = "جارٍ التحميل ...";
+"Do not show this again" = "لا تظهر هذه مجددًا";
+
+/* Word Count */
+"Minute" = "دقيقة";
+"Line" = "سطر";
+"Word" = "كلمة";
+"Character" = "حرف";
+
+"Minutes" = "دقائق";
+"Lines" = "أسطر";
+"Words" = "كلمات";
+"Characters" = "حروف";
+"In Selection" = "المحدد";
+"Panel" = "لوحة";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "المظهر";
+"System Native" = "مظهر النظام الأصلي";
+"Unibody" = "أحادي";
+"(applied after restart)" = "(تطبق بعد إعادة التشغيل)";
+"Status Bar" = "شريط الحالة";
+"Show status bar" = "إظهار شريط الحالة";
+"Save & Recover" = "حفظ واستعادة";
+"Auto Save" = "حفظ تلقائي";
+"Recover Unsaved Drafts" = "استعادة المسودات غير المحفوظة";
+"Emoji Autocomplete" = "اكمال التلقائي للإموجي";
+"Trigger by ESC key" = "تشغيل بمفتاح ESC";
+"Trigger automatically" = "تشغيل تلقائي";
+"Default Line Ending" = "نهاية سطر تلقائية";
+"Line ending for new file" = "نهاية سطر لملف جديد";
+"Spell Check" = "تصحيح إملائي";
+"Auto correct spelling" = "تصحيح إملائي تلقائي";
+"System" = "النظام";
+"Privacy" = "الخصوصية";
+"Developer" = "المطور";
+"Update" = "تحديث";
+"Check Updates" = "تحقق من التحديثات";
+"Check updates automatically" = "تحقق من التحديثات تلقائيًا";
+"Advanced Settings" = "خيارات متقدمة";
+"Open Advanced Settings" = "فتح الخيارات المتقدمة";
+"Reset Advanced Settings" = "إعادة ضبط الخيارات المتقدمة";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "تتطلب هذه الوظيفة تثبيت أحدث إصدار من iPic.";
+"Get iPic" = "الحصول على iPic";
+"Cannot Continue…" = "لا يمكن المتابعة…";
+"This feature require macOS >= 10.11" = "هذه الخاصية تتطلب نسخة macOS >= 10.11";
+"One More Step" = "خطوة أخرى";
+"Notice" = "تنبيه";
+
+"%d Images Failed to Upload." = "%d صور فشلت في الرفع.";
+"%d Succeeded," = "%d Succeeded, ";
+"Enable this feature on preferences panel" = "قم بتمكين هذه الميزة في لوحة التفضيلات";
+"The option `%@` must be enabled first to automatically upload images." = "يجب تمكين الخيار `%@` أولاً لتحميل الملفات.";
+"%@ is a file, not a directory" = "%@ هو ملف وليس مجلد";
+"Copy Images To…" = "نسخ الصور لـ…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "يحاول تايبورا بنسخ الصورة المدرجة للتو في مجلد %@ حسب الـ YAML Front Matter خاصتك أو الإعدادات العامة. ولكن المجلد المستهدف غير موجود، أتود إنشاءه؟";
+"Create Folder and Continue" = "إنشاء مجلد والمتابعة";
+"Document must be saved first" = "يجب حفظ المستند أولًا";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "سيقوم تايبورا بحفظ الصورة المدرجة للتو في مجلد نسبي للمستند، لذا احفظ المستند أولًا.";
+"Open Operation Failed" = "فشلت عملية الفتح";
+
+"Support Documentation" = "دعم التوثيق";
+
+"Markdown File" = "ملف مارك-داون";
+"Plain Text File" = "ملف نص عادي";
+"All Files" = "جميع الملفات";
+"All Supported Formats" = "جميع الصيغ المدعومة";
+"Discard Changes" = "تجاهل التعديلات";
+"Discard" = "تجاهل";
+
+"Menu" = "قائمة";
+"Back" = "رجوع";
+
+"Contact" = "تواصل";
+"Open From..." = "فتح من...";
+"Import..." = "استيراد...";
+"Recent Documents" = "مستندات حديثة";
+"Search for" = "بحث";
+"Clear Recent Documents" = "محو المستندات الحديثة";
+"File Name" = "اسم الملف";
+"Path" = "مسار";
+"Export As..." = "تصدير كـ...";
+"More Formats" = "هيئات أخرى";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
+"Something is Wrong…" = "حدث خطأ";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Copy Content" = "نسخ المحتوى";
+
+
+"Total" = "مجموع";
+"Word count only support OS X later than 10.10." = "خاصية عدد الأحرف تدعم OS X أحدث من 10.10.";
+"Indent Size for Code" = "حجم المسافة البادئة للرمز المصدري";
+"Auto wrap long lines" = "التفاف تلقائي للأسطر الطويلة";
+عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.";
+"Export to PDF" = "تصدير كـ PDF";
+"Pretty indentation" = "ترتيب المسافات البادئة";
+"Update markdown reference for this image" = "تحديث مرجع الماركداون لهذه الصورة";
+
+"No special action" = "لا إجراء خاص";
+"Copy image to current folder (./)" = "نسخ الصورة إلى المجلد الحالي (./)";
+"Copy image to ./assets" = "نسخ الصورة لـ ./assets";
+"Copy image to ./${filename}.assets" = "نسخ الصورة لـ ./${filename}.assets";
+"Apply above rules to local images" = "تطبيق القواعد أعلاه على الصور المحلية";
+"Apply above rules to online images" = "تطبيق القواعد أعلاه على على صور الإنترنت";
+"Allow upload images automatically based on YAML settings" = "السماح بتحميل الصور تلقائيًا بناءً على إعدادات YAML";
+
+"Learn More" = "اعرف المزيد";
+"Whitespace / Line Break" = "المسافات الفارغة / الأسطر";
+"When Writing" = "عند الكتابة";
+"Export / Print" = "تصدير / طباعة";
+"Preserve sequential whitespace and single line break" = "الحفاظ على المسافات وسطر واحد";
+"Ignore sequential whitespace and single line break" = "تجاهل المسافات والسطر الواحد";
+
+"Quit" = "Quit";
+"Quit Typora when last window is closed" = "الخروج من تايبورا عند إغلاق آخر نافذة";
+"On Launch" = "عند التشغيل";
+"Open new file" = "فتح ملف جديد";
+"Restore last closed folders" = "استعادة المجلدات المغلقة حديثًا";
+"Restore last closed files and folders" = "استعادة الملفات والمجلدات المغلقة حديثًا";
+"Open custom folder" = "فتح مجلد خاص";
+"Select custom folder" = "تحديد مجلد خاص";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "يمكن تعديل هذا الخيار من خلال  "إغلاق النوافذ عند الخروج من التطبيق" في تفضيلات النظام";
+
+"Ignore" = "تجاهل";
+"Choose Default Folder" = "اختيار المجلد الافتراضي";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
+
+"Copy image to custom folder" = "نسخ الصورة لملف خاص";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "الرجاء تحديد مسار نسبي للمجلد الحالي والذي يبدأ بـ './' أو '../', أو مسار مجلد مطلق. (`${filename}` تمثل اسم الملف الحالي.)";
+"Restore to previous setting" = "استعادة الإعدادات السابقة";
+"Folder not exist at %@, please input another path." = "المجلد غير موجود في %@، الرجاء إدخال مسار آخر.";
+"Please input a folder path." = "الرجاء إدخال مسار ملف.";
+"Cannot use root path." = "لا يمكن استخدام المسار الأساسي.";
+
+"Get Themes" = "الحصول على الأنماط";
+"File/directory already exists at target path." = "الملف أو المجلد موجود في المسار المحدد.";
+"Keep Both" = "إبقاء الإثنين";
+"Are you sure you want to move %@?" = "هل أنت متأكد بأنك تريد نقل %@?";
+
+"Are you sure you want to delete %@?" = "هل أنت متأكد بأنك تريد حذف %@?";
+"You can restore from the Trash." = "يمكنك الاستعادة من سلة المهملات.";
+
+"Reset All Dialog Warnings" = "إعادة ضبط مربعات الحوار التحذيرية";
+"Dialogs" = "مربعات الحوار";
+"Dialog warnings have been reset." = "تمت إعادة ضبط مربعات الحوار التحذيرية.";
+
+"Operation Failed" = "العملية فشلت";
+"Failed to move target file or folder to trash" = "فشل في نقل الملف أو المجلد المحدد إلى سلة المهملات";
+
+"Undo %@" = "Undo %@";
+"Rename %@" = "إعادة تسمية %@";
+"Copy %@" = "نسخ %@";
+"Move %@" = "قص %@";
+"Delete %@" = "حذف %@";
+
+"Turn off Typewriter / Focus Mode" = "الخروج من وضعية الآلة الكاتبة / وضعية التركيز";
+"Typewriter / Focus Mode have been turned off." = "تم إيقاف وضعية الآلة الكاتبة / وضعية التركيز";
+
+"Reading Speed" = "سرعة القراءة";
+"Auto" = "تلقائي";
+"words / min" = "كلمات / دقيقة";
+
+"Reset to Default" = "إعادة تعيين إلى الافتراضي";
+"Select custom folder" = "تحديد مجلد مخصص";
+"120  words/minute (Slow)" = "120  كلمة/دقيقة (بطيء)";
+"240  words/minute (Medium)" = "240  كلمة/دقيقة (متوسط)";
+"382  words/minute (Fast)" = "382  كلمة/دقيقة (سريع)";
+
+"Copy and update image source to…" = "نسخ مصدر الصورة وتحديثه إلى ...";
+"Updater" = "المحدث";
+"Install Updates ?" = "تنزيل التحديثات ?";
+"Quit and Install" = "خروج وتنصيب";
+"Download failed" = "التحميل فشل";
+"Downloading Updates…" = "جار تحميل التحديثات";
+"Checking Updates…" = "جار التحقق من التحديثات";
+"Check Update Failed" = "التحقق من التحديثات فشل";
+"You are update to date!" = "لديك آخر نسخة!";
+"Latest version is $1, your version is $2" = "آخر نسخة هي $1, نسختك هي $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "يمكن أيضًا تغيير هذه الخيارات من قائمة \"تحرير → المسافات والأسطر\";
+"Auto escape image URL when insert" = "Auto escape image URL when insert";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "على سبيل المثال ، إذا قمت بإدراج ملف في 'img/example file.png', سيصبح 'img/example%20file.png'. قم بتمكين هذا من أجل توافق أفضل مع محركات ماركداون الأخرى ، أو قم بتعطيله لقراءة أفضل.";
+"Check updates automatically" = "التحقق من التحديثات دوريًا";
+"Skip This Version" = "تخطي هذه النسخة";
+"Remind Me Later" = "ذكرني لاحقًا";
+"Download Update" = "تحميل الترقية";
+"New version available." = "نسخة جديدة متاحة.";
+
+"When copy / export as HTML (without style)" = "نسخ / تصدير كـHTML بدون النمط";
+"Use Rendered SVG" = "استخدم الـSVG المولدة";
+"Use LaTeX Source" = "استخدام مصدر لاتخ";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "تتطلب وظيفة الاستيراد والعديد من تنسيقات التصدير تنصيب  Pandoc (≥%@).";
+"Do not show this message again" = "عدم إظهار هذه الرسالة مرة أخرى";
+
+"Page break between top level sections" = "فاصل الصفحة بين أقسام المستوى الأعلى";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "يمكنك تعيين أنماط الاقتباس في تفضيلات النظام ← لوحة المفاتيح ← النص. إذا تم تغييره ، فسيحتاج تايبورا  إلى إعادة تشغيل لتطبيقه.";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "عذرًا ، حدث خطأ ما ، تم نسخ محتوى الكتابة الحالي إلى الحافظة. يمكنك الإبلاغ عن هذا إلى <hi@typora.io> لمساعدتنا في إصلاح هذا الخطأ.";
+"Try Recovery" = "تجربة الاستعادة";
+"Other options for Data Recovery" = "خيارات أخرى لاستعادة البيانات";
+
+"When Insert" = "عند الإدخال";
+"Upload image" = "رفع الصور";
+"e.g: %@" = "e.g: %@";
+"Test Uploader" = "تجربة الرافع";
+"Validating" = "التحقق من رافع الصور";
+"Validation Failed" = "فشل التحقق";
+"Validation Succeed" = "نجح التحقق";
+"Testing image uploading using command:" = "اختبار رفع الصور باستخدام الأمر:";
+"Running… Waiting for results." = "جار العمل... بانتظار النتائج.";
+"Output from the console:" = "نتيجة وحدة التحكم:";
+"Error from the console:" = "خطأ من وحدة التحكم:";
+"Failed to fetch uploaded image from command output." = "فشل في الحصول على الصورة المرفوعة من مخرج الأوامر.";
+"Successfully get uploaded image url." = "تم الحصول على رابط الصورة المرفوعة بنجاح.";
+"Image Uploader" = "رافع الصور";
+"Instructions" = "تعليمات";
+"Download %@" = "تحميل %@";
+"Image Upload Setting" = "خيارات رفع الصور";
+"Please set an image uploader in Preferences panel before using this function." = "الرجاء اختيار رافع صور معين من قائمة المفضلات قبل استخدام هذه الخاصية.";
+"Download or Upgrade" = "تحميل أو ترقية";
+"Open Config File" = "فتح ملف التكوين";
+"Command" = "أمر";
+"PicGo Path" = "PicGo مسار";
+"Path of PicGo binary" = "مسار التنفيذي لـ PicGo";
+"Executable" = "قابل للتنفيذ";
+"Checking" = "يتفقد";
+"Download" = "تحميل";
+"Agree and Download" = "الموافقة والتحميل";
+"Download and Reinstall" = "تنزيل وإعادة التثبيت";
+"Loading PicGo-Core License" = "تحميل ترخيص PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "فشل الحصول على الإصدار المثبت من PicGo-Core (سطر الأوامر)";
+"You have the latest PicGo-Core (CLI)" = "لديك أحدث إصدار من سطر الأوامر PicGo-Core ";
+"Newer version is available" = "تتوفر نسخة أحدث";
+
+"Downloading…" = "جار التحميل...";
+"Unzipping…" = "جار فك الضغط...";
+"Finished" = "انتهى";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "سيطلق تايبورا برنامجًا تابعًا لجهة خارجية مشاركًا مسارات جميع الصور المحلية. سيتمكن برنامج تحميل الصور وتخزين الصور السحابية من الوصول إلى صورك المحلية. هل أنت متأكد من المتابعة؟";
+
+"Export operation finished successfully." = "التصدير انتهى بنجاح.";
+
+"Shortcut Keys" = "مفاتيح الاختصار";
+"Custom Shortcut Keys" = "تخصيص مفاتيح الاختصار";

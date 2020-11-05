@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
 "Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被启用时，该选项被默认启用。";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被关闭时，该选项被默认启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
 
@@ -240,7 +240,7 @@
 "Restore last closed files and folders" = "重新打开上次使用的文件和目录";
 "Open custom folder" = "打开指定目录";
 "Select custom folder" = "选择指定目录";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "该选项可能会被系统设置中的 \"退出 App 时关闭窗口\" 所覆盖";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "该选项可能会被系统设置中的 \"退出 App 时关闭窗口\" 所覆盖";
 
 "Ignore" = "忽略";
 "Choose Default Folder" = "选择默认文件夹";
@@ -355,3 +355,16 @@
 "Finished" = "已完成";
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";
+
+"Export operation finished successfully." = "导出成功";
+
+"Shortcut Keys" = "快捷键";
+"Custom Shortcut Keys" = "自定义快捷键";
+
+"Theme" = "主题";
+"Light Theme" = "浅色主题";
+"Dark Theme" = "深色主题";
+"Use separate theme in dark mode" = "在深色模式下使用独立的主题";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或者 Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 将 – (en dash)， 将 ---  转化为 — (em dash)";
+"Convert -- and --- to — (em dash)" = "将 -- 和 --- 将 — (em dash)";

@@ -29,7 +29,6 @@
 "Show Outline Panel by Default" = "Zobrazovať prehľadový panel predvolene";
 "Collapsible Outline on Left Panel" = "Zbaliteľný prehľad na ľavom paneli";
 "Save without asking when\nswitch files on side panel" = "Uložiť bez opýtania keď\nsa prepnú súbory na ľavom paneli";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Upravené súbory sa uložia bez otázky pri prepínaní súborov na ľavom paneli. \nKeď \"Pýtať sa či zachovať zmeny pri zatváraní dokumentov\" je povolená v systémových nastaveniach, toto je vždy povolené.";
 "Language" = "Jazyk";
 "System Language" = "Systémový jazyk";
 
@@ -242,7 +241,7 @@
 "Restore last closed files and folders" = "Obnoviť posledné uzavreté súbory a priečinky";
 "Open custom folder" = "Otvoriť vlastný priečinok";
 "Select custom folder" = "Vybrať vlastný priečinok";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Táto možnosť sa dá prepísať \"Zatvoriť okná pri zatvorení aplikácie\" v systémových nastaveniach";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Táto možnosť sa dá prepísať \"Zatvoriť okná pri zatvorení aplikácie\" v systémových nastaveniach";
 
 "Ignore" = "Ignorovať";
 "Choose Default Folder" = "Vybrať predvolený priečinok";

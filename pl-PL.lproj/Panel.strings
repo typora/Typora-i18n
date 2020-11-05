@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "Domyślnie pokazuj widok konspektu";
 "Collapsible Outline on Left Panel" = "Zwijany konspekt w panelu bocznym";
 "Save without asking when\nswitch files on side panel" = "Zapisz bez pytania, kiedy przejdziesz\ndo innego pliku na panelu bocznym";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Edytowane pliki będą zapisywane bez pytania po wybraniu innego pliku w panelu bocznym. \nGdy opcja \"Pytaj, czy zapisywać zmiany podczas zamykania dokumentów\" jest włączona w Preferencjach systemowych, to ustawienie jest zawsze aktywne.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edytowane pliki będą zapisywane bez pytania po wybraniu innego pliku w panelu bocznym. \nGdy opcja \"Pytaj, czy zapisywać zmiany podczas zamykania dokumentów\" jest wyłączona w Preferencjach systemowych, to ustawienie jest zawsze aktywne.";
 "Language" = "Język";
 "System Language" = "Język systemowy";
 
@@ -237,7 +237,7 @@
 "Restore last closed files and folders" = "przywróć ostatnio zamknięte pliki i foldery";
 "Open custom folder" = "otwórz własny folder";
 "Select custom folder" = "Wybierz własny folder";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Ta opcja może być uchylona ustawieniem \"Zamykaj okna, gdy zamykam aplikacje\" w Preferencjach systemowych";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Ta opcja może być uchylona ustawieniem \"Zamykaj okna, gdy zamykam aplikacje\" w Preferencjach systemowych";
 
 "Ignore" = "Ignoruj";
 "Choose Default Folder" = "Wybierz folder domyślny";
@@ -359,3 +359,14 @@
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to confinue?" = "Typora uruchomi aplikację zewnętrzną z ścieżkami do plików wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów i dysk w chmurze będą wówczas mieć dostęp do Twoich obrazów lokalnych. Na pewno kontynować?";
 
 "Export operation finished successfully." = "Operacja eksportu zakończona powodzeniem.";
+
+"Shortcut Keys" = "Klawisze skrótów";
+"Custom Shortcut Keys" = "Własne klawisze skrótów";
+
+"Theme" = "Motyw";
+"Light Theme" = "Jasny motyw";
+"Dark Theme" = "Ciemny motyw";
+"Use separate theme in dark mode" = "Użyj innego motywu w trybie ciemnym";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Obsługiwane przez macOS ≥ 10.15 lub Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Zamieniaj -- na – (półpauzę) oraz --- na — (pauzę)";
+"Convert -- and --- to — (em dash)" = "Zamieniaj -- oraz --- na — (półpauzę)";

@@ -28,7 +28,6 @@
 "Show Outline Panel by Default" = "Amosar panel de esquema por defecto";
 "Collapsible Outline on Left Panel" = "Esquema plegable no panel esquerdo";
 "Save without asking when\nswitch files on side panel" = "Gardar sen preguntar ao \ncambiar os arquivos no panel lateral";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "Os arquivos editados gardaranse sen preguntar cando se cambien no panel esquerdo. \nEntón \"Preguntar si mantemos os cambios ao pechar documentos\" está habilitado nas Preferencias do Sistema, isto sempre está activado.";
 "Language" = "Idioma";
 "System Language" = "Idioma do sistema";
 
@@ -237,7 +236,7 @@
 "Restore last closed files and folders" = "Restaurar os últimos arquivos e cartafoles pechados";
 "Open custom folder" = "Abrir o cartafol personalizado";
 "Select custom folder" = "Seleccionar o cartafol personalizado";
-"This option may be overridden by \"Close windows when quitting an app\" in System Preferences" = "Esta opción pode ser anulada por \"Pechar ventás ao sair dunha aplicación\" en Preferencias do Sistema";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Esta opción pode ser anulada por \"Pechar ventás ao sair dunha aplicación\" en Preferencias do Sistema";
 
 "Ignore" = "Ignorar";
 "Choose Default Folder" = "Escoller o cartafol predefinido";

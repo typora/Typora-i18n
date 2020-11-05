@@ -1,0 +1,176 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "Tamam";
+"Cancel" = "İptal";
+"Yes" = "Evet";
+"No" = "Hayır";
+"Close" = "Kapat";
+"Select" = "Seç";
+"Continue" = "Devam Et";
+"Learn More…" = "Daha Fazla Bilgi…";
+"Untitled" = "İsimsiz";
+"Undo" = "Geri Al";
+"Dismiss" = "İptal Et";
+"Confirm" = "Onayla";
+"Error" = "Hata";
+
+/* Search Panel */
+"Search" = "Ara";
+"Replace" = "Değiştir";
+"All" = "Tümü";
+"Search text not found in article" = "Belgede aranan metin bulunamadı";
+"search text" = "Metni ara";
+
+/* Quick Open */
+"Search by file name" = "Dosya ismine göre ara";
+"Searching" = "Aranıyor";
+"Gathering more results" = "Daha fazla sonuç elde ediliyor";
+
+/* Tables */
+"Insert Table" = "Tablo ekle";
+"Columns" = "Sütunlar";
+"Rows" = "Satırlar";
+"Align Left" = "Sola yasla";
+"Align Center" = "Ortala";
+"Align Right" = "Sağa yasla";
+"Resize Table" = "Tablo boyutunu değiştir";
+"Delete Table" = "Tabloyu kaldır";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sizin YAML Front Matter ayarlarınız veya genel ayarlarınıza göre <code id='image-create-folder-target'></code> dosyasına yeni yerleştirilen resmi kopyalamaya çalışıyor. Ancak hedef gösterilen klasör yok, Şimdi oluşturmak ister misiniz?";
+"Create Folder" = "Yeni Klasör Oluştur";
+
+/* Math */
+"Edit" = "Düzenle";
+"Delete Math" = "Matematik formulünü sil";
+"Preview" = "Önizle";
+
+/* Sidebar */
+"Articles" = "Metinler";
+"Outline" = "Özet";
+"Files" = "Dosyalar";
+"Switch to File List view" = "Dosya listesi görünümüne geç";
+"Switch to File Tree view" = "Dosya ağacı görünümüne geç";
+"Switch to Outline view" = "Özet görünümüne geç";
+"Close sidebar" = "Kenar çubuğunu kapat";
+"Loading" = "Yükleniyor";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Seçilen klasörde çok fazla dosya var. \nDaha iyi performans için lütfen <a id='switch-to-tree-on-oversize'>File Tree view</a> seçeneğine değiştirin.";
+"New File" = "Yeni Dosya";
+"Unpin Outline Panel" = "Özet panelini kaldırın";
+"Open Folder..." = "Klasörü Aç...";
+"Action" = "Eylemler";
+"Close Sidebar Menu" = "Kenar Çubuğunu Menüsünü Kapat";
+"Reveal in Finder" = "Dosya Konumunu Göster";
+"Reveal in File Explorer" = "Dosya Konumunu Göster";
+"Refresh Folder" = "Klasörü Yenile";
+"Sort" = "Sırala";
+"Group By Folder" = "Klasörlere Göre Gurupla";
+"Sort Naturally (Ascending)" = "Serbest olarak sırala (Yükselerek)";
+"Sort Naturally (Descending)" = "Serbest olarak sırala (Alçalarak)";
+"Sort by Name (Ascending)" = "İsme göre sırala (Yükselerek)";
+"Sort by Modification Date (Ascending)" = "Değiştirilme tarihine göre sırala (Yükselerek)";
+"Sort by Name (Descending)" = "İsme göre sırala (Alçalarak)";
+"Sort by Modification Date (Descending)" = "Değiştirilme tarihine göre sırala (Alçalarak)";
+"Location" = "Konum";
+"Switch File List/Tree View" = "Dosya Listesi/Ağacına göre görünümü değiştir.";
+"No Files Available" = "Hiçbir Dosyaya Ulaşılamadı";
+"No Folder is Opened." = "Hiçbir Dosya Açılmadı.";
+"Outline is Empty." = "Özet Kısmı Boş.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Kenar Çubuğunu Aç/Kapa";
+"Toggle Source Code Mode" = "Kaynak Kodu Modunu Aç/Kapa";
+"Exit Source Code Mode" = "Kaynak Kodu Modundan Çık";
+
+"Table of Contents" = "İçindekiler";
+"Empty Diagram" = "Boş Diyagram";
+"Input Math TeX here" = "Math TeX 'ini Yerleştir";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Referans dipnotunun <b>{0}</b><a>[^{1}]: www.example.com</a> söz dizimi ile tanımlanması gerekir";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Referans linkini <b>[{0}]</b><b>[{1}]: www.example.com</b> söz dizimi ile tanımlanması gerekir";
+"Please define image reference by \n[{0}]: http://example.png" = "Lütfen resim referansını \n[{0}]: http://example.png olarak tanımlayın";
+
+/* msg */
+"Failed to create file" = "Dosya oluşturulamadı";
+"Failed to create folder" = "Klasör oluşturulamadı";
+"Failed to rename file" = "Dosya ismi değiştirilemiyor";
+"Folder does not exist at %@" = "%@ 'da belirtilen klasör yok";
+"File with the same name already exists at target path" = "Belirtilen konumda aynı isimde bir dosya var";
+"Apply to All" = "Hepsi İçin Onayla";
+"Overwrite" = "Üzerine Yaz";
+"Stop" = "Durdur";
+"back to document" = "Belgeye geri dön";
+"Failed to load file" = "Dosya yüklenemedi";
+"Save File Failed!" = "Dosya kaydedilemedi!";
+"Cannot open folder {0}" = "{0} dosyası açılamıyor";
+
+"File content is changed by external applications. Reload content from disk ?" = "Dosyanın içeriği başka bir program tarafından değiştirilmiş. Dosyanın içeriğini diskten yüklemek ister misiniz ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Dosyaları taşımak ve önceki dosyanın/dosyaların üzerine yazmak ister misiniz ?";
+
+"Rename to \"{0}\" ?" = "İsmi \"{0}\" olarak değiştir ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\" olan isim \"{1}\" olarak değiştirilemiyor";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "{0} adet resim başarıyla yüklendi.";
+"Failed to upload image. Error Message:" = "Resim yüklenemedi. Hata Mesajı:";
+"Failed to Copy Image to Target Folder." = "Belirtilen Dosyaya Resim Yüklenemedi.";
+"Select Container Folder" = "Taşıma Dosyasını Seçin";
+
+"Saved" = "Kaydedildi";
+
+/* place holder in find & replace input */
+"search text" = "metni ara";
+"replace with" = "değiştir";
+/* search option */
+"Case Sensitive" = "Büyük/Küçük Harf Eşleştir";
+"Whole Word" = "Sadece Tam Kelimeleri Eşleştir";
+
+"input image URL" = "resmin URL 'sini giriniz";
+"Select image from local file" = "Resmi bilgisayardan seç";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> konumu açılamıyor, Bunu "<a href='https://$3'>https://$2</a>" mu demek istediniz ?";
+
+"select a language" = "bir dil seçiniz";
+"Finish Editing" = "Düzenlemeyi tamamla";
+
+"Revert advanced setting file to default one ?" = "Gelişmiş seçenekleri varsayılanlara geri döndür ?";
+
+"Select Spell Check Language" = "Yazım Denetimi Dilini seçiniz";
+"Auto Detect Language" = "Dili Otomatik Olarak Seç";
+"Disable Spell Check" = "Yazım Denetimini Devre Dışı Bırak";
+"Global Setting…" = "Genel Ayarlar…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Yazım denetimi için %@ sözlük dosyası bulunamıyor.";
+"Install Language Support" = "Yazım Denetimi Dosyasını Kur";
+"License Information" = "Lisans Bilgisi";
+"Download" = "İndir";
+"Install dictionary file only for Typora" = "Sadece Typora için sözlük dosyasını kur";
+"Spell Check (%@ unavailable)" = "Yazım denetimi (%@ bulunamıyor)";
+"Spell Check (%@ downloading)" = "Yazım denetimi (%@ indiriliyor)";
+"Download dictionary file for %@" = "%@ için sözlük dosyasını indir";
+"(Default spell check option)" = "(Varsayılan yazım denetimi seçeneği)";
+"Failed to load spellcheck module" = "Yazım denetimi modülünü yüklemede hata çıktı";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> açıldı.";
+"You could turn it off from `View` menu." = "`Görünüm` menüsünden kapatabilirsiniz.";
+"The file is too large to render in Typora." = "Dosya Typora 'da görüntülenebilmek için fazla büyük.";
+"Open in…" = "… Dosya konumunda aç";
+"Quick Look" = "Genel Bakış";
+
+"Filter" = "Flitre";
+"No result found." = "Sonuç bulunamadı.";
+"Continue & Overwrite" = "Devam Et ve Üzerine Yaz";
+"The file is read-only, or you do not have right permissions to modify the file." = "Dosya yazılmaya karşı korumalı veya dosyayı düzenlemek için gerekli izinlere sahip değilsiniz.";
+
+"Learn Data Recovery" = "Veri kurtarmayı öğren";
+"Auto refresh on Files Panel cannot be enabled." = "Dosya panelinde otomatik yenileme aktifleştrilemiyor.";
+"Delete Permanently" = "Kalıcı olarak sil";
+
+
+"Failed to upload images:" = "Resim yüklemede hata meydana geldi:";
+"Uploading in progress" = "Yükleniyor";
+"Successfully uploaded {0} images, {1} failed." = "{0} adet resim sorunsuz şekilde yükendi, {1} yükenemedi.";

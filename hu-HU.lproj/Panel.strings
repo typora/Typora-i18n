@@ -314,7 +314,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importálás és a legtöbb formátumba történő exportáláshoz szükséges a Pandoc (≥%@) telepítése.";
 "Do not show this message again" = "Ne mutassa ezt az üzenetet még egyszer";
 
-"Page break between top level sections" = "Legfelső szintű szakaszok elválasztása oldaltöréssel";
+"Page Break Between Top Headings" = "Legfelső szintű szakaszok elválasztása oldaltöréssel";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Az idézőjelpárok a Rendszerbeállítások → Billentyűzet → Szöveg menüben állíthatók. Megváltoztatás után a Typorát újra kell indítani.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sajnos hiba lépett fel. A dokumentumot a vágólapra másoltuk. Ha bejelenti a hibát a <hi@typora.io> címen, azzal segít nekünk a kijavításában.";

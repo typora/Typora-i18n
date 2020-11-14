@@ -71,7 +71,8 @@
 "Refresh Folder" = "刷新";
 "Sort" = "排序";
 "Group By Folder" = "按文件夹分组";
-"Sort Naturally" = "自然排序";
+"Sort Naturally (Ascending)" = "自然排序（升序）";
+"Sort Naturally (Descending)" = "自然排序（降序）";
 "Sort by Name (Ascending)" = "按文件名排序（升序）";
 "Sort by Modification Date (Ascending)" = "按修改时间排序（升序）";
 "Sort by Name (Descending)" = "按文件名排序（降序）";

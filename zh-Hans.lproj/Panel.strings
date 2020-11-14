@@ -312,7 +312,7 @@
 "Use LaTeX Source" = "使用 LaTeX 代码";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
 
-"Page break between top level sections" = "按一级标题分页";
+"Page Break Between Top Headings" = "按一级标题分页";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
 "Try Recovery" = "尝试恢复";
@@ -368,3 +368,54 @@
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或者 Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 将 – (en dash)， 将 ---  转化为 — (em dash)";
 "Convert -- and --- to — (em dash)" = "将 -- 和 --- 将 — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "你可以在 系统偏好设置 → 键盘 → 文本 中设置引号格式。Typora 会在重启后应用新的设置。";
+
+
+"Paper Size" = "页面大小";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "分页";
+"Header" = "页首";
+"Footer" = "页尾";
+"Author" = "作者";
+"Append in <head />" = "在 <head /> 中添加";
+"Append in <body />" = "在 <body /> 中添加";
+"Include Outline Sidebar" = "保留大纲侧边栏";
+"Width" = "宽度";
+"Command" = "命令";
+"Show Save File Dialog" = "显示对话框以选择导出路径";
+"File Extensions for Export" = "导出文件可使用的扩展名";
+"Arguments" = "参数";
+"Extra Arguments" = "自定义参数";
+"LaTeX Engine" = "LaTeX 引擎";
+"Template" = "模板";
+"Empty" = "空";
+"Style Reference" = "样式文件";
+"Custom CSS" = "自定义 CSS";
+"Chapter Level" = "章节层级";
+"Default Folder for Exported File" = "默认的导出文件夹";
+"Same folder with current file" = "和原文件同一目录下";
+"Custom location" = "自定义";
+"(Auto Detect)" = "(自动检测)";
+"After Export" = "导出后";
+"Open exported file location" = "选中导出文件";
+"Open exported file" = "打开导出文件";
+"Custom" = "自定义";
+"None" = "无";
+"Default" = "默认";
+"Margin" = "页边距";
+"Margin Left" = "左侧页边距";
+"Margin Right" = "右侧页边距";
+"Margin Top" = "上方页边距";
+"Margin Bottom" = "下方页边距";
+"Width x Height" = "宽 x 高";
+"Add From a Template" = "从模板添加";
+"Delete this export option ?" = "删除该导出选项 ?";
+"Add" = "添加";
+"Delete" = "删除";
+"Rename" = "重命名";
+"Move Down" = "上移";
+"Move Up" = "下移";
+"Pandoc Path" = "Pandoc 路径";
+"Select" = "选择";

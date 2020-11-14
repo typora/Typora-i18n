@@ -312,7 +312,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Fonksiyonları içe aktarma ve pek çok dışa aktarma formatı Pandoc (≥%@) yüklü olmasını gerektirmektedir.";
 "Do not show this message again" = "Bu mesajı tekrar gösterme";
 
-"Page break between top level sections" = "En yukarıdaki bölümler arasına sayfa sonu";
+"Page Break Between Top Headings" = "En yukarıdaki bölümler arasına sayfa sonu";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Sistem Ayarları → Klavye → Metin üzerinden alıntı modellerini ayarlayabilirsiniz. Eğer değiştirirseniz Typora'nın uygulayabilmek için yeniden başlatılması gerekir.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Üzgünüz, bir hata oluştu, son yazılan içerik panoya kopyalandı. Bu hatayı düzeltmemiz için <hi@typora.io> adresine bildirerek bize yardım edebilirsiniz.";

@@ -314,7 +314,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Функция импорта и некоторые форматы экспорта требуют установки Pandoc (≥%@).";
 "Do not show this message again" = "Не показывать это сообщение снова";
 
-"Page break between top level sections" = "Разрыв страницы между разделами верхнего уровня";
+"Page Break Between Top Headings" = "Разрыв страницы между разделами верхнего уровня";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Вы можете установить шаблоны цитат в Системных настройках → Клавиатура → Текст. Для применения нового шаблона потребуется перезагрузка программы.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Извините, произошла ошибка, текущее содержимое записи скопировано в буфер обмена. Вы можете сообщить об этом по адресу <hi@typora.io>, чтобы помочь нам исправить эту ошибку.";

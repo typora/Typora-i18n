@@ -312,7 +312,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Funkcja importowania i kilka formatów eksportowania wymagają zainstalowanego modułu Pandoc (≥%@).";
 "Do not show this message again" = "Nie pokazuj więcej tego komunikatu";
 
-"Page break between top level sections" = "Podział strony między sekcjami najwyższego poziomu";
+"Page Break Between Top Headings" = "Podział strony między sekcjami najwyższego poziomu";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Wzory cudzysłowów można ustawić w Preferencjach systemowych → Klawiatura → Tekst. Jeśli zostaną tam zmienione, Typora będzie wymagała ponownego uruchomienia, aby uwzględnić zmiany.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Przepraszamy, ale wystąpił jakiś błąd, a obecna zawartość tekstowa została skopiowana do schowka. Możesz to zgłosić pod adresem <hi@typora.io>, byśmy mogli naprawić ten błąd.";

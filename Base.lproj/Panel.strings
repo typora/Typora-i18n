@@ -280,7 +280,6 @@
 "words / min" = "words / min";
 
 "Reset to Default" = "Reset to Default";
-"Select custom folder" = "Select custom folder";
 "120  words/minute (Slow)" = "120  words/minute (Slow)";
 "240  words/minute (Medium)" = "240  words/minute (Medium)";
 "382  words/minute (Fast)" = "382  words/minute (Fast)";
@@ -312,8 +311,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
 "Do not show this message again" = "Do not show this message again";
 
-"Page break between top level sections" = "Page Break between top level sections";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+"Page Break Between Top Headings" = "Page Break Between Top Headings";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
 "Try Recovery" = "Try Recovery";
@@ -370,3 +368,55 @@
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "Convert -- to – (en dash), and --- to — (em dash)";
 "Convert -- and --- to — (em dash)" = "Convert -- and --- to — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+
+
+"Paper Size" = "Paper Size";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Page Break";
+"Page Break Between Top Headings" = "Page Break Between Top Headings";
+"Header" = "Header";
+"Footer" = "Footer";
+"Author" = "Author";
+"Append in <head />" = "Append in <head />";
+"Append in <body />" = "Append in <body />";
+"Include Outline Sidebar" = "Include Outline Sidebar";
+"Width" = "Width";
+"Command" = "Command";
+"Show Save File Dialog" = "Show Save File Dialog";
+"File Extensions for Export" = "File Extensions for Export";
+"Arguments" = "Arguments";
+"Extra Arguments" = "Extra Arguments";
+"LaTeX Engine" = "LaTeX Engine";
+"Template" = "Template";
+"Empty" = "Empty";
+"Style Reference" = "Style Reference";
+"Custom CSS" = "Custom CSS";
+"Chapter Level" = "Chapter Level";
+"Default Folder for Exported File" = "Default Folder for Exported File";
+"Same folder with current file" = "Same folder with current file";
+"Custom location" = "Custom location";
+"(Auto Detect)" = "(Auto Detect)";
+"After Export" = "After Export";
+"Open exported file location" = "Open exported file location";
+"Open exported file" = "Open exported file";
+"Custom" = "Custom";
+"None" = "None";
+"Default" = "Default";
+"Margin" = "Margin";
+"Margin Left" = "Margin Left";
+"Margin Right" = "Margin Right";
+"Margin Top" = "Margin Top";
+"Margin Bottom" = "Margin Bottom";
+"Width x Height" = "Width x Height";
+"Add From a Template" = "Add From a Template";
+"Delete this export option ?" = "Delete this export option ?";
+"Add" = "Add";
+"Delete" = "Delete";
+"Rename" = "Rename";
+"Move Down" = "Move Down";
+"Move Up" = "Move Up";
+"Pandoc Path" = "Pandoc Path";
+"Select" = "Select";

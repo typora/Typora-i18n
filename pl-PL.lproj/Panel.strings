@@ -280,7 +280,6 @@
 "words / min" = "słów/min";
 
 "Reset to Default" = "Przywróć domyślny";
-"Select custom folder" = "Wybierz własny folder";
 "120  words/minute (Slow)" = "120 słów/minutę (wolno)";
 "240  words/minute (Medium)" = "240 słów/minutę (średnio)";
 "382  words/minute (Fast)" = "382 słowa/minutę (szybko)";
@@ -312,8 +311,7 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Funkcja importowania i kilka formatów eksportowania wymagają zainstalowanego modułu Pandoc (≥%@).";
 "Do not show this message again" = "Nie pokazuj więcej tego komunikatu";
 
-"Page Break Between Top Headings" = "Podział strony między sekcjami najwyższego poziomu";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Wzory cudzysłowów można ustawić w Preferencjach systemowych → Klawiatura → Tekst. Jeśli zostaną tam zmienione, Typora będzie wymagała ponownego uruchomienia, aby uwzględnić zmiany.";
+"Page Break Between Top Headings" = "Podział strony między nagłówkami najwyższego poziomu";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Przepraszamy, ale wystąpił jakiś błąd, a obecna zawartość tekstowa została skopiowana do schowka. Możesz to zgłosić pod adresem <hi@typora.io>, byśmy mogli naprawić ten błąd.";
 "Try Recovery" = "Wypróbuj odzyskiwanie";
@@ -370,3 +368,55 @@
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Obsługiwane przez macOS ≥ 10.15 lub Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "Zamieniaj -- na – (półpauzę) oraz --- na — (pauzę)";
 "Convert -- and --- to — (em dash)" = "Zamieniaj -- oraz --- na — (półpauzę)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Wzory cudzysłowów można ustawić w Preferencjach systemowych → Klawiatura → Tekst. Jeśli zostaną tam zmienione, Typora będzie wymagała ponownego uruchomienia, aby uwzględnić zmiany.";
+
+
+"Paper Size" = "Rozmiar papieru";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Podział strony";
+"Page Break Between Top Headings" = "Podział strony między nagłówkami najwyższego poziomu";
+"Header" = "Nagłówek";
+"Footer" = "Stopka";
+"Author" = "Autor";
+"Append in <head />" = "Umieść w <head />";
+"Append in <body />" = "Umieść w <body />";
+"Include Outline Sidebar" = "Uwzględnij panel boczny konspektu";
+"Width" = "Szerokość";
+"Command" = "Polecenie";
+"Show Save File Dialog" = "Pokaż okno dialogowe zapisywania pliku";
+"File Extensions for Export" = "Rozszerzenia eksportowanych plików";
+"Arguments" = "Argumenty";
+"Extra Arguments" = "Argumenty dodatkowe";
+"LaTeX Engine" = "Silnik LaTeX";
+"Template" = "Szablon";
+"Empty" = "Pusty";
+"Style Reference" = "Odwołanie do stylu";
+"Custom CSS" = "Własny CSS";
+"Chapter Level" = "Poziom rozdziału";
+"Default Folder for Exported File" = "Domyślny folder eksportowanego pliku";
+"Same folder with current file" = "Ten sam folder, co bieżący plik";
+"Custom location" = "Własna lokalizacja";
+"(Auto Detect)" = "(automatycznie wykryj)";
+"After Export" = "Po wyeksportowaniu";
+"Open exported file location" = "Otwórz folder, do którego wyeksportowano plik";
+"Open exported file" = "Otwórz wyeksportowany plik";
+"Custom" = "Własny";
+"None" = "Brak";
+"Default" = "Domyślny";
+"Margin" = "Margines";
+"Margin Left" = "Lewy margines";
+"Margin Right" = "Prawy margines";
+"Margin Top" = "Górny margines";
+"Margin Bottom" = "Dolny margines";
+"Width x Height" = "Szerokość x wysokość";
+"Add From a Template" = "Dodaj z szablonu";
+"Delete this export option ?" = "Usunąć tę opcję eksportu?";
+"Add" = "Dodaj";
+"Delete" = "Usuń";
+"Rename" = "Zmień nazwę";
+"Move Down" = "Przenieś niżej";
+"Move Up" = "Przenieś wyżej";
+"Pandoc Path" = "Ścieżka do Pandoc";
+"Select" = "Wybierz";

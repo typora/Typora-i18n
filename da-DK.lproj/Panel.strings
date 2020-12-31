@@ -313,3 +313,115 @@
 "Use LaTeX Source" = "Brug LaTeX kildekode";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Aktiveres når du eksporterer som HTML (uden typografier), kopier som HTML, eller kopiere uden typografi.<br/>Når <strong>Brug LaTeX kildekode</strong> er valgt, vil Typora indsætte den rå LaTeX kildekode (e.g: $X^2$),<br/>Når <strong>Brug tegnet SVG</strong> er valgt, bliver det tegnede SVG brugt. Hvis du indsætter i et andet program, kan SVG blive ignoreret.</div>";
 
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importfunktionen og flere eksportformater kræver at Pandoc (≥%@) er installeret.";
+"Do not show this message again" = "Vis ikke denne besked igen";
+
+"Page Break Between Top Headings" = "Sideskift mellem største overskrifter";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Beklager, men der opstod en fejl, indholdet der skulle skrives er blevet kopieret til udklipsholderen. Du må gerne rapportere dette til <hi@typora.io> for at hjælpe os til at rette denne fejl.";
+"Try Recovery" = "Prøv genskabelse";
+"Other options for Data Recovery" = "Andre muligheder for genskabelse af data";
+
+"When Insert" = "Ved indsættelse";
+"Upload image" = "Upload billede";
+"e.g: %@" = "f. eks.: %@";
+"Test Uploader" = "Uploadtest";
+"Validating" = "Tjekker upload af billede";
+"Validation Failed" = "Tjek fejlet";
+"Validation Succeed" = "Tjek lykkedes";
+"Testing image uploading using command:" = "Tjekker upload af billede vha. kommandoen:";
+"Running… Waiting for results." = "Kører… Venter på resultatet.";
+"Output from the console:" = "Tekst fra konsollen:";
+"Error from the console:" = "Fejl fra konsollen:";
+"Failed to fetch uploaded image from command output." = "Kunne ikke hente uploaded billede fra kommandoens skærmtekst.";
+"Successfully get uploaded image url." = "Fik URL'en på det uploadede billede.";
+"Image Uploader" = "Billeduploader";
+"Instructions" = "Instruktioner";
+"Download %@" = "Hent %@";
+"Image Upload Setting" = "Indstillinger for upload af billeder";
+"Please set an image uploader in Preferences panel before using this function." = "Vælg venligst en metode til at uploade billeder i Indstillinger før du bruger denne funktion.";
+"Download or Upgrade" = "Hent eller opgradér";
+"Open Config File" = "Åbn konfigurationsfil";
+"Command" = "Kommando";
+"PicGo Path" = "PicGo sti";
+"Path of PicGo binary" = "Sti til PicGo program";
+"Executable" = "Programfil";
+"Checking" = "Tjekker";
+"Download" = "Hent";
+"Agree and Download" = "Acceptér og hent";
+"Download and Reinstall" = "Hent og geninstallér";
+"Loading PicGo-Core License" = "Henter PicGo-Core licens";
+"Failed to get installed version of PicGo-Core (command line)" = "Kunne ikke hente versionsnummeret på PicGo-Core (kommandolinje)";
+"You have the latest PicGo-Core (CLI)" = "Du har den nyeste udgave af PicGo-Core (CLI)";
+"Newer version is available" = "En nyere udgave er tilgængelig";
+
+"Downloading…" = "Henter…";
+"Unzipping…" = "Udpakker…";
+"Finished" = "Færdig";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora vil starte tredjepartsprogram med stier til alle lokale billeder. Billeduploaderen og billedplads i skyen vil så have adgang til dine lokale billeder. Ønsker du at fortsætte?";
+
+"Export operation finished successfully." = "Eksport afsluttet uden problemer.";
+
+"Shortcut Keys" = "Genvejstaster";
+"Custom Shortcut Keys" = "Tilpassede genvejstaster";
+
+"Theme" = "Tema";
+"Light Theme" = "Lyst tema";
+"Dark Theme" = "Mørkt tema";
+"Use separate theme in dark mode" = "Brug andet tema i mørk tilstand";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Understøttet på macOS ≥ 10.15 og Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Konvertér -- til – (en dash) og --- til — (em dash)";
+"Convert -- and --- to — (em dash)" = "Konvertér -- og --- til — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kan indstille citatmønstre i Systempræferencer → Tastatur → Tekst. Hvis du ændrer det så skal Typora genstartes for at anvende det.";
+
+
+"Paper Size" = "Papirstørrelse";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Sideskift";
+"Page Break Between Top Headings" = "Sideskift mellem største overskrifter";
+"Header" = "Sidehoved";
+"Footer" = "Sidefod";
+"Author" = "Forfatter";
+"Append in <head />" = "Tilføj i <head />";
+"Append in <body />" = "Tilføj i <body />";
+"Include Outline Sidebar" = "Inkludér dispositionsbjælke";
+"Width" = "Bredde";
+"Command" = "Kommando";
+"Show Save File Dialog" = "Vis Gem Fil vindue";
+"File Extensions for Export" = "Filtyper for eksport";
+"Arguments" = "Argumenter";
+"Extra Arguments" = "Ekstra argumenter";
+"LaTeX Engine" = "LaTeX motor";
+"Template" = "Skabelon";
+"Empty" = "Tom";
+"Style Reference" = "Reference til typografi";
+"Custom CSS" = "Tilpasset CSS";
+"Chapter Level" = "Kapitelniveau";
+"Default Folder for Exported File" = "Standard folder for eksporteret fil";
+"Same folder with current file" = "Samme folder som nuværende fil";
+"Custom location" = "Tilpasset placering";
+"(Auto Detect)" = "(Opdag automatisk)";
+"After Export" = "Efter eksport";
+"Open exported file location" = "Åbn eksporteret fil placering";
+"Open exported file" = "Åbn eksporteret fil";
+"Custom" = "Tilpasset";
+"None" = "Ingen";
+"Default" = "Standard";
+"Margin" = "Margen";
+"Margin Left" = "Venstre margen";
+"Margin Right" = "Højre margen";
+"Margin Top" = "Top margen";
+"Margin Bottom" = "Bund margen";
+"Width x Height" = "Bredde x Højde";
+"Add From a Template" = "Tilføj fra en skabelon";
+"Delete this export option ?" = "Slet denne indstilling for eksport?";
+"Add" = "Tilføj";
+"Delete" = "Slet";
+"Rename" = "Omdøb";
+"Move Down" = "Flyt ned";
+"Move Up" = "Flyt op";
+"Pandoc Path" = "Pandoc sti";
+"Select" = "Vælg";

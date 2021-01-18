@@ -171,3 +171,7 @@
 "Auto refresh on Files Panel cannot be enabled." = "Automatisk genvisning af filpanel kan ikke aktiveres.";
 "Delete Permanently" = "Slet permanent";
 
+
+"Failed to upload images:" = "Fejl ved upload af billeder:";
+"Uploading in progress" = "Upload udføres";
+"Successfully uploaded {0} images, {1} failed." = "Uploaded {0} billeder uden problemer, {1} fejlede.";

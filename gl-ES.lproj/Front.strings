@@ -9,7 +9,7 @@
 "OK" = "OK";
 "Cancel" = "Cancelar";
 "Yes" = "Si";
-"No" = "Information";
+"No" = "Non";
 "Close" = "Pechar";
 "Select" = "Selecinar";
 "Continue" = "Continuar";
@@ -44,7 +44,7 @@
 
 /* Images */
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imaxe recentemente inserida no cartafol <code id='image-create-folder-target'></code> de acordo coa súa configuración de YAML Front Matter -tema frontal YAML- ou as preferencias globais. Pero o cartafol de destino non existe, creálo agora?";
-"Create Folder" = "Create Folder";
+"Create Folder" = "Crear Cartafol";
 
 /* Math */
 "Edit" = "Editar";
@@ -70,12 +70,12 @@
 "Reveal in File Explorer" = "Revelar no Explorador de arquivos";
 "Refresh Folder" = "Actualizar o cartafol";
 "Sort" = "Ordenar";
-"Group By Folder" = "Grupo por cartafol";
+"Group By Folder" = "Agrupar por cartafol";
 "Sort Naturally" = "Ordenar naturalmente";
-"Sort by Name (Ascending)" = "Ordenar por nome (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordenar por data de modificación (Ascending)";
-"Sort by Name (Descending)" = "Ordenar por nome (Descending)";
-"Sort by Modification Date (Descending)" = "Ordenar por data de modificación (Descending)";
+"Sort by Name (Ascending)" = "Ordenar por nome (Ascendente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por data de modificación (Ascendente)";
+"Sort by Name (Descending)" = "Ordenar por nome (Descendente)";
+"Sort by Modification Date (Descending)" = "Ordenar por data de modificación (Descendente)";
 "Location" = "Localización";
 "Switch File List/Tree View" = "Cambiar Lista de arquivos/Vista de árbore";
 "No Files Available" = "Non hai arquivos dispoñibles";
@@ -114,7 +114,7 @@
 
 "Rename Failed" = "Renomear fallou";
 "Rename to \"{0}\" ?" = "Cambiar nome a \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Fallou renomear de \"{0}\" a \"{1}\"";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Fallo ó renomear de \"{0}\" a \"{1}\"";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Cargou con éxito {0} imaxes.";

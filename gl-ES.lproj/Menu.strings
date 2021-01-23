@@ -31,7 +31,7 @@
 "Open Quickly" = "Abre rapidamente";
 "Open File Location" = "Abrir localización do arquivo";
 "Reveal in Library" = "Revelar na biblioteca";
-"Reveal in File Tree" = "Revelar na árbore de ficheiros";
+"Reveal in File Tree" = "Revelar na árbore do arquivo";
 "Close" = "Pechar";
 "Save" = "Gardar";
 "Save As" = "Gardar como";
@@ -268,5 +268,5 @@
 "Unlearn Spelling" = "Desaprender ortografía";
 "Properties" = "Propiedades";
 
-"Insert Table" = "Insertar táboa";
-"Insert Image" = "Insert Image";
+"Insert Table" = "Inserir táboa";
+"Insert Image" = "Inserir Image";

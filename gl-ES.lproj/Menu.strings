@@ -24,22 +24,22 @@
 "Open Folder" = "Abrir cartafol";
 "Reopen with Encoding" = "Reabrir con codificación";
 "Auto" = "Auto";
-"Open Recent" = "Abrir Recente";
+"Open Recent" = "Abrir recente";
 "Recent Locations" = "Lugares recentes";
 "Clear Items" = "Limpar Items";
-"No Recent Files" = "Sen Arqiovos Recentes";
+"No Recent Files" = "Sen Arquivos Recentes";
 "Open Quickly" = "Abre rapidamente";
 "Open File Location" = "Abrir localización do arquivo";
 "Reveal in Library" = "Revelar na biblioteca";
-"Reveal in File Tree" = "Revelar na árbore de ficheiros";
+"Reveal in File Tree" = "Revelar na árbore de arquivos";
 "Close" = "Pechar";
 "Save" = "Gardar";
 "Save As" = "Gardar como";
 "Duplicate" = "Duplicar";
 "Rename" = "Renomear";
 "Move To" = "Mover a";
-"Revert To" = "Voltar a";
-"Browse All Versions" = "Buscar todas as versións";
+"Revert To" = "Reverter a";
+"Browse All Versions" = "Buscar tódalas versións";
 "Import" = "Importar";
 "Export" = "Exportar";
 "Page Setup" = "Configuración da páxina";
@@ -57,26 +57,26 @@
 "Paste as Plain Text" = "Pegar como Texto Plano";
 "Select All" = "Seleccionar todo";
 "Select Line/Sentence" = "Seleccionar liña/sentenza";
-"Select Styled Scope" = "Seleccionar o alcance do estilo";
+"Select Styled Scope" = "Seleccionar ámbito do estilo";
 "Select Word" = "Seleccionar palabra";
 "Delete" = "Eliminar";
-"Delete Range" = "Eliminar alcance";
+"Delete Range" = "Eliminar rango";
 "Delete Word" = "Eliminar palabra";
 "Delete Styled Scope" = "Eliminar ámbito de estilo";
 "Delete Line/Sentence" = "Eliminar liña/sentenza";
 "Jump To" = "Saltar a";
 "Jump to Top" = "Saltar arriba";
 "Jump to Selection" = "Saltar á selección";
-"Jump to Bottom" = "Saltar arriba";
+"Jump to Bottom" = "Saltar abaixo";
 "Math Tools" = "Ferramentas Math";
 "Refresh All Math Expressions" = "Actualizar tódalas expresións Math";
 "Image Tools" = "Ferramentas de Imaxe";
 "Insert Local Images" = "Inserir Imaxes Locais";
 "Upload Local Images via iPic" = "Suba imaxes locais vía iPic";
-"When Insert Local Image" = "Cando insire a imaxe local";
-"Copy Image File to Folder" = "Copiar arquivo de imaxe no cartafol";
-"Upload Image via iPic" = "Subir Imaxe vía iPic";
-"Use Image Root Path" = "Empregar camiño da raíz da imaxe";
+"When Insert Local Image" = "Cando insirir a imaxe local";
+"Copy Image File to Folder" = "Copiar arquivo de imaxe ao cartafol";
+"Upload Image via iPic" = "Subir imaxe vía iPic";
+"Use Image Root Path" = "Usar camiño raíz da imaxe";
 "Line Endings" = "Terminacións de liña";
 "Windows Line Endings (CRLF)" = "Terminacións de liña Windows (CRLF)";
 "Unix Line Endings (LF)" = "Terminacións de liña Unix (LF)";
@@ -107,23 +107,23 @@
 "Heading 4" = "Encabezado 4";
 "Heading 5" = "Encabezado 5";
 "Heading 6" = "Encabezado 6";
-"Increase Heading Level" = "Aumentar o nivel do encabezado";
-"Decrease Heading Level" = "Diminuir o nivel do encabezado";
+"Increase Heading Level" = "Aumentar nivel do encabezado";
+"Decrease Heading Level" = "Diminuír nivel do encabezado";
 "Table" = "Táboa";
 "Code Fences" = "Marcas de código";
 "Math Block" = "Bloque Math";
 "Quote" = "Cita";
-"Ordered List" = "Lista Ordeada";
-"Unordered List" = "Lista Desorneada";
+"Ordered List" = "Lista Ordenada";
+"Unordered List" = "Lista Desordenada";
 "Task List" = "Lista de tarefas";
 "Task Status" = "Estado da tarefa";
 "Toggle Task Status" = "Cambiar Estado da tarefa";
 "Mark as Complete" = "Marcar como Completa";
 "Mark as Incomplete" = "Marcar como Incompleta";
-  "List Indentation" = "Sangrado da lista";
+"List Indentation" = "Sangrado da lista";
 "Indent" = "Cara dentro";
 "Outdent" = "Cara fora";
-"Link Reference" = "Referencia de ligazón";
+"Link Reference" = "Referencia da ligazón";
 "Footnotes" = "Notas ao pé";
 "Horizontal Line" = "Liña Horizontal";
 "Table of Contents" = "Táboa de Contidos";
@@ -147,10 +147,10 @@
 
 /* View Menu */
 "View" = "Vista";
-"New Tab" = "Nova pestana";
-"Source Code Mode" = "Modo de código fonte";
-"Focus Mode" = "Modo de enfoque";
-"Typewriter Mode" = "Modo de máquina de escribir";
+"New Tab" = "Nova lapela";
+"Source Code Mode" = "Modo Código fonte";
+"Focus Mode" = "Modo Enfoque";
+"Typewriter Mode" = "Modo Máquina de escribir";
 "Toggle Sidebar" = "Alternar barra lateral";
 "Outline" = "Esquema";
 "Articles" = "Artigos";
@@ -173,7 +173,7 @@
 "Window" = "Xanela";
 "Minimize" = "Minimizar";
 "Zoom" = "Zoom";
-"Bring All to Front" = "Traer todo á fronte";
+"Bring All to Front" = "Traer todo ao fronte";
 
 /* Help Menu */
 "Help" = "Axuda";
@@ -188,8 +188,8 @@
 "Block Styles" = "Bloque de Estilos";
 "Inline Styles" = "Estilos e liña";
 "List Styles / Remove Block" = "Estilo de Lista / Quitar Bloque";
-"Exit Source Code Mode" = "Saír do modo de código fontee";
-"Toggle Source Code Mode" = "Alternar o modo de código fonte";
+"Exit Source Code Mode" = "Saír do modo de código fonte";
+"Toggle Source Code Mode" = "Alternar Modo de código fonte";
 
 /* Extra Context Menu */
 "Table" = "Táboa";
@@ -201,8 +201,8 @@
 "Delete Column" = "Quitar Columna";
 "Copy Table" = "Copiar Táboa";
 "Delete Table" = "Quitar Táboa";
-"Insert Paragraph After" = "Insert Paragraph After";
-"Insert Paragraph Before" = "Insert Paragraph Before";
+"Insert Paragraph After" = "Inserir Parágrafo despois";
+"Insert Paragraph Before" = "Inserir Parágrafo antes";
 "Delete Code Block" = "Quitar Bloque de Código";
 "Copy as MathML" = "Copiar como MathML";
 "Copy as Tex" = "Copiar como TeX";
@@ -210,7 +210,7 @@
 "Reveal in Finder" = "Amosar no Finder";
 "Open Link" = "Abrir Ligazón";
 "Reveal in Sidebar" = "Amosar na barra lateral";
-"Open in New Window" = "Abre en nova xanela";
+"Open in New Window" = "Abrir en nova xanela";
 "Copy File Path" = "Copiar o camiño do arquivo";
 "New File" = "Novo arquivo";
 "Rename" = "Renomear";
@@ -243,8 +243,8 @@
 
 "Learn More" = "Saber Máis";
 "Whitespace and Line Breaks" = "Espazo en branco e saltos de líña";
-"Indent first line of paragraphs" = "Sangrar primera líña de parágrafo";
-"Preserve single line break" = "Preservar único salto de liña";
+"Indent first line of paragraphs" = "Sangrar primeira líña de parágrafo";
+"Preserve single line break" = "Preservar salto de liña único";
 "Visible <br/>" = "Visible <br/>";
 
 "Save All" = "Gardar todo";
@@ -254,7 +254,7 @@
 "Global Image Settings" = "Opcións Globais de Imaxe";
 "Smart Punctuation" = "Puntuación Intelixente";
 "Convert on Input" = "Converter á Entrada";
-"Convert on Rendering" = "Converter ó Renderizar";
+"Convert on Rendering" = "Converter ao Renderizar";
 "Remap Unicode Punctuation on Parse" = "Reasignar puntuación de Unicode ao analizar gramaticalmente";
 "More Options" = "Máis Opcións";
 
@@ -268,5 +268,5 @@
 "Unlearn Spelling" = "Desaprender ortografía";
 "Properties" = "Propiedades";
 
-"Insert Table" = "Insertar táboa";
-"Insert Image" = "Insert Image";
+"Insert Table" = "Inserir Táboa";
+"Insert Image" = "Inserir Imaxe";

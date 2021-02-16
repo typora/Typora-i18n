@@ -125,7 +125,7 @@
 "List Indentation" = "Listeindrykning";
 "Indent" = "Ryk ind";
 "Outdent" = "Ryk ud";
-"Link Reference" = "Kædehenvisning";
+"Link Reference" = "Link";
 "Footnotes" = "Fodnoter";
 "Horizontal Line" = "Horisontal linje";
 "Table of Contents" = "Indholdsfortegnelse";
@@ -139,7 +139,7 @@
 "Code" = "Kode";
 "Inline Math" = "Indbygget formular";
 "Strike" = "Gennemstreg";
-"Highlight" = "Fremhævning";
+"Highlight" = "Highlight";
 "Superscript" = "Hævet tekst";
 "Subscript" = "Sænket tekst";
 "Comment" = "Kommentar";
@@ -296,7 +296,7 @@
 
 "HTML (without Styles)" = "HTML (uden typografi)";
 
-"Highlight Current Header" = "Fremhæv nuværende overskrift";
+"Highlight Current Header" = "Highlight nuværende overskrift";
 "Expand All" = "Udvid alle";
 "Collapse All" = "Luk alle";
 "Collapsible Outline" = "Sammenklappelig disposition";

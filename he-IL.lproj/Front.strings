@@ -1,0 +1,177 @@
+/* 
+  Front.strings
+  Typora
+
+ by Alon Krymgand Osovsky (@RealA10N)
+ downtown2u@gmail.com
+*/
+
+/* Common */
+"OK" = "קבל";
+"Cancel" = "בטל";
+"Yes" = "כן";
+"No" = "לא";
+"Close" = "סגןר";
+"Select" = "בחר";
+"Continue" = "המשך";
+"Learn More…" = "למד עוד...";
+"Untitled" = "ללא שם";
+"Undo" = "בטל";
+"Dismiss" = "שכח";
+"Confirm" = "אשר";
+"Error" = "שגיאה";
+
+/* Search Panel */
+"Search" = "חפש";
+"Replace" = "החלף";
+"All" = "הכל";
+"Search text not found in article" = "הביטוי שהוקלד לא נמצא במאמר";
+"search text" = "טקסט החיפוש";
+
+/* Quick Open */
+"Search by file name" = "חפש לפי שם קובץ";
+"Searching" = "מחפש";
+"Gathering more results" = "אוסף תוצאות נוספות";
+
+/* Tables */
+"Insert Table" = "הכנס טבלה";
+"Columns" = "עמודות";
+"Rows" = "שורות";
+"Align Left" = "יישר לשמאל";
+"Align Center" = "יישר לאמצע";
+"Align Right" = "יישר לימין";
+"Resize Table" = "שנה גודל טבלה";
+"Delete Table" = "מחק טבלה";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "אנו מנסים להעתיק את התמונה האחרונה לתיקייה <code id='image-create-folder-target'></code> כפי שדרשת ב־YAML Front Matter או בהגדרות הכלליות. משום מה, התיקיים לא קיימת. ליצור אותה כעת?";
+"Create Folder" = "צור תיקייה";
+
+/* Math */
+"Edit" = "ערוך";
+"Delete Math" = "מחק ביטוי מתמטי";
+"Preview" = "תצוגה מקדימה";
+
+/* Sidebar */
+"Articles" = "כתבות";
+"Outline" = "מתאר";
+"Files" = "קבצים";
+"Switch to File List view" = "עבור לתצוגת רשימת קבצים";
+"Switch to File Tree view" = "עבור לתצוגת עץ קבצים";
+"Switch to Outline view" = "עבור לתצוגת מתאר";
+"Close sidebar" = "סגור תפריט צדדי";
+"Loading" = "טוען";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "התיקיות שנבחרו מכילות יותר מידיי קבצים. \n<a id='switch-to-tree-on-oversize'>עבור לתצוגת עץ קבצים</a> לביצועים טובים יותר.";
+"New File" = "קובץ חדש";
+"Unpin Outline Panel" = "בטל הצמדה לפאנל המתאר";
+"Open Folder..." = "פתח תיקייה...";
+"Action" = "פעולה";
+"Close Sidebar Menu" = "סגור תפריט צדדי";
+"Reveal in Finder" = "הראה במאתר";
+"Reveal in File Explorer" = "הראה בסייר הקבצים";
+"Refresh Folder" = "רענן תיקייה";
+"Sort" = "מיין";
+"Group By Folder" = "קבץ לפי תיקייה";
+"Sort Naturally (Ascending)" = "מיין באופן טבעי (עולה)";
+"Sort Naturally (Descending)" = "מיין באופן טבעי (יורד)";
+"Sort by Name (Ascending)" = "מיין לפי שם (עולה)";
+"Sort by Name (Descending)" = "מיין לפי שם (יורד)";
+"Sort by Modification Date (Ascending)" = "מיין לפי תאריך שינוי (עולה)";
+"Sort by Modification Date (Descending)" = "מיין לפי תאריך שינוי (יורד)";
+"Location" = "מיקום";
+"Switch File List/Tree View" = "החלף תצוגת עץ / תצוגת רשימה";
+"No Files Available" = "אין קבצים זמינים";
+"No Folder is Opened." = "תיקייה לא נפתחה.";
+"Outline is Empty." = "המתאר ריק.";
+
+/* Status Bar */
+"Toggle Sidebar" = "הצג/הסתר תפריט צדדי";
+"Toggle Source Code Mode" = "הצג/הסתר מצב קוד מקור";
+"Exit Source Code Mode" = "צא ממצב קוד מקור";
+
+"Table of Contents" = "תוכן עיניינים";
+"Empty Diagram" = "תרשים ריק";
+"Input Math TeX here" = "הכנס ביטוי מתמטי (TeX) כאן";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "צריך להגדיר הפנייה להערת שוליים <b>{0}</b> בעזרת התחביר <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "צריך להגדיר קישור הפנייה <b>[{0}]</b> בעזרת התחביר <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "הגדר הפנייה לתמונה על ידי \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "יצירת הקובץ נכשלה";
+"Failed to create folder" = "יצירת התיקייה נכשלה";
+"Failed to rename file" = "שינוי שם הקובץ נכשל";
+"Folder does not exist at %@" = "התיקייה ב־%@ לא קיימת";
+"File with the same name already exists at target path" = "קובץ עם אותו השם כבר קיים בתיקיית היעד";
+"Apply to All" = "החל על הכל";
+"Overwrite" = "דרוס";
+"Stop" = "עצור";
+"back to document" = "חזור למסמך";
+"Failed to load file" = "טעינת הקובץ נכשלה";
+"Save File Failed!" = "שמירת הקובץ נכשלה!";
+"Cannot open folder {0}" = "ישנה בעיה בפתיחת התיקייה {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "תוכן הקובץ שונה על ידי תוכנה חיצונית. טען מחדש את תוכן הקובץ מהדיסק?";
+"Should continue moving and overwrite exisiting file(s) ?" = "להמשיך העברה ודריסה של קבצים קיימים?";
+
+"Rename to \"{0}\" ?" = "שנה שם ל־\"{0}\"?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "שינוי השם מ־\"{0}\" ל־\"{1}\" נכשל";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "העלאת {0} תמונות בוצעה בהצלחה.";
+"Failed to upload image. Error Message:" = "טעינת תמונה נכשלה. הודעת השגיאה:";
+"Failed to Copy Image to Target Folder." = "העתקת התמונה לתיקיית היעד נכשלה.";
+"Select Container Folder" = "בחר תיקיית יעד";
+
+"Saved" = "נשמר";
+
+/* place holder in find & replace input */
+"search text" = "טקסט חיפוש";
+"replace with" = "החלף עם";
+/* search option */
+"Case Sensitive" = "רגיש לאותיות גדולות/קטנות";
+"Whole Word" = "מילה שלמה";
+
+"input image URL" = "הכנס כתובת תמונה";
+"Select image from local file" = "בחר תמונה מקובץ מקומי";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "לא ניתן לפתוח <code>$1</code>, האם התכוונת ל־<a href='https://$3'>https://$2</a>?";
+
+"select a language" = "בחר שפה";
+"Finish Editing" = "סיים לערוך";
+
+"Revert advanced setting file to default one ?" = "הפוך את קובץ ההגדרות המתקדמות לקובץ הגדרות בסיסי?";
+
+"Select Spell Check Language" = "בחר שפת לבדיקת איות";
+"Auto Detect Language" = "זיהוי שפה אוטומטי";
+"Disable Spell Check" = "בטל בדיקת איות";
+"Global Setting…" = "הגדרה כללית...";
+"Dictionary file is missing to enable spellcheck support for %@." = "קובץ מילון חסר ולא ניתן להפעיל בדיקת איות בעבור %@.";
+"Install Language Support" = "התקן תמיכה לשפה";
+"License Information" = "מידע על רישיון";
+"Download" = "התקן";
+"Install dictionary file only for Typora" = "התקן קובץ מילון רק בעבור Typora";
+"Spell Check (%@ unavailable)" = "בדיקת איות (%@ לא זמין)";
+"Spell Check (%@ downloading)" = "בדיקת איות (%@ מוריד)";
+"Download dictionary file for %@" = "הורד קובץ מילון בעבור %@";
+"(Default spell check option)" = "(אפשרות ברירת המחדל בעבור בדיקת איות)";
+"Failed to load spellcheck module" = "טעינת מודל בדיקת האיות נכשלה";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> הופעל.";
+"You could turn it off from `View` menu." = "ניתן לכבות זאת תחת תפריט ה־`תצוגה`";
+"The file is too large to render in Typora." = "הקובץ גדול מידי בכדי להציג אותו ב־Typora.";
+"Open in…" = "פתח ב...";
+"Quick Look" = "מבט מהיר";
+
+"Filter" = "מסנן";
+"No result found." = "לא נמצאו תוצאות.";
+"Continue & Overwrite" = "המשך ודרוס";
+"The file is read-only, or you do not have right permissions to modify the file." = "הקובץ הוא לקריאה בלבד, או שאין לך את ההרשאות המתאימות כדי לערוך אותו.";
+
+"Learn Data Recovery" = "למד על שחזור נתונים";
+"Auto refresh on Files Panel cannot be enabled." = "לא ניתן להפעיל את הרענון האוטומטי בתפריט הקבצים.";
+"Delete Permanently" = "מחק לצמיתות";
+
+
+"Failed to upload images:" = "נכשל בהעלאת תמונות:";
+"Uploading in progress" = "ההעלאה מתבצעת";
+"Successfully uploaded {0} images, {1} failed." = "הועלו בהצלחה {0} תמונות ({1} תמונות נכשלו).";

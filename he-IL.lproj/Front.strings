@@ -3,7 +3,7 @@
   Typora
 
  by Alon Krymgand Osovsky (@RealA10N)
- downtown2u@gmail.com
+ contact me using downtown2u@gmail.com
 */
 
 /* Common */
@@ -54,16 +54,16 @@
 
 /* Sidebar */
 "Articles" = "כתבות";
-"Outline" = "מתאר";
+"Outline" = "מבנה";
 "Files" = "קבצים";
 "Switch to File List view" = "עבור לתצוגת רשימת קבצים";
 "Switch to File Tree view" = "עבור לתצוגת עץ קבצים";
-"Switch to Outline view" = "עבור לתצוגת מתאר";
+"Switch to Outline view" = "עבור לתצוגת מבנה";
 "Close sidebar" = "סגור תפריט צדדי";
 "Loading" = "טוען";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "התיקיות שנבחרו מכילות יותר מידיי קבצים. \n<a id='switch-to-tree-on-oversize'>עבור לתצוגת עץ קבצים</a> לביצועים טובים יותר.";
 "New File" = "קובץ חדש";
-"Unpin Outline Panel" = "בטל הצמדה לפאנל המתאר";
+"Unpin Outline Panel" = "בטל הצמדה למבנה";
 "Open Folder..." = "פתח תיקייה...";
 "Action" = "פעולה";
 "Close Sidebar Menu" = "סגור תפריט צדדי";
@@ -82,7 +82,7 @@
 "Switch File List/Tree View" = "החלף תצוגת עץ / תצוגת רשימה";
 "No Files Available" = "אין קבצים זמינים";
 "No Folder is Opened." = "תיקייה לא נפתחה.";
-"Outline is Empty." = "המתאר ריק.";
+"Outline is Empty." = "המבנה ריק.";
 
 /* Status Bar */
 "Toggle Sidebar" = "הצג/הסתר תפריט צדדי";

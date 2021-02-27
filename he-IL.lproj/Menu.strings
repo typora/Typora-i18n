@@ -152,7 +152,7 @@
 "Focus Mode" = "מצב ממוקד";
 "Typewriter Mode" = "מצב מכונת כתיבה";
 "Toggle Sidebar" = "הצג/הסתר תפריט צדדי";
-"Outline" = "מתווה";
+"Outline" = "מבנה";
 "Articles" = "כתבות";
 "File Tree" = "עץ קבצים";
 "Always on Top" = "תמיד מעל הכל";
@@ -296,8 +296,8 @@
 "Highlight Current Header" = "בחר את הכותרת הנוכחית";
 "Expand All" = "הרחב הכל";
 "Collapse All" = "כווץ הכל";
-"Collapsible Outline" = "כווץ מתווה";
-"Flat Outline" = "מתווה שטוח";
+"Collapsible Outline" = "כווץ מבנה";
+"Flat Outline" = "מבנה שטוח";
 "Articles (List View)" = "כתבות (תצוגת רשימה)";
 "File Tree (Tree View)" = "עץ הקבצים (תצוגת עץ)";
 "Filter" = "מסנן";

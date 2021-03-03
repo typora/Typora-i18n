@@ -68,3 +68,4 @@ Feel free to contact us via <hi@typora.io>
 - Dutch by Melle Dijkstra, [vidavidorra](https://github.com/vidavidorra)
 - Slovak by Petr Mátl
 - Ukrainian by [oleksavyshnivsky](https://github.com/oleksavyshnivsky)
+- Hebrew by [RealA10N](https://github.com/RealA10N)

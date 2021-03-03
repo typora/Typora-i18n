@@ -1,0 +1,310 @@
+/* 
+  Front.strings
+  Typora
+
+ by Alon Krymgand Osovsky (@RealA10N)
+ contact me using downtown2u@gmail.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "אודות Typora";
+"Preferences" = "העדפות";
+"Check for Updates" = "חפש בעבור עדכונים";
+"Services" = "שירותים";
+"Hide Typora" = "הסתר Typora";
+"Hide Others" = "הסתר אחרים";
+"Show All" = "הצג הכל";
+"Quit Typora" = "צא מ־Typora";
+
+/* File Menu */
+
+"File" = "קובץ";
+"New" = "חדש";
+"Open" = "פתח";
+"Open Folder" = "פתח תיקייה";
+"Reopen with Encoding" = "פתח מחדש עם קידוד";
+"Auto" = "אוטומטי";
+"Open Recent" = "פתח אחרונים";
+"Recent Locations" = "מקומות אחרונים";
+"Clear Items" = "נקה פריטים";
+"No Recent Files" = "אין קבצים אחרונים";
+"Open Quickly" = "פתח בזריזות";
+"Open File Location" = "פתח את מיקוץ הקובץ";
+"Reveal in Library" = "הצג בסיפרייה";
+"Reveal in File Tree" = "הצג בעץ הקבצים";
+"Close" = "סגור";
+"Save" = "שמור";
+"Save As" = "שמור בשם";
+"Duplicate" = "שכפל";
+"Rename" = "שנה שם";
+"Move To" = "העבר ל";
+"Revert To" = "החזר ל";
+"Browse All Versions" = "עיין בכל הגרסאות";
+"Import" = "יבא";
+"Export" = "יצא";
+"Page Setup" = "הגדרות עמוד";
+"Print" = "הדפס";
+
+/* Edit Menu */
+"Edit" = "ערוך";
+"Undo" = "בטל";
+"Redo" = "החזר";
+"Cut" = "גזור";
+"Copy" = "העתק";
+"Paste" = "הדבק";
+"Copy as Markdown" = "העתק בתור Markdown";
+"Copy as HTML Code" = "העתק בתור קוד HTML";
+"Paste as Plain Text" = "העתק בתור טקסט רגיל";
+"Select All" = "בחר הכל";
+"Select Line/Sentence" = "בחר שורה/משפט";
+"Select Styled Scope" = "בחר קטע מעוצב";
+"Select Word" = "בחר מילה";
+"Delete" = "מחר";
+"Delete Range" = "מחק טווח";
+"Delete Word" = "מחק מילה";
+"Delete Styled Scope" = "מחק קטע מעוצב";
+"Delete Line/Sentence" = "מחק שורה/משפט";
+"Jump To" = "קפוץ ל";
+"Jump to Top" = "קפוץ למעלה";
+"Jump to Selection" = "קפוץ לחלק המסומן";
+"Jump to Bottom" = "קפוץ למטה";
+"Math Tools" = "כלים מתמטיים";
+"Refresh All Math Expressions" = "טען מחדש את כל הביטויים המתמטיים";
+"Image Tools" = "כלי תמונה";
+"Insert Local Images" = "הכנס תמונה מהאחסון";
+"Upload Local Images via iPic" = "העלה תמונה לענן בעזרת iPic";
+"When Insert Local Image" = "כאשר אתה טוען תמונה מהאחסון";
+"Copy Image File to Folder" = "העתק את קובץ התמונה לתיקייה";
+"Use Image Root Path" = "השתמש בכתובת התמונה המקורית";
+"Line Endings" = "תווי סיום שורה";
+"Windows Line Endings (CRLF)" = "תו סיום השורה של חלונות (CRLF)";
+"Unix Line Endings (LF)" = "תו סיום השורה של יוניקס (LF)";
+"Find" = "מצא";
+"Find Next" = "מצא הבא";
+"Find Previous" = "מצא קודם";
+"Find and Replace" = "מצא והחלף";
+"Replace" = "החלף";
+"Replace Next" = "החלף הבא";
+"Spelling and Grammar" = "דקדוק ואיות";
+"Check Document Now" = "בדוק מסמך עכשיו";
+"Check Spelling While Typing" = "בדוק איות בזמן הקלדה";
+"Check Grammar With Spelling" = "בדוק דקדוק ביחד עם איות";
+"Correct Spelling Automatically" = "תקן שגיאות איות באופן אוטומטי";
+"Substitutions" = "חילופים";
+"Smart Quotes" = "גרשיים אוטומטיות";
+"Smart Dashes" = "קו מפריד (מקף) אוטומטי";
+"Text Replacement" = "החלפת טקסט";
+"Speech" = "דיבור";
+"Start Speaking" = "התחל דיבור";
+"Stop Speaking" = "עצור דיבור";
+
+/* Paragraph Menu */
+"Paragraph" = "פסקה";
+"Heading 1" = "כותרת 1";
+"Heading 2" = "כותרת 2";
+"Heading 3" = "כותרת 3";
+"Heading 4" = "כותרת 4";
+"Heading 5" = "כותרת 5";
+"Heading 6" = "כותרת 6";
+"Increase Heading Level" = "העלה רמת כותרת";
+"Decrease Heading Level" = "הורד רמת כותרת";
+"Table" = "טבלה";
+"Code Fences" = "גדרות קוד";
+"Math Block" = "תיבת מתמטיקה";
+"Quote" = "ציטוט";
+"Ordered List" = "רשימה ממוספרת";
+"Unordered List" = "רשימה לא ממוספרת";
+"Task List" = "רשימת מטלות";
+"Task Status" = "מצב מטלה";
+"Toggle Task Status" = "שנה מצב מטלה";
+"Mark as Complete" = "סמן כ־\"הושלם\"";
+"Mark as Incomplete" = "סמן כ־\"לא הושלם\""
+"List Indentation" = "הזחת הרשימה";
+"Indent" = "הזח החוצה";
+"Outdent" = "הזח פנימה";
+"Link Reference" = "הפניה לקישור";
+"Footnotes" = "הערת שוליים";
+"Horizontal Line" = "קו אופקי";
+"Table of Contents" = "תוכן עניינים";
+"YAML Front Matter" = "נתונים נוספים (YAML Front Matter)";
+
+/* Format Menu */
+"Format" = "עיצוב";
+"Strong" = "דגש";
+"Emphasis" = "נטוי";
+"Underline" = "קו תחתון";
+"Code" = "קוד";
+"Inline Math" = "מתמטיקה מוטבעת (בתוך השורה)";
+"Strike" = "קו חוצה";
+"Highlight" = "הדגש";
+"Superscript" = "כתב עליון";
+"Subscript" = "כתב תחתון";
+"Comment" = "תגובה";
+"Hyperlink" = "היפר־קישור";
+"Image" = "תמונה";
+"Clear Format" = "נקה עיצוב";
+
+/* View Menu */
+"View" = "תצוגה";
+"New Tab" = "כרטיסייה חדשה";
+"Source Code Mode" = "מצב קוד מקור";
+"Focus Mode" = "מצב ממוקד";
+"Typewriter Mode" = "מצב מכונת כתיבה";
+"Toggle Sidebar" = "הצג/הסתר תפריט צדדי";
+"Outline" = "מבנה";
+"Articles" = "כתבות";
+"File Tree" = "עץ קבצים";
+"Always on Top" = "תמיד מעל הכל";
+"Full Screen" = "מסך מלא";
+"Show Status Bar" = "הצג שורת מצב";
+"Toggle Fullscreen" = "הפעל/כבה מצב מסך מלא";
+"Actual Size" = "גודל מקורי";
+"Zoom In" = "הגדל";
+"Zoom Out" = "הקטן";
+"Switch Between Opened Documents" = "עבור בין מסמכים פתוחים";
+"Toggle DevTools" = "הפעל/כבה כלים למפתחים";
+
+
+/* Themes Menu */
+"Themes" = "ערכות נושא";
+
+/* Window Menu */
+"Window" = "חלון";
+"Minimize" = "מזער";
+"Zoom" = "זום";
+"Bring All to Front" = "העבר הכל לקידמה";
+
+/* Help Menu */
+"Help" = "מידע";
+"Privacy Policy" = "מדיניות פרטיות";
+"Credits" = "קרדיטים";
+"Change Log" = "לוג שינויים";
+"Website" = "אתר רשמי";
+"Feedback" = "משוב";
+"About" = "אודות";
+
+/* Touchbar */
+"Block Styles" = "סגנונות";
+"Inline Styles" = "סגנונות מוטבעים (בתוך השורה)";
+"List Styles / Remove Block" = "רשימת סגנונות / הסרת סגנון";
+"Exit Source Code Mode" = "יציאת ממצב קוד מקור";
+"Toggle Source Code Mode" = "הפעל/כבה מצב קוד מקור";
+
+/* Extra Context Menu */
+"Table" = "טבלה";
+"Add Row Above" = "הוסף שורה למעלה";
+"Add Row Below" = "הוסף שורה למטה";
+"Delete Row" = "מחק שורה";
+"Add Column Before" = "הוסף עמודה לפני";
+"Add Column After" = "הוסף עמודה אחרי";
+"Delete Column" = "מחק עמודה";
+"Copy Table" = "העתק טבלה";
+"Delete Table" = "מחק טבלה";
+"Insert Paragraph After" = "הוסף פסקה אחרי";
+"Insert Paragraph Before" = "הוסף פסקי לפני";
+"Delete Code Block" = "מחק בלוק קוד";
+"Copy as MathML" = "העתק בתוק MathML";
+"Copy as Tex" = "העתק בתור Tex";
+"Copy Math" = "העתק מתמטיקה";
+"Reveal in Finder" = "הראה במאתר";
+"Open Link" = "פתח קישור";
+"Reveal in Sidebar" = "הראה בתפריט צד";
+"Open in New Window" = "פתח בחלון חדש";
+"Copy File Path" = "העתק מיקום קובץ";
+"New File" = "קובץ חדש";
+"Rename" = "שנה שם";
+"New Folder" = "תיקייה חדשה";
+"Move to Trash" = "העבר לאשפה";
+
+/* Electron */
+"Learn Spelling" = "למד לאיית";
+"Copy / Paste As…" = "העתק / הדבק בשם...";
+"Math" = "מתמטיקה";
+"Insert" = "הכנס";
+"Inspect Element" = "הכנס אלמנט";
+"Copy to MS Word" = "העתק לוורד (MS Word)";
+"Paragraph (before)" = "פסקה (לפני)";
+"Paragraph (after)" = "פסקה (אחרי)";
+
+"Search with Google" = "חפש בגוגל";
+"Search With…" = "חפש בעזרת...";
+
+/* Related Panel */
+"Open Failed" = "הפתיחה נכשלה";
+"File or folder does not exist." = "קובץ או תיקייה לא קיימים.";
+
+"Prettify Source Code" = "סדר קוד מקור";
+"Copy '%@'" = "העתק '%@'";
+"Copy to %@" = "העתק ל־%@"
+"Copy Image to" = "העתק תמונה ל";
+"Open Image Location" = "פתח מקור תמונה";
+
+"Learn More" = "למד עוד";
+"Whitespace and Line Breaks" = "רווחים, טאבים וירידות שורה";
+"Indent first line of paragraphs" = "הזח שורה ראשונה בפסקה";
+"Preserve single line break" = "שמור ירידת שורה בודדת";
+"Visible <br/>" = "תג <br/> נראה";
+
+"Save All" = "שמור הכל";
+"New Window" = "חלון חדש";
+"Reopen Closed File" = "פתח מחדש קבצים שנסגרו";
+
+"Global Image Settings" = "הגדרות תמונה כלליות";
+"Smart Punctuation" = "פיסוק חכם";
+"Convert on Input" = "המר בעת קבלת קלט";
+"Convert on Rendering" = "המר בעת תצוגה (Render)";
+"Remap Unicode Punctuation on Parse" = "המר ניקוד יוניקוד בעת ניתוח";
+"More Options" = "אפשרויות נוספות";
+
+"HTML Block" = "בלוק HTML";
+"Delete Block" = "מחק בלוק";
+"Delete %@" = "מחק %@";
+"Play" = "נגן";
+"Pause" = "עצור";
+
+"Spell Check" = "בדיקת איות";
+"Unlearn Spelling" = "שכח איות זה";
+"Properties" = "תכונות";
+
+"Search" = "חפש";
+"Copy without Theme Styling" = "העתק ללא עיצוב";
+"Recent Files" = "קבצים אחרונים";
+"File Results" = "תוצאות קבצים";
+
+"Insert Table" = "הכנס טבלה";
+"Insert Image" = "הכנס תמונה";
+"Allow Magnification" = "אפשר להגדיל";
+
+"Move Row Up" = "העבר שורה למעלה";
+"Move Row Down" = "העבר שורה למטה";
+"Move Column Left" = "העבר עמודה שמאלה";
+"Move Column Right" = "העבר עמודה ימינה";
+
+"Zoom Image" = "הגדל תמונה";
+"Zoom Image to %@" = "הגדל תמונה ל־%@";
+
+"Copy as Plain Text" = "העתק בתור טקסט (ללא עיצוב)";
+
+"Selection" = "בחירה";
+"Start Speaking" = "התחל לדבר";
+"Stop Speaking" = "הפסק לדבר";
+"Check Updates" = "בדוק עבור עדכונים";
+
+"HTML (without Styles)" = "HTML (ללא סגנונות)";
+
+"Highlight Current Header" = "בחר את הכותרת הנוכחית";
+"Expand All" = "הרחב הכל";
+"Collapse All" = "כווץ הכל";
+"Collapsible Outline" = "כווץ מבנה";
+"Flat Outline" = "מבנה שטוח";
+"Articles (List View)" = "כתבות (תצוגת רשימה)";
+"File Tree (Tree View)" = "עץ הקבצים (תצוגת עץ)";
+"Filter" = "מסנן";
+
+"Upload Image" = "העלה תמונה";
+"Upload All Local Images" = "העלה את כל התמונות מהאחסון";
+"Open Image in Browser" = "פתח תמונה בדפדפן";
+"Copy Image" = "העתק תמונה";
+
+"More Actions" = "פעולות נוספות";

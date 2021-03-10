@@ -100,7 +100,7 @@
 "Failed to create folder" = "Не удалось создать папку";
 "Failed to rename file" = "Не удалось переименовать файл";
 "Folder does not exist at %@" = "Папки не существует в %@";
-"File with the same name already exists at target path" = "Файл с тем же именем уже существует в указанной директории";
+"File with the same name already exists at target path" = "Файл с тем же именем уже существует в указанном каталоге";
 "Apply to All" = "Применить ко всем";
 "Overwrite" = "Перезаписать";
 "Stop" = "Остановить";

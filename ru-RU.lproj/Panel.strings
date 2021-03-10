@@ -15,7 +15,7 @@
 "Seamless" = "Бесшовный";
 "Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только в OS X не ниже версии 10.10.";
 "Themes" = "Темы";
-"Open Theme Folder" = "Открыть директорию тем";
+"Open Theme Folder" = "Открыть каталог тем";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
 "Word Count" = "Количество слов";
 "Always Show Word Count" = "Всегда показывать количество слов";
@@ -33,7 +33,7 @@
 /* Editor Panel */
 "Editor" = "Редактор";
 "Indent Size on Save" = "Размер отступа при сохранении";
-"only apply to quotes and lists created from menu bar or hybrid view" = "применяются только для кавычек и списков, созданных из меню или гибридного просмотра";
+"only apply to quotes and lists created from menu bar or hybrid view" = "применяются только для цитат и списков, созданных из меню или гибридного просмотра";
 "Trigger Autocomplete without ESC key for" = "Автоматическое";
 "Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
 "Images Insert" = "Вставка изображений";
@@ -169,7 +169,7 @@
 "%d Images Failed to Upload." = "Не удалось загрузить изображений: %d.";
 "%d Succeeded," = "успешно: %d, ";
 "Enable this feature on preferences panel" = "Включить эту функцию на панели настроек";
-"%@ is a file, not a directory" = "%@ — файл, не директория";
+"%@ is a file, not a directory" = "%@ — файл, не каталог";
 "Copy Images To…" = "Копировать изображения в…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку %@ в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её?";
 "Create Folder and Continue" = "Создать папку и продолжить";
@@ -243,11 +243,11 @@
 
 "Ignore" = "Игнорировать";
 "Choose Default Folder" = "Выбрать папку по умолчанию";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Конвертировать на входе</strong>: вводимые ASCII-тире или кавычки конвертируются и сохраняются как фигурные кавычки или юникод-тире.<br/><strong>Конвертировать при рендеринге</strong>: ввод и сохранение в виде ASCII-тире или кавычек, рендеринг в виде фигурных кавычек или юникод-тире.</div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Преобразовывать на входе</strong>: вводимые ASCII-тире или кавычки преобразуются и сохраняются как фигурные кавычки или Unicode-тире.<br/><strong>Конвертировать при рендеринге</strong>: ввод и сохранение в виде ASCII-тире или кавычек, рендеринг в виде фигурных кавычек или Unicode-тире.</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>При распознавании разметки распознавать знаки Unicode как ASCII, например:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Будет настроено автоматически, если умные кавычки или тире преобразуются при вводе.<div>";
 
 "Copy image to custom folder" = "Скопировать изображение в пользовательскую папку";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Пожалуйста, укажите относительный путь к текущей папке, который начинается с './' или '../', или абсолютный путь к папке. (`${filename}` - имя текущего файла.)";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Пожалуйста, укажите относительный путь к текущей папке, который начинается с './' или '../', или абсолютный путь к папке. (`${filename}` — имя текущего файла.)";
 "Restore to previous setting" = "Восстановить предыдущую настройку";
 "Folder not exist at %@, please input another path." = "Папка не существует в %@. Пожалуйста, укажите другой путь.";
 "Please input a folder path." = "Пожалуйста, введите путь к папке.";
@@ -296,7 +296,7 @@
 "Checking Updates…" = "Проверка обновлений…";
 "Check Update Failed" = "Не удалось проверить обновления";
 "You are update to date!" = "У вас последняя версия!";
-"Latest version is $1, your version is $2" = "Последняя версия - $1, установленная - $2";
+"Latest version is $1, your version is $2" = "Последняя версия — $1, установленная — $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Эти параметры также можно изменить в меню \"Правка → Пробелы и разрывы строк\"";
 "Auto escape image URL when insert" = "Автоматическое экранирование URL-адреса изображения при вставке";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Например, при вставке файла 'img/example file.png', адрес будет преобразован в 'img/example%20file.png'. Включите эту опцию для лучшей совместимости с другими движками Markdown или отключите для лучшей читаемости.";

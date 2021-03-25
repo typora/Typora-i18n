@@ -119,7 +119,7 @@
 "Task Status" = "מצב מטלה";
 "Toggle Task Status" = "שנה מצב מטלה";
 "Mark as Complete" = "סמן כ־\"הושלם\"";
-"Mark as Incomplete" = "סמן כ־\"לא הושלם\""
+"Mark as Incomplete" = "סמן כ־\"לא הושלם\"";
 "List Indentation" = "הזחת הרשימה";
 "Indent" = "הזח החוצה";
 "Outdent" = "הזח פנימה";
@@ -236,7 +236,7 @@
 
 "Prettify Source Code" = "סדר קוד מקור";
 "Copy '%@'" = "העתק '%@'";
-"Copy to %@" = "העתק ל־%@"
+"Copy to %@" = "העתק ל־%@";
 "Copy Image to" = "העתק תמונה ל";
 "Open Image Location" = "פתח מקור תמונה";
 

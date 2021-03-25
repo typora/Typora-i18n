@@ -59,7 +59,7 @@
 "Superscript ( e.g: X^2^ )" = "טקסט עליון ( לדוגמא: X^2^ )";
 "Highlight     (e.g: ==key==)" = "הדגשה (לדוגמא: ==key==)";
 "Diagrams" = "דיאגרמות";
-"(Sequence, Flowchart and Mermaid)" = "(תרשים רצף, תרשים זרימה וכו')"
+"(Sequence, Flowchart and Mermaid)" = "(תרשים רצף, תרשים זרימה וכו')";
 "Syntax Preference" = "העדפות תחביר";
 "(only applies to styles created from menubar or hybrid view)" = "(תקף רק לעיצובים שנוצרו משורת התפריט או מהתצוגה ההיברידית)";
 "Strict Mode" = "מצב קפדני";

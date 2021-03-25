@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "”导出并覆盖上一次导出的文件“ 会覆盖位于 %@ 的文件，是否继续?";
 "Command Arguments:" = "命令行：";
-"Current beta version is too old, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
+"This beta version of Typora is expired, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
 "Current Theme" = "自动使用当前主题";
 "After Export" = "导出后";
 "Run command" = "运行自定义命令";

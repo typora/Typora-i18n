@@ -309,3 +309,7 @@
 "Copy Image" = "拷贝图片";
 
 "More Actions" = "更多操作";
+"Get Info" = "显示简介";
+
+"Export with Previous" = "使用上一次设置导出";
+"Export and Overwrite with Previous" = "导出并覆盖上一次导出的文件";

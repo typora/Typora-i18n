@@ -217,7 +217,6 @@
 "New File" = "Neue Datei";
 "Rename" = "Umbenennen";
 "New Folder" = "Neuer Ordner";
-"Move to Trash" = "In den Papierkorb legen";
 
 /* Electron */
 "Learn Spelling" = "Rechtschreibung lernen";
@@ -267,7 +266,7 @@
 "Pause" = "Pause";
 
 "Spell Check" = "Rechtschreibkorrektur";
-"Unlearn Spelling" = "Reichtreibung vergessen";
+"Unlearn Spelling" = "Rechtschreibung vergessen";
 "Properties" = "Eigenschaften";
 
 "Search" = "Suchen";

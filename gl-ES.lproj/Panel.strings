@@ -18,12 +18,12 @@
 "Themes" = "Temas";
 "Open Theme Folder" = "Abrir cartafol do tema";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor, comprobar `Axuda`->`Inicio rápido` para unha breve introdución. Visitar http://theme.typora.io para obter máis temas ou instrucións.";
-"Word Count" = "Reconto palabras";
-"Always Show Word Count" = "Amosar sempre reconto de palabras";
+"Word Count" = "Contar palabras";
+"Always Show Word Count" = "Sempre amosar reconto de palabras";
 "Font Size" = "Tamaño de letra";
 "Auto ( Recommended )" = "Auto ( Recomendado )";
 "Customized" = "Personalizado";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "Se se usa tamaño de letra personalizado, o tamaño da fonte real dependerá do tamaño da fonte base e do estilo css.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Se usa un tamaño de letra personalizado, o tamaño da fonte real dependerá do tamaño da fonte base e do estilo css.";
 "Left Panel" = "Panel Esquerdo";
 "Show Outline Panel by Default" = "Amosar panel de esquema por defecto";
 "Collapsible Outline on Left Panel" = "Esquema plegable no panel esquerdo";
@@ -33,7 +33,7 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Tamaño de sangría ó Gardar";
+"Indent Size on Save" = "Tamaño de sangría ao Gardar";
 "only apply to quotes and lists created from menu bar or hybrid view" = "só se aplican ás comiñas e ás listas creadas a partir da barra de menú ou a vista híbrida";
 "Trigger Autocomplete without ESC key for" = "Activar Autocompletar sen tecla ESC para";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
@@ -42,7 +42,7 @@
 "Auto Pair" = "Auto Par";
 "Auto pair brackets and quotes" = "Auto par parénteses e comiñas";
 "Auto pair common Markdown syntax" = "Auto par sintaxe común Markdown";
-"Live Rendering" = "Representación en directo";
+"Live Rendering" = "Representar en vivo";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Amosar orixe para bloques simples \n(incluídos os encabezados, etc.) ao seleccionar";
 "Default Copy Behavior" = "Comportamento de copia predefinida";
 "Copy Markdown source as plain text" = "Copiar orixe Markdown como texto sinxelo";
@@ -58,7 +58,7 @@
 "Superscript ( e.g: X^2^ )" = "Superíndice ( e.g: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Resaltado    (e.g: ==key==)";
 "Diagrams" = "Diagramas";
-"(Sequence, Flowchart and Mermaid)" = "(Secuencia, diagrama de fluxo e espiña de peix)";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart e Mermaid)";
 "Syntax Preference" = "Preferencia da sintaxe";
 "(only applies to styles created from menubar or hybrid view)" = "(só se aplican os estilos creados desde a barra de menús ou da vista híbrida)";
 "Strict Mode" = "Modo estrito";
@@ -67,13 +67,13 @@
 "Unordered List" = "Lista non ordenada";
 "Ordered List" = "Lista ordenada";
 "Code Fences" = "Marcas de código";
-"Display line numbers for code fences" = "Amosar números de liña para marcas de código";
+"Display line numbers for code fences" = "Amosar números de liña para Marcas de código";
 "Math Blocks" = "Bloques Math";
-"Auto Numbering Math Equations" = "Ecuacións matemáticas de numeración automática";
+"Auto Numbering Math Equations" = "Auto Numeración de Ecuacións matemáticas";
 
 /* Security Panel */
 "Security" = "Seguridade";
-"Enable Debug" = "Activar a depuración";
+"Enable Debug" = "Activar depuración";
 "Send Anonymous Usage Info" = "Envio anónimo de información de uso";
 
 /* Pandoc Error Panel */

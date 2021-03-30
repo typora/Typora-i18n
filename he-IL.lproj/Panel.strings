@@ -1,0 +1,423 @@
+/* 
+  Front.strings
+  Typora
+
+ by Alon Krymgand Osovsky (@RealA10N)
+ contact me using downtown2u@gmail.com
+*/
+
+/* Preference Panel */
+"Preferences" = "העדפות";
+
+/* General Panel */
+"General" = "כללי";
+"Window Style" = "עיצוב החלון";
+"Classic" = "קלאסי";
+"Seamless" = "חלק";
+"Seamless window only support OS X later than 10.10." = "עיצוב חלון \"חלק\" זמין רק במערכת ההפעלה X לאחר 10.10.";
+"Themes" = "ערכות נושא";
+"Open Theme Folder" = "פתח את תיקיית ערכות הנושא";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "לך ל־`help`->`Quick Start` למדריך קצר. בקר ב־http://theme.typora.io כדי להוריד ערכות נושא נוספות!";
+"Word Count" = "מספר מילים";
+"Always Show Word Count" = "הראה תמיד את מספר המילים";
+"Font Size" = "גודל גופן";
+"Auto ( Recommended )" = "אוטומטי (מומלץ)";
+"Customized" = "מותאם אישית";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "אם גודל גופן מותאם אישית נמצא בשימוש, הגודל האמיתי יהיה מושפע גם מה־CSS של ערכת הנושא.";
+"Left Panel" = "לוח שמאלי";
+"Show Outline Panel by Default" = "הראה את לוח המבנה כברירת מחדל";
+"Collapsible Outline on Left Panel" = "כווץ מבנה בלוח השמאלי";
+"Save without asking when\nswitch files on side panel" = "שמור בכל מקרה כאשר\nמחליף קבצים בלוח הצדדי";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "קבצים שנערכו ישמרו בכל מקרה כאשר מחליף קבצים בלוח השמאלי. \nכאשר \"שאל אם לשמור שינויים בעת סגירת מסמך\" מכובה בהגדרות המערכת, האפשרות הזו בכל מקרה מופעלת.";
+"Language" = "שפה";
+"System Language" = "שפת מערכת";
+
+/* Editor Panel */
+"Editor" = "עורך";
+"Indent Size on Save" = "גודל ההזחה בעת שמירה";
+"only apply to quotes and lists created from menu bar or hybrid view" = "החל רק בעבור ציטוטים ורשימות שנוצרו משורת התפריט או מהתצוגה ההיברידית";
+"Trigger Autocomplete without ESC key for" = "החל השלמה אוטומטית ללא לחיצה על ESC בעבור";
+"Emoji (e.g. :smile:)" = "אימוג'י (לדוגמא :smile:)";
+"Images Insert" = "הכנסת תמונות";
+"Use relative path if possible" = "השתמש בכתובת יחסית (אם אפשרי)";
+"Auto Pair" = "זיווג אוטומטי";
+"Auto pair brackets and quotes" = "זווג אוטומטית סוגריים מרובעים וציטוטים";
+"Auto pair common Markdown syntax" = "זווג אוטומטית תחביר Markdown נפוץ";
+"Live Rendering" = "תצוגה מקדימה בזמן אמת";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "הצג מקור בעבור בלוקים פשוטים\n(כולל כותרות וכו') בעת פוקוס";
+"Default Copy Behavior" = "התנהגות ברירת המחדל להעתקה";
+"Copy Markdown source as plain text" = "העתק את מקור ה־Markdown בתור טקסט פשוט";
+"Typewriter Mode" = "מצב מכונת כתיבה";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "שומר תמיד על הסמן באמצע המסך\nכאשר מצב מכונת הכתיבה מופעל";
+
+/* Markdown Panel */
+"Markdown" = "מארק־דאון (Markdown)";
+"(Following preferences will be applied after restart.)" = "(השינויים הבאים יתעדכנו רק לאחר אתחול.)";
+"Syntax Support" = "תמיכה בתחביר";
+"Inline Math  ( e.g: $\LaTeX$ )" = "מתמטיקה מוטמעת בתור השורה ( לדוגמא: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "טקסט תחתון ( לדוגמא: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "טקסט עליון ( לדוגמא: X^2^ )";
+"Highlight     (e.g: ==key==)" = "הדגשה (לדוגמא: ==key==)";
+"Diagrams" = "דיאגרמות";
+"(Sequence, Flowchart and Mermaid)" = "(תרשים רצף, תרשים זרימה וכו')";
+"Syntax Preference" = "העדפות תחביר";
+"(only applies to styles created from menubar or hybrid view)" = "(תקף רק לעיצובים שנוצרו משורת התפריט או מהתצוגה ההיברידית)";
+"Strict Mode" = "מצב קפדני";
+"(more strict to GFM spec)" = "(מחמיר יותר לגבי מפרט המארק־דאון של גיט־האב)";
+"Heading Style" = "סגנון כותרת";
+"Unordered List" = "רשימה לא ממוספרת";
+"Ordered List" = "רשימה ממוספרת";
+"Code Fences" = "גדרות קוד";
+"Display line numbers for code fences" = "הצג מספור שורות בעבור גדרות קוד";
+"Math Blocks" = "בלוקי מתמטיקה";
+"Auto Numbering Math Equations" = "מספור אוטומטי של משוואות מתמטיות";
+
+/* Security Panel */
+"Security" = "אבטחה";
+"Enable Debug" = "אפשר ניפוי באגים";
+"Send Anonymous Usage Info" = "שלח פרטי שימוש אנונימיים";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "דרוש Pandoc כדי להמשיך...";
+"Follow instructions to install Pandoc" = "עקוב אחר ההוראות כדי להתקין Pandoc";
+"Cancel" = "בטל";
+
+/* Pandoc Import Panel */
+"Importing..." = "מייבא...";
+"Importing in progress..." = "הייבוא מתבצע...";
+"Converting file with Pandoc. This may take some time." = "ממיר קובץ באמצעות Pandoc. יתכן שזה יקח זמן.";
+"Abort" = "בטל";
+
+/* Pandoc Export Panel */
+"Exporting..." = "מייצא...";
+"Exporting in progress..." = "הייצוא מתבצע...";
+"Converting file with Pandoc. This may take some time." = "ממיר קובץ באמצעות Pandoc. יתכן שזה יקח זמן.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc דרוש בכדי לייבא את סוגי הקבצים האלו";
+"Check help->Install and use Pandoc from menubar for detail" = "בדוק את עזרה->התקנה והשתמש ב־Pandoc דרך שורת התפריט לפרטים נוספים.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "חלק מאפשרויות הייבוא והייצוא דורשות ש־<a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) תיהיה מותקנת.";
+"Follow Instructions to Install/Update Pandoc" = "עקוב אחר ההוראות בכדי להתקין/לעדכן את Pandoc";
+"Export Failed" = "הייצוא נכשל";
+"Import Failed" = "הייבוא נכשל";
+"Generated Image too Large" = "התמונה שנוצרה גדולה מידיי";
+"Failed to export file to <em>{0}</em>" = "ייצוא הקובץ ל־ <em>{0}</em> נכשל";
+"Failed to import file from <em>{0}</em>" = "ייבוא הקובץ מ־ <em>{0}</em> נכשל";
+"File does not exist at <em>{0}</em>" = "הקובץ <em>{0}</em> לא קיים";
+"Export to..." = "יצא ל...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "האם אתה רוצה לשמור שינויים שנעשו למסמך זה?<br/>השינויים ימחקו אם לא תשמור אותם.";
+"[Warning] Failed to attach bookmark for PDF file." = "[אזהרה] צירוף הסימניה לקובץ ה־PDF נכשל.";
+"Dark Theme not support" = "ערכת נושא כהה לא נתמכת";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "הגרסה הנוכחית של Typora לא מאפשרת שינוי של צבע הרקע בקובץ PDF, ולכן ערכות נושא כהות עדיין לא נתמכות בייצוא לקבצי PDF.\nאנא בחר ערכת נושא בהירה או את ערכת הנושא הקלאסית.";
+"Print with default theme" = "הדפס עם ערכת הנושא הקלאסית";
+"Export to PDF successfully." = "הייצוא ל־PDF התבצע בהצלחה.";
+"Converting file using Pandoc. This may take some time." = "המרת הקובץ באמצעות Pandoc. יתכן שזה יקח זמן.";
+"Exporting file using Pandoc. This may take some time." = "ייצוא הקובץ באמצעות Pandoc. יתכן שזה יקח זמן.";
+
+"Uploading in progress…" = "העלאה מתבצעת...";
+"Do not show this again" = "אל תראה זאת שוב";
+
+/* Word Count */
+"Minute" = "דקה";
+"Line" = "שורה";
+"Word" = "מילה";
+"Character" = "תו";
+
+"Minutes" = "דקות";
+"Lines" = "שורות";
+"Words" = "מילים";
+"Characters" = "תווים";
+"In Selection" = "בבחירה";
+"Panel" = "לוח";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "מראה";
+"System Native" = "מערכת מקומית";
+"Unibody" = "אחיד";
+"(applied after restart)" = "(יחול לאחר הפעלה מחדש)";
+"Status Bar" = "שורת מצב";
+"Show status bar" = "הראה שורת מצב";
+"Save & Recover" = "שמור ושחזר";
+"Auto Save" = "שמירה אוטומטית";
+"Recover Unsaved Drafts" = "שחזר טיוטות שלא נשמרו";
+"Emoji Autocomplete" = "השלמה אוטומטית של אימוג'ים";
+"Trigger by ESC key" = "החל באמצעות מקש ESC";
+"Trigger automatically" = "החל אוטומטית";
+"Default Line Ending" = "סיום שורה ברירת מחדל";
+"Line ending for new file" = "סיום שורה בעבור קובץ חדש";
+"Spell Check" = "בדיקת איות";
+"Auto correct spelling" = "תקן איות אוטומטית";
+"System" = "מערכת";
+"Privacy" = "פרטיות";
+"Developer" = "מפתח";
+"Update" = "עדכון";
+"Check Updates" = "בדוק בעבור עדכונים";
+"Check updates automatically" = "בדוק עדכונים אוטומטית";
+"Advanced Settings" = "הגדרות מתקדמות";
+"Open Advanced Settings" = "פתח הגדרות מתקדמות";
+"Reset Advanced Settings" = "אפס הגדרות מתקדמות";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "פעולה זו דורשת שהגרסה העדכנית ביותר של iPic תיהיה מותקנת.";
+"Get iPic" = "הורד את iPic";
+"Cannot Continue…" = "לא ניתן להמשיך...";
+"This feature require macOS >= 10.11" = "פעולה זו דורשת את מערכת ההפעלה Mac (גרסה 10.11 ומעלה)";
+"One More Step" = "צעד אחד נוסף";
+"Notice" = "התראה";
+
+"%d Images Failed to Upload." = "%d תמונות נכשלו בהעלאה.";
+"%d Succeeded," = "%d הצליחו,";
+"Enable this feature on preferences panel" = "הפעל תכונה זו בלוח ההעדפות";
+"The option `%@` must be enabled first to automatically upload images." = "כדי להעלות תמונות באופן אוטומטי, האפשרות `%@` צריכה להיות מודלקת.";
+"%@ is a file, not a directory" = "%@ הוא קובץ ולא תיקייה";
+"Copy Images To…" = "העתק תמונות ל...";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "אנו מנסים להעתיק את התמונה האחרונה לתיקייה %@ כפי שדרשת ב־YAML Front Matter או בהגדרות הכלליות. משום מה, התיקיים לא קיימת. ליצור אותה כעת?";
+"Create Folder and Continue" = "צור תיקייה והמשך";
+"Document must be saved first" = "יש לשמור תחילה את המסמך";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora תעתיק את התמונות החדשות בתיקייה לפי הנתיב היחסי שנבחר, ולכן שמור תחילה את הקובץ.";
+"Open Operation Failed" = "פעילת הפתיחה נכשלה";
+
+"Support Documentation" = "תמיכה בתיעוד";
+
+"Markdown File" = "קובץ Markdown";
+"Plain Text File" = "קובץ טקסט רגיל";
+"All Files" = "כל הקבצים";
+"All Supported Formats" = "כל הפורמטים הנתמכים";
+"Discard Changes" = "בטל שינויים";
+"Discard" = "בטל";
+
+"Menu" = "תפריט";
+"Back" = "חזור";
+
+"Contact" = "צור קשר";
+"Open From..." = "פתח מ...";
+"Import..." = "ייבא...";
+"Recent Documents" = "מסמכים אחרונים";
+"Search for" = "חפש";
+"Clear Recent Documents" = "נקה מסמכים אחרונים";
+"File Name" = "שם הקובץ";
+"Path" = "כתובת";
+"Export As..." = "ייצא בשם...";
+"More Formats" = "פורמטים נוספים";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "פורמטים תחת \"פורמטים נוספים\" צריכים ש־<a class='open-pandoc-guide'>Pandoc יהיה מותקן</a>.";
+"Something is Wrong…" = "משהו לא בסדר...";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "שמירת התוכן נכשלה משום מה.<br/>תוכל להעתיק את התוכן לחלון Typora חדש, ולנסות לשמור אותו שם.<br/>למד עוד על:<ul><li><a href='https://support.typora.io/Report-Bugs/'>דיווח באגים</a></li><li><a href='https://support.typora.io/Version-Control//'>שיחזור תוכן שאבד</a></li></ul>";
+"Copy Content" = "העתק תוכן";
+
+
+"Total" = "סך הכל";
+"Word count only support OS X later than 10.10." = "ספירת מילית נתמכת רק במערכת ההפעלה X בגרסאות שלאחר 10.10.";
+"Indent Size for Code" = "גודל ההזחה בעבור קוד";
+"Auto wrap long lines" = "רד שורה אוטומטית בעבור שורות ארוכות";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "הגרסה הנוכחית של Typora לא תדפיס את צבע הרקע,\nולכן ערכות נושא כהות עדיין לא זמינות להדפסה.\n\nאנא בחר ערכת נושא בהירה או ייצא את המסמך הנוכחי לקובץ PDF.";
+"Export to PDF" = "ייצא לקובץ PDF";
+"Pretty indentation" = "סדר הזחה";
+"Update markdown reference for this image" = "עדכן את ההפנייה בעבור תמונה זו בMarkdown";
+
+"No special action" = "אין פעולה מיוחדת";
+"Copy image to current folder (./)" = "העתק תמונה לתיקייה הנוכחית (./)";
+"Copy image to ./assets" = "העתק תמונה ל־ ./assets";
+"Copy image to ./${filename}.assets" = "העתק תמונה ל־ ./${filename}.assets";
+"Apply above rules to local images" = "החל את הכללים הנ\"ל על תמונות מקומיות";
+"Apply above rules to online images" = "החל את הכללים הנ\"ל על תמונות מקוונות";
+"Allow upload images automatically based on YAML settings" = "אפשר להעלות תמונות באופן אוטומטית בהתבסס על הגדרות ה־YAML";
+
+"Learn More" = "למד עוד";
+"Whitespace / Line Break" = "רווחים, טאבים וירידות שורה";
+"When Writing" = "כשכותבים";
+"Export / Print" = "ייצא / הדפס";
+"Preserve sequential whitespace and single line break" = "שמור על רווח וירידת שורה בודדת";
+"Ignore sequential whitespace and single line break" = "התעלם מרווח וירידת שורה בודדת";
+
+"Quit" = "צא";
+"Quit Typora when last window is closed" = "צא מ־Typora כאשר החלון האחרון נסגר";
+"On Launch" = "בעת פתיחה";
+"Open new file" = "פתח קובץ חדש";
+"Restore last closed folders" = "שחזר תיקיות אחרונות שנסגרו";
+"Restore last closed files and folders" = "שחזר קבצים ותיקיות אחרונות שנסגרו";
+"Open custom folder" = "פתח תיקייה אחרת";
+"Select custom folder" = "בחר תיקייה אחרת";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "אפשרות זו עשויה להידרס על ידי \"סגור חלונות בעת יציאת יישום\" בהעדפות המערכת";
+
+"Ignore" = "התעלם";
+"Choose Default Folder" = "בחר תיקיית ברירת מחדל";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>המר בעת קליטה</strong>: קליטת מקף או ציטוט (ASCII) יהפוך ויישמר בתור ציטוט 'מתולתל' או מקפי UNICODE.<br/><strong>המר בעת תצוגה</strong>: קלוט ושמור מקף וציטוטי ASCII, הצג בתור ציטוט 'מתולתל' או מקפי UNICODE.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>זיהוי סימני פיסוק UNICODE בתור ASCII בעת העבירה על Markdown, כמו:<br/><pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>אפשרות זו תיהיה מודלקת באופן אוטומטי אם ציטוט/מקפים חכמים יומר בעת הקלט.<div>";
+
+"Copy image to custom folder" = "העתק תמונה לתיקיה מותאמת אישית";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "אנא ציין כתובת יחסית לתקייה הנוכחית שמתחילה עם './' או '../', או בנתיב לתיקייה מוחלטת. (`${filename}` מייצג שם קובץ נוכחי.)";
+"Restore to previous setting" = "חזור להגדרה קודמת";
+"Folder not exist at %@, please input another path." = "התיקייה לא קיימת ב־%@, אנא בחר כתובת אחרת.";
+"Please input a folder path." = "הזן כתובת תיקייה.";
+"Cannot use root path." = "לא ניתן להשתמש בכתובת מהשורש.";
+
+"Get Themes" = "השג ערכות נושא";
+"File/directory already exists at target path." = "קובץ/תיקייה כבר קיימת בכתובת היעד.";
+"Keep Both" = "שמור את שניהם";
+"Are you sure you want to move %@?" = "האם אתה בטוח שברצונך להעביר את %@?";
+
+"Are you sure you want to delete %@?" = "האם אתה בטוח שברצונך למחוק את %@?";
+"You can restore from the Trash." = "אתה יכול לשחזר מהאשפה.";
+
+"Reset All Dialog Warnings" = "אפס את כל אזהרות הדיאלוג";
+"Dialogs" = "דיאלוגים";
+"Dialog warnings have been reset." = "אזהרות הדיאלוגים אופסו.";
+
+"Operation Failed" = "הפעולה נכשלה";
+"Failed to move target file or folder to trash" = "נכשל בהעברת הקובץ או התיקייה לאשפה";
+
+"Undo %@" = "בטל %@";
+"Rename %@" = "שנה שם %@";
+"Copy %@" = "העתק %@";
+"Move %@" = "העבר %@";
+"Delete %@" = "מחק %@";
+
+"Turn off Typewriter / Focus Mode" = "כבה מצב מכונת כתיבה / מצב ממוקד";
+"Typewriter / Focus Mode have been turned off." = "מצב מכונת כתיבה / מצב ממוקד כובה.";
+
+"Reading Speed" = "מהירות קריאה";
+"Auto" = "אוטומטי";
+"words / min" = "מילים לדקה";
+
+"Reset to Default" = "אפס לברירת מחדל";
+"120  words/minute (Slow)" = "120 מילים לדקה (איטי)";
+"240  words/minute (Medium)" = "240 מילים לדקה (ממוצע)";
+"382  words/minute (Fast)" = "382 מילים לדקה (מהיר)";
+
+"Copy and update image source to…" = "העתק ועדכן את מקור התמונה ל...";
+"Updater" = "מעדכן";
+"Install Updates ?" = "התקן עדכונים?";
+"Quit and Install" = "צא ועדכן";
+"Download failed" = "הורדה נכשלה";
+"Downloading Updates…" = "מוריד עדכונים...";
+"Checking Updates…" = "בודק בעבור עדכונים...";
+"Check Update Failed" = "בדיקה בעבור עדכונים נכשלה";
+"You are update to date!" = "הגרסה העדכנית ביותר מותקנת!";
+"Latest version is $1, your version is $2" = "הגרסה העדכנית ביותר היא $1, והגרסה המותקנת היא $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "ניתן לשנות אפשרויות אלו מאוחר יותר";
+"Auto escape image URL when insert" = "ברח מכתובת URL של תמונה אוטומטית";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "לדוגמא, אם תכניס קובץ ב־'img/example file.png', הוא יהפוך ל־'img/example%20file.png'. הפעל אפשרות זו לתמיכה טובה יותר במעבדי Markdown שונים, או כבה אפשרות זו למסמך קריא יותר.";
+"Check updates automatically" = "בדוק בעבור עדכונים באופן אוטומטי";
+"Skip This Version" = "דלג על גרסה זו";
+"Remind Me Later" = "אזכר לי מאוחר יותר";
+"Download Update" = "הורד עדכון";
+"New version available." = "גרסה חדשה זמינה.";
+
+"When copy / export as HTML (without style)" = "בעת העתקה / ייצוא כ- HTML (ללא סגנון)";
+"Use Rendered SVG" = "השתמש ב־SVG שמוצג";
+"Use LaTeX Source" = "השתמש ב־LaTeX המקורי";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div> השפיע בעת ייצוא כ- HTML (ללא סגנונות) או העתק כקוד HTML, או העתק ללא סגנון ערכת נושא. <br/> כאשר נבחר ל <strong> השתמש במקור LaTeX </strong>, טיפורה תניח את מקור LaTeX הגולמי (למשל: $X^2$),<br/> כאשר נבחר <strong> בחר Rendered SVG </strong>, ישתמש ב- SVG שניתנו, אם תדביק באפליקציה אחרת, SVG עשוי להתעלם. </div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "פונקציית הייבוא וחלק מפונקציות הייצוא דורשות את Pandoc (≥%@) מותקן.";
+"Do not show this message again" = "אל תציג הודעה זו שוב";
+
+"Page Break Between Top Headings" = "מעבר עמוד בין כותרות";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "אירעה שגיאה כלשהיא, ותוכן הכתיבה הנוכחי הועתק ללוח. תוכל לדווח על כך ל־<hi@typora.io> כדי לתקן שגיאה זו.";
+"Try Recovery" = "נסה לשחזר";
+"Other options for Data Recovery" = "אפשרויות אחרות לשחזור נתונים";
+
+"When Insert" = "בעת קלט";
+"Upload image" = "העלה תמונה";
+"e.g: %@" = "לדוגמא: %@";
+"Test Uploader" = "בדוק את ההעלאה";
+"Validating" = "בודק את ההעלאה";
+"Validation Failed" = "הבדיקה נכשלה";
+"Validation Succeed" = "הבדיקה עברה בהצלחה";
+"Testing image uploading using command:" = "בודק את ההעלאה התמונה בעזרת הפקודה:";
+"Running… Waiting for results." = "מריץ... מחכה בעבור תוצאות.";
+"Output from the console:" = "פלט:";
+"Error from the console:" = "שגיאות:";
+"Failed to fetch uploaded image from command output." = "נכשל בקבלת תמונות שהועלו מפלט הפקודה.";
+"Successfully get uploaded image url." = "קבלת כתובת התמונה הוצלחה.";
+"Image Uploader" = "מעלה התמונות";
+"Instructions" = "הוראות";
+"Download %@" = "הורד %@";
+"Image Upload Setting" = "הגדרות מעלה התמונות";
+"Please set an image uploader in Preferences panel before using this function." = "הגדר את מעלה התמונות בלוח ההעדפות לפני השימוש באפשרות זו";
+"Download or Upgrade" = "הורד או עדכן";
+"Open Config File" = "פתח קובץ הגדרות";
+"Command" = "פקודה";
+"PicGo Path" = "כתובת PicGo";
+"Path of PicGo binary" = "כתובת לקובץ PicGo בינארי";
+"Executable" = "קובץ הרצה";
+"Checking" = "בודק";
+"Download" = "הורד";
+"Agree and Download" = "הסכם והורד";
+"Download and Reinstall" = "הורד והתקן מחדש";
+"Loading PicGo-Core License" = "טוען את רישיון PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "השגת הגרסה המותקנת של PicGo-Core (command line) נכשלה";
+"You have the latest PicGo-Core (CLI)" = "הגרסה העדכנית ביותר של PicGo-Core (CLI) מותקנת";
+"Newer version is available" = "גרסא חדשה יותר זמינה";
+
+"Downloading…" = "מוריד...";
+"Unzipping…" = "פותח משאבים (Unzip)...";
+"Finished" = "נגמר";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora תשתמש בתוכנת צד שלישי עם כל הכתובות לתמונות המאוחסנות. למעלה התמונות ולאחסון בענן תיהיה גישה לתמונות אלו. האם אתה בטוח שברצונך להמשיך?";
+
+"Export operation finished successfully." = "פעולת הייצוא הסתיימה בהצלחה.";
+
+"Shortcut Keys" = "מקשי קיצור";
+"Custom Shortcut Keys" = "קיצורים מותאים אישית";
+
+"Theme" = "ערכת נושא";
+"Light Theme" = "ערכת נושא בהירה";
+"Dark Theme" = "ערכת נושא כהה";
+"Use separate theme in dark mode" = "השתמש בערכת נושא אחרת במצב כהה";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "תמיכה ב־MacOS ≥ 10.15 או בחלונות 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "המר -- ל – (מקף en), ו --- ל — (מקף em)";
+"Convert -- and --- to — (em dash)" = "המר -- ו --- ל — (מקף em)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "אתה יכול להגדיר דפוסי ציטוטים בהגדרות המערכת. אם הגדרות אלו ישתנו, תצטרך לפתוח מחדש את Typora כדי שהשינויים יתעדכנו.";
+
+
+"Paper Size" = "גודל הדף";
+"US Letter" = "מכתב (US)";
+"US Legal" = "חוקי (US)";
+"Tabloid" = "צהבון";
+"Page Break" = "מעבר עמוד";
+"Page Break Between Top Headings" = "מעבר עמוד בין כותרות";
+"Header" = "כותרת עליונה";
+"Footer" = "כותרת תחתונה";
+"Author" = "מחבר";
+"Append in <head />" = "הוסף ב־<head />";
+"Append in <body />" = "הוסף ב־<body />";
+"Include Outline Sidebar" = "כלול את תפריט המבנה";
+"Width" = "עובי";
+"Command" = "פקודה";
+"Show Save File Dialog" = "הצג דיאלוג שמירת הקובץ";
+"File Extensions for Export" = "סיומות קבצים בעבור ייצוא";
+"Arguments" = "הגדרות";
+"Extra Arguments" = "הגדרות נוספות";
+"LaTeX Engine" = "מעבד LaTeX";
+"Template" = "תבנית";
+"Empty" = "ריק";
+"Style Reference" = "הפניה לסגנון";
+"Custom CSS" = "CSS מותאם אישית";
+"Chapter Level" = "רמת הפרק";
+"Default Folder for Exported File" = "תיקיית ברירת המחדל בעבור ייצוא קבצים";
+"Same folder with current file" = "התייקיה שבה יושב הקובץ הנוכחי";
+"Custom location" = "כתובת אחרת";
+"(Auto Detect)" = "(זהה אוטומטית)";
+"After Export" = "לאחר ייצוא";
+"Open exported file location" = "פתח את מיקום הקובץ המיוצא";
+"Open exported file" = "פתח את הקובץ המיוצא";
+"Custom" = "מותאם אישית";
+"None" = "אין";
+"Default" = "ברירת מחדל";
+"Margin" = "שוליים";
+"Margin Left" = "שוליים משמאל";
+"Margin Right" = "שוליים מימין";
+"Margin Top" = "שוליים מלמעלה";
+"Margin Bottom" = "שוליים מלמטה";
+"Width x Height" = "עובי על גובה";
+"Add From a Template" = "הוסף מתבנית";
+"Delete this export option ?" = "מחק את אפשרות היצוא הזו?";
+"Add" = "הוסף";
+"Delete" = "מחק";
+"Rename" = "שנה שם";
+"Move Down" = "הורד";
+"Move Up" = "העלה";
+"Pandoc Path" = "כתובת Pandoc";
+"Select" = "בחר";

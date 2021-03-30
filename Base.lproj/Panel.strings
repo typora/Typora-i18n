@@ -420,3 +420,25 @@
 "Move Up" = "Move Up";
 "Pandoc Path" = "Pandoc Path";
 "Select" = "Select";
+"Target Format" = "Target Format";
+"auto detect based on target file path" = "auto detect based on target file path";
+"Target File Extensions (separate by whitespace)" = "Target File Extensions (separate by whitespace)";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
+"Raw Type" = "Raw Type";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Show Save File Dialog";
+"Do not popup save file dialog" = "Do not popup save file dialog";
+"Select file path to save" = "Select file path to save";
+"Select folder path to save" = "Select folder path to save";
+"PDF Engine" = "PDF Engine";
+"Show command output" = "Show command output";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "Command Arguments:";
+"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"Current Theme" = "Current Theme";
+"After Export" = "After Export";
+"Run command" = "Run command";
+"Run command after export failed" = "Run command after export failed";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "Append Extra Content (HTML)";

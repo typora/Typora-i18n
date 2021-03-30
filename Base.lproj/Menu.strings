@@ -214,7 +214,6 @@
 "New File" = "New File";
 "Rename" = "Rename";
 "New Folder" = "New Folder";
-"Move to Trash" = "Move to Trash";
 
 /* Electron */
 "Learn Spelling" = "Learn Spelling";
@@ -307,3 +306,7 @@
 "Copy Image" = "Copy Image";
 
 "More Actions" = "More Actions";
+"Get Info" = "Get Info";
+
+"Export with Previous" = "Export with Previous";
+"Export and Overwrite with Previous" = "Export and Overwrite with Previous";

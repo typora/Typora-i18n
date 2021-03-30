@@ -125,7 +125,7 @@
 "List Indentation" = "Listeindrykning";
 "Indent" = "Ryk ind";
 "Outdent" = "Ryk ud";
-"Link Reference" = "Kædehenvisning";
+"Link Reference" = "Link";
 "Footnotes" = "Fodnoter";
 "Horizontal Line" = "Horisontal linje";
 "Table of Contents" = "Indholdsfortegnelse";
@@ -139,7 +139,7 @@
 "Code" = "Kode";
 "Inline Math" = "Indbygget formular";
 "Strike" = "Gennemstreg";
-"Highlight" = "Fremhævning";
+"Highlight" = "Highlight";
 "Superscript" = "Hævet tekst";
 "Subscript" = "Sænket tekst";
 "Comment" = "Kommentar";
@@ -217,7 +217,6 @@
 "New File" = "Ny fil";
 "Rename" = "Omdøb";
 "New Folder" = "Ny mappe";
-"Move to Trash" = "Flyt til papirkurv";
 
 /* Electron */
 "Learn Spelling" = "Lær stavning";
@@ -294,3 +293,20 @@
 "Stop Speaking" = "Stop oplæsning";
 "Check Updates" = "Søg efter opdateringer";
 
+"HTML (without Styles)" = "HTML (uden typografi)";
+
+"Highlight Current Header" = "Highlight nuværende overskrift";
+"Expand All" = "Udvid alle";
+"Collapse All" = "Luk alle";
+"Collapsible Outline" = "Sammenklappelig disposition";
+"Flat Outline" = "Flad disposition";
+"Articles (List View)" = "Artikler (liste)";
+"File Tree (Tree View)" = "Filtræ (træ)";
+"Filter" = "Filter";
+
+"Upload Image" = "Upload billede";
+"Upload All Local Images" = "Upload alle lokale billeder";
+"Open Image in Browser" = "Åbn billede i browser";
+"Copy Image" = "Kopiér billede";
+
+"More Actions" = "Flere handlinger";

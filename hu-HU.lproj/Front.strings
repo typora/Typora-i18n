@@ -71,7 +71,8 @@
 "Refresh Folder" = "Mappa frissítése";
 "Sort" = "Rendezés";
 "Group By Folder" = "Mappánkénti csoportosítás";
-"Sort Naturally" = "Természetes sorrend";
+"Sort Naturally (Ascending)" = "Természetes sorrend (növekvő)";
+"Sort Naturally (Descending)" = "Természetes sorrend (csökkenő)";
 "Sort by Name (Ascending)" = "Rendezés név szerint (növekvő)";
 "Sort by Modification Date (Ascending)" = "Rendezés utolsó módosítás szerint (növekvő)";
 "Sort by Name (Descending)" = "Rendezés név szerint (csökkenő)";

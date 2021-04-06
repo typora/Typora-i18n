@@ -442,3 +442,27 @@
 "Run command after export failed" = "Run command after export failed";
 "Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
 "Append Extra Content (HTML)" = "Append Extra Content (HTML)";
+"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Dark theme is not supported." = "Dark theme is not supported.";
+
+"Markdown Variants" = "Markdown Variants";
+"Original Unextended Markdown" = "Original Unextended Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
+"Line Wrap" = "Line Wrap";
+"Hard line wrap" = "Hard line wrap";
+"Text Column Width" = "Text Column Width";
+"Auto (based on current OS)" = "Auto (based on current OS)";
+"Indent" = "Indent";
+"Preserve tabs" = "Preserve tabs";
+"2 spaces per tab" = "2 spaces per tab";
+"3 spaces per tab" = "3 spaces per tab";
+"4 spaces per tab" = "4 spaces per tab";
+"Unicode Characters" = "Unicode Characters";
+"Use only ASCII characters in output" = "Use only ASCII characters in output";
+"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
+"Footnotes and References Location" = "Footnotes and References Location";
+"End of document" = "End of document";
+"End of current (top-level) block" = "End of current (top-level) block";
+"End of current section" = "End of current section";
+"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
+"Image Format" = "Image Format";

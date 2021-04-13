@@ -1,7 +1,7 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
+
  by rzezior@gazeta.pl, iriusturar350@Gmail.com
  */
 
@@ -420,3 +420,49 @@
 "Move Up" = "Przenieś wyżej";
 "Pandoc Path" = "Ścieżka do Pandoc";
 "Select" = "Wybierz";
+"Target Format" = "Format docelowy";
+"auto detect based on target file path" = "wybierz automatycznie na podstawie lokalizacji pliku docelowego";
+"Target File Extensions (separate by whitespace)" = "Rozszerzenia pliku docelowego (rozdzielone spacjami)";
+"e.g: .text .asciidoc or leave this empty" = "np. .text .asciidoc lub zostaw puste";
+"Raw Type" = "Format Raw";
+"Auto" = "Automatycznie";
+"Show Save File Dialog" = "Wyświetl okno dialogowe zapisywania pliku";
+"Do not popup save file dialog" = "Nie pokazuj okna dialogowego zapisywania pliku";
+"Select file path to save" = "Wybierz lokalizację eksportowanego pliku";
+"Select folder path to save" = "Wybierz folder eksportowanego pliku";
+"PDF Engine" = "Silnik PDF";
+"Show command output" = "Wyświetl komunikaty wiersza poleceń";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksportuj i zastąp z ostatnimi ustawieniami\" zastąpi plik w %@. Kontynuować?";
+"Command Arguments:" = "Argumenty wiersza poleceń:";
+"This beta version of Typora is expired, please download and install a newer version." = "Ta wersja beta programu Typora wygasła. Pobierz i zainstaluj nowszą wersję.";
+"Current Theme" = "Obecny motyw";
+"After Export" = "Po wyeksportowaniu";
+"Run command" = "Wykonaj polecenie";
+"Run command after export failed" = "Wykonaj polecenie po nieudanym eksportowaniu";
+"Read and overwrite export settings from YAML front matters" = "Zezwól na zastępowanie bieżących ustawień eksportu informacjami zawartymi w YAML";
+"Append Extra Content (HTML)" = "Dołącz dodatkową zawartość (HTML)";
+"Change this option to specify a separated theme for export." = "Zmień tę opcję, aby wskazać inny motyw na potrzeby eksportu.";
+"Dark theme is not supported." = "Ciemny motyw nie jest obecnie obsługiwany.";
+
+"Markdown Variants" = "Odmiany Markdown";
+"Original Unextended Markdown" = "Oryginalny Markdown bez rozszerzeń";
+"CommonMark with many pandoc extensions" = "CommonMark z wieloma rozszerzeniami pandoc";
+"Line Wrap" = "Zawijanie wierszy";
+"Hard line wrap" = "Twardy koniec linii";
+"Text Column Width" = "Szerokość kolumny tekstu";
+"Auto (based on current OS)" = "Automatycznie (na podstawie obecnego OS)";
+"Indent" = "Wcięcie";
+"Preserve tabs" = "Zachowaj tabulację";
+"2 spaces per tab" = "2 spacje na tabulator";
+"3 spaces per tab" = "3 spacje na tabulator";
+"4 spaces per tab" = "4 spacje na tabulator";
+"Unicode Characters" = "Znaki Unicode";
+"Use only ASCII characters in output" = "W pliku wyjściowym stosuj wyłącznie znaki ASCII";
+"Use reference-style links rather than inline links" = "Stosuj łącza w stylu odnośników zamiast wbudowanych";
+"Footnotes and References Location" = "Lokalizacja przypisów i odnośników";
+"End of document" = "Na końcu dokumentu";
+"End of current (top-level) block" = "Na końcu bieżącego (najwyższego) bloku";
+"End of current section" = "Na końcu bieżącej sekcji";
+"Convert TeX formulas to web images" = "Konwertuj formuły TeX na obrazy WWW";
+"Image Format" = "Format obrazu";

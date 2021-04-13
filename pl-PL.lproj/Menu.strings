@@ -1,4 +1,4 @@
-/* 
+/*
   Menu.strings
   Typora
 
@@ -306,3 +306,7 @@
 "Copy Image" = "Skopiuj obraz";
 
 "More Actions" = "Więcej działań";
+"Get Info" = "Wyświetl informacje";
+
+"Export with Previous" = "Eksportuj z ostatnimi ustawieniami";
+"Export and Overwrite with Previous" = "Eksportuj i zastąp z ostatnimi ustawieniami";

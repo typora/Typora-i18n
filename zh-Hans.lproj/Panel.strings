@@ -300,7 +300,7 @@
 "Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
 "Auto escape image URL when insert" = "插入时自动转义图片 URL";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭改选项可以获得更高的可读性。";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭该选项可以获得更高的可读性。";
 "Check updates automatically" = "自动检查更新";
 "Skip This Version" = "跳过该版本";
 "Remind Me Later" = "稍后提醒我";

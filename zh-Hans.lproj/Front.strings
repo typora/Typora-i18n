@@ -175,3 +175,5 @@
 "Failed to upload images:" = "上传文件失败";
 "Uploading in progress" = "上传中";
 "Successfully uploaded {0} images, {1} failed." = "成功上传 {0} 个图片，失败 {1} 个。";
+
+"You could undo this operation later via `Edit` → `Undo`." = "您可以在之后通过 `编辑` → `撤销` 撤销该操作。";

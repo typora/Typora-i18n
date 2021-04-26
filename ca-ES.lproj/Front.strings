@@ -7,116 +7,116 @@
 
 /* Common */
 "OK" = "D'acord";
-"Cancel" = "Cancel·lar";
+"Cancel" = "Cancel·la";
 "Yes" = "Sí";
 "No" = "No";
-"Close" = "Tancar";
-"Select" = "Sel·leccionar";
-"Continue" = "Continuar";
-"Learn More…" = "Veure més…";
+"Close" = "Tanca";
+"Select" = "Sel·lecciona";
+"Continue" = "Continua";
+"Learn More…" = "Més informació…";
 "Untitled" = "Sense títol";
-"Undo" = "Desfer";
-"Dismiss" = "Descartar";
-"Confirm" = "Confirmar";
+"Undo" = "Desfés";
+"Dismiss" = "Descarta";
+"Confirm" = "Confirma";
 "Error" = "Error";
 
 /* Search Panel */
-"Search" = "Cercar";
-"Replace" = "Substituir";
+"Search" = "Cerca";
+"Replace" = "Substitueix";
 "All" = "Tot";
-"Search text not found in article" = "El text a buscar no s'ha trobat a l'article";
-"search text" = "cercar text";
+"Search text not found in article" = "El text no s'ha trobat a l'article";
+"search text" = "text a trobar";
 
 /* Quick Open */
-"Search by file name" = "Cercar per nom d'arxiu";
-"Searching" = "Cercant";
-"Gathering more results" = "Recollint més resultats"
+"Search by file name" = "Cerca pel nom de fitxer";
+"Searching" = "S'està cercant";
+"Gathering more results" = "S'estan recollint més resultats"
 
 /* Tables */
-"Insert Table" = "Inserir taula";
+"Insert Table" = "Insereix una taula";
 "Columns" = "Columnes";
 "Rows" = "Files";
-"Align Left" = "Alinear a l'esquerra";
-"Align Center" = "Alinear al centre";
-"Align Right" = "Alinear a la dreta";
-"Resize Table" = "Redimensionar tabla";
-"Delete Table" = "Eliminar tabla";
+"Align Left" = "Alinea a l'esquerra";
+"Align Center" = "Alinea al centre";
+"Align Right" = "Alinea a la dreta";
+"Resize Table" = "Redimensiona la taula";
+"Delete Table" = "Elimina la taula";
 
 /* Images */
-"Create Folder" = "Crear carpeta";
+"Create Folder" = "Crea una carpeta";
 
 /* Math */
-"Edit" = "Editar";
-"Delete Math" = "Esborrar equació";
-"Preview" = "Previsualitzar";
+"Edit" = "Edita";
+"Delete Math" = "Elimina l'equació";
+"Preview" = "Previsualitza";
 
 /* Sidebar */
 "Articles" = "Articles";
 "Outline" = "Esquema";
-"Files" = "Arxius";
-"Switch to File List view" = "Canviar a vista de llista d'arxius";
-"Switch to File Tree view" = "Canviar a vista d'arbre d'arxius";
-"Switch to Outline view" = "Canviar a vista d'esquema";
-"Close sidebar" = "Tancar barra lateral";
-"Loading" = "Carregant";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les carpetes sel·leccionades tenen masses arxius. \nConsidera canviar a <a id='switch-to-tree-on-oversize'>vista d'arbre d'arxius</a> per a un millor rendiment.";
-"New File" = "Nou arxiu";
-"Unpin Outline Panel" = "Desancorar panel d'esquema";
-"Open Folder..." = "Obrir carpeta...";
+"Files" = "Fitxers";
+"Switch to File List view" = "Canvia a la vista de llista de fitxers";
+"Switch to File Tree view" = "Canvia a la vista d'arbre de fitxers";
+"Switch to Outline view" = "Canvia a la vista d'esquema";
+"Close sidebar" = "Tanca la barra lateral";
+"Loading" = "S'està carregant";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les carpetes sel·leccionades tenen massa fitxers. \nCanvieu a la <a id='switch-to-tree-on-oversize'>vista d'arbre de fitxers</a> per a un millor rendiment.";
+"New File" = "Crea un fitxer";
+"Unpin Outline Panel" = "Desancora el panel d'esquema";
+"Open Folder..." = "Obre una carpeta...";
 "Action" = "Acció"; /* Needs more context */
-"Close Sidebar Menu" = "Tancar menú de barra lateral";
-"Reveal in Finder" = "Mostrar en el Finder";
-"Reveal in File Explorer" = "Mostrar a l'explorador d'arxius";
-"Refresh Folder" = "Recarregar carpeta";
-"Sort" = "Ordenar";
-"Group By Folder" = "Agrupar per carpeta";
-"Sort Naturally" = "Ordenar naturalment";
-"Sort by Name" = "Ordenar per nombre";
-"Sort by Modification Date" = "Ordenar per data de modificació";
+"Close Sidebar Menu" = "Tanca menú de la barra lateral";
+"Reveal in Finder" = "Mostra al Finder";
+"Reveal in File Explorer" = "Mostrar a l'Explorador de fitxers";
+"Refresh Folder" = "Recarrega la carpeta";
+"Sort" = "Ordena";
+"Group By Folder" = "Agrupa per carpeta";
+"Sort Naturally" = "Ordena naturalment";
+"Sort by Name" = "Ordena per nom";
+"Sort by Modification Date" = "Ordena per data de modificació";
 "Location" = "Ubicació"; 
-"Switch File List/Tree View" = "Canviar entre vista de llista/arbre d'arxius";
-"No Files Available" = "No hi ha arxius disponibles";
+"Switch File List/Tree View" = "Canvia entre vista de llista i d'arbre de fitxers";
+"No Files Available" = "No hi ha cap fitxer disponible";
 "No Folder is Opened." = "No hi ha cap carpeta oberta.";
-"Outline is Empty." = "Esquema vuit.";
+"Outline is Empty." = "L'esquema és buit.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Alternar barra lateral";
-"Toggle Source Code Mode" = "Canviar a mode de codi font";
-"Exit Source Code Mode" = "Sortir del mode de codi font";
+"Toggle Sidebar" = "Alterna la barra lateral";
+"Toggle Source Code Mode" = "Alterna el mode de codi font";
+"Exit Source Code Mode" = "Surt del mode de codi font";
 
 "Table of Contents" = "Taula de Continguts";
-"Empty Diagram" = "Diagrama vuit";
-"Input Math TeX here" = "Escriu una equació TeX aquí";
+"Empty Diagram" = "Diagrama buit";
+"Input Math TeX here" = "Escriviu una equació TeX";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Es necessita definir la referència de la nota a peu <b>{0}</b> amb sintaxis <a>[^{1}]: www.exemple.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Es necessita definir la referència de l'enllaç <b>[{0}]</b> amb sintaxis <b>[{1}]: www.exemple.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Si us plau, defineix la referència de la imatge com a \n[{0}]: http://exemple.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Cal definir la nota al peu de referència <b>{0}</b> amb sintaxi <a>[^{1}]: www.exemple.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Cal definir l'enllaç de referència <b>[{0}]</b> amb sintaxi <b>[<1}]: www.exemple.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Definiu la imatge de referència amb \n[{0}]: http://exemple.png";
 
 /* msg */
-"Failed to create file" = "Error al crear l'arxiu";
-"Failed to create folder" = "Error al crear la carpeta";
-"Failed to rename file" = "Error al reanomenar l'arxiu";
+"Failed to create file" = "Error en crear el fitxer";
+"Failed to create folder" = "Error en crear la carpeta";
+"Failed to rename file" = "Error en canviar el nom del fitxer";
 "Folder does not exist at %@" = "La carpeta no existeix a %@";
-"File with the same name already exists at target path" = "Un arxiu amb el mateix nom ja existeix a la ruta de destí";
-"Apply to All" = "Aplicar a tot";
-"Overwrite" = "Sobreescriure";
-"Stop" = "Aturar";
-"back to document" = "tornar al document";
-"Failed to load file" = "Error al carregar l'arxiu";
-"Save File Failed!" = "Error al guardar l'arxiu!";
+"File with the same name already exists at target path" = "Ja existeix un fitxer amb el mateix nom en la ruta de destí";
+"Apply to All" = "Aplica-ho a tot";
+"Overwrite" = "Sobreescriu";
+"Stop" = "Atura";
+"back to document" = "torna al document";
+"Failed to load file" = "Error en carregar el fitxer";
+"Save File Failed!" = "Error en guardar el fitxer!";
 "Cannot open folder {0}" = "No es pot obrir la carpeta {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "El contingut ha estat canviat per una aplicació externa. Recarregar el contingut?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Continuar movent i sobreescrivint el(s) arxiu(s) existent(s)?";
+"File content is changed by external applications. Reload content from disk ?" = "El contingut del fitxer s'ha canviat amb una aplicació externa. Voleu tornar a carregar el contingut?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Hauria de continuar movent i sobreescrivint els fitxers existents?";
 
-"Rename Failed" = "Error al reanomenar";
-"Rename to \"{0}\" ?" = "Reanomenar a \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Error al reanomenar de \"{0}\" a \"{1}\"";
+"Rename Failed" = "Error en canviar el nom";
+"Rename to \"{0}\" ?" = "Voleu canviar el nom a \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Error en canviar el nom de \"{0}\" a \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Carregada(s) amb èxit {0} imatge(es).";
-"Failed to upload image. Error Message:" = "Error al carregar la imatge. Missatge d'error:";
-"Failed to Copy Image to Target Folder." = "Error al copiar la imatge a la carpeta de destí.";
-"Select Container Folder" = "Sel·leccionar carpeta contenidora";
+"Successfully uploaded {0} images." = "S'han carregat amb èxit {0} imatges.";
+"Failed to upload image. Error Message:" = "Error en carregar la imatge. Missatge d'error:";
+"Failed to Copy Image to Target Folder." = "Error en copiar la imatge a la carpeta de destí.";
+"Select Container Folder" = "Sel·leccioneu la carpeta contenidora";
 
-"Saved" = "Guardat";
+"Saved" = "S'ha desat";

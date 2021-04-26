@@ -13,52 +13,52 @@
 "Window Style" = "Estil de finestra";
 "Classic" = "Clàssic";
 "Seamless" = "Sense costures";
-"Seamless window only support OS X later than 10.10." = "La finestra sense costures només està suportada per OS X 10.10 o superiors.";
+"Seamless window only support OS X later than 10.10." = "La finestra sense costures només és compatible amb l'OS X 10.10 o superiors.";
 "Themes" = "Temes";
-"Open Theme Folder" = "Obrir carpeta de temes";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Per favor revisa `ajuda`->`Inici ràpid` per una breu introducció. Visita http://theme.typora.io per obtenir més temes o instruccions.";
+"Open Theme Folder" = "Obre la carpeta de temes";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Revisa `ajuda`->`Inici ràpid` per a una llegir una introducció. Visiteu http://theme.typora.io per a obtenir més temes o instruccions.";
 "Word Count" = "Recompte de paraules";
-"Always Show Word Count" = "Mostrar sempre el recompte de paraules";
+"Always Show Word Count" = "Mostra sempre el recompte de paraules";
 "Font Size" = "Mida de la font";
 "Auto ( Recommended )" = "Automàtic ( Recomanat )";
 "Customized" = "Personalitzat";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si s'usa una mida de font personalitzada, la mida real de la font dependrà de la mida de la font base i l'estil de CSS.";
-"Left Panel" = "Panell esquerra";
-"Show Outline Panel by Default" = "Mostrar sempre el panell d'esquema";
+"Left Panel" = "Panell esquerre";
+"Show Outline Panel by Default" = "Mostra sempre el panell d'esquema";
 "Collapsible Outline on Left Panel" = "Esquema desplegable al panell esquerre";
-"Save without asking when\nswitch files on side panel" = "Guardar sense preguntar quan\n es canvien arxius al panell lateral";
-"Language" = "Idioma";
-"System Language" = "Idioma del sistema";
+"Save without asking when\nswitch files on side panel" = "Desa sense preguntar en\n commutar entre fitxers al panell lateral";
+"Language" = "Llengua";
+"System Language" = "Llengua del sistema";
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Mida sagnat al guardar";
-"only apply to quotes and lists created from menu bar or hybrid view" = "aplica només per cites i llistes creades des de la barra de menú o la vista hibrida";
-"Trigger Autocomplete without ESC key for" = "Activar emplenament automàtic sense la tecla ESC per";
+"Indent Size on Save" = "Mida del sagnat en desar";
+"only apply to quotes and lists created from menu bar or hybrid view" = "aplica només per a comentaris i llistes creades des de la barra de menú o la vista hibrida";
+"Trigger Autocomplete without ESC key for" = "Activa l'emplenament automàtic sense la tecla ESC per a";
 "Emoji (e.g. :smile:)" = "Emoji (ex. :smile:)";
-"Images Insert" = "Inserir imatges";
+"Images Insert" = "Inserció d'imatges";
 "Use relative path if possible" = "Usar ruta relativa si és possible";
-"Allow copy images to given folder" = "Permetre copiar imatges a certa carpeta";
-"Allow upload to given server" = "Permetre càrrega a cert servidor";
-"Auto Pair" = "Emparellar automàticament";
-"Auto pair brackets and quotes" = "Tancar parelles de cometes i signes d'agrupació";
-"Auto pair common Markdown syntax" = "Tancar parells de sintaxis comuns de Markdown";
+"Allow copy images to given folder" = "Permet copiar imatges a una certa carpeta";
+"Allow upload to given server" = "Permet pujar a un cert servidor";
+"Auto Pair" = "Emparella automàticament";
+"Auto pair brackets and quotes" = "Tanca parelles de cometes i signes d'agrupació";
+"Auto pair common Markdown syntax" = "Tanca parells de sintaxis comuns de Markdown";
 "Live Rendering" = "Renderitzat en viu";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostrar codi font per blocks simples\n(incloent capçaleres, etc.) a l'estar enfocat";
-"Default Copy Behavior" = "Comportament de \ncòpia predeterminat";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Mostra el codi font per a blocs simples\n(incloent capçaleres, etc.) en estar enfocat";
+"Default Copy Behavior" = "Comportament de la còpia";
 "(⌘ + c)" = "(⌘ + c)";
-"Copy Markdown source as plain text" = "Copiar codi Markdown com a text sense format";
-"Typewriter Mode" = "Mode màquina \nd'escriure";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Mostrar sempre el cursor al centre de la pantalla\n quan el mode de màquina d'escriure està activat";
+"Copy Markdown source as plain text" = "Copia el codi Markdown com a text sense format";
+"Typewriter Mode" = "Mode màquina d'escriure";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Mostra sempre el cursor al centre de la pantalla\n quan el mode de màquina d'escriure estigui activat";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Les següents opcions seran aplicades després de reiniciar.)";
-"Syntax Support" = "Suport de sintaxis";
+"(Following preferences will be applied after restart.)" = "(Les opcions següents s'aplicaran després de reiniciar.)";
+"Syntax Support" = "Compatibilitat de sintaxis";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Equació en línia  ( ex.: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subíndex    ( ex.: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superíndex ( ex.: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Subratllat     (ex: ==key==)";
+"Highlight     (e.g: ==key==)" = "Destacat     (ex: ==key==)";
 "Diagrams" = "Diagrames";
 "(Sequence, Flowchart and Mermaid)" = "(Seqüència, Diagrama de flux i Mermaid)";
 "Syntax Preference" = "Preferència de sintaxis";
@@ -66,59 +66,59 @@
 "Strict Mode" = "Modo estricte";
 "(more strict to GFM spec)" = "(més proper a la especificació GFM)";
 "Heading Style" = "Estil de capçaleres";
-"Ordered List" = "Llista enumerada";
+"Ordered List" = "Llista ordenada";
 "Unordered List" = "Llista sense ordenar";
 "Code Fences" = "Bloc de codi";
-"Display line numbers for code fences" = "Mostrar número de línia per blocs de codi";
+"Display line numbers for code fences" = "Mostra número de línia als blocs de codi";
 "Math Blocks" = "Blocs d'equacions";
 "Auto Numbering Math Equations" = "Numeració automàtica de blocs d'equacions";
 
 /* Security Panel */
 "Security" = "Seguretat";
-"Enable Debug" = "Habilitar depuració";
-"Send Anonymous Usage Info" = "Enviar informe anònim d'usabilitat";
+"Enable Debug" = "Habilita la depuració";
+"Send Anonymous Usage Info" = "Envia un informe anònim d'usabilitat";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Requereix Pandoc per Continuar...";
-"Follow instructions to install Pandoc" = "Seguir instruccions per instal·lar Pandoc";
+"Require Pandoc to Continue..." = "Requereix el Pandoc per a continuar...";
+"Follow instructions to install Pandoc" = "Seguiu les instruccions per a instal·lar el Pandoc";
 "Cancel" = "Cancel·lar";
 
 /* Pandoc Import Panel */
-"Importing..." = "Important...";
-"Importing in progress..." = "Importació en progres...";
-"Converting file with Pandoc. This may take some time." = "Convertint archiu amb Pandoc. Això pot trigar un temps.";
-"Abort" = "Abandonar";
+"Importing..." = "S'està mportant...";
+"Importing in progress..." = "Importació en progrés...";
+"Converting file with Pandoc. This may take some time." = "S'està convertint el fitxer amb el Pandoc. Això pot trigar un temps.";
+"Abort" = "Abandona";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exportant...";
+"Exporting..." = "S'està exportant...";
 "Exporting in progress..." = "Exportació en progres...";
-"Converting file with Pandoc. This may take some time." = "Convertint arxiu amb Pandoc. Això pot trigar un temps.";
+"Converting file with Pandoc. This may take some time." = "S'està convertint el fitxer amb el Pandoc. Això pot trigar un temps.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Es necessita Pandoc per importar aquests formats d'arxius";
-"Check help->Install and use Pandoc from menubar for detail" = "Revisar ajuda->Instal·lar i utilitzar Pando des de la barra de menu per més informació";
+"Pandoc is needed for importing these file formats" = "Es necessita el Pandoc per a importar aquests formats de fitxers";
+"Check help->Install and use Pandoc from menubar for detail" = "Reviseu ajuda->Instal·lar i utilitzar Pandoc des de la barra de menu per més informació";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Les característiques d'importació o exportació requereixen que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) estigui instal·lat.";
-"Follow Instructions to Install/Update Pandoc" = "Seguir instruccions per instal·lar/actualitzar Pandoc";
-"Export Failed" = "Error a l'exportar";
-"Import Failed" = "Error a l'importar";
+"Follow Instructions to Install/Update Pandoc" = "Seguiu les instruccions per a instal·lar/actualitzar el Pandoc";
+"Export Failed" = "Error en exportar";
+"Import Failed" = "Error en importar";
 "Generated Image too Large" = "La imatge generada és massa gran";
-"Failed to export file to <em>{0}</em>" = "Error a l'exportar l'arxiu a <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Error a l'importar l'arxiu des de <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "L'arxiu no existeix a <em>{0}</em>";
-"Export to..." = "Exportar a...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Desitges guardar els canvis fets en aquest document?<br> Es perdran tots els canvis si no es guarden.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Error a l'adjuntar marcador a l'arxiu PDF";
-"Dark Theme not support" = "Tema fosc no suportat";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Ho sentim, la versió actual de Typora no imprimirà el color de fons al PDF exportat, pel que el tema fosc no està suportat per exportar PDFs. \n Si us plau escull un tema clar o prem a \"Imprimir amb el tema per defecte\"";
-"Print with default theme" = "Imprimir amb el tema per defecte";
-"Export to PDF successfully." = "Exportació a PDF exitosa";
-"Converting file using Pandoc. This may take some time." = "Convertint arxiu amb Pandoc. Això pot trigar un temps.";
-"Exporting file using Pandoc. This may take some time." = "Exportant arxiu amb Pandoc. Això pot trigar un temps.";
+"Failed to export file to <em>{0}</em>" = "Error en exportar el fitxer a <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Error en importar el fitxer des de <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "El fitxer no existeix a <em>{0}</em>";
+"Export to..." = "Exporta a...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Voleu desar els canvis fets en aquest document?<br> Es perdran tots els canvis si no es desen.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Atenció] Error en adjuntar el marcador al fitxer PDF";
+"Dark Theme not support" = "Tema fosc no compatible";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "La versió actual de Typora no imprimirà el color de fons al PDF exportat, pel que el tema fosc no és compatible per a exportar PDFs. \n Trieu un tema clar o premeu \"Imprimeix amb el tema per defecte\"";
+"Print with default theme" = "Imprimeix amb el tema per defecte";
+"Export to PDF successfully." = "Exportació a PDF correcta";
+"Converting file using Pandoc. This may take some time." = "S'està convertint el fitxer amb el Pandoc. Això pot trigar un temps.";
+"Exporting file using Pandoc. This may take some time." = "S'està exportant el fitxer amb Pandoc. Això pot trigar un temps.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Carregant imatges via iPic...";
-"Uploading in progress…" = "Carregar en progres...";
-"Do not show this again" = "No mostrar de nou";
+"Uploading Images via iPic..." = "S'estan pujant imatges via iPic...";
+"Uploading in progress…" = "Pujada en progrés...";
+"Do not show this again" = "No mostris de nou";
 
 /* Word Count */
 "Minute" = "Minut";
@@ -139,72 +139,72 @@
 "Unibody" = "Unibody";
 "(applied after restart)" = "(s'aplica després de reiniciar)";
 "Status Bar" = "Barra d'estat";
-"Show status bar" = "Mostrar barra d'estat";
-"Save & Recover" = "Guardat i recuperació";
-"Auto Save" = "Guardat automàtic";
-"Recover Unsaved Drafts" = "Recuperar esborranys no guardats";
+"Show status bar" = "Mostra la barra d'estat";
+"Save & Recover" = "Desa i recupera";
+"Auto Save" = "Desat automàtic";
+"Recover Unsaved Drafts" = "Recupera els esborranys no desats";
 "Emoji Autocomplete" = "Completat d'emoji automàtic";
-"Trigger by ESC key" = "Activar amb la tecla ESC";
-"Trigger automatically" = "Activar automàticament";
+"Trigger by ESC key" = "Activa amb la tecla ESC";
+"Trigger automatically" = "Activa automàticament";
 "Default Line Ending" = "Final de línia predeterminat";
-"Line ending for new file" = "Final de línia per a nous arxius";
-"Spell Check" = "Revisar ortografia";
-"(support US English only)" = "(només suportat per a anglès de EEUU)";
-"Enable spell check" = "Habilitar revisió de gramàtica";
-"Auto correct spelling" = "Auto-corregir gramàtica";
+"Line ending for new file" = "Final de línia per a fitxers nous";
+"Spell Check" = "Revisa l'ortografia";
+"(support US English only)" = "(només compatible amb l'anglès dels EEUU)";
+"Enable spell check" = "Habilita la revisió de gramàtica";
+"Auto correct spelling" = "Auto-corregeix gramàtica";
 "System" = "Sistema";
-"Privacy" = "Privacitat";
+"Privacy" = "Privacidesa";
 "Developer" = "Desenvolupador";
 "Update" = "Actualització";
-"Check Updates" = "Cercar actualitzacions";
-"Check updates automatically" = "Cercar actualitzacions automàticament";
-"Advanced Settings" = "Configuracions avançades";
-"Open Advanced Settings" = "Obrir configuracions avançades";
-"Reset Advanced Settings" = "Restablir configuracions avançades";
+"Check Updates" = "Cerca actualitzacions";
+"Check updates automatically" = "Cerca actualitzacions automàticament";
+"Advanced Settings" = "Configuració avançada";
+"Open Advanced Settings" = "Obre la configuració avançada";
+"Reset Advanced Settings" = "Restableix la configuració avançada";
 
 /* Image relates on macOS */
 "This function requires latest version of iPic to be installed." = "Aquesta funció requereix tenir instal·lada la última versió de iPic.";
-"Get iPic" = "Obtenir iPic";
+"Get iPic" = "Obtén iPic";
 "Cannot Continue…" = "No es pot continuar…";
 "This feature require macOS >= 10.11" = "Aquesta característica requereix macOS >= 10.11";
 "One More Step" = "Un pas més";
 "Notice" = "Avís";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Això requereix tenir instal·lat iPic, i les imatges referides seran carregades a servidors cloud via iPic. Si us plau noti també que el servidor per defecte no suporta eliminar la imatge carregada.";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Això requereix tenir instal·lat iPic, i les imatges referides es carregaran a servidors al núvol via iPic. Tingueu en compte també que el servidor per defecte no permet eliminar la imatge carregada.";
 
-"%d Images Failed to Upload." = "%d imatges no s'han pogut carregar.";
+"%d Images Failed to Upload." = "%d imatges no s'han pogut pujar.";
 "%d Succeeded," = "%d correctes,";
-"Enable this feature on preferences panel" = "Activar aquesta característica al panell de preferències";
-"%@ is a file, not a directory" = "%@ és un arxiu, no un directori";
-"Copy Images To…" = "Copiar imatges a…";
-"Create Folder and Continue" = "Crear carpeta i continuar";
-"Document must be saved first" = "S'ha de guardar el document primer";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiarà la nova imatge inserida a la carpeta fixada a la ruta relativa, així que si us plau guardi l'arxiu abans.";
+"Enable this feature on preferences panel" = "Activa aquesta característica al panell de preferències";
+"%@ is a file, not a directory" = "%@ és un fitxer, no un directori";
+"Copy Images To…" = "Copia imatges a…";
+"Create Folder and Continue" = "Crea la carpeta i continua";
+"Document must be saved first" = "S'ha de desar el document primer";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiarà la nova imatge inserida a la carpeta fixada a la ruta relativa, així que deseu el fitxer abans.";
 "Open Operation Failed" = "La operació d'obrir no s'ha pogut completar";
 
-"Support Documentation" = "Documentació de suport";
+"Support Documentation" = "Documentació d'assistència";
 
-"Markdown File" = "Arxiu Markdown";
-"Plain Text File" = "Arxiu de text sense format";
-"All Files" = "Tots els arxius";
-"All Supported Formats" = "Tots els formats supportats";
-"Discard Changes" = "Descartar canvis";
-"Discard" = "Descartar";
+"Markdown File" = "Fitxer de Markdown";
+"Plain Text File" = "Fitxer de text sense format";
+"All Files" = "Tots els fitxer";
+"All Supported Formats" = "Tots els formats compatibles";
+"Discard Changes" = "Descarta els canvis";
+"Discard" = "Descarta";
 
 "Menu" = "Menú";
 "Back" = "Enrere";
 
 "Contact" = "Contacte";
-"Open From..." = "Obrir des de...";
-"Import..." = "Importar...";
+"Open From..." = "Obre des de...";
+"Import..." = "Importa...";
 "Recent Documents" = "Documents recents";
-"Search for" = "Cercar";
-"Clear Recent Documents" = "Netejar documents recents";
-"File Name" = "Nom de l'arxiu";
+"Search for" = "Cerca";
+"Clear Recent Documents" = "Esborra els documents recents";
+"File Name" = "Nom del fitxer";
 "Path" = "Ruta";
-"Export As..." = "Exportar com...";
+"Export As..." = "Exporta com a...";
 "More Formats" = "Més formats";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Els formats sota la secció 'Més formats' requereixen que <a class='open-pandoc-guide'>Pandoc estigui instal·lat</a>.";
-"Something is Wrong…" = "Alguna cosa ha anat malament...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Per alguna raó hi ha hagut un error al guarder el contingut.<br/>Pots copiar el contingut a una nova finestra de Typora i després guardar-lo. <br/>Veure més a:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Informar d'errors</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperació de continguts perduts</a></li></ul>";
-"Copy Content" = "Copiar contingut";
+"Something is Wrong…" = "Alguna cosa ha anat malament…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Per alguna raó hi ha hagut un error en desar el contingut.<br/>Podeu copiar el contingut a una nova finestra de Typora i després desar-lo. <br/>Més informació:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Informa d'errors</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperació de continguts perduts</a></li></ul>";
+"Copy Content" = "Copia el contingut";
 

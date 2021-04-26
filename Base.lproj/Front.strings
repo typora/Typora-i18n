@@ -174,3 +174,5 @@
 "Failed to upload images:" = "Failed to upload images:";
 "Uploading in progress" = "Uploading in progress";
 "Successfully uploaded {0} images, {1} failed." = "Successfully uploaded {0} images, {1} failed.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "You could undo this operation later via `Edit` → `Undo`.";

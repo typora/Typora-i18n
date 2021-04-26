@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Helyi képek feltöltése iPic-kel";
 "When Insert Local Image" = "Helyi képek beszúrásakor";
 "Copy Image File to Folder" = "Képfájl mappába másolása";
-"Upload Image via iPic" = "Kép feltöltése iPic-kel";
 "Use Image Root Path" = "Képek gyökérmappája";
 "Line Endings" = "Sorvégződés";
 "Windows Line Endings (CRLF)" = "Windows formátum (CRLF)";
@@ -237,7 +236,6 @@
 "Copy '%@'" = "'%@' másolása";
 "Copy to %@" = "Másolás ide %@";
 "Copy Image to" = "Kép másolása ide";
-"Upload via iPic" = "Feltöltés iPic-kel";
 "Open Image Location" = "Kép helyének megnyitása";
 
 "Learn More" = "További információ";
@@ -307,3 +305,10 @@
 "Upload Image" = "Kép feltöltése";
 "Upload All Local Images" = "Összes helyi fájl feltöltése";
 "Open Image in Browser" = "Kép megnyitása böngészőben";
+"Copy Image" = "Kép másolása";
+
+"More Actions" = "Továbbiak";
+"Get Info" = "Információk lekérése";
+
+"Export with Previous" = "Exportálás legutóbbival";
+"Export and Overwrite with Previous" = "Exportálás és felülírás a legutóbbival";

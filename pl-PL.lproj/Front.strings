@@ -174,3 +174,5 @@
 "Failed to upload images:" = "Nieudane przesyłanie plików:";
 "Uploading in progress" = "Przesyłanie w toku";
 "Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Możesz później cofnąć tę czynność, wybierając `Edycja` → `Cofnij`.";

@@ -1,0 +1,468 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+
+/* Preference Panel */
+"Preferences" = "Preferences";
+
+/* General Panel */
+"General" = "General";
+"Window Style" = "Window Style";
+"Classic" = "Classic";
+"Seamless" = "Seamless";
+"Seamless window only support OS X later than 10.10." = "Seamless window only support OS X later than 10.10.";
+"Themes" = "Themes";
+"Open Theme Folder" = "Open Theme Folder";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions.";
+"Word Count" = "Word Count";
+"Always Show Word Count" = "Always Show Word Count";
+"Font Size" = "Font Size";
+"Auto ( Recommended )" = "Auto ( Recommended )";
+"Customized" = "Customized";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "If custom font size is used, the actual font size will depend on the base font size and css style.";
+"Left Panel" = "Left Panel";
+"Show Outline Panel by Default" = "Show Outline Panel by Default";
+"Collapsible Outline on Left Panel" = "Collapsible Outline on Left Panel";
+"Save without asking when\nswitch files on side panel" = "Save without asking when\nswitch files on side panel";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Language" = "Language";
+"System Language" = "System Language";
+
+/* Editor Panel */
+"Editor" = "Editor";
+"Indent Size on Save" = "Indent Size on Save";
+"only apply to quotes and lists created from menu bar or hybrid view" = "only apply to quotes and lists created from menu bar or hybrid view";
+"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete without ESC key for";
+"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Images Insert" = "Images Insert";
+"Use relative path if possible" = "Use relative path if possible";
+"Auto Pair" = "Auto Pair";
+"Auto pair brackets and quotes" = "Auto pair brackets and quotes";
+"Auto pair common Markdown syntax" = "Auto pair common Markdown syntax";
+"Live Rendering" = "Live Rendering";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Display source for simple blocks\n(including headings, etc.) on focus";
+"Default Copy Behavior" = "Default Copy Behavior";
+"Copy Markdown source as plain text" = "Copy Markdown source as plain text";
+"Typewriter Mode" = "Typewriter Mode";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Always keep caret in middle of screen\nwhen typewriter mode is enabled";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
+"Syntax Support" = "Syntax Support";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
+"Diagrams" = "Diagrams";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"Syntax Preference" = "Syntax Preference";
+"(only applies to styles created from menubar or hybrid view)" = "(only applies to styles created from menubar or hybrid view)";
+"Strict Mode" = "Strict Mode";
+"(more strict to GFM spec)" = "(more strict to GFM spec)";
+"Heading Style" = "Heading Style";
+"Unordered List" = "Unordered List";
+"Ordered List" = "Ordered List";
+"Code Fences" = "Code Fences";
+"Display line numbers for code fences" = "Display line numbers for code fences";
+"Math Blocks" = "Math Blocks";
+"Auto Numbering Math Equations" = "Auto Numbering Math Equations";
+
+/* Security Panel */
+"Security" = "Security";
+"Enable Debug" = "Enable Debug";
+"Send Anonymous Usage Info" = "Send Anonymous Usage Info";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Require Pandoc to Continue...";
+"Follow instructions to install Pandoc" = "Follow instructions to install Pandoc";
+"Cancel" = "Cancel";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importing...";
+"Importing in progress..." = "Importing in progress...";
+"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+"Abort" = "Abort";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Exporting...";
+"Exporting in progress..." = "Exporting in progress...";
+"Converting file with Pandoc. This may take some time." = "Converting file with Pandoc. This may take some time.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc is needed for importing these file formats";
+"Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed.";
+"Follow Instructions to Install/Update Pandoc" = "Follow Instructions to Install/Update Pandoc";
+"Export Failed" = "Export Failed";
+"Import Failed" = "Import Failed";
+"Generated Image too Large" = "Generated Image too Large";
+"Failed to export file to <em>{0}</em>" = "Failed to export file to <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Failed to import file from <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "File does not exist at <em>{0}</em>";
+"Export to..." = "Export to...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Failed to attach bookmark for PDF file.";
+"Dark Theme not support" = "Dark Theme not support";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
+"Print with default theme" = "Print with default theme";
+"Export to PDF successfully." = "Export to PDF successfully.";
+"Converting file using Pandoc. This may take some time." = "Converting file using Pandoc. This may take some time.";
+"Exporting file using Pandoc. This may take some time." = "Exporting file using Pandoc. This may take some time.";
+
+"Uploading in progress…" = "Uploading in progress…";
+"Do not show this again" = "Do not show this again";
+
+/* Word Count */
+"Minute" = "Minute";
+"Line" = "Line";
+"Word" = "Word";
+"Character" = "Character";
+
+"Minutes" = "Minutes";
+"Lines" = "Lines";
+"Words" = "Words";
+"Characters" = "Characters";
+"In Selection" = "In Selection";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Appearance";
+"System Native" = "System Native";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(applied after restart)";
+"Status Bar" = "Status Bar";
+"Show status bar" = "Show status bar";
+"Save & Recover" = "Save & Recover";
+"Auto Save" = "Auto Save";
+"Recover Unsaved Drafts" = "Recover Unsaved Drafts";
+"Emoji Autocomplete" = "Emoji Autocomplete";
+"Trigger by ESC key" = "Trigger by ESC key";
+"Trigger automatically" = "Trigger automatically";
+"Default Line Ending" = "Default Line Ending";
+"Line ending for new file" = "Line ending for new file";
+"Spell Check" = "Spell Check";
+"Auto correct spelling" = "Auto correct spelling";
+"System" = "System";
+"Privacy" = "Privacy";
+"Developer" = "Developer";
+"Update" = "Update";
+"Check Updates" = "Check Updates";
+"Check updates automatically" = "Check updates automatically";
+"Advanced Settings" = "Advanced Settings";
+"Open Advanced Settings" = "Open Advanced Settings";
+"Reset Advanced Settings" = "Reset Advanced Settings";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "This function requires latest version of iPic to be installed.";
+"Get iPic" = "Get iPic";
+"Cannot Continue…" = "Cannot Continue…";
+"This feature require macOS >= 10.11" = "This feature require macOS >= 10.11";
+"One More Step" = "One More Step";
+"Notice" = "Notice";
+
+"%d Images Failed to Upload." = "%d Images Failed to Upload.";
+"%d Succeeded," = "%d Succeeded, ";
+"Enable this feature on preferences panel" = "Enable this feature on preferences panel";
+"The option `%@` must be enabled first to automatically upload images." = "The option `%@` must be enabled first to automatically upload images.";
+"%@ is a file, not a directory" = "%@ is a file, not a directory";
+"Copy Images To…" = "Copy Images To…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Create Folder and Continue" = "Create Folder and Continue";
+"Document must be saved first" = "Document must be saved first";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first.";
+"Open Operation Failed" = "Open Operation Failed";
+
+"Support Documentation" = "Support Documentation";
+
+"Markdown File" = "Markdown File";
+"Plain Text File" = "Plain Text File";
+"All Files" = "All Files";
+"All Supported Formats" = "All Supported Formats";
+"Discard Changes" = "Discard Changes";
+"Discard" = "Discard";
+
+"Menu" = "Menu";
+"Back" = "Back";
+
+"Contact" = "Contact";
+"Open From..." = "Open From...";
+"Import..." = "Import...";
+"Recent Documents" = "Recent Documents";
+"Search for" = "Search";
+"Clear Recent Documents" = "Clear Recent Documents";
+"File Name" = "File Name";
+"Path" = "Path";
+"Export As..." = "Export As...";
+"More Formats" = "More Formats";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
+"Something is Wrong…" = "Something is Wrong…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Copy Content" = "Copy Content";
+
+
+"Total" = "Total";
+"Word count only support OS X later than 10.10." = "Word count only support OS X later than 10.10.";
+"Indent Size for Code" = "Indent Size for Code";
+"Auto wrap long lines" = "Auto wrap long lines";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF.";
+"Export to PDF" = "Export to PDF";
+"Pretty indentation" = "Pretty indentation";
+"Update markdown reference for this image" = "Update markdown reference for this image";
+
+"No special action" = "No special action";
+"Copy image to current folder (./)" = "Copy image to current folder (./)";
+"Copy image to ./assets" = "Copy image to ./assets";
+"Copy image to ./${filename}.assets" = "Copy image to ./${filename}.assets";
+"Apply above rules to local images" = "Apply above rules to local images";
+"Apply above rules to online images" = "Apply above rules to online images";
+"Allow upload images automatically based on YAML settings" = "Allow upload images automatically based on YAML settings";
+
+"Learn More" = "Learn More";
+"Whitespace / Line Break" = "Whitespace / Line Break";
+"When Writing" = "When Writing";
+"Export / Print" = "Export / Print";
+"Preserve sequential whitespace and single line break" = "Preserve whitespace and single line break";
+"Ignore sequential whitespace and single line break" = "Ignore whitespace and single line break";
+
+"Quit" = "Quit";
+"Quit Typora when last window is closed" = "Quit Typora when last window is closed";
+"On Launch" = "On Launch";
+"Open new file" = "Open new file";
+"Restore last closed folders" = "Restore last closed folders";
+"Restore last closed files and folders" = "Restore last closed files and folders";
+"Open custom folder" = "Open custom folder";
+"Select custom folder" = "Select custom folder";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+
+"Ignore" = "Ignore";
+"Choose Default Folder" = "Choose Default Folder";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
+
+"Copy image to custom folder" = "Copy image to custom folder";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
+"Restore to previous setting" = "Restore to previous setting";
+"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
+"Please input a folder path." = "Please input a folder path.";
+"Cannot use root path." = "Cannot use root path.";
+
+"Get Themes" = "Get Themes";
+"File/directory already exists at target path." = "File/directory already exists at target path.";
+"Keep Both" = "Keep Both";
+"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+
+"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
+"You can restore from the Trash." = "You can restore from the Trash.";
+
+"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Dialogs" = "Dialogs";
+"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+
+"Operation Failed" = "Operation Failed";
+"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+
+"Undo %@" = "Undo %@";
+"Rename %@" = "Rename %@";
+"Copy %@" = "Copy %@";
+"Move %@" = "Move %@";
+"Delete %@" = "Delete %@";
+
+"Turn off Typewriter / Focus Mode" = "Turn off Typewriter / Focus Mode";
+"Typewriter / Focus Mode have been turned off." = "Typewriter / Focus Mode have been turned off.";
+
+"Reading Speed" = "Reading Speed";
+"Auto" = "Auto";
+"words / min" = "words / min";
+
+"Reset to Default" = "Reset to Default";
+"120  words/minute (Slow)" = "120  words/minute (Slow)";
+"240  words/minute (Medium)" = "240  words/minute (Medium)";
+"382  words/minute (Fast)" = "382  words/minute (Fast)";
+
+"Copy and update image source to…" = "Copy and update image source to…";
+"Updater" = "Updater";
+"Install Updates ?" = "Install Updates ?";
+"Quit and Install" = "Quit and Install";
+"Download failed" = "Download failed";
+"Downloading Updates…" = "Downloading Updates…";
+"Checking Updates…" = "Checking Updates…";
+"Check Update Failed" = "Check Update Failed";
+"You are update to date!" = "You are update to date!";
+"Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"Auto escape image URL when insert" = "Auto escape image URL when insert";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
+"Check updates automatically" = "Check updates automatically";
+"Skip This Version" = "Skip This Version";
+"Remind Me Later" = "Remind Me Later";
+"Download Update" = "Download Update";
+"New version available." = "New version available.";
+
+"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"Use Rendered SVG" = "Use Rendered SVG";
+"Use LaTeX Source" = "Use LaTeX Source";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
+"Do not show this message again" = "Do not show this message again";
+
+"Page Break Between Top Headings" = "Page Break Between Top Headings";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
+"Try Recovery" = "Try Recovery";
+"Other options for Data Recovery" = "Other options for Data Recovery";
+
+"When Insert" = "When Insert";
+"Upload image" = "Upload image";
+"e.g: %@" = "e.g: %@";
+"Test Uploader" = "Test Uploader";
+"Validating" = "Validating Image Uploader";
+"Validation Failed" = "Validation Failed";
+"Validation Succeed" = "Validation Succeed";
+"Testing image uploading using command:" = "Testing image uploading using command:";
+"Running… Waiting for results." = "Running… Waiting for results.";
+"Output from the console:" = "Output from the console:";
+"Error from the console:" = "Error from the console:";
+"Failed to fetch uploaded image from command output." = "Failed to fetch uploaded image from command output.";
+"Successfully get uploaded image url." = "Successfully get uploaded image url.";
+"Image Uploader" = "Image Uploader";
+"Instructions" = "Instructions";
+"Download %@" = "Download %@";
+"Image Upload Setting" = "Image Upload Setting";
+"Please set an image uploader in Preferences panel before using this function." = "Please set an image uploader in Preferences panel before using this function.";
+"Download or Upgrade" = "Download or Upgrade";
+"Open Config File" = "Open Config File";
+"Command" = "Command";
+"PicGo Path" = "PicGo Path";
+"Path of PicGo binary" = "Path of PicGo binary";
+"Executable" = "Executable";
+"Checking" = "Checking";
+"Download" = "Download";
+"Agree and Download" = "Agree and Download";
+"Download and Reinstall" = "Download and Reinstall";
+"Loading PicGo-Core License" = "Loading PicGo-Core License";
+"Failed to get installed version of PicGo-Core (command line)" = "Failed to get installed version of PicGo-Core (command line)";
+"You have the latest PicGo-Core (CLI)" = "You have the latest PicGo-Core (CLI)";
+"Newer version is available" = "Newer version is available";
+
+"Downloading…" = "Downloading…";
+"Unzipping…" = "Unzipping…";
+"Finished" = "Finished";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
+
+"Export operation finished successfully." = "Export operation finished successfully.";
+
+"Shortcut Keys" = "Shortcut Keys";
+"Custom Shortcut Keys" = "Custom Shortcut Keys";
+
+"Theme" = "Theme";
+"Light Theme" = "Light Theme";
+"Dark Theme" = "Dark Theme";
+"Use separate theme in dark mode" = "Use separate theme in dark mode";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Convert -- to – (en dash), and --- to — (em dash)";
+"Convert -- and --- to — (em dash)" = "Convert -- and --- to — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+
+
+"Paper Size" = "Paper Size";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Page Break";
+"Page Break Between Top Headings" = "Page Break Between Top Headings";
+"Header" = "Header";
+"Footer" = "Footer";
+"Author" = "Author";
+"Append in <head />" = "Append in <head />";
+"Append in <body />" = "Append in <body />";
+"Include Outline Sidebar" = "Include Outline Sidebar";
+"Width" = "Width";
+"Command" = "Command";
+"Show Save File Dialog" = "Show Save File Dialog";
+"File Extensions for Export" = "File Extensions for Export";
+"Arguments" = "Arguments";
+"Extra Arguments" = "Extra Arguments";
+"LaTeX Engine" = "LaTeX Engine";
+"Template" = "Template";
+"Empty" = "Empty";
+"Style Reference" = "Style Reference";
+"Custom CSS" = "Custom CSS";
+"Chapter Level" = "Chapter Level";
+"Default Folder for Exported File" = "Default Folder for Exported File";
+"Same folder with current file" = "Same folder with current file";
+"Custom location" = "Custom location";
+"(Auto Detect)" = "(Auto Detect)";
+"After Export" = "After Export";
+"Open exported file location" = "Open exported file location";
+"Open exported file" = "Open exported file";
+"Custom" = "Custom";
+"None" = "None";
+"Default" = "Default";
+"Margin" = "Margin";
+"Margin Left" = "Margin Left";
+"Margin Right" = "Margin Right";
+"Margin Top" = "Margin Top";
+"Margin Bottom" = "Margin Bottom";
+"Width x Height" = "Width x Height";
+"Add From a Template" = "Add From a Template";
+"Delete this export option ?" = "Delete this export option ?";
+"Add" = "Add";
+"Delete" = "Delete";
+"Rename" = "Rename";
+"Move Down" = "Move Down";
+"Move Up" = "Move Up";
+"Pandoc Path" = "Pandoc Path";
+"Select" = "Select";
+"Target Format" = "Target Format";
+"auto detect based on target file path" = "auto detect based on target file path";
+"Target File Extensions (separate by whitespace)" = "Target File Extensions (separate by whitespace)";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
+"Raw Type" = "Raw Type";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Show Save File Dialog";
+"Do not popup save file dialog" = "Do not popup save file dialog";
+"Select file path to save" = "Select file path to save";
+"Select folder path to save" = "Select folder path to save";
+"PDF Engine" = "PDF Engine";
+"Show command output" = "Show command output";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "Command Arguments:";
+"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"Current Theme" = "Current Theme";
+"After Export" = "After Export";
+"Run command" = "Run command";
+"Run command after export failed" = "Run command after export failed";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
+"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Dark theme is not supported." = "Dark theme is not supported.";
+
+"Markdown Variants" = "Markdown Variants";
+"Original Unextended Markdown" = "Original Unextended Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
+"Line Wrap" = "Line Wrap";
+"Hard line wrap" = "Hard line wrap";
+"Text Column Width" = "Text Column Width";
+"Auto (based on current OS)" = "Auto (based on current OS)";
+"Indent" = "Indent";
+"Preserve tabs" = "Preserve tabs";
+"2 spaces per tab" = "2 spaces per tab";
+"3 spaces per tab" = "3 spaces per tab";
+"4 spaces per tab" = "4 spaces per tab";
+"Unicode Characters" = "Unicode Characters";
+"Use only ASCII characters in output" = "Use only ASCII characters in output";
+"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
+"Footnotes and References Location" = "Footnotes and References Location";
+"End of document" = "End of document";
+"End of current (top-level) block" = "End of current (top-level) block";
+"End of current section" = "End of current section";
+"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
+"Image Format" = "Image Format";

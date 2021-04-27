@@ -1,0 +1,178 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Yes" = "Yes";
+"No" = "No";
+"Close" = "Close";
+"Select" = "Select";
+"Continue" = "Continue";
+"Learn More…" = "Learn More…";
+"Untitled" = "Untitled";
+"Undo" = "Undo";
+"Dismiss" = "Dismiss";
+"Confirm" = "Confirm";
+"Error" = "Error";
+
+/* Search Panel */
+"Search" = "Search";
+"Replace" = "Replace";
+"All" = "All";
+"Search text not found in article" = "Search text not found in article";
+"search text" = "search text";
+
+/* Quick Open */
+"Search by file name" = "Search by file name";
+"Searching" = "Searching";
+"Gathering more results" = "Gathering more results";
+
+/* Tables */
+"Insert Table" = "Insert Table";
+"Columns" = "Columns";
+"Rows" = "Rows";
+"Align Left" = "Align Left";
+"Align Center" = "Align Center";
+"Align Right" = "Align Right";
+"Resize Table" = "Resize Table";
+"Delete Table" = "Delete Table";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Create Folder" = "Create Folder";
+
+/* Math */
+"Edit" = "Edit";
+"Delete Math" = "Delete Math";
+"Preview" = "Preview";
+
+/* Sidebar */
+"Articles" = "Articles";
+"Outline" = "Outline";
+"Files" = "Files";
+"Switch to File List view" = "Switch to File List view";
+"Switch to File Tree view" = "Switch to File Tree view";
+"Switch to Outline view" = "Switch to Outline view";
+"Close sidebar" = "Close sidebar";
+"Loading" = "Loading";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
+"New File" = "New File";
+"Unpin Outline Panel" = "Unpin Outline Panel";
+"Open Folder..." = "Open Folder...";
+"Action" = "Action";
+"Close Sidebar Menu" = "Close Sidebar Menu";
+"Reveal in Finder" = "Reveal in Finder";
+"Reveal in File Explorer" = "Reveal in File Explorer";
+"Refresh Folder" = "Refresh Folder";
+"Sort" = "Sort";
+"Group By Folder" = "Group By Folder";
+"Sort Naturally (Ascending)" = "Sort Naturally (Ascending)";
+"Sort Naturally (Descending)" = "Sort Naturally (Descending)";
+"Sort by Name (Ascending)" = "Sort by Name (Ascending)";
+"Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
+"Sort by Name (Descending)" = "Sort by Name (Descending)";
+"Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
+"Location" = "Location";
+"Switch File List/Tree View" = "Switch File List/Tree View";
+"No Files Available" = "No Files Available";
+"No Folder is Opened." = "No Folder is Opened.";
+"Outline is Empty." = "Outline is Empty.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Toggle Sidebar";
+"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Exit Source Code Mode" = "Exit Source Code Mode";
+
+"Table of Contents" = "Table of Contents";
+"Empty Diagram" = "Empty Diagram";
+"Input Math TeX here" = "Input Math TeX here";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Failed to create file";
+"Failed to create folder" = "Failed to create folder";
+"Failed to rename file" = "Failed to rename file";
+"Folder does not exist at %@" = "Folder does not exist at %@";
+"File with the same name already exists at target path" = "File with the same name already exists at target path";
+"Apply to All" = "Apply to All";
+"Overwrite" = "Overwrite";
+"Stop" = "Stop";
+"back to document" = "back to document";
+"Failed to load file" = "Failed to load file";
+"Save File Failed!" = "Save File Failed!";
+"Cannot open folder {0}" = "Cannot open folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+
+"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
+"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
+"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
+"Select Container Folder" = "Select Container Folder";
+
+"Saved" = "Saved";
+
+/* place holder in find & replace input */
+"search text" = "search text";
+"replace with" = "replace with";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Whole Word";
+
+"input image URL" = "input image URL";
+"Select image from local file" = "Select image from local file";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "select a language";
+"Finish Editing" = "Finish Editing";
+
+"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+
+"Select Spell Check Language" = "Select Spell Check Language";
+"Auto Detect Language" = "Auto Detect Language";
+"Disable Spell Check" = "Disable Spell Check";
+"Global Setting…" = "Global Setting…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
+"Install Language Support" = "Install Language Support";
+"License Information" = "License Information";
+"Download" = "Download";
+"Install dictionary file only for Typora" = "Install dictionary file only for Typora";
+"Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
+"Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
+"Download dictionary file for %@" = "Download dictionary file for %@";
+"(Default spell check option)" = "(Default spell check option)";
+"Failed to load spellcheck module" = "Failed to load spellcheck module";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
+"You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
+"The file is too large to render in Typora." = "The file is too large to render in Typora.";
+"Open in…" = "Open in…";
+"Quick Look" = "Quick Look";
+
+"Filter" = "Filter";
+"No result found." = "No result found.";
+"Continue & Overwrite" = "Continue & Overwrite";
+"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
+
+"Learn Data Recovery" = "Learn Data Recovery";
+"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "Delete Permanently";
+
+
+"Failed to upload images:" = "Failed to upload images:";
+"Uploading in progress" = "Uploading in progress";
+"Successfully uploaded {0} images, {1} failed." = "Successfully uploaded {0} images, {1} failed.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "You could undo this operation later via `Edit` → `Undo`.";

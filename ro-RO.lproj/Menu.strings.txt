@@ -22,7 +22,7 @@
 "File" = "Fișier";
 "New" = "Nou";
 "Open" = "Deschide";
-"Open Folder" = "Deschide Fișier";
+"Open Folder" = "Deschide Folder";
 "Reopen with Encoding" = "Redeschide cu Codificare";
 "Auto" = "Auto";
 "Open Recent" = "Deschide Recente";
@@ -75,7 +75,7 @@
 "Insert Local Images" = "Introduce Imagini Locale";
 "Upload Local Images via iPic" = "Încarcă Imagini Locale prin iPic";
 "When Insert Local Image" = "Când Introduceți Imagini Locale";
-"Copy Image File to Folder" = "Copiază Imagine in Fișier";
+"Copy Image File to Folder" = "Copiază Imagine in Folder";
 "Use Image Root Path" = "Folosește Cale Imagine";
 "Line Endings" = "Terminații de Linie";
 "Windows Line Endings (CRLF)" = "Format Windows (CRLF)";

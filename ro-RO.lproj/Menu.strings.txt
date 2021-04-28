@@ -275,10 +275,10 @@
 "Insert Image" = "Introduce Imagine";
 "Allow Magnification" = "Permite Mărire/Micșorare";
 
-"Move Row Up" = "Mișcă Rând Sus";
-"Move Row Down" = "Mișcă Rând Jos";
-"Move Column Left" = "Mișcă Coloană la Stânga";
-"Move Column Right" = "Mișcă Coloană la Dreapta";
+"Move Row Up" = "Mută Rând Sus";
+"Move Row Down" = "Mută Rând Jos";
+"Move Column Left" = "Mută Coloană la Stânga";
+"Move Column Right" = "Mută Coloană la Dreapta";
 
 "Zoom Image" = "Zoom Imagine";
 "Zoom Image to %@" = "Zoom Imagine la %@";

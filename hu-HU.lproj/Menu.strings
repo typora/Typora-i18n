@@ -9,7 +9,7 @@
 
 "About Typora" = "A Typora névjegye";
 "Preferences" = "Beállítások";
-"Check for Updates" = "Frissítések keresése";
+"Check for Updates" = "Programfrissítés keresése";
 "Services" = "Szolgáltatások";
 "Hide Typora" = "Typora elrejtése";
 "Hide Others" = "A többi elrejtése";
@@ -31,7 +31,7 @@
 "Open Quickly" = "Gyors megnyitás";
 "Open File Location" = "Fájl helyének megnyitása";
 "Reveal in Library" = "Mutatás a Könyvtárban";
-"Reveal in File Tree" = "Mutatás a Fa nézetben";
+"Reveal in File Tree" = "Mutatás a Fanézetben";
 "Close" = "Bezárás";
 "Save" = "Mentés";
 "Save As" = "Mentés másként";
@@ -87,7 +87,7 @@
 "Replace Next" = "Következő cseréje";
 "Spelling and Grammar" = "Nyelvhelyesség ellenőrzése";
 "Check Document Now" = "A dokumentum azonnali ellenőrzése";
-"Check Spelling While Typing" = "Helyesírás ellenőrzése gépelés közben";
+"Check Spelling While Typing" = "Helyesírás-ellenőrzés gépelés közben";
 "Check Grammar With Spelling" = "Nyelvtan ellenőrzése a helyesírással együtt";
 "Correct Spelling Automatically" = "A helyesírás automatikus javítása";
 "Substitutions" = "Helyettesítések";
@@ -120,8 +120,8 @@
 "Mark as Complete" = "Megjelölés készként";
 "Mark as Incomplete" = "Megjelölés elvégzetlenként";
 "List Indentation" = "Felsorolás behúzása";
-"Indent" = "Lejjebb";
-"Outdent" = "Feljebb";
+"Indent" = "Behúzás";
+"Outdent" = "Kihúzás";
 "Link Reference" = "Hivatkozás";
 "Footnotes" = "Lábjegyzet";
 "Horizontal Line" = "Vízszintes vonal";
@@ -153,7 +153,7 @@
 "Toggle Sidebar" = "Oldalsáv ki/be";
 "Outline" = "Vázlat";
 "Articles" = "Fájl betekintés";
-"File Tree" = "Fájlkezelő";
+"File Tree" = "Fanézet";
 "Always on Top" = "Mindig felül";
 "Full Screen" = "Teljes képernyő";
 "Show Status Bar" = "Állapotsor mutatása";
@@ -206,7 +206,7 @@
 "Copy as MathML" = "Másolás mint MathML";
 "Copy as Tex" = "Másolás mint Tex";
 "Copy Math" = "Másolás mint Math";
-"Reveal in Finder" = "Mutatás Finderben";
+"Reveal in Finder" = "Megjelenítés Finderben";
 "Open Link" = "Link megnyitása";
 "Reveal in Sidebar" = "Megjelenítés az Oldalsávban";
 "Open in New Window" = "Megnyitás új ablakban";
@@ -255,15 +255,13 @@
 "Remap Unicode Punctuation on Parse" = "Unicode írásjelek átalakítása feldolgozáskor";
 "More Options" = "További beállítások";
 
-"Search" = "Keresés";
-
 "HTML Block" = "HTML doboz";
 "Delete Block" = "Doboz törlése";
 "Delete %@" = "%@ törlése";
 "Play" = "Lejátszás";
 "Pause" = "Szünet";
 
-"Spell Check" = "Helyesírás ellenőrzés";
+"Spell Check" = "Helyesírás-ellenőrzés";
 "Unlearn Spelling" = "Helyesírás elfelejtése";
 "Properties" = "Tulajdonságok";
 
@@ -289,7 +287,7 @@
 "Selection" = "Kijelölés";
 "Start Speaking" = "Beszéd indítása";
 "Stop Speaking" = "Beszéd leállítása";
-"Check Updates" = "Frissítések keresése";
+"Check Updates" = "Programfrissítés keresése";
 
 "HTML (without Styles)" = "HTML (formázás nélkül)";
 
@@ -298,8 +296,8 @@
 "Collapse All" = "Összes összecsukása";
 "Collapsible Outline" = "Többszintű vázlat";
 "Flat Outline" = "Egyszintű vázlat";
-"Articles (List View)" = "Cikkek (lista nézet)";
-"File Tree (Tree View)" = "Fájlok (lista nézet)";
+"Articles (List View)" = "Fájl betekintés (lista nézet)";
+"File Tree (Tree View)" = "Fájlok (fanézet)";
 "Filter" = "Szűrő";
 
 "Upload Image" = "Kép feltöltése";
@@ -312,3 +310,5 @@
 
 "Export with Previous" = "Exportálás legutóbbival";
 "Export and Overwrite with Previous" = "Exportálás és felülírás a legutóbbival";
+
+"Emoji & Symbols" = "Emoji és szimbólumok";

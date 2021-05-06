@@ -301,7 +301,7 @@
 "Downloading Updates…" = "Updates werden heruntergeladen…";
 "Checking Updates…" = "Updates werden überprüft…";
 "Check Update Failed" = "Überprüfung der Updates ist fehlgeschlagen";
-"You are update to date!" = "Deine Version ist aktuell!";
+"You're up to date!" = "Deine Version ist aktuell!";
 "Latest version is $1, your version is $2" = "Die neuste Version ist $1, deine Version ist $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Diese Optionen können auch im Menü unter \"Bearbeiten→Leerraum und Zeilenumbrüche\" geändert werden";
 "Auto escape image URL when insert" = "Automatisch Bildquelle escapen, wenn eingefügt";

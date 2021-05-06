@@ -301,7 +301,7 @@ Japanese translated by
 "Downloading Updates…" = "更新をダウンロード中…";
 "Checking Updates…" = "更新を確認中…";
 "Check Update Failed" = "更新の確認に失敗しました";
-"You are update to date!" = "既に最新版を利用中です";
+"You're up to date!" = "既に最新版を利用中です";
 "Latest version is $1, your version is $2" = "最新版: $1、インストール済み: $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "これらのオプションは \"編集 → 空白と改行\" メニューからも変更することができます";
 "Auto escape image URL when insert" = "画像URLの挿入時に自動でエスケープ";

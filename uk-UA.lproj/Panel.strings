@@ -295,7 +295,7 @@
 "Downloading Updates…" = "Оновлення завантажуються…";
 "Checking Updates…" = "Перевірка оновлень…";
 "Check Update Failed" = "Помилка перевірки оновлень";
-"You are update to date!" = "Маєте найновішу версію!";
+"You're up to date!" = "Маєте найновішу версію!";
 "Latest version is $1, your version is $2" = "Найновіша версія — $1; ваша версія — $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ці налаштування також можна змінити у меню \"Редагування → Пробіл і розриви рядка\" ";
 "Auto escape image URL when insert" = "Автоматично виправляти URL зображення при вставці";

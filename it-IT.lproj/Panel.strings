@@ -292,7 +292,7 @@
 "Downloading Updates…" = "Scaricamento aggiornamenti…";
 "Checking Updates…" = "Verifica aggiornamenti…";
 "Check Update Failed" = "Verifica aggiornamenti non riuscita";
-"You are update to date!" = "Il programma è aggiornato!";
+"You're up to date!" = "Il programma è aggiornato!";
 "Latest version is $1, your version is $2" = "L'ultima versione è $1, la tua versione è $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Queste opzioni possono essere cambiate anche dal menu \"Modifica→Spazi vuoti e interruzioni di riga\"";
 "Auto escape image URL when insert" = "Escape automatico dell'URL quando inserisci un'immagine";

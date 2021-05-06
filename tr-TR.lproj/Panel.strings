@@ -293,7 +293,7 @@
 "Downloading Updates…" = "Güncellemeler Yükleniyor…";
 "Checking Updates…" = "Güncellemeler Kontrol Ediliyor…";
 "Check Update Failed" = "Güncelleme Kontrolü Başarısız";
-"You are update to date!" = "Güncelsiniz!";
+"You're up to date!" = "Güncelsiniz!";
 "Latest version is $1, your version is $2" = "Son sürüm $1, sizin sürümünüz ise $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Bu seçenekler \"Düzenle→Boşluk ve Satır Sonları\" menüsünden değiştirilebilir";
 "Auto escape image URL when insert" = "Yerleştirildiğinde resim URL'sinden otomatik çıkış";

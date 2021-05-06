@@ -291,7 +291,7 @@
 "Downloading Updates…" = "Frissítések letöltése…";
 "Checking Updates…" = "Frissítések keresése…";
 "Check Update Failed" = "Frissítések keresése nem sikerült";
-"You are update to date!" = "Már a legfrissebb verziót használja!";
+"You're up to date!" = "Már a legfrissebb verziót használja!";
 "Latest version is $1, your version is $2" = "$1 a legújabb verzió, $2 a jelenleg használt verzió";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ezek a beállítások a \"Szerkesztés→Elválasztó karakterek és sortörések\" menüben is megváltoztathatók";
 "Auto escape image URL when insert" = "Kép beszúrásakor vezérlőkarakterek beiktatása az URL-be";

@@ -293,7 +293,7 @@
 "Downloading Updates…" = "מוריד עדכונים...";
 "Checking Updates…" = "בודק בעבור עדכונים...";
 "Check Update Failed" = "בדיקה בעבור עדכונים נכשלה";
-"You are update to date!" = "הגרסה העדכנית ביותר מותקנת!";
+"You're up to date!" = "הגרסה העדכנית ביותר מותקנת!";
 "Latest version is $1, your version is $2" = "הגרסה העדכנית ביותר היא $1, והגרסה המותקנת היא $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "ניתן לשנות אפשרויות אלו מאוחר יותר";
 "Auto escape image URL when insert" = "ברח מכתובת URL של תמונה אוטומטית";

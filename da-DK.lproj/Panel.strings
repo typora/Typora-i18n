@@ -297,7 +297,7 @@
 "Downloading Updates…" = "Henter opdateringer…";
 "Checking Updates…" = "Søger efter opdateringer…";
 "Check Update Failed" = "Fejl ved søgning efter opdateringer";
-"You are update to date!" = "Din version af Typora er opdateret!";
+"You're up to date!" = "Din version af Typora er opdateret!";
 "Latest version is $1, your version is $2" = "Den seneste version er $1, din version er $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Disse indstillinger kan også ændres i menuen \"Rediger→Mellemrum og linjeskift\"";
 "Auto escape image URL when insert" = "Konverter automatisk billed-URL ved indsættelse";

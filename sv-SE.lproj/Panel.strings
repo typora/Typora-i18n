@@ -296,7 +296,7 @@
 "Downloading Updates…" = "Downloading Updates…";
 "Checking Updates…" = "Checking Updates…";
 "Check Update Failed" = "Check Update Failed";
-"You are update to date!" = "You are update to date!";
+"You're up to date!" = "You're up to date!";
 "Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
 "Auto escape image URL when insert" = "Auto escape image URL when insert";

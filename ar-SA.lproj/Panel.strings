@@ -294,7 +294,7 @@
 "Downloading Updates…" = "جار تحميل التحديثات";
 "Checking Updates…" = "جار التحقق من التحديثات";
 "Check Update Failed" = "التحقق من التحديثات فشل";
-"You are update to date!" = "لديك آخر نسخة!";
+"You're up to date!" = "لديك آخر نسخة!";
 "Latest version is $1, your version is $2" = "آخر نسخة هي $1, نسختك هي $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "يمكن أيضًا تغيير هذه الخيارات من قائمة \"تحرير → المسافات والأسطر\";
 "Auto escape image URL when insert" = "Auto escape image URL when insert";

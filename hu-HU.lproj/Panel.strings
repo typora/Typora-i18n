@@ -23,7 +23,7 @@
 "Auto ( Recommended )" = "Automatikus (ajánlott)";
 "Customized" = "Egyedi";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Egyedi betűméret esetén a tényleges betűméret az alap betűmérettől és a CSS stílustól függ.";
- "Left Panel" = "Bal oldali panel";
+"Left Panel" = "Bal oldali panel";
 "Show Outline Panel by Default" = "A bal oldali panel alapértelmezés szerint megjelenik";
 "Collapsible Outline on Left Panel" = "Összecsukható vázlat a bal oldali panelen";
 "Save without asking when\nswitch files on side panel" = "Kérdés nélküli mentés, amikor\naz oldalsó panelen másik fájlt választ";
@@ -46,7 +46,7 @@
 "Display source for simple blocks\n(including headings, etc.) on focus" = "A kurzor helyén lévő egyszerű blokkok\nforráskódjának megjelenítése (pl. a fejléceké, stb.)";
 "Default Copy Behavior" = "Másolás alapértelmezett módja";
 "Copy Markdown source as plain text" = "Markdown forráskód másolása egyszerű szövegként";
-"Typewriter Mode" = "Írógép mód";
+"Typewriter Mode" = "Írógép nézet";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Írógép módban a kurzor mindig\nlegyen a képernyő közepén";
 
 /* Markdown Panel */
@@ -64,9 +64,9 @@
 "Strict Mode" = "Szigorú mód";
 "(more strict to GFM spec)" = "(jobban igazodik a GFM szabványhoz)";
 "Heading Style" = "Fejléc stílus";
-"Unordered List" = "Rendezetlen lista";
-"Ordered List" = "Számozott lista";
-"Code Fences" = "Programkód dobozok";
+"Unordered List" = "Pontozott felsorolás";
+"Ordered List" = "Számozott felsorolás";
+"Code Fences" = "Programkód doboz";
 "Display line numbers for code fences" = "Sorok számozása a programkód dobozokban";
 "Math Blocks" = "Képlet dobozok";
 "Auto Numbering Math Equations" = "Matematikai képletek automatikus számozása";
@@ -113,8 +113,6 @@
 "Converting file using Pandoc. This may take some time." = "A Pandoc konvertálja a fájlt. Ez időt vesz igénybe.";
 "Exporting file using Pandoc. This may take some time." = "A Pandoc exportálja a fájlt. Ez időt vesz igénybe.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Fájlok feltöltése iPic-kel...";
 "Uploading in progress…" = "A feltöltés folyamatban…";
 "Do not show this again" = "Ne jelenlen meg újra";
 
@@ -146,16 +144,14 @@
 "Trigger automatically" = "Automatikus aktiválás";
 "Default Line Ending" = "Alapértelmezett sorvégződés";
 "Line ending for new file" = "Új fájlok sorvégződése";
-"Spell Check" = "Helyesírás ellenőrzése";
-"(support US English only)" = "(csak az US English nyelv támogatott)";
-"Enable spell check" = "Helyesírás ellenőrzés engedélyezése";
+"Spell Check" = "Helyesírás-ellenőrzés";
 "Auto correct spelling" = "Helyesírás automatikus javítása";
 "System" = "Rendszer";
 "Privacy" = "Adatvédelem";
 "Developer" = "Fejlesztőknek";
 "Update" = "Frissítés";
-"Check Updates" = "Frissítés keresése";
-"Check updates automatically" = "Frissítések automatikus keresése";
+"Check Updates" = "Programfrissítés keresése";
+"Check updates automatically" = "Programfrissítés automatikus keresése";
 "Advanced Settings" = "Speciális beállítások";
 "Open Advanced Settings" = "Speciális beállítások megnyitása";
 "Reset Advanced Settings" = "Speciális beállítások visszaállítása";
@@ -174,7 +170,7 @@
 "The option `%@` must be enabled first to automatically upload images." = "A képek automatikus feltöltéséhez előbb engedélyezni kell a(z) `%@` beállítást.";
 "%@ is a file, not a directory" = "%@ nem mappa, hanem fájl";
 "Copy Images To…" = "Képek másolása ide…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban szereplő %@ mappába másolni, de az nem létezik. Létrehozzuk?";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban található %@ mappába másolni, de az nem létezik. Létrehozzuk?";
 "Create Folder and Continue" = "Mappa létrehozása és folytatás";
 "Document must be saved first" = "Előbb menteni kell a dokumentumot";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Az újonnan beszúrt képet a Typora a relatív elérési út által kiválasztott mappába fogja másolni, ezért először mentse a fájlt.";
@@ -226,7 +222,7 @@
 "Apply above rules to online images" = "Fenti szabályok alkalmazása az online képekre";
 "Allow upload images automatically based on YAML settings" = "Képek automatikus feltöltésének engedélyezése a YAML beállítások alapján";
 
-"Learn More…" = "További információk…";
+"Learn More" = "További információ";
 "Whitespace / Line Break" = "Elválasztó karakterek / sortörés";
 "When Writing" = "Íráskor";
 "Export / Print" = "Exportálás / Nyomtatáskor";
@@ -239,8 +235,8 @@
 "Open new file" = "Üres fájl megnyitása";
 "Restore last closed folders" = "Utoljára bezárt mappák visszaállítása";
 "Restore last closed files and folders" = "Utoljára bezárt fájlok és mappák visszaállítása";
-"Open custom folder" = "Megadott mappa megnyitása";
-"Select custom folder" = "Mappa kiválasztása";
+"Open custom folder" = "Egyéni mappa megnyitása";
+"Select custom folder" = "Egyéni mappa választása";
 "This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Ezt felülbírálhatja a Beállításokban lévő \"Kilépéskor az ablakok bezárása\" lehetőség";
 
 "Ignore" = "Mellőzés";
@@ -283,7 +279,6 @@
 "Auto" = "Automatikus";
 "words / min" = "szó/perc";
 "Reset to Default" = "Alapbeállítások";
-"Select custom folder" = "Egyéni mappa választása";
 "120  words/minute (Slow)" = "120  szó/perc (lassú)";
 "240  words/minute (Medium)" = "240  szó/perc (közepes)";
 "382  words/minute (Fast)" = "382  szó/perc (gyors)";
@@ -301,10 +296,10 @@
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ezek a beállítások a \"Szerkesztés→Elválasztó karakterek és sortörések\" menüben is megváltoztathatók";
 "Auto escape image URL when insert" = "Kép beszúrásakor vezérlőkarakterek beiktatása az URL-be";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Például ha beszúrja a 'img/example file.png' képet, az automatikusan 'img/example%20file.png'-re cserélődik. Ez jobb kompatibilitást jelent más Markdown motorokkal, de a jobb olvashatóság érdekében ki is kapcsolható.";
-"Check updates automatically" = "Frissítések automatikus keresése";
+"Check updates automatically" = "Programfrissítés automatikus keresése";
 "Skip This Version" = "Ennek a verziónak a kihagyása";
 "Remind Me Later" = "Emlékeztessen később";
-"Download Update" = "Frissítés letöltése";
+"Download Update" = "Programfrissítés letöltése";
 "New version available." = "Új verzió érhető el.";
 
 "When copy / export as HTML (without style)" = "HTML (formázás nélkül) másolása vagy exportálása esetén";

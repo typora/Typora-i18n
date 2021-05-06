@@ -293,7 +293,7 @@
 "Downloading Updates…" = "Descărcare actualizări…";
 "Checking Updates…" = "Verificare Actualizări…";
 "Check Update Failed" = "Verificare Actualizări Nereușită";
-"You are update to date!" = "Sunteți la zi cu actualizările!";
+"You're up to date!" = "Sunteți la zi cu actualizările!";
 "Latest version is $1, your version is $2" = "Ultima versiune este $1, versiunea dumneavoastră este $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Aceste opțiuni pot fi modificate și în meniul \"Editare→Spații Goale și Sfârșituri de Linie\"";
 "Auto escape image URL when insert" = "Escape automat URL cănd inserați o imagine";

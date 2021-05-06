@@ -1,0 +1,179 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ Romanian translation by mooyeee@protonmail.com
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Anulează";
+"Yes" = "Da";
+"No" = "Nu";
+"Close" = "Închide";
+"Select" = "Selectează";
+"Continue" = "Continuă";
+"Learn More…" = "Află Mai Multe…";
+"Untitled" = "Fără Titlu";
+"Undo" = "Anulează";
+"Dismiss" = "Renunță";
+"Confirm" = "Confirmă";
+"Error" = "Eroare";
+
+/* Search Panel */
+"Search" = "Caută";
+"Replace" = "Înlocuiește";
+"All" = "Tot";
+"Search text not found in article" = "Textul Căutat Nu S-a Găsit În Articol";
+"search text" = "Text Căutat";
+
+/* Quick Open */
+"Search by file name" = "Caută După Nume Fișier";
+"Searching" = "Se Caută";
+"Gathering more results" = "Se Colectează Mai Multe Rezultate";
+
+/* Tables */
+"Insert Table" = "Introduce Tabel";
+"Columns" = "Coloane";
+"Rows" = "Rânduri";
+"Align Left" = "Aliniere La Stânga";
+"Align Center" = "Aliniere La Centru";
+"Align Right" = "Aliniere La Dreapta";
+"Resize Table" = "Redimensionează Tabel";
+"Delete Table" = "Șterge Tabel";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora încearcă să copieze imaginea tocmai introdusă in folderul <code id='image-create-folder-target'></code> în conformitate cu setările dumneavoastră YAML Front Matter sau setările globale. Dar folderul țintă nu există, doriți să îl creați acum?";
+"Create Folder" = "Crează Folder";
+
+/* Math */
+"Edit" = "Editează";
+"Delete Math" = "Șterge Matematică";
+"Preview" = "Previzualizează";
+
+/* Sidebar */
+"Articles" = "Articole";
+"Outline" = "Schiță";
+"Files" = "Fișiere";
+"Switch to File List view" = "Treci la Vizualizare Listă Fișiere";
+"Switch to File Tree view" = "Treci la Vizualizare Arbore Fișiere";
+"Switch to Outline view" = "Treci la Vizualizare Schiță";
+"Close sidebar" = "Închide Bară Laterală";
+"Loading" = "Se Încarcă";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folderele selectate conțin prea multe fișiere. \nTreceți la <a id='switch-to-tree-on-oversize'>vizualizarea arbore</a> pentru o performanță mai bună.";
+"New File" = "Fișier Nou";
+"Unpin Outline Panel" = "Anulează Fixare Panou Schiță";
+"Open Folder..." = "Deschide Folderul...";
+"Action" = "Acţiune";
+"Close Sidebar Menu" = "Închide Meniu Bară LateralĂ";
+"Reveal in Finder" = "Dezvăluie în Finder";
+"Reveal in File Explorer" = "Dezvăluie în File Explorer";
+"Refresh Folder" = "Reîmprospătă Folder";
+"Sort" = "Sortează";
+"Group By Folder" = "Grupează după Folder";
+"Sort Naturally (Ascending)" = "Sortează în mod Natural (Ascendent)";
+"Sort Naturally (Descending)" = "Sortează în mod Natural (Descendent)";
+"Sort by Name (Ascending)" = "Sortează după Nume (Ascendent)";
+"Sort by Modification Date (Ascending)" = "Sortează după Data Modificării (Ascendent)";
+"Sort by Name (Descending)" = "Sortează după Nume (Descendent)";
+"Sort by Modification Date (Descending)" = "Sortează după Data Modificării (Descendent)";
+"Location" = "Locație";
+"Switch File List/Tree View" = "Comutare Vizualizare Fișiere Listă/Arbore";
+"No Files Available" = "Niciun Fișier Disponibil";
+"No Folder is Opened." = "Niciun Folder Deschis.";
+"Outline is Empty." = "Schița este Goală.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Comutare Bară Laterală";
+"Toggle Source Code Mode" = "Comutare Mod Cod Sursă";
+"Exit Source Code Mode" = "Ieși din Modul Cod Sursă";
+
+"Table of Contents" = "Cuprins";
+"Empty Diagram" = "Diagramă Goală";
+"Input Math TeX here" = "Introduce Math TeX aici";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Trebuie să definiţi referința la nota de subsol <b>{0}</b> cu sintaxa <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Trebuie să definiţi referința la linkul <b>[{0}]</b> cu sintaxa <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Trebuie să definiţi referința la imagini cu \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Crearea fișierului nu a reușit";
+"Failed to create folder" = "Crearea folderului nu a reușit";
+"Failed to rename file" = "Redenumirea fișierului nu a reușit";
+"Folder does not exist at %@" = "Folderul nu există la %@";
+"File with the same name already exists at target path" = "Există deja un fișier cu acest nume la calea specificată.";
+"Apply to All" = "Aplică la Tot";
+"Overwrite" = "Suprascrie";
+"Stop" = "Stop";
+"back to document" = "Înapoi la document";
+"Failed to load file" = "Nu s-a reușit încărcarea fișierului";
+"Save File Failed!" = "Salvarea fișierului nu a reușit!";
+"Cannot open folder {0}" = "Nu se poate deschide folderul {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Conținutul fișierului a fost modificat de o aplicație externă. Doriți să reîncărcați conținutul de pe disc ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Doriți să continuați să mutați și să suprascrieți fișierul existent ?";
+
+"Rename to \"{0}\" ?" = "Redenumește cu \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Redenumirea de la \"{0}\" la \"{1}\" nu s/a reușit";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Încărcat cu succes {0} imagini.";
+"Failed to upload image. Error Message:" = "Nu s-a reușit încărcarea imaginii. Mesaj de eroare:";
+"Failed to Copy Image to Target Folder." = "Nu s-a reușit copierea imaginii la folderul țintă.";
+"Select Container Folder" = "Selectați Folderul de Origine";
+
+"Saved" = "Salvat";
+
+/* place holder in find & replace input */
+"search text" = "Text căutare";
+"replace with" = "Înlocuiește cu";
+/* search option */
+"Case Sensitive" = "Sensibil la litere mari şi mici";
+"Whole Word" = Cuvânt Întreg";
+
+"input image URL" = "Introduce URL-ul imaginii";
+"Select image from local file" = "Selectează imagine din fișier local";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nu se poate deschide locația <code>$1</code>, vreți să spuneți <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "Selectați o limbă";
+"Finish Editing" = "Finalizează editarea";
+
+"Revert advanced setting file to default one ?" = "Doriți să aduceți la stare de default setările avansate ?";
+
+"Select Spell Check Language" = "Selectați Limba Verificării ortografice";
+"Auto Detect Language" = "Detectare automată Limba";
+"Disable Spell Check" = "Dezactivează Verificare Ortografică";
+"Global Setting…" = "Setări Globale…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Lipsește fișierul dicționar pentru activarea verificării ortografice pentru %@.";
+"Install Language Support" = "Instalează Suport Lingvistic";
+"License Information" = "Informaţii de Licenţă";
+"Download" = "Descarcă";
+"Install dictionary file only for Typora" = "Instalează fișier dicționar doar pentru Typora";
+"Spell Check (%@ unavailable)" = "Verificare Ortografică (%@ Indisponibilă)";
+"Spell Check (%@ downloading)" = "Verificare Ortografică (%@ Se Descarcă)";
+"Download dictionary file for %@" = "Descarcă fișier dicționar pentru %@";
+"(Default spell check option)" = "(Valoare implicită verificare ortografică)";
+"Failed to load spellcheck module" = "Nu s-a reușit încărcarea modulului verificării ortografice";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> a fost activat.";
+"You could turn it off from `View` menu." = "Poți să îl dezactivezi de la meniul `Vizualizare`.";
+"The file is too large to render in Typora." = "Fișierul e prea mare pentru a fi redat în Typora.";
+"Open in…" = "Deschide în…";
+"Quick Look" = "Vizualizare Rapidă";
+
+"Filter" = "Filtru";
+"No result found." = "Nu s-au găsit rezultate.";
+"Continue & Overwrite" = "Continuă & Suprascrie";
+"The file is read-only, or you do not have right permissions to modify the file." = "Acest fișier este disponibil doar în citire, sau nu aveți permisiunile necesare să îl modificați.";
+
+"Learn Data Recovery" = "Învață despre Recuperarea Datelor";
+"Auto refresh on Files Panel cannot be enabled." = "Reîmprospătarea automată în panoul fișierelor nu poate fi activată.";
+"Delete Permanently" = "Șterge Definitiv";
+
+
+"Failed to upload images:" = "Nu s-a reușit încărcarea imaginilor:";
+"Uploading in progress" = "Încărcare în desfășurare";
+"Successfully uploaded {0} images, {1} failed." = "Încărcat cu succes {0} imagini, {1} nereușite.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Poți anula această acțiune mai târziu prin `Editare` → `Anulează`.";

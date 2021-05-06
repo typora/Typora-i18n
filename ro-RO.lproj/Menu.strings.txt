@@ -1,0 +1,315 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+ Romanian translation by mooyeee@protonmail.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Despre Typora";
+"Preferences" = "Preferințe";
+"Check for Updates" = "Caută Actualizări";
+"Services" = "Servicii";
+"Hide Typora" = "Ascunde Typora";
+"Hide Others" = "Ascunde Restul";
+"Show All" = "Afișează Tot";
+"Quit Typora" = "Termină Typora";
+
+/* File Menu */
+
+"File" = "Fișier";
+"New" = "Nou";
+"Open" = "Deschide";
+"Open Folder" = "Deschide Folder";
+"Reopen with Encoding" = "Redeschide cu Codificare";
+"Auto" = "Auto";
+"Open Recent" = "Deschide Recente";
+"Recent Locations" = "Locații Recente";
+"Clear Items" = "Șterge Fișiere Recente";
+"No Recent Files" = "Niciun Fișier Recent";
+"Open Quickly" = "Deschidere Rapidă";
+"Open File Location" = "Deschide Locația Fișierului";
+"Reveal in Library" = "Expune în Bibliotecă";
+"Reveal in File Tree" = "Expune în Arborele Fișierelor";
+"Close" = "Închide";
+"Save" = "Salvează";
+"Save As" = "Salvează Ca";
+"Duplicate" = "Duplichează";
+"Rename" = "Redenumește";
+"Move To" = "Mută În";
+"Revert To" = "Întoarcete La";
+"Browse All Versions" = "Răsfoiește Toate Versiunile";
+"Import" = "Importă";
+"Export" = "Exportă";
+"Page Setup" = "Inițializare Pagină";
+"Print" = "Imprimă";
+
+/* Edit Menu */
+"Edit" = "Editare";
+"Undo" = "Anulează";
+"Redo" = "Refă";
+"Cut" = "Taie";
+"Copy" = "Copiază";
+"Paste" = "Lipește";
+"Copy as Markdown" = "Copiază ca Markdown";
+"Copy as HTML Code" = "Copiază ca Cod HTML";
+"Paste as Plain Text" = "Lipește ca Text Simplu";
+"Select All" = "Selectează tot";
+"Select Line/Sentence" = "Selectează Linee/Frază";
+"Select Styled Scope" = "Selectează Bloc";
+"Select Word" = "Selectează Cuvânt";
+"Delete" = "Șterge";
+"Delete Range" = "Șterge Interval";
+"Delete Word" = "Șterge Cuvânt";
+"Delete Styled Scope" = "Șterge Bloc";
+"Delete Line/Sentence" = "Șterge Linee/Frază";
+"Jump To" = "Salt La";
+"Jump to Top" = "Salt la Început";
+"Jump to Selection" = "Salt la Selecție";
+"Jump to Bottom" = "Salt la Sfârșit";
+"Math Tools" = "Instrumente Matematice";
+"Refresh All Math Expressions" = "Reîmprospătă Toate Expresiile Matematice";
+"Image Tools" = "Instrumente Imagini";
+"Insert Local Images" = "Introduce Imagini Locale";
+"Upload Local Images via iPic" = "Încarcă Imagini Locale prin iPic";
+"When Insert Local Image" = "Când Introduceți Imagini Locale";
+"Copy Image File to Folder" = "Copiază Imagine in Folder";
+"Use Image Root Path" = "Folosește Cale Imagine";
+"Line Endings" = "Terminații de Linie";
+"Windows Line Endings (CRLF)" = "Format Windows (CRLF)";
+"Unix Line Endings (LF)" = "Format Unix (LF)";
+"Find" = "Găsește";
+"Find Next" = "Găsește Următorul";
+"Find Previous" = "Găsește Anteriorul";
+"Find and Replace" = "Găsește și Înlocuiește";
+"Replace" = "Înlocuiește";
+"Replace Next" = "Înlocuiește Următorul";
+"Spelling and Grammar" = "Ortografie și Gramatică";
+"Check Document Now" = "Verifică Documentul Acum";
+"Check Spelling While Typing" = "Verifică Ortografia în Timpul Scrierii";
+"Check Grammar With Spelling" = "Verifică Gramatica Odată cu Ortografia";
+"Correct Spelling Automatically" = "Corectează Ortografia Automat";
+"Substitutions" = "Înlocuiri";
+"Smart Quotes" = "Ghilimele Inteligente";
+"Smart Dashes" = "Cratime Inteligente";
+"Text Replacement" = "Înlocuire Text";
+"Speech" = "Enunțare";
+"Start Speaking" = "Pornire Enunțare";
+"Stop Speaking" = "Oprire Enunțare";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraf";
+"Heading 1" = "Titlu 1";
+"Heading 2" = "Titlu 2";
+"Heading 3" = "Titlu 3";
+"Heading 4" = "Titlu 4";
+"Heading 5" = "Titlu 5";
+"Heading 6" = "Titlu 6";
+"Increase Heading Level" = "Crește Nivelul de Titlu";
+"Decrease Heading Level" = "Micșorează Nivelul de Titlu";
+"Table" = "Tabel";
+"Code Fences" = "Bloc de Cod";
+"Math Block" = "Bloc Matematic";
+"Quote" = "Citează";
+"Ordered List" = "Listă Ordonată";
+"Unordered List" = "Listă Neordonată";
+"Task List" = "Listă Activităţi";
+"Task Status" = "Stare Activitate";
+"Toggle Task Status" = "Comutare Stare Activitate";
+"Mark as Complete" = "Marchează ca Finalizată";
+"Mark as Incomplete" = "Marchează ca Nefinalizată";
+"List Indentation" = "Indentare Listă";
+"Indent" = "Mărește Indent-ul";
+"Outdent" = "Reduce Indent-ul";
+"Link Reference" = "Referință Link";
+"Footnotes" = "Note de Subsol";
+"Horizontal Line" = "Linie Orizontală";
+"Table of Contents" = "Cuprins";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Formatează";
+"Strong" = "Aldin";
+"Emphasis" = "Accentuare";
+"Underline" = "Subliniat";
+"Code" = "Cod";
+"Inline Math" = "Matematică În Linie";
+"Strike" = "Tăiere Text";
+"Highlight" = "Evidențiere";
+"Superscript" = "Exponent";
+"Subscript" = "Indice";
+"Comment" = "Comentariu";
+"Hyperlink" = "Hyperlink";
+"Image" = "Imagine";
+"Clear Format" = "Șterge Formatare";
+
+/* View Menu */
+"View" = "Vizualizare";
+"New Tab" = "Filă Nouă";
+"Source Code Mode" = "Vizualizează Cod Sursă";
+"Focus Mode" = "Mod Focalizare";
+"Typewriter Mode" = "Mod Mașină de Scris";
+"Toggle Sidebar" = "Comutare Bara Laterală";
+"Outline" = "Schiță";
+"Articles" = "Articole";
+"File Tree" = "Arbore Fișiere";
+"Always on Top" = "Întotdeauna În Față";
+"Full Screen" = "Ecran Complet";
+"Show Status Bar" = "Afișare Bară de Stare";
+"Toggle Fullscreen" = "Comutare Ecran Complet";
+"Actual Size" = "Dimensiune Efectivă";
+"Zoom In" = "Mărește";
+"Zoom Out" = "Micșorează";
+"Switch Between Opened Documents" = "Comutare Între Documente Deschise";
+"Toggle DevTools" = "Comutare Instrumente Pentru Dezvoltatori";
+
+
+/* Themes Menu */
+"Themes" = "Teme";
+
+/* Window Menu */
+"Window" = "Fereastră";
+"Minimize" = "Minimizează";
+"Zoom" = "Zoom";
+"Bring All to Front" = "Adu Tot în Față";
+
+/* Help Menu */
+"Help" = "Ajutor";
+"Privacy Policy" = "Politica de Confidențialitate";
+"Credits" = "Credite";
+"Change Log" = "Jurnal de Modificări";
+"Website" = "Site Web";
+"Feedback" = "Părere";
+"About" = "Despre";
+
+/* Touchbar */
+"Block Styles" = "Stiluri de Bloc";
+"Inline Styles" = "Stiluri În Linie";
+"List Styles / Remove Block" = "Listă Stiluri / Elimină Bloc";
+"Exit Source Code Mode" = "Ieși din Modul Cod Sursă";
+"Toggle Source Code Mode" = "Comutare Mod Cod Sursă";
+
+/* Extra Context Menu */
+"Table" = "Tabel";
+"Add Row Above" = "Adăugă Rând Deasupra";
+"Add Row Below" = "Adăugă Rând Dedesubt";
+"Delete Row" = "Șterge Rând";
+"Add Column Before" = "Adăugă Coloană Înăinte";
+"Add Column After" = "Adăugă Coloană După";
+"Delete Column" = "Șterge Coloană";
+"Copy Table" = "Copiază Tabel";
+"Delete Table" = "Șterge Tabel";
+"Insert Paragraph After" = "Introduce Paragraf După";
+"Insert Paragraph Before" = "Introduce Paragraf Înăinte";
+"Delete Code Block" = "Șterge Bloc de Cod";
+"Copy as MathML" = "Copiază ca MathML";
+"Copy as Tex" = "Copiază ca Tex";
+"Copy Math" = "Copiază Matematică";
+"Reveal in Finder" = "Dezvăluie în Finder";
+"Open Link" = "Open Link";
+"Reveal in Sidebar" = "Dezvăluie în Bară Laterală";
+"Open in New Window" = "Deschide in Fereastră Nouă";
+"Copy File Path" = "Copiază Cale Fişier";
+"New File" = "Fişier Nou";
+"Rename" = "Redenumește";
+"New Folder" = "Folder Nou";
+
+/* Electron */
+"Learn Spelling" = "Învață Ortografie";
+"Copy / Paste As…" = "Copiază / Lipește Ca…";
+"Math" = "Matematică";
+"Insert" = "Introduce";
+"Inspect Element" = "Inspectează Element";
+"Copy to MS Word" = "Copiază În MS Word";
+"Paragraph (before)" = "Paragraf (Înăinte)";
+"Paragraph (after)" = "Paragraf (După)";
+
+"Search with Google" = "Caută cu Google";
+"Search With…" = "Caută cu…";
+
+/* Related Panel */
+"Open Failed" = "Deschidere Nereușită";
+"File or folder does not exist." = "Fișierul Sau Folderul Nu Există.";
+
+"Prettify Source Code" = "Înfrumusețează Cod Sursă";
+"Copy '%@'" = "Copiază '%@'";
+"Copy to %@" = "Copiază În %@";
+"Copy Image to" = "Copiază Imagine În";
+"Open Image Location" = "Deschide Locație Imagine";
+
+"Learn More" = "Află Mai Multe";
+"Whitespace and Line Breaks" = "Spații Goale și Sfârșituri de Linie";
+"Indent first line of paragraphs" = "Indentare Prima Linie a Paragrafelor";
+"Preserve single line break" = "Păstrează Sfârșit De Linie Simplu";
+"Visible <br/>" = "<br/> Vizibil";
+
+"Save All" = "Salvează Tot";
+"New Window" = "Fereastră Nouă";
+"Reopen Closed File" = "Redeschide Fișier Închis";
+
+"Global Image Settings" = "Setări Globale Imagini";
+"Smart Punctuation" = "Punctuație Inteligentă";
+"Convert on Input" = "Convertește în Cod";
+"Convert on Rendering" = "Convertește în Randare";
+"Remap Unicode Punctuation on Parse" = "Remapează Punctație Unicode în Timpul Analizei";
+"More Options" = "Mai Multe Opțiuni";
+
+"HTML Block" = "Bloc HTML";
+"Delete Block" = "Șterge Bloc";
+"Delete %@" = "Șterge %@";
+"Play" = "Rulează";
+"Pause" = "Pauză";
+
+"Spell Check" = "Verificare Ortografică";
+"Unlearn Spelling" = "Dezvață Ortografie";
+"Properties" = "Proprietăți";
+
+"Search" = "Caută";
+"Copy without Theme Styling" = "Copiază fară Stil Temă";
+"Recent Files" = "Fișiere Recente";
+"File Results" = "Rezultate Fișiere";
+
+"Insert Table" = "Introduce Tabel";
+"Insert Image" = "Introduce Imagine";
+"Allow Magnification" = "Permite Mărire/Micșorare";
+
+"Move Row Up" = "Mută Rând Sus";
+"Move Row Down" = "Mută Rând Jos";
+"Move Column Left" = "Mută Coloană la Stânga";
+"Move Column Right" = "Mută Coloană la Dreapta";
+
+"Zoom Image" = "Zoom Imagine";
+"Zoom Image to %@" = "Zoom Imagine la %@";
+
+"Copy as Plain Text" = "Copiază ca Text Simplu";
+
+"Selection" = "Selecţie";
+"Start Speaking" = "Pornire Enunțare";
+"Stop Speaking" = "Oprire Enunțare";
+"Check Updates" = "Caută Actualizări";
+
+"HTML (without Styles)" = "HTML (fară Stiluri)";
+
+"Highlight Current Header" = "Evidențiază Titlu Actual";
+"Expand All" = "Extinde Tot";
+"Collapse All" = "Restrânge Tot";
+"Collapsible Outline" = "Restrânge Schiță";
+"Flat Outline" = "Extinde Schiță";
+"Articles (List View)" = "Articole (Vizualizare Listă)";
+"File Tree (Tree View)" = "Arbore Fișiere (Vizualizare Arbore)";
+"Filter" = "Filtru";
+
+"Upload Image" = "Încarcă Imagine";
+"Upload All Local Images" = "Încarcă Toate Imaginile Locale";
+"Open Image in Browser" = "Deschide Imagine în Browser";
+"Copy Image" = "Copiază Imagine";
+
+"More Actions" = "Mai Multe Acțiuni";
+"Get Info" = "Obține Informații";
+
+"Export with Previous" = "Exportă cu Anteriorul";
+"Export and Overwrite with Previous" = "Exportă și Suprascrie cu Anteriorul";
+
+"Emoji & Symbols" = "Emoji & Simboluri";

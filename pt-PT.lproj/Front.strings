@@ -3,6 +3,7 @@
   Typora
 
  Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
+ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 */
 
 /* Common */
@@ -25,12 +26,12 @@
 "Replace" = "Substituir";
 "All" = "Todos";
 "Search text not found in article" = "Texto não encontrado no artigo";
-"search text" = "texto para procurar";
+"search text" = "Procurar texto";
 
 /* Quick Open */
 "Search by file name" = "Procurar pelo nome do ficheiro";
-"Searching" = "Procurando";
-"Gathering more results" = "Obtendo mais resultados";
+"Searching" = "A procurar";
+"Gathering more results" = "A obter mais resultados";
 
 /* Tables */
 "Insert Table" = "Inserir Tabela";
@@ -58,7 +59,7 @@
 "Switch to File Tree view" = "Mudar para a vista de Árvore de Ficheiros";
 "Switch to Outline view" = "Mudar para Índices";
 "Close sidebar" = "Fechar barra lateral";
-"Loading" = "Carregando";
+"Loading" = "A carregar";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A pasta selecionada possui demasiados ficheiros. \nPor favor mude para <a id='switch-to-tree-on-oversize'>Árvore de Ficheiros</a> para melhorar o desempenho.";
 "New File" = "Novo ficheiro";
 "Unpin Outline Panel" = "Desafixar Painel de Índices";
@@ -71,10 +72,10 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar Por Pasta";
 "Sort Naturally" = "Ordenar Naturalmente";
-"Sort by Name (Ascending)" = "Ordenar por Nome (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordenar por Data de Modificação (Ascending)";
-"Sort by Name (Descending)" = "Ordenar por Nome (Descending)";
-"Sort by Modification Date (Descending)" = "Ordenar por Data de Modificação (Descending)";
+"Sort by Name (Ascending)" = "Ordenar por Nome (Crescente)";
+"Sort by Modification Date (Crescente)" = "Ordenar por Data de Modificação (Crescente)";
+"Sort by Name (Decrescente)" = "Ordenar por Nome (Decrescente)";
+"Sort by Modification Date (Decrescente)" = "Ordenar por Data de Modificação (Decrescente)";
 "Location" = "Localização";
 "Switch File List/Tree View" = "Alternar Lista/Árvore de Ficheiros";
 "No Files Available" = "Nenhum Ficheiro Disponível";
@@ -109,6 +110,8 @@
 "Cannot open folder {0}" = "Não foi possível abrir a pasta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "O conteúdo do ficheiro foi modificado por aplicações externas. Recarregar o conteúdo?";
+
+/* exisiting ? is this localized string correct ? */
 "Should continue moving and overwrite exisiting file(s) ?" = "Continuar movendo e sobrescrever o(s) ficheiro(s) existente(s))?";
 
 "Rename Failed" = "Erro ao Renomear";
@@ -118,14 +121,14 @@
 /* Image upload & move */
 "Successfully uploaded {0} images." = "{0} imagens carregadas com sucesso.";
 "Failed to upload image. Error Message:" = "Erro ao carregar imagem. Mensagem de Erro:";
-"Failed to Copy Image to Target Folder." = "Erro ao Copiar Imagem à Pasta de Destino.";
-"Select Container Folder" = "Selecionar Pasta de Contêiner";
+"Failed to Copy Image to Target Folder." = "Erro ao Copiar Imagem para a Pasta de Destino.";
+"Select Container Folder" = "Selecionar Pasta Contentora";
 
-"Saved" = "Salvo";
+"Saved" = "Guardado";
 
 /* place holder in find & replace input */
 "search text" = "texto para procurar";
-"replace with" = "substituir com";
+"replace with" = "substituir por";
 /* search option */
-"Case Sensitive" = "Case Sensitive";
+"Case Sensitive" = "Diferenciar Maiúsculas/Minúsculas";
 "Whole Word" = "Palavra Inteira";

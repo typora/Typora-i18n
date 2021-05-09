@@ -3,6 +3,7 @@
  translations for preference panel and other dialogs
 
 Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
+Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
  */
 
 /* Preference Panel */
@@ -17,14 +18,14 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Themes" = "Temas";
 "Open Theme Folder" = "Abrir Pasta do Tema";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor verifique `ajuda`->`Início Rápido` para uma breve introdução. Visit http://theme.typora.io para obter mais temas e instruções.";
-"Word Count" = "Contagem de Palavras";
+"Word Count" = "Contar Palavras";
 "Always Show Word Count" = "Sempre Mostrar Contagem de Palavras";
 "Font Size" = "Tamanho da Fonte";
 "Auto ( Recommended )" = "Automático ( Recomendado )";
-"Customized" = "Customizado";
+"Customized" = "Personalizado";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Se for usado um tamanho de fonte personalizado, o tamanho real da fonte dependerá do tamanho da fonte base e do estilo CSS.";
  "Left Panel" = "Painel Esquerdo";
-"Show Outline Panel by Default" = "Exibir Painel de Índices por Padrão";
+"Show Outline Panel by Default" = "Exibir Painel de Índices por Defeito";
 "Collapsible Outline on Left Panel" = "Índice Flexível no Painel Esquerdo";
 "Save without asking when\nswitch files on side panel" = "Guardar sem perguntar quando\ntrocar de ficheiro no painel lateral"
 "Language" = "Idioma";
@@ -34,39 +35,39 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Editor" = "Editor";
 "Indent Size on Save" = "Tamanho da Indentação ao Guardar";
 "only apply to quotes and lists created from menu bar or hybrid view" = "só se aplica para citações e listas criadas a partir da barra de menu ou da visão híbrida";
-"Trigger Autocomplete without ESC key for" = "Autocompletar sem ESC para";
+"Trigger Autocomplete without ESC key for" = "Despoletar Auto-completar sem ESC para";
 "Emoji (e.g. :smile:)" = "Emoji (ex. :smile:)";
 "Images Insert" = "Ao Inserir Imagens";
 "Use relative path if possible" = "Usar caminho relativo se possível";
-"Allow copy images to given folder" = "Permitir copiar imagens para pasta determinada";
-"Allow upload to given server" = "Permitir carregar para servidor determinado";
-"Auto Pair" = "Parear Automaticamente";
-"Auto pair brackets and quotes" = "Parear parêntesis e aspas automaticamente";
-"Auto pair common Markdown syntax" = "Parear sintaxes comuns de Markdown automaticamente";
+"Allow copy images to given folder" = "Permitir copiar imagens para uma determinada pasta";
+"Allow upload to given server" = "Permitir carregar para determinado servidor";
+"Auto Pair" = "Emparelhar Automaticamente";
+"Auto pair brackets and quotes" = "Emparelhar parêntesis e aspas automaticamente";
+"Auto pair common Markdown syntax" = "Emparelhar sintaxes comuns de Markdown automaticamente";
 "Live Rendering" = "Renderização Instantânea";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Exibir código fonte para blocos simples\n(incluindo títulos, etc.) ao focar";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Exibir código fonte para blocos simples\n(incluindo títulos, etc.) ao receber foco";
 "Default Copy Behavior" = "Comportamento Padrão de Cópia";
 "Copy Markdown source as plain text" = "Copiar código fonte de Markdown como texto simples";
 "Typewriter Mode" = "Modo Máquina de Escrever";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Sempre mostrar o cursor no meio da tela\nquando o modo máquina de escrever estiver habilitado";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Sempre mostrar o cursor no meio do ecrã\nquando o modo máquina de escrever estiver activado";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(As seguintes preferências serão aplicadas após reiniciar.)";
 "Syntax Support" = "Suporte de Sintaxe";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Incorporar Equações ( ex.: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( ex.: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( ex.: X^2^ )";
+"Subscript    ( e.g: H~2~O )" = "Subescrito    ( ex.: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Sobescrito ( ex.: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Realçar     (ex.: ==key==)";
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart e Mermaid)";
 "Syntax Preference" = "Preferência de Sintaxe";
-"(only applies to styles created from menubar or hybrid view)" = "(só se aplica para estilos criados da barra de menu ou visão híbrida)";
+"(only applies to styles created from menubar or hybrid view)" = "(só se aplica para estilos criados a partir da barra de menu ou da visão híbrida)";
 "Strict Mode" = "Modo Estrito";
 "(more strict to GFM spec)" = "(mais estrito que a especificação GFM)";
 "Heading Style" = "Estilo de Título";
-"Ordered List" = "Lista Ordenada";
-"Unordered List" = "Lista Desordenada";
+"Ordered List" = "Lista Numerada";
+"Unordered List" = "Lista Simples";
 "Code Fences" = "Bloco de Código";
 "Display line numbers for code fences" = "Exibir número das linhas para blocos de código";
 "Math Blocks" = "Blocos de Equação";
@@ -74,24 +75,24 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 
 /* Security Panel */
 "Security" = "Segurança";
-"Enable Debug" = "Habilitar Depuração";
+"Enable Debug" = "Ativar Depuração";
 "Send Anonymous Usage Info" = "Enviar Dados Anónimos de Utilização";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Requer Pandoc para Continuar...";
+"Require Pandoc to Continue..." = "Requer ao Pandoc para Continuar...";
 "Follow instructions to install Pandoc" = "Siga as instruções para instalar Pandoc";
 "Cancel" = "Cancelar";
 
 /* Pandoc Import Panel */
-"Importing..." = "Importando...";
-"Importing in progress..." = "Importação em andamento...";
-"Converting file with Pandoc. This may take some time." = "Convertendo ficheiro com Pandoc. Isto pode levar algum tempo.";
+"Importing..." = "A importar...";
+"Importing in progress..." = "Importação em progresso...";
+"Converting file with Pandoc. This may take some time." = "A converter ficheiro com Pandoc. Isto pode levar algum tempo.";
 "Abort" = "Abortar";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exportando...";
-"Exporting in progress..." = "Exportação em andamento...";
-"Converting file with Pandoc. This may take some time." = "Convertendo ficheiro com Pandoc. Isto pode levar algum tempo.";
+"Exporting..." = "A exportar...";
+"Exporting in progress..." = "Exportação em progresso...";
+"Converting file with Pandoc. This may take some time." = "A converter ficheiro com Pandoc. Isto pode levar algum tempo.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc é necessário para importar esses formatos de ficheiro";
@@ -105,19 +106,19 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Failed to import file from <em>{0}</em>" = "Erro ao importar ficheiro de <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "Ficheiro não existe em <em>{0}</em>";
 "Export to..." = "Exportar para...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Deseja guardar as alterações feitas neste documento?<br> Suas alterações serão perdidas se não salvá-las";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Deseja guardar as alterações feitas neste documento?<br> As suas alterações serão perdidas se não as guardar";
 "[Warning] Failed to attach bookmark for PDF file." = "[Atenção] Erro ao adicionar marcador ao ficheiro PDF.";
 "Dark Theme not support" = "Tema Escuro não suportado";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Desculpe, a versão atual do Typora não exporta cores de fundo para PDF, por isto o tema escuro ainda não é suportado para exportação para PDF. \nPor favor selecione um tema claro ou clique em \"Imprimir com tema padrão\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Desculpe mas a versão atual do Typora não exporta cores de fundo para PDF, por isso o tema escuro ainda não é suportado para exportação para PDF. \nPor favor selecione um tema claro ou carregue em \"Imprimir com tema padrão\"";
 "Print with default theme" = "Imprimir com tema padrão";
-"Export to PDF successfully." = "Exportado para PDF com sucesso.";
-"Converting file using Pandoc. This may take some time." = "Convertendo ficheiro usando Pandoc. Isto pode levar algum tempo.";
-"Exporting file using Pandoc. This may take some time." = "Exportando ficheiro usando Pandoc. Isto pode levar algum tempo.";
+"Export to PDF successfully." = "Exportação para PDF executada com sucesso.";
+"Converting file using Pandoc. This may take some time." = "A converter ficheiro usando Pandoc. Isto pode levar algum tempo.";
+"Exporting file using Pandoc. This may take some time." = "A exportar ficheiro usando Pandoc. Isto pode levar algum tempo.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Carregando Imagens via iPic...";
-"Uploading in progress…" = "Carregamento em andamento...";
-"Do not show this again" = "Não exibir isto novamente";
+"Uploading Images via iPic..." = "A carregar Imagens via iPic...";
+"Uploading in progress…" = "Carregamento em progresso...";
+"Do not show this again" = "Não exibir isto de novo";
 
 /* Word Count */
 "%d Words" = "%d Palavras";
@@ -125,7 +126,7 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Lines" = "Linhas";
 "Words" = "Palavras";
 "Characters" = "Caracteres";
-"In Selection" = "Em Seleção";
+"In Selection" = "Na Seleção";
 "Panel" = "Painel";
 
 /* Windows Prefernce Panel*/
@@ -139,13 +140,13 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Auto Save" = "Guardar Automaticamente";
 "Recover Unsaved Drafts" = "Recuperar Rascunhos não guardados";
 "Emoji Autocomplete" = "Autocompletar Emoji";
-"Trigger by ESC key" = "Ao pressionar ESC";
-"Trigger automatically" = "Automaticamente";
+"Trigger by ESC key" = "Despoletado ao pressionar ESC";
+"Trigger automatically" = "Despoletado automaticamente";
 "Default Line Ending" = "Fim de Linha Padrão";
 "Line ending for new file" = "Fim de linha para novos ficheiros";
-"Spell Check" = "Revisar Ortografia";
+"Spell Check" = "Rever Ortografia";
 "(support US English only)" = "(só suporta Inglês dos EUA)";
-"Enable spell check" = "Habilitar revisor ortográfico";
+"Enable spell check" = "Ativar revisor ortográfico";
 "Auto correct spelling" = "Autocorrigir gramática";
 "System" = "Sistema";
 "Privacy" = "Privacidade";
@@ -164,7 +165,7 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "This feature require macOS >= 10.11" = "Esta funcionalidade requer macOS >= 10.11";
 "One More Step" = "Mais Um Passo";
 "Notice" = "Aviso";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Isto requer que o iPic esteja instalado, e as imagens referidas serão carregadas para serviços na nuvem via iPic. Por favor note que os serviços padrão não suportam remover imagens carregadas.";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Isto requer que o iPic esteja instalado e as imagens referidas serão carregadas para serviços na nuvem via iPic. Por favor note que os serviços padrão não suportam a remoção de imagens carregadas.";
 
 "%d Images Failed to Upload." = "%d Imagens Falharam ao Serem Carregadas.";
 "%d Succeeded," = "%d Bem sucedidas, ";
@@ -172,8 +173,8 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "%@ is a file, not a directory" = "%@ é um ficheiro, não uma pasta";
 "Copy Images To…" = "Copiar Imagens Para…";
 "Create Folder and Continue" = "Criar Pasta e Continuar";
-"Document must be saved first" = "O documento precisa ser salvo primeiro";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vai copiar novas imagens para a pasta por caminho relativo, então salve o ficheiro primeiro, por favor.";
+"Document must be saved first" = "O documento precisa de ser guardado primeiro";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vai copiar as novas imagens inseridas para a pasta dada pelo caminho relativo, por isso salve o ficheiro primeiro, por favor.";
 "Open Operation Failed" = "Erro na Operação de Abrir";
 
 "Support Documentation" = "Documentação de Apoio";
@@ -199,8 +200,8 @@ Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
 "Export As..." = "Exportar Como...";
 "More Formats" = "Mais Formatos";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatos de ficheiro em 'Mais Formatos' precisam que <a class='open-pandoc-guide'>Pandoc esteja instalado</a>.";
-"Something is Wrong…" = "Algo está Errado…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Houve um erro ao guardar o conteúdo por alguma razão.<br/>Você pode copiar o conteúdo para uma nova janeja Typora, e guardar. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperar conteúdos perdidos</a></li></ul>";
+"Something is Wrong…" = "Algo está mal…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Por alguma razão ocorreu um erro ao guardar o conteúdo.<br/>Pode copiar o conteúdo para uma nova janeja Typora, e guardar. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperar conteúdos perdidos</a></li></ul>";
 "Copy Content" = "Copiar Conteúdo";
 
 

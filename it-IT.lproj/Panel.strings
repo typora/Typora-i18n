@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
  
- by starise@andreabrandi.com
+ by tommaso.ghisini@gmail.com
  */
 
 /* Preference Panel */
@@ -27,6 +27,7 @@
 "Show Outline Panel by Default" = "Mostra pannello Struttura come predefinito";
 "Collapsible Outline on Left Panel" = "Espandi/comprimi Struttura sulla barra laterale";
 "Save without asking when\nswitch files on side panel" = "Salva automaticamente quando \napri un altro file dalla barra laterale";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "I File modificati verranno salvati automaticamente quando si cambia file con la barra laterale. \nQuando \"Chiedi di mantenere cambiamenti quando chiudi documento\" è disattivato nelle preferenze di sistema, questo è sempre attivato.";
 "Language" = "Lingua";
 "System Language" = "Lingua di sistema";
 
@@ -279,7 +280,6 @@
 "words / min" = "parole / min";
 
 "Reset to Default" = "Ripristina predefiniti";
-"Select custom folder" = "Seleziona cartella personalizzata";
 "120  words/minute (Slow)" = "120  parole/minuto (lento)";
 "240  words/minute (Medium)" = "240  parole/minuto (medio)";
 "382  words/minute (Fast)" = "382  parole/minuto (veloce)";
@@ -312,7 +312,6 @@
 "Do not show this message again" = "Non mostrare più questo messaggio";
 
 "Page Break Between Top Headings" = "Interruzione di pagina tra le sezioni di livello superiore";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "È possibile impostare il formato delle virgolette in Preferenze di Sistema → Tastiera → Testo. Se lo modifichi, dovrai riavviare Typora per applicarlo.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Spiacente, si è verificato un errore, il contenuto che stavi scrivendo è stato copiato negli appunti. Puoi segnalare questo errore a <hi@typora.io> per aiutarci a correggerlo.";
 "Try Recovery" = "Prova il recupero";
@@ -356,3 +355,114 @@
 "Finished" = "Completato";
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora passerà all'app di terze parti i percorsi di tutte le immagini locali. L'uploader delle immagini e il servizio di archiviazione cloud potranno accedere alle tue immagini locali. Sei sicuro di voler continuare?";
+
+"Export operation finished successfully." = "Esportazione completata con successo.";
+
+"Shortcut Keys" = "Tasti scelta rapida";
+"Custom Shortcut Keys" = "Tasti scelta rapida personalizzati";
+
+"Theme" = "Tema";
+"Light Theme" = "Tema Chiaro";
+"Dark Theme" = "Tema Scuro";
+"Use separate theme in dark mode" = "Usa temi separati con Aspetto Scuro";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supportato su macOS ≥ 10.15 o Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Converte -- in – (lineetta enne), e --- in — (lineetta emme)";
+"Convert -- and --- to — (em dash)" = "Converte -- e --- in — (lineetta emme)";
+"You could set patterns per citazione in  → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Puoi impostare pattern di citazione in Impostazioni → Tastiera → Testo. Necessita rivvio di Typora.";
+
+
+"Paper Size" = "Dimensione Foglio";
+"US Letter" = "Lettera US";
+"US Legal" = "Legale US";
+"Tabloid" = "Tabloid";
+"Page Break" = "Interruzione di pagina";
+"Page Break Between Top Headings" = "Interruzione di pagina tra titoli pricipali";
+"Header" = "Intestazione";
+"Footer" = "Pié di pagina";
+"Author" = "Autore";
+"Append in <head />" = "Aggiungi in <head />";
+"Append in <body />" = "Aggiungi in <body />";
+"Include Outline Sidebar" = "Includi Outline Barra Laterale";
+"Width" = "Larghezza";
+"Command" = "Comando";
+"Show Save File Dialog" = "Mostra dialogo di salvataggio";
+"File Extensions for Export" = "Estensioni file per l'esportazioni";
+"Arguments" = "Opzioni";
+"Extra Arguments" = "Opzioni Aggiuntive";
+"LaTeX Engine" = "LaTeX Engine";
+"Template" = "Template";
+"Empty" = "Vuoto";
+"Style Reference" = "Referenza Stile";
+"Custom CSS" = "CSS Personalizzato";
+"Chapter Level" = "Livello Capitolo";
+"Default Folder for Exported File" = "Cartella predefinita per esportazione file";
+"Same folder with current file" = "Stessa cartella file corrente";
+"Custom location" = "Posizione Personalizzata";
+"(Auto Detect)" = "(Rileva Automaticamente)";
+"After Export" = "Dopo l'esportazione";
+"Open exported file location" = "Apri cartella di esportazione";
+"Open exported file" = "Apri file esportato";
+"Custom" = "Personalizzato";
+"None" = "Nessuna";
+"Default" = "Default";
+"Margin" = "Margine";
+"Margin Left" = "Margine Sinistro";
+"Margin Right" = "Margine Destro";
+"Margin Top" = "Margine Superiore";
+"Margin Bottom" = "Margine Inferiore";
+"Width x Height" = "Larghezza x Altezza";
+"Add From a Template" = "Aggiungi da un Template";
+"Delete this export option ?" = "Elimina questa opzione di esportazione?";
+"Add" = "Agggiungi";
+"Delete" = "Elimina";
+"Rename" = "Rinomina";
+"Move Down" = "Muovi Giù";
+"Move Up" = "Muovi Sù";
+"Pandoc Path" = "Percorso Pandoc";
+"Select" = "Seleziona";
+"Target Format" = "Formato Destinazione";
+"auto detect based on target file path" = "rileva automaticamente attraverso indirizzo del file";
+"Target File Extensions (separate by whitespace)" = "Estensione File di Destinazione (separati da uno spazio)";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc o lascia vuoto";
+"Raw Type" = "Tipologia Grezza";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Mostra Dialogo Salvataggio File";
+"Do not popup save file dialog" = "Non mostrare Dialogo Salvataggio File";
+"Select file path to save" = "Seleziona indirizzo file per salvataggio";
+"Select folder path to save" = "Seleziona indirizzo cartella per salvataggio";
+"PDF Engine" = "PDF Engine";
+"Show command output" = "Mostra output comando";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Esporta e Sovrascrivi Precedenti\" sovrascrive il file %@, vuoi continuare?";
+"Command Arguments:" = "Opzioni Comandi";
+"This beta version of Typora is expired, please download and install a newer version." = "Questa versione Beta di Typora è scaduta, per favore scarica ed installa una versione più recente.";
+"Current Theme" = "Tema Corrente";
+"After Export" = "Dopo l'Esportazione";
+"Run command" = "Esegui Comando";
+"Run command after export failed" = "Esegui Comando dopo Fallimento Esportazione";
+"Read and overwrite export settings from YAML front matters" = "Leggi e Sovrascrivi impostazione di export da YAML metadata";
+"Append Extra Content (HTML)" = "Appendi Contenuto Extra (HTML)";
+"Change this option to specify a separated theme for export." = "Cambia questa opzione per specificare un tema da utilizzare per l'esportazione.";
+"Dark theme is not supported." = "Tema Scuro non supportato";
+
+"Markdown Variants" = "Varianti Markdown";
+"Original Unextended Markdown" = "Markdown Originale e Non-Esteso";
+"CommonMark with many pandoc extensions" = "CommonMark con estensioni pandoc";
+"Line Wrap" = "Linee a Capo";
+"Hard line wrap" = "Linee a Capo Forzate";
+"Text Column Width" = "Larghezza Colonna di Testo";
+"Auto (based on current OS)" = "Auto (basato su sistema operativo corrente)";
+"Indent" = "Indenta";
+"Preserve tabs" = "Preserva tabs";
+"2 spaces per tab" = "2 spazi per tab";
+"3 spaces per tab" = "3 spazi per tab";
+"4 spaces per tab" = "4 spazi per tab";
+"Unicode Characters" = "Caratteri Unicode";
+"Use only ASCII characters in output" = "Usa solo caratteri ASCII per output";
+"Use reference-style links rather than inline links" = "Usa reference-style link invece che link nelle righe";
+"Footnotes and References Location" = "Posizione Note a piè di pagina e Riferimenti";
+"End of document" = "Fine del Documento";
+"End of current (top-level) block" = "Fine del blocco (livello superiore)corrente";
+"End of current section" = "Fine selezione corrente";
+"Convert TeX formulas to web images" = "Converti formule TeX in immagini web";
+"Image Format" = "Formato Immagine";

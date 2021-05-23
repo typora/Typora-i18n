@@ -34,7 +34,7 @@
 "Open Quickly" = "Snel openen";
 "Open File Location" = "Open bestandslocatie";
 "Reveal in Library" = "Weergeven in bibliotheek";
-"Reveal in File Tree" = "Weergeven in mappenstructuur";
+"Reveal in File Tree" = "Weergeven in boomstructuur";
 "Close" = "Sluiten";
 "Save" = "Opslaan";
 "Save As" = "Opslaan als";
@@ -81,8 +81,8 @@
 "Upload Image via iPic" = "Upload afbeelding via iPic";
 "Use Image Root Path" = "Gebruik de hoofdmap van de afbeelding";
 "Line Endings" = "Regeleinden";
-"Windows Line Endings (CRLF)" = "Windows-regeleiden (CRLF)";
-"Unix Line Endings (LF)" = "Unix-regeleiden (LF)";
+"Windows Line Endings (CRLF)" = "Windows-regeleindes (CRLF)";
+"Unix Line Endings (LF)" = "Unix-regeleindes (LF)";
 "Find" = "Zoek";
 "Find Next" = "Volgende zoeken";
 "Find Previous" = "Vorige zoeken";
@@ -210,9 +210,9 @@
 "Copy as MathML" = "kopieer als MathML";
 "Copy as Tex" = "Kopieer als Tex";
 "Copy Math" = "Kopieer wiskunde";
-"Reveal in Finder" = "Geef weer in Finder";
+"Reveal in Finder" = "Weergeven in Finder";
 "Open Link" = "Open Link";
-"Reveal in Sidebar" = "Geef weer in zijbalk";
+"Reveal in Sidebar" = "Weergeven in zijbalk";
 "Open in New Window" = "Openen in nieuw scherm";
 "Copy File Path" = "Kopieer bestandslocatie";
 "New File" = "Nieuw bestand";

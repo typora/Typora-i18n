@@ -13,7 +13,7 @@
 
 /* General Panel */
 "General" = "Algemeen";
-"Window Style" = "Venster stijl";
+"Window Style" = "Vensterstijl";
 "Classic" = "Klassiek";
 "Seamless" = "Seamless";
 "Seamless window only support OS X later than 10.10." = "Seamless-venster ondersteunt alleen OS X later dan 10.10.";
@@ -41,7 +41,7 @@
 "Emoji (e.g. :smile:)" = "Emoji (bv. :smile:)";
 "Images Insert" = "Afbeeldingen invoegen";
 "Use relative path if possible" = "Gebruik relatieve paden wanneer mogelijk";
-"Auto Pair" = "Automatisch Koppelen";
+"Auto Pair" = "Automatisch koppelen";
 "Auto pair brackets and quotes" = "Koppel haken and quotes automatisch";
 "Auto pair common Markdown syntax" = "Koppel veelgebruikte Markdown syntax automatisch";
 "Live Rendering" = "Live-weergave";
@@ -58,7 +58,7 @@
 "Inline Math  ( e.g: $\LaTeX$ )" = "Wiskunde in de lopende tekst  ( bv.: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    ( bv.: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superscript ( bv.: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Lichteffect     (bv.: ==key==)";
+"Highlight     (e.g: ==key==)" = "Markeren     (bv.: ==key==)";
 "Diagrams" = "Diagrammen";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
 "Syntax Preference" = "Syntaxvoorkeuren";
@@ -110,7 +110,7 @@
 "[Warning] Failed to attach bookmark for PDF file." = "[Waarschuwing] Kan bladwijzer van PDF-bestand niet invoegen.";
 "Dark Theme not support" = "Donker thema is niet ondersteund";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
-"Print with default theme" = "Afdrukken met standaard thema";
+"Print with default theme" = "Afdrukken met standaardthema";
 "Export to PDF successfully." = "Exporteren naar PDF succesvol.";
 "Converting file using Pandoc. This may take some time." = "Bezig met converteren van bestang met Pandoc. Dit kan even duren.";
 "Exporting file using Pandoc. This may take some time." = "Bezig met exporteren van bestand met Pandoc. Dit kan even duren.";

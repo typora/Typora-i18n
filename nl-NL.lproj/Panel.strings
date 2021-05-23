@@ -13,7 +13,7 @@
 
 /* General Panel */
 "General" = "Algemeen";
-"Window Style" = "Stijlvenster";
+"Window Style" = "Venster stijl";
 "Classic" = "Klassiek";
 "Seamless" = "Seamless";
 "Seamless window only support OS X later than 10.10." = "Seamless-venster ondersteunt alleen OS X later dan 10.10.";

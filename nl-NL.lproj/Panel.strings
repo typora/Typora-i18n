@@ -1,11 +1,11 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
- by hi@typora.io 
- 
- Dutch translations by Melle Dijkstra
- 
+
+ by hi@typora.io
+
+ Dutch translations by Melle Dijkstra & André van Delft
+
 */
 
 /* Preference Panel */
@@ -13,38 +13,38 @@
 
 /* General Panel */
 "General" = "Algemeen";
-"Window Style" = "Venster Stijl";
+"Window Style" = "Vensterstijl";
 "Classic" = "Klassiek";
 "Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless venster ondersteunt alleen OS X later dan 10.10.";
+"Seamless window only support OS X later than 10.10." = "Seamless-venster ondersteunt alleen OS X later dan 10.10.";
 "Themes" = "Thema's";
-"Open Theme Folder" = "Open Thema Map";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Bekijk `help` ->` Snelle start` voor een korte introductie. Kijk op http://theme.typora.io voor meer thema's of instructies.";
-"Word Count" = "Woord Teller";
-"Always Show Word Count" = "Altijd woord teller laten zien";
+"Open Theme Folder" = "Open thema-map";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Bekijk `help`->`Snelle start` voor een korte introductie. Kijk op http://theme.typora.io voor meer thema's of instructies.";
+"Word Count" = "Aantal woorden";
+"Always Show Word Count" = "Laat het aantal woorden altijd zien";
 "Font Size" = "Lettertypegrootte";
 "Auto ( Recommended )" = "Automatisch ( Aanbevolen )";
 "Customized" = "Afgestemd";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Als de afgestemde tekengrootte wordt gebruikt, is de werkelijke lettergrootte afhankelijk van de basislettergrootte en de CSS stijl.";
 "Left Panel" = "Linker Paneel";
-"Show Outline Panel by Default" = "Standaard Overzichtspaneel weergeven";
-"Collapsible Outline on Left Panel" = "Inklapbaar overzicht op linker paneel";
-"Save without asking when\nswitch files on side panel" = "Sla op zonder te vragen wanneer \ntussen bestanden wordt geschakeld op het zijpaneel";
+"Show Outline Panel by Default" = "Laat het overzichtspaneel standaard zien";
+"Collapsible Outline on Left Panel" = "Inklapbaar overzicht op linkerpaneel";
+"Save without asking when\nswitch files on side panel" = "Sla op zonder te vragen wanneer er tussen bestanden wordt geschakeld op het zijpaneel";
 "Language" = "Taal";
-"System Language" = "Systeem Taal";
+"System Language" = "Systeemtaal";
 
 /* Editor Panel */
 "Editor" = "Bewerker";
-"Indent Size on Save" = "Grootte inspringen bij opslaan";
-"only apply to quotes and lists created from menu bar or hybrid view" = "alleen van toepassing op citaten en lijsten gemaakt vanaf menubalk of hybride weergave";
-"Trigger Autocomplete without ESC key for" = "Trigger Autocomplete zonder ESC-toets voor";
-"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
-"Images Insert" = "Afbeeldingen Invoegen";
+"Indent Size on Save" = "Inspringgrootte bij opslaan";
+"only apply to quotes and lists created from menu bar or hybrid view" = "alleen van toepassing op citaten en lijsten gemaakt in de menubalk of de hybride weergave";
+"Trigger Autocomplete without ESC key for" = "Activeer autocomplete zonder ESC-toets voor";
+"Emoji (e.g. :smile:)" = "Emoji (bv. :smile:)";
+"Images Insert" = "Afbeeldingen invoegen";
 "Use relative path if possible" = "Gebruik relatieve paden wanneer mogelijk";
-"Auto Pair" = "Automatisch Koppelen";
-"Auto pair brackets and quotes" = "Koppel brackets and quotes automatisch";
+"Auto Pair" = "Automatisch koppelen";
+"Auto pair brackets and quotes" = "Koppel haken and quotes automatisch";
 "Auto pair common Markdown syntax" = "Koppel veelgebruikte Markdown syntax automatisch";
-"Live Rendering" = "Live Weergave";
+"Live Rendering" = "Live-weergave";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Geef de bron weer voor eenvoudige blokken\n(inclusief koppen, etc.) in focus";
 "Default Copy Behavior" = "Standaard kopieergedrag";
 "Copy Markdown source as plain text" = "Kopieer de Markdown-bron als gewone tekst";
@@ -53,67 +53,67 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(De volgende voorkeuren worden toegepast na opnieuw opstarten.)";
+"(Following preferences will be applied after restart.)" = "(Onderstaande voorkeuren worden toegepast bij het opnieuw opstarten.)";
 "Syntax Support" = "Syntax Support";
-"Inline Math  ( e.g: $\LaTeX$ )" = "In lijn Wiskunde  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Lichteffect     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Wiskunde in de lopende tekst  ( bv.: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subscript    ( bv.: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superscript ( bv.: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Markeren     (bv.: ==key==)";
 "Diagrams" = "Diagrammen";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
-"Syntax Preference" = "Syntax Voorkeuren";
+"Syntax Preference" = "Syntaxvoorkeuren";
 "(only applies to styles created from menubar or hybrid view)" = "(alleen van toepassing op stijlen die zijn gemaakt met de menubalk of hybride weergave)";
-"Strict Mode" = "Strenge Modus";
-"(more strict to GFM spec)" = "(Strenger bij GFM spec)";
-"Heading Style" = "Titel Stijl";
+"Strict Mode" = "Strikte modus";
+"(more strict to GFM spec)" = "(nog strikter bij GFM spec)";
+"Heading Style" = "Titelstijl";
 "Ordered List" = "Geordende Lijst";
 "Unordered List" = "Ongeordende Lijst";
-"Code Fences" = "Code Blok";
-"Display line numbers for code fences" = "Weergeef lijnnummers bij code blok";
-"Math Blocks" = "Wiskunde Blokken";
-"Auto Numbering Math Equations" = "Automatisch Nummering bij Wiskunde Vergelijkingen";
+"Code Fences" = "Codeblokken";
+"Display line numbers for code fences" = "Geef regelnummers weer bij codeblokken";
+"Math Blocks" = "Wiskundeblokken";
+"Auto Numbering Math Equations" = "Automatische nummering bij wiskundige vergelijkingen";
 
 /* Security Panel */
 "Security" = "Veiligheid";
-"Enable Debug" = "Debug Inschakelen";
-"Send Anonymous Usage Info" = "Stuur Anonieme Gebruiksinformatie";
+"Enable Debug" = "Debug inschakelen";
+"Send Anonymous Usage Info" = "Stuur anonieme gebruiksinformatie";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Vereist Pandoc om door te gaan...";
+"Require Pandoc to Continue..." = "Pandoc is nodig om door te gaan...";
 "Follow instructions to install Pandoc" = "Volg instructies om Pandoc te installeren";
 "Cancel" = "Annuleer";
 
 /* Pandoc Import Panel */
 "Importing..." = "Importeren...";
 "Importing in progress..." = "Bezig met importeren...";
-"Converting file with Pandoc. This may take some time." = "Bestanden aan het converteren met Pandoc. Dit kan wat tijd kosten.";
+"Converting file with Pandoc. This may take some time." = "Bestanden aan het converteren met Pandoc. Dit kan even duren.";
 "Abort" = "Afbreken";
 
 /* Pandoc Export Panel */
 "Exporting..." = "Exporteren...";
 "Exporting in progress..." = "Bezig met exporteren...";
-"Converting file with Pandoc. This may take some time." = "Bestanden aan het converteren met Pandoc. Dit kan wat tijd kosten.";
+"Converting file with Pandoc. This may take some time." = "Bestanden aan het converteren met Pandoc. Dit kan even duren.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc is nodig voor het importeren van deze bestandsformaten";
 "Check help->Install and use Pandoc from menubar for detail" = "Bekijk help->Pandoc installeren en gebruik Pandoc vanaf de menubalk voor meer informatie";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Importeren of sommige exportfuncties vereist <a href='http://pandoc.org/' target='_blank'> Pandoc </a> (≥ v1.16) om geïnstalleerd te kunnen worden.";
 "Follow Instructions to Install/Update Pandoc" = "Volg instructies om Pandoc te installeren/updaten";
-"Export Failed" = "Exporteren Mislukt";
-"Import Failed" = "Importeren Mislukt";
+"Export Failed" = "Exporteren mislukt";
+"Import Failed" = "Importeren mislukt";
 "Generated Image too Large" = "Gegenereerde Afbeelding te Groot";
-"Failed to export file to <em>{0}</em>" = "Mislukt om bestand te exporteren naar <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Mislukt om bestand te importeren van <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "Bestand bestaat niet op locatie <em>{0}</em>";
+"Failed to export file to <em>{0}</em>" = "Het is niet gelukt om het bestand te exporteren naar <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Het is niet gelukt om het bestand te importeren van <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Bestand op locatie <em>{0}</em> bestaat niet";
 "Export to..." = "Exporteren naar...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Wilt u de wijzigingen in dit document opslaan?<br> Uw wijzigingen gaan verloren als u ze niet opslaat.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Kan bijlage niet bijvoegen voor PDF-bestand.";
-"Dark Theme not support" = "Donker Thema is niet ondersteund";
+"[Warning] Failed to attach bookmark for PDF file." = "[Waarschuwing] Kan bladwijzer van PDF-bestand niet invoegen.";
+"Dark Theme not support" = "Donker thema is niet ondersteund";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
-"Print with default theme" = "Afdrukken met standaard thema";
+"Print with default theme" = "Afdrukken met standaardthema";
 "Export to PDF successfully." = "Exporteren naar PDF succesvol.";
-"Converting file using Pandoc. This may take some time." = "Bezig met converteren van bestang met Pandoc. Dit kan wat tijd kosten.";
-"Exporting file using Pandoc. This may take some time." = "Bezig met exporteren van bestand met Pandoc. Dit kan wat tijd kosten.";
+"Converting file using Pandoc. This may take some time." = "Bezig met converteren van bestang met Pandoc. Dit kan even duren.";
+"Exporting file using Pandoc. This may take some time." = "Bezig met exporteren van bestand met Pandoc. Dit kan even duren.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Uploaden van afbeeldingen via iPic...";
@@ -121,34 +121,34 @@
 "Do not show this again" = "Niet meer laten zien";
 
 /* Word Count */
-"Minute" = "Minuten";
-"Line" = "Lijnen";
-"Word" = "Woorden";
-"Character" = "Karakters";
+"Minute" = "minuut";
+"Line" = "regel";
+"Word" = "woord";
+"Character" = "karakter";
 
-"Minutes" = "Minuten";
-"Lines" = "Lijnen";
-"Words" = "Woorden";
-"Characters" = "Karakters";
-"In Selection" = "In Selectie";
+"Minutes" = "minuten";
+"Lines" = "regels";
+"Words" = "woorden";
+"Characters" = "karakters";
+"In Selection" = "In selectie";
 "Panel" = "Paneel";
 
 /* Windows Prefernce Panel*/
 "Appearance" = "Uiterlijk";
-"System Native" = "Systeem Standaard";
+"System Native" = "Systeem-eigen";
 "Unibody" = "Unibody";
-"(applied after restart)" = "(toegepast naar herstart)";
+"(applied after restart)" = "(toegepast na een herstart)";
 "Status Bar" = "Statusbalk";
-"Show status bar" = "Weergeef statusbalk";
-"Save & Recover" = "Opslaan & Herstel";
-"Auto Save" = "Automatisch Opslaan";
-"Recover Unsaved Drafts" = "Herstel Niet Opgeslagen Schetsen";
+"Show status bar" = "Geef statusbalk weer";
+"Save & Recover" = "Opslaan & herstel";
+"Auto Save" = "Automatisch opslaan";
+"Recover Unsaved Drafts" = "Herstel niet-opgeslagen concepten";
 "Emoji Autocomplete" = "Emoji Automatisch Aanvullen";
-"Trigger by ESC key" = "Aanroepen door ESC knop";
-"Trigger automatically" = "Automatisch Aanroepen";
-"Default Line Ending" = "Standaard Regeleinde";
+"Trigger by ESC key" = "Aanroepen door middel van de ESC-knop";
+"Trigger automatically" = "Automatisch anroepen";
+"Default Line Ending" = "Standaard regeleinde";
 "Line ending for new file" = "Regeleinde voor nieuw bestand";
-"Spell Check" = "Spelling Controle";
+"Spell Check" = "Spellingscontrole";
 "(support US English only)" = "(ondersteun alleen US English)";
 "Enable spell check" = "Spellingscontrole inschakelen";
 "Auto correct spelling" = "Automatisch spelling corrigeren";
@@ -156,74 +156,74 @@
 "Privacy" = "Privacy";
 "Developer" = "Ontwikkelaar";
 "Update" = "Update";
-"Check Updates" = "Controleer op Updates";
+"Check Updates" = "Controleer op updates";
 "Check updates automatically" = "Controleer automatisch op updates";
 "Advanced Settings" = "Geavanceerde Instellingen";
 "Open Advanced Settings" = "Open Geavanceerde Instellingen";
 "Reset Advanced Settings" = "Herstel Geavanceerde Instellingen";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "Deze functie vereisd de laatste versie van iPic om geïnstalleerd te worden.";
+"This function requires latest version of iPic to be installed." = "Deze functie vereist een installatie van de laatste versie van iPic.";
 "Get iPic" = "Haal iPic op";
 "Cannot Continue…" = "Kan niet doorgaan…";
-"This feature require macOS >= 10.11" = "Deze functionaliteit vereisd macOS >= 10.11";
-"One More Step" = "Nog Één Stap";
+"This feature require macOS >= 10.11" = "Deze functionaliteit vereist macOS >= 10.11";
+"One More Step" = "Nog één stap";
 "Notice" = "Merk op";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Deze functionaliteit vereisd dat iPic geïnstalleerd is, en verwezen afbeeldingsbestanden zullen geüpload worden naar de cloud services via iPic. Merk op dat de standaard cloud service het verwijderen van geüploade bestanden niet ondersteund.";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Deze functionaliteit vereist een installatie van iPic. De afbeeldingen waar naar verwezen wordt zullen geüpload worden naar de cloud-services via iPic. Merk op dat de standaard cloud-service het verwijderen van geüploade bestanden niet ondersteunt.";
 
-"%d Images Failed to Upload." = "%d Afbeeldingen mislukt te uploaden.";
-"%d Succeeded," = "%d Geslaagd, ";
+"%d Images Failed to Upload." = "%d afbeeldingen niet gelukt te uploaden.";
+"%d Succeeded," = "%d geslaagd,";
 "Enable this feature on preferences panel" = "Deze functionaliteit kan bij het voorkeuren paneel ingeschakeld worden";
 "%@ is a file, not a directory" = "%@ is een bestand, niet een map";
 "Copy Images To…" = "Kopieer Afbeeldingen Naar…";
 "Create Folder and Continue" = "Maak map en ga door";
 "Document must be saved first" = "Document moet eerst opgeslagen worden";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kopieert de nieuwe ingevoegde afbeelding naar map op geselecteerd relatief pad, sla eerst het bestand op.";
-"Open Operation Failed" = "Open Operatie Mislukt";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kopieert de nieuw ingevoegde afbeelding naar map op geselecteerd relatief pad, dus sla eerst het bestand op.";
+"Open Operation Failed" = "Open-actie Mislukt";
 
-"Support Documentation" = "Ondersteun Documentatie";
+"Support Documentation" = "Ondersteun documentatie";
 
-"Markdown File" = "Markdown Bestand";
-"Plain Text File" = "Eenvoudig Tekst Bestand";
+"Markdown File" = "Markdownbestand";
+"Plain Text File" = "Bestand met platte tekst";
 "All Files" = "Alle Bestanden";
-"All Supported Formats" = "Alle Ondersteunde Formaten";
-"Discard Changes" = "Veranderingen Verwijderen";
+"All Supported Formats" = "Alle ondersteunde formaten";
+"Discard Changes" = "Veranderingen verwijderen";
 "Discard" = "Verwijderen";
 
 "Menu" = "Menu";
 "Back" = "Terug";
 
 "Contact" = "Contact";
-"Open From..." = "Openen Van...";
+"Open From..." = "Openen van...";
 "Import..." = "Importeren...";
-"Recent Documents" = "Recente Documenten";
+"Recent Documents" = "Recente documenten";
 "Search for" = "Zoeken naar";
 "Clear Recent Documents" = "Recente documenten wissen";
 "File Name" = "Bestandsnaam";
 "Path" = "Pad";
 "Export As..." = "Exporteren Als...";
-"More Formats" = "Meer Formaten";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Voor bestandsformaten onder 'Meer Formaten' is het nodig dat <a class='open-pandoc-guide'>Pandoc geïnstalleerd</a> is.";
+"More Formats" = "Meer formaten";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "De bestandsformaten onder 'Meer formaten' vereisen <a class='open-pandoc-guide'>een installatie van Pandoc</a>.";
 "Something is Wrong…" = "Er is iets fout gegaan…";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Het opslaan van inhoud is om een of andere reden mislukt.<br/>U kunt de inhoud naar een nieuw Typora-venster kopiëren en vervolgens opslaan.<br/>Meer informatie over bugs rapporteren: <ul> <li> <a href='https://support.typora.io/Report-Bugs/'>Rapporteer fouten bij ons</a></li><li><a href='https://support.typora.io/Version-Control//'>Herstel verloren inhoud</a></li></ul>";
-"Copy Content" = "Kopieer Inhoud";
+"Copy Content" = "Kopieer inhoud";
 
 
 "Total" = "Totaal";
-"Word count only support OS X later than 10.10." = "Woord telling ondersteunt alleen OS X later than 10.10.";
-"Indent Size for Code" = "Code inspringen gebaseerd op grootte";
-"Auto wrap long lines" = "Automatisch lange lijnen omwikkelen";
+"Word count only support OS X later than 10.10." = "Het tellen van woorden ondersteunt alleen OS X later than 10.10.";
+"Indent Size for Code" = "Inspringgrootte voor code";
+"Auto wrap long lines" = "Automatisch lange regels afbreken";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Sorry, de huidige versie van Typora kan geen achtergrondkleur afdrukken.\nHet donkere thema wordt nog niet ondersteund voor afdrukken. \n\nKies een licht thema of exporteer dit document naar PDF.";
 "Export to PDF" = "Exporteren naar PDF";
-"Pretty indentation" = "Pretty Indentatie";
-"Update markdown reference for this image" = "Update markdown referentie voor deze afbeelding";
+"Pretty indentation" = "Mooie indentatie";
+"Update markdown reference for this image" = "Update markdownreferentie voor deze afbeelding";
 
 "No special action" = "Geen speciale actie";
 "Copy image to current folder (./)" = "Kopieer afbeelding naar huidide map (./)";
 "Copy image to ./assets" = "Kopieer afbeelding naar ./assets";
-"Copy image to ./${filename}.assets" = "Kopieer afbeelding naar ./${filename}.assets";
+"Copy image to ./${filename}.assets" = "Kopieer afbeelding naar ./${bestandsnaam}.assets";
 "Upload image via iPic" = "Upload afbeelding via iPic";
 "Apply above rules to local images" = "Pas bovenstaande keuzes toe voor lokale afbeeldingen";
 "Apply above rules to online images" = "Pas bovenstaande keuzes toe voor online afbeeldingen";
-"Allow upload images automatically based on YAML settings" = "Sta afbeeldingen uploaden automatisch toe op basis van YAML instellingen";
+"Allow upload images automatically based on YAML settings" = "Sta het uploaden van afbeeldingen automatisch toe op basis van YAML instellingen";

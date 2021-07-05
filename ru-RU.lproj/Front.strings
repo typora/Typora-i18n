@@ -71,7 +71,8 @@
 "Refresh Folder" = "Обновить папку";
 "Sort" = "Сортировка";
 "Group By Folder" = "Группировать по папке";
-"Sort Naturally" = "Естественная сортировка";
+"Sort Naturally (Ascending)" = "Естественная сортировка (по возрастанию)";
+"Sort Naturally (Descending)" = "Естественная сортировка (по убыванию)";
 "Sort by Name (Ascending)" = "Сортировать по имени (по возрастанию)";
 "Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (по возрастанию)";
 "Sort by Name (Descending)" = "Сортировать по имени (по убыванию)";
@@ -84,7 +85,7 @@
 
 /* Status Bar */
 "Toggle Sidebar" = "Переключить боковую панель";
-"Toggle Source Code Mode" = "Включить режим просмотра исходного кода";
+"Toggle Source Code Mode" = "Переключить режим просмотра исходного кода";
 "Exit Source Code Mode" = "Выйти из режима просмотра исходного кода";
 
 "Table of Contents" = "Оглавление";
@@ -154,7 +155,7 @@
 "(Default spell check option)" = "(Опция проверки орфографии по умолчанию)";
 "Failed to load spellcheck module" = "Не удалось загрузить модуль проверки орфографии";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> был включен.";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> активирован.";
 "You could turn it off from `View` menu." = "Можно отключить из меню `Вид`.";
 "The file is too large to render in Typora." = "Файл слишком большой для рендеринга в Typora.";
 "Open in…" = "Открыть в…";
@@ -168,3 +169,10 @@
 "Learn Data Recovery" = "Подробнее о восстановлении данных";
 "Auto refresh on Files Panel cannot be enabled." = "Автоматическое обновление на панели файлов невозможно.";
 "Delete Permanently" = "Удалить навсегда";
+
+
+"Failed to upload images:" = "Не удалось загрузить изображения:";
+"Uploading in progress" = "Идёт загрузка";
+"Successfully uploaded {0} images, {1} failed." = "Успешно загружено изображений — {0}, не удалось загрузить — {1}.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Можно отменить эту операцию позже с помощью команды `Правка` → `Отменить`.";

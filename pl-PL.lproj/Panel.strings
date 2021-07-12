@@ -315,7 +315,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Przepraszamy, ale wystąpił jakiś błąd, a obecna zawartość tekstowa została skopiowana do schowka. Możesz to zgłosić pod adresem <hi@typora.io>, byśmy mogli naprawić ten błąd.";
 "Try Recovery" = "Wypróbuj odzyskiwanie";
-"Other options for Data Recovery" = "Inne opcje odzyskiwania danych";
+"Other Options for Data Recovery" = "Inne opcje odzyskiwania danych";
 
 "When Insert" = "Podczas wstawiania";
 "Upload image" = "Prześlij plik";

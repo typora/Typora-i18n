@@ -314,3 +314,13 @@
 "Export and Overwrite with Previous" = "导出并覆盖上一次导出的文件";
 
 "Emoji and Symbols" = "表情与符号";
+
+"Insert Final New Line On Save" = "保存时在文末添加空行";
+"Hyperlink Actions" = "链接操作";
+"Copy Link Address" = "复制链接地址";
+
+"Insert Paragraph Before" = "在上方插入段落";
+"Insert Paragraph After" = "在下方插入段落";
+"Click" = "点击";
+
+"Export Setting" = "导出设置";

@@ -315,7 +315,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Извините, произошла ошибка, текущее содержимое записи скопировано в буфер обмена. Вы можете сообщить об этом по адресу <hi@typora.io>, чтобы помочь нам исправить эту ошибку.";
 "Try Recovery" = "Попробовать восстановить";
-"Other options for Data Recovery" = "Другие варианты восстановления данных";
+"Other Options for Data Recovery" = "Другие варианты восстановления данных";
 
 "When Insert" = "При вставке";
 "Upload image" = "Загрузить изображение";

@@ -318,7 +318,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "عذرًا ، حدث خطأ ما ، تم نسخ محتوى الكتابة الحالي إلى الحافظة. يمكنك الإبلاغ عن هذا إلى <hi@typora.io> لمساعدتنا في إصلاح هذا الخطأ.";
 "Try Recovery" = "تجربة الاستعادة";
-"Other options for Data Recovery" = "خيارات أخرى لاستعادة البيانات";
+"Other Options for Data Recovery" = "خيارات أخرى لاستعادة البيانات";
 
 "When Insert" = "عند الإدخال";
 "Upload image" = "رفع الصور";

@@ -314,7 +314,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sajnos hiba lépett fel. A dokumentumot a vágólapra másoltuk. Ha bejelenti a hibát a <hi@typora.io> címen, azzal segít nekünk a kijavításában.";
 "Try Recovery" = "Helyreállítás megkísérlése";
-"Other options for Data Recovery" = "Egyéb helyreállítási lehetőségek";
+"Other Options for Data Recovery" = "Egyéb helyreállítási lehetőségek";
 
 "When Insert" = "Beszúráskor";
 "Upload image" = "Kép feltöltése";

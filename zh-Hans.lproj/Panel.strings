@@ -316,7 +316,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
 "Try Recovery" = "尝试恢复";
-"Other options for Data Recovery" = "其他恢复选项";
+"Other Options for Data Recovery" = "其他恢复选项";
 
 "When Insert" = "插入图片时";
 "Upload image" = "上传图片";

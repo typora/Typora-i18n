@@ -320,7 +320,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Beklager, men der opstod en fejl, indholdet der skulle skrives er blevet kopieret til udklipsholderen. Du må gerne rapportere dette til <hi@typora.io> for at hjælpe os til at rette denne fejl.";
 "Try Recovery" = "Prøv genskabelse";
-"Other options for Data Recovery" = "Andre muligheder for genskabelse af data";
+"Other Options for Data Recovery" = "Andre muligheder for genskabelse af data";
 
 "When Insert" = "Ved indsættelse";
 "Upload image" = "Upload billede";

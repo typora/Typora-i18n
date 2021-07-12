@@ -315,7 +315,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
 "Try Recovery" = "Try Recovery";
-"Other options for Data Recovery" = "Other options for Data Recovery";
+"Other Options for Data Recovery" = "Other Options for Data Recovery";
 
 "When Insert" = "When Insert";
 "Upload image" = "Upload image";
@@ -466,3 +466,5 @@
 "End of current section" = "End of current section";
 "Convert TeX formulas to web images" = "Convert TeX formulas to web images";
 "Image Format" = "Image Format";
+
+"Set Pandoc Path" = "Set Pandoc Path";

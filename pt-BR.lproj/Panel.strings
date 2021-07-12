@@ -317,7 +317,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Desculpa, um erro ocorreu, o conteúdo atual foi copiado para a área de transferência. Você pode reportar esse erro para <hi@typora.io> a fim de nos ajudar a corrigir.";
 "Try Recovery" = "Tentar Recuperar";
-"Other options for Data Recovery" = "Outras opções para Recuperação de Dados";
+"Other Options for Data Recovery" = "Outras opções para Recuperação de Dados";
 
 "When Insert" = "Ao Inserir";
 "Upload image" = "Carregar imagem";

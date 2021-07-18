@@ -74,9 +74,8 @@
 "Image Tools" = "Công cụ hình ảnh";
 "Insert Local Images" = "Chèn ảnh từ máy tính";
 "Upload Local Images via iPic" = "Tải ảnh từ máy lên thông qua iPic";
-"When Insert Local Image" = "Khi nào chèn ảnh từ máy tính";
+"When Insert Local Image" = "Khi chèn ảnh từ máy tính";
 "Copy Image File to Folder" = "Sao chép tập tin ảnh vào thư mục";
-"Upload Image via iPic" = "Tải ảnh lên thông qua iPic";
 "Use Image Root Path" = "Sử dụng đường dẫn gốc của ảnh";
 "Line Endings" = "Kiểu kết thúc dòng";
 "Windows Line Endings (CRLF)" = "Kiểu kết thúc dòng Windows (CRLF)";
@@ -238,7 +237,6 @@
 "Copy '%@'" = "Sao chép '%@'";
 "Copy to %@" = "Sao chép tới %@";
 "Copy Image to" = "Sao chép hình ảnh đến";
-"Upload via iPic" = "Tải lên qua iPic";
 "Open Image Location" = "Mở vị trí hình ảnh";
 
 "Learn More" = "Tìm hiểu thêm";
@@ -274,4 +272,44 @@
 "File Results" = "Kết quả tập tin";
 
 "Insert Table" = "Chèn bảng";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Chèn hình ảnh";
+"Allow Magnification" = "Cho phép phóng to";
+
+"Move Row Up" = "Dịch chuyển dòng lên";
+"Move Row Down" = "Dịch chuyển dòng xuống";
+"Move Column Left" = "Dịch chuyển cột sang trái";
+"Move Column Right" = "Dịch chuyển cột sang phải";
+
+"Zoom Image" = "Phóng to hình ảnh";
+"Zoom Image to %@" = "Phóng to hình ảnh đến %@";
+
+"Copy as Plain Text" = "Sao chép dưới dạng văn bản thô";
+
+"Selection" = "Lựa chọn";
+"Start Speaking" = "Bắt đầu phát âm";
+"Stop Speaking" = "Dừng phát âm";
+"Check Updates" = "Kiểm tra cập nhật";
+
+"HTML (without Styles)" = "HTML (không có Styles)";
+
+"Highlight Current Header" = "Làm nổi bật tiêu đề hiện tại";
+"Expand All" = "Mở rộng tất cả";
+"Collapse All" = "Thu gọn tất cả";
+"Collapsible Outline" = "Thu gọn dàn bài";
+"Flat Outline" = "Mở rộng dàn bài";
+"Articles (List View)" = "Bài viết (Xem kiểu danh sách)";
+"File Tree (Tree View)" = "Cây thư mục (Xem kiểu cây thư mục)";
+"Filter" = "Bộ lọc";
+
+"Upload Image" = "Tải hình ảnh lên";
+"Upload All Local Images" = "Tải lên tất cả hình ảnh nội bộ";
+"Open Image in Browser" = "Mở hình ảnh bằng trình duyệt";
+"Copy Image" = "Sao chép hình ảnh";
+
+"More Actions" = "Nhiều câu lệnh khác";
+"Get Info" = "Hiện thông tin";
+
+"Export with Previous" = "Xuất với định dạng đã chọn trước đó";
+"Export and Overwrite with Previous" = "Xuất và ghi đè với định dạng đã chọn trước đó";
+
+"Emoji and Symbols" = "Emoji và biểu tượng";

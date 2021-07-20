@@ -72,12 +72,12 @@
 "Refresh Folder" = "Làm mới thư mục";
 "Sort" = "Sắp xếp";
 "Group By Folder" = "Nhóm bởi thư mục";
-"Sort Naturally" = "Sắp xếp tự nhiên";
-"Sort by Name (Ascending)" = "Sắp xếp theo tên (Ascending)";
-"Sort by Modification Date (Ascending)" = "Sắp xếp theo ngày chỉnh sửa (Ascending)";
-"Sort by Name (Descending)" = "Sắp xếp theo tên (Descending)";
-"Sort by Modification Date (Descending)" = "Sắp xếp theo ngày chỉnh sửa (Descending)";
-"Recent Locations" = "Vị trí gần đây";
+"Sort Naturally (Ascending)" = "Sắp xếp tự nhiên (Tăng dần)";
+"Sort Naturally (Descending)" = "Sắp xếp tự nhiên (Giảm dần)";
+"Sort by Name (Ascending)" = "Sắp xếp theo tên (Tăng dần)";
+"Sort by Modification Date (Ascending)" = "Sắp xếp theo ngày chỉnh sửa (Tăng dần)";
+"Sort by Name (Descending)" = "Sắp xếp theo tên (Giảm dần)";
+"Sort by Modification Date (Descending)" = "Sắp xếp theo ngày chỉnh sửa (Giảm dần)";
 "Location" = "Vị trí";
 "Switch File List/Tree View" = "Chuyển đổi kiểu xem Danh sách/Cây tập tin";
 "No Files Available" = "Không có tệp nào";
@@ -156,7 +156,7 @@
 "(Default spell check option)" = "(Tuỳ chọn kiểm tra chính tả mặc định)";
 "Failed to load spellcheck module" = "Không thể tải module kiểm tra chính tả";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> đã được bật.";
 "You could turn it off from `View` menu." = "Bạn có thể tắt nó từ menu `Xem`.";
 "The file is too large to render in Typora." = "Tập tin quá lớn để hiển thị trong Typora.";
 "Open in…" = "Mở trong…";
@@ -168,3 +168,12 @@
 "The file is read-only, or you do not have right permissions to modify the file." = "Tập tin ở chế độ chỉ đọc (read-only) hoặc bạn không có quyền truy cập để chỉnh sửa tập tin.";
 
 "Learn Data Recovery" = "Tìm hiểu về khôi phục dữ liệu";
+"Auto refresh on Files Panel cannot be enabled." = "Không thể bật tự động làm tươi trong danh sách tập tin";
+"Delete Permanently" = "Xoá vĩnh viễn";
+
+
+"Failed to upload images:" = "Không thể tải lên hình ảnh:";
+"Uploading in progress" = "Đang tải lên";
+"Successfully uploaded {0} images, {1} failed." = "Đã tải lên {0} hình ảnh thành công, {1} thất bại.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Bạn có thể hoàn tác cho thao tác vừa rồi qua lệnh `Chỉnh sửa` → `Hoàn tác`.";

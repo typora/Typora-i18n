@@ -59,7 +59,7 @@ Feel free to contact us via <hi@typora.io>
 - Portuguese (Portugal) by [jcamilo93](https://github.com/jcamilo93)
 - Galician by [nunhes](https://github.com/nunhes)
 - Indonesia by [snatalius](https://github.com/snatalius)
-- Vietnamese by [1234hdpa](https://github.com/1234hdpa)
+- Vietnamese by [mwolfinspace](https://github.com/mwolfinspace)
 - Swedish by [Sandskär](https://github.com/passar), [FelixZY](https://github.com/FelixZY)
 - Catalan by [jmigual](https://github.com/jmigual)
 - Danish by [archfrog](https://github.com/archfrog)

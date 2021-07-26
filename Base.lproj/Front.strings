@@ -176,3 +176,9 @@
 "Successfully uploaded {0} images, {1} failed." = "Successfully uploaded {0} images, {1} failed.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "You could undo this operation later via `Edit` → `Undo`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> style has been turned on."
+"You can right click titlebar to popup application menu." = "You can right click titlebar to popup application menu.";

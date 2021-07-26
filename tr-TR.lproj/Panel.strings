@@ -317,7 +317,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Üzgünüz, bir hata oluştu, son yazılan içerik panoya kopyalandı. Bu hatayı düzeltmemiz için <hi@typora.io> adresine bildirerek bize yardım edebilirsiniz.";
 "Try Recovery" = "Kurtarmayı Dene";
-"Other options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
+"Other Options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
 
 "When Insert" = "Yerleştirildiğinde";
 "Upload image" = "Resim yükle";

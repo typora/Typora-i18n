@@ -1,11 +1,11 @@
-/* 
+/*
   Front.strings
   Typora
 
  by hi@typora.io
- 
- Dutch translations by Melle Dijkstra
- 
+
+ Dutch translations by Melle Dijkstra & André van Delft
+
 */
 
 /* Common */
@@ -27,7 +27,7 @@
 "Search" = "Zoeken";
 "Replace" = "Vervangen";
 "All" = "Alle";
-"Search text not found in article" = "Zoektekst niet gevonden in artikel";
+"Search text not found in article" = "Tekst niet gevonden in artikel";
 "search text" = "zoek tekst";
 
 /* Quick Open */
@@ -50,47 +50,47 @@
 
 /* Math */
 "Edit" = "Aanpassen";
-"Delete Math" = "Wiskunde wissen";
+"Delete Math" = "Verwijder wiskunde";
 "Preview" = "Voorbeeld";
 
 /* Sidebar */
 "Articles" = "Artikelen";
 "Outline" = "Overzicht";
 "Files" = "Bestanden";
-"Switch to File List view" = "Schakel naar bestandslijst weergave";
-"Switch to File Tree view" = "Schakel naar boomstructuurweergave";
+"Switch to File List view" = "Schakel naar lijstweergave";
+"Switch to File Tree view" = "Schakel naar boomweergave";
 "Switch to Outline view" = "Schakel naar overzichtsweergave";
 "Close sidebar" = "Sluit zijbalk";
 "Loading" = "Laden";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Geselecteerde mappen bevatten te veel bestanden. \nSchakel over naar <a id='switch-to-tree-on-oversize'>Boomstructuurweergave</a> voor betere prestaties.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Geselecteerde mappen bevatten te veel bestanden. \nSchakel over naar <a id='switch-to-tree-on-oversize'>boomweergave</a> voor betere prestaties.";
 "New File" = "Nieuw bestand";
 "Unpin Outline Panel" = "Overzichtspaneel losspelden";
 "Open Folder..." = "Open Map...";
 "Action" = "Actie";
 "Close Sidebar Menu" = "Sluit zijbalk";
-"Reveal in Finder" = "Openen in Finder";
-"Reveal in File Explorer" = "Openen in Bestandsverkenner";
+"Reveal in Finder" = "Weergeven in Finder";
+"Reveal in File Explorer" = "Weergeven in verkenner";
 "Refresh Folder" = "Map verversen";
 "Sort" = "Sorteren";
-"Group By Folder" = "Groeperen op Map";
+"Group By Folder" = "Groeperen op map";
 "Sort Naturally" = "Natuurlijk sorteren";
-"Sort by Name (Ascending)" = "Sorteren op naam (Ascending)";
-"Sort by Modification Date (Ascending)" = "Sorten op wijzigingsdatum (Ascending)";
-"Sort by Name (Descending)" = "Sorteren op naam (Descending)";
-"Sort by Modification Date (Descending)" = "Sorten op wijzigingsdatum (Descending)";
+"Sort by Name (Ascending)" = "Sorteren op naam (A-Z)";
+"Sort by Modification Date (Ascending)" = "Sorten op wijzigingsdatum (oudste eerst)";
+"Sort by Name (Descending)" = "Sorteren op naam (Z-A)";
+"Sort by Modification Date (Descending)" = "Sorten op wijzigingsdatum (nieuwste eerst)";
 "Location" = "Locatie";
-"Switch File List/Tree View" = "Schakel bestands lijst/boom weergave";
+"Switch File List/Tree View" = "Schakel tussen lijstweergave/boomweergave";
 "No Files Available" = "Geen bestanden beschikbaar";
 "No Folder is Opened." = "Geen map is geopend.";
 "Outline is Empty." = "Overzicht is leeg.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Open/sluit zijbalk";
-"Toggle Source Code Mode" = "Open/sluit Broncode Modus";
+"Toggle Source Code Mode" = "Open/sluit broncode-modus";
 "Exit Source Code Mode" = "Sluit Broncode Modus";
 
 "Table of Contents" = "Inhoudsopgave";
-"Empty Diagram" = "Leeg Diagram";
+"Empty Diagram" = "Leeg diagram";
 "Input Math TeX here" = "Voer Math TeX hier in";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Graag de referentie voetnoot <b>{0}</b> definiëren met syntax <a>[^{1}]: www.example.com</a>";
@@ -103,15 +103,15 @@
 "Failed to rename file" = "Hernoemen van bestand mislukt";
 "Folder does not exist at %@" = "Map bevind zich niet op deze positie: %@";
 "File with the same name already exists at target path" = "Bestand met dezelfde naam bestaat al op doellocatie";
-"Apply to All" = "Toepassen op alles";
+"Apply to All" = "Overal toepassen";
 "Overwrite" = "Overschrijven";
 "Stop" = "Stop";
 "back to document" = "terug naar document";
-"Failed to load file" = "Mislukt om bestand te laden";
-"Save File Failed!" = "Mislukt om bestand op te slaan!";
-"Cannot open folder {0}" = "Kan map niet openen {0}";
+"Failed to load file" = "Het is niet gelukt om het bestand te laden";
+"Save File Failed!" = "Het is niet gelukt om het bestand op te slaan!";
+"Cannot open folder {0}" = "Kan map {0} niet openen";
 
-"File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Herladen van schijf?";
+"File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Herladen van schijf ?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Doorgaan met het verplaatsen en overschrijven van bestaande bestand(en) ?";
 
 "Rename Failed" = "Hernoemen mislukt";
@@ -120,8 +120,8 @@
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Succesvol {0} afbeeldingen geüpload.";
-"Failed to upload image. Error Message:" = "Mislukt om afbeelding te uploaden. Foutmelding:";
-"Failed to Copy Image to Target Folder." = "Mislukt om afbeelding te kopiëren naar doelmap.";
+"Failed to upload image. Error Message:" = "Afbeelding uploaden mislukt. Foutmelding:";
+"Failed to Copy Image to Target Folder." = "Afbeelding kopiëren naar doelmap mislukt.";
 "Select Container Folder" = "Selecteer de containermap";
 
 "Saved" = "Opgeslagen";
@@ -131,7 +131,7 @@
 "replace with" = "vervangen met";
 /* search option */
 "Case Sensitive" = "Hoofdlettergevoelig";
-"Whole Word" = "Heel Woord";
+"Whole Word" = "Heel woord";
 
-"input image URL" = "voer afbeeldings URL in";
-"Select image from local file" = "Selecteer afbeelding van locale schijf";
+"input image URL" = "voer afbeeldings-URL in";
+"Select image from local file" = "Selecteer afbeelding van lokaal bestand";

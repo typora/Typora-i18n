@@ -16,17 +16,18 @@
 "Seamless window only support OS X later than 10.10." = "Бесшовный стиль поддерживается только в OS X не ниже версии 10.10.";
 "Themes" = "Темы";
 "Open Theme Folder" = "Открыть каталог тем";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите `справка`->`Быстрый старт`. Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Для знакомства с кратким руководством смотрите пункт `Справка` -> `Quick Start` (`Быстрый старт`). Посетите http://theme.typora.io для просмотра дополнительных тем и инструкций.";
 "Word Count" = "Количество слов";
 "Always Show Word Count" = "Всегда показывать количество слов";
 "Font Size" = "Размер шрифта";
 "Auto ( Recommended )" = "Авто (рекомендуется)";
 "Customized" = "Индивидуальный";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Если используется индивидуальный размер шрифта, фактический размер будет зависеть от базового размера шрифта и стиля CSS.";
- "Left Panel" = "Боковая панель";
+"Left Panel" = "Боковая панель";
 "Show Outline Panel by Default" = "Отображать по умолчанию панель оглавления";
 "Collapsible Outline on Left Panel" = "Сворачиваемое оглавление в боковой панели";
 "Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Отредактированные файлы будут сохранены без запроса при переключении файлов в левой панели. \nЭта функция включается, если \"Запрос о сохранении изменений при закрытии документов\" отключен в настройках.";
 "Language" = "Язык";
 "System Language" = "Язык системы";
 
@@ -52,10 +53,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Следующие настройки будут применены после перезапуска.)";
 "Syntax Support" = "Поддержка синтаксиса";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Формула  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Подстрочный    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Надстрочный ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Подсветка     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Формула (например: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Подстрочный (например: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Надстрочный (например: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Подсветка (например: ==key==)";
 "Diagrams" = "Диаграммы";
 "(Sequence, Flowchart and Mermaid)" = "интерактивные, диаграммы последовательностей и др.";
 "Syntax Preference" = "Синтаксические предпочтения";
@@ -82,13 +83,13 @@
 
 /* Pandoc Import Panel */
 "Importing..." = "Импорт...";
-"Importing in progress..." = "Идет импорт...";
+"Importing in progress..." = "Идёт импорт...";
 "Converting file with Pandoc. This may take some time." = "Преобразование файла с Pandoc. Это может занять некоторое время.";
 "Abort" = "Прервать";
 
 /* Pandoc Export Panel */
 "Exporting..." = "Экспорт...";
-"Exporting in progress..." = "Идет экспорт...";
+"Exporting in progress..." = "Идёт экспорт...";
 "Converting file with Pandoc. This may take some time." = "Преобразование файла с Pandoc. Это может занять некоторое время.";
 
 /* Export & Import */
@@ -112,9 +113,7 @@
 "Converting file using Pandoc. This may take some time." = "Преобразование файла с помощью Pandoc. Это может занять некоторое время.";
 "Exporting file using Pandoc. This may take some time." = "Экспорт файла с помощью Pandoc. Это может занять некоторое время.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Загрузка изображений через iPic...";
-"Uploading in progress…" = "Выполняется загрузка...";
+"Uploading in progress…" = "Идёт загрузка...";
 "Do not show this again" = "Не показывать это снова";
 
 /* Word Count */
@@ -164,11 +163,11 @@
 "This feature require macOS >= 10.11" = "Эта функция требует macOS версии >= 10.11";
 "One More Step" = "Ещё один шаг";
 "Notice" = "Уведомление";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Это требует установки iPic, и упомянутые файлы изображений будут загружаться в облачные сервисы через iPic. Также обратите внимание, что облачный сервис по умолчанию не поддерживает удаление загруженного изображения.";
 
 "%d Images Failed to Upload." = "Не удалось загрузить изображений: %d.";
 "%d Succeeded," = "успешно: %d, ";
 "Enable this feature on preferences panel" = "Включить эту функцию на панели настроек";
+"The option `%@` must be enabled first to automatically upload images." = "Для автоматической загрузки изображений необходимо включить опцию `%@`.";
 "%@ is a file, not a directory" = "%@ — файл, не каталог";
 "Copy Images To…" = "Копировать изображения в…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora пытается скопировать недавно вставленное изображение в папку %@ в соответствии с настройкой YAML-заголовка. Но целевая папка не существует, создать её?";
@@ -219,10 +218,9 @@
 "Copy image to current folder (./)" = "Скопировать изображение в текущую папку (./)";
 "Copy image to ./assets" = "Скопировать изображение в ./assets";
 "Copy image to ./${filename}.assets" = "Скопировать изображение в ./${filename}.assets";
-"Upload image via iPic" = "Загружать изображения через iPic";
 "Apply above rules to local images" = "Применить правила выше для локальных изображений";
 "Apply above rules to online images" = "Применить правила выше для онлайн-изображений";
-"Allow upload images automatically based on YAML settings" = "Разрешить загрузку изображений автоматически на основе настроек YAML";
+"Allow upload images automatically based on YAML settings" = "Разрешить автоматическую загрузку изображений на основе настроек YAML";
 
 "Learn More" = "Узнать больше";
 "Whitespace / Line Break" = "Пробелы / Разрыв строки";
@@ -274,15 +272,14 @@
 "Move %@" = "Переместить %@";
 "Delete %@" = "Удалить %@";
 
-"Turn off Typewriter / Focus Mode" = "Отключить режим пишущей машинки / фокусировки";
-"Typewriter / Focus Mode have been turned off." = "Режим пишущей машинки / фокусировки отключен.";
+"Turn off Typewriter / Focus Mode" = "Отключить режим печатной машинки / фокусировки";
+"Typewriter / Focus Mode have been turned off." = "Режим печатной машинки / фокусировки отключен.";
 
 "Reading Speed" = "Скорость чтения";
 "Auto" = "Автоматическая";
 "words / min" = "слов/минуту";
 
 "Reset to Default" = "Восстановление значений по умолчанию";
-"Select custom folder" = "Выбрать папку";
 "120  words/minute (Slow)" = "120 слов/минуту (Медленно)";
 "240  words/minute (Medium)" = "240 слов/минуту (Средне)";
 "382  words/minute (Fast)" = "382 слова/минуту (Быстро)";
@@ -295,7 +292,7 @@
 "Downloading Updates…" = "Загрузка обновлений…";
 "Checking Updates…" = "Проверка обновлений…";
 "Check Update Failed" = "Не удалось проверить обновления";
-"You are update to date!" = "У вас последняя версия!";
+"You're up to date!" = "У вас последняя версия!";
 "Latest version is $1, your version is $2" = "Последняя версия — $1, установленная — $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Эти параметры также можно изменить в меню \"Правка → Пробелы и разрывы строк\"";
 "Auto escape image URL when insert" = "Автоматическое экранирование URL-адреса изображения при вставке";
@@ -315,8 +312,157 @@
 "Do not show this message again" = "Не показывать это сообщение снова";
 
 "Page Break Between Top Headings" = "Разрыв страницы между разделами верхнего уровня";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Вы можете установить шаблоны цитат в Системных настройках → Клавиатура → Текст. Для применения нового шаблона потребуется перезагрузка программы.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Извините, произошла ошибка, текущее содержимое записи скопировано в буфер обмена. Вы можете сообщить об этом по адресу <hi@typora.io>, чтобы помочь нам исправить эту ошибку.";
 "Try Recovery" = "Попробовать восстановить";
-"Other options for Data Recovery" = "Другие варианты восстановления данных";
+"Other Options for Data Recovery" = "Другие варианты восстановления данных";
+
+"When Insert" = "При вставке";
+"Upload image" = "Загрузить изображение";
+"e.g: %@" = "например: %@";
+"Test Uploader" = "Протестировать загрузку";
+"Validating" = "Проверка загрузки изображения";
+"Validation Failed" = "Проверка не удалась";
+"Validation Succeed" = "Успешная проверка";
+"Testing image uploading using command:" = "Тестирование загрузки изображений с помощью команды:";
+"Running… Waiting for results." = "Запуск… В ожидании результатов.";
+"Output from the console:" = "Вывод в консоли:";
+"Error from the console:" = "Ошибка в консоли:";
+"Failed to fetch uploaded image from command output." = "Не удалось получить загруженное изображение из вывода команды.";
+"Successfully get uploaded image url." = "Успешно получен URL загруженного изображения.";
+"Image Uploader" = "Загрузчик изображений";
+"Instructions" = "Инструкции";
+"Download %@" = "Загрузка %@";
+"Image Upload Setting" = "Настройка загрузки изображений";
+"Please set an image uploader in Preferences panel before using this function." = "Пожалуйста, установите загрузчик изображений на панели настроек перед использованием этой функции.";
+"Download or Upgrade" = "Загрузить или обновить";
+"Open Config File" = "Открыть файл конфигурации";
+"Command" = "Команда";
+"PicGo Path" = "Путь к PicGo";
+"Path of PicGo binary" = "Путь к исполняемому файлу PicGo";
+"Executable" = "Исполняемый файл";
+"Checking" = "Проверка";
+"Download" = "Скачать";
+"Agree and Download" = "Принять и загрузить";
+"Download and Reinstall" = "Скачать или переустановить";
+"Loading PicGo-Core License" = "Загрузка лицензии PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Не удалось получить установленную версию PicGo-Core (командная строка)";
+"You have the latest PicGo-Core (CLI)" = "У вас установлена последняя версия PicGo-Core (CLI)";
+"Newer version is available" = "Доступна новая версия";
+
+"Downloading…" = "Скачивание…";
+"Unzipping…" = "Распаковка…";
+"Finished" = "Завершено";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora запустит стороннее приложение с путями к файлам всех локальных изображений. Загрузчик изображений и облачное хранилище получат доступ к вашим локальным изображениям. Хотите продолжить?";
+
+"Export operation finished successfully." = "Экспорт успешно завершен.";
+
+"Shortcut Keys" = "Сочетания клавиш";
+"Custom Shortcut Keys" = "Пользовательские сочетания клавиш";
+
+"Theme" = "Тема";
+"Light Theme" = "Светлая тема";
+"Dark Theme" = "Тёмная тема";
+"Use separate theme in dark mode" = "Использовать отдельную тему в тёмном режиме";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Поддерживается системами macOS ≥ 10.15 или Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Преобразовать -- в – (обычное тире), и --- в — (длинное тире)";
+"Convert -- and --- to — (em dash)" = "Преобразовать -- и --- в — (длинное тире)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Можно установить шаблоны цитирования в Системных настройках → Клавиатура → Текст. После изменения потребуется перезагрузить Typora.";
+
+
+"Paper Size" = "Размер бумаги";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Таблоид";
+"Page Break" = "Разрыв страницы";
+"Page Break Between Top Headings" = "Разрыв страницы между верхними заголовками";
+"Header" = "Header";
+"Footer" = "Footer";
+"Author" = "Автор";
+"Append in <head />" = "Добавить в <head />";
+"Append in <body />" = "Добавить в <body />";
+"Include Outline Sidebar" = "Включить боковую панель";
+"Width" = "Ширина";
+"Command" = "Команда";
+"Show Save File Dialog" = "Показать диалог сохранения";
+"File Extensions for Export" = "Расширения файлов для экспорта";
+"Arguments" = "Аргументы";
+"Extra Arguments" = "Дополнительные аргументы";
+"LaTeX Engine" = "Движок LaTeX";
+"Template" = "Шаблон";
+"Empty" = "Empty";
+"Style Reference" = "Ссылка на стиль";
+"Custom CSS" = "Пользовательский CSS";
+"Chapter Level" = "Уровень заголовка";
+"Default Folder for Exported File" = "Папка по умолчанию для экспортированного файла";
+"Same folder with current file" = "Та же папка с текущим файлом";
+"Custom location" = "Пользовательское местоположение";
+"(Auto Detect)" = "(Автоопределение)";
+"After Export" = "После экспорта";
+"Open exported file location" = "Открыть местоположение экспортированного файла";
+"Open exported file" = "Открыть экспортированный файл";
+"Custom" = "Настроить";
+"None" = "Нет";
+"Default" = "По умолчанию";
+"Margin" = "Отступ";
+"Margin Left" = "Отступ слева";
+"Margin Right" = "Отступ справа";
+"Margin Top" = "Отступ сверху";
+"Margin Bottom" = "Отступ снизу";
+"Width x Height" = "Ширина x Высота";
+"Add From a Template" = "Добавить из шаблона";
+"Delete this export option ?" = "Удалить данный параметр?";
+"Add" = "Добавить";
+"Delete" = "Удалить";
+"Rename" = "Переименовать";
+"Move Down" = "Переместить вниз";
+"Move Up" = "Переместить вверх";
+"Pandoc Path" = "Путь к Pandoc";
+"Select" = "Выбрать";
+"Target Format" = "Целевой формат";
+"auto detect based on target file path" = "автоматическое обнаружение на основе пути целевого файла";
+"Target File Extensions (separate by whitespace)" = "Расширения целевых файлов (пробел для разделения)";
+"e.g: .text .asciidoc or leave this empty" = "например: .text, .asciidoc или оставьте пустым";
+"Raw Type" = "Необработанный тип";
+"Auto" = "Автоматически";
+"Show Save File Dialog" = "Показать диалог сохранения";
+"Do not popup save file dialog" = "Не всплывать диалоговое окно сохранения файла";
+"Select file path to save" = "Выберите путь к файлу для сохранения";
+"Select folder path to save" = "Выберите путь к папке для сохранения";
+"PDF Engine" = "Движок PDF";
+"Show command output" = "Показать вывод команды";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Экспорт и перезапись с предыдущим\" перезапишет файл в %@, продолжим?";
+"Command Arguments:" = "Аргументы команды:";
+"This beta version of Typora is expired, please download and install a newer version." = "Эта бета-версия Typora истекла, пожалуйста, загрузите и установите новую версию.";
+"Current Theme" = "Текущая тема";
+"After Export" = "После экспорта";
+"Run command" = "Выполнить команду";
+"Run command after export failed" = "Выполнить команду после неудачного экспорта";
+"Read and overwrite export settings from YAML front matters" = "Чтение и перезапись параметров экспорта из заголовков YAML";
+"Append Extra Content (HTML)" = "Добавить дополнительное содержимое (HTML)";
+"Change this option to specify a separated theme for export." = "Измените этот параметр, чтобы указать отдельную тему для экспорта.";
+"Dark theme is not supported." = "Тёмная тема не поддерживается.";
+
+"Markdown Variants" = "Варианты Markdown";
+"Original Unextended Markdown" = "Оригинальный нерасширенный Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark с расширениями Pandoc";
+"Line Wrap" = "Перенос строк";
+"Hard line wrap" = "Жёсткий перенос строк";
+"Text Column Width" = "Ширина текстовой колонки";
+"Auto (based on current OS)" = "Авто (зависит от используемой ОС)";
+"Indent" = "Отступ";
+"Preserve tabs" = "Сохранять табуляцию";
+"2 spaces per tab" = "2 пробела в 1 табе";
+"3 spaces per tab" = "3 пробела в 1 табе";
+"4 spaces per tab" = "4 пробела в 1 табе";
+"Unicode Characters" = "Символы Юникода";
+"Use only ASCII characters in output" = "Использовать в выводе только символы ASCII";
+"Use reference-style links rather than inline links" = "Используйте обычные ссылки вместо инлайн-ссылок";
+"Footnotes and References Location" = "Расположение сносок и ссылок";
+"End of document" = "Конец документа";
+"End of current (top-level) block" = "Конец текущего (верхнего уровня) блока";
+"End of current section" = "Конец текущего раздела";
+"Convert TeX formulas to web images" = "Преобразовывать формулы TeX в веб-изображения";
+"Image Format" = "Формат изображения";

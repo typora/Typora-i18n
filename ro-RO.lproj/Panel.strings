@@ -1,0 +1,469 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ Romanian translation by mooyeee@protonmail.com
+ */
+
+/* Preference Panel */
+"Preferences" = "Preferințe";
+
+/* General Panel */
+"General" = "Generale";
+"Window Style" = "Stiluri Ferestre";
+"Classic" = "Clasic";
+"Seamless" = "Transparent";
+"Seamless window only support OS X later than 10.10." = "Ferestrele transparente sunt suportate doar de OS X de la 10.10.";
+"Themes" = "Teme";
+"Open Theme Folder" = "Deschide Folder Teme";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Verificați `Ajutor`->`Pornire Rapidă` pentru o scurtă introducere. Vizitați http://theme.typora.io pentru a obține mai multe teme sau instrucțiuni.";
+"Word Count" = "Contor de Cuvinte";
+"Always Show Word Count" = "Arată Întotdeauna Contorul de Cuvinte";
+"Font Size" = "Dimensiune Font";
+"Auto ( Recommended )" = "Auto ( Recomandat )";
+"Customized" = "Particularizat";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Dacă folosiți un font particularizat, dimensiunea actuala a fontului depinde de dimensiunea fontului de bază si de stilul css.";
+"Left Panel" = "Panou Stânga";
+"Show Outline Panel by Default" = "Afișează Panou Schiță Implicit";
+"Collapsible Outline on Left Panel" = "Schiță Restrângibilă în Panou Stânga";
+"Save without asking when\nswitch files on side panel" = "Salvează fără să se întrebe când\ndeschizi alte fișiere în panoul lateral";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Fișierele editate vor fi salvate fără să se întrebe când deschizi alte fișiere în panoul lateral. \nCând \"Întreabă dacă trebuie salvate modificările când închizi un document\" este dezactivat în Preferințe de Sistem, această opțiune este mereu activă.";
+"Language" = "Limbă";
+"System Language" = "Limba Sistemului";
+
+/* Editor Panel */
+"Editor" = "Editor";
+"Indent Size on Save" = "Indentează Când Salvezi";
+"only apply to quotes and lists created from menu bar or hybrid view" = "Aplică doar ghilimelelor și listelor create din bara de meniu sau din vizualizarea hibridă";
+"Trigger Autocomplete without ESC key for" = "Declanșează completarea automată fară apăsarea tastei ESC";
+"Emoji (e.g. :smile:)" = "Emoji (de ex. :smile:)";
+"Images Insert" = "Inserare Imagini";
+"Use relative path if possible" = "Folosește calea relativă dacă e posibil";
+"Auto Pair" = "Împerechere Automată";
+"Auto pair brackets and quotes" = "Împerechere Automată paranteze și ghilimele";
+"Auto pair common Markdown syntax" = "Împerechere Automată sintaxa comună Markdown";
+"Live Rendering" = "Randare În Direct";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Arată codul sursă pentru blocuri simple\n(inclusiv titluri, etc.) în focalizare";
+"Default Copy Behavior" = "Comportament Implicit Copiere";
+"Copy Markdown source as plain text" = "Copiază codul Markdown ca text simplu";
+"Typewriter Mode" = "Mod Mașină de Scris";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Menține mereu cursorul de text în mijlocul ecranului\ncând modul Mașină de Scris este activ";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Preferințele următoare vor fi aplicate după repornire.)";
+"Syntax Support" = "Suport Sintaxă";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Matematică În Linie  ( de ex: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Indice    ( de ex: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Exponent ( de ex: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Evidențiere     (de ex: ==key==)";
+"Diagrams" = "Diagrame";
+"(Sequence, Flowchart and Mermaid)" = "(Secvenţă, Schemă Logică și Mermaid)";
+"Syntax Preference" = "Preferințe Sintaxă";
+"(only applies to styles created from menubar or hybrid view)" = "(se aplică doar stilurilor create din bara de meniu sau din vizualizarea hibridă)";
+"Strict Mode" = "Mod Strict";
+"(more strict to GFM spec)" = "(mai strict față de specificațiilor GFM)";
+"Heading Style" = "Stil Titluri";
+"Unordered List" = "Listă Neordonată";
+"Ordered List" = "Listă Ordonată";
+"Code Fences" = "Bloc de Cod";
+"Display line numbers for code fences" = "Afișează numărul de linii pentru blocurile de cod";
+"Math Blocks" = "Bloc Matematic";
+"Auto Numbering Math Equations" = "Numără în mod automat ecuațiile matematice";
+
+/* Security Panel */
+"Security" = "Securitate";
+"Enable Debug" = "Activează Depanarea";
+"Send Anonymous Usage Info" = "Trimite Informații de Utilizare Anonime";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Pandoc este necesar pentru a continua...";
+"Follow instructions to install Pandoc" = "Urmariți instrucțiunile pentru a instala Pandoc";
+"Cancel" = "Anulează";
+
+/* Pandoc Import Panel */
+"Importing..." = "Se importă...";
+"Importing in progress..." = "Importare în desfăşurare...";
+"Converting file with Pandoc. This may take some time." = "Se face conversia fișierelor cu Pandoc. Acest proces poate dura un timp.";
+"Abort" = "Abandonare";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Se exportă...";
+"Exporting in progress..." = "Exportare în desfăşurare...";
+"Converting file with Pandoc. This may take some time." = "Se face conversia fișierelor cu Pandoc. Acest proces poate dura un timp.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc este necesar pentru a importa fișiere cu acest format";
+"Check help->Install and use Pandoc from menubar for detail" = "Verificați Ajutor->Instalează și folosește Pandoc din bara de meniu pentru detalii";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Importarea și unele caracteristici a exportării necesită <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) instalat.";
+"Follow Instructions to Install/Update Pandoc" = "Urmăriți instrucţiunile pentru a Instala/Actualiza Pandoc";
+"Export Failed" = "Export Nereușit";
+"Import Failed" = "Import Nereușit";
+"Generated Image too Large" = "Imaginea generată este prea mare";
+"Failed to export file to <em>{0}</em>" = "Exportarea fișierului în <em>{0}</em> nu a reușit";
+"Failed to import file from <em>{0}</em>" = "Importarea fișierului din <em>{0}</em> nu a reușit";
+"File does not exist at <em>{0}</em>" = "Fișierul nu există la <em>{0}</em>";
+"Export to..." = "Exportează în...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Doriți să salvați modificările facute acestui document ?<br> Modificările vor fi pierdute dacă nu salvați.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Avertisment] Atașarea marcajului fișierului PDF nu a reușit.";
+"Dark Theme not support" = "Tema întunecată nu este suportată";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Ne pare rău, versiunea actuală de Typora nu imprimă culoarea de fundal pe PDF-urile exportate, Deci tema întunecată nu este încă suportată pentru exportarea PDF. \nVă rugăm să alegeți o temă luminoasă sau alegeți \"Imprimă cu tema implicita\"";
+"Print with default theme" = "Imprimă cu tema implicita";
+"Export to PDF successfully." = "Exportarea în PDF a avut succes.";
+"Converting file using Pandoc. This may take some time." = "Se face conversia fișierelor cu Pandoc. Acest proces poate dura un timp.";
+"Exporting file using Pandoc. This may take some time." = "Se exportează cu Pandoc. Acest proces poate dura un timp.";
+
+"Uploading in progress…" = "Încărcare în desfășurare…";
+"Do not show this again" = "Nu mai arăta acest lucru";
+
+/* Word Count */
+"Minute" = "Minut";
+"Line" = "Linie";
+"Word" = "Cuvânt";
+"Character" = "Caracter";
+
+"Minutes" = "Minute";
+"Lines" = "Linii";
+"Words" = "Cuvinte";
+"Characters" = "Caractere";
+"In Selection" = "În Selecție";
+"Panel" = "Panou";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Aspect";
+"System Native" = "Nativ Sistemului";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(necesită repornirea programului)";
+"Status Bar" = "Bară de Stare";
+"Show status bar" = "Arată Bară de Stare";
+"Save & Recover" = "Salvează & Recuperă";
+"Auto Save" = "Salvare Automată";
+"Recover Unsaved Drafts" = "Recuperă Schițe Nesalvate";
+"Emoji Autocomplete" = "Completare Automată Emoji";
+"Trigger by ESC key" = "Declanșează cu tasta ESC";
+"Trigger automatically" = "Declanșează Automat";
+"Default Line Ending" = "Terminație de Linie Implicită";
+"Line ending for new file" = "Terminație de Linie pentru fișiere noi";
+"Spell Check" = "Verificare Ortografică";
+"Auto correct spelling" = "Corectare Automată Ortografie";
+"System" = "Sistem";
+"Privacy" = "Confidențialitate";
+"Developer" = "Dezvoltator";
+"Update" = "Actualizare";
+"Check Updates" = "Căutare Actualizări";
+"Check updates automatically" = "Căutare Actualizări Automată";
+"Advanced Settings" = "Setări Avansate";
+"Open Advanced Settings" = "Deschide Setările Avansate";
+"Reset Advanced Settings" = "Resetă Setările Avansate";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Această funcție necesită ca ultima versiune de iPic să fie instalată.";
+"Get iPic" = "Obține iPic";
+"Cannot Continue…" = "Nu se poate continua…";
+"This feature require macOS >= 10.11" = "Această caracteristică necesită macOS >= 10.11";
+"One More Step" = "Încă un pas";
+"Notice" = "Notificare";
+
+"%d Images Failed to Upload." = "%d Imaginile nu au fost încarcate.";
+"%d Succeeded," = "%d Reușit, ";
+"Enable this feature on preferences panel" = "Activează această caracteristică in panoul preferințe";
+"The option `%@` must be enabled first to automatically upload images." = "Opțiunea `%@` trebuie să fie activată înăinte de a încarca automat imaginile.";
+"%@ is a file, not a directory" = "%@ e un fișier, nu un folder";
+"Copy Images To…" = "Copiază Imagini În…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora încearcă să copieze imaginea tocmai introdusă in folderul %@ în conformitate cu setările dumneavoastră YAML Front Matter sau setările globale. Dar folderul țintă nu există, doriți să îl creați acum?";
+"Create Folder and Continue" = "Creează Folder și Continuă";
+"Document must be saved first" = "Documentul trebuie întâi salvat";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora va copia noua imagine inserată în folderul selectat de către calea relativă, deci vă rugăm sa salvați fișierul prima.";
+"Open Operation Failed" = "Deschidere Nereușită";
+
+"Support Documentation" = "Documentație de Suport";
+
+"Markdown File" = "Fișier Markdown";
+"Plain Text File" = "Fișier Text Simplu";
+"All Files" = "Toate Fișierele";
+"All Supported Formats" = "Toate Formatele Suportate";
+"Discard Changes" = "Anulează Modificările";
+"Discard" = "Anulează";
+
+"Menu" = "Meniu";
+"Back" = "Înapoi";
+
+"Contact" = "Contact";
+"Open From..." = "Deschide Din...";
+"Import..." = "Importă...";
+"Recent Documents" = "Documente Recente";
+"Search for" = "Caută";
+"Clear Recent Documents" = "Șterge Documente Recente";
+"File Name" = "Nume Fișier";
+"Path" = "Cale";
+"Export As..." = "Exportă Ca...";
+"More Formats" = "Mai multe Formate";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatele din 'Mai multe Formate' necesită ca <a class='open-pandoc-guide'>Pandoc să fie instalat</a>.";
+"Something is Wrong…" = "Ceva Nu Este Corect…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Conținutul nu a putu fi salvat din anumite motive.<br/>Ați putea copia conținutul într-o nouă fereastră Typora, și să salvați. <br/>Aflați mai multe:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Raportați eroarea</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperați conținutul pierdut</a></li></ul>";
+"Copy Content" = "Copiază Conținut";
+
+
+"Total" = "Total";
+"Word count only support OS X later than 10.10." = "Contorul de Cuvinte este suportat doar de OS X de la 10.10.";
+"Indent Size for Code" = "Dimensiune Indentare pentru Cod";
+"Auto wrap long lines" = "Încadrare automată linii lungi";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Ne pare rău, versiunea actuală de Typora nu imprimă culoarea de fundal.\nDeci tema întunecată nu este încă suportată pentru imprimare. \n\nVă rugăm să alegeți o temă luminoasă sau exportaài acest docuemnt în PDF.";
+"Export to PDF" = "Exportă în PDF";
+"Pretty indentation" = "Indentare Elegantă";
+"Update markdown reference for this image" = "Actualizează referința markdown pentru această imagine";
+
+"No special action" = "Nicio Acțiune specială";
+"Copy image to current folder (./)" = "Copiază imaginea în folderul actual (./)";
+"Copy image to ./assets" = "Copiază imagine în ./assets";
+"Copy image to ./${filename}.assets" = "Copiază imagine în ./${filename}.assets";
+"Apply above rules to local images" = "Aplică regulile deasupra imaginilor locale";
+"Apply above rules to online images" = "Aplică regulile deasupra imaginilor online";
+"Allow upload images automatically based on YAML settings" = "Permite încarcarea automată a imaginilor în conformitate cu setările YAML";
+
+"Learn More" = "Află Mai Multe";
+"Whitespace / Line Break" = "Spații Goale / Sfârșituri de Linie";
+"When Writing" = "În Timpul Scrierii";
+"Export / Print" = "Exportă / Imprimă";
+"Preserve sequential whitespace and single line break" = "Păstrează spațiile goale secvențiale și sfârșiturile de linie simple";
+"Ignore sequential whitespace and single line break" = "Ignoră spațiile goale secvențiale și sfârșiturile de linie simple";
+
+"Quit" = "Termină";
+"Quit Typora when last window is closed" = "Termină Typora când ultima fereastră este inchisă";
+"On Launch" = "La Lansare";
+"Open new file" = "Deschide fișier nou";
+"Restore last closed folders" = "Restaurează ultimele foldere închise";
+"Restore last closed files and folders" = "Restaurează ultimele foldere și fișiere închise";
+"Open custom folder" = "Deschide un folder particular";
+"Select custom folder" = "Selectează un folder particular";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Această opțiune ar putea fi suprascrisă de \"Închide ferestrele când terminați aplicația\" în Preferințele de Sistem";
+
+"Ignore" = "Ignoră";
+"Choose Default Folder" = "Alege Folderul Implicit";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Conversie în Cod</strong>: cratimile sau ghilimelele ASCII vor fi convertire în citate buclate si cratime unicode.<br/><strong>Conversie în Randare</strong>: cratimile sau ghilimelele ASCII vor fi salvate așa, dar vor fi randare ca citate buclate si cratime unicode.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recunoaște punctația unicode ca ASCII în timpul conversiei markdown, de ex:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Va fi activat automat dacă ghilimelele/cartimele inteligente vor fi convertite în cod.<div>";
+
+"Copy image to custom folder" = "Copiază imagine în un folder particular";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Vă rugăm să specificați o cale relativă pentru folderul actual care începe cu './' sau '../', sau o cale absolută. (`${filename}` reprezintă numele fișierului actual.)";
+"Restore to previous setting" = "Restaurează Setările Anterioare";
+"Folder not exist at %@, please input another path." = "Folderul nu există în %@, vă rugăm inserați o altă cale.";
+"Please input a folder path." = "Vă rugăm inserați o cale către un folder.";
+"Cannot use root path." = "Nu se poate folosi calea rădăcină.";
+
+"Get Themes" = "Obține Teme";
+"File/directory already exists at target path." = "Fișierul/folderul există deja în calea specificată.";
+"Keep Both" = "Păstrează Ambele";
+"Are you sure you want to move %@?" = "Ești sigur că vrei să muți %@?";
+
+"Are you sure you want to delete %@?" = "Ești sigur că vrei să ștergi %@?";
+"You can restore from the Trash." = "Poți restaura din Coșul de Gunoi.";
+
+"Reset All Dialog Warnings" = "Resetează Toate Ferestrele Avertisment";
+"Dialogs" = "Dialoguri";
+"Dialog warnings have been reset." = "Ferestrele Avertisment au fost resetate.";
+
+"Operation Failed" = "Operațiune Nereușită";
+"Failed to move target file or folder to trash" = "Nu s-a reușit mutarea fișierului sau folderului în coșul de gunoi";
+
+"Undo %@" = "Anulează %@";
+"Rename %@" = "Redenumește %@";
+"Copy %@" = "Copiază %@";
+"Move %@" = "Mută %@";
+"Delete %@" = "Șterge %@";
+
+"Turn off Typewriter / Focus Mode" = "Dezactivează Mod Mașină de Scris / Focalizare";
+"Typewriter / Focus Mode have been turned off." = "Modul Mașină de Scris / Focalizare a fost dezactivat.";
+
+"Reading Speed" = "Viteza de Citire";
+"Auto" = "Auto";
+"words / min" = "cuvinte / min";
+
+"Reset to Default" = "Resetează la Implicit";
+"120  words/minute (Slow)" = "120  cuvinte/minut (Lent)";
+"240  words/minute (Medium)" = "240  cuvinte/minute (Mediu)";
+"382  words/minute (Fast)" = "382  cuvinte/minute (Rapid)";
+
+"Copy and update image source to…" = "Copiază și actualizează sursele imaginilor în…";
+"Updater" = "Instrument De Actualizare";
+"Install Updates ?" = "Instalare actualizări ?";
+"Quit and Install" = "Termină și Instalează";
+"Download failed" = "Descărcare nereușită";
+"Downloading Updates…" = "Descărcare actualizări…";
+"Checking Updates…" = "Verificare Actualizări…";
+"Check Update Failed" = "Verificare Actualizări Nereușită";
+"You're up to date!" = "Sunteți la zi cu actualizările!";
+"Latest version is $1, your version is $2" = "Ultima versiune este $1, versiunea dumneavoastră este $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Aceste opțiuni pot fi modificate și în meniul \"Editare→Spații Goale și Sfârșituri de Linie\"";
+"Auto escape image URL when insert" = "Escape automat URL cănd inserați o imagine";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "De exemplu, dacă inserați un fișier din 'img/example file.png', va deveni 'img/example%20file.png'. Activați asta pentru o compatibilitate mai bună cu alte motoare Markdown, sau dezactivați pentru o lizibilitate mai bună.";
+"Check updates automatically" = "Caută Actualizări în mod Automat";
+"Skip This Version" = "Ignoră această versiune";
+"Remind Me Later" = "RAmintește-mi mai târziu";
+"Download Update" = "Descarcă Actualizare";
+"New version available." = "Versiune nouă disponibilă.";
+
+"When copy / export as HTML (without style)" = "Când copiați / exportați ca HTML (fără stiluri)";
+"Use Rendered SVG" = "Folosește SVG Randat";
+"Use LaTeX Source" = "Folosește sursă LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Are efect când se exportă ca HTML (fără stiluri) sau se copiază ca cod HTML, sau se copiază fără stilul temei.<br/>Când <strong>Folosește sursă LaTeX</strong> este selectat, Typora va insera sursa LaTeX (de ex: $X^2$),<br/>Când <strong>Folosește SVG Randat</strong> este selectat, SVG-ul randat va fi folosit, SVG-ul poate fi ignorat dacă o lipiți în altă aplicație.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Funcția de import și câteva formate de export necesită ca Pandoc (≥%@) să fie instalat.";
+"Do not show this message again" = "Nu mai afișa acest mesaj";
+
+"Page Break Between Top Headings" = "Sfârşit de pagină între Titluri";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Ne pare rău, niște erori au avut loc, conținutul pe care îl scriai a fost copiat în clipboard. Poți raporta asta la <hi@typora.io> să ne ajuți să remediem acestei erori.";
+"Try Recovery" = "Incearcă Recuperare";
+"Other options for Data Recovery" = "Alte opțiuni pentru Recuperare de Date";
+
+"When Insert" = "În Timpul Inserării";
+"Upload image" = "Încarcă Imagine";
+"e.g: %@" = "de ex: %@";
+"Test Uploader" = "Testează Uploader";
+"Validating" = "Se validează Uploaderul de Imagini";
+"Validation Failed" = "Validare Nereuşită";
+"Validation Succeed" = "Validare Reuşită";
+"Testing image uploading using command:" = "Testare încarcare imagini folosind comanda:";
+"Running… Waiting for results." = "În execuţie… Așteptând rezultatele.";
+"Output from the console:" = "Rezultat din consolă:";
+"Error from the console:" = "Eroare din consolă:";
+"Failed to fetch uploaded image from command output." = "Preluarea imiginei încarcate cu comandă a fost nereușită.";
+"Successfully get uploaded image url." = "URL-ul imaginei a fost obținut în mod corect.";
+"Image Uploader" = "Uploader Imagini";
+"Instructions" = "Instrucțiuni";
+"Download %@" = "Descarcă %@";
+"Image Upload Setting" = "Setări Încarcare Imagini";
+"Please set an image uploader in Preferences panel before using this function." = "Vă rugăm să setați un uploader de imagini în panoul de preferințe înainte de a folosi această funcție.";
+"Download or Upgrade" = "Descarcă sau Actualizează";
+"Open Config File" = "Deschide Fișierul Config";
+"Command" = "Comandă";
+"PicGo Path" = "Cale PicGo";
+"Path of PicGo binary" = "Calea binariilor PicGo";
+"Executable" = "Executabil";
+"Checking" = "Verificare";
+"Download" = "Descarcă";
+"Agree and Download" = "Acceptă și Descarcă";
+"Download and Reinstall" = "Descarcă și Reinstalează";
+"Loading PicGo-Core License" = "Încarcare Licență PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Obținerea versiunei PicGo-Core (command line) instalată a fost nereușită";
+"You have the latest PicGo-Core (CLI)" = "Aveți ultima versiune de PicGo-Core (CLI)";
+"Newer version is available" = "O nouă versiune este disponibilă";
+
+"Downloading…" = "Se descarcă…";
+"Unzipping…" = "Se Dezarhivează…";
+"Finished" = "Terminat";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora vă lansa aplicații de terță parte cu caile tuturor imaginilor locale. Uploader-ul de imagini si servici-ul de stocare în cloud vor avea acces imaginilor tale locale. Ești sigur că vrei sa continui?";
+
+"Export operation finished successfully." = "Operația de export s-a finalizat cu succes.";
+
+"Shortcut Keys" = "Taste de Comandă Rapidă";
+"Custom Shortcut Keys" = "Taste de Comandă Rapidă Particularizate";
+
+"Theme" = "Teme";
+"Light Theme" = "Temă Luminoasă";
+"Dark Theme" = "Temă Întunecată";
+"Use separate theme in dark mode" = "Folosește teme separate în mod întunecat";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Suportat pe macOS ≥ 10.15 sau Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Convert -- în – (en dash), și --- în — (em dash)";
+"Convert -- and --- to — (em dash)" = "Convert -- și --- în — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Poți seta modele de ghilimele în Preferințe de Sistem → Tastatură → Text. Dacă este modificat, Typora va necesita o repornire pentru a aplica setările.";
+
+
+"Paper Size" = "Dimensiune Hârtie";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Sfârşit de Pagină";
+"Page Break Between Top Headings" = "Sfârşit de pagină între Titluri";
+"Header" = "Titlu";
+"Footer" = "Subsol";
+"Author" = "Autor";
+"Append in <head />" = "Adăugă în <head />";
+"Append in <body />" = "Adăugă în <body />";
+"Include Outline Sidebar" = "Include Bară Laterală Schiță";
+"Width" = "Lăţime";
+"Command" = "Comandă";
+"Show Save File Dialog" = "Afișează Caseta de dialog Salvare Fișier";
+"File Extensions for Export" = "Extensiuni Fișiere pentru Export";
+"Arguments" = "Argumente";
+"Extra Arguments" = "Extra Argumente";
+"LaTeX Engine" = "Motor LaTeX";
+"Template" = "Şablon";
+"Empty" = "Gol";
+"Style Reference" = "Referință Stil";
+"Custom CSS" = "CSS Particularizat";
+"Chapter Level" = "Nivel Capitol";
+"Default Folder for Exported File" = "Folder Implicit pentru Fișiere Exportate";
+"Same folder with current file" = "Același folder a fișierului actual";
+"Custom location" = "Locație Particularizată";
+"(Auto Detect)" = "(Detecție Automată)";
+"After Export" = "După Export";
+"Open exported file location" = "Deschide locație fișier exportat";
+"Open exported file" = "Deschide fișier exportat";
+"Custom" = "Particularizat";
+"None" = "Niciunul";
+"Default" = "Implicit";
+"Margin" = "Margine";
+"Margin Left" = "Margine Stânga";
+"Margin Right" = "Margine Dreapta";
+"Margin Top" = "Margine Sus";
+"Margin Bottom" = "Margine Jos";
+"Width x Height" = "Lăţime x Înălţime";
+"Add From a Template" = "Adaugă Din Șablon";
+"Delete this export option ?" = "Doriți să ștergeți această opțiune de export ?";
+"Add" = "Adauă";
+"Delete" = "Șterge";
+"Rename" = "Redenumește";
+"Move Down" = "Mută Jos";
+"Move Up" = "Mută Sus";
+"Pandoc Path" = "Cale Pandoc";
+"Select" = "Selectează";
+"Target Format" = "Format Target";
+"auto detect based on target file path" = "detectare automată în funcție de calea fișierului";
+"Target File Extensions (separate by whitespace)" = "Extensii Fișier Destinaţie (separat de spații albe)";
+"e.g: .text .asciidoc or leave this empty" = "de ex: .text .asciidoc sau lasă gol";
+"Raw Type" = "Tip Raw";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Afișează Caseta de dialog Salvare Fișier";
+"Do not popup save file dialog" = "Nu afișa Pop-Up dialog Salvare Fișier";
+"Select file path to save" = "Selectează cale fișier de salvat";
+"Select folder path to save" = "Selectează cale folder de salvat";
+"PDF Engine" = "Motor PDF";
+"Show command output" = "Afișează output comandă";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportează și Suprascire cu Anteriorul\" va suprascrie fișierul la %@, doriți să continuați?";
+"Command Arguments:" = "Argumente Comandă:";
+"This beta version of Typora is expired, please download and install a newer version." = "Această versiune beta de Typora a expirat, vă rugam să descărcați și să instalați o veriune nouă.";
+"Current Theme" = "Temă Actuală";
+"After Export" = "După Export";
+"Run command" = "Execută Comandă";
+"Run command after export failed" = "Execută Comandă după ce exportul nu reușește";
+"Read and overwrite export settings from YAML front matters" = "Citește si suprascrie setările de export din YAML front matters";
+"Append Extra Content (HTML)" = "Adaugă Conținut Extra (HTML)";
+"Change this option to specify a separated theme for export." = "Schimbă această opțiune pentru a specifica o temă separata pentru export.";
+"Dark theme is not supported." = "Tema întunecată nu este suportată.";
+
+"Markdown Variants" = "Variante Markdown";
+"Original Unextended Markdown" = "Markdown Original fară Extensii";
+"CommonMark with many pandoc extensions" = "CommonMark cu multe extensii pandoc";
+"Line Wrap" = "Încadrare Linie";
+"Hard line wrap" = "Încadrare Linie Tare";
+"Text Column Width" = "Lățime Coloană Text";
+"Auto (based on current OS)" = "Auto (în funcție de SO actual)";
+"Indent" = "Indentare";
+"Preserve tabs" = "Conservare tabs";
+"2 spaces per tab" = "2 spații per tab";
+"3 spaces per tab" = "3 spații per tab";
+"4 spaces per tab" = "4 spații per tab";
+"Unicode Characters" = "Caractere Unicode";
+"Use only ASCII characters in output" = "Folosiți doar cractere ASCII în output";
+"Use reference-style links rather than inline links" = "Folosiți linkuri de tip reference-style în loc de linkuri în linie";
+"Footnotes and References Location" = "Note de Subsol și Locații Referințe";
+"End of document" = "Sfârșit de Document";
+"End of current (top-level) block" = "Sfârșitul actualului (top-level) bloc";
+"End of current section" = "Sfârșitul actualei secțiunei";
+"Convert TeX formulas to web images" = "Conversie formule TeX în imagini web";
+"Image Format" = "Format Imagine";

@@ -14,7 +14,7 @@ If you want to help translate Typora into other languages, we would very appreci
 4. Copy `*.strings` files from `Base.lproj` to `{locale}.lproj`.
 5. Open `*.strings` with any text/code editor, do the translation. Please also check the translation rules.
 6. Make a pull request to us.
-7. We could also appreciate if you leave any contact method, like email, in issues or in `*.strings` file after your translation, so we can reach you and, at least, give free license as rewards after we come out of beta. You could also email us directly if you do not want your email address go public in Github. 
+7. We could also appreciate if you leave any contact method, like email, in issues or in `*.strings` file after your translation, so we can reach you and, at least, give free license as rewards after we come out of beta. You could also email us directly if you do not want your email address go public in Github.
 
 ### Translation rules
 
@@ -44,13 +44,13 @@ Feel free to contact us via <hi@typora.io>
 - Traditional Chinese by [cyberrob](https://github.com/cyberrob), [pan93412](https://github.com/pan93412), [Meowcolm024](https://github.com/Meowcolm024), [ralphchung](https://github.com/ralphchung), [pjchender](https://github.com/pjchender), [anemology](https://github.com/anemology)
 - Polish by  [iriusturar](https://github.com/iriusturar), [Vegebutcher](https://github.com/Vegebutcher)
 - Korean by  [ryush00](https://github.com/ryush00),  [marigold9124](https://github.com/marigold9124), [vreality64](https://github.com/vreality64), [yuririri](https://github.com/yuririri), [Third9](https://github.com/Third9), [ksundong](https://github.com/ksundong), [zfanta](https://github.com/zfanta), [cozyplanes](https://github.com/cozyplanes)
-- Italian by  [starise](https://github.com/starise), [jethro17](https://github.com/jethro17) 
+- Italian by  [starise](https://github.com/starise), [jethro17](https://github.com/jethro17)
 - Spanish by  [thepiratejester](https://github.com/thepiratejester), [rgomez90](https://github.com/rgomez90), [iiiGerardoiii](https://github.com/iiiGerardoiii)
 - French by [MOrdinateur](https://github.com/MOrdinateur), [cnovel](https://github.com/cnovel), [m0wh](https://github.com/m0wh)
 - Russian by [dragomano](https://github.com/dragomano)
 - Japanese by [tomochan001](https://github.com/tomochan001), [gageas](https://github.com/gageas), [7ma7X](https://github.com/7ma7X), [shuuji3](https://github.com/shuuji3), [ScratchBuild](https://github.com/ScratchBuild)
-- Portuguese (Brazil) by [teuscard](https://github.com/teuscard) [akz92](https://github.com/akz92), [dgsnunes](https://github.com/dgsnunes) 
-- German by [rcvd](https://github.com/rcvd), Gert Massheimer, [Indeximal](https://github.com/Indeximal), [tobiasvonarx](https://github.com/tobiasvonarx) 
+- Portuguese (Brazil) by [teuscard](https://github.com/teuscard) [akz92](https://github.com/akz92), [dgsnunes](https://github.com/dgsnunes)
+- German by [rcvd](https://github.com/rcvd), Gert Massheimer, [Indeximal](https://github.com/Indeximal), [tobiasvonarx](https://github.com/tobiasvonarx)
 - German (Switzerland) by [Indeximal](https://github.com/Indeximal)
 - Czech by [byDave251](https://github.com/byDave251), [psimacek](https://github.com/psimacek), [AlexKratky](https://github.com/AlexKratky), [bydavenet](https://github.com/bydavenet), [petrsvag](https://github.com/petrsvag)
 - Greek by [kiriakosv](https://github.com/kiriakosv)
@@ -59,13 +59,14 @@ Feel free to contact us via <hi@typora.io>
 - Portuguese (Portugal) by [jcamilo93](https://github.com/jcamilo93)
 - Galician by [nunhes](https://github.com/nunhes)
 - Indonesia by [snatalius](https://github.com/snatalius)
-- Vietnamese by [1234hdpa](https://github.com/1234hdpa)
+- Vietnamese by [mwolfinspace](https://github.com/mwolfinspace)
 - Swedish by [Sandskär](https://github.com/passar), [FelixZY](https://github.com/FelixZY)
 - Catalan by [jmigual](https://github.com/jmigual)
 - Danish by [archfrog](https://github.com/archfrog)
 - Persian by [sadra](https://github.com/sadra)
 - Indonesian by [snatalius](https://github.com/snatalius)
-- Dutch by Melle Dijkstra, [vidavidorra](https://github.com/vidavidorra)
+- Dutch by Melle Dijkstra, [vidavidorra](https://github.com/vidavidorra), [andredelft](https://github.com/andredelft)
 - Slovak by Petr Mátl
 - Ukrainian by [oleksavyshnivsky](https://github.com/oleksavyshnivsky)
 - Hebrew by [RealA10N](https://github.com/RealA10N)
+- Romanian by [Mooyeee](https://github.com/Mooyeee)

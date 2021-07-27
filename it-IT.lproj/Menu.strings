@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by starise@andreabrandi.com
+ by starise@andreabrandi.com, tommaso.ghisini@gmail.com
 */
 
 /* Typora Menu */
@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Invia immagini locali con iPic";
 "When Insert Local Image" = "Quando inserisci immagine locale";
 "Copy Image File to Folder" = "Copia immagine nella cartella";
-"Upload Image via iPic" = "Invia immagine con iPic";
 "Use Image Root Path" = "Usa percorso di origine";
 "Line Endings" = "Interruzioni di linea";
 "Windows Line Endings (CRLF)" = "Formato Windows (CRLF)";
@@ -237,7 +236,6 @@
 "Copy '%@'" = "Copia '%@'";
 "Copy to %@" = "Copia in %@";
 "Copy Image to" = "Copia immagine in";
-"Upload via iPic" = "Invia con iPic";
 "Open Image Location" = "Apri posizione immagine";
 
 "Learn More" = "Per saperne di più";
@@ -302,6 +300,15 @@
 "File Tree (Tree View)" = "File (vista Albero)";
 "Filter" = "Filtro";
 
-"Upload Image" = "Carica immagine";
-"Upload All Local Images" = "Carica tutte le immagini locali";
-"Open Image in Browser" = "Apri immagine nel browser";
+"Upload Image" = "Carica Immagine";
+"Upload All Local Images" = "Carica Tutte le Immagini Locali";
+"Open Image in Browser" = "Apri Immagine nel Browser";
+"Copy Image" = "Copia Immagine";
+
+"More Actions" = "Altre Azioni";
+"Get Info" = "Ottieni Informazioni";
+
+"Export with Previous" = "Esporta con Precedente";
+"Export and Overwrite with Previous" = "Esporta and Sovrascrivi with Precedente";
+
+"Emoji and Symbols" = "Emoji e Simboli";

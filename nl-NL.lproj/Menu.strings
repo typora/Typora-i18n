@@ -1,22 +1,22 @@
-/* 
+/*
   Menu.strings
   Typora
 
  by hi@typora.io
- 
- Dutch translations by Melle Dijkstra
- 
+
+ Dutch translations by Melle Dijkstra & André van Delft
+
 */
 
 /* Typora Menu */
 
 "About Typora" = "Over Typora";
 "Preferences" = "Voorkeuren";
-"Check for Updates" = "Controleer op Updates";
+"Check for Updates" = "Controleer op updates";
 "Services" = "Diensten";
 "Hide Typora" = "Verberg Typora";
-"Hide Others" = "Verberg Anderen";
-"Show All" = "Toon Alles";
+"Hide Others" = "Verberg anderen";
+"Show All" = "Toon alles";
 "Quit Typora" = "Sluit Typora";
 
 /* File Menu */
@@ -24,28 +24,28 @@
 "File" = "Bestand";
 "New" = "Nieuw";
 "Open" = "Open";
-"Open Folder" = "Open Map";
-"Reopen with Encoding" = "Heropen met Codering";
+"Open Folder" = "Open map";
+"Reopen with Encoding" = "Heropen met codering";
 "Auto" = "Auto";
-"Open Recent" = "Open Recent";
+"Open Recent" = "Open recent";
 "Recent Locations" = "Recente locaties";
-"Clear Items" = "Items Wissen";
-"No Recent Files" = "Geen Recente Bestanden";
-"Open Quickly" = "Snel Openen";
-"Open File Location" = "Open Bestandslocatie";
-"Reveal in Library" = "Weergeven in Bibliotheek";
-"Reveal in File Tree" = "Weergeven in Boomstructuur";
+"Clear Items" = "Items wissen";
+"No Recent Files" = "Geen recente bestanden";
+"Open Quickly" = "Snel openen";
+"Open File Location" = "Open bestandslocatie";
+"Reveal in Library" = "Weergeven in bibliotheek";
+"Reveal in File Tree" = "Weergeven in boomstructuur";
 "Close" = "Sluiten";
 "Save" = "Opslaan";
-"Save As" = "Opslaan Als";
+"Save As" = "Opslaan als";
 "Duplicate" = "Dupliceren";
 "Rename" = "Hernoemen";
-"Move To" = "Verplaatsen Naar";
-"Revert To" = "Terugkeren Naar";
+"Move To" = "Verplaatsen naar";
+"Revert To" = "Terugkeren naar";
 "Browse All Versions" = "Blader door alle versies";
 "Import" = "Importeren";
 "Export" = "Exporteren";
-"Page Setup" = "Pagina Opstelling";
+"Page Setup" = "Pagina-instellingen";
 "Print" = "Afdrukken";
 
 /* Edit Menu */
@@ -56,51 +56,51 @@
 "Copy" = "Kopiëren";
 "Paste" = "Plakken";
 "Copy as Markdown" = "Kopiëren als Markdown";
-"Copy as HTML Code" = "Kopiëren als HTML Code";
-"Paste as Plain Text" = "Kopiëren als eenvoudige tekst";
-"Select All" = "Selecteer Alles";
-"Select Line/Sentence" = "Selecteer Lijn/Zin";
-"Select Styled Scope" = "Selecteer Gestijlde Bereik";
-"Select Word" = "Selecteer Woord";
+"Copy as HTML Code" = "Kopiëren als HTML-code";
+"Paste as Plain Text" = "Kopiëren als platte tekst";
+"Select All" = "Selecteer alles";
+"Select Line/Sentence" = "Selecteer regel/zin";
+"Select Styled Scope" = "Selecteer gestijld bereik";
+"Select Word" = "Selecteer woord";
 "Delete" = "Verwijder";
-"Delete Range" = "Verwijder Reeks";
-"Delete Word" = "Verwijder Woord";
-"Delete Styled Scope" = "Verwijder Gestijlde Bereik";
-"Delete Line/Sentence" = "Verwijder Lijn/Zin";
-"Jump To" = "Spring Naar";
-"Jump to Top" = "Spring naar Top";
-"Jump to Selection" = "Spring naar Selectie";
-"Jump to Bottom" = "Spring naar Bodem";
-"Math Tools" = "Wiskundige Hulpmiddelen";
-"Refresh All Math Expressions" = "Herlaad Alle Wiskundige Uitdrukkingen";
-"Image Tools" = "Afbeeldings Hulpmiddelen";
+"Delete Range" = "Verwijder reeks";
+"Delete Word" = "Verwijder woord";
+"Delete Styled Scope" = "Verwijder gestijld bereik";
+"Delete Line/Sentence" = "Verwijder regel/zin";
+"Jump To" = "Ga naar";
+"Jump to Top" = "Ga naar begin";
+"Jump to Selection" = "Ga naar selectie";
+"Jump to Bottom" = "Ga naar eind";
+"Math Tools" = "Wiskundige hulpmiddelen";
+"Refresh All Math Expressions" = "Herlaad alle wiskundige uitdrukkingen";
+"Image Tools" = "Afbeeldingshulpmiddelen";
 "Insert Local Images" = "Voeg lokale afbeeldingen in";
-"Upload Local Images via iPic" = "Upload Lokale Afbeeldingen via iPic";
+"Upload Local Images via iPic" = "Upload lokale afbeeldingen via iPic";
 "When Insert Local Image" = "Wanneer lokaal bestand wordt ingevoegd";
-"Copy Image File to Folder" = "Afbeelding kopiëren naar Map";
+"Copy Image File to Folder" = "Afbeelding kopiëren naar map";
 "Upload Image via iPic" = "Upload afbeelding via iPic";
 "Use Image Root Path" = "Gebruik de hoofdmap van de afbeelding";
 "Line Endings" = "Regeleinden";
-"Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
-"Unix Line Endings (LF)" = "Unix Line Endings (LF)";
+"Windows Line Endings (CRLF)" = "Windows-regeleindes (CRLF)";
+"Unix Line Endings (LF)" = "Unix-regeleindes (LF)";
 "Find" = "Zoek";
-"Find Next" = "Volgende Zoeken";
-"Find Previous" = "Vorige Zoeken";
-"Find and Replace" = "Zoeken en Vervangen";
+"Find Next" = "Volgende zoeken";
+"Find Previous" = "Vorige zoeken";
+"Find and Replace" = "Zoeken en vervangen";
 "Replace" = "Vervangen";
-"Replace Next" = "Volgende Vervangen";
-"Spelling and Grammar" = "Spelling en Grammatica";
-"Check Document Now" = "Controleer Document Nu";
-"Check Spelling While Typing" = "Controleer Spelling Tijdens Typen";
-"Check Grammar With Spelling" = "Controleer Grammatica met Spelling";
-"Correct Spelling Automatically" = "Corrigeer Spelling Automatisch";
+"Replace Next" = "Volgende vervangen";
+"Spelling and Grammar" = "Spelling en grammatica";
+"Check Document Now" = "Controleer document nu";
+"Check Spelling While Typing" = "Controleer spelling tijdens typen";
+"Check Grammar With Spelling" = "Controleer grammatica met spelling";
+"Correct Spelling Automatically" = "Corrigeer spelling automatisch";
 "Substitutions" = "Vervangingen";
-"Smart Quotes" = "Slimme Citaten";
-"Smart Dashes" = "Slimme Streepjes";
+"Smart Quotes" = "Slimme citaten";
+"Smart Dashes" = "Slimme streepjes";
 "Text Replacement" = "Tekstvervanging";
 "Speech" = "Spraak";
-"Start Speaking" = "Start Spraak";
-"Stop Speaking" = "Stop Spraak";
+"Start Speaking" = "Start spraak";
+"Stop Speaking" = "Stop spraak";
 
 /* Paragraph Menu */
 "Paragraph" = "Paragraaf";
@@ -110,27 +110,27 @@
 "Heading 4" = "Titel 4";
 "Heading 5" = "Titel 5";
 "Heading 6" = "Titel 6";
-"Increase Heading Level" = "Titel Niveau Verhogen";
-"Decrease Heading Level" = "Titel Niveau Verlagen";
+"Increase Heading Level" = "Titelniveau verhogen";
+"Decrease Heading Level" = "Titelniveau verlagen";
 "Table" = "Tabel";
-"Code Fences" = "Code Blok";
-"Math Block" = "Wiskunde Blok";
+"Code Fences" = "Codeblok";
+"Math Block" = "Wiskundeblok";
 "Quote" = "Citaat";
 "Ordered List" = "Geordende Lijst";
 "Unordered List" = "Ongeordende Lijst";
 "Task List" = "Takenlijst";
 "Task Status" = "Taakstatus";
-"Toggle Task Status" = "Schakel Taakstatus";
-"Mark as Complete" = "Markeer als Voltooid";
-"Mark as Incomplete" = "Markeer als niet Voltooid";
-"List Indentation" = "Lijst Inspringing";
+"Toggle Task Status" = "Schakel taakstatus in/uit";
+"Mark as Complete" = "Markeer als voltooid";
+"Mark as Incomplete" = "Markeer als niet-voltooid";
+"List Indentation" = "Lijst inspringen";
 "Indent" = "Inspringen";
 "Outdent" = "Uitspringen";
-"Link Reference" = "Link Referentie";
+"Link Reference" = "Link-referentie";
 "Footnotes" = "Voetnoten";
 "Horizontal Line" = "Horizontale Lijn";
 "Table of Contents" = "Inhoudsopgave";
-"YAML Front Matter" = "YAML Front Matter";
+"YAML Front Matter" = "YAML voorwerk";
 
 /* Format Menu */
 "Format" = "Opmaak";
@@ -138,35 +138,35 @@
 "Emphasis" = "Nadruk";
 "Underline" = "Onderlijn";
 "Code" = "Code";
-"Inline Math" = "In lijn Wiskunde";
+"Inline Math" = "Wiskunde in tekst";
 "Strike" = "Doorstreping";
-"Highlight" = "Lichteffect";
+"Highlight" = "Markeer";
 "Superscript" = "Superscript";
 "Subscript" = "Subscript";
 "Comment" = "Commentaar";
-"Hyperlink" = "Hyperlink";
+"Hyperlink" = "Koppeling";
 "Image" = "Afbeelding";
 "Clear Format" = "Opmaak Wissen";
 
 /* View Menu */
 "View" = "Weergave";
-"New Tab" = "Nieuw Tabblad";
-"Source Code Mode" = "Broncode Modus";
-"Focus Mode" = "Focus Modus";
-"Typewriter Mode" = "Typemachine Modus";
-"Toggle Sidebar" = "Open/Sluit Zijbalk";
+"New Tab" = "Nieuw tabblad";
+"Source Code Mode" = "Broncode-modus";
+"Focus Mode" = "Focus-modus";
+"Typewriter Mode" = "Typemachine-modus";
+"Toggle Sidebar" = "Open/sluit zijbalk";
 "Outline" = "Overzicht";
 "Articles" = "Artikelen";
 "File Tree" = "Bestandsboom";
-"Always on Top" = "Altijd Bovenste Venster";
-"Full Screen" = "Volledig Scherm";
-"Show Status Bar" = "Toon Statusbalk";
-"Toggle Fullscreen" = "Schakel Volledig Scherm";
-"Actual Size" = "Werkelijke Grote";
+"Always on Top" = "Altijd bovenste venster";
+"Full Screen" = "Volledig scherm";
+"Show Status Bar" = "Toon statusbalk";
+"Toggle Fullscreen" = "Schakel volledig scherm in/uit";
+"Actual Size" = "Werkelijke grootte";
 "Zoom In" = "Inzoomen";
 "Zoom Out" = "Uitzoomen";
-"Switch Between Opened Documents" = "Schakel Tussen Geopende Documenten";
-"Toggle DevTools" = "Schakel DevTools";
+"Switch Between Opened Documents" = "Schakel tussen geopende documenten";
+"Toggle DevTools" = "Schakel DevTools in/uit";
 
 
 /* Themes Menu */
@@ -182,46 +182,46 @@
 "Help" = "Help";
 "Privacy Policy" = "Privacybeleid";
 "Credits" = "Credits";
-"Change Log" = "Change Log";
+"Change Log" = "Veranderingen";
 "Website" = "Website";
 "Feedback" = "Feedback";
-"About" = "Over de Applicatie";
+"About" = "Over de applicatie";
 
 /* Touchbar */
-"Block Styles" = "Blok Stijlen";
-"Inline Styles" = "In lijn Stijlen";
-"List Styles / Remove Block" = "Lijst Stijlen / Verwijder Blok";
-"Exit Source Code Mode" = "Sluit Broncode Modus";
-"Toggle Source Code Mode" = "Schakel Broncode Modus";
+"Block Styles" = "Blokstijlen";
+"Inline Styles" = "Stijlen in tekst";
+"List Styles / Remove Block" = "Geef stijlen weer / Verwijder Blok";
+"Exit Source Code Mode" = "Sluit broncode-modus";
+"Toggle Source Code Mode" = "Schakel broncode-modus in/uit";
 
 /* Extra Context Menu */
 "Table" = "Tabel";
-"Add Row Above" = "Voeg Rij Voor In";
-"Add Row Below" = "Voeg Rij Achter In";
-"Delete Row" = "Verwijder Rij";
-"Add Column Before" = "Voeg Kolom Voor In";
-"Add Column After" = "Voeg Kolom Achter In";
-"Delete Column" = "Verwijder Kolom";
-"Copy Table" = "Kopieer Tabel";
-"Delete Table" = "Verwijder Tabel";
-"Insert Paragraph After" = "Voeg Paragraaf Achter In";
-"Insert Paragraph Before" = "Voeg Paragraaf Voor In";
-"Delete Code Block" = "Verwijder Code Blok";
-"Copy as MathML" = "kopiëren als MathML";
-"Copy as Tex" = "Kopiëren als Tex";
-"Copy Math" = "Kopieer Wiskunde";
-"Reveal in Finder" = "Weergeef in Finder";
+"Add Row Above" = "Voeg rij in hierboven";
+"Add Row Below" = "Voeg rij in hieronder";
+"Delete Row" = "Verwijder rij";
+"Add Column Before" = "Voeg kolom in hiervoor";
+"Add Column After" = "Voeg kolom in hierachter";
+"Delete Column" = "Verwijder kolom";
+"Copy Table" = "Kopieer tabel";
+"Delete Table" = "Verwijder tabel";
+"Insert Paragraph After" = "Voeg paragraaf in hieronder";
+"Insert Paragraph Before" = "Voeg paragraaf in hierboven";
+"Delete Code Block" = "Verwijder codeblok";
+"Copy as MathML" = "kopieer als MathML";
+"Copy as Tex" = "Kopieer als Tex";
+"Copy Math" = "Kopieer wiskunde";
+"Reveal in Finder" = "Weergeven in Finder";
 "Open Link" = "Open Link";
-"Reveal in Sidebar" = "Weergeef in Zijbalk";
-"Open in New Window" = "Openen in Nieuw Scherm";
-"Copy File Path" = "Kopieer Bestandslocatie";
-"New File" = "Nieuw Bestand";
+"Reveal in Sidebar" = "Weergeven in zijbalk";
+"Open in New Window" = "Openen in nieuw scherm";
+"Copy File Path" = "Kopieer bestandslocatie";
+"New File" = "Nieuw bestand";
 "Rename" = "Hernoemen";
-"New Folder" = "Nieuwe Map";
+"New Folder" = "Nieuwe map";
 
 /* Electron */
-"Learn Spelling" = "Leer Spelling";
-"Copy / Paste As…" = "Kopiëren / Plakken Als…";
+"Learn Spelling" = "Leer spelling";
+"Copy / Paste As…" = "Kopiëren / Plakken als…";
 "Math" = "Wiskunde";
 "Insert" = "Invoegen";
 "Inspect Element" = "Element Inspecteren";
@@ -234,16 +234,16 @@
 
 /* Related Panel */
 "Open Failed" = "Openen Mislukt";
-"File or folder does not exist." = "Bestand of Map bestaat niet.";
+"File or folder does not exist." = "Bestand of map bestaat niet.";
 
-"Prettify Source Code" = "Prettify Broncode";
+"Prettify Source Code" = "Prettify broncode";
 "Copy '%@'" = "Kopieer '%@'";
 "Copy to %@" = "Kopiëren naar %@";
-"Copy Image to" = "Kopieer Afbeelding naar";
+"Copy Image to" = "Kopieer afbeelding naar";
 "Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Afbeeldingslocatie";
 
 "Search" = "Zoeken";
 
 "Insert Table" = "Tabel invoegen";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Afbeelding invoegen";

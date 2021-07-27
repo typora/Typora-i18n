@@ -43,7 +43,7 @@
 "Delete Table" = "Táblázat törlése";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "A beszúrt képet a Typora megpróbálta a YAML Front Matterben beállított <code id='image-create-folder-target'></code> mappába másolni, de az nem létezik. Létrehozzuk?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Az újonnan beszúrt képet a Typora megpróbálta a YAML Front Matterben vagy a Beállításokban található <code id='image-create-folder-target'></code> mappába másolni, de az nem létezik. Létrehozzuk?";
 "Create Folder" = "Mappa létrehozása";
 
 /* Math */
@@ -52,15 +52,15 @@
 "Preview" = "Előnézet";
 
 /* Sidebar */
-"Articles" = "Betekintés";
+"Articles" = "Fájl betekintés";
 "Outline" = "Vázlat";
 "Files" = "Fájlkezelő";
 "Switch to File List view" = "Felsorolás nézetbe váltás";
-"Switch to File Tree view" = "Fa nézetbe váltás";
+"Switch to File Tree view" = "Fanézetbe váltás";
 "Switch to Outline view" = "Vázlat nézetbe váltás";
 "Close sidebar" = "Oldalsáv bezárása";
 "Loading" = "Betöltés";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A választott mappa túl sok fájlt tartalmaz. \nA gyorsabb megjelenítés érdekében váltson <a id='switch-to-tree-on-oversize'>Fa nézetbe</a>.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "A választott mappa túl sok fájlt tartalmaz. \nA gyorsabb megjelenítés érdekében váltson <a id='switch-to-tree-on-oversize'>Fanézetbe</a>.";
 "New File" = "Új fájl";
 "Unpin Outline Panel" = "Vázlat panel rögzítésének feloldása";
 "Open Folder..." = "Mappa megnyitása...";
@@ -78,15 +78,15 @@
 "Sort by Name (Descending)" = "Rendezés név szerint (csökkenő)";
 "Sort by Modification Date (Descending)" = "Rendezés utolsó módosítás szerint (csökkenő)";
 "Location" = "Hely";
-"Switch File List/Tree View" = "Váltás Fa és Betekintés között";
+"Switch File List/Tree View" = "Váltás Fanézet és Fájl betekintés között";
 "No Files Available" = "Nincsenek elérhető fájlok";
 "No Folder is Opened." = "Nincs megnyitott mappa.";
 "Outline is Empty." = "A vázlat üres.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Oldalsáv ki/be";
-"Toggle Source Code Mode" = "Forráskód üzemmód ki/be";
-"Exit Source Code Mode" = "Kilépés a forráskód üzemmódból";
+"Toggle Source Code Mode" = "Forráskód nézet váltása";
+"Exit Source Code Mode" = "Kilépés a forráskód nézetből";
 
 "Table of Contents" = "Tartalomjegyzék";
 "Empty Diagram" = "Üres diagram";
@@ -140,7 +140,7 @@
 
 "Revert advanced setting file to default one ?" = "Vissza legyenek állítva a Speciális beállítások?";
 
-"Select Spell Check Language" = "Helyesírás ellenőrzés nyelve";
+"Select Spell Check Language" = "Helyesírás-ellenőrzés nyelve";
 "Auto Detect Language" = "Automatikus felismerés";
 "Disable Spell Check" = "Ellenőrzés kikapcsolása";
 "Global Setting…" = "Globális beállítás…";
@@ -149,11 +149,11 @@
 "License Information" = "Licencinformáció";
 "Download" = "Letöltés";
 "Install dictionary file only for Typora" = "Szótár telepítése csak a Typora számára";
-"Spell Check (%@ unavailable)" = "Helyesírás ellenőrzés (%@ nem áll rendelkezésre)";
-"Spell Check (%@ downloading)" = "Helyesírás ellenőrzés (%@ letöltése)";
+"Spell Check (%@ unavailable)" = "Helyesírás-ellenőrzés (%@ nem áll rendelkezésre)";
+"Spell Check (%@ downloading)" = "Helyesírás-ellenőrzés (%@ letöltése)";
 "Download dictionary file for %@" = "A %@ nyelv szótárának letöltése";
-"(Default spell check option)" = "(Alapértelmezett helyesírás ellenőrzés)";
-"Failed to load spellcheck module" = "Helyesírás ellenőrző betöltése nem sikerült";
+"(Default spell check option)" = "(Alapértelmezett helyesírás-ellenőrzés)";
+"Failed to load spellcheck module" = "Helyesírás-ellenőrző betöltése nem sikerült";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> bekapcsolódott.";
 "You could turn it off from `View` menu." = "A `Nézet` menüből kikapcsolható.";
@@ -174,3 +174,5 @@
 "Failed to upload images:" = "A képek feltöltése nem sikerült:";
 "Uploading in progress" = "Feltöltés folyamatban";
 "Successfully uploaded {0} images, {1} failed." = "{0} kép feltöltése sikeres, {1} képé sikertelen volt.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Később visszavonhatod ezt a műveletet a Szerkesztés → Visszavonás-sal.";

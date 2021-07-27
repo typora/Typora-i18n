@@ -296,7 +296,7 @@
 "Downloading Updates…" = "下载中…";
 "Checking Updates…" = "检查中…";
 "Check Update Failed" = "检查更新失败";
-"You are update to date!" = "当前已是最新！";
+"You're up to date!" = "当前已是最新！";
 "Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
 "Auto escape image URL when insert" = "插入时自动转义图片 URL";
@@ -316,7 +316,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io g报告该错误。";
 "Try Recovery" = "尝试恢复";
-"Other options for Data Recovery" = "其他恢复选项";
+"Other Options for Data Recovery" = "其他恢复选项";
 
 "When Insert" = "插入图片时";
 "Upload image" = "上传图片";
@@ -466,3 +466,7 @@
 "End of current section" = "置于当前章节的末尾";
 "Convert TeX formulas to web images" = "将公式转化为网络图片";
 "Image Format" = "图片格式";
+
+"Set Pandoc Path" = "设置 Pandoc 路径";
+
+"Apply Line Break at \\ and &#92;newline" = "支持使用 \\ 和 &#92;newline 换行";

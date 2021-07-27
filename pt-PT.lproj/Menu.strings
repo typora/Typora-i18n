@@ -3,11 +3,12 @@
   Typora
 
  Edited by camilocoelho93@gmail.com based on aride.moulin@gmail.com work
+ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 */
 
 /* Typora Menu */
 
-"About Typora" = "Sobre Typora";
+"About Typora" = "Sobre o Typora";
 "Preferences" = "Preferências";
 "Check for Updates" = "Procurar Atualizações";
 "Services" = "Serviços";
@@ -28,8 +29,8 @@
 "Recent Locations" = "Locais Recentes";
 "Clear Items" = "Limpar Items";
 "No Recent Files" = "Nenhum Ficheiro Recente";
-"Open Quickly" = "Abrir Rápidamente";
-"Open File Location" = "Abrir Local do Ficheiro";
+"Open Quickly" = "Abrir Rapidamente";
+"Open File Location" = "Abrir Localização do Ficheiro";
 "Reveal in Library" = "Exibir na Biblioteca";
 "Reveal in File Tree" = "Exibir na Árvore de Ficheiros";
 "Close" = "Fechar";
@@ -76,7 +77,7 @@
 "When Insert Local Image" = "Quando Inserir Imagem Local";
 "Copy Image File to Folder" = "Copiar Ficheiro de Imagem para Pasta";
 "Upload Image via iPic" = "Enviar Imagem via iPic";
-"Use Image Root Path" = "Usar Raiz do Ficheiro";
+"Use Image Root Path" = "Usar Raiz do Caminho para o Ficheiro";
 "Line Endings" = "Finais de Linha";
 "Windows Line Endings (CRLF)" = "Finais de Linha do Windows (CRLF)";
 "Unix Line Endings (LF)" = "Finais de Linha do Unix (LF)";
@@ -88,7 +89,7 @@
 "Replace Next" = "Substituir Próximo";
 "Spelling and Grammar" = "Ortografia e Gramática";
 "Check Document Now" = "Verificar Documento Agora";
-"Check Spelling While Typing" = "Verificar Ortografia Enquanto se Escreve";
+"Check Spelling While Typing" = "Verificar Ortografia Enquanto Escreve";
 "Check Grammar With Spelling" = "Verificar Gramática Com Ortografia";
 "Correct Spelling Automatically" = "Corrigir Ortografia Automaticamente";
 "Substitutions" = "Substituições";
@@ -107,23 +108,23 @@
 "Heading 4" = "Título 4";
 "Heading 5" = "Título 5";
 "Heading 6" = "Título 6";
-"Increase Heading Level" = "Aumentar Posição do Título";
-"Decrease Heading Level" = "Diminuir Posição do Título";
+"Increase Heading Level" = "Aumentar Nível do Título";
+"Decrease Heading Level" = "Diminuir Nível do Título";
 "Table" = "Tabela";
 "Code Fences" = "Bloco de Código";
 "Math Block" = "Bloco de Equações";
 "Quote" = "Citar";
-"Ordered List" = "Lista Ordenada";
-"Unordered List" = "Lista Desordenada";
+"Ordered List" = "Lista Numerada";
+"Unordered List" = "Lista Simples";
 "Task List" = "Lista de Tarefas";
 "Task Status" = "Estado da Tarefa";
-"Toggle Task Status" = "Alternar Estado da Tarefa";
+"Toggle Task Status" = "Alterar Estado da Tarefa";
 "Mark as Complete" = "Marcar como Completo";
 "Mark as Incomplete" = "Marcar como Incompleto";
 "List Indentation" = "Indentação de Lista";
 "Indent" = "Indentar";
 "Outdent" = "Desindentar";
-"Link Reference" = "Vincular Referência";
+"Link Reference" = "Inserir Link";
 "Footnotes" = "Notas de Rodapé";
 "Horizontal Line" = "Linha Horizontal";
 "Table of Contents" = "Tabela de Conteúdos";
@@ -138,8 +139,8 @@
 "Inline Math" = "Marcar como Equação";
 "Strike" = "Riscado";
 "Highlight" = "Realçar";
-"Superscript" = "Superscript";
-"Subscript" = "Subscript";
+"Superscript" = "Sobrescrito";
+"Subscript" = "Subescrito";
 "Comment" = "Comentário";
 "Hyperlink" = "Hiperlink";
 "Image" = "Imagem";
@@ -156,9 +157,9 @@
 "Articles" = "Artigos";
 "File Tree" = "Árvore de Ficheiros";
 "Always on Top" = "Sempre no Topo";
-"Full Screen" = "Tela Cheia";
+"Full Screen" = "Ecrã Completo";
 "Show Status Bar" = "Exibir Barra de Estado";
-"Toggle Fullscreen" = "Alternar Tela Cheia";
+"Toggle Fullscreen" = "Alternar Ecrã Completo";
 "Actual Size" = "Tamanho Real";
 "Zoom In" = "Aumentar Zoom";
 "Zoom Out" = "Diminuir Zoom";
@@ -179,7 +180,7 @@
 "Help" = "Ajuda";
 "Privacy Policy" = "Políticas de Privacidade";
 "Credits" = "Créditos";
-"Change Log" = "Histórico de Mudanças";
+"Change Log" = "Histórico de Alterações";
 "Website" = "Website";
 "Feedback" = "Feedback";
 "About" = "Sobre";
@@ -193,16 +194,16 @@
 
 /* Extra Context Menu */
 "Table" = "Tabela";
-"Add Row Above" = "Inserir Linha Antes";
-"Add Row Below" = "Inserir Linha Depois";
+"Add Row Above" = "Inserir Linha Acima";
+"Add Row Below" = "Inserir Linha Abaixo";
 "Delete Row" = "Remover Linha";
 "Add Column Before" = "Inserir Coluna Antes";
 "Add Column After" = "Inserir Coluna Depois";
 "Delete Column" = "Remover Coluna";
 "Copy Table" = "Copiar Tabela";
 "Delete Table" = "Remover Tabela";
-"Insert Paragraph After" = "Inserir Parágrafo Depois";
-"Insert Paragraph Before" = "Inserir Parágrafo Antes";
+"Insert Paragraph After" = "Inserir Parágrafo Abaixo";
+"Insert Paragraph Before" = "Inserir Parágrafo Acima";
 "Delete Code Block" = "Remover Bloco de Código";
 "Copy as MathML" = "Copiar como MathML";
 "Copy as Tex" = "Copiar como Tex";
@@ -223,17 +224,17 @@
 "Insert" = "Inserir";
 "Inspect Element" = "Inspecionar Elemento";
 "Copy to MS Word" = "Copiar para o MS Word";
-"Paragraph (before)" = "Parágrafo (antes)";
-"Paragraph (after)" = "Parágrafo (depois)";
+"Paragraph (before)" = "Parágrafo (acima)";
+"Paragraph (after)" = "Parágrafo (abaixo)";
 
 "Search with Google" = "Procurar com o Google";
 "Search With…" = "Procurar Com…";
 
 /* Related Panel */
 "Open Failed" = "Erro ao Abrir";
-"File or folder does not exist." = "Ficheiro ou pasta não existe.";
+"File or folder does not exist." = "Ficheiro ou pasta não existente.";
 
-"Search" = "Buscar";
+"Search" = "Procurar";
 
 "Insert Table" = "Inserir Tabela";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Inserir Imagem";

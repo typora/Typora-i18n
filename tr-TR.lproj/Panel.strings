@@ -293,7 +293,7 @@
 "Downloading Updates…" = "Güncellemeler Yükleniyor…";
 "Checking Updates…" = "Güncellemeler Kontrol Ediliyor…";
 "Check Update Failed" = "Güncelleme Kontrolü Başarısız";
-"You are update to date!" = "Güncelsiniz!";
+"You're up to date!" = "Güncelsiniz!";
 "Latest version is $1, your version is $2" = "Son sürüm $1, sizin sürümünüz ise $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Bu seçenekler \"Düzenle→Boşluk ve Satır Sonları\" menüsünden değiştirilebilir";
 "Auto escape image URL when insert" = "Yerleştirildiğinde resim URL'sinden otomatik çıkış";
@@ -317,7 +317,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Üzgünüz, bir hata oluştu, son yazılan içerik panoya kopyalandı. Bu hatayı düzeltmemiz için <hi@typora.io> adresine bildirerek bize yardım edebilirsiniz.";
 "Try Recovery" = "Kurtarmayı Dene";
-"Other options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
+"Other Options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
 
 "When Insert" = "Yerleştirildiğinde";
 "Upload image" = "Resim yükle";

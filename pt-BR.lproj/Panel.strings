@@ -293,7 +293,7 @@
 "Downloading Updates…" = "Baixando Atualizações";
 "Checking Updates…" = "Buscando Atualizações...";
 "Check Update Failed" = "Falha ao Verificar a Atualização";
-"You are update to date!" = "Você está atualizado!";
+"You're up to date!" = "Você está atualizado!";
 "Latest version is $1, your version is $2" = "A última versão é $1, a sua versão é $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Estas opções podem ser alteradas no \"Editar→Espaço em Branco e Quebra de Linha\" menu";
 "Auto escape image URL when insert" = "Fuga automática do URL da imagem ao inserir";
@@ -317,7 +317,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Desculpa, um erro ocorreu, o conteúdo atual foi copiado para a área de transferência. Você pode reportar esse erro para <hi@typora.io> a fim de nos ajudar a corrigir.";
 "Try Recovery" = "Tentar Recuperar";
-"Other options for Data Recovery" = "Outras opções para Recuperação de Dados";
+"Other Options for Data Recovery" = "Outras opções para Recuperação de Dados";
 
 "When Insert" = "Ao Inserir";
 "Upload image" = "Carregar imagem";

@@ -1,7 +1,6 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
  by hi@typora.io 
  Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
  */
@@ -15,8 +14,8 @@
 "Classic" = "Cổ điển";
 "Seamless" = "Không viền";
 "Seamless window only support OS X later than 10.10." = "Không viền chỉ hoạt động cho phiên bản OS X mới hơn 10.10.";
-"Themes" = "Themes";
-"Open Theme Folder" = "Mở thư mục Theme";
+"Themes" = "Chủ đề";
+"Open Theme Folder" = "Mở thư mục Chủ đề";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Vui lòng xem qua `Giúp đỡ`->`Khởi đầu nhanh` để có thêm thông tin cơ bản. Truy cập http://theme.typora.io để nhận thêm theme và hướng dẫn chi tiết.";
 "Word Count" = "Bộ đếm từ";
 "Always Show Word Count" = "Luôn hiện số lượng từ";
@@ -28,6 +27,7 @@
 "Show Outline Panel by Default" = "Hiện bảng dàn bài theo mặc định";
 "Collapsible Outline on Left Panel" = "Bảng dàn bài gấp được ở bảng bên trái";
 "Save without asking when\nswitch files on side panel" = "Lưu mà không cần hỏi khi\nchuyển sang tập tin khác ở bảng bên";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Tập tin đã chỉnh sửa sẽ tự động lưu mà không cần hỏi khi chuyển sang tập tin khác ở bảng bên trái. \nKhi tuỳ chọn \"Ask to keep changes when closing documents\" đã tắt trong System Preference, tính năng này sẽ luôn luôn được bật.";
 "Language" = "Ngôn ngữ";
 "System Language" = "Ngôn ngữ hệ thống";
 
@@ -113,8 +113,6 @@
 "Converting file using Pandoc. This may take some time." = "Đang chuyển đổi tập tin với Pandoc sẽ mất một ít thời gian.";
 "Exporting file using Pandoc. This may take some time." = "Đang xuất tập tin với Pandoc sẽ mất một ít thời gian.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Đang tải ảnh lên bằng iPic...";
 "Uploading in progress…" = "Đang xử lý tải lên...";
 "Do not show this again" = "Không hiện lại thông báo này";
 
@@ -165,11 +163,11 @@
 "This feature require macOS >= 10.11" = "Tính năng này yêu cầu macOS >= 10.11";
 "One More Step" = "Chỉ còn tí xíu thôi";
 "Notice" = "Thông báo";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Điều này yêu cầu iPic đã được cài đặt và tất cả các hình ảnh có liên quan sẽ được tải lên dịch vụ đám mây thông qua iPic. Lưu ý, dịch vụ đám mây mặc định không hỗ trợ xoá đi các hình ảnh đã tải lên.";
 
 "%d Images Failed to Upload." = "%d hình ảnh đã tải lên không thành công.";
 "%d Succeeded," = "%d đã thành công, ";
 "Enable this feature on preferences panel" = "Bật tính năng này trong cửa sổ Cài đặt";
+"The option `%@` must be enabled first to automatically upload images." = "Tuỳ chọn `%@` cần phải được bật trước để hình ảnh được tải lên tự động.";
 "%@ is a file, not a directory" = "%@ là một tập tin, không phải một thư mục";
 "Copy Images To…" = "Sao chép hình ảnh đến…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục %@ dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
@@ -220,7 +218,6 @@
 "Copy image to current folder (./)" = "Sao chép hình ảnh vào thư mục hiện tại (./)";
 "Copy image to ./assets" = "Sao chép hình ảnh vào thư mục ./assets";
 "Copy image to ./${filename}.assets" = "Sao chép hình ảnh vào thư mục ./${filename}.assets";
-"Upload image via iPic" = "Tải ảnh lên bằng iPic";
 "Apply above rules to local images" = "Áp dụng quy tắc trên cho hình ảnh trong máy";
 "Apply above rules to online images" = "Áp dụng quy tắc trên cho hình ảnh trực tuyến";
 "Allow upload images automatically based on YAML settings" = "Cho phép tải ảnh lên tự động dựa trên cài đặt YAML";
@@ -254,7 +251,7 @@
 "Please input a folder path." = "Vui lòng nhập một đường dẫn thư mục.";
 "Cannot use root path." = "Không thể sử dụng đường dẫn gốc.";
 
-"Get Themes" = "Tải thêm Themes";
+"Get Themes" = "Tải thêm Chủ đề";
 "File/directory already exists at target path." = "Tập tin/thư mục đã tồn tại ở đường dẫn đã chọn.";
 "Keep Both" = "Giữ cả hai";
 "Are you sure you want to move %@?" = "Bạn chắc chắn muốn di chuyển %@?";
@@ -274,3 +271,198 @@
 "Copy %@" = "Sao chép %@";
 "Move %@" = "Di chuyển %@";
 "Delete %@" = "Xoá %@";
+
+"Turn off Typewriter / Focus Mode" = "Tắt chế độ Typewriter / Focus";
+"Typewriter / Focus Mode have been turned off." = "Chế độ Typewriter / Focus đã được tắt.";
+
+"Reading Speed" = "Tốc độ đọc";
+"Auto" = "Tự động";
+"words / min" = "từ / phút";
+
+"Reset to Default" = "Đặt về mặc định";
+"120  words/minute (Slow)" = "120  từ/phút (Chậm)";
+"240  words/minute (Medium)" = "240  từ/phút (Vừa phải)";
+"382  words/minute (Fast)" = "382  từ/phút (Nhanh)";
+
+"Copy and update image source to…" = "Sao chép và cập nhật hình ảnh nguồn tới…";
+"Updater" = "Trình cập nhật";
+"Install Updates ?" = "Cài đặt bản cập nhật ?";
+"Quit and Install" = "Thoát và cài đặt";
+"Download failed" = "Tải xuống thất bại";
+"Downloading Updates…" = "Đang tải cập nhật…";
+"Checking Updates…" = "Đang kiểm tra cập nhật…";
+"Check Update Failed" = "Kiểm tra cập nhật thất bại";
+"You're up to date!" = "Đã cập nhật bản mới nhất!";
+"Latest version is $1, your version is $2" = "Phiên bản mới nhất là $1, phiên bản hiện tại là $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tuỳ chọn này có thể thay đổi tại lệnh \"Chỉnh sửa→Khoảng trắng và ngắt dòng\"";
+"Auto escape image URL when insert" = "Tự động thoát URL của hình ảnh khi chèn";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Ví dụ, nếu bạn chèn một tập tin vào 'img/example file.png', thì nó sẽ đổi thành 'img/example%20file.png'. Bật tính năng này để tương thích tốt hơn với hệ thống Markdown khác, hoặc tắt tính này để cải thiện độ dễ đọc.";
+"Check updates automatically" = "Kiểm tra bản cập nhật tự động";
+"Skip This Version" = "Bỏ qua phiên bản này";
+"Remind Me Later" = "Nhắn tôi sau";
+"Download Update" = "Tải cập nhật";
+"New version available." = "Đã có phiên bản mới hơn.";
+
+"When copy / export as HTML (without style)" = "Khi sao chép / xuất dưới dạng HTML (không có style)";
+"Use Rendered SVG" = "Sử dụng SVG đã render";
+"Use LaTeX Source" = "Sử dụng LaTeX nguồn";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Sẽ ảnh hưởng khi xuất dưới dạng HTML (không có style) hoặc sao chép dưới dạng mã HTML hoặc sao chép mà không có style chủ đề.<br/>Khi chọn <strong>Sử dụng LaTeX nguồn</strong>, Typora sẽ giữ nguyên dạng LaTeX thô (ví dụ: $X^2$),<br/>Khi chọn <strong>Sử dụng SVG đã render</strong>, dạng SVG đã render sẽ được sử dụng, khi đó nếu bạn dán nội dung sang ứng dụng khác, SVG có thể bị bỏ qua.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Tính năng nhập và nhiều định dạng xuất tập tin cần chương trình Pandoc (≥%@) được cài đặt sẵn.";
+"Do not show this message again" = "Không hiện thông báo này nữa";
+
+"Page Break Between Top Headings" = "Ngắt trang giữa các Tiêu đề trên cùng";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Xin lỗi, đã có lỗi xuất hiện, nội dung soạn thảo đã được sao chép vào bộ nhớ tạm (clipboard). Bạn có thể báo cáo lỗi này đến <hi@typora.io> để giúp chúng tôi sửa nó ngay.";
+"Try Recovery" = "Thử phục hồi";
+"Other options for Data Recovery" = "Các tuỳ chọn khác để phục hồi dữ liệu";
+
+"When Insert" = "Khi chèn";
+"Upload image" = "Tải ảnh lên";
+"e.g: %@" = "ví dụ: %@";
+"Test Uploader" = "Kiểm tra công cụ tải lên";
+"Validating" = "Đang kiểm tra công cụ tải lên";
+"Validation Failed" = "Kiểm tra thất bại";
+"Validation Succeed" = "Kiểm tra thành công";
+"Testing image uploading using command:" = "Kiểm tra hình ảnh tải lên thông qua câu lệnh:";
+"Running… Waiting for results." = "Đã chạy… Đang chờ kết quả.";
+"Output from the console:" = "Kết quả từ bảng câu lệnh:";
+"Error from the console:" = "Lỗi từ bảng câu lệnh:";
+"Failed to fetch uploaded image from command output." = "Lấy hình ảnh đã tải lên thất bại từ kết quả câu lệnh.";
+"Successfully get uploaded image url." = "Lấy hình ảnh đã tải lên thành công từ url.";
+"Image Uploader" = "Công cụ tải ảnh lên";
+"Instructions" = "Hướng dẫn";
+"Download %@" = "Tải xuống %@";
+"Image Upload Setting" = "Cài đặt công cụ tải ảnh lên";
+"Please set an image uploader in Preferences panel before using this function." = "Vui lòng thiết lập một công cụ tải ảnh lên trong bảng Tuỳ chọn cài đặt trước khi sử dụng tính năng này.";
+"Download or Upgrade" = "Tải xuống hoặc nâng cấp";
+"Open Config File" = "Mớ tập tin Config";
+"Command" = "Câu lệnh";
+"PicGo Path" = "Đường dẫn PicGo";
+"Path of PicGo binary" = "Đường dẫn đến tập lệnh PicGo";
+"Executable" = "Thực thi";
+"Checking" = "Đang kiểm tra";
+"Download" = "Tải về";
+"Agree and Download" = "Đồng ý và tải về";
+"Download and Reinstall" = "Tải về và cài đặt lại";
+"Loading PicGo-Core License" = "Tải giấy phép PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Không thể xác định phiên bản PicGo-Core đã cài (bằng câu lệnh)";
+"You have the latest PicGo-Core (CLI)" = "Bạn đã có PicGo-Core mới nhất (CLI)";
+"Newer version is available" = "Đã có phiên bản mới hơn";
+
+"Downloading…" = "Đang tải…";
+"Unzipping…" = "Đang giải nén…";
+"Finished" = "Đã hoàn tất";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora sẽ chạy ứng dụng bên thứ ba với đường dẫn tập tin đến các hình ảnh nội bộ. Công cụ tải ảnh lên và bộ nhớ ảnh trên mây sẽ có quyền truy cập đến các ảnh nội bộ của bạn. Bạn có muốn tiếp tục?";
+
+"Export operation finished successfully." = "Quá trình xuất kết thúc thành công.";
+
+"Shortcut Keys" = "Phím tắt";
+"Custom Shortcut Keys" = "Tuỳ chỉnh phím tắt";
+
+"Theme" = "Chủ đề";
+"Light Theme" = "Chủ đề sáng";
+"Dark Theme" = "Chủ đề tối";
+"Use separate theme in dark mode" = "Sử dụng chủ đề riêng biệt trong chế độ tối";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Hỗ trợ từ bản macOS ≥ 10.15 hoặc Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Chuyển đổi -- sang – (en gạch ngang), và từ --- sang — (em gạch ngang)";
+"Convert -- and --- to — (em dash)" = "Chuyển đổi -- và --- sang — (em gạch ngang)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Bạn có thể thiết lập mẫu trích dẫn trong Tuỳ chọn hệ thống → Bàn phím → Văn bản. Nếu thiết lập đã được thay đổi, Typora cần được khởi động lại để áp dụng nó.";
+
+
+"Paper Size" = "Cỡ giấy";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Ngắt trang";
+"Page Break Between Top Headings" = "Ngắt trang giữa các Tiêu đề trên đầu";
+"Header" = "Phần đầu trang";
+"Footer" = "Phần chân trang";
+"Author" = "Tác giả";
+"Append in <head />" = "Thêm vào <head />";
+"Append in <body />" = "Thêm vào <body />";
+"Include Outline Sidebar" = "Bao gồm dàn bài thanh bên";
+"Width" = "Độ rộng";
+"Command" = "Câu lệnh";
+"Show Save File Dialog" = "Hiện cửa sổ lưu tập tin";
+"File Extensions for Export" = "Phần mở rộng tập tin khi xuất";
+"Arguments" = "Đối số";
+"Extra Arguments" = "Đối số thêm";
+"LaTeX Engine" = "Tập lệnh LaTeX";
+"Template" = "Bản mẫu";
+"Empty" = "Trống";
+"Style Reference" = "Tham chiếu Style";
+"Custom CSS" = "Tuỳ chỉnh CSS";
+"Chapter Level" = "Mức độ chương";
+"Default Folder for Exported File" = "Thư mục mặc định cho tập tin đã xuất";
+"Same folder with current file" = "Dùng chung thư mục với tập tin hiện tại";
+"Custom location" = "Tuỳ chỉnh khu vực";
+"(Auto Detect)" = "(Tự động phát hiện)";
+"After Export" = "Sau khi xuất";
+"Open exported file location" = "Mở khu vực mà tập tin đã xuất";
+"Open exported file" = "Mở tập tin đã xuất";
+"Custom" = "Tuỳ chỉnh";
+"None" = "Không";
+"Default" = "Mặc định";
+"Margin" = "Căng lề";
+"Margin Left" = "Căng lề trái";
+"Margin Right" = "Căng lề phải";
+"Margin Top" = "Căng lề trên cùng";
+"Margin Bottom" = "Căng lề dưới cùng";
+"Width x Height" = "Chiều rộng x Chiều cao";
+"Add From a Template" = "Thêm biểu mẫu một bản mẫu";
+"Delete this export option ?" = "Xoá tuỳ chọn xuất này ?";
+"Add" = "Thêm";
+"Delete" = "Xoá";
+"Rename" = "Đổi tên";
+"Move Down" = "Di chuyển xuống";
+"Move Up" = "Di chuyển lên";
+"Pandoc Path" = "Đường dẫn Pandoc";
+"Select" = "Chọn";
+"Target Format" = "Định dạng mục tiêu";
+"auto detect based on target file path" = "tự động phát hiện dựa trên đường dẫn tập tin mục tiêu";
+"Target File Extensions (separate by whitespace)" = "Mục tiêu phần mở rộng tập tin (ngăn cách bằng khoảng trắng)";
+"e.g: .text .asciidoc or leave this empty" = "ví dụ: .text .asciidoc hoặc để trống";
+"Raw Type" = "Loại thô";
+"Auto" = "Tự động";
+"Show Save File Dialog" = "Hiện bản thông báo lưu tập tin";
+"Do not popup save file dialog" = "Không hiện thông báo lưu tập tin";
+"Select file path to save" = "Chọn đường dẫn tập tin để lưu";
+"Select folder path to save" = "Chọn đường dẫn thư mục để lưu";
+"PDF Engine" = "Tập lệnh PDF";
+"Show command output" = "Hiện nội dung xuất câu lệnh";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Xuất và ghi đè với định dạng đã chọn trước đó\" sẽ ghi đè tập tin ở %@, bạn vẫn muốn tiếp tục?";
+"Command Arguments:" = "Câu lệnh đối số:";
+"This beta version of Typora is expired, please download and install a newer version." = "Phiên bản thử nghiệm này của Typora đã hết hạn, vui lòng tải và cài đặt một phiên bản mới hơn.";
+"Current Theme" = "Chủ đề hiện tại";
+"After Export" = "Sau khi xuất";
+"Run command" = "Chạy câu lệnh";
+"Run command after export failed" = "Chạy câu lệnh sau khi xuất thất bại";
+"Read and overwrite export settings from YAML front matters" = "Đọc và ghi đè tuỳ chọn xuất tập tin từ YAML front matters";
+"Append Extra Content (HTML)" = "Nối tiếp nội dung bổ sung (HTML)";
+"Change this option to specify a separated theme for export." = "Thay đổi tuỳ chọn này để chỉ định một chủ đề riêng biệt để xuất.";
+"Dark theme is not supported." = "Chủ đề tối không được hỗ trợ.";
+
+"Markdown Variants" = "Biến thể Markdown";
+"Original Unextended Markdown" = "Bản Markdown nguyên gốc chưa được mở rộng";
+"CommonMark with many pandoc extensions" = "CommonMark với nhiều phần mở rộng pandoc";
+"Line Wrap" = "Gói gọn dòng văn bản";
+"Hard line wrap" = "Gói gọn cứng dòng văn bản";
+"Text Column Width" = "Chiều rộng cột văn bản";
+"Auto (based on current OS)" = "Tự động (dựa trên hệ điều hành hiện tại)";
+"Indent" = "Thụt lề";
+"Preserve tabs" = "Giữ lại tab";
+"2 spaces per tab" = "2 khoảng trắng cho mỗi tab";
+"3 spaces per tab" = "3 khoảng trắng cho mỗi tab";
+"4 spaces per tab" = "4 khoảng trắng cho mỗi tab";
+"Unicode Characters" = "Các ký tự Unicode";
+"Use only ASCII characters in output" = "Chỉ sử dụng các ký tự ASCII cho đầu ra";
+"Use reference-style links rather than inline links" = "Sử dụng các đường dẫn kiểu tham chiếu thay cho các đường dẫn nội bộ";
+"Footnotes and References Location" = "Vị trí Chú thích và Tham chiếu";
+"End of document" = "Kết thúc của tài liệu";
+"End of current (top-level) block" = "Kết thúc của khối (trên cùng-cấp độ) hiện tại";
+"End of current section" = "Kết thúc của phần hiện tại";
+"Convert TeX formulas to web images" = "Chuyển đổi các công thức TeX thành các hình ảnh mạng";
+"Image Format" = "Định dạng hình ảnh";

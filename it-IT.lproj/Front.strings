@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by starise@andreabrandi.com
+ by starise@andreabrandi.com, tommaso.ghisini@gmail.com
 */
 
 /* Common */
@@ -71,7 +71,8 @@
 "Refresh Folder" = "Aggiorna cartella";
 "Sort" = "Ordina";
 "Group By Folder" = "Raggruppa per cartella";
-"Sort Naturally" = "Ordina";
+"Sort Naturally (Ascending)" = "Ordina (Ascending)";
+"Sort Naturally (Descending)" = "Ordina (Descending)";
 "Sort by Name (Ascending)" = "Ordina per nome (Ascending)";
 "Sort by Modification Date (Ascending)" = "Ordina per data di modifica (Ascending)";
 "Sort by Name (Descending)" = "Ordina per nome (Descending)";
@@ -112,7 +113,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Il contenuto del file è stato modificato da un'applicazione esterna. Ricaricare il contenuto dal disco ?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Sei sicuro di voler spostare e sovrascrivere i file esistenti ?";
 
-"Rename Failed" = "Impossibile rinominare";
 "Rename to \"{0}\" ?" = "Rinominare in \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Impossibile rinominare \"{0}\" in \"{1}\"";
 
@@ -174,3 +174,5 @@
 "Failed to upload images:" = "Caricamento immagini non riuscito:";
 "Uploading in progress" = "Caricamento in corso";
 "Successfully uploaded {0} images, {1} failed." = "Sono state caricate {0} immagini, {1} non riuscito.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Puoi annullare questa operazione successivamente in `Modifica` → `Annulla`.";

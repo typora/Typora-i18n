@@ -176,3 +176,9 @@
 "Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Możesz później cofnąć tę czynność, wybierając `Edycja` → `Cofnij`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>⌘ + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>CTRL + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+
+"<strong>Unibody</strong> style has been turned on." = "Styl <strong>Unibody</strong> został włączony."
+"You can right click titlebar to popup application menu." = "Możesz kliknąć prawym przyciskiem myszy, aby wywołać menu aplikacji.";

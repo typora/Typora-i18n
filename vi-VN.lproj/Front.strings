@@ -177,3 +177,9 @@
 "Successfully uploaded {0} images, {1} failed." = "Đã tải lên {0} hình ảnh thành công, {1} thất bại.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Bạn có thể hoàn tác cho thao tác vừa rồi qua lệnh `Chỉnh sửa` → `Hoàn tác`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Bạn có thể nhấn <strong>⌘ + Click</strong> để mở <a href='#'>đường dẫn</a> hoặc nhảy đến phần định nghĩa chân trang.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Bạn có thể nhấn <strong>CTRL + Click</strong> để mở <a href='#'>đường dẫn</a> hoặc nhảy đến phần định nghĩa chân trang.";
+
+"<strong>Unibody</strong> style has been turned on." = "Chủ đề <strong>Unibody</strong> đã được bật."
+"You can right click titlebar to popup application menu." = "Bạn có thể click chuột phải vào thanh tiêu đề để mở menu của chương trình.";

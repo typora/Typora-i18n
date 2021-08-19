@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9
+ by ryush00, Third9, cog25
 */
 
 /* Common */
@@ -55,16 +55,16 @@
 
 /* Sidebar */
 "Articles" = "문서";
-"Outline" = "개략";
+"Outline" = "개요";
 "Files" = "파일";
 "Switch to File List view" = "파일 목록 보기로 전환";
 "Switch to File Tree view" = "파일 트리 보기로 전환";
-"Switch to Outline view" = "개략 보기로 전환";
+"Switch to Outline view" = "개요 보기로 전환";
 "Close sidebar" = "사이드바 닫기";
 "Loading" = "로드중";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "선택된 폴더의 파일이 너무 많습니다. \n 더 나은 성능을 위해 <a id='switch-to-tree-on-oversize'>파일 트리 보기</a>로 전환하세요.";
 "New File" = "새 파일";
-"Unpin Outline Panel" = "개략 패널 고정 해제";
+"Unpin Outline Panel" = "개요 패널 고정 해제";
 "Open Folder..." = "폴더 열기...";
 "Action" = "동작";
 "Close Sidebar Menu" = "사이드바 메뉴 닫기";
@@ -82,7 +82,7 @@
 "Switch File List/Tree View" = "목록/트리 보기로 전환";
 "No Files Available" = "사용 가능한 파일 없음";
 "No Folder is Opened." = "열린 폴더가 없음.";
-"Outline is Empty." = "개략이 비어있음.";
+"Outline is Empty." = "개요이 비어있음.";
 
 /* Status Bar */
 "Toggle Sidebar" = "사이드바 토글";

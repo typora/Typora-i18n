@@ -64,7 +64,7 @@
 "New File" = "Nowy plik";
 "Unpin Outline Panel" = "Odepnij panel konspektu";
 "Open Folder..." = "Otwórz folder…";
-"Action" = "Działania"
+"Action" = "Działania";
 "Close Sidebar Menu" = "Zamknij menu panelu bocznego";
 "Reveal in Finder" = "Otwórz w Finderze";
 "Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
@@ -77,7 +77,7 @@
 "Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
 "Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";
 "Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (malejąco)";
-"Location" = "Położenie";
+"Location" = "Lokalizacja";
 "Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
 "No Files Available" = "Brak dostępnych plików";
 "No Folder is Opened." = "Żaden folder nie jest otwarty.";
@@ -176,3 +176,9 @@
 "Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Możesz później cofnąć tę czynność, wybierając `Edycja` → `Cofnij`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>⌘ + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>CTRL + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+
+"<strong>Unibody</strong> style has been turned on." = "Styl <strong>Unibody</strong> został włączony."
+"You can right click titlebar to popup application menu." = "Możesz kliknąć prawym przyciskiem myszy, aby wywołać menu aplikacji.";

@@ -177,3 +177,9 @@
 "Successfully uploaded {0} images, {1} failed." = "成功上传 {0} 个图片，失败 {1} 个。";
 
 "You could undo this operation later via `Edit` → `Undo`." = "您可以在之后通过 `编辑` → `撤销` 撤销该操作。";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以 <strong>按下 ⌘ + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以 <strong>按下 CTRL + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>一体化</strong> 风格已开启。";
+"You can right click titlebar to popup application menu." = "您可以右键单击标题栏以弹出应用程序菜单。";

@@ -64,7 +64,7 @@
 "New File" = "Nowy plik";
 "Unpin Outline Panel" = "Odepnij panel konspektu";
 "Open Folder..." = "Otwórz folder…";
-"Action" = "Działania"
+"Action" = "Działania";
 "Close Sidebar Menu" = "Zamknij menu panelu bocznego";
 "Reveal in Finder" = "Otwórz w Finderze";
 "Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
@@ -77,7 +77,7 @@
 "Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
 "Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";
 "Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (malejąco)";
-"Location" = "Położenie";
+"Location" = "Lokalizacja";
 "Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
 "No Files Available" = "Brak dostępnych plików";
 "No Folder is Opened." = "Żaden folder nie jest otwarty.";

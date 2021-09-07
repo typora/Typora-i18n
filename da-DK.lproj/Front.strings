@@ -175,3 +175,11 @@
 "Failed to upload images:" = "Fejl ved upload af billeder:";
 "Uploading in progress" = "Upload udføres";
 "Successfully uploaded {0} images, {1} failed." = "Uploaded {0} billeder uden problemer, {1} fejlede.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Du kan fortryde denne operation senere med `Redigér` → `Fortryd`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan trykke <strong>⌘ + Click</strong> for at åbne <a href='#'>links</a> eller hoppe til en fodnote definition.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan trykke <strong>CTRL + Click</strong> for at åbne <a href='#'>links</a> eller hoppe til en fodnote definition.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stil er blevet aktiveret."
+"You can right click titlebar to popup application menu." = "Du kan højreklikke på titelbjælken for at åbne applikationsmenuen.";

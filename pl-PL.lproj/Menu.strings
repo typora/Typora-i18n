@@ -313,7 +313,7 @@
 
 "Emoji and Symbols" = "Emoji i symbole";
 
-"Insert Final New Line On Save" = "Wstaw końcowy znak nowego wiersza podczas zapisu";
+"Insert Final New Line On Save" = "Wstaw końcowy znak nowej linii podczas zapisu";
 "Hyperlink Actions" = "Działania na hiperłączach";
 "Copy Link Address" = "Skopiuj adres łącza";
 
@@ -321,4 +321,4 @@
 "Insert Paragraph After" = "Wstaw akapit po";
 "Click" = "Kliknij";
 
-"Export Setting" = "Eksportuj ustawienie";
+"Export Setting" = "Ustawienia eksportowania";

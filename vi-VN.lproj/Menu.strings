@@ -313,3 +313,13 @@
 "Export and Overwrite with Previous" = "Xuất và ghi đè với định dạng đã chọn trước đó";
 
 "Emoji and Symbols" = "Emoji và biểu tượng";
+
+"Insert Final New Line On Save" = "Chèn dòng mới ở cuối dùng khi lưu";
+"Hyperlink Actions" = "Các thao tác Siêu liên kết";
+"Copy Link Address" = "Sao chép đường dẫn liên kết";
+
+"Insert Paragraph Before" = "Chèn đoạn văn bản trước đó";
+"Insert Paragraph After" = "Chèn đoạn văn bản sau đó";
+"Click" = "Click";
+
+"Export Setting" = "Xuất các tuỳ chỉnh";

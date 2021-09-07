@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9, cozyplanes
+ by ryush00, Third9, cozyplanes, cog25
  */
 
 /* Preference Panel */
@@ -27,8 +27,8 @@
 "Customized" = "사용자화";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "서체 크기를 사용자화하면 기본 서체 크기 및 CSS 스타일에 따라 실제 글씨 크기가 달라집니다.";
 "Left Panel" = "왼쪽 패널";
-"Show Outline Panel by Default" = "개략 패널 기본 표시";
-"Collapsible Outline on Left Panel" = "접을 수 있는 왼쪽 개략 패널";
+"Show Outline Panel by Default" = "개요 패널 기본 표시";
+"Collapsible Outline on Left Panel" = "접을 수 있는 왼쪽 개 패널";
 "Save without asking when\nswitch files on side panel" = "사이드 패널에서 파일 전환시\n묻지 않고 저장";
 "Language" = "언어";
 "System Language" = "시스템 언어";

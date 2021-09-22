@@ -96,7 +96,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc דרוש בכדי לייבא את סוגי הקבצים האלו";
 "Check help->Install and use Pandoc from menubar for detail" = "בדוק את עזרה->התקנה והשתמש ב־Pandoc דרך שורת התפריט לפרטים נוספים.";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "חלק מאפשרויות הייבוא והייצוא דורשות ש־<a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) תיהיה מותקנת.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "חלק מאפשרויות הייבוא והייצוא דורשות ש־<a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) תיהיה מותקנת.";
 "Follow Instructions to Install/Update Pandoc" = "עקוב אחר ההוראות בכדי להתקין/לעדכן את Pandoc";
 "Export Failed" = "הייצוא נכשל";
 "Import Failed" = "הייבוא נכשל";

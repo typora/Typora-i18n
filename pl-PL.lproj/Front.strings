@@ -107,7 +107,7 @@
 "Stop" = "Zatrzymaj";
 "back to document" = "Wróć do dokumentu";
 "Failed to load file" = "Nie udało się załadować pliku";
-"Save File Failed!" = "Nie udało się zapisać pliku!"
+"Save File Failed!" = "Nie udało się zapisać pliku!";
 "Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku?";

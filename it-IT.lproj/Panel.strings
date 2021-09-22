@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc è necessario per importare il formato di questi file";
 "Check help->Install and use Pandoc from menubar for detail" = "Vai su Aiuto->Installa e usa Pandoc per maggiori dettagli";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Alcune funzioni di importazione o esportazione richiedono che <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) sia installato.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Alcune funzioni di importazione o esportazione richiedono che <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) sia installato.";
 "Follow Instructions to Install/Update Pandoc" = "Segui le istruzioni per installare/aggiornare Pandoc";
 "Export Failed" = "Esportazione non riuscita";
 "Import Failed" = "Importazione non riuscita";
@@ -215,7 +215,7 @@
 "Update markdown reference for this image" = "Aggiorna riferimento markdown per questa immagine";
 
 "No special action" = "Nessuna azione speciale";
-"Copy image to current folder (./)" = Copia immagine nella cartella corrente (./)";
+"Copy image to current folder (./)" = "Copia immagine nella cartella corrente (./)";
 "Copy image to ./assets" = "Copia immagine in ./assets";
 "Copy image to ./${filename}.assets" = "Copia immagine in ./${filename}.assets";
 "Apply above rules to local images" = "Applica regole alle immagini locali";

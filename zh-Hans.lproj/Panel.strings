@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安装 Pandoc 以导入这些文件";
 "Check help->Install and use Pandoc from menubar for detail" = "请从 `帮助`->`Install and use Pandoc` 中查看详细信息";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "请按照说明安装/升级 Pandoc";
 "Export Failed" = "导出失败";
 "Import Failed" = "导入失败";
@@ -305,7 +305,7 @@
 "Skip This Version" = "跳过该版本";
 "Remind Me Later" = "稍后提醒我";
 "Download Update" = "下载更新";
-"New version avaiable." = "有新版本更新。";
+"New version available." = "有新版本更新。";
 
 "When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
 "Use Rendered SVG" = "使用 SVG";

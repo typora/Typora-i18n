@@ -97,7 +97,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Es necessita el Pandoc per a importar aquests formats de fitxers";
 "Check help->Install and use Pandoc from menubar for detail" = "Reviseu ajuda->Instal·lar i utilitzar Pandoc des de la barra de menu per més informació";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Les característiques d'importació o exportació requereixen que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) estigui instal·lat.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Les característiques d'importació o exportació requereixen que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) estigui instal·lat.";
 "Follow Instructions to Install/Update Pandoc" = "Seguiu les instruccions per a instal·lar/actualitzar el Pandoc";
 "Export Failed" = "Error en exportar";
 "Import Failed" = "Error en importar";

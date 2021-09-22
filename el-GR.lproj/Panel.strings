@@ -97,7 +97,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Απαιτείται το Pandoc για την εισαγωγή αυτού του είδους των αρχείων";
 "Check help->Install and use Pandoc from menubar for detail" = "Τσεκάρετε βοήθεια->Εγκατάσταση και χρησιμοποιήστε το Pandoc από το μενού για λεπτομέρειες";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Κάποια χαρακτηριστικά εισαγωγής και εξαγωγής απαιτούν την εγκατάσταση του <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Κάποια χαρακτηριστικά εισαγωγής και εξαγωγής απαιτούν την εγκατάσταση του <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Ακολουθήστε τις οδηγίες για την Εγκατάσταση/Ενημέρωση του Pandoc";
 "Export Failed" = "Αποτυχία Εξαγωγής";
 "Import Failed" = "Αποτυχία Εισαγωγής";

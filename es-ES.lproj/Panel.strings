@@ -97,7 +97,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Se necesita Pandoc para importar estos formatos de archivos";
 "Check help->Install and use Pandoc from menubar for detail" = "Revisar ayuda->Instalar y usar Pandoc desde la barra de menús para detalles";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Las características de importación o exportación requieren que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) esté instalado.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Las características de importación o exportación requieren que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) esté instalado.";
 "Follow Instructions to Install/Update Pandoc" = "Seguir instrucciones para instalar/actualizar Pandoc";
 "Export Failed" = "Error al exportar";
 "Import Failed" = "Error al importar";

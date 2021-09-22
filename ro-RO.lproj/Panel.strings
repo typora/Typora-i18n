@@ -96,7 +96,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc este necesar pentru a importa fișiere cu acest format";
 "Check help->Install and use Pandoc from menubar for detail" = "Verificați Ajutor->Instalează și folosește Pandoc din bara de meniu pentru detalii";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Importarea și unele caracteristici a exportării necesită <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) instalat.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Importarea și unele caracteristici a exportării necesită <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) instalat.";
 "Follow Instructions to Install/Update Pandoc" = "Urmăriți instrucţiunile pentru a Instala/Actualiza Pandoc";
 "Export Failed" = "Export Nereușit";
 "Import Failed" = "Import Nereușit";

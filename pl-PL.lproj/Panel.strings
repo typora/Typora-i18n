@@ -470,3 +470,5 @@
 "Set Pandoc Path" = "Ustaw ścieżkę do programu Pandoc";
 
 "Apply Line Break at \\ and &#92;newline" = "Wstaw podział wiersza w \\ i &#92;newline";
+
+"Export operation succeeded with warnings." = "Eksportowanie zakończone pomyślnie, lecz z ostrzeżeniami.";

@@ -312,3 +312,13 @@
 "Export and Overwrite with Previous" = "Exportálás és felülírás a legutóbbival";
 
 "Emoji and Symbols" = "Emoji és szimbólumok";
+
+"Insert Final New Line On Save" = "Mentéskor üres sor a fájl végére";
+"Hyperlink Actions" = "Hivatkozás műveletek";
+"Copy Link Address" = "Link címének másolása";
+
+"Insert Paragraph Before" = "Bekezdés beszúrása elé";
+"Insert Paragraph After" = "Bekezdés beszúrása alá";
+"Click" = "Kattintás";
+
+"Export Setting" = "Exportálás beállítások";

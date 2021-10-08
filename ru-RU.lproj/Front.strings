@@ -49,7 +49,7 @@
 /* Math */
 "Edit" = "Правка";
 "Delete Math" = "Удалить формулу";
-"Preview" = "Превью";
+"Preview" = "Предпросмотр";
 
 /* Sidebar */
 "Articles" = "Файлы";
@@ -74,9 +74,9 @@
 "Sort Naturally (Ascending)" = "Естественная сортировка (по возрастанию)";
 "Sort Naturally (Descending)" = "Естественная сортировка (по убыванию)";
 "Sort by Name (Ascending)" = "Сортировать по имени (по возрастанию)";
-"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (по возрастанию)";
+"Sort by Modification Date (Ascending)" = "Сортировать по дате изменения (по возрастанию)";
 "Sort by Name (Descending)" = "Сортировать по имени (по убыванию)";
-"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (по убыванию)";
+"Sort by Modification Date (Descending)" = "Сортировать по дате изменения (по убыванию)";
 "Location" = "Расположение";
 "Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";

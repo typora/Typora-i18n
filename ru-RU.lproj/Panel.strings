@@ -325,7 +325,7 @@
 "Validation Failed" = "Проверка не удалась";
 "Validation Succeed" = "Успешная проверка";
 "Testing image uploading using command:" = "Тестирование загрузки изображений с помощью команды:";
-"Running… Waiting for results." = "Запуск… Ежидание результатов.";
+"Running… Waiting for results." = "Запуск… Ожидание результатов.";
 "Output from the console:" = "Вывод в консоли:";
 "Error from the console:" = "Ошибка в консоли:";
 "Failed to fetch uploaded image from command output." = "Не удалось получить загруженное изображение из вывода команды.";

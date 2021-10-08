@@ -38,7 +38,7 @@
 "Duplicate" = "Копировать";
 "Rename" = "Переименовать";
 "Move To" = "Переместить в...";
-"Revert To" = "Вернуться к";
+"Revert To" = "Вернуться к...";
 "Browse All Versions" = "Просмотр всех версий";
 "Import" = "Импорт";
 "Export" = "Экспорт";
@@ -64,7 +64,7 @@
 "Delete Word" = "Удалить слово";
 "Delete Styled Scope" = "Удалить стилизованную область";
 "Delete Line/Sentence" = "Удалить строку/предложение";
-"Jump To" = "Перейти к";
+"Jump To" = "Перейти к...";
 "Jump to Top" = "Перейти к началу страницы";
 "Jump to Selection" = "Перейти к выделенному";
 "Jump to Bottom" = "Перейти к нижней части";
@@ -154,7 +154,7 @@
 "Outline" = "Оглавление";
 "Articles" = "Файлы";
 "File Tree" = "Дерево файлов";
-"Always on Top" = "Всегда наверху";
+"Always on Top" = "Поверх всех окон";
 "Full Screen" = "Во весь экран";
 "Show Status Bar" = "Показать строку состояния";
 "Toggle Fullscreen" = "Переключить полный экран";
@@ -172,7 +172,7 @@
 "Window" = "Окно";
 "Minimize" = "Свернуть";
 "Zoom" = "Увеличить";
-"Bring All to Front" = "Вывести ВСЕ на передний план";
+"Bring All to Front" = "Вынести ВСЁ на передний план";
 
 /* Help Menu */
 "Help" = "Справка";
@@ -216,7 +216,7 @@
 "New Folder" = "Новая папка";
 
 /* Electron */
-"Learn Spelling" = "Учить правописание";
+"Learn Spelling" = "Добавить в словарь";
 "Copy / Paste As…" = "Копировать / Вставить как…";
 "Math" = "Формулы";
 "Insert" = "Вставить";
@@ -244,7 +244,7 @@
 "Preserve single line break" = "Сохранять разрыв строки";
 "Visible <br/>" = "Видимый <br/> и разрыв строки markdown";
 
-"Save All" = "Сохранить все";
+"Save All" = "Сохранить всё";
 "New Window" = "Новое окно";
 "Reopen Closed File" = "Повторно открыть закрытый файл";
 
@@ -262,7 +262,7 @@
 "Pause" = "Приостановить";
 
 "Spell Check" = "Проверка орфографии";
-"Unlearn Spelling" = "Забыть орфографию";
+"Unlearn Spelling" = "Удалить из словаря";
 "Properties" = "Свойства";
 
 "Search" = "Поиск";

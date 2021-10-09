@@ -26,7 +26,7 @@
 "Left Panel" = "Боковая панель";
 "Show Outline Panel by Default" = "Отображать по умолчанию панель оглавления";
 "Collapsible Outline on Left Panel" = "Сворачиваемое оглавление в боковой панели";
-"Save without asking when\nswitch files on side panel" = "Сохранять при переключении\nфайлов на боковой панели";
+"Save without asking when\nswitch files on side panel" = "Сохранять при переключении \nфайлов на боковой панели";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Отредактированные файлы будут сохранены без запроса при переключении файлов в левой панели. \nЭта функция включается, если \"Запрос о сохранении изменений при закрытии документов\" отключен в настройках.";
 "Language" = "Язык";
 "System Language" = "Язык системы";
@@ -38,7 +38,7 @@
 "Trigger Autocomplete without ESC key for" = "Автоматическое";
 "Emoji (e.g. :smile:)" = "Эмодзи (например: :smile:)";
 "Images Insert" = "Вставка изображений";
-"Use relative path if possible" = "Использовать относительный путь при\nвозможности";
+"Use relative path if possible" = "Использовать относительный путь при возможности";
 "Auto Pair" = "Автозавершение";
 "Auto pair brackets and quotes" = "Автозакрытие скобок и кавычек";
 "Auto pair common Markdown syntax" = "Автозавершение основных тегов Markdown";
@@ -325,7 +325,7 @@
 "Validation Failed" = "Проверка не удалась";
 "Validation Succeed" = "Успешная проверка";
 "Testing image uploading using command:" = "Тестирование загрузки изображений с помощью команды:";
-"Running… Waiting for results." = "Запуск… В ожидании результатов.";
+"Running… Waiting for results." = "Запуск… Ожидание результатов.";
 "Output from the console:" = "Вывод в консоли:";
 "Error from the console:" = "Ошибка в консоли:";
 "Failed to fetch uploaded image from command output." = "Не удалось получить загруженное изображение из вывода команды.";

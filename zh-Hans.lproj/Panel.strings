@@ -473,3 +473,9 @@
 "Set Pandoc Path" = "设置 Pandoc 路径";
 
 "Apply Line Break at \\ and &#92;newline" = "支持使用 \\ 和 &#92;newline 换行";
+
+"Export operation succeeded with warnings." = "导出成功，但包含警告信息。";
+
+"Typora is now deactivated" = "Typora 已取消激活";
+"This device has been deactivated" = "该设备已取消激活";
+"UNREGISTERED" = "未激活";

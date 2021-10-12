@@ -476,3 +476,6 @@
 "Typora is now deactivated" = "Typora is now deactivated";
 "This device has been deactivated" = "This device has been deactivated";
 "UNREGISTERED" = "UNREGISTERED";
+
+"Override TeX commands from physics package" = "Override TeX commands from physics package";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "When enabled, commands like \\div, \\Re will be redefined by physics package.";

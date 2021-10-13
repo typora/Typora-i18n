@@ -480,5 +480,5 @@
 "This device has been deactivated" = "该设备已取消激活";
 "UNREGISTERED" = "未激活";
 
-"Override TeX commands from physics package" = "允许 physics 包覆盖部分原有 TeX 宏";
+"Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";

@@ -12,7 +12,7 @@
 
 /* General Panel */
 "General" = "عمومی";
-"Window Style" = "Window Style";
+"Window Style" = "سبک پنجره";
 "Classic" = "سنتی";
 "Seamless" = "یک پارچه";
 "Seamless window only support OS X later than 10.10." = "پنجره‌ی یکپارچه تنها در نسخه OS X و بعد از 10.10 پشتیبانی می‌شود‫.‬";
@@ -51,7 +51,7 @@
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "همیشه هنگامی که حالت ماشین تحریر فعال است\nنشانک را در وسط نگهدار";
 
 /* Markdown Panel */
-"Markdown" = "مارکدون";
+"Markdown" = "مارک‌داون";
 "(Following preferences will be applied after restart.)" = "(تنظیمات زیر پس از اجرای مجدد برنامه اعمال خواهند شد.)";
 "Syntax Support" = "پشتیبانی سینتکس";
 "Inline Math  ( e.g: $\LaTeX$ )" = "فرمول ریاضی درون‌خطی  ( e.g: $\LaTeX$ )";

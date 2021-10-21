@@ -9,69 +9,68 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Добро пожаловать в Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Благодарим вас за использование Typora 👋. Typora - это простой редактор Markdown, который позволяет вам легко найти общий язык между содержимым в богатом стиле и его исходным кодом.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Начать";
+"Check following links if you're new to Markdown or Typora." = "Посетите следующие ссылки, если вы новичок в Markdown или Typora.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Активировать Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Уже приобрели лицензию? Заполните форму ниже и активируйте Typora мгновенно.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "Электронная почта";
+"Email Address" = "Адрес электронной почты";
+"License Code" = "Лицензионный код";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Помощь";
+"Find my License" = "Найти мою лицензию";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Примите <a href='https://support.typora.io/License-Agreement/'>Лицензионное соглашение</a> и <a href='https://support.typora.io/Privacy-Policy/'>Политику конфиденциальности</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Предпросмотр в реальном времени";
+"Write and read rendered output instantly." = "Запись и чтение отрисованного вывода мгновенно.";
+"Markdown Syntax" = "Синтаксис Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Блоки кода, YAML, задачи, сноски, таблицы, математика, диаграммы";
+"Import / Export" = "Импорт / Экспорт";
+"Deliver your content in various formats." = "Передавайте свой контент в различных форматах.";
+"Editing Experience" = "Опыт редактирования";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Конспект / Подсчет слов / Режим фокусировки / Режим пишущей машинки";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "Файлы";
+"Manage files in sidebar and search across files." = "Управление файлами на боковой панели и поиск по файлам.";
+"Customize" = "Настроить";
+"Customize your writing experience from preferences panel." = "Настройте свой опыт письма с помощью панели настроек.";
+"Themes" = "Темы";
+"Write in the theme you like, or make one by your own." = "Пишите в теме, которая вам нравится, или создайте свою собственную.";
+"And more" = "И другое";
+"Explorer more topics at support.typora.io" = "Исследуйте больше тем на support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Быстрый старт";
+"Markdown Reference" = "Справочник по Markdown";
+"Explorer Themes" = "Исследовать темы";
+"More Topics" = "Больше тем";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora активированна";
+"Thanks for your purchase." = "Спасибо за покупку.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Далее";
+"Please accept license agreement first" = "Пожалуйста, сначала примите лицензионное соглашение";
+"Start %@ Days Trail" = "Начать %@-дневный пробный период";
+"Buy License" = "Купить лицензию";
+"Activate" = "Активировать";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Закрыть";
+"Deactivate" = "Деактивировать";
+"View License" = "Посмотреть лицензию";
+"Your Typora License" = "Ваша лицензия Typora";
+"This copy of Typora is registered with license information below." = "Эта копия Typora зарегистрирована с лицензионной информацией, приведенной ниже.";
+"Your trail will be expired in %@ days." = "Срок действия вашего пробного периода истечет через %@ дней.";
+"Enter License" = "Введите лицензию";
+"Not Now" = "Не сейчас";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"The license has been used with a different email address." =  "The license has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try gain later." = "Failed to access the license server. Please check your network or try gain later.";
-
+"Please input a valid email address" = "Пожалуйста, введите действительный адрес электронной почты";
+"Please input a valid license code"  = "Пожалуйста, введите действующий лицензионный код";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Ваша лицензия превысила максимальное количество устройств.\nСамое старое устройство было снято с регистрации автоматически.";
+"The license has been used with a different email address." =  "Лицензия была использована с другим адресом электронной почты.";
+"Unknown Error. Please contact hi@typora.io" = "Неизвестная ошибка. Пожалуйста, свяжитесь с hi@typora.io";
+"Failed to access the license server. Please check your network or try gain later." = "Не удалось получить доступ к серверу лицензии. Пожалуйста, проверьте подключение к сети или попробуйте получить доступ позже.";

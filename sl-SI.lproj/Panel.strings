@@ -30,7 +30,7 @@
 "Show Outline Panel by Default" = "Privzeto pokaži orisno ploščo";
 "Collapsible Outline on Left Panel" = "Zložljiv oris na levi plošči";
 "Save without asking when\nswitch files on side panel" = "Ob preklopu datoteke na stranski plošči\nshrani brez spraševanja";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Urejene datoteke bodo pri preklopu datotek na levi plošči samodejno shranjene. \nKadar je v sistemskih nastavitvah onemogočena možnost \"Pri zapiranju dokumentov vprašaj za ohranitev sprememb\", je ta možnost vedno omogočena.";
 "Language" = "Jezik";
 "System Language" = "Jezik sistema";
 
@@ -39,7 +39,7 @@
 "Indent Size on Save" = "Velikost zamika pri Shrani";
 "only apply to quotes and lists created from menu bar or hybrid view" = "velja le za citate in sezname, ustvarjene iz menijske vrstice ali hibridnega pogleda";
 "Trigger Autocomplete without ESC key for" = "Sproži samodokončanje brez tipke ESC za";
-"Emoji (e.g. :smile:)" = "Emoji (n. pr. :smile:)";
+"Emoji (e.g. :smile:)" = "Emodži (n. pr. :smile:)";
 "Images Insert" = "Vstavi slike";
 "Use relative path if possible" = "Če je možno, uporabi relativno pot";
 "Auto Pair" = "Samodejno uskladi";
@@ -65,7 +65,7 @@
 "Syntax Preference" = "Nastavitve sintakse";
 "(only applies to styles created from menubar or hybrid view)" = "(velja le za stile, ustvarjene iz menija ali v hibridnem pogledu)";
 "Strict Mode" = "Striktni način";
-"(more strict to GFM spec)" = "(more strict to GFM spec)";
+"(more strict to GFM spec)" = "(strožje glede na GFM specifikacijo)";
 "Heading Style" = "Slog naslova";
 "Unordered List" = "Neurejen seznam";
 "Ordered List" = "Urejen seznam";
@@ -193,7 +193,7 @@
 
 "Contact" = "Stik";
 "Open From…" = "Odpri iz …";
-"Import…" = "Uvoz …";
+"Import…" = "Uvozi …";
 "Recent Documents" = "Nedavni dokumenti";
 "Search for" = "Poišči";
 "Clear Recent Documents" = "Počisti nedavne dokumente";
@@ -227,7 +227,7 @@
 
 "Learn More" = "Preberite več";
 "Whitespace / Line Break" = "Presledek / Prelom vrstice";
-"When Writing" = "When Writing";
+"When Writing" = "Ob pisanju";
 "Export / Print" = "Izvozi / Tiskaj";
 "Preserve sequential whitespace and single line break" = "Ohranite zaporedni presledek in enojni prelom vrstice";
 "Ignore sequential whitespace and single line break" = "Ignoriraj zaporedni presledek in enojni prelom vrstice";
@@ -425,43 +425,43 @@
 "Select" = "Izberi";
 "Target Format" = "Ciljni format";
 "auto detect based on target file path" = "samodejno zaznavanje na podlagi poti ciljne datoteke";
-"Target File Extensions (separate by whitespace)" = "Končnice ciljnih datotek (ločene s presledkom";
+"Target File Extensions (separate by whitespace)" = "Končnice ciljnih datotek (ločene s presledkom)";
 "e.g: .text .asciidoc or leave this empty" = "n.pr: .text .asciidoc ali pa pustite prazno";
-"Raw Type" = "Raw";
+"Raw Type" = "";
 "Auto" = "Samodejno";
-"Show Save File Dialog" = "Show Save File Dialog";
-"Do not popup save file dialog" = "Do not popup save file dialog";
-"Select file path to save" = "Select file path to save";
-"Select folder path to save" = "Select folder path to save";
+"Show Save File Dialog" = "Prikaži okno za shranjevanje datoteke";
+"Do not popup save file dialog" = "Ne prikaži okna za shranjevanje datoteke";
+"Select file path to save" = "Izberi pot za shranjevanje";
+"Select folder path to save" = "Izberi pot do mape za shranjevanje";
 "PDF Engine" = "PDF pogon";
 "Show command output" = "Prikaži izhodni ukaz";
 
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
-"Command Arguments:" = "Command Arguments:";
-"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
-"Current Theme" = "Current Theme";
-"After Export" = "After Export";
-"Run command" = "Run command";
-"Run command after export failed" = "Run command after export failed";
-"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
-"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
-"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
-"Dark theme is not supported." = "Dark theme is not supported.";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Izvoz in prepiši s predhodnim\" bo prepisal datoteko %@, želite nadaljevati?";
+"Command Arguments:" = "Argumenti ukaza:";
+"This beta version of Typora is expired, please download and install a newer version." = "Beta različica Typore je potekla, prenesite in nametite novejšo različico.";
+"Current Theme" = "Trenutna tema";
+"After Export" = "Po izvozu";
+"Run command" = "Zaženi ukaz";
+"Run command after export failed" = "Če izvoz ni uspel zaženi ukaz";
+"Read and overwrite export settings from YAML front matters" = "Preberi in prepiši nastavitve izvoza iz YAML vzglavja";
+"Append Extra Content (HTML)" = "Dodaj dodatno vsebino (HTML)";
+"Change this option to specify a separated theme for export." = "Izberite to možnost da določite drugo temo za izvoz.";
+"Dark theme is not supported." = "Temna tema ni podprta.";
 
-"Markdown Variants" = "Markdown Variants";
-"Original Unextended Markdown" = "Original Unextended Markdown";
-"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
-"Line Wrap" = "Line Wrap";
+"Markdown Variants" = "Markdown različice";
+"Original Unextended Markdown" = "Originalen narazširjen Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark s Pandoc razširitvami";
+"Line Wrap" = "Vrivanje vrstice";
 "Hard line wrap" = "Hard line wrap";
-"Text Column Width" = "Text Column Width";
+"Text Column Width" = "Širina tekstovega stolpcah";
 "Auto (based on current OS)" = "Samodejno (glede na trenutni operacijski sistem)";
 "Indent" = "Poravnava";
-"Preserve tabs" = "Ohrani tabulatorjes";
+"Preserve tabs" = "Ohrani tabulatorje";
 "2 spaces per tab" = "2 na tabulator";
 "3 spaces per tab" = "3 na tabulator";
 "4 spaces per tab" = "4 na tabulator";
 "Unicode Characters" = "Unicode znaki";
-"Use only ASCII characters in output" = "  V izpisu uporabljajte samo ASCII znake";
+"Use only ASCII characters in output" = "V izpisu uporabljajte samo ASCII znake";
 "Use reference-style links rather than inline links" = "Uporabite povezave v referenčnem slogu namesto povezav v vrstici";
 "Footnotes and References Location" = "Lokacija za opombe in sklice";
 "End of document" = "Konec dokumenta";

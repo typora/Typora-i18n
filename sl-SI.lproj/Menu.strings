@@ -60,12 +60,12 @@
 "Paste as Plain Text" = "Prilepi kot golo besedilo";
 "Select All" = "Izberi vse";
 "Select Line/Sentence" = "Izberi vrstico/stavek";
-"Select Styled Scope" = "Select Styled Scope";
+"Select Styled Scope" = "Izberi obseg trenutnega stila";
 "Select Word" = "Izberi besedo";
 "Delete" = "Izbriši";
 "Delete Range" = "Izbriši obseg";
 "Delete Word" = "Izbriši besedo";
-"Delete Styled Scope" = "Delete Styled Scope";
+"Delete Styled Scope" = "Izbriši obseg trenutnega stila";
 "Delete Line/Sentence" = "Izbriši vrstico/stavek";
 "Jump To" = "Pojdi na";
 "Jump to Top" = "Pojdi na vrh";
@@ -78,7 +78,7 @@
 "Upload Local Images via iPic" = "Naloži slike s pomočjo iPic";
 "When Insert Local Image" = "Ko vstaviš lokalno sliko";
 "Copy Image File to Folder" = "Kopiraj sliko v mapo";
-"Use Image Root Path" = "Use Image Root Path";
+"Use Image Root Path" = "Uporabi korensko pot do slike";
 "Line Endings" = "Zaključki vrstic";
 "Windows Line Endings (CRLF)" = "Windows (CRLF)";
 "Unix Line Endings (LF)" = "Unix (LF)";
@@ -137,7 +137,7 @@
 "Emphasis" = "Poševno";
 "Underline" = "Podčrtano";
 "Code" = "Koda";
-"Inline Math" = "Inline Math";
+"Inline Math" = "Matematične formule v vrstici";
 "Strike" = "Prečrtaj";
 "Highlight" = "Povdari";
 "Superscript" = "Nadpisano";
@@ -220,7 +220,7 @@
 "Move to Trash" = "Premakni v smetnjak";
 
 /* Electron */
-"Learn Spelling" = "Learn Spelling";
+"Learn Spelling" = "Učenje črkovanja";
 "Copy / Paste As…" = "Kopiraj / Prilepi kot …";
 "Math" = "Matematika";
 "Insert" = "Vstavi";
@@ -253,17 +253,17 @@
 "Reopen Closed File" = "Ponovno odpri zaprto datoteko";
 
 "Global Image Settings" = "Globalne nastavitve slik";
-"Smart Punctuation" = "Smart Punctuation";
+"Smart Punctuation" = "Pametna ločila";
 "Convert on Input" = "Pretvori ob vnosu";
 "Convert on Rendering" = "Pretvori ob izrisu";
-"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"Remap Unicode Punctuation on Parse" = "Ob razčlenjevanju preobliku unicode ločila";
 "More Options" = "Več možnosti";
 
 "HTML Block" = "HTML blok";
 "Delete Block" = "Izbriši blok";
 "Delete %@" = "Izbriši %@";
 "Play" = "Predvajaj";
-"Pause" = "Pavza";
+"Pause" = "Premor";
 
 "Spell Check" = "Preverjanje črkovanja";
 "Unlearn Spelling" = "Pozabi črkovanje";
@@ -272,7 +272,7 @@
 "Search" = "Iskanje";
 "Copy without Theme Styling" = "Kopiraj brez stila trenutne teme";
 "Recent Files" = "Nedavne datoteke";
-"File Results" = "File Results";
+"File Results" = "Rezultati datotek";
 
 "Insert Table" = "Vstavi tabelo";
 "Insert Image" = "Vstavi sliko";
@@ -288,7 +288,7 @@
 
 "Copy as Plain Text" = "Kopiraj kot golo besedilo";
 
-"Selection" = "Selection";
+"Selection" = "Izbor";
 "Start Speaking" = "Začni z govorom";
 "Stop Speaking" = "Prenehaj z govorom";
 "Check Updates" = "Preveri pododobitve";
@@ -312,10 +312,10 @@
 "More Actions" = "Več dejanj";
 "Get Info" = "Pridobite informacije";
 
-"Export with Previous" = "Izvozite s predhodnim";
-"Export and Overwrite with Previous" = "Izvozite in prepišite s prejšnjim";
+"Export with Previous" = "Izvozi s predhodnim";
+"Export and Overwrite with Previous" = "Izvoz in prepiši s predhodnim";
 
-"Emoji and Symbols" = "Emoji in simboli";
+"Emoji and Symbols" = "Emodži in simboli";
 
 "Insert Final New Line On Save" = "Vstavi končno novo vrstico ob shranjevanju";
 "Hyperlink Actions" = "Dejanja hiperpovezav";

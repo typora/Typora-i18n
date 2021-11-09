@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* 
   Menu.strings
   Typora
@@ -310,3 +311,317 @@
 "Copy Image" = "Kopiraj sliko";
 
 "More Actions" = "Več dejanj";
+=======
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+  
+ translation by Boštjan <sponka@gmail.com>
+
+*/
+
+/* Typora Menu */
+
+"About Typora" = "O Typori";
+"Preferences" = "Nastavitve";
+"Check for Updates" = "Preveri pododobitve";
+"Services" = "Servisi";
+"Hide Typora" = "Skrij Typoro";
+"Hide Others" = "Skrij ostalo";
+"Show All" = "Prikaži vse";
+"Quit Typora" = "Izhod iz Typore";
+
+/* File Menu */
+
+"File" = "Datoteka";
+"New" = "Novo";
+"Open" = "Odpri";
+"Open Folder" = "Odpri mapo";
+"Reopen with Encoding" = "ponovno odpri s kodiranjem";
+"Auto" = "Samodejno";
+"Open Recent" = "Odpri nedavno";
+"Recent Locations" = "Nedavne lokacije";
+"Clear Items" = "Počisti seznam";
+"No Recent Files" = "Ni nedavnih datotek";
+"Open Quickly" = "Hitro odpiranje";
+"Open File Location" = "Odpri datoteko na lokaciji";
+"Reveal in Library" = "Prikaži v knjižnici";
+"Reveal in File Tree" = "Prikaži v drevesnem pogledu";
+"Close" = "Zapri";
+"Save" = "Shrani";
+"Save As" = "Shrani kot";
+"Duplicate" = "Podvoji";
+"Rename" = "Preimenuj";
+"Move To" = "Premakni v";
+"Revert To" = "Povrni v";
+"Browse All Versions" = "Prikaži vse različice";
+"Import" = "Uvoz";
+"Export" = "Izvoz";
+"Page Setup" = "Priprava strani";
+"Print" = "Natisni";
+
+/* Edit Menu */
+"Edit" = "Uredi";
+"Undo" = "Razveljavi";
+"Redo" = "Uveljavi";
+"Cut" = "Izreži";
+"Copy" = "Kopiraj";
+"Paste" = "Prilepi";
+"Copy as Markdown" = "kopiraj kot Markdown";
+"Copy as HTML Code" = "Kopiraj kot HTML kodo";
+"Paste as Plain Text" = "Prilepi kot golo besedilo";
+"Select All" = "Izberi vse";
+"Select Line/Sentence" = "Izberi vrstico/stavek";
+"Select Styled Scope" = "Select Styled Scope";
+"Select Word" = "Izberi besedo";
+"Delete" = "Izbriši";
+"Delete Range" = "Izbriši obseg";
+"Delete Word" = "Izbriši besedo";
+"Delete Styled Scope" = "Delete Styled Scope";
+"Delete Line/Sentence" = "Izbriši vrstico/stavek";
+"Jump To" = "Pojdi na";
+"Jump to Top" = "Pojdi na vrh";
+"Jump to Selection" = "Pojdi na označeno";
+"Jump to Bottom" = "Pojdi na dno";
+"Math Tools" = "Orodja za matematiko";
+"Refresh All Math Expressions" = "Osveži vse matematične izraze";
+"Image Tools" = "Slikovna orodja";
+"Insert Local Images" = "Vstavi lokalne slike";
+"Upload Local Images via iPic" = "Naloži slike s pomočjo iPic";
+"When Insert Local Image" = "Ko vstaviš lokalno sliko";
+"Copy Image File to Folder" = "Kopiraj sliko v mapo";
+"Use Image Root Path" = "Use Image Root Path";
+"Line Endings" = "Zaključki vrstic";
+"Windows Line Endings (CRLF)" = "Windows (CRLF)";
+"Unix Line Endings (LF)" = "Unix (LF)";
+"Find" = "Najdi";
+"Find Next" = "Najdi nalednjega";
+"Find Previous" = "Najdi prejšnjega";
+"Find and Replace" = "Najdi in zamenjaj";
+"Replace" = "Zamenjaj";
+"Replace Next" = "Zamenjaj naslednjega";
+"Spelling and Grammar" = "Črkovanje in slovnica";
+"Check Document Now" = "Preveri dokument";
+"Check Spelling While Typing" = "Preverjanje črkovanja ob vnosu";
+"Check Grammar With Spelling" = "Preveri slovnico in črkovanje";
+"Correct Spelling Automatically" = "Samodejno popravi napake črkovanja";
+"Substitutions" = "Zamenjave";
+"Smart Quotes" = "Pametni narekovaji";
+"Smart Dashes" = "Pametni vezaji";
+"Text Replacement" = "Zamenjava besedila";
+"Speech" = "Narek";
+"Start Speaking" = "Začni narek";
+"Stop Speaking" = "Ustavi narek";
+
+/* Paragraph Menu */
+"Paragraph" = "Odstavek";
+"Heading 1" = "Naslov 1";
+"Heading 2" = "Naslov 2";
+"Heading 3" = "Naslov 3";
+"Heading 4" = "Naslov 4";
+"Heading 5" = "Naslov 5";
+"Heading 6" = "Naslov 6";
+"Increase Heading Level" = "Povečaj stopnjo naslova";
+"Decrease Heading Level" = "Zmanjšaj stopnjo naslova";
+"Table" = "Tabela";
+"Code Fences" = "Blok s kodo";
+"Math Block" = "Matematični blok";
+"Quote" = "Citat";
+"Ordered List" = "Urejen seznam";
+"Unordered List" = "Neurejen seznam";
+"Task List" = "Seznam opravil";
+"Task Status" = "Status pravil";
+"Toggle Task Status" = "Zamenjaj status opravila";
+"Mark as Complete" = "Označi kot končano";
+"Mark as Incomplete" = "Označi kot nedokončano";
+"List Indentation" = "Poravnava seznama";
+"Indent" = "Povečaj zamik";
+"Outdent" = "Znanjšaj zamik";
+"Link Reference" = "Referenca povezave";
+"Footnotes" = "Sprotne opombe";
+"Horizontal Line" = "Vodoravna črta";
+"Table of Contents" = "Vsebina";
+"YAML Front Matter" = "YAML vzglavje";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Krepko";
+"Emphasis" = "Poševno";
+"Underline" = "Podčrtano";
+"Code" = "Koda";
+"Inline Math" = "Inline Math";
+"Strike" = "Prečrtaj";
+"Highlight" = "Povdari";
+"Superscript" = "Nadpisano";
+"Subscript" = "Podpisano";
+"Comment" = "Komentar";
+"Hyperlink" = "Spletna povezava";
+"Image" = "Slika";
+"Clear Format" = "Počisti formatiranje";
+
+/* View Menu */
+"View" = "Prikaz";
+"New Tab" = "Nov zavihek";
+"Source Code Mode" = "Način pisanja kode";
+"Focus Mode" = "Način fokusa";
+"Typewriter Mode" = "Način pisalnega stroja";
+"Toggle Sidebar" = "Prikaži/skrij stransko vrstico";
+"Outline" = "Oris";
+"Articles" = "Članki";
+"File Tree" = "Drevesni prikaz datotek";
+"Always on Top" = "Vedno na vrhu";
+"Full Screen" = "Celozaslonski način";
+"Show Status Bar" = "Prikaži statusno vrstico";
+"Toggle Fullscreen" = "Preklopi v celozaslonski način";
+"Actual Size" = "Prava velikost";
+"Zoom In" = "Povečaj";
+"Zoom Out" = "Pomanjšaj";
+"Switch Between Opened Documents" = "Preklopi med odprtimi dokumenti";
+"Toggle DevTools" = "Prikaži/skrij DevTools";
+
+
+/* Themes Menu */
+"Themes" = "Teme";
+
+/* Window Menu */
+"Window" = "Okno";
+"Minimize" = "Pomanjšaj";
+"Zoom" = "Povečava";
+"Bring All to Front" = "Premakni vse v ospredje";
+
+/* Help Menu */
+"Help" = "Pomoč";
+"Privacy Policy" = "Politika zasebnosti";
+"Credits" = "Zasluge";
+"Change Log" = "Zadnje spremembe";
+"Website" = "Spletna stran";
+"Feedback" = "Povratne informacije";
+"About" = "O programu";
+
+/* Touchbar */
+"Block Styles" = "Stili bloka";
+"Inline Styles" = "Stili v vrstici";
+"List Styles / Remove Block" = "Seznam stilov / Odstrani blok";
+"Exit Source Code Mode" = "Zapusti način urejanja kode";
+"Toggle Source Code Mode" = "Preklopi način urejanja kode";
+
+/* Extra Context Menu */
+"Table" = "Tabela";
+"Add Row Above" = "Dodaj vrstico zgoraj";
+"Add Row Below" = "Dodaj vrstico spodaj";
+"Delete Row" = "Izbriši vsrtico";
+"Add Column Before" = "Dodaj stolpec pred";
+"Add Column After" = "Dodaj stolpec za";
+"Delete Column" = "Izbriši stolpec";
+"Copy Table" = "kopiraj tabelo";
+"Delete Table" = "Izbriši tabelo";
+"Insert Paragraph After" = "Vstavi odstavek za";
+"Insert Paragraph Before" = "Vstavi odstavek pred";
+"Delete Code Block" = "Izbriši blok s kodo";
+"Copy as MathML" = "Kopiraj kot MathML";
+"Copy as Tex" = "Kopiraj kot Tex";
+"Copy Math" = "Kopiraj matematični izraz";
+"Reveal in Finder" = "Prikaži v Finderju";
+"Open Link" = "Odpri povezavo";
+"Reveal in Sidebar" = "Prikaži v stranski vrstici";
+"Open in New Window" = "Odpri v novem oknu";
+"Copy File Path" = "Kopiraj pot datoteke";
+"New File" = "Nova datoteka";
+"Rename" = "Preimenuj";
+"New Folder" = "Nova mapa";
+"Move to Trash" = "Premakni v smetnjak";
+
+/* Electron */
+"Learn Spelling" = "Learn Spelling";
+"Copy / Paste As…" = "Kopiraj / Prilepi kot …";
+"Math" = "Matematika";
+"Insert" = "Vstavi";
+"Inspect Element" = "Preveri element";
+"Copy to MS Word" = "Kopiraj v MS Word";
+"Paragraph (before)" = "Odstavek (prej)";
+"Paragraph (after)" = "Odstavek (potem)";
+
+"Search with Google" = "Iskanje z Google";
+"Search With…" = "Iskanje z …";
+
+/* Related Panel */
+"Open Failed" = "Odpiranje ni uspelo";
+"File or folder does not exist." = "Datoteka ali mapa ne obstaja.";
+
+"Prettify Source Code" = "Olepšaj izvorno kodo";
+"Copy '%@'" = "Kopiraj '%@'";
+"Copy to %@" = "kopiraj v %@";
+"Copy Image to" = "Kopiraj sliko v";
+"Open Image Location" = "Odpri lokacijo slike";
+
+"Learn More" = "Izvedi več";
+"Whitespace and Line Breaks" = "Presledki in prelomi vrstic";
+"Indent first line of paragraphs" = "Poravnaj prve vrstice odstavkov";
+"Preserve single line break" = "Ohrani prelom enojne vrstice";
+"Visible <br/>" = "Vidno <br/>";
+
+"Save All" = "Shrani vse";
+"New Window" = "Novo okno";
+"Reopen Closed File" = "Ponovno odpri zaprto datoteko";
+
+"Global Image Settings" = "Globalne nastavitve slik";
+"Smart Punctuation" = "Smart Punctuation";
+"Convert on Input" = "Pretvori ob vnosu";
+"Convert on Rendering" = "Pretvori ob izrisu";
+"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"More Options" = "Več možnosti";
+
+"HTML Block" = "HTML blok";
+"Delete Block" = "Izbriši blok";
+"Delete %@" = "Izbriši %@";
+"Play" = "Predvajaj";
+"Pause" = "Pavza";
+
+"Spell Check" = "Preverjanje črkovanja";
+"Unlearn Spelling" = "Pozabi črkovanje";
+"Properties" = "Lastnosti";
+
+"Search" = "Iskanje";
+"Copy without Theme Styling" = "Kopiraj brez stila trenutne teme";
+"Recent Files" = "Nedavne datoteke";
+"File Results" = "File Results";
+
+"Insert Table" = "Vstavi tabelo";
+"Insert Image" = "Vstavi sliko";
+"Allow Magnification" = "Dovoli povečavo";
+
+"Move Row Up" = "Pomakni vrstico gor";
+"Move Row Down" = "Pomakni vrstico dol";
+"Move Column Left" = "Pomakni stolpec levo";
+"Move Column Right" = "Pomakni stolpec desno";
+
+"Zoom Image" = "Povečaj sliko";
+"Zoom Image to %@" = "Povečaj sliko za %@";
+
+"Copy as Plain Text" = "Kopiraj kot golo besedilo";
+
+"Selection" = "Selection";
+"Start Speaking" = "Začni z govorom";
+"Stop Speaking" = "Prenehaj z govorom";
+"Check Updates" = "Preveri pododobitve";
+
+"HTML (without Styles)" = "HTML (brez stilov)";
+
+"Highlight Current Header" = "Označi trenutno glavo ";
+"Expand All" = "Razširi vse";
+"Collapse All" = "Skrči vse";
+"Collapsible Outline" = "Skrčljiv oris";
+"Flat Outline" = "Enoten oris";
+"Articles (List View)" = "Članki (pogled seznama)";
+"File Tree (Tree View)" = "File Tree (Tree View)";
+"Filter" = "Filter";
+
+"Upload Image" = "Naloži sliko";
+"Upload All Local Images" = "Naloži vse lokalne slike";
+"Open Image in Browser" = "Odpri sliko v spletnem brskalniku";
+"Copy Image" = "Kopiraj sliko";
+
+"More Actions" = "Več dejanj";
+>>>>>>> 7e95b0ffbbb776282fff06ab2b0bc421327bec8e

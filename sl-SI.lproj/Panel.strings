@@ -249,25 +249,25 @@
 
 "Copy image to custom folder" = "Copy image to custom folder";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
-"Restore to previous setting" = "Restore to previous setting";
-"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
-"Please input a folder path." = "Please input a folder path.";
-"Cannot use root path." = "Cannot use root path.";
+"Restore to previous setting" = "Povrni na prejšnje nastavitve";
+"Folder not exist at %@, please input another path." = "Na podani poti %@ mapa ne obstaja, vnesite drugo pot.";
+"Please input a folder path." = "Vnesite pot do mape.";
+"Cannot use root path." = "Ne morem uporabiti korenskega imenika.";
 
-"Get Themes" = "Get Themes";
-"File/directory already exists at target path." = "File/directory already exists at target path.";
-"Keep Both" = "Keep Both";
-"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+"Get Themes" = "Pridobi teme";
+"File/directory already exists at target path." = "Datoteka/mapa na podani poti že obstaja.";
+"Keep Both" = "Ohrani oboje";
+"Are you sure you want to move %@?" = "Ste prepričani, da želite premakniti %@?";
 
-"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
-"You can restore from the Trash." = "You can restore from the Trash.";
+"Are you sure you want to delete %@?" = "Ste prepričani, da želite izbrisati %@?";
+"You can restore from the Trash." = "Obnovite lahko iz smetnjaka.";
 
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
-"Dialogs" = "Dialogs";
-"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+"Reset All Dialog Warnings" = "Ponastavi vsa opozorila v pogovornem oknu";
+"Dialogs" = "Pogovorna okna";
+"Dialog warnings have been reset." = "Pogovorna okna o ponastavljena.";
 
-"Operation Failed" = "Operation Failed";
-"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+"Operation Failed" = "Operacija ni uspela";
+"Failed to move target file or folder to trash" = "Premikanje mape ali datoteke v smeti ni uspelo";
 
 "Undo %@" = "Razveljavi %@";
 "Rename %@" = "Preimenuj %@";
@@ -293,18 +293,18 @@
 "Quit and Install" = "Zapri in namesti";
 "Download failed" = "Prenos ni uspel";
 "Downloading Updates…" = "Prenašanje pododobitev…";
-"Checking Updates…" = "Checking Updates…";
-"Check Update Failed" = "Check Update Failed";
-"You are update to date!" = "You are update to date!";
-"Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
-"Auto escape image URL when insert" = "Auto escape image URL when insert";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
-"Check updates automatically" = "Check updates automatically";
-"Skip This Version" = "Skip This Version";
-"Remind Me Later" = "Remind Me Later";
-"Download Update" = "Download Update";
-"New version available." = "New version available.";
+"Checking Updates…" = "Preverjam za posodobitve …";
+"Check Update Failed" = "Preverjanje posodobitev ni uspelo";
+"You are update to date!" = "Vse je posodobljeno!";
+"Latest version is $1, your version is $2" = "Zadnja različica je $1, vi imate $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Urejanje→Presledki in prelomi vrstic\"";
+"Auto escape image URL when insert" = "Pri vstavljanju samodejni dokončaj URL slike";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Na primer, če vstavite sliko kot 'img/example file.png', bo postalo 'img/example%20file.png'. To omogočite za boljšo združljivost z ostalimi Markdown pogoni ali pa onemogočite za boljšo berljivost kode.";
+"Check updates automatically" = "Samodejno preveri za posodobitve";
+"Skip This Version" = "Preskoči to različico";
+"Remind Me Later" = "Opomni me kasneje";
+"Download Update" = "Prenesi posodobitev";
+"New version available." = "Na voljo je nova različica.";
 
 "When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
 "Use Rendered SVG" = "Use Rendered SVG";

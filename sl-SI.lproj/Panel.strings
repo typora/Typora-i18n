@@ -481,4 +481,4 @@
 "UNREGISTERED" = "NEREGISTRIRANO";
 
 "Allow physics package to redefine existing TeX commands" = "Dovoli paketu physics da spreminja TeX ukaze";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Ko je to omogočeno, bodo ukazi, kot so \\div, \\Re, redefinirani s paketom physics.";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Ko je to omogočeno, bodo ukazi, kot so \\div, \\Re redefinirani s paketom physics.";

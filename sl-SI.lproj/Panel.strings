@@ -80,7 +80,7 @@
 "Send Anonymous Usage Info" = "Pošlji anonimne informacije o uporabi";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue…" = "Za nadaljevanje je potrebno namestiti Pandoc";
+"Require Pandoc to Continue…" = "Za nadaljevanje je potrebno namestiti Pandoc …";
 "Follow instructions to install Pandoc" = "Sledite navodilom, kako namestiti Pandoc";
 "Cancel" = "Prekliči";
 
@@ -195,7 +195,7 @@
 "Open From…" = "Odpri iz …";
 "Import…" = "Uvoz …";
 "Recent Documents" = "Nedavni dokumenti";
-"Search for" = "Search";
+"Search for" = "Poišči";
 "Clear Recent Documents" = "Počisti nedavne dokumente";
 "File Name" = "Ime datoteke";
 "Path" = "Pot";
@@ -244,13 +244,13 @@
 
 "Ignore" = "Ignoriraj";
 "Choose Default Folder" = "Izberite privzeto mapo";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Pretvori ob vnosu</strong>: Vnešeni ASCII pomišljaji in narekovaji se pretvorijo in shranijo kot zaviti narekovaji in UNICODE pomišljaji.<br/><strong>Preveri ob izrisu</strong>: Vnešeno in shranjeno kot ASCII pomišljaji in narekovaji, izrisano kot zaviti narekovaji in UNICODE pomišljaji.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Pri razčlenjevanju markdown prepoznaj unicode ločila kot ASCII, n.pr.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Samodejni vklop če je določeno, da se narekovaji/pomišljaji ob vnosu samodejno pretvarjajo.<div>";
 
-"Copy image to custom folder" = "Copy image to custom folder";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
+"Copy image to custom folder" = "Kopiraj sliko v mapo po meri";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Navedite relativno pot do trenutne mape, ki se začne z './' ali '../', ali absolutno pot. (`${filename}`predstavlja trenutno ime datoteke.)";
 "Restore to previous setting" = "Povrni na prejšnje nastavitve";
-"Folder not exist at %@, please input another path." = "Na podani poti %@ mapa ne obstaja, vnesite drugo pot.";
+"Folder not exist at %@, please input another path." = "Na podani poti mapa %@ ne obstaja, vnesite drugo pot.";
 "Please input a folder path." = "Vnesite pot do mape.";
 "Cannot use root path." = "Ne morem uporabiti korenskega imenika.";
 
@@ -287,17 +287,17 @@
 "240  words/minute (Medium)" = "240  besed/minuto (normalno)";
 "382  words/minute (Fast)" = "382  besed/minuto (hitro)";
 
-"Copy and update image source to…" = "Kopiraj in posodobi vir slike na…";
+"Copy and update image source to…" = "Kopiraj in posodobi vir slike na …";
 "Updater" = "Posodobilnik";
 "Install Updates ?" = "Namesti ?";
 "Quit and Install" = "Zapri in namesti";
 "Download failed" = "Prenos ni uspel";
-"Downloading Updates…" = "Prenašanje pododobitev…";
+"Downloading Updates…" = "Prenašanje pododobitev …";
 "Checking Updates…" = "Preverjam za posodobitve …";
 "Check Update Failed" = "Preverjanje posodobitev ni uspelo";
 "You are update to date!" = "Vse je posodobljeno!";
 "Latest version is $1, your version is $2" = "Zadnja različica je $1, vi imate $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Urejanje→Presledki in prelomi vrstic\"";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Urejanje → Presledki in prelomi vrstic\"";
 "Auto escape image URL when insert" = "Pri vstavljanju samodejni dokončaj URL slike";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Na primer, če vstavite sliko kot 'img/example file.png', bo postalo 'img/example%20file.png'. To omogočite za boljšo združljivost z ostalimi Markdown pogoni ali pa onemogočite za boljšo berljivost kode.";
 "Check updates automatically" = "Samodejno preveri za posodobitve";
@@ -306,9 +306,9 @@
 "Download Update" = "Prenesi posodobitev";
 "New version available." = "Na voljo je nova različica.";
 
-"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
-"Use Rendered SVG" = "Use Rendered SVG";
-"Use LaTeX Source" = "Use LaTeX Source";
+"When copy / export as HTML (without style)" = "Pri kopiranju / izvozi kot HTML (brez sloga)";
+"Use Rendered SVG" = "Uporabi izrisan SVG";
+"Use LaTeX Source" = "Uporabi LaTeX izvorno kodo";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
@@ -369,7 +369,7 @@
 "Dark Theme" = "Temna tema";
 "Use separate theme in dark mode" = "V temnem načinu uporabi drugo temo";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Podprto na macOS ≥ 10.15 ali Windows 10 ≥ 1903";
-"Convert -- to – (en dash), and --- to — (em dash)" = "Pretvori -- to – (en dash), and --- to — (em dash)";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Pretvori -- to – (en dash), and --- to — (em dash)"; 
 "Convert -- and --- to — (em dash)" = "Pretvori -- in --- v — (em dash)";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in Nastavitve sistema → Tipkovnica → Besedilo. Če jih spremenite, je za uveljavitev potrebno Typoro ponovno zagnati.";
 

@@ -244,7 +244,7 @@
 
 "Ignore" = "Ignoriraj";
 "Choose Default Folder" = "Izberite privzeto mapo";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Pretvori ob vnosu</strong>: Vnešeni ASCII pomišljaji in narekovaji se pretvorijo in shranijo kot zaviti narekovaji in UNICODE pomišljaji.<br/><strong>Preveri ob izrisu</strong>: Vnešeno in shranjeno kot ASCII pomišljaji in narekovaji, izrisano kot zaviti narekovaji in UNICODE pomišljaji.</div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Pretvori ob vnosu</strong>: Vnešeni ASCII pomišljaji in narekovaji se pretvorijo in shranijo kot zaviti narekovaji in unicode pomišljaji.<br/><strong>Preveri ob izrisu</strong>: Vnešeno in shranjeno kot ASCII pomišljaji in narekovaji, izrisano kot zaviti narekovaji in unicode pomišljaji.</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Pri razčlenjevanju markdown prepoznaj unicode ločila kot ASCII, n.pr.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Samodejni vklop če je določeno, da se narekovaji/pomišljaji ob vnosu samodejno pretvarjajo.<div>";
 
 "Copy image to custom folder" = "Kopiraj sliko v mapo po meri";
@@ -309,18 +309,18 @@
 "When copy / export as HTML (without style)" = "Pri kopiranju / izvozi kot HTML (brez sloga)";
 "Use Rendered SVG" = "Uporabi izrisan SVG";
 "Use LaTeX Source" = "Uporabi LaTeX izvorno kodo";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (brez slogov) or copy as HTML code, or copy without theme style.<br/>Kadar je izbrano <strong>Uporabi LaTeX izvorno kodo</strong>, bo Typora bo vnesla neobdelano izvorno kodo LaTeX (e.g: $X^2$),<br/>Ko je izbrano <strong>Uporabi izrisan SVG</strong>, bo uporabljen SVG izris. Če tak SVG kopirate v drugo aplikacijo lahko pride do težave, da se tak SVG v drugi aplikaciji ne izriše.</div>";
 
-"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
-"Do not show this message again" = "Do not show this message again";
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Za funkcijo uvoza in več formatov izvoza je treba namestiti program Pandoc (≥%@).";
+"Do not show this message again" = "Tega sporočila ne prikazujte več";
 
-"Page Break Between Top Headings" = "Page Break Between Top Headings";
+"Page Break Between Top Headings" = "Prelom strani med zgornjimi naslovi";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
-"Try Recovery" = "Try Recovery";
-"Other options for Data Recovery" = "Other options for Data Recovery";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Žal je prišlo do napake, trenutna vsebina pisanja je bila kopirana v odložišče. To lahko sporočite na <hi@typora.io> in nam pomagate odpraviti napako.";
+"Try Recovery" = "Poskusite obnoviti podatke";
+"Other options for Data Recovery" = "Druge možnosti za obnovitev podatkov";
 
-"When Insert" = "When Insert";
+"When Insert" = "Ko vstavite";
 "Upload image" = "Naloži sliko";
 "e.g: %@" = "n.pr: %@";
 "Test Uploader" = "Test Uploader";
@@ -331,8 +331,8 @@
 "Running… Waiting for results." = "Delam … Počakajte na rezultat.";
 "Output from the console:" = "Output from the console:";
 "Error from the console:" = "Error from the console:";
-"Failed to fetch uploaded image from command output." = "Failed to fetch uploaded image from command output.";
-"Successfully get uploaded image url." = "Successfully get uploaded image url.";
+"Failed to fetch uploaded image from command output." = "Pridobivanje naložene slike iz ukazne vrstice ni uspelo.";
+"Successfully get uploaded image url." = "Uspešno pridobljen URL naložene slike.";
 "Image Uploader" = "Program za prenašanje slik";
 "Instructions" = "Navodila";
 "Download %@" = "Prenos %@";
@@ -341,9 +341,9 @@
 "Download or Upgrade" = "Prenos ali nadgradnja";
 "Open Config File" = "Odpri datoteko z nastavitvami";
 "Command" = "Ukaz";
-"PicGo Path" = "PicGo Path";
-"Path of PicGo binary" = "Pot do PicGo binary";
-"Executable" = "Executable";
+"PicGo Path" = "Pot do PicGo";
+"Path of PicGo binary" = "Pot do PicGo datoteke";
+"Executable" = "Izvedljiva datoteka";
 "Checking" = "Preverjam";
 "Download" = "Prenos";
 "Agree and Download" = "Sprejmi in prenesi";
@@ -357,9 +357,9 @@
 "Unzipping…" = "Razpakiranje …";
 "Finished" = "Končano";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora bo zagnala aplikacijo tretje osebe s potmi do vseh lokalnih slik. Program za prenašanje slik in shramba v oblaku bosta tako imela dostop do vaših lokalnih slik. Ste prepričani, da želite nadaljevati??";
 
-"Export operation finished successfully." = "Export operation finished successfully.";
+"Export operation finished successfully." = "Operacija izvoza se je uspešno končala.";
 
 "Shortcut Keys" = "Bližnjice na tipkovnici";
 "Custom Shortcut Keys" = "Bližnjice na tipkovnici po meri";

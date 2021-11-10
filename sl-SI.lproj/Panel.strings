@@ -371,7 +371,7 @@
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Podprto na macOS ≥ 10.15 ali Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "Pretvori -- to – (en dash), and --- to — (em dash)"; 
 "Convert -- and --- to — (em dash)" = "Pretvori -- in --- v — (em dash)";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in Nastavitve sistema → Tipkovnica → Besedilo. Če jih spremenite, je za uveljavitev potrebno Typoro ponovno zagnati.";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Vzorce kombinacij narekovajev lahko določite v Nastavitve sistema → Tipkovnica → Besedilo. Če jih spremenite, je za uveljavitev potrebno ponovno zagnati Typoro.";
 
 
 "Paper Size" = "Velikost papirja";

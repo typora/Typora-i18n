@@ -4,7 +4,7 @@
 
  by hi@typora.io
   
- translation by Boštjan <sponka@gmail.com>
+  translation by @sponka9 / Boštjan <sponka@gmail.com>
 
 */
 
@@ -301,7 +301,7 @@
 "Collapsible Outline" = "Skrčljiv oris";
 "Flat Outline" = "Enoten oris";
 "Articles (List View)" = "Članki (pogled seznama)";
-"File Tree (Tree View)" = "File Tree (Tree View)";
+"File Tree (Tree View)" = "Drevo datotek (drevesni pogled)";
 "Filter" = "Filter";
 
 "Upload Image" = "Naloži sliko";
@@ -310,3 +310,21 @@
 "Copy Image" = "Kopiraj sliko";
 
 "More Actions" = "Več dejanj";
+"Get Info" = "Pridobite informacije";
+
+"Export with Previous" = "Izvozite s predhodnim";
+"Export and Overwrite with Previous" = "Izvozite in prepišite s prejšnjim";
+
+"Emoji and Symbols" = "Emoji in simboli";
+
+"Insert Final New Line On Save" = "Vstavi končno novo vrstico ob shranjevanju";
+"Hyperlink Actions" = "Dejanja hiperpovezav";
+"Copy Link Address" = "Kopiranje naslova povezave";
+
+"Insert Paragraph Before" = "Vstavite odstavek pred";
+"Insert Paragraph After" = "Vstavite odstavek po";
+"Click" = "Klik";
+
+"Export Setting" = "Nastavitev izvoza";
+
+"My License" = "Moja licenca";

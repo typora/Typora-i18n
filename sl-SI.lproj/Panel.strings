@@ -4,7 +4,7 @@
  
  by hi@typora.io
   
- translation by Boštjan <sponka@gmail.com>
+  translation by @sponka9 / Boštjan <sponka@gmail.com>
 
 */
 
@@ -423,3 +423,62 @@
 "Move Up" = "Premakni navzgor";
 "Pandoc Path" = "Pot do Pandoc";
 "Select" = "Izberi";
+"Target Format" = "Ciljni format";
+"auto detect based on target file path" = "samodejno zaznavanje na podlagi poti ciljne datoteke";
+"Target File Extensions (separate by whitespace)" = "Končnice ciljnih datotek (ločene s presledkom";
+"e.g: .text .asciidoc or leave this empty" = "n.pr: .text .asciidoc ali pa pustite prazno";
+"Raw Type" = "Raw";
+"Auto" = "Samodejno";
+"Show Save File Dialog" = "Show Save File Dialog";
+"Do not popup save file dialog" = "Do not popup save file dialog";
+"Select file path to save" = "Select file path to save";
+"Select folder path to save" = "Select folder path to save";
+"PDF Engine" = "PDF pogon";
+"Show command output" = "Prikaži izhodni ukaz";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "Command Arguments:";
+"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"Current Theme" = "Current Theme";
+"After Export" = "After Export";
+"Run command" = "Run command";
+"Run command after export failed" = "Run command after export failed";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
+"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Dark theme is not supported." = "Dark theme is not supported.";
+
+"Markdown Variants" = "Markdown Variants";
+"Original Unextended Markdown" = "Original Unextended Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
+"Line Wrap" = "Line Wrap";
+"Hard line wrap" = "Hard line wrap";
+"Text Column Width" = "Text Column Width";
+"Auto (based on current OS)" = "Samodejno (glede na trenutni operacijski sistem)";
+"Indent" = "Poravnava";
+"Preserve tabs" = "Ohrani tabulatorjes";
+"2 spaces per tab" = "2 na tabulator";
+"3 spaces per tab" = "3 na tabulator";
+"4 spaces per tab" = "4 na tabulator";
+"Unicode Characters" = "Unicode znaki";
+"Use only ASCII characters in output" = "Use only ASCII characters in output";
+"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
+"Footnotes and References Location" = "Footnotes and References Location";
+"End of document" = "End of document";
+"End of current (top-level) block" = "End of current (top-level) block";
+"End of current section" = "End of current section";
+"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
+"Image Format" = "Image Format";
+
+"Set Pandoc Path" = "Set Pandoc Path";
+
+"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
+
+"Export operation succeeded with warnings." = "Export operation succeeded with warnings.";
+
+"Typora is now deactivated" = "Typora is now deactivated";
+"This device has been deactivated" = "This device has been deactivated";
+"UNREGISTERED" = "UNREGISTERED";
+
+"Allow physics package to redefine existing TeX commands" = "Allow physics package to redefine existing TeX commands";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "When enabled, commands like \\div, \\Re will be redefined by physics package.";

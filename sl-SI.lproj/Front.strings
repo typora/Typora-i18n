@@ -4,7 +4,7 @@
 
  by hi@typora.io
  
- translation by Boštjan <sponka@gmail.com>
+  translation by @sponka9 / Boštjan <sponka@gmail.com>
 
 */
 
@@ -173,7 +173,16 @@
 "Auto refresh on Files Panel cannot be enabled." = "Samodejnega osveževanja seznama datotek ni mogoče omogočiti.";
 "Delete Permanently" = "Dokončno izbriši";
 
-
 "Failed to upload images:" = "Neuspešno nalaganje slik:";
 "Uploading in progress" = "Poteka nalaganje";
 "Successfully uploaded {0} images, {1} failed." = "Uspešno prenešenih {0} slik, {1} ni uspelo.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "To operacijo lahko pozneje prekličete prek `Urejanje` → `Razveljavi`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Lahko pritisnete <strong>⌘ + klik</strong, da odprete <a href='#'>povezave</a> ali skočite na definicijo opombe pod črto.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Lahko pritisnete <strong>CTRL + Click</strong>, da odprete <a href='#'>links</a> ali skočite na definicijo opombe pod črto.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stil je izključen.";
+"You can right click titlebar to popup application menu." = "Z desnim klikom na naslovno vrstico lahko odprete meni aplikacije.";
+
+"Support Document" = "Dokument za podporo";

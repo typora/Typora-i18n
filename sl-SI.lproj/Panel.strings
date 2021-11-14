@@ -461,11 +461,11 @@
 "3 spaces per tab" = "3 na tabulator";
 "4 spaces per tab" = "4 na tabulator";
 "Unicode Characters" = "Unicode znaki";
-"Use only ASCII characters in output" = "V izpisu uporabljajte samo ASCII znake";
-"Use reference-style links rather than inline links" = "Uporabite povezave v referenčnem slogu namesto povezav v vrstici";
+"Use only ASCII characters in output" = "V izpisu uporabi le ASCII znake";
+"Use reference-style links rather than inline links" = "Uporabi povezave v referenčnem slogu namesto povezav v vrstici";
 "Footnotes and References Location" = "Lokacija za opombe in sklice";
 "End of document" = "Konec dokumenta";
-"End of current (top-level) block" = "Konec trenutnega (vrnjega) bloka";
+"End of current (top-level) block" = "Konec trenutnega (vrhnjega) bloka";
 "End of current section" = "Konec trenutnega odseka";
 "Convert TeX formulas to web images" = "Pretvori TeX formule v spletne slike";
 "Image Format" = "Format slike";
@@ -481,4 +481,4 @@
 "UNREGISTERED" = "NEREGISTRIRANO";
 
 "Allow physics package to redefine existing TeX commands" = "Dovoli paketu physics da spreminja TeX ukaze";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Ko je to omogočeno, bodo ukazi, kot so \\div, \\Re redefinirani s paketom physics.";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Ko je to omogočeno, bodo ukazi, kot so \\div, \\Re ponastavljeni s paketom physics.";

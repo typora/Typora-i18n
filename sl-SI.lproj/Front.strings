@@ -141,7 +141,7 @@
 "select a language" = "izberi jezik";
 "Finish Editing" = "Zaključi urejanje";
 
-"Revert advanced setting file to default one ?" = "Povrnem napredne nastavitve na prednastavljene?";
+"Revert advanced setting file to default one ?" = "Povrnem datoteko z naprednimi nastavitvami na prednastavljeno?";
 
 "Select Spell Check Language" = "Izberite jezik črkovalnika";
 "Auto Detect Language" = "Samodejno zaznaj jezik";

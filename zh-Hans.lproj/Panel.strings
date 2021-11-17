@@ -482,3 +482,9 @@
 
 "Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
+
+"Your Typora is not activated." = "您的 Typora 未被激活";
+"Your Typora has been activated." = "您的 Typora 已被激活";
+"Typora activation is required to change this." = "需要激活 Typora 后才能更新改选项";
+"You can reinstall the stable version and then disable this." = "您可以重新安装 stable 版本以取消该选项";
+"Update to dev version" = "更新至 dev 版本";

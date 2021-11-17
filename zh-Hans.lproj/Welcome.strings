@@ -70,3 +70,7 @@
 "Unknown Error. Please contact hi@typora.io" = "未知错误，请联系 hi@typora.io";
 "Failed to access the license server. Please check your network or try gain later." = "连接服务器失败，请检查是否接入互联网或稍后再试";
 "This device has been deactivated" = "该设备已被解绑";
+
+"Enter a license code to support our development ❤" = "输入序号列以支持我们的开发 ❤";
+"Re-enter Email" = "重新输入 Email";
+"Email address confirmation does not match." = "Email 地址不匹配";

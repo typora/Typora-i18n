@@ -66,7 +66,7 @@
 "Please input a valid email address" = "请输入正确的邮箱地址";
 "Please input a valid license code" = "请输入正确的序号列";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "您的序号列激活的设备数量已超过最大数量，\n最早激活的设备将被自动解绑。";
-"The license has been used with a different email address." = "该序号列已在被其他邮箱使用";
+"This license code has been used with a different email address." = "该序号列已在被其他邮箱使用";
 "Unknown Error. Please contact hi@typora.io" = "未知错误，请联系 hi@typora.io";
 "Failed to access the license server. Please check your network or try gain later." = "连接服务器失败，请检查是否接入互联网或稍后再试";
 "This device has been deactivated" = "该设备已被解绑";

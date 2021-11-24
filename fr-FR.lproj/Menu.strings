@@ -207,7 +207,7 @@
 "Copy as Tex" = "Copier comme Tex";
 "Copy Math" = "Copier Maths";
 "Reveal in Finder" = "Montrer dans le Finder";
-"Open Link" = "Ouvrir lien";
+"Open Link" = "Ouvrir le lien";
 "Reveal in Sidebar" = "Montrer dans la barre latérale";
 "Open in New Window" = "Ouvrir dans une nouvelle fenêtre";
 "Copy File Path" = "Copier le chemin d'accès";
@@ -266,14 +266,12 @@
 "Properties" = "Propriétés";
 
 "Search" = "Rechercher";
-
 "Copy without Theme Styling" = "Copier sans le style du Thème";
 "Recent Files" = "Fichiers Recents";
 "File Results" = "Résultats du fichier";
 
 "Insert Table" = "Insérer Tableau";
 "Insert Image" = "Insert Image";
-
 "Allow Magnification" = "Autoriser l'Amplification";
 
 "Move Row Up" = "Déplacer la ligne vers le Haut";
@@ -305,5 +303,4 @@
 "Upload Image" = "Téléverser l'image";
 "Upload All Local Images" = "Téléverser toutes les images locales";
 "Open Image in Browser" = "Ouvrir l'image dans le Navigateur";
-
 "Copy Image to" = "Copier l'image vers";

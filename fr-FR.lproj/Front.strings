@@ -113,7 +113,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Le contenu du fichier a été modifié par une application externe. Faut-il la recharger depuis le disque ?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Faut-il continuer à déplacer et écraser le ou les fichiers existants ?";
 
-"Rename Failed" = "Impossible de renommer";
 "Rename to \"{0}\" ?" = "Renommer en \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Impossible de renommer \"{0}\" en \"{1}\"";
 
@@ -167,6 +166,7 @@
 "Continue & Overwrite" = "Continuer & Écraser";
 "The file is read-only, or you do not have right permissions to modify the file." = "Le fichier est en lecture seule, ou vous n'avez pas les permissions de le modifier.";
 
+"Learn Data Recovery" = "Apprendre la récupération de données";
 "Auto refresh on Files Panel cannot be enabled." = "Le rafraîchissement automatique sur le panneau des fichiers ne peut être activé.";
 "Delete Permanently" = "Supprimer de façon permanente";
 

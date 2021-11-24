@@ -23,10 +23,11 @@
 "Auto ( Recommended )" = "Auto ( Recommandé )";
 "Customized" = "Personnalisé";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si une taille de police personnalisée est utilisée, la taille réelle dépendra de la taille de police de base et du style css.";
- "Left Panel" = "Panneau de gauche";
+"Left Panel" = "Panneau de gauche";
 "Show Outline Panel by Default" = "Montrer le panneau du plan par défaut";
 "Collapsible Outline on Left Panel" = "Plan qui peut être réduit dans le panneau de\ngauche";
 "Save without asking when\nswitch files on side panel" = "Enregistrer sans le demander lors du changement\nde fichier dans le panneau latéral";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Les fichiers édités seront enregistrés sans confirmation en cas de modification des fichiers dans le panneau de gauche. \nLorsque que \"Demander de conserver les modifications lors de la fermetures des documents\" est désactivée dans les préférences système, c'est toujours actif.";
 "Language" = "Langue";
 "System Language" = "Langue du système";
 
@@ -38,8 +39,6 @@
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
 "Images Insert" = "Insertions d'images";
 "Use relative path if possible" = "Utiliser le chemin relatif si possible";
-"Allow copy images to given folder" = "Autoriser la copie des images dans\nle dossier";
-"Allow upload to given server" = "Autoriser le téléversement vers le serveur spécifié";
 "Auto Pair" = "Paires automatiques";
 "Auto pair brackets and quotes" = "Paires de guillemets et parenthèses auto";
 "Auto pair common Markdown syntax" = "Paires de règles Markdown communes auto";
@@ -54,12 +53,12 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Les préférences suivantes seront appliquées après redémarrage.)";
 "Syntax Support" = "Support de la syntaxe";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Maths en ligne ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Indices    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Exposants ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Surlignage     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Maths en ligne (ex : $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Indices    (ex : H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Exposants (ex : X^2^ )";
+"Highlight     (e.g: ==key==)" = "Surlignage     (ex : ==key==)";
 "Diagrams" = "Diagrammes";
-"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart et Mermaid)";
 "Syntax Preference" = "Preférences de syntaxe";
 "(only applies to styles created from menubar or hybrid view)" = "(n'appliquer qu'aux styles créés depuis le menu ou la vue hybride)";
 "Strict Mode" = "Mode strict";
@@ -114,9 +113,7 @@
 "Converting file using Pandoc. This may take some time." = "Conversion du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 "Exporting file using Pandoc. This may take some time." = "Exportation du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Téléversement d'images via iPic...";
-"Uploading in progress…" = "Téléversement en cours...";
+"Uploading in progress…" = "Envoi en cours...";
 "Do not show this again" = "Ne plus montrer ce message";
 
 /* Word Count */
@@ -148,8 +145,6 @@
 "Default Line Ending" = "Fins de lignes par défaut";
 "Line ending for new file" = "Fin de lignes pour les nouveaux fichiers";
 "Spell Check" = "Vérification orthographique";
-"(support US English only)" = "(disponible pour l'anglais américain uniquement)";
-"Enable spell check" = "Activer la vérification orthographique";
 "Auto correct spelling" = "Correction orthographique automatique";
 "System" = "Système";
 "Privacy" = "Confidentialité";
@@ -168,11 +163,11 @@
 "This feature require macOS >= 10.11" = "Cette fonction nécessite macOS >= 10.11";
 "One More Step" = "Une dernière étape";
 "Notice" = "Information";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Il faut installer iPic pour cela, les fichiers d'images en question seront envoyés sur un service cloud via iPic. Veuillez aussi noter que le service cloud par défaut ne permet pas de supprimer les images envoyées.";
 
-"%d Images Failed to Upload." = "%d images n'ont pas pu être téléversées.";
+"%d Images Failed to Upload." = "%d images n'ont pas pu être envoyées.";
 "%d Succeeded," = "%d réussis, ";
 "Enable this feature on preferences panel" = "Activer cette fonction dans les préférences";
+"The option `%@` must be enabled first to automatically upload images." = "L'option `%@` doit être activée afin d'envoyer automatisuement les images.";
 "%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
 "Copy Images To…" = "Copier les images vers…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier les images nouvellement insérées au dossier %@ d'après vos paramètres de YAML Front Matter ou vos préférences globales. Cependant la cible n'existe pas, voulez-vous la créer ?";
@@ -208,8 +203,10 @@
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "La sauvegarde des contenus n'a pas fonctionné.<br/>Vous pouvez copier les contenus dans une nouvelle fenêtre Typora, puis enregistrer. <br/>En savoir plus sur:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Le signalement des bugs </a></li><li><a href='https://support.typora.io/Version-Control//'>La récupération de contenus perdus</a></li></ul>";
 "Copy Content" = "Copier contenu";
 
+
 "Total" = "Total";
 "Word count only support OS X later than 10.10." = "Le décompte des mots n'est supporté que sur les OS X plus récents que 10.10.";
+"Indent Size for Code" = "Taille de l'indentation pour le code";
 "Auto wrap long lines" = "Retour à la ligne automatique pour les lignes longues";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Désolé, la version actuelle de Typora n'affiche pas les couleurs de fond.\nDonc les thèmes sombres ne sont pour l'instant pas supportés pour l'impression. \n\nVeuillez choisir un thème clair pour exporter au format PDF.";
@@ -223,7 +220,7 @@
 "Copy image to ./${filename}.assets" = "Copier l'image vers ./${filename}.assets";
 "Apply above rules to local images" = "Appliquer les règles ci-dessus sur les images locales";
 "Apply above rules to online images" = "Appliquer les règles ci-dessus sur les images en ligne";
-"Allow upload images automatically based on YAML settings" = "Autoriser le téléversement d'images automatiquement d'après les paramètres YAML";
+"Allow upload images automatically based on YAML settings" = "Autoriser l'envoi automatique d'images d'après les paramètres YAML";
 
 "Learn More" = "En apprendre plus";
 "Whitespace / Line Break" = "Espaces / Retours à la ligne";
@@ -231,6 +228,7 @@
 "Export / Print" = "Export / Impression";
 "Preserve sequential whitespace and single line break" = "Preserver les espaces successifs et les retours à la ligne simples";
 "Ignore sequential whitespace and single line break" = "Ignorer les espaces successifs et les retours à la ligne simples";
+
 "Quit" = "Quit";
 "Quit Typora when last window is closed" = "Quitter Typora lorsque la dernière fenêtre est fermée";
 "On Launch" = "Au lançement";
@@ -239,11 +237,11 @@
 "Restore last closed files and folders" = "Restaurer les derniers fichiers et dossiers fermés";
 "Open custom folder" = "Ouvrir un dossier spécifique";
 "Select custom folder" = "Sélectionner un dossier spécifique";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Cette option peut être écrasée par \"Fermer les fenêtres lors de la fermeture d'une application\" dans les préférences système";
 
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choisir dossier par défaut";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convertir à la saisie</strong>: Les tirets et guillements ASCII saisis sont ensuite convertis et enregistés en tirets unicode ou guillements arrondis.<br/><strong>Convertir à l'affichage</strong>: Les tirets et guillements ASCII saisis sont enregistés tels quels et convertis en tirets unicode ou guillements arrondis seulement lors de l'affichage.</div>";
-
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconnaître la ponctuation unicode telle qu'ASCII lors de l'analyse du Markdown, e.g.:<br/> <pre> 》 citation → > citation <br/> [lien](src ’titre’) → [lien](src 'titre')</pre>Ce paramètre est automatiquement activé si les guillemets/tirets intelligents sont convertis à l'entrée.<div>";
 
 "Copy image to custom folder" = "Copier l'image vers un dossier spécifique";

@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
 */
 
 /* Typora Menu */
@@ -304,3 +304,22 @@
 "Upload All Local Images" = "Téléverser toutes les images locales";
 "Open Image in Browser" = "Ouvrir l'image dans le Navigateur";
 "Copy Image to" = "Copier l'image vers";
+
+"More Actions" = "Plus d'actions";
+"Get Info" = "Obtenir des informations";
+
+"Export with Previous" = "Exporter avec le précédent";
+"Export and Overwrite with Previous" = "Exporter et écraser avec le précédent";
+
+"Emoji and Symbols" = "Emoji et symboles";
+
+"Insert Final New Line On Save" = "Insérer une nouvelle ligne à la fin lors de l'enregistrement";
+"Hyperlink Actions" = "Actions sur le lien";
+"Copy Link Address" = "Copier l'adresse du lien";
+
+"Click" = "Clic";
+
+"Export Setting" = "Réglage de l'export";
+
+"My License" = "Ma Licence";
+"Registration / Activation" = "Enregistrement / Activation";

@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
 */
 
 /* Common */
@@ -174,3 +174,16 @@
 "Failed to upload images:" = "Impossible de téléverser les images :";
 "Uploading in progress" = "Téléversement en cours";
 "Successfully uploaded {0} images, {1} failed." = "{0} Images ont été téléversées avec succès, {1} ont échoué.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Vous pouvez annuler cette opération par la suite via `Éditer` → `Annuler`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Vous pouvez appuyer sur <strong>⌘ + Clic</strong> pour ouvrir <a href='#'>links</a> ou allez à la note de pied de page.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Vous pouvez appuyer sur <strong>CTRL + Clic</strong> pour ouvrir <a href='#'>links</a> ou allez à la note de pied de page.";
+
+"<strong>Unibody</strong> style has been turned on." = "Le style <strong>Unibody</strong> a été activé.";
+"You can right click titlebar to popup application menu." = "Vous pouvez effectuer un clic droit sur la barre de titre pour afficher le menu de l'application.";
+
+"Support Document" = "Document d'assitance";
+
+"You are not supposed to edit or save this file." = "Vous n'êtes pas supposé éditer ou enregistrer ce fichier.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Les fichiers à cet emplacement (%@) sont gérés par Typora, et peuvent être supprimés automatiquement.<br/>Veuillez copier le contenu dans un nouveau fichier pour une édition ultérieure.";

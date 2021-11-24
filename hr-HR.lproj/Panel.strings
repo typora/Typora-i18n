@@ -94,7 +94,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc je potreban kako bi se uvezli ovi formati datoteke";
 "Check help->Install and use Pandoc from menubar for detail" = "Check help->Install and use Pandoc from menubar for detail";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Značajke za uvoz i izvoz zahtjevaju instaliran <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Značajke za uvoz i izvoz zahtjevaju instaliran <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Slijedite upute kako biste instalirali/osvježili Pandoc";
 "Export Failed" = "Izvoz nije uspio";
 "Import Failed" = "Uvoz nije uspio";

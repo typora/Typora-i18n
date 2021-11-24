@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Ezen fájlformátumok importálásához a Pandocra van szükség";
 "Check help->Install and use Pandoc from menubar for detail" = "Részletek a Súgó menü Pandoc telepítése és használata pontjában találhatók";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Egyes importáló vagy exportáló műveletekhez a <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) telepítése szükséges.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Egyes importáló vagy exportáló műveletekhez a <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) telepítése szükséges.";
 "Follow Instructions to Install/Update Pandoc" = "A Pandoc telepítéséhez/frissítéséhez kövesse az utasításokat";
 "Export Failed" = "Az exportálás nem sikerült";
 "Import Failed" = "Az importálás nem sikerült";
@@ -385,7 +385,7 @@
 "Width" = "Szélesség";
 "Command" = "Parancs";
 "Show Save File Dialog" = "Fájl mentése ablak mutatása";
-"File Extensions for Export" = "File Extensions for Export";
+"File Extensions for Export" = "Fájl kiterjesztések exportáláshoz";
 "Arguments" = "Argumentumok";
 "Extra Arguments" = "További argumentumok";
 "LaTeX Engine" = "LaTeX motor";
@@ -465,3 +465,9 @@
 "End of current section" = "Jelenlegi kijelölés végén";
 "Convert TeX formulas to web images" = "TeX képletek web képekké alakítása";
 "Image Format" = "Képformátum";
+
+"Set Pandoc Path" = "Pandoc útvonal megadása";
+
+"Apply Line Break at \\ and &#92;newline" = "\\ és &#92;newline jeleknél sortörés";
+
+"Export operation succeeded with warnings." = "Az exportálás figyelmeztetésekkel befejeződött.";

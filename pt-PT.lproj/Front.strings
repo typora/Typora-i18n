@@ -106,7 +106,7 @@
 "Stop" = "Parar";
 "back to document" = "voltar ao documento";
 "Failed to load file" = "Erro ao carregar ficheiro";
-"Save File Failed!" = "Erro ao Guardar Ficheiro!"
+"Save File Failed!" = "Erro ao Guardar Ficheiro!";
 "Cannot open folder {0}" = "Não foi possível abrir a pasta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "O conteúdo do ficheiro foi modificado por aplicações externas. Recarregar o conteúdo?";

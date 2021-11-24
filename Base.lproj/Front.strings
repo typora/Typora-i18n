@@ -180,5 +180,10 @@
 "You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition.";
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition.";
 
-"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> style has been turned on."
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> style has been turned on.";
 "You can right click titlebar to popup application menu." = "You can right click titlebar to popup application menu.";
+
+"Support Document" = "Support Document";
+
+"You are not supposed to edit or save this file." = "You are not supposed to edit or save this file.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing.";

@@ -17,7 +17,7 @@
 "Seamless window only support OS X later than 10.10." = "النوافذ السلسة تدعم نظام تشغيل OS X أجدد من 10.10.";
 "Themes" = "الأنماط";
 "Open Theme Folder" = "فتح ملف الأنماط";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "يرجى التحقق من "مساعدة" -> "بداية سريعة" لمقدمة قصيرة. قم بزيارة للحصول على المزيد من المواضيع أو التعليمات.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "يرجى التحقق من 'مساعدة' -> 'بداية سريعة' لمقدمة قصيرة. قم بزيارة للحصول على المزيد من المواضيع أو التعليمات.";
 "Word Count" = "عدد الكلمات";
 "Always Show Word Count" = "إظهار عدد الكلمات دائمًا";
 "Font Size" = "حجم الخط";
@@ -96,7 +96,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc مطلوب لاستيراد تنسيقات الملفات هذه";
 "Check help->Install and use Pandoc from menubar for detail" = "تحقق من التعليمات-> تثبيت Pandoc واستخدامه من شريط القوائم للحصول على التفاصيل";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "يتطلب الاستيراد أو بعض ميزات التصدير تثبيت <a href='http://pandoc.org/' target='_blank'> Pandoc </a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "يتطلب الاستيراد أو بعض ميزات التصدير تثبيت <a href='http://pandoc.org/' target='_blank'> Pandoc </a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "اتبع التعليمات لتثبيت / تحديث Pandoc";
 "Export Failed" = "فشل التصدير";
 "Import Failed" = "فشل الاستيراد";
@@ -108,7 +108,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "هل تريد حفظ التغييرات التي تم إجراؤها على هذا المستند؟ <br> ستفقد التغييرات إذا لم تقم بحفظها.";
 "[Warning] Failed to attach bookmark for PDF file." = "[تحذير] فشل في إرفاق إشارة مرجعية لملف PDF";
 "Dark Theme not support" = "المظهر الداكن غير مدعوم";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "عذرًا ، لن يقوم الإصدار الحالي من تايبورا بطباعة لون الخلفية على ملف PDF المُصدَّر ، لذا فإن المظهر الداكن غير مدعوم حتى الآن لتصدير PDF. \ n الرجاء اختيار سمة خفيفة أو النقر فوق \" طباعة باستخدام السمة الافتراضية \ "" ؛
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
 "Print with default theme" = "الطباعة باستخدام السمة الافتراضية";
 "Export to PDF successfully." = "تم تصدير الملف إلى PDF بنجاح";
 "Converting file using Pandoc. This may take some time." = "جار تحويل الملف باستخدام Pandoc. هذا قد يستغرق بعض الوقت.";
@@ -209,7 +209,6 @@
 "Word count only support OS X later than 10.10." = "خاصية عدد الأحرف تدعم OS X أحدث من 10.10.";
 "Indent Size for Code" = "حجم المسافة البادئة للرمز المصدري";
 "Auto wrap long lines" = "التفاف تلقائي للأسطر الطويلة";
-عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "عذرًا ، الإصدار الحالي من تايبورا لن يطبع لون الخلفية. السمة الداكنة غير مهيئة للطباعة حتى الآن. الرجاء اختيار سمة خفيفة أو تصدير هذا المستند إلى PDF.";
 "Export to PDF" = "تصدير كـ PDF";
 "Pretty indentation" = "ترتيب المسافات البادئة";
@@ -238,7 +237,7 @@
 "Restore last closed files and folders" = "استعادة الملفات والمجلدات المغلقة حديثًا";
 "Open custom folder" = "فتح مجلد خاص";
 "Select custom folder" = "تحديد مجلد خاص";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "يمكن تعديل هذا الخيار من خلال  "إغلاق النوافذ عند الخروج من التطبيق" في تفضيلات النظام";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "يمكن تعديل هذا الخيار من خلال  'إغلاق النوافذ عند الخروج من التطبيق' في تفضيلات النظام";
 
 "Ignore" = "تجاهل";
 "Choose Default Folder" = "اختيار المجلد الافتراضي";
@@ -296,7 +295,7 @@
 "Check Update Failed" = "التحقق من التحديثات فشل";
 "You're up to date!" = "لديك آخر نسخة!";
 "Latest version is $1, your version is $2" = "آخر نسخة هي $1, نسختك هي $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "يمكن أيضًا تغيير هذه الخيارات من قائمة \"تحرير → المسافات والأسطر\";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "يمكن أيضًا تغيير هذه الخيارات من قائمة \"تحرير → المسافات والأسطر";
 "Auto escape image URL when insert" = "Auto escape image URL when insert";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "على سبيل المثال ، إذا قمت بإدراج ملف في 'img/example file.png', سيصبح 'img/example%20file.png'. قم بتمكين هذا من أجل توافق أفضل مع محركات ماركداون الأخرى ، أو قم بتعطيله لقراءة أفضل.";
 "Check updates automatically" = "التحقق من التحديثات دوريًا";

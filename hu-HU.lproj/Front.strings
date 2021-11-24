@@ -176,3 +176,11 @@
 "Successfully uploaded {0} images, {1} failed." = "{0} kép feltöltése sikeres, {1} képé sikertelen volt.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Később visszavonhatod ezt a műveletet a Szerkesztés → Visszavonás-sal.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href'#'>links</a> or jump to footnote definition." = "<a href='#'>Linkek</a> megnyitása vagy lábjegyzetre ugrás <strong>⌘ + kattintással</strong>.";
+"You can press <strong>CTRL + Click</strong> to open <a href'#'>links</a> or jump to footnote definition." = "<a href='#'>Linkek</a> megnyitása vagy lábjegyzetre ugrás <strong>CTRL + kattintással</strong>.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stílus bekapcsolódott.";
+"You can right click titlebar to popup application menu." = "Az alkalmazás menü megnyitásához kattints jobb gombbal a címsorra.";
+
+"Support Document" = "Támogatási dokumentáció";

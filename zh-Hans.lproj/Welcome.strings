@@ -1,0 +1,78 @@
+/*Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+"Welcome to Typora" = "欢迎使用 Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "感谢您使用 Typora 👋。 Typora 是一个极简风格的 Markdown 编辑器和阅读器，可以提供无缝的编辑和阅读体验。";
+
+"Get Start" = "快速上手";
+"Check following links if you're new to Markdown or Typora." = "如果您未了解过 Markdown 或 Typora，可以点击下列链接了解详情。";
+
+"Activate Typora" = "激活 Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "已经购买了 Typora？可以填写以下内容进行激活。";
+
+"Email" = "邮箱地址";
+"Email Address" = "邮箱地址";
+"License Code" = "序列号";
+
+"Help" = "帮助";
+"Find my License" = "找回我的序列号";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "我同意 <a href='https://support.typora.io/License-Agreement/'>终端用户许可协议</a> 和 <a href='https://support.typora.io/Privacy-Policy/'>隐私协议</a>。";
+
+"Live Preview" = "实时预览";
+"Write and read rendered output instantly." = "无缝地进行书写和阅读";
+"Markdown Syntax" = "扩展语法";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "代码块、YAML、任务列表、脚注、表格、公式、图表";
+"Import / Export" = "导入 / 导出";
+"Deliver your content in various formats." = "导出至多种格式";
+"Editing Experience" = "书写体验";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "大纲 / 字数统计 / 专注模式 / 打字机模式";
+
+"Files" = "文档";
+"Manage files in sidebar and search across files." = "在侧边栏管理文件或进行全局搜索";
+"Customize" = "自定义";
+"Customize your writing experience from preferences panel." = "通过偏好设置自定义您的书写体验";
+"Themes" = "主题";
+"Write in the theme you like, or make one by your own." = "使用您喜欢的主题，或者自己定制一个主题";
+"And more" = "更多";
+"Explorer more topics at support.typora.io" = "从 support.typora.io 获取更多帮助";
+
+"Quick Start" = "新手教程";
+"Markdown Reference" = "Markdown 语法说明";
+"Explorer Themes" = "浏览主题";
+"More Topics" = "更多帮助";
+
+"Typora Activated" = "Typora 已激活";
+"Thanks for your purchase." = "感谢您的支持。";
+
+"Next" = "下一页";
+"Please accept license agreement first" = "请先同意 终端用户许可协议";
+"Start %@ Days Trail" = "开始 %@ 天试用";
+"Buy License" = "购买";
+"Activate" = "激活";
+
+"Close" = "关闭";
+"Deactivate" = "解绑设备";
+"View License" = "查看序列号";
+"Your Typora License" = "您的序列号";
+"This copy of Typora is registered with license information below." = "已使用以下序列号激活";
+"Your trail will be expired in %@ days." = "您的试用还有 %@ 天到期";
+"Enter License" = "输入序列号";
+"Not Now" = "不是现在";
+
+"Please input a valid email address" = "请输入正确的邮箱地址";
+"Please input a valid license code" = "请输入正确的序号列";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "您的序号列激活的设备数量已超过最大数量，\n最早激活的设备将被自动解绑。";
+"This license code has been used with a different email address." = "该序号列已在被其他邮箱使用";
+"Unknown Error. Please contact hi@typora.io" = "未知错误，请联系 hi@typora.io";
+"Failed to access the license server. Please check your network or try gain later." = "连接服务器失败，请检查是否接入互联网或稍后再试";
+"This device has been deactivated" = "该设备已被解绑";
+
+"Enter a license code to support our development ❤" = "输入序号列以支持我们的开发 ❤";
+"Re-enter Email" = "重新输入 Email";
+"Email address confirmation does not match." = "Email 地址不匹配";
+
+"Are you sure to deactivate Typora on this device?" = "确认要取消激活该设备的 Typora 吗？";

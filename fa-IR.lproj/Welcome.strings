@@ -1,0 +1,78 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ by shamsnaamir@gmail.com
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "به Typora خوش آمدید";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+
+"Get Start" = "شروع کنیم";
+"Check following links if you're new to Markdown or Typora." = "اگر با مارک‌داون یا Typora آشنا نیستید می‌توانید از لینک های زیر استفاده نمایید.";
+
+"Activate Typora" = "فعال‌سازی Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+
+"Email" = "ایمیل";
+"Email Address" = "آدرس ایمیل";
+"License Code" = "کد لایسنس";
+
+"Help" = "کمک";
+"Find my License" = "Find my License";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+
+"Live Preview" = "Live Preview";
+"Write and read rendered output instantly." = "Write and read rendered output instantly.";
+"Markdown Syntax" = "Markdown Syntax";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
+"Import / Export" = "Import / Export";
+"Deliver your content in various formats." = "Deliver your content in various formats.";
+"Editing Experience" = "Editing Experience";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+
+"Files" = "Files";
+"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
+"Customize" = "Customize";
+"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
+"Themes" = "Themes";
+"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
+"And more" = "And more";
+"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+
+"Quick Start" = "شروع سریع";
+"Markdown Reference" = "Markdown Reference";
+"Explorer Themes" = "Explorer Themes";
+"More Topics" = "More Topics";
+
+"Typora Activated" = "Typora فعال شد";
+"Thanks for your purchase." = "از خرید شما متشکریم.";
+
+"Next" = "بعدی";
+"Please accept license agreement first" = "لطفا ابتدا توافق نامه مجوز  را بپذیرید";
+"Start %@ Days Trail" = "شروع دوره آزمایشی %@ روزه";
+"Buy License" = "خرید لایسنس";
+"Activate" = "فعال سازی";
+
+"Close" = "بستن";
+"Deactivate" = "غیر فعال‌سازی";
+"View License" = "نمایش لایسنس";
+"Your Typora License" = "لایسنس Typora شما";
+"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
+"Your trail will be expired in %@ days." = "دوره آزمایشی %@ روز دیگر منقضی می‌شود.";
+"Enter License" = "لایسنس را وارد نمایید";
+"Not Now" = "فعلا نه";
+
+"Please input a valid email address" = "لطفا یک ایمیل معتبر وارد نمایید";
+"Please input a valid license code"  = "لطفا یک لایسنس معتبر وارد نمایید.";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
+"The license has been used with a different email address." =  "The license has been used with a different email address.";
+"Unknown Error. Please contact hi@typora.io" = "خطای ناشناخته! لطفا با hi@typora.io تماس بگیرید.";
+"Failed to access the license server. Please check your network or try gain later." = "Failed to access the license server. Please check your network or try gain later.";
+

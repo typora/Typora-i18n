@@ -107,7 +107,7 @@
 "Stop" = "Zatrzymaj";
 "back to document" = "Wróć do dokumentu";
 "Failed to load file" = "Nie udało się załadować pliku";
-"Save File Failed!" = "Nie udało się zapisać pliku!"
+"Save File Failed!" = "Nie udało się zapisać pliku!";
 "Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku?";
@@ -180,5 +180,7 @@
 "You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>⌘ + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>CTRL + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
 
-"<strong>Unibody</strong> style has been turned on." = "Styl <strong>Unibody</strong> został włączony."
+"<strong>Unibody</strong> style has been turned on." = "Styl <strong>Unibody</strong> został włączony.";
 "You can right click titlebar to popup application menu." = "Możesz kliknąć prawym przyciskiem myszy, aby wywołać menu aplikacji.";
+
+"Support Document" = "Dokumentacja";

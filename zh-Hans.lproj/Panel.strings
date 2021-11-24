@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安装 Pandoc 以导入这些文件";
 "Check help->Install and use Pandoc from menubar for detail" = "请从 `帮助`->`Install and use Pandoc` 中查看详细信息";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "请按照说明安装/升级 Pandoc";
 "Export Failed" = "导出失败";
 "Import Failed" = "导入失败";
@@ -174,7 +174,7 @@
 "The option `%@` must be enabled first to automatically upload images." = "请先开启选项`%@`以允许图片自动上传。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typera 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typora 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 会根据相对路径复制图片，所以请先保存文件。";
@@ -474,3 +474,18 @@
 "Set Pandoc Path" = "设置 Pandoc 路径";
 
 "Apply Line Break at \\ and &#92;newline" = "支持使用 \\ 和 &#92;newline 换行";
+
+"Export operation succeeded with warnings." = "导出成功，但包含警告信息。";
+
+"Typora is now deactivated" = "Typora 已取消激活";
+"This device has been deactivated" = "该设备已取消激活";
+"UNREGISTERED" = "未激活";
+
+"Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
+
+"Your Typora is not activated." = "您的 Typora 未被激活";
+"Your Typora has been activated." = "您的 Typora 已被激活";
+"Typora activation is required to change this." = "需要激活 Typora 后才能更新改选项";
+"You can reinstall the stable version and then disable this." = "您可以重新安装 stable 版本以取消该选项";
+"Update to dev version" = "更新至 dev 版本";

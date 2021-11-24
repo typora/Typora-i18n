@@ -49,7 +49,7 @@
 /* Math */
 "Edit" = "Правка";
 "Delete Math" = "Удалить формулу";
-"Preview" = "Превью";
+"Preview" = "Предпросмотр";
 
 /* Sidebar */
 "Articles" = "Файлы";
@@ -74,9 +74,9 @@
 "Sort Naturally (Ascending)" = "Естественная сортировка (по возрастанию)";
 "Sort Naturally (Descending)" = "Естественная сортировка (по убыванию)";
 "Sort by Name (Ascending)" = "Сортировать по имени (по возрастанию)";
-"Sort by Modification Date (Ascending)" = "Сортировать по дате модификации (по возрастанию)";
+"Sort by Modification Date (Ascending)" = "Сортировать по дате изменения (по возрастанию)";
 "Sort by Name (Descending)" = "Сортировать по имени (по убыванию)";
-"Sort by Modification Date (Descending)" = "Сортировать по дате модификации (по убыванию)";
+"Sort by Modification Date (Descending)" = "Сортировать по дате изменения (по убыванию)";
 "Location" = "Расположение";
 "Switch File List/Tree View" = "Переключить представление Файлы/Дерево файлов";
 "No Files Available" = "Нет доступных файлов";
@@ -107,7 +107,7 @@
 "Stop" = "Остановить";
 "back to document" = "вернуться к документу";
 "Failed to load file" = "Не удалось загрузить файл";
-"Save File Failed!" = "Ошибка сохранения файла!"
+"Save File Failed!" = "Ошибка сохранения файла!";
 "Cannot open folder {0}" = "Не удается открыть папку {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Содержимое файла изменено внешними приложениями. Перезагрузить содержимое с диска?";

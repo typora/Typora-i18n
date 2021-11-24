@@ -417,8 +417,8 @@
 "Delete" = "Supprimer";
 "Rename" = "Renommer";
 "Move Down" = "Déplacer vers le bas";
-"Move Up" = "Dépalcer vers le haut";
-"Pandoc Path" = "Checmin de Pandoc";
+"Move Up" = "Déplacer vers le haut";
+"Pandoc Path" = "Chemin de Pandoc";
 "Select" = "Sélectionner";
 "Target Format" = "Format cible";
 "auto detect based on target file path" = "détection automatique basée sur le chemin du fichier cible";
@@ -431,7 +431,7 @@
 "Select file path to save" = "Sélectionnez le chemin du fichier à enregistrer";
 "Select folder path to save" = "Sélectionnez le dossier du fichier à enregistrer";
 "PDF Engine" = "Moteur PDF";
-"Show command output" = "Montrer la commande de sortie";
+"Show command output" = "Montrer la sortie de commande";
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "Command Arguments:";
@@ -445,43 +445,43 @@
 "Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
 "Dark theme is not supported." = "Dark theme is not supported.";
 
-"Markdown Variants" = "Markdown Variants";
-"Original Unextended Markdown" = "Original Unextended Markdown";
-"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
-"Line Wrap" = "Line Wrap";
-"Hard line wrap" = "Hard line wrap";
-"Text Column Width" = "Text Column Width";
-"Auto (based on current OS)" = "Auto (based on current OS)";
-"Indent" = "Indent";
-"Preserve tabs" = "Preserve tabs";
-"2 spaces per tab" = "2 spaces per tab";
-"3 spaces per tab" = "3 spaces per tab";
-"4 spaces per tab" = "4 spaces per tab";
-"Unicode Characters" = "Unicode Characters";
-"Use only ASCII characters in output" = "Use only ASCII characters in output";
-"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
-"Footnotes and References Location" = "Footnotes and References Location";
-"End of document" = "End of document";
-"End of current (top-level) block" = "End of current (top-level) block";
-"End of current section" = "End of current section";
-"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
-"Image Format" = "Image Format";
+"Markdown Variants" = "Variantes Markdown";
+"Original Unextended Markdown" = "Markdown original non étendu";
+"CommonMark with many pandoc extensions" = "CommonMark avec beaucoup des extensions Pandoc";
+"Line Wrap" = "Retour à la ligne";
+"Hard line wrap" = "Retour à la ligne strict";
+"Text Column Width" = "Largeur de la colonne de texte";
+"Auto (based on current OS)" = "Auto (basé sur l'OS actif)";
+"Indent" = "Indentation";
+"Preserve tabs" = "Préserveer les tabulations";
+"2 spaces per tab" = "2 espaces par tabulation";
+"3 spaces per tab" = "3 espaces par tabulation";
+"4 spaces per tab" = "4 espaces par tabulation";
+"Unicode Characters" = "Caractères Unicode";
+"Use only ASCII characters in output" = "Utiliser uniquement des caractères ASCII en sortie";
+"Use reference-style links rather than inline links" = "Utiliser des liens par référence plutôt que des liens en ligne";
+"Footnotes and References Location" = "Emplacement des Notes de pied de page et des références";
+"End of document" = "Fin de document";
+"End of current (top-level) block" = "Fin du bloc actif (haut niveau)";
+"End of current section" = "Fin de la section active";
+"Convert TeX formulas to web images" = "Convertir les formules TeX en images web";
+"Image Format" = "Format d'image";
 
-"Set Pandoc Path" = "Set Pandoc Path";
+"Set Pandoc Path" = "Définir le chemin de Pandoc";
 
-"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
+"Apply Line Break at \\ and &#92;newline" = "Appliquer le saut de ligne sur \\ et &#92;newline";
 
-"Export operation succeeded with warnings." = "Export operation succeeded with warnings.";
+"Export operation succeeded with warnings." = "Export réalisé avec succès avec des avertissements.";
 
-"Typora is now deactivated" = "Typora is now deactivated";
-"This device has been deactivated" = "This device has been deactivated";
-"UNREGISTERED" = "UNREGISTERED";
+"Typora is now deactivated" = "Typora est maintenant désactivé";
+"This device has been deactivated" = "Cet appareil à été désactivé";
+"UNREGISTERED" = "NON ENREGISTRÉ";
 
-"Allow physics package to redefine existing TeX commands" = "Allow physics package to redefine existing TeX commands";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "When enabled, commands like \\div, \\Re will be redefined by physics package.";
+"Allow physics package to redefine existing TeX commands" = "Autoriser le package des physiques à redéfinir les commandes TeX existantes";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Si activé, les commandes telles que \\div, \\Re seront redéfinis avec le package des physiques.";
 
-"Your Typora is not activated." = "Your Typora is not activated.";
-"Your Typora has been activated." = "Your Typora has been activated.";
-"Typora activation is required to change this." = "Typora activation is required to change this.";
-"You can reinstall the stable version and then disable this." = "You can reinstall the stable version and then disable this.";
-"Update to dev version" = "Update to dev version";
+"Your Typora is not activated." = "Votre Typora n'est pas activé.";
+"Your Typora has been activated." = "Votre Typora a été activé.";
+"Typora activation is required to change this." = "L'activation de Typora est requise pour effectuer cette modification.";
+"You can reinstall the stable version and then disable this." = "Vous pouvez réinstaller la version stable et ensuite désactiver ceci.";
+"Update to dev version" = "Mettre à jour ver la version de développement";

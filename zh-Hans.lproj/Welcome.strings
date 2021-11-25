@@ -68,7 +68,7 @@
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "您的序号列激活的设备数量已超过最大数量，\n最早激活的设备将被自动解绑。";
 "This license code has been used with a different email address." = "该序号列已在被其他邮箱使用";
 "Unknown Error. Please contact hi@typora.io" = "未知错误，请联系 hi@typora.io";
-"Failed to access the license server. Please check your network or try gain later." = "连接服务器失败，请检查是否接入互联网或稍后再试";
+"Failed to access the license server. Please check your network or try again later." = "连接服务器失败，请检查是否接入互联网或稍后再试";
 "This device has been deactivated" = "该设备已被解绑";
 
 "Enter a license code to support our development ❤" = "输入序号列以支持我们的开发 ❤";
@@ -76,3 +76,6 @@
 "Email address confirmation does not match." = "Email 地址不匹配";
 
 "Are you sure to deactivate Typora on this device?" = "确认要取消激活该设备的 Typora 吗？";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "您的序号列激活的设备数量已超过最大数量，\n如您点击 \"继续激活\", 该设备将会被激活，而之前最早被激活的设备将自动解绑。";
+"Continue Activation" = "继续激活";

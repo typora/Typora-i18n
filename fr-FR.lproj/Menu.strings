@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
 */
 
 /* Typora Menu */
@@ -22,16 +22,16 @@
 "New" = "Nouveau";
 "Open" = "Ouvrir";
 "Open Folder" = "Ouvrir le dossier";
-"Reopen with Encoding" = "Rouvrir avec l'encodage";
+"Reopen with Encoding" = "Rouvrir avec l’encodage";
 "Auto" = "Auto";
 "Open Recent" = "Ouvrir les fichiers récents";
 "Recent Locations" = "Emplacements récents";
 "Clear Items" = "Effacer les fichiers récents";
 "No Recent Files" = "Aucun fichier récent";
 "Open Quickly" = "Ouverture rapide";
-"Open File Location" = "Ouvrir l'emplacement du fichier";
+"Open File Location" = "Ouvrir l’emplacement du fichier";
 "Reveal in Library" = "Montrer dans la Bibliothèque";
-"Reveal in File Tree" = "Montrer dans l'Arborescence";
+"Reveal in File Tree" = "Montrer dans l’Arborescence";
 "Close" = "Fermer";
 "Save" = "Enregistrer";
 "Save As" = "Enregistrer sous";
@@ -70,12 +70,12 @@
 "Jump to Bottom" = "Aller tout en bas";
 "Math Tools" = "Outils Maths";
 "Refresh All Math Expressions" = "Rafraîchir toutes les formules mathématiques";
-"Image Tools" = "Outils d'image";
+"Image Tools" = "Outils d’image";
 "Insert Local Images" = "Insérer les images locales";
 "Upload Local Images via iPic" = "Téléverser les images locales via iPic";
-"When Insert Local Image" = "Lors de l'insertion de l'image locale";
-"Copy Image File to Folder" = "Copier fichier d'image vers le dossier";
-"Use Image Root Path" = "Utiliser le chemin racine de l'image";
+"When Insert Local Image" = "Lors de l’insertion de l’image locale";
+"Copy Image File to Folder" = "Copier fichier d’image vers le dossier";
+"Use Image Root Path" = "Utiliser le chemin racine de l’image";
 "Line Endings" = "Fin de ligne";
 "Windows Line Endings (CRLF)" = "Format Windows (CRLF)";
 "Unix Line Endings (LF)" = "Format Unix (LF)";
@@ -87,7 +87,7 @@
 "Replace Next" = "Remplacer suivant";
 "Spelling and Grammar" = "Orthographe et Grammaire";
 "Check Document Now" = "Vérifier le document maintenant";
-"Check Spelling While Typing" = "Vérification automatique de l'orthographe";
+"Check Spelling While Typing" = "Vérification automatique de l’orthographe";
 "Check Grammar With Spelling" = "Vérification automatique de la grammaire";
 "Correct Spelling Automatically" = "Correction orthographique automatique";
 "Substitutions" = "Substitutions";
@@ -207,10 +207,10 @@
 "Copy as Tex" = "Copier comme Tex";
 "Copy Math" = "Copier Maths";
 "Reveal in Finder" = "Montrer dans le Finder";
-"Open Link" = "Ouvrir lien";
+"Open Link" = "Ouvrir le lien";
 "Reveal in Sidebar" = "Montrer dans la barre latérale";
 "Open in New Window" = "Ouvrir dans une nouvelle fenêtre";
-"Copy File Path" = "Copier le chemin d'accès";
+"Copy File Path" = "Copier le chemin d’accès";
 "New File" = "Nouveau fichier";
 "Rename" = "Renommer";
 "New Folder" = "Nouveau dossier";
@@ -220,7 +220,7 @@
 "Copy / Paste As…" = "Copier / Coller comme…";
 "Math" = "Maths";
 "Insert" = "Insérer";
-"Inspect Element" = "Inspecter l'élément";
+"Inspect Element" = "Inspecter l’élément";
 "Copy to MS Word" = "Copier dans MS Word";
 "Paragraph (before)" = "Paragraphe (avant)";
 "Paragraph (after)" = "Paragraphe (après)";
@@ -229,14 +229,14 @@
 "Search With…" = "Rechercher avec…";
 
 /* Related Panel */
-"Open Failed" = "Impossible d'ouvrir";
-"File or folder does not exist." = "Le fichier ou le dossier n'existe pas.";
+"Open Failed" = "Impossible d’ouvrir";
+"File or folder does not exist." = "Le fichier ou le dossier n’existe pas.";
 
 "Prettify Source Code" = "Embellir le Code Source";
 "Copy '%@'" = "Copier '%@'";
 "Copy to %@" = "Copier vers %@";
-"Copy Image to" = "Copier l'image vers";
-"Open Image Location" = "Ouvrir l'emplacement de l'image";
+"Copy Image to" = "Copier l’image vers";
+"Open Image Location" = "Ouvrir l’emplacement de l’image";
 
 "Learn More" = "En apprendre plus";
 "Whitespace and Line Breaks" = "Espaces et Retours à la ligne";
@@ -248,12 +248,12 @@
 "New Window" = "Nouvelle Fenêtre";
 "Reopen Closed File" = "Ré-ouvrir des fichiers fermés";
 
-"Global Image Settings" = "Paramètes d'Image Globaux";
+"Global Image Settings" = "Paramètes d’Image Globaux";
 "Smart Punctuation" = "Ponctuation Intelligente";
 "Convert on Input" = "Convertir à la saisie";
-"Convert on Rendering" = "Convertir à l'affichage";
-"Remap Unicode Punctuation on Parse" = "Remapper la Ponctuation Unicode lors de l'Analyse";
-"More Options" = "Plus d'options";
+"Convert on Rendering" = "Convertir à l’affichage";
+"Remap Unicode Punctuation on Parse" = "Remapper la Ponctuation Unicode lors de l’Analyse";
+"More Options" = "Plus d’options";
 
 "HTML Block" = "Bloc HTML";
 "Delete Block" = "Supprimer le Bloc";
@@ -262,27 +262,25 @@
 "Pause" = "Pause";
 
 "Spell Check" = "Vérification Orthographique";
-"Unlearn Spelling" = "Dés-apprendre l'orthographe";
+"Unlearn Spelling" = "Dés-apprendre l’orthographe";
 "Properties" = "Propriétés";
 
 "Search" = "Rechercher";
-
 "Copy without Theme Styling" = "Copier sans le style du Thème";
 "Recent Files" = "Fichiers Recents";
 "File Results" = "Résultats du fichier";
 
 "Insert Table" = "Insérer Tableau";
 "Insert Image" = "Insert Image";
-
-"Allow Magnification" = "Autoriser l'Amplification";
+"Allow Magnification" = "Autoriser l’Amplification";
 
 "Move Row Up" = "Déplacer la ligne vers le Haut";
 "Move Row Down" = "Déplacer la ligne vers le Bas";
 "Move Column Left" = "Déplacer la ligne vers la Gauche";
 "Move Column Right" = "Déplacer la ligne vers la Droite";
 
-"Zoom Image" = "Agrandir l'image";
-"Zoom Image to %@" = "Agrandir l'image jusqu'à %@";
+"Zoom Image" = "Agrandir l’image";
+"Zoom Image to %@" = "Agrandir l’image jusqu’à %@";
 
 "Copy as Plain Text" = "Copier en tant que Texte Brut";
 
@@ -302,8 +300,26 @@
 "File Tree (Tree View)" = "File Tree (Vue en Arborescence)";
 "Filter" = "Filtrer";
 
-"Upload Image" = "Téléverser l'image";
+"Upload Image" = "Téléverser l’image";
 "Upload All Local Images" = "Téléverser toutes les images locales";
-"Open Image in Browser" = "Ouvrir l'image dans le Navigateur";
+"Open Image in Browser" = "Ouvrir l’image dans le Navigateur";
+"Copy Image to" = "Copier l’image vers";
 
-"Copy Image to" = "Copier l'image vers";
+"More Actions" = "Plus d’actions";
+"Get Info" = "Obtenir des informations";
+
+"Export with Previous" = "Exporter avec le précédent";
+"Export and Overwrite with Previous" = "Exporter et écraser avec le précédent";
+
+"Emoji and Symbols" = "Emoji et symboles";
+
+"Insert Final New Line On Save" = "Insérer une nouvelle ligne à la fin lors de l’enregistrement";
+"Hyperlink Actions" = "Actions sur le lien";
+"Copy Link Address" = "Copier l’adresse du lien";
+
+"Click" = "Clic";
+
+"Export Setting" = "Réglage de l’export";
+
+"My License" = "Ma Licence";
+"Registration / Activation" = "Enregistrement / Activation";

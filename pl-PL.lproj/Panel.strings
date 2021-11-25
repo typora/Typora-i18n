@@ -479,3 +479,9 @@
 
 "Allow physics package to redefine existing TeX commands" = "Pozwól pakietowi fizyki zmienić definicje istniejących poleceń TeX";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "Po włączeniu tej opcji polecenia w rodzaju \\div, \\Re zostaną zastąpione definicjami z pakietu fizyki.";
+
+"Your Typora is not activated." = "Twoja Typora nie jest aktywowana.";
+"Your Typora has been activated." = "Twoja Typora została aktywowana.";
+"Typora activation is required to change this." = "Do zmiany tej opcji konieczna jest aktywacja Typory.";
+"You can reinstall the stable version and then disable this." = "Możesz ponownie zainstalować wersję stabilną i wyłączyć to.";
+"Update to dev version" = "Zaktualizuj do wersji deweloperskiej";

@@ -1,4 +1,4 @@
-/* 
+/*
   Front.strings
   Typora
 
@@ -184,3 +184,6 @@
 "You can right click titlebar to popup application menu." = "Możesz kliknąć prawym przyciskiem myszy, aby wywołać menu aplikacji.";
 
 "Support Document" = "Dokumentacja";
+
+"You are not supposed to edit or save this file." = "Nie możesz edytować ani zapisywać tego pliku.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Pliki w tej lokalizacji (%@) są zarządzane przez Typorę i mogą być automatycznie usuwane.<br/>Skopiuj zawartość do nowego pliku w celu dalszej edycji.";

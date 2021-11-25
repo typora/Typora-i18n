@@ -71,7 +71,15 @@
 "Please input a valid email address" = "Please input a valid email address";
 "Please input a valid license code"  = "Please input a valid license code";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"The license has been used with a different email address." =  "The license has been used with a different email address.";
+"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
 "Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try gain later." = "Failed to access the license server. Please check your network or try gain later.";
+"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
 
+"Enter a license code to support our development ❤" = "Enter a license code to support our development ❤";
+"Re-enter Email" = "Re-enter Email";
+"Email address confirmation does not match." = "Email address confirmation does not match.";
+
+"Are you sure to deactivate Typora on this device?" = "Are you sure to deactivate Typora on this device?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically.";
+"Continue Activation" = "Continue Activation";

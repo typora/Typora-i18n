@@ -71,7 +71,7 @@
 "Please input a valid email address" = "Please input a valid email address";
 "Please input a valid license code"  = "Please input a valid license code";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"The license has been used with a different email address." =  "The license has been used with a different email address.";
+"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
 "Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try gain later." = "Failed to access the license server. Please check your network or try gain later.";
+"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
 

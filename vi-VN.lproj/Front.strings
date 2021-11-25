@@ -185,3 +185,6 @@
 "You can right click titlebar to popup application menu." = "Bạn có thể click chuột phải vào thanh tiêu đề để mở menu của chương trình.";
 
 "Support Document" = "Tài liệu hỗ trợ";
+
+"You are not supposed to edit or save this file." = "Bạn không được phép chỉnh sửa hoặc lưu tập tin này.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Các tập tin trong khu vực (%@) được quản lý bởi Typora, và có thể tự động bị xoá.<br/>Vui lòng sao chép nội dung sang một tập tin mới để tiếp tục chỉnh sửa.";

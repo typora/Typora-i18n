@@ -129,7 +129,7 @@
 "In Selection" = "In Selection";
 "Panel" = "Panel";
 
-/* Windows Prefernce Panel*/
+/* Windows Preferences Panel*/
 "Appearance" = "Appearance";
 "System Native" = "System Native";
 "Unibody" = "Unibody";
@@ -354,7 +354,7 @@
 "Unzipping…" = "Unzipping…";
 "Finished" = "Finished";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?";
 
 "Export operation finished successfully." = "Export operation finished successfully.";
 

@@ -479,3 +479,9 @@
 
 "Allow physics package to redefine existing TeX commands" = "Allow physics package to redefine existing TeX commands";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "When enabled, commands like \\div, \\Re will be redefined by physics package.";
+
+"Your Typora is not activated." = "Your Typora is not activated.";
+"Your Typora has been activated." = "Your Typora has been activated.";
+"Typora activation is required to change this." = "Typora activation is required to change this.";
+"You can reinstall the stable version and then disable this." = "You can reinstall the stable version and then disable this.";
+"Update to dev version" = "Update to dev version";

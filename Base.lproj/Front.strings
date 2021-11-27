@@ -184,3 +184,6 @@
 "You can right click titlebar to popup application menu." = "You can right click titlebar to popup application menu.";
 
 "Support Document" = "Support Document";
+
+"You are not supposed to edit or save this file." = "You are not supposed to edit or save this file.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing.";

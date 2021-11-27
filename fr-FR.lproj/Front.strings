@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
 */
 
 /* Common */
@@ -24,7 +24,7 @@
 "Search" = "Rechercher";
 "Replace" = "Remplacer";
 "All" = "Tout";
-"Search text not found in article" = "Le texte recherché est introuvable dans l'article";
+"Search text not found in article" = "Le texte recherché est introuvable dans l’article";
 "search text" = "texte à rechercher";
 
 /* Quick Open */
@@ -43,7 +43,7 @@
 "Delete Table" = "Effacer Tableau";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier l'image nouvellement insérée au dossier <code id='image-create-folder-target'></code>, comformément à votre YAML Front Matter setting ou à vos préférences globales. Cependant, le dossier ciblé n'existe pas, voulez-vous le créer ?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier l’image nouvellement insérée au dossier <code id='image-create-folder-target'></code>, comformément à votre YAML Front Matter setting ou à vos préférences globales. Cependant, le dossier ciblé n’existe pas, voulez-vous le créer ?";
 "Create Folder" = "Créer Dossier";
 
 /* Math */
@@ -67,12 +67,12 @@
 "Action" = "Action";
 "Close Sidebar Menu" = "Fermer le menu de la barre latérale";
 "Reveal in Finder" = "Montrer dans le Finder";
-"Reveal in File Explorer" = "Montrer dans l'Explorateur de fichiers";
+"Reveal in File Explorer" = "Montrer dans l’Explorateur de fichiers";
 "Refresh Folder" = "Rafraîchir le dossier";
 "Sort" = "Trier";
 "Group By Folder" = "Regrouper par dossier";
-"Sort Naturally (Ascending)" = "Trier dans l'ordre croissant";
-"Sort Naturally (Descending)" = "Trier dans l'ordre décroissant";
+"Sort Naturally (Ascending)" = "Trier dans l’ordre croissant";
+"Sort Naturally (Descending)" = "Trier dans l’ordre décroissant";
 "Sort by Name (Ascending)" = "Trier par nom (Croissant)";
 "Sort by Modification Date (Ascending)" = "Trier par date de modification (Croissant)";
 "Sort by Name (Descending)" = "Trier par nom (Décroissant)";
@@ -94,13 +94,13 @@
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Il faut définir la référence de la note de bas de page <b>{0}</b> avec la syntaxe <a>[^{1}]: www.exemple.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Il faut définir le lien de référence <b>[{0}]</b> avec la syntaxe <b>[{1}]: www.exemple.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Veuillez définir la référence de l'image \n[{0}]: http://exemple.png";
+"Please define image reference by \n[{0}]: http://example.png" = "Veuillez définir la référence de l’image \n[{0}]: http://exemple.png";
 
 /* msg */
 "Failed to create file" = "Impossible de créer le fichier";
 "Failed to create folder" = "Impossible de créer le dossier";
 "Failed to rename file" = "Impossible de renommer le fichier";
-"Folder does not exist at %@" = "Le dossier situé à %@ n'existe pas";
+"Folder does not exist at %@" = "Le dossier situé à %@ n’existe pas";
 "File with the same name already exists at target path" = "Il y a déjà un fichier avec le même nom au chemin ciblé";
 "Apply to All" = "Appliquer à tous";
 "Overwrite" = "Écraser";
@@ -108,20 +108,19 @@
 "back to document" = "retour au document";
 "Failed to load file" = "Impossible de charger le fichier";
 "Save File Failed!" = "Échec de la sauvegarde du fichier !";
-"Cannot open folder {0}" = "Impossible d'ouvrir le dossier {0}";
+"Cannot open folder {0}" = "Impossible d’ouvrir le dossier {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Le contenu du fichier a été modifié par une application externe. Faut-il la recharger depuis le disque ?";
 "Should continue moving and overwrite exisiting file(s) ?" = "Faut-il continuer à déplacer et écraser le ou les fichiers existants ?";
 
-"Rename Failed" = "Impossible de renommer";
 "Rename to \"{0}\" ?" = "Renommer en \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Impossible de renommer \"{0}\" en \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "{0} images téléversées avec succès.";
-"Failed to upload image. Error Message:" = "Échec du téléversement d'image. Message d'erreur:";
-"Failed to Copy Image to Target Folder." = "Échec de la copie de l'image vers le dossier cible.";
-"Select Container Folder" = "Sélectionner dossier d'origine";
+"Successfully uploaded {0} images." = "{0} images Envoyées avec succès.";
+"Failed to upload image. Error Message:" = "Échec de l'envoi d’image. Message d’erreur:";
+"Failed to Copy Image to Target Folder." = "Échec de la copie de l’image vers le dossier cible.";
+"Select Container Folder" = "Sélectionner dossier d’origine";
 
 "Saved" = "Enregistré";
 
@@ -132,12 +131,12 @@
 "Case Sensitive" = "Sensible à la casse";
 "Whole Word" = "Mot entier";
 
-"input image URL" = "URL de l'image";
+"input image URL" = "URL de l’image";
 "Select image from local file" = "Choisissez une image de vos fichiers locaux";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Impossible d'ouvrir l'emplacement <code>$1</code>, voulez-vous dire <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Impossible d’ouvrir l’emplacement <code>$1</code>, voulez-vous dire <a href='https://$3'>https://$2</a> ?";
 
 "select a language" = "Choisissez un langage";
-"Finish Editing" = "Finir l'édition";
+"Finish Editing" = "Finir l’édition";
 
 "Revert advanced setting file to default one ?" = "Revenir des paramètres de fichiers avancés vers les paramètres par défaut ?";
 
@@ -165,12 +164,26 @@
 "Filter" = "Filtrer";
 "No result found." = "Aucun resultat trouvé.";
 "Continue & Overwrite" = "Continuer & Écraser";
-"The file is read-only, or you do not have right permissions to modify the file." = "Le fichier est en lecture seule, ou vous n'avez pas les permissions de le modifier.";
+"The file is read-only, or you do not have right permissions to modify the file." = "Le fichier est en lecture seule, ou vous n’avez pas les permissions de le modifier.";
 
+"Learn Data Recovery" = "Apprendre la récupération de données";
 "Auto refresh on Files Panel cannot be enabled." = "Le rafraîchissement automatique sur le panneau des fichiers ne peut être activé.";
 "Delete Permanently" = "Supprimer de façon permanente";
 
 
-"Failed to upload images:" = "Impossible de téléverser les images :";
+"Failed to upload images:" = "Impossible d'envoyer les images :";
 "Uploading in progress" = "Téléversement en cours";
-"Successfully uploaded {0} images, {1} failed." = "{0} Images ont été téléversées avec succès, {1} ont échoué.";
+"Successfully uploaded {0} images, {1} failed." = "{0} images ont été envoyées avec succès, {1} ont échouées.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Vous pouvez annuler cette opération par la suite via `Éditer` → `Annuler`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Vous pouvez appuyer sur <strong>⌘ + Clic</strong> pour ouvrir <a href='#'>links</a> ou allez à la note de pied de page.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Vous pouvez appuyer sur <strong>CTRL + Clic</strong> pour ouvrir <a href='#'>links</a> ou allez à la note de pied de page.";
+
+"<strong>Unibody</strong> style has been turned on." = "Le style <strong>Unibody</strong> a été activé.";
+"You can right click titlebar to popup application menu." = "Vous pouvez effectuer un clic droit sur la barre de titre pour afficher le menu de l’application.";
+
+"Support Document" = "Document d’assitance";
+
+"You are not supposed to edit or save this file." = "Vous n’êtes pas supposé éditer ou enregistrer ce fichier.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Les fichiers à cet emplacement (%@) sont gérés par Typora, et peuvent être supprimés automatiquement.<br/>Veuillez copier le contenu dans un nouveau fichier pour une édition ultérieure.";

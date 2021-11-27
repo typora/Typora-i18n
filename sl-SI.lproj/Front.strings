@@ -149,7 +149,7 @@
 "Global Setting…" = "Globalne nastavitve …";
 "Dictionary file is missing to enable spellcheck support for %@." = "Datoteka s slovarjem za %@ ne obstaja, podpora za črkovanje ni omogočena.";
 "Install Language Support" = "Namesti jezikovno podporo";
-"License Information" = "License Information";
+"License Information" = "Informacija o licenci";
 "Download" = "Prenesi";
 "Install dictionary file only for Typora" = "Namesti datoteko s slovarjem le za Typoro";
 "Spell Check (%@ unavailable)" = "Črkovalnik (%@ ni na voljo)";

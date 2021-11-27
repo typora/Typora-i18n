@@ -323,14 +323,14 @@
 "When Insert" = "Ko vstavite";
 "Upload image" = "Naloži sliko";
 "e.g: %@" = "n.pr: %@";
-"Test Uploader" = "Test Uploader";
-"Validating" = "Validating Image Uploader";
+"Test Uploader" = "Preverjanje programa za prenašanje slik";
+"Validating" = "Preverjanje nalaganja slik";
 "Validation Failed" = "Preverjanje je uspelo";
 "Validation Succeed" = "Preverjanje ni uspelo";
 "Testing image uploading using command:" = "Preverjanje nalaganja slike z uporabo ukaza:";
 "Running… Waiting for results." = "Delam … Počakajte na rezultat.";
-"Output from the console:" = "Output from the console:";
-"Error from the console:" = "Error from the console:";
+"Output from the console:" = "Izpis v konzoli:";
+"Error from the console:" = "Napaka iz konzole:";
 "Failed to fetch uploaded image from command output." = "Pridobivanje naložene slike iz ukazne vrstice ni uspelo.";
 "Successfully get uploaded image url." = "Uspešno pridobljen URL naložene slike.";
 "Image Uploader" = "Program za prenašanje slik";
@@ -395,7 +395,7 @@
 "LaTeX Engine" = "LaTeX pogon";
 "Template" = "Predloga";
 "Empty" = "Prazno";
-"Style Reference" = "Style Reference";
+"Style Reference" = "Referenčni slog";
 "Custom CSS" = "CSS po meri";
 "Chapter Level" = "Nivo poglavja";
 "Default Folder for Exported File" = "Privzeta mapa za izvoz datotek";

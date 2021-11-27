@@ -74,9 +74,9 @@
 "Please input a valid email address" = "Prosimo, vnesite veljaven e-poštni naslov";
 "Please input a valid license code"  = "Prosimo, vnesite veljavno licenco";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Dosegli ste največje dovoljeno število licenciranih naprav.\nNajstarejša naprava je bila samodejno odregistrirana.";
-"The license has been used with a different email address." =  "Ta licenca je že uprabljena z drugim e-poštnim naslovom.";
+"This license code has been used with a different email address." =  "Ta licenca je že uprabljena z drugim e-poštnim naslovom.";
 "Unknown Error. Please contact hi@typora.io" = "Neznana napaka. Za pomoč pišite na naslov hi@typora.io";
-"Failed to access the license server. Please check your network or try gain later." = "Dostop do strežnika z licencami ni uspel. Preverite omrežno povezavo in poskusite znova.";
+"Failed to access the license server. Please check your network or try again later." = "Dostop do strežnika z licencami ni uspel. Preverite omrežno povezavo in poskusite znova.";
 
 "Enter a license code to support our development ❤" = "Vnesite licenčno kodo za podporo našemu razvoju ❤";
 "Re-enter Email" = "Ponovite e-poštni naslov";

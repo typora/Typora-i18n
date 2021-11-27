@@ -12,8 +12,8 @@
 "General" = "通用";
 "Window Style" = "窗口样式";
 "Classic" = "经典";
-"Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless窗口样式只支持 10.10 以上的 macOS 版本";
+"Seamless" = "无缝";
+"Seamless window only support OS X later than 10.10." = "无缝窗口样式只支持 10.10 以上的 macOS 版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考 `帮助`->`Quick Start`，或访问 http://theme.typora.io 获取更多主题与指导。";
@@ -22,7 +22,7 @@
 "Font Size" = "字体大小";
 "Auto ( Recommended )" = "自动（推荐）";
 "Customized" = "自定义";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的CSS样式共同决定。";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的 CSS 样式共同决定。";
 "Left Panel" = "侧边栏";
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
@@ -58,7 +58,7 @@
 "Superscript ( e.g: X^2^ )" = "上标       （例： X^2^ ）";
 "Highlight     (e.g: ==key==)" = "高亮       （例： ==key== ）";
 "Diagrams" = "图表";
-"(Sequence, Flowchart and Mermaid)" = "(序列图，流程图 和 Mermaid图)";
+"(Sequence, Flowchart and Mermaid)" = "(序列图，流程图 和 Mermaid 图)";
 "Syntax Preference" = "Markdown 语法偏好";
 "(only applies to styles created from menubar or hybrid view)" = "（只应用于通过菜单或快捷键生成的样式）";
 "Strict Mode" = "严格模式";
@@ -168,10 +168,10 @@
 "Notice" = "请注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic ， 本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
-"%d Images Failed to Upload." = "%d个图片上传失败。";
-"%d Succeeded," = "%d个成功, ";
+"%d Images Failed to Upload." = "%d 个图片上传失败。";
+"%d Succeeded," = "%d 个成功, ";
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
-"The option `%@` must be enabled first to automatically upload images." = "请先开启选项`%@`以允许图片自动上传。";
+"The option `%@` must be enabled first to automatically upload images." = "请先开启选项 `%@` 以允许图片自动上传。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
 "Copy Images To…" = "复制图片到…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typora 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
@@ -204,7 +204,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的 Typora 窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
 "Total" = "总计";
@@ -269,7 +269,7 @@
 "Operation Failed" = "操作失败";
 "Failed to move target file or folder to trash" = "将文件移至回收站失败";
 
-"Undo %@" = "撤消%@";
+"Undo %@" = "撤消 %@";
 "Rename %@" = "重命名 %@";
 "Copy %@" = "拷贝 %@";
 "Move %@" = "移动 %@";
@@ -300,7 +300,7 @@
 "Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
 "Auto escape image URL when insert" = "插入时自动转义图片 URL";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭该选项可以获得更高的可读性。";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png' 时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown 引擎更好的兼容性，关闭该选项可以获得更高的可读性。";
 "Check updates automatically" = "自动检查更新";
 "Skip This Version" = "跳过该版本";
 "Remind Me Later" = "稍后提醒我";
@@ -375,9 +375,9 @@
 
 
 "Paper Size" = "页面大小";
-"US Letter" = "US Letter";
-"US Legal" = "US Legal";
-"Tabloid" = "Tabloid";
+"US Letter" = "美国信纸";
+"US Legal" = "法律用纸";
+"Tabloid" = "小报";
 "Page Break" = "分页";
 "Header" = "页首";
 "Footer" = "页尾";
@@ -449,8 +449,8 @@
 "Dark theme is not supported." = "暂不支持深色主题";
 
 "Markdown Variants" = "Markdown 变体";
-"Original Unextended Markdown" = "原始Markdown（无扩展）";
-"CommonMark with many pandoc extensions" = "CommonMark（包含 pandoc 扩展）";
+"Original Unextended Markdown" = "原始 Markdown（无扩展）";
+"CommonMark with many pandoc extensions" = "CommonMark（包含 Pandoc 扩展）";
 "Line Wrap" = "换行";
 "Hard line wrap" = "限制每行字符数";
 "Text Column Width" = "每行字符数";

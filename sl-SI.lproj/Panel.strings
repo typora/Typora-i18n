@@ -482,3 +482,9 @@
 
 "Allow physics package to redefine existing TeX commands" = "Dovoli paketu physics da spreminja TeX ukaze";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "Ko je to omogočeno, bodo ukazi, kot so \\div, \\Re ponastavljeni s paketom physics.";
+
+"Your Typora is not activated." = "Typora ni aktivirana.";
+"Your Typora has been activated." = "Typora je bila aktivirana.";
+"Typora activation is required to change this." = "Za spremembe je potrebno aktivirati Typoro.";
+"You can reinstall the stable version and then disable this." = "Če namestite stabilno različico lahko to onemogočite.";
+"Update to dev version" = "Nadgradnja na razvojno različico";

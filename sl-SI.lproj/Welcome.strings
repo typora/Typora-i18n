@@ -77,3 +77,12 @@
 "The license has been used with a different email address." =  "Ta licenca je že uprabljena z drugim e-poštnim naslovom.";
 "Unknown Error. Please contact hi@typora.io" = "Neznana napaka. Za pomoč pišite na naslov hi@typora.io";
 "Failed to access the license server. Please check your network or try gain later." = "Dostop do strežnika z licencami ni uspel. Preverite omrežno povezavo in poskusite znova.";
+
+"Enter a license code to support our development ❤" = "Vnesite licenčno kodo za podporo našemu razvoju ❤";
+"Re-enter Email" = "Ponovite e-poštni naslov";
+"Email address confirmation does not match." = "Potrditev e-poštnega naslova se ne ujema.";
+
+"Are you sure to deactivate Typora on this device?" = "Ali ste prepričani, da deaktivirate Typoro v tej napravi?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Vaša licenca je presegla največje število naprav.\nČe kliknete \"Nadaljuj z aktivacijo\", bo ta naprava aktivirana, najstarejša naprava pa bo samodejno odjavljena.";
+"Continue Activation" = "Nadaljuj z aktivacijo";

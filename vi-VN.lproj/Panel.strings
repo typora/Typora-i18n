@@ -470,4 +470,18 @@
 "Set Pandoc Path" = "Đặt đường dẫn đến Pandoc";
 
 "Apply Line Break at \\ and &#92;newline" = "Áp dụng ngắt dòng tại ký hiệu \\ và &#92;newline";
-"Apply Line Break at \\ and &#92;newline" = "Áp dụng ngắt dòng tại ký hiệu \\ và &#92;newline";
+
+"Export operation succeeded with warnings." = "Quá trình xuất thành công với một vài cảnh báo.";
+
+"Typora is now deactivated" = "Typora hiện chưa được kích hoạt";
+"This device has been deactivated" = "Thiết bị này đã được kích hoạt";
+"UNREGISTERED" = "CHƯA ĐĂNG KÝ";
+
+"Allow physics package to redefine existing TeX commands" = "Cho phép các gói lệnh vật lý xác định lại các lệnh TeX có sẵn";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Khi được bật, các lệnh như \\div, \\Re sẽ được xử lý bởi các gói vật lý.";
+
+"Your Typora is not activated." = "Typora chưa được kích hoạt.";
+"Your Typora has been activated." = "Typora đã được kích hoạt.";
+"Typora activation is required to change this." = "Bạn cần kích hoạt Typora để thực hiện thay đổi này.";
+"You can reinstall the stable version and then disable this." = "Bạn có thể cài đặt lại phiên bản ổn định và tắt tính năng này.";
+"Update to dev version" = "Cập nhật lên phiên bản dev";

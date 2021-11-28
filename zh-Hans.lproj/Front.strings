@@ -187,4 +187,4 @@
 "Support Document" = "帮助文档";
 
 "You are not supposed to edit or save this file." = "请不要将改动保存到该文件";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "位于该文件夹 (%@) 的文件交由 Typora 管理，它们可能会被删除。如需更改，请将内容拷贝至新的路径再进行编辑。";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "位于该文件夹 (%@) 的文件交由 Typora 管理，它们可能会被删除。如需更改，请将内容复制至新的路径再进行编辑。";

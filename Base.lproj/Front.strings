@@ -111,7 +111,7 @@
 "Cannot open folder {0}" = "Cannot open folder {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+"Should continue moving and overwrite existing file(s) ?" = "Should continue moving and overwrite existing file(s) ?";
 
 "Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";

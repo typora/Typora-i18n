@@ -307,7 +307,7 @@
 "Download Update" = "下载更新";
 "New version available." = "有新版本更新。";
 
-"When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
+"When copy / export as HTML (without style)" = "当复制或导出为 无格式的 HTML 时";
 "Use Rendered SVG" = "使用 SVG";
 "Use LaTeX Source" = "使用 LaTeX 代码";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
@@ -436,7 +436,7 @@
 "Show command output" = "显示命令行输出";
 
 
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "”导出并覆盖上一次导出的文件“ 会覆盖位于 %@ 的文件，是否继续?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "“导出并覆盖上一次导出的文件” 会覆盖位于 %@ 的文件，是否继续?";
 "Command Arguments:" = "命令行：";
 "This beta version of Typora is expired, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
 "Current Theme" = "自动使用当前主题";
@@ -483,8 +483,8 @@
 "Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
 
-"Your Typora is not activated." = "您的 Typora 尚未激活";
-"Your Typora has been activated." = "您的 Typora 已被激活";
-"Typora activation is required to change this." = "需要激活 Typora 后才能更改该选项";
-"You can reinstall the stable version and then disable this." = "您可以重新安装稳定版本（stable）以取消该选项";
+"Your Typora is not activated." = "您的 Typora 尚未激活。";
+"Your Typora has been activated." = "您的 Typora 已被激活。";
+"Typora activation is required to change this." = "需要激活 Typora 后才能更改该选项。";
+"You can reinstall the stable version and then disable this." = "您可以重新安装稳定版本（stable）以取消该选项。";
 "Update to dev version" = "更新至开发版";

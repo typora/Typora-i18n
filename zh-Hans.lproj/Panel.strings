@@ -12,7 +12,7 @@
 "General" = "通用";
 "Window Style" = "窗口样式";
 "Classic" = "经典";
-"Seamless" = "Seamless";
+"Seamless" = "一体化";
 "Seamless window only support OS X later than 10.10." = "Seamless 窗口样式只支持 10.10 以上的 macOS 版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";

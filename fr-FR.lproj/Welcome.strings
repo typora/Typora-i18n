@@ -71,7 +71,7 @@
 "Please input a valid email address" = "Veuillez entrer une adresse e-mail valide";
 "Please input a valid license code"  = "Veuillez entrer une clé de licence valide";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Votre licence a dépassé le nombre maximum d’appareils.\nLa licence de l’appareil le plus ancien a été automatiquement désactivée.";
-"This license code has been used with a different email address." =  "La licence a été utilisée avec une adresse e-mail différente.";
+"This license code has been used with a different email address." =  "Ce code de licence a été utilisé avec une adresse e-mail différente.";
 "Unknown Error. Please contact hi@typora.io" = "Erreur inconnue. Veuillez contacter hi@typora.io";
 
 "Failed to access the license server. Please check your network or try again later." = "Accès au serveur de licence impossible. Veuillez vérifier votre connexion internet et réessayez plus tard.";

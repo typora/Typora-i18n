@@ -25,7 +25,7 @@
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的 CSS 样式共同决定。";
 "Left Panel" = "侧边栏";
 "Show Outline Panel by Default" = "默认显示大纲视图";
-"Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
+"Collapsible Outline on Left Panel" = "允许折叠和展开侧边栏的大纲视图";
 "Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被关闭时，该选项被默认启用。";
 "Language" = "语言";
@@ -51,7 +51,7 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "（下面选项需要重启 Typora 生效）";
+"(Following preferences will be applied after restart.)" = "（下面选项将在 Typora 重启后生效）";
 "Syntax Support" = "Markdown 扩展语法";
 "Inline Math  ( e.g: $\LaTeX$ )" = "内联公式  （例： $\LaTeX$ ）";
 "Subscript    ( e.g: H~2~O )" = "下标      （例： H~2~O ）";
@@ -96,7 +96,7 @@
 "Pandoc is needed for importing these file formats" = "需要安装 Pandoc 以导入这些文件";
 "Check help->Install and use Pandoc from menubar for detail" = "请从 `帮助`->`Install and use Pandoc` 中查看详细信息";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
-"Follow Instructions to Install/Update Pandoc" = "请按照说明安装/升级 Pandoc";
+"Follow Instructions to Install/Update Pandoc" = "请按照说明安装或升级 Pandoc";
 "Export Failed" = "导出失败";
 "Import Failed" = "导入失败";
 "Generated Image too Large" = "生成的图片文件过大";
@@ -166,7 +166,7 @@
 "This feature require macOS >= 10.11" = "此功能只支持 macOS 10.11 及以上版本";
 "One More Step" = "无法继续…";
 "Notice" = "请注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic ， 本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic，本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
 "%d Images Failed to Upload." = "%d 个图片上传失败。";
 "%d Succeeded," = "%d 个成功, ";
@@ -267,7 +267,7 @@
 "Dialog warnings have been reset." = "警告提示对话框已被重置";
 
 "Operation Failed" = "操作失败";
-"Failed to move target file or folder to trash" = "将文件移至回收站失败";
+"Failed to move target file or folder to trash" = "无法将文件移至回收站";
 
 "Undo %@" = "撤消%@";
 "Rename %@" = "重命名 %@";
@@ -402,7 +402,7 @@
 "Custom location" = "自定义";
 "(Auto Detect)" = "(自动检测)";
 "After Export" = "导出后";
-"Open exported file location" = "选中导出文件";
+"Open exported file location" = "打开导出文件所在目录";
 "Open exported file" = "打开导出文件";
 "Custom" = "自定义";
 "None" = "无";
@@ -423,9 +423,9 @@
 "Pandoc Path" = "Pandoc 路径";
 "Select" = "选择";
 "Target Format" = "目标格式";
-"auto detect based on target file path" = "自动";
+"auto detect based on target file path" = "根据导出文件的路径自动判断";
 "Target File Extensions (separate by whitespace)" = "目标文件扩展名（用空格分开）";
-"e.g: .text .asciidoc or leave this empty" = "例： .text .asciidoc 或者填空";
+"e.g: .text .asciidoc or leave this empty" = "例： .text .asciidoc，或留空";
 "Raw Type" = "原生格式（Raw Type）";
 "Auto" = "自动";
 "Show Save File Dialog" = "选择导出路径";
@@ -476,15 +476,15 @@
 
 "Export operation succeeded with warnings." = "导出成功，但包含警告信息。";
 
-"Typora is now deactivated" = "Typora 已取消激活";
-"This device has been deactivated" = "该设备已取消激活";
+"Typora is now deactivated" = "已取消 Typora 的激活";
+"This device has been deactivated" = "该设备的激活已取消";
 "UNREGISTERED" = "未激活";
 
 "Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
 "When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
 
-"Your Typora is not activated." = "您的 Typora 未被激活";
+"Your Typora is not activated." = "您的 Typora 尚未激活";
 "Your Typora has been activated." = "您的 Typora 已被激活";
-"Typora activation is required to change this." = "需要激活 Typora 后才能更新改选项";
-"You can reinstall the stable version and then disable this." = "您可以重新安装 stable 版本以取消该选项";
+"Typora activation is required to change this." = "需要激活 Typora 后才能更改该选项";
+"You can reinstall the stable version and then disable this." = "您可以重新安装稳定版本（stable）以取消该选项";
 "Update to dev version" = "更新至开发版";

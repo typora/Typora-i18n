@@ -13,16 +13,16 @@
 "Window Style" = "窗口样式";
 "Classic" = "经典";
 "Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless窗口样式只支持 10.10 以上的 macOS 版本";
+"Seamless window only support OS X later than 10.10." = "Seamless 窗口样式只支持 10.10 以上的 macOS 版本";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考 `帮助`->`Quick Start`，或访问 http://theme.typora.io 获取更多主题与指导。";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考 `帮助`->`新手教程`，或访问 http://theme.typora.io 获取更多主题与指导。";
 "Word Count" = "字数统计";
 "Always Show Word Count" = "总是显示字数统计";
 "Font Size" = "字体大小";
 "Auto ( Recommended )" = "自动（推荐）";
 "Customized" = "自定义";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的CSS样式共同决定。";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的 CSS 样式共同决定。";
 "Left Panel" = "侧边栏";
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "侧边栏的大纲视图允许折叠和展开";
@@ -58,7 +58,7 @@
 "Superscript ( e.g: X^2^ )" = "上标       （例： X^2^ ）";
 "Highlight     (e.g: ==key==)" = "高亮       （例： ==key== ）";
 "Diagrams" = "图表";
-"(Sequence, Flowchart and Mermaid)" = "(序列图，流程图 和 Mermaid图)";
+"(Sequence, Flowchart and Mermaid)" = "(序列图，流程图 和 Mermaid 图)";
 "Syntax Preference" = "Markdown 语法偏好";
 "(only applies to styles created from menubar or hybrid view)" = "（只应用于通过菜单或快捷键生成的样式）";
 "Strict Mode" = "严格模式";
@@ -168,8 +168,8 @@
 "Notice" = "请注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic ， 本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
-"%d Images Failed to Upload." = "%d个图片上传失败。";
-"%d Succeeded," = "%d个成功, ";
+"%d Images Failed to Upload." = "%d 个图片上传失败。";
+"%d Succeeded," = "%d 个成功, ";
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
 "The option `%@` must be enabled first to automatically upload images." = "请先开启选项`%@`以允许图片自动上传。";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
@@ -204,7 +204,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的Typora窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的 Typora 窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
 "Total" = "总计";
@@ -271,7 +271,7 @@
 
 "Undo %@" = "撤消%@";
 "Rename %@" = "重命名 %@";
-"Copy %@" = "拷贝 %@";
+"Copy %@" = "复制 %@";
 "Move %@" = "移动 %@";
 "Delete %@" = "删除 %@";
 
@@ -307,7 +307,7 @@
 "Download Update" = "下载更新";
 "New version available." = "有新版本更新。";
 
-"When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
+"When copy / export as HTML (without style)" = "当复制或导出为 无格式的 HTML 时";
 "Use Rendered SVG" = "使用 SVG";
 "Use LaTeX Source" = "使用 LaTeX 代码";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
@@ -449,14 +449,14 @@
 "Dark theme is not supported." = "暂不支持深色主题";
 
 "Markdown Variants" = "Markdown 变体";
-"Original Unextended Markdown" = "原始Markdown（无扩展）";
+"Original Unextended Markdown" = "原始 Markdown（无扩展）";
 "CommonMark with many pandoc extensions" = "CommonMark（包含 pandoc 扩展）";
 "Line Wrap" = "换行";
 "Hard line wrap" = "限制每行字符数";
 "Text Column Width" = "每行字符数";
 "Auto (based on current OS)" = "自动 (基于当前系统)";
 "Indent" = "缩进";
-"Preserve tabs" = "使用Tab";
+"Preserve tabs" = "使用 Tab";
 "2 spaces per tab" = "2 个空格";
 "3 spaces per tab" = "3 个空格";
 "4 spaces per tab" = "4 个空格";

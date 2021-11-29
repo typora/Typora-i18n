@@ -1,77 +1,80 @@
 /* 
-  Front.strings
+  Welcome.strings
   Typora
 
  by hi@typora.io
+ 
+ translated by Simone Mainetti (https://github.com/Boia11)
+    simone [dot] mainetti [at] boiaeleven [dot] tk
 */
 
 /*
- "Send Anonymous Usage Info"
+ "Invio anonimo dei dati di utilizzo"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Benvenuto in Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Grazie per aver scelto Typora 👋. Typora è un markdown editor minimal e un markdown reader, ti offre un'esperienza senza paragoni per unire stile e codice sorgente.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Inizia";
+"Check following links if you're new to Markdown or Typora." = "Controlla i seguenti link se non conosci Markdown o Typora.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Attiva Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Hai già acquistato la licenza? Compila il modulo sottostante e attiva subito Typora.";
 
 "Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email Address" = "Indirizzo Email";
+"License Code" = "Codice Licenza";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Aiuto";
+"Find my License" = "Trova la mia licenza";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accetto <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> e <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Anteprima in tempo reale";
+"Write and read rendered output instantly." = "Scrivi e vedi il codice renderizzato all'istante.";
+"Markdown Syntax" = "Sintassi Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blocchi di codice, YAML, attività, note a piè di pagina, tabelle, math, diagrammi";
+"Import / Export" = "Importa / Esporta";
+"Deliver your content in various formats." = "Distribuisci i tuoi contenuti in vari formati.";
+"Editing Experience" = "Esperienza di Editing";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Struttura / Contatore parole / Modalità Focus / Modalità Typewriter";
 
 "Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Manage files in sidebar and search across files." = "Gestisci i file nella barra laterale e cerca tra i file.";
+"Customize" = "Personalizza";
+"Customize your writing experience from preferences panel." = "Personalizza la tua esperienza di scrittura dal pannello delle preferenze.";
+"Themes" = "Temi";
+"Write in the theme you like, or make one by your own." = "Scrivi col tema che ti piace o creane uno tu stesso.";
+"And more" = "E altro ancora";
+"Explorer more topics at support.typora.io" = "Scopri altro su support.typora.io";
 
-"Quick Start" = "Quick Start";
+"Quick Start" = "Avvio Rapido";
 "Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Explorer Themes" = "Esplora i Temi";
+"More Topics" = "Altri Argomenti";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora Attivato";
+"Thanks for your purchase." = "Grazie per il tuo acquisto.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Avanti";
+"Please accept license agreement first" = "Si prega di accettare prima il contratto di licenza";
+"Start %@ Days Trail" = "Inizio %@ Giorni di Prova";
+"Buy License" = "Acquista la licenza";
+"Activate" = "Attivare";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Chiudi";
+"Deactivate" = "Disattivare";
+"View License" = "Mostra Licenza";
+"Your Typora License" = "La tua Licenza Typora";
+"This copy of Typora is registered with license information below." = "Questa copia di Typora è registrata con le informazioni qui di seguito.";
+"Your trail will be expired in %@ days." = "La tua prova scadrà tra %@ giorni.";
+"Enter License" = "Inserisci Licenza";
+"Not Now" = "Non adesso";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Per favore inserisci un indirizzo email valido";
+"Please input a valid license code"  = "Si prega di inserire un codice di licenza valido";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "La tua licenza ha superato il numero massimo di dispositivi.\nIl dispositivo più vecchio è stato disattivato automaticamente.";
+"This license code has been used with a different email address." =  "Questo codice di licenza è stato utilizzato con un indirizzo email diverso.";
+"Unknown Error. Please contact hi@typora.io" = "Errore sconosciuto. Si prega di contattare hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Impossibile contattare il server delle licenze. Controlla la tua rete o riprova più tardi.";
 

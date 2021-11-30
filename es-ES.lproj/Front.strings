@@ -71,10 +71,10 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
 "Sort Naturally" = "Ordenar naturalmente";
-"Sort by Name (Ascending)" = "Ordenar por nombre (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (Ascending)";
-"Sort by Name (Descending)" = "Ordenar por nombre (Descending)";
-"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (Descending)";
+"Sort by Name (Ascending)" = "Ordenar por nombre (ascendetemente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (ascendetemente)";
+"Sort by Name (Descending)" = "Ordenar por nombre (descendentemente)";
+"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (descendentemente)";
 "Location" = "Ubicación"; 
 "Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
 "No Files Available" = "No hay archivos disponibles";

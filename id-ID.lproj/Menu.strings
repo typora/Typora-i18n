@@ -45,7 +45,7 @@
 "Revert To" = "Kembalikan kepada";
 "Browse All Versions" = "Telusuri Semua Versi";
 "Import" = "Impor";
-"Export" = "Expor";
+"Export" = "Ekspor";
 "Page Setup" = "Penyetelan Halaman";
 "Print" = "Cetak";
 
@@ -152,7 +152,7 @@
 /* View Menu */
 "View" = "Lihat";
 "New Tab" = "Tab Baru";
-"Source Code Mode" = "Mode Source Code";
+"Source Code Mode" = "Mode Kode Sumber";
 "Focus Mode" = "Mode Fokus";
 "Typewriter Mode" = "Mode Mesin Tik";
 "Toggle Sidebar" = "(Non-)aktifkan Bilah Sisi";
@@ -277,4 +277,4 @@
 "File Results" = "Hasil File";
 
 "Insert Table" = "Sisipkan Tabel";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Sisipkan Gambar";

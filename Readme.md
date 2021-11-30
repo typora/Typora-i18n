@@ -64,7 +64,7 @@ Feel free to contact us via <hi@typora.io>
 - Catalan by [jmigual](https://github.com/jmigual)
 - Danish by [archfrog](https://github.com/archfrog)
 - Persian by [sadra](https://github.com/sadra)
-- Indonesian by [snatalius](https://github.com/snatalius)
+- Indonesian by [snatalius](https://github.com/snatalius), [Kylamber](https://github.com/Kylamber)
 - Dutch by Melle Dijkstra, [vidavidorra](https://github.com/vidavidorra), [andredelft](https://github.com/andredelft)
 - Slovak by Petr Mátl
 - Ukrainian by [oleksavyshnivsky](https://github.com/oleksavyshnivsky)

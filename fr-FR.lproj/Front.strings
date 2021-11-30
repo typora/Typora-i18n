@@ -117,7 +117,7 @@
 "Failed to rename from \"{0}\" to \"{1}\"" = "Impossible de renommer \"{0}\" en \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "{0} images Envoyées avec succès.";
+"Successfully uploaded {0} images." = "{0} images envoyées avec succès.";
 "Failed to upload image. Error Message:" = "Échec de l'envoi d’image. Message d’erreur:";
 "Failed to Copy Image to Target Folder." = "Échec de la copie de l’image vers le dossier cible.";
 "Select Container Folder" = "Sélectionner dossier d’origine";
@@ -159,7 +159,7 @@
 "You could turn it off from `View` menu." = "Vous pouvez le désactiver du menu `Présentation`.";
 "The file is too large to render in Typora." = "Le fichier est trop large pour être affiché dans Typora.";
 "Open in…" = "Ouvrir dans…";
-"Quick Look" = "Jetter un oeil";
+"Quick Look" = "Jeter un oeil";
 
 "Filter" = "Filtrer";
 "No result found." = "Aucun resultat trouvé.";
@@ -183,7 +183,7 @@
 "<strong>Unibody</strong> style has been turned on." = "Le style <strong>Unibody</strong> a été activé.";
 "You can right click titlebar to popup application menu." = "Vous pouvez effectuer un clic droit sur la barre de titre pour afficher le menu de l’application.";
 
-"Support Document" = "Document d’assitance";
+"Support Document" = "Document d’assistance";
 
 "You are not supposed to edit or save this file." = "Vous n’êtes pas supposé éditer ou enregistrer ce fichier.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Les fichiers à cet emplacement (%@) sont gérés par Typora, et peuvent être supprimés automatiquement.<br/>Veuillez copier le contenu dans un nouveau fichier pour une édition ultérieure.";

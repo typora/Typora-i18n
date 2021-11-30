@@ -3,75 +3,76 @@
   Typora
 
  by hi@typora.io
+ Translated by Mikael Egevig (mikael@egevig.org).  Please contact the translator if you find errors or omissions.
 */
 
 /*
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Velkommen til Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Tak fordi du bruger Typora 👋. Typora er en minimal markdown editor og markdown læser, den giver dig en ensartet visning af indhold med rigt layout og den tilhørende kildekode.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Begynd med Typora";
+"Check following links if you're new to Markdown or Typora." = "Tjek følgende links hvis du er ny i Markdown eller Typora.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Aktivér Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Har du allerede købt en licens? Udfyld formularen nedenfor og aktivér Typora med det samme.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "Mail";
+"Email Address" = "Mail adresse";
+"License Code" = "Licenskode";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Hjælp";
+"Find my License" = "Find min license";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Acceptér <a href='https://support.typora.io/License-Agreement/'>Licensaftale</a> og <a href='https://support.typora.io/Privacy-Policy/'>Privatlivspolitik</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Levende forhåndsvisning";
+"Write and read rendered output instantly." = "Skriv og læs tegnet tekst samtidigt.";
+"Markdown Syntax" = "Markdown syntaks";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blokke, YAML, opgaver, fodnoter, tabeller, matematik, diagrammer";
+"Import / Export" = "Import / Eksport";
+"Deliver your content in various formats." = "Levér dit indhold i forskellige formater.";
+"Editing Experience" = "Redigeringsoplevelse";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Flad disposition / Antal ord / Fokustilstand / Skrivemaskinetilstand";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "Filer";
+"Manage files in sidebar and search across files." = "Administrér filer i sidepanle og søg på tværs af filer.";
+"Customize" = "Tilpas";
+"Customize your writing experience from preferences panel." = "Tilpas din skriveoplevelse i indstillingspanelet.";
+"Themes" = "Temaer";
+"Write in the theme you like, or make one by your own." = "Skriv i temaet som du vil eller lav et selv.";
+"And more" = "Og mere";
+"Explorer more topics at support.typora.io" = "Opdag flere emner på support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Hurtigstart";
+"Markdown Reference" = "Markdown håndbog";
+"Explorer Themes" = "Opdag temaer";
+"More Topics" = "Flere emner";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora aktiveret";
+"Thanks for your purchase." = "Tak for dit køb.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Næste";
+"Please accept license agreement first" = "Accetér venligst licensaftalen først";
+"Start %@ Days Trail" = "Start %@ dages prøveperiode";
+"Buy License" = "Køb licens";
+"Activate" = "Aktivér";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Luk";
+"Deactivate" = "Deaktivér";
+"View License" = "Vis licens";
+"Your Typora License" = "Din Typora licens";
+"This copy of Typora is registered with license information below." = "Denne kopi af Typora er registreret med licensoplysningerne vist nedenfor.";
+"Your trail will be expired in %@ days." = "Din prøveperiode udløber om %@ dage.";
+"Enter License" = "Indtast licens";
+"Not Now" = "Ikke nu";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Indtast venligst en gyldig mail adresse";
+"Please input a valid license code"  = "Indtast venligst en gyldig licenskode";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Du har overskredet det maksimale antal enheder i din licens.\nDen ældste enhed blev automatisk afregistreret.";
+"This license code has been used with a different email address." =  "Denne licenskode er blevet brugt med en anden mail adresse.";
+"Unknown Error. Please contact hi@typora.io" = "Ukendt fejl.  Kontakt venligst hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Kunne ikke kontakte licensserveren. Tjek venligst din internetforbindelse eller prøv igen senere.";
 

@@ -114,7 +114,7 @@
 "Cannot open folder {0}" = "Ne morem odpreti mape {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Vsebino datoteke je spremenila zunanja aplikacija. Naložim spremenjeno vsebino?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Nadaljujem s premikanjem in nadomestim obstoječe datoteke?";
+"Should continue moving and overwrite existing file(s) ?" = "Nadaljujem s premikanjem in nadomestim obstoječe datoteke?";
 
 "Rename to \"{0}\" ?" = "Preimenujem v \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Preimenovanje datoteke iz \"{0}\" v \"{1}\" ni uspelo";

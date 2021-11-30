@@ -132,7 +132,7 @@
 "In Selection" = "V izboru";
 "Panel" = "Panela";
 
-/* Windows Prefernce Panel*/
+/* Windows Preferences Panel*/
 "Appearance" = "Videz";
 "System Native" = "Sistemsko določeno";
 "Unibody" = "Unibody";
@@ -357,7 +357,7 @@
 "Unzipping…" = "Razpakiranje …";
 "Finished" = "Končano";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora bo zagnala aplikacijo tretje osebe s potmi do vseh lokalnih slik. Program za prenašanje slik in shramba v oblaku bosta tako imela dostop do vaših lokalnih slik. Ste prepričani, da želite nadaljevati??";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora bo zagnala aplikacijo tretje osebe s potmi do vseh lokalnih slik. Program za prenašanje slik in shramba v oblaku bosta tako imela dostop do vaših lokalnih slik. Ste prepričani, da želite nadaljevati??";
 
 "Export operation finished successfully." = "Operacija izvoza se je uspešno končala.";
 

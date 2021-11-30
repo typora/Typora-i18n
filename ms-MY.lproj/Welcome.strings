@@ -1,0 +1,86 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ ms-MY by anatilmizun@gmail.com
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Selamat Datang ke Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih kerana menggunakan Typora 👋. Typora ialah penyunting dan pembaca markdown yang ringkas, ia memberikan anda pengalaman yang pantas antara kandungan ter-render dan kod sumber.";
+
+"Get Start" = "Mula";
+"Check following links if you're new to Markdown or Typora." = "Periksa pautan berikut sekiranya anda baru kepada Markdown atau Typora.";
+
+"Activate Typora" = "Aktifkan Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Sudah membeli lesen? Isi borang di bawah untuk aktifkan Typora dengan serta merta.";
+
+"Email" = "Emel";
+"Email Address" = "Alamat Emel";
+"License Code" = "Kod Lesen";
+
+"Help" = "Bantuan";
+"Find my License" = "Cari Lesen Saya";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Terima <a href='https://support.typora.io/License-Agreement/'>Perjanjian Lesen</a> dan <a href='https://support.typora.io/Privacy-Policy/'>Polisi Peribadi</a>.";
+
+"Live Preview" = "Pratonton Secara Langsung";
+"Write and read rendered output instantly." = "Tulis dan baca hasil ter-render secara serta merta.";
+"Markdown Syntax" = "Struktur Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blok kod, YAML, tugasan, nota kaki, jadual, matematik, gambarajah";
+"Import / Export" = "Impot / Ekspot";
+"Deliver your content in various formats." = "Sampaikan kandungan anda dalam pelbagai format.";
+"Editing Experience" = "Pengalaman Menyunting";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Kerangka / Bilangan Kata / Mod Fokus / Mod Mesin Taip";
+
+"Files" = "Fail-fail";
+"Manage files in sidebar and search across files." = "Uruskan fail-fail di dalam bar sisi dan lakukan carian antara fail-fail.";
+"Customize" = "Ubahsuai";
+"Customize your writing experience from preferences panel." = "Ubahsuai pengalaman menulis anda dari panel pilihan.";
+"Themes" = "Tema";
+"Write in the theme you like, or make one by your own." = "Tulis dalam tema yang anda suka, atau hasilkan satu secara sendiri.";
+"And more" = "Dan banyak lagi";
+"Explorer more topics at support.typora.io" = "Teroka topik-topik lain di support.typora.io";
+
+"Quick Start" = "Mula Segera";
+"Markdown Reference" = "Rujukan Markdown";
+"Explorer Themes" = "Teroka Tema-tema";
+"More Topics" = "Topik-topic Lain";
+
+"Typora Activated" = "Typora Telah Diaktifkan";
+"Thanks for your purchase." = "Terima kasih atas belian anda.";
+
+"Next" = "Seterusnya";
+"Please accept license agreement first" = "Sila terima perjanjian lesen terlebih dahulu";
+"Start %@ Days Trail" = "Mulakan %@ Hari Percubaan";
+"Buy License" = "Beli Lesen";
+"Activate" = "Aktifkan";
+
+"Close" = "Tutup";
+"Deactivate" = "Nyahaktif";
+"View License" = "Lihat Lesen";
+"Your Typora License" = "Lesen Typora Anda";
+"This copy of Typora is registered with license information below." = "Salinan Typora ini telah didaftarkan dengan maklumat lesen di bawah.";
+"Your trail will be expired in %@ days." = "Percubaan anda akan tamat dalam %@ hari.";
+"Enter License" = "Masukkan Lesen";
+"Not Now" = "Bukan Sekarang";
+
+"Please input a valid email address" = "Sila masukkan alamat emel yang sah";
+"Please input a valid license code"  = "Sila masukkan kod lesen yang sah";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Lesen anda telah melebihi had maksima bilangan peranti.\nPeranti terawal telah dinyah daftar secara automatik.";
+"This license code has been used with a different email address." =  "Lesen kod ini telah digunakan dengan alamat emel yang lain.";
+"Unknown Error. Please contact hi@typora.io" = "Ralat Yang Tidak Diketahui. Sila hubungi hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Gagal menghubungi pelayan lesen. Sila periksa rangkaian anda atau cuba semula nanti.";
+
+"Enter a license code to support our development ❤" = "Masukkan lesen kod untuk menyokong pembangunan kami ❤";
+"Re-enter Email" = "Masuk Semula Emel";
+"Email address confirmation does not match." = "Alamat emel pengesahan tidak padan.";
+
+"Are you sure to deactivate Typora on this device?" = "Adakah anda pasti untuk menyah daftar Typora atas peranti ini?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Lesen anda telah melebihi had maksima bilangan peranti.\nJika anda klik \"Teruskan Pengaktifan\", peranti ini akan didaftarkan dan peranti terawal akan dinyah daftar secara automatik.";
+"Continue Activation" = "Teruskan Pengaktifan";

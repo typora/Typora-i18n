@@ -12,8 +12,8 @@
 "General" = "通用";
 "Window Style" = "窗口样式";
 "Classic" = "经典";
-"Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless窗口样式只支持 10.10 以上的 macOS 版本";
+"Seamless" = "无缝";
+"Seamless window only support OS X later than 10.10." = "无缝窗口只支持 10.10 以上的 macOS 版本。";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "请参考 `帮助`->`Quick Start`，或访问 http://theme.typora.io 获取更多主题与指导。";
@@ -21,38 +21,38 @@
 "Always Show Word Count" = "总是显示字数统计";
 "Font Size" = "字体大小";
 "Auto ( Recommended )" = "自动（推荐）";
-"Customized" = "自定义";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "使用自定义字体大小时，最终字号会由该选项和主题的CSS样式共同决定。";
-"Left Panel" = "侧边栏";
-"Show Outline Panel by Default" = "默认显示大纲视图";
-"Collapsible Outline on Left Panel" = "允许折叠和展开侧边栏的大纲视图";
-"Save without asking when\nswitch files on side panel" = "切换文件时自动保存对上个文件的更改";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。 \n当在系统设置中，\"关闭文稿时要求保存更改\" 被关闭时，该选项被默认启用。";
+"Customized" = "定制";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "如果使用自定义字体大小，那么实际字体大小将会取决于基本字体尺寸和 CSS 样式。";
+"Left Panel" = "左侧面板";
+"Show Outline Panel by Default" = "默认情况下显示大纲面板";
+"Collapsible Outline on Left Panel" = "可折叠大纲视图在左侧面板上";
+"Save without asking when\nswitch files on side panel" = "在侧面板上切换文件时无需询问自动保存";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在左侧面板上切换文件时将不做询问自动保存编辑的文件。 \n当在系统偏好设置中禁用了\"关闭文档时询问保存更改\"时，则该选项总是被启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
 
 /* Editor Panel */
 "Editor" = "编辑器";
-"Indent Size on Save" = "默认缩进";
-"only apply to quotes and lists created from menu bar or hybrid view" = "只对通过菜单栏或快捷键生成的引用和列表有效";
-"Trigger Autocomplete without ESC key for" = "触发自动完成";
-"Emoji (e.g. :smile:)" = "Emoji表情（例：:smile: ）";
+"Indent Size on Save" = "保存时缩进尺寸";
+"only apply to quotes and lists created from menu bar or hybrid view" = "仅适用于通过菜单栏或混合视图中创建的引用和列表";
+"Trigger Autocomplete without ESC key for" = "无需 ESC 键触发自动补全";
+"Emoji (e.g. :smile:)" = "Emoji 表情（例：:smile: ）";
 "Images Insert" = "图片插入";
-"Use relative path if possible" = "优先使用相对路径";
-"Auto Pair" = "使用成对的符号";
-"Auto pair brackets and quotes" = "匹配括号和引号";
-"Auto pair common Markdown syntax" = "匹配 Markdown 字符";
+"Use relative path if possible" = "若可用则使用相对路径";
+"Auto Pair" = "自动配对";
+"Auto pair brackets and quotes" = "自动配对括号和引号";
+"Auto pair common Markdown syntax" = "自动配对常用 Markdown 语法";
 "Live Rendering" = "即时渲染";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "显示当前块元素的 Markdown 源码\n（支持标题等块元素）";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "显示焦点位置的简单块(包括标题等)\n的 Markdown 源码";
 "Default Copy Behavior" = "默认复制行为";
-"Copy Markdown source as plain text" = "当复制纯文本时复制 Markdown 源码";
+"Copy Markdown source as plain text" = "按纯文本复制 Markdown 源码";
 "Typewriter Mode" = "打字机模式";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "在打字机模式下，\n始终保证光标在屏幕中间";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "在启用打字机模式时，\n始终保证光标在屏幕中间";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "（下面选项将在 Typora 重启后生效）";
-"Syntax Support" = "Markdown 扩展语法";
+"(Following preferences will be applied after restart.)" = "（下面偏好选项将在重启后生效）";
+"Syntax Support" = "Markdown 语法支持";
 "Inline Math  ( e.g: $\LaTeX$ )" = "内联公式  （例： $\LaTeX$ ）";
 "Subscript    ( e.g: H~2~O )" = "下标      （例： H~2~O ）";
 "Superscript ( e.g: X^2^ )" = "上标       （例： X^2^ ）";
@@ -60,16 +60,16 @@
 "Diagrams" = "图表";
 "(Sequence, Flowchart and Mermaid)" = "(序列图、流程图 和 Mermaid 图)";
 "Syntax Preference" = "Markdown 语法偏好";
-"(only applies to styles created from menubar or hybrid view)" = "（只应用于通过菜单或快捷键生成的样式）";
+"(only applies to styles created from menubar or hybrid view)" = "（仅适用于通过菜单或混合视图创建的样式）";
 "Strict Mode" = "严格模式";
-"(more strict to GFM spec)" = "（更严格地遵循 GFM 标准）";
+"(more strict to GFM spec)" = "（更严格遵循 GFM 标准）";
 "Heading Style" = "标题样式";
 "Unordered List" = "无序列表";
 "Ordered List" = "有序列表";
 "Code Fences" = "代码块";
-"Display line numbers for code fences" = "显示行号";
+"Display line numbers for code fences" = "显示代码块的行号";
 "Math Blocks" = "数学公式";
-"Auto Numbering Math Equations" = "自动添加序号";
+"Auto Numbering Math Equations" = "自动编号数学方程式";
 
 /* Security Panel */
 "Security" = "安全";
@@ -84,37 +84,37 @@
 /* Pandoc Import Panel */
 "Importing..." = "导入…";
 "Importing in progress..." = "正在导入…";
-"Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，请稍候。";
+"Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，需时，请稍候。";
 "Abort" = "中止";
 
 /* Pandoc Export Panel */
 "Exporting..." = "导出…";
 "Exporting in progress..." = "正在导出…";
-"Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，请稍候。";
+"Converting file with Pandoc. This may take some time." = "正在使用 Pandoc 转换文件，需时，请稍候。";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "需要安装 Pandoc 以导入这些文件";
-"Check help->Install and use Pandoc from menubar for detail" = "请从 `帮助`->`Install and use Pandoc` 中查看详细信息";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "导入和部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
+"Pandoc is needed for importing these file formats" = "需要 Pandoc 来导入这些文件格式";
+"Check help->Install and use Pandoc from menubar for detail" = "请参考菜单栏中的 `帮助`->`Install and use Pandoc` 了解详细信息";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "导入或部分导出功能需要安装 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "请按照说明安装或升级 Pandoc";
 "Export Failed" = "导出失败";
 "Import Failed" = "导入失败";
-"Generated Image too Large" = "生成的图片文件过大";
+"Generated Image too Large" = "生成的图片过大";
 "Failed to export file to <em>{0}</em>" = "导出文件到 <em>{0}</em> 失败";
 "Failed to import file from <em>{0}</em>" = "从文件 <em>{0}</em> 导入失败";
-"File does not exist at <em>{0}</em>" = "路径为 <em>{0}</em> 的文件不存在";
+"File does not exist at <em>{0}</em>" = "文件不存在于 <em>{0}</em>";
 "Export to..." = "导出到…";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "是否保存更改？<br> 如果不保存，您的更改将会丢失。";
-"[Warning] Failed to attach bookmark for PDF file." = "[警告] 为 PDF 添加书签失败。";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "您是否想要保存对这个文档做出的更改？<br> 若不保存它们，您的更改将会丢失。";
+"[Warning] Failed to attach bookmark for PDF file." = "[警告] 为 PDF 附加书签失败。";
 "Dark Theme not support" = "深色主题不支持";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本不支持导出 PDF 时打印背景颜色，所以 PDF 导出不支持深色主题。 \n请重新选择浅色主题或点击 \"使用默认主题打印\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "抱歉，当前版本的 Typora 不支持在导出的 PDF 上打印背景颜色，所以 PDF 导出尚未支持深色主题。 \n请选择浅色主题或点击 \"使用默认主题打印\"";
 "Print with default theme" = "使用默认主题打印";
 "Export to PDF successfully." = "导出 PDF 成功";
-"Converting file using Pandoc. This may take some time." = "使用 Pandoc 转换中，请稍候。";
-"Exporting file using Pandoc. This may take some time." = "使用 Pandoc 导出中，请稍候。";
+"Converting file using Pandoc. This may take some time." = "使用 Pandoc 转换文件中，需时，请稍候。";
+"Exporting file using Pandoc. This may take some time." = "使用 Pandoc 导出文件中，需时，请稍候。";
 
 /* Upload via iPic */
-"Uploading in progress…" = "正在上传…";
+"Uploading in progress…" = "正在上传中…";
 "Do not show this again" = "不再显示";
 
 /* Word Count */
@@ -134,13 +134,13 @@
 "Appearance" = "外观";
 "System Native" = "系统原生";
 "Unibody" = "一体化";
-"(applied after restart)" = "（重启 Typora 后生效）";
+"(applied after restart)" = "（重启后生效）";
 "Status Bar" = "状态栏";
 "Show status bar" = "显示状态栏";
-"Save & Recover" = "保存 & 恢复";
+"Save & Recover" = "保存和恢复";
 "Auto Save" = "自动保存";
 "Recover Unsaved Drafts" = "恢复未保存的草稿";
-"Emoji Autocomplete" = "Emoji 自动完成";
+"Emoji Autocomplete" = "Emoji 自动补全";
 "Trigger by ESC key" = "按 Esc 键触发";
 "Trigger automatically" = "自动触发";
 "Default Line Ending" = "默认换行符";
@@ -151,7 +151,7 @@
 "Auto correct spelling" = "自动更正拼写错误";
 "System" = "系统";
 "Privacy" = "隐私";
-"Developer" = "开发者选项";
+"Developer" = "开发者";
 "Update" = "更新";
 "Check Updates" = "检查更新";
 "Check updates automatically" = "自动检查更新";
@@ -160,30 +160,30 @@
 "Reset Advanced Settings" = "重置高级设置";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "该功能需要安装最新版本的 iPic";
+"This function requires latest version of iPic to be installed." = "这个功能需要安装最新版本的 iPic";
 "Get iPic" = "获取 iPic";
 "Cannot Continue…" = "无法继续…";
-"This feature require macOS >= 10.11" = "此功能只支持 macOS 10.11 及以上版本";
-"One More Step" = "无法继续…";
+"This feature require macOS >= 10.11" = "这个功能只支持 macOS 10.11 及以上版本";
+"One More Step" = "再一步";
 "Notice" = "请注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic，本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "这个需要安装 iPic，而引用的图片文件会通过 iPic 上传至云端服务。 请注意默认的云服务不支持删除已上传的图片。";
 
-"%d Images Failed to Upload." = "%d个图片上传失败。";
-"%d Succeeded," = "%d个成功, ";
-"Enable this feature on preferences panel" = "在偏好设置中开启此功能";
-"The option `%@` must be enabled first to automatically upload images." = "请先开启选项`%@`以允许图片自动上传。";
-"%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
+"%d Images Failed to Upload." = "%d 个图片上传失败。";
+"%d Succeeded," = "%d 个成功, ";
+"Enable this feature on preferences panel" = "在偏好设置面板中启用这个功能";
+"The option `%@` must be enabled first to automatically upload images." = "请先启用选项`%@`以自动上传图片。";
+"%@ is a file, not a directory" = "%@ 是文件，不是目录";
 "Copy Images To…" = "复制图片到…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据 YAML Front Matter 或全局偏好设置中的配置，Typora 尝试将新插入的图片复制到目录 %@。但该目录不存在，是否立即创建？";
-"Create Folder and Continue" = "创建目录并继续";
-"Document must be saved first" = "请先保存文件";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 会根据相对路径复制图片，所以请先保存文件。";
-"Open Operation Failed" = "打开失败";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根据您的 YAML Front Matter 设置或全局偏好设置，Typora 正在尝试复制新插入的图片到文件夹 %@。但该目标文件夹不存在，立即创建吗？";
+"Create Folder and Continue" = "创建文件夹并继续";
+"Document must be saved first" = "请务必先保存文档";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora 将会按选定的相对路径复制新插入的图片，所以请先保存文件。";
+"Open Operation Failed" = "打开操作失败";
 
-"Support Documentation" = "帮助文档";
+"Support Documentation" = "支持文档";
 
-"Markdown File" = "Markdown 文档";
-"Plain Text File" = "纯文本文档";
+"Markdown File" = "Markdown 文件";
+"Plain Text File" = "纯文本文件";
 "All Files" = "所有文件";
 "All Supported Formats" = "所有支持的格式";
 "Discard Changes" = "放弃更改";
@@ -192,86 +192,86 @@
 "Menu" = "菜单";
 "Back" = "返回";
 
-"Contact" = "联系我们";
+"Contact" = "联系";
 "Open From..." = "打开…";
 "Import..." = "导入…";
-"Recent Documents" = "最近使用的文件";
-"Search for" = "查找";
-"Clear Recent Documents" = "清空最近使用的文档列表";
+"Recent Documents" = "近期的文件";
+"Search for" = "搜索内容";
+"Clear Recent Documents" = "清空近期使用文档列表";
 "File Name" = "文件名";
 "Path" = "路径";
 "Export As..." = "导出为…";
 "More Formats" = "更多格式";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装 Pandoc</a> 以导出'更多格式'所列的文件格式。";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "'更多格式'部分所列出的文件格式需要 <a class='open-pandoc-guide'>安装了 Pandoc</a>。";
 "Something is Wrong…" = "出错了…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "保存文件失败。<br/>建议复制内容到新的 Typora 窗口后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>给我们报告问题</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "基于某些原因保存内容失败。<br/>您可以复制内容到新的 Typora 窗口然后保存。 <br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>报告问题给我们</a></li><li><a href='https://support.typora.io/Version-Control//'>恢复丢失的文件内容</a></li></ul>";
 "Copy Content" = "复制内容";
 
 "Total" = "总计";
 "Word count only support OS X later than 10.10." = "字数统计功能只支持 macOS 10.11 及以上版本。";
-"Indent Size for Code" = "代码缩进";
+"Indent Size for Code" = "代码缩进大小";
 "Auto wrap long lines" = "代码块自动换行";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，深色主题暂时不支持打印。建议使用亮色主题或者选择导出到 PDF";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "抱歉，当前版本的 Typora 将不会打印背景色。\n所以打印功能尚未支持深色主题。\n\n建议使用浅色主题或者导出这个文档到 PDF";
 "Export to PDF" = "导出到 PDF";
-"Pretty indentation" = "对齐缩进";
-"Update markdown reference for this image" = "更新该图片在 Markdown 中的引用";
+"Pretty indentation" = "美化缩进";
+"Update markdown reference for this image" = "更新这个图片在 Markdown 中的引用";
 
 "No special action" = "无特殊操作";
 "Copy image to current folder (./)" = "复制图片到当前文件夹（./）";
 "Copy image to ./assets" = "复制图片到 ./assets 文件夹";
 "Copy image to ./${filename}.assets" = "复制图片到 ./${filename}.assets 文件夹";
-"Apply above rules to local images" = "对本地位置的图片应用上述规则";
-"Apply above rules to online images" = "对网络位置的图片应用上述规则";
+"Apply above rules to local images" = "对本地图片应用上述规则";
+"Apply above rules to online images" = "对网络图片应用上述规则";
 "Allow upload images automatically based on YAML settings" = "允许根据 YAML 设置自动上传图片";
 
 "Learn More" = "了解更多";
-"Whitespace / Line Break" = "空格与换行";
-"When Writing" = "编辑时";
-"Export / Print" = "导出与打印";
-"Preserve sequential whitespace and single line break" = "保留连续的空格与单个换行";
-"Ignore sequential whitespace and single line break" = "忽略连续的空格与单个换行";
+"Whitespace / Line Break" = "空格/换行";
+"When Writing" = "编写时";
+"Export / Print" = "导出/打印";
+"Preserve sequential whitespace and single line break" = "保留连续的空格和单个换行";
+"Ignore sequential whitespace and single line break" = "忽略连续空格和单个换行";
 
 "Quit" = "退出";
-"Quit Typora when last window is closed" = "所有窗口被关闭后自动退出 Typora";
-"On Launch" = "启动选项";
+"Quit Typora when last window is closed" = "最后的窗口被关闭时退出 Typora";
+"On Launch" = "启动时";
 "Open new file" = "打开新文件";
-"Restore last closed folders" = "重新打开上次使用的目录";
-"Restore last closed files and folders" = "重新打开上次使用的文件和目录";
-"Open custom folder" = "打开指定目录";
-"Select custom folder" = "选择指定目录";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "该选项可能会被系统设置中的 \"退出 App 时关闭窗口\" 所覆盖";
+"Restore last closed folders" = "恢复上次关闭的文件夹";
+"Restore last closed files and folders" = "恢复上次关闭的文件和文件夹";
+"Open custom folder" = "打开自定义文件夹";
+"Select custom folder" = "选择自定义文件夹";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "这个选项可能被系统偏好设置中的 \"退出应用程序时关闭窗口\" 所取代";
 
 "Ignore" = "忽略";
 "Choose Default Folder" = "选择默认文件夹";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>输入时转换</strong>: 输入 ASCII 的引号/破折号，转化并保存为英式或 Unicode 的引号/破折号。<br/><strong>渲染时转化</strong>: 输入并保存 ASCII 的引号/破折号，但渲染为英式或 Unicode 的引号/破折号</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>解析 Markdown 符号时，允许并转化 Unicode 标点，例：<br/> <pre> 》 引用 → > 引用 <br/> [链接](src ’标题’) → [链接](src '标题')</pre>当选中“输入时转换“，并开启“智能引号“或者”智能破折号”时，该选项会默认开启<div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>输入时转换</strong>: 输入 ASCII 引号或破折号，转化并保存为弯式引号或 Unicode 破折号。<br/><strong>渲染时转化</strong>: 输入并保存 ASCII 引号或破折号，渲染为弯式引号或 Unicode 破折号</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>解析 Markdown 符号时，把 Unicode 标点识别为 ASCII 的，例如：<br/> <pre> 》 块引用 → > 块引用 <br/> [链接](src ’标题’) → [链接](src '标题')</pre>若智能引号/破折号在输入时转换，则该选项将自动启用。<div>";
 
-"Copy image to custom folder" = "复制到指定路径";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入相对路径（以 './' 或 '../' 开头）或绝对路径。（其中 `${filename}` 表示当前文件名）";
-"Restore to previous setting" = "撤消更改";
-"Folder not exist at %@, please input another path." = "目录 %@ 不存在，请指定另一个路径。";
-"Please input a folder path." = "请输入目录路径。";
-"Cannot use root path." = "不能使用根目录。";
+"Copy image to custom folder" = "复制图片到自定义路径";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "请输入使用 './' 或 '../' 开头的基于当前文件夹的相对路径，或一个绝对文件夹路径。(其中 `${filename}` 表示当前文件名)";
+"Restore to previous setting" = "恢复到先前设置";
+"Folder not exist at %@, please input another path." = "在 %@ 不存在文件夹，请输入另一个路径。";
+"Please input a folder path." = "请输入文件夹路径。";
+"Cannot use root path." = "不能使用根目录路径。";
 
 "Get Themes" = "获取主题";
-"File/directory already exists at target path." = "目标路径上已有文件存在。";
+"File/directory already exists at target path." = "文件/目录已存在于目标路径。";
 "Keep Both" = "全部保留";
-"Are you sure you want to move %@?" = "是否要移动 %@?";
+"Are you sure you want to move %@?" = "您是否确认你想要移动 %@?";
 
-"Are you sure you want to delete %@?" = "是否要删除 %@?";
-"You can restore from the Trash." = "您可以从回收站恢复文件。";
+"Are you sure you want to delete %@?" = "您是否确认你想要删除 %@?";
+"You can restore from the Trash." = "您可以从垃圾箱恢复文件。";
 
-"Reset All Dialog Warnings" = "重置全部警告提示对话框";
+"Reset All Dialog Warnings" = "重置全部对话框式警告";
 "Dialogs" = "对话框";
-"Dialog warnings have been reset." = "警告提示对话框已被重置";
+"Dialog warnings have been reset." = "对话框式警告已被重置";
 
 "Operation Failed" = "操作失败";
-"Failed to move target file or folder to trash" = "无法将文件移至回收站";
+"Failed to move target file or folder to trash" = "移动目标文件或文件夹到垃圾箱失败";
 
-"Undo %@" = "撤消%@";
+"Undo %@" = "撤消 %@";
 "Rename %@" = "重命名 %@";
-"Copy %@" = "拷贝 %@";
+"Copy %@" = "复制 %@";
 "Move %@" = "移动 %@";
 "Delete %@" = "删除 %@";
 
@@ -282,84 +282,84 @@
 "Auto" = "自动";
 "words / min" = "词每分钟";
 
-"Reset to Default" = "重置";
-"Select custom folder" = "选择文件夹";
-"120  words/minute (Slow)" = "120  词每分钟 (较慢)";
-"240  words/minute (Medium)" = "240  词每分钟 (中等)";
-"382  words/minute (Fast)" = "382  词每分钟 (较快)";
+"Reset to Default" = "重置为默认";
+"Select custom folder" = "选择自定义文件夹";
+"120  words/minute (Slow)" = "120  词/分钟(慢)";
+"240  words/minute (Medium)" = "240  词/分钟(中)";
+"382  words/minute (Fast)" = "382  词/分钟(快)";
 
-"Copy and update image source to…" = "复制并更新图片路径到…";
-"Updater" = "更新";
-"Install Updates ?" = "是否安装更新？";
+"Copy and update image source to…" = "复制并更新图片源到…";
+"Updater" = "更新工具";
+"Install Updates ?" = "安装更新吗？";
 "Quit and Install" = "退出并安装";
 "Download failed" = "下载失败";
-"Downloading Updates…" = "下载中…";
-"Checking Updates…" = "检查中…";
+"Downloading Updates…" = "正在下载更新…";
+"Checking Updates…" = "正在检查更新…";
 "Check Update Failed" = "检查更新失败";
 "You're up to date!" = "当前已是最新！";
-"Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
+"Latest version is $1, your version is $2" = "最新版本是 $1，当前版本是 $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "这些选项也可在 \"编辑→空格与换行\" 菜单中更改";
 "Auto escape image URL when insert" = "插入时自动转义图片 URL";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，当插入位于 'img/示例图片.png'时，图片路径会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。开启该选项可以获得与其他 Markdown引擎更好的兼容性，关闭该选项可以获得更高的可读性。";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = " 例如，若你插入位于 'img/示例图片.png'的文件时，它会自动变为 'img/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png'。启用这个选项以获得与其他 Markdown 引擎更好的兼容性，禁用这个选项可以获得更高的可读性。";
 "Check updates automatically" = "自动检查更新";
-"Skip This Version" = "跳过该版本";
-"Remind Me Later" = "稍后提醒我";
+"Skip This Version" = "跳过这个版本";
+"Remind Me Later" = "以后提醒我";
 "Download Update" = "下载更新";
 "New version available." = "有新版本更新。";
 
-"When copy / export as HTML (without style)" = "当复制或导出为 无格式的HTML 时";
-"Use Rendered SVG" = "使用 SVG";
-"Use LaTeX Source" = "使用 LaTeX 代码";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在 复制为 HTML 代码 , 复制内容并简化格式, 导出 HTML (without styles) 时生效。<br/>当选择 <strong>使用 LaTeX 代码</strong> 时, Typora 会使用 LaTeX 源码 (例如： $X^2$),<br/>当选择 <strong>使用 SVG</strong> 时, Typora 会使用生成的 SVG 替换数学公式</div>";
+"When copy / export as HTML (without style)" = "当复制/导出为无样式的 HTML 时";
+"Use Rendered SVG" = "使用渲染的 SVG";
+"Use LaTeX Source" = "使用 LaTeX 源码";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在导出为无样式的 HTML 或复制为 HTML 代码，或者不带主题样式复制时生效。<br/>当选择 <strong>使用 LaTeX 源码</strong> 时，Typora 将会放置原始的 LaTeX 源码 (如： $X^2$),<br/>当选择了 <strong>使用渲染的 SVG</strong> 时，将使用渲染的 SVG，如果您粘贴到其它应用时，SVG 可能会被忽略。</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "导入功能和多种导出格式需要安装 Pandoc (≥%@)。";
-"Do not show this message again" = "不要再显示此消息";
+"Do not show this message again" = "不再显示这条消息";
 
-"Page Break Between Top Headings" = "按一级标题分页";
+"Page Break Between Top Headings" = "按顶级标题分页";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出现错误，已将当前内容复制到了剪贴板。您也可以向 hi@typora.io 报告该错误。";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "抱歉，程序发生了一些错误，当前内容已被复制到剪贴板。您也把这个报告给 <hi@typora.io> 以帮助我们修复告这个错误。";
 "Try Recovery" = "尝试恢复";
-"Other Options for Data Recovery" = "其他恢复选项";
+"Other Options for Data Recovery" = "数据恢复的其它选项";
 
-"When Insert" = "插入图片时";
+"When Insert" = "插入时";
 "Upload image" = "上传图片";
-"e.g: %@" = "例: %@";
-"Test Uploader" = "验证图片上传选项";
+"e.g: %@" = "如: %@";
+"Test Uploader" = "测试图片上传工具";
 "Validating" = "验证中";
 "Validation Failed" = "验证失败";
 "Validation Succeed" = "验证成功";
-"Testing image uploading using command:" = "使用以下命令测试图片上传选项：";
-"Running… Waiting for results." = "运行中…… 请稍等";
-"Output from the console:" = "程序运行结果：";
-"Error from the console:" = "错误：";
-"Failed to fetch uploaded image from command output." = "无法从程序运行结果中获取新的图片路径";
-"Successfully get uploaded image url." = "成功上传图片并获得新的URL";
-"Image Uploader" = "上传服务";
+"Testing image uploading using command:" = "使用以下命令测试图片上传：";
+"Running… Waiting for results." = "运行中…… 请等候结果。";
+"Output from the console:" = "来自控制台的输出：";
+"Error from the console:" = "来自控制台的错误：";
+"Failed to fetch uploaded image from command output." = "从命令输出中取得上传的图片失败。";
+"Successfully get uploaded image url." = "成功获取上传的 URL";
+"Image Uploader" = "图片上传服务";
 "Instructions" = "说明";
 "Download %@" = "下载 %@";
-"Image Upload Setting" = "上传服务设定";
-"Please set an image uploader in Preferences panel before using this function." = "请先在在 偏好设置 中设置一个图片上传服务。";
+"Image Upload Setting" = "图片上传设置";
+"Please set an image uploader in Preferences panel before using this function." = "请在使用这个功能前先在偏好设置面板中设置一个图片上传服务。";
 "Download or Upgrade" = "下载或更新";
 "Open Config File" = "打开配置文件";
-"Command" = "自定义命令";
+"Command" = "命令";
 "PicGo Path" = "PicGo 路径";
 "Executable" = "可执行文件";
 "Checking" = "检查中";
 "Download" = "下载";
 "Agree and Download" = "同意并下载";
 "Download and Reinstall" = "下载并重新安装";
-"Loading PicGo-Core License" = "正在加载许可证";
-"Failed to get installed version of PicGo-Core (command line)" = "获取已安装的 PicGo-Core（命令行）的版本失败";
-"You have the latest PicGo-Core (CLI)" = "您已装有最新版本的 PicGo-Core（命令行）";
+"Loading PicGo-Core License" = "正在加载 PicGo-Core 许可证";
+"Failed to get installed version of PicGo-Core (command line)" = "获取安装版的 PicGo-Core (命令行)失败";
+"You have the latest PicGo-Core (CLI)" = "您拥有最新版的 PicGo-Core (命令行)";
 "Newer version is available" = "有版本更新";
 
 "Downloading…" = "下载中…";
 "Unzipping…" = "解压中…";
 "Finished" = "已完成";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora 会调用第三方软件和服务。它们将读访问上传的图片文件。是否继续？";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora 将使用所有本地图片的文件路径启动第三方应用。然后图片上传服务和云端图片存储将可以访问您的本地图片文件。您是否确认要继续？";
 
-"Export operation finished successfully." = "导出成功";
+"Export operation finished successfully." = "导出操作成功完成。";
 
 "Shortcut Keys" = "快捷键";
 "Custom Shortcut Keys" = "自定义快捷键";
@@ -367,43 +367,43 @@
 "Theme" = "主题";
 "Light Theme" = "浅色主题";
 "Dark Theme" = "深色主题";
-"Use separate theme in dark mode" = "在深色模式下使用独立的主题";
+"Use separate theme in dark mode" = "在深色模式下使用独立主题";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或者 Windows 10 ≥ 1903";
-"Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 将 – (en dash)， 将 ---  转化为 — (em dash)";
-"Convert -- and --- to — (em dash)" = "将 -- 和 --- 将 — (em dash)";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "你可以在 系统偏好设置 → 键盘 → 文本 中设置引号格式。Typora 会在重启后应用新的设置。";
+"Convert -- to – (en dash), and --- to — (em dash)" = "把 -- 转换为 – (en dash)，以及 ---  转化为 — (em dash)";
+"Convert -- and --- to — (em dash)" = "把 -- 和 --- 转换为 — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "你可以在 系统偏好设置 → 键盘 → 文本 中设置引号模板。如果它被改变，Typora 将需要重启来应用。";
 
 
 "Paper Size" = "页面大小";
-"US Letter" = "US Letter";
-"US Legal" = "US Legal";
-"Tabloid" = "Tabloid";
+"US Letter" = "美式信纸";
+"US Legal" = "美式合同";
+"Tabloid" = "小报";
 "Page Break" = "分页";
 "Header" = "页首";
 "Footer" = "页尾";
 "Author" = "作者";
-"Append in <head />" = "在 <head /> 中添加";
-"Append in <body />" = "在 <body /> 中添加";
-"Include Outline Sidebar" = "保留大纲侧边栏";
+"Append in <head />" = "在 <head /> 中附加";
+"Append in <body />" = "在 <body /> 中附加";
+"Include Outline Sidebar" = "包含大纲侧边栏";
 "Width" = "宽度";
 "Command" = "命令";
-"Show Save File Dialog" = "显示对话框以选择导出路径";
-"File Extensions for Export" = "导出文件可使用的扩展名";
+"Show Save File Dialog" = "显示保存文件对话框";
+"File Extensions for Export" = "导出使用的文件扩展名";
 "Arguments" = "参数";
-"Extra Arguments" = "自定义参数";
+"Extra Arguments" = "额外参数";
 "LaTeX Engine" = "LaTeX 引擎";
 "Template" = "模板";
 "Empty" = "空";
-"Style Reference" = "样式文件";
+"Style Reference" = "样式引用";
 "Custom CSS" = "自定义 CSS";
 "Chapter Level" = "章节层级";
-"Default Folder for Exported File" = "默认的导出文件夹";
-"Same folder with current file" = "和原文件同一目录下";
-"Custom location" = "自定义";
+"Default Folder for Exported File" = "导出文件的默认文件夹";
+"Same folder with current file" = "和当前文件同一文件夹";
+"Custom location" = "自定义位置";
 "(Auto Detect)" = "(自动检测)";
 "After Export" = "导出后";
-"Open exported file location" = "打开导出文件所在目录";
-"Open exported file" = "打开导出文件";
+"Open exported file location" = "打开导出的文件位置";
+"Open exported file" = "打开导出的文件";
 "Custom" = "自定义";
 "None" = "无";
 "Default" = "默认";
@@ -414,7 +414,7 @@
 "Margin Bottom" = "下方页边距";
 "Width x Height" = "宽 x 高";
 "Add From a Template" = "从模板添加";
-"Delete this export option ?" = "删除该导出选项 ?";
+"Delete this export option ?" = "删除这个导出选项 ?";
 "Add" = "添加";
 "Delete" = "删除";
 "Rename" = "重命名";
@@ -423,68 +423,68 @@
 "Pandoc Path" = "Pandoc 路径";
 "Select" = "选择";
 "Target Format" = "目标格式";
-"auto detect based on target file path" = "根据导出文件的路径自动判断";
-"Target File Extensions (separate by whitespace)" = "目标文件扩展名（用空格分开）";
-"e.g: .text .asciidoc or leave this empty" = "例： .text .asciidoc，或留空";
-"Raw Type" = "原生格式（Raw Type）";
+"auto detect based on target file path" = "根据目标文件路径自动检测";
+"Target File Extensions (separate by whitespace)" = "目标文件扩展名(用空格分开)";
+"e.g: .text .asciidoc or leave this empty" = "如： .text .asciidoc 或留空";
+"Raw Type" = "原生格式";
 "Auto" = "自动";
-"Show Save File Dialog" = "选择导出路径";
-"Do not popup save file dialog" = "不选择导出路径";
-"Select file path to save" = "选择导出的文件位置";
-"Select folder path to save" = "选择导出的文件夹位置";
+"Show Save File Dialog" = "显示保存文件对话框";
+"Do not popup save file dialog" = "不弹出保存文件对话框";
+"Select file path to save" = "选择用于保存的文件路径";
+"Select folder path to save" = "选择用于保存的文件夹路径";
 "PDF Engine" = "PDF 引擎";
 "Show command output" = "显示命令行输出";
 
 
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "”导出并覆盖上一次导出的文件“ 会覆盖位于 %@ 的文件，是否继续?";
-"Command Arguments:" = "命令行：";
-"This beta version of Typora is expired, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
-"Current Theme" = "自动使用当前主题";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "”使用上次设置导出并覆盖“将覆盖位于 %@ 的文件，您希望继续吗?";
+"Command Arguments:" = "命令行参数：";
+"This beta version of Typora is expired, please download and install a newer version." = "这个 Typora 的测试版版本过期，请下载并安装较新的版本";
+"Current Theme" = "当前主题";
 "After Export" = "导出后";
-"Run command" = "运行自定义命令";
-"Run command after export failed" = "导出后运行自定义脚本失败";
-"Read and overwrite export settings from YAML front matters" = "允许 YAML front matters 覆盖当前设置";
-"Append Extra Content (HTML)" = "插入额外内容 (HTML)";
-"Change this option to specify a separated theme for export." = "可以为该导出选项单独配置主题。";
-"Dark theme is not supported." = "暂不支持深色主题";
+"Run command" = "运行命令";
+"Run command after export failed" = "导出失败后运行命令";
+"Read and overwrite export settings from YAML front matters" = "读取并覆盖来自 YAML front matters 的导出设置";
+"Append Extra Content (HTML)" = "附加额外内容 (HTML)";
+"Change this option to specify a separated theme for export." = "更改这个选项以指定一个独立主题进行导出。";
+"Dark theme is not supported." = "不支持深色主题";
 
 "Markdown Variants" = "Markdown 变体";
-"Original Unextended Markdown" = "原始Markdown（无扩展）";
-"CommonMark with many pandoc extensions" = "CommonMark（包含 pandoc 扩展）";
+"Original Unextended Markdown" = "原始未扩展 Markdown";
+"CommonMark with many pandoc extensions" = "带多个 pandoc 扩展的 CommonMark";
 "Line Wrap" = "换行";
-"Hard line wrap" = "限制每行字符数";
-"Text Column Width" = "每行字符数";
+"Hard line wrap" = "硬式换行";
+"Text Column Width" = "文本栏宽度(每行字符数)";
 "Auto (based on current OS)" = "自动 (基于当前系统)";
 "Indent" = "缩进";
-"Preserve tabs" = "使用Tab";
-"2 spaces per tab" = "2 个空格";
-"3 spaces per tab" = "3 个空格";
-"4 spaces per tab" = "4 个空格";
+"Preserve tabs" = "保留 Tab";
+"2 spaces per tab" = "每个 Tab =2 个空格";
+"3 spaces per tab" = "每个 Tab =3 个空格";
+"4 spaces per tab" = "每个 Tab =4 个空格";
 "Unicode Characters" = "Unicode 字符";
-"Use only ASCII characters in output" = "只使用 ASCII 字符";
-"Use reference-style links rather than inline links" = "使用引用链接 (Reference Link) 而非内联链接 (Inline Link)";
-"Footnotes and References Location" = "脚注与链接引用的位置";
-"End of document" = "置于文档末尾";
-"End of current (top-level) block" = "置于当前块元素的末尾";
-"End of current section" = "置于当前章节的末尾";
-"Convert TeX formulas to web images" = "将公式转化为网络图片";
+"Use only ASCII characters in output" = "输出中仅使用 ASCII 字符";
+"Use reference-style links rather than inline links" = "使用引用风格链接而非内联链接";
+"Footnotes and References Location" = "脚注与引用的位置";
+"End of document" = "文档的末尾";
+"End of current (top-level) block" = "当前(顶级)块元素的末尾";
+"End of current section" = "当前部分的末尾";
+"Convert TeX formulas to web images" = "转换 TeX 公式为网络图片";
 "Image Format" = "图片格式";
 
 "Set Pandoc Path" = "设置 Pandoc 路径";
 
-"Apply Line Break at \\ and &#92;newline" = "支持使用 \\ 和 &#92;newline 换行";
+"Apply Line Break at \\ and &#92;newline" = "在 \\ 和 &#92;newline 处应用换行";
 
-"Export operation succeeded with warnings." = "导出成功，但包含警告信息。";
+"Export operation succeeded with warnings." = "导出操作成功，但包含警告。";
 
-"Typora is now deactivated" = "已取消 Typora 的激活";
-"This device has been deactivated" = "该设备的激活已取消";
-"UNREGISTERED" = "未激活";
+"Typora is now deactivated" = "Typora 现在已取消激活";
+"This device has been deactivated" = "这个设备已取消激活";
+"UNREGISTERED" = "未注册";
 
-"Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
+"Allow physics package to redefine existing TeX commands" = "允许用 physics 包来重新定义已有的 TeX 命令";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "启用时，如 \\div, \\Re 的命令会被 physics 包重新定义。";
 
 "Your Typora is not activated." = "您的 Typora 尚未激活";
 "Your Typora has been activated." = "您的 Typora 已被激活";
-"Typora activation is required to change this." = "需要激活 Typora 后才能更改该选项";
-"You can reinstall the stable version and then disable this." = "您可以重新安装稳定版本（stable）以取消该选项";
-"Update to dev version" = "更新至开发版";
+"Typora activation is required to change this." = "更改这个选项需要 Typora 激活。";
+"You can reinstall the stable version and then disable this." = "您可以重新安装稳定版(stable)然后禁用这个选项";
+"Update to dev version" = "更新到开发版";

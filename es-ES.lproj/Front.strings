@@ -47,7 +47,7 @@
 
 /* Math */
 "Edit" = "Editar";
-"Delete Math" = "Borrar ecuación"; /* Also: "Borrar matemática" */
+"Delete Math" = "Eliminar ecuación"; /* Also: "Borrar matemática" */
 "Preview" = "Previsualizar";
 
 /* Sidebar */
@@ -83,7 +83,7 @@
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";
-"Toggle Source Code Mode" = "Cambiar a modo código fuente";
+"Toggle Source Code Mode" = "Alternar modo código fuente";
 "Exit Source Code Mode" = "Salir de modo código fuente";
 
 "Table of Contents" = "Tabla de contenidos";

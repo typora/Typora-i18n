@@ -12,8 +12,8 @@
 "General" = "General";
 "Window Style" = "Estilo de ventana";
 "Classic" = "Clásico";
-"Seamless" = "Sin costuras";
-"Seamless window only support OS X later than 10.10." = "La ventana sin costuras solo está soportada por OS X 10.10 o superiores.";
+"Seamless" = "Sin marco";
+"Seamless window only support OS X later than 10.10." = "La ventana sin marco solo está soportada por OS X 10.10 o superiores.";
 "Themes" = "Temas";
 "Open Theme Folder" = "Abrir carpeta de temas";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor revista `ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
@@ -121,10 +121,10 @@
 "Do not show this again" = "No mostrar de nuevo";
 
 /* Word Count */
-"Minute" = "Minutos";
-"Line" = "Líneas";
-"Word" = "Palabras";
-"Character" = "Caracteres";
+"Minute" = "Minuto";
+"Line" = "Línea";
+"Word" = "Palabra";
+"Character" = "Caracter";
 
 "Minutes" = "Minutos";
 "Lines" = "Líneas";
@@ -172,14 +172,14 @@
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Esto requiere que iPic esté instalado, y las imágenes referidas serán cargadas a servicios en la nube vía iPic. Nótese también que el servicio en la nube predeterminado no permite eliminar imágenes cargadas.";
 
 "%d Images Failed to Upload." = "%d imágenes fallaron al cargarse.";
-"%d Succeeded," = "%d correctas, ";
+"%d Succeeded," = "%d tuvieron éxito,";
 "Enable this feature on preferences panel" = "Activa esta característica en el panel de preferencias";
 "%@ is a file, not a directory" = "%@ es un archivo, no un directorio";
 "Copy Images To…" = "Copiar imágenes a…";
 "Create Folder and Continue" = "Crear carpeta y continuar";
 "Document must be saved first" = "El documento debe guardarse primero";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará la nueva imagen insertada a la carpeta fijada en la ruta relativa, así que por favor, guarda primero el archivo.";
-"Open Operation Failed" = "Operación Abrir falló";
+"Open Operation Failed" = "Operación abrir falló";
 
 "Support Documentation" = "Documentación de soporte";
 

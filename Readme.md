@@ -44,7 +44,7 @@ Feel free to contact us via <hi@typora.io>
 - Traditional Chinese by [cyberrob](https://github.com/cyberrob), [pan93412](https://github.com/pan93412), [Meowcolm024](https://github.com/Meowcolm024), [ralphchung](https://github.com/ralphchung), [pjchender](https://github.com/pjchender), [anemology](https://github.com/anemology)
 - Polish by  [iriusturar](https://github.com/iriusturar), [Vegebutcher](https://github.com/Vegebutcher)
 - Korean by  [ryush00](https://github.com/ryush00),  [marigold9124](https://github.com/marigold9124), [vreality64](https://github.com/vreality64), [yuririri](https://github.com/yuririri), [Third9](https://github.com/Third9), [ksundong](https://github.com/ksundong), [zfanta](https://github.com/zfanta), [cozyplanes](https://github.com/cozyplanes), [cog25](https://github.com/cog25)
-- Italian by  [starise](https://github.com/starise), [jethro17](https://github.com/jethro17)
+- Italian by  [starise](https://github.com/starise), [jethro17](https://github.com/jethro17), [Boia11](https://github.com/Boia11)
 - Spanish by  [thepiratejester](https://github.com/thepiratejester), [rgomez90](https://github.com/rgomez90), [iiiGerardoiii](https://github.com/iiiGerardoiii)
 - French by [MOrdinateur](https://github.com/MOrdinateur), [cnovel](https://github.com/cnovel), [m0wh](https://github.com/m0wh), [Arnaud Ligny](https://github.com/ArnaudLigny)
 - Russian by [dragomano](https://github.com/dragomano)

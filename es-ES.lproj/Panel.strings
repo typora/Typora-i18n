@@ -16,7 +16,7 @@
 "Seamless window only support OS X later than 10.10." = "La ventana sin marco solo está soportada por OS X 10.10 o superiores.";
 "Themes" = "Temas";
 "Open Theme Folder" = "Abrir carpeta de temas";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor revista `ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor revista `Ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
 "Word Count" = "Conteo de palabras";
 "Always Show Word Count" = "Mostrar siempre el conteo de palabras";
 "Font Size" = "Tamaño de fuente";
@@ -24,7 +24,7 @@
 "Customized" = "Personalizado";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si se usa un tamaño de fuente personalizado, el tamaño real de la fuente dependerá del tamaño de la fuente base y el del estilo CSS.";
  "Left Panel" = "Panel izquierdo";
-"Show Outline Panel by Default" = "Mostrar siempre el panel de índices";
+"Show Outline Panel by Default" = "Mostrar siempre el panel de índice";
 "Collapsible Outline on Left Panel" = "Índice desplegable en el panel izquierdo";
 "Save without asking when\nswitch files on side panel" = "Guardar sin preguntar cuando\nse cambian archivos en el panel lateral";
 "Language" = "Idioma";

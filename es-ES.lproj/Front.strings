@@ -52,7 +52,7 @@
 
 /* Sidebar */
 "Articles" = "Artículos";
-"Outline" = "Indice";
+"Outline" = "Índice";
 "Files" = "Archivos";
 "Switch to File List view" = "Cambiar a vista de lista de archivos";
 "Switch to File Tree view" = "Cambiar a vista de árbol de archivos";
@@ -79,7 +79,7 @@
 "Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
 "No Files Available" = "No hay archivos disponibles";
 "No Folder is Opened." = "Ninguna carpeta abierta.";
-"Outline is Empty." = "Indice vacío.";
+"Outline is Empty." = "Índice vacío.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";

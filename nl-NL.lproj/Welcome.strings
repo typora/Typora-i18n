@@ -9,69 +9,69 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Welkom bij Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Bedankt om Typora te gebruiken 👋. Typora is een minimale markdown-editor en markdown-lezer, die een naadloze ervaring verzorgt tussen geformatteerde tekst en zijn broncode.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Ga van start";
+"Check following links if you're new to Markdown or Typora." = "Raadpleeg volgende links als Markdown of Typore nieuw voor je is.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Activeer Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Al een licentie gekocht? Vul onderstaand formulier in en activeer Typora meteen.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "E-mail";
+"Email Address" = "E-mailadres";
+"License Code" = "Licentiecode";
 
 "Help" = "Help";
-"Find my License" = "Find my License";
+"Find my License" = "Vind mijn licentie";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
 
 "Live Preview" = "Live Preview";
 "Write and read rendered output instantly." = "Write and read rendered output instantly.";
 "Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Codeblokken, YAML, taken, voetnoten, tabellen, wiskunde, diagrammen";
 "Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Deliver your content in various formats." = "Lever je inhoud in verschillende formaten.";
+"Editing Experience" = "Bewerkingservaring";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Overzicht / Aantal woorden / Focus modus / Typemachine modus";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
+"Files" = "Bestanden";
+"Manage files in sidebar and search across files." = "Beheer bestanden in de zijbalk en zoek doorheen bestanden.";
+"Customize" = "Aanpassen";
+"Customize your writing experience from preferences panel." = "Pas je schrijfinstellingen aan in het voorkeurenpaneel.";
 "Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Write in the theme you like, or make one by your own." = "Schrijf in een thema dat je leuk vindt, of maak er zelf één.";
+"And more" = "En meer";
+"Explorer more topics at support.typora.io" = "Ontdek meer onderwerpen op support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Snelstart";
+"Markdown Reference" = "Markdown gids";
+"Explorer Themes" = "Thema's verkenner";
+"More Topics" = "Meer onderwerpen";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora geactiveerd";
+"Thanks for your purchase." = "Bedankt voor je aankoop.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Volgende";
+"Please accept license agreement first" = "Gelieve eerst de licentieovereenkomst te aanvaarden.";
+"Start %@ Days Trail" = "Start %@ dagen testperiode";
+"Buy License" = "Koop licentie";
+"Activate" = "Activeer";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Sluiten";
+"Deactivate" = "Deactiveer";
+"View License" = "Bekijk licentie";
+"Your Typora License" = "Je Typora licentie";
+"This copy of Typora is registered with license information below." = "Dit exemplaar van Typora is geregistreerd met de hieronder vermelde licentiegegevens.";
+"Your trail will be expired in %@ days." = "Je testperiode vervalt binnen %@ dagen.";
+"Enter License" = "Vul licentie in";
+"Not Now" = "Niet nu";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Gelieve een geldig e-mailadres in te geven";
+"Please input a valid license code"  = "Gelieve een geldige licentiecode in geven";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Het maximaal aantal toestellen voor je licentie werd overschreden.\nHet oudste toestel werd automatisch ontkoppeld.";
+"This license code has been used with a different email address." =  "Dese licentiecode is gebruikt geweest met een verschillend e-mailadres.";
+"Unknown Error. Please contact hi@typora.io" = "Onbekende fout. Gelieve hi@typora.io te contacteren";
+"Failed to access the license server. Please check your network or try again later." = "De licentieserver is onbereikbaar. Gelieve je netwerk te controleren of later opnieuw te proberen.";
 

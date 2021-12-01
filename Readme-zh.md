@@ -38,6 +38,9 @@
 - macOS上的菜单项 → https://github.com/martnst/localize-mainmenu
 - Windows术语 → https://www.microsoft.com/en-us/language/
 
+## 其他语言
+[English](Readme.md)
+
 ## 贡献者
 
 - 简体中文 [abnerlee](https://github.com/abnerlee), [NoDotCat](https://github.com/NoDotCat), [HowardTangHw](https://github.com/HowardTangHw),  [Emphasia](https://github.com/Emphasia), [DHclly](https://github.com/DHclly), [Mornwind](https://github.com/Mornwind), [iamtwz](https://github.com/iamtwz)

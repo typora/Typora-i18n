@@ -55,7 +55,7 @@
 
 "Next" = "다음";
 "Please accept license agreement first" = "라이센스 계약을 수락해 주세요";
-"Start %@ Days Trail" = "Start %@ Days Trail";
+"Start %@ Days Trail" = "%@ 일 평가판 시작";
 "Buy License" = "라이센스 구매";
 "Activate" = "활성화";
 
@@ -64,7 +64,7 @@
 "View License" = "라이센스 보기";
 "Your Typora License" = "등록된 Typora 라이센스";
 "This copy of Typora is registered with license information below." = "해당 Typora는 아래의 라이센스 정보로 등록되어 있습니다.";
-"Your trail will be expired in %@ days." = "만료까지 %@ 일 남았습니다.";
+"Your trail will be expired in %@ days." = "평가판 만료까지 %@ 일 남았습니다.";
 "Enter License" = "라이센스를 입력하세요";
 "Not Now" = "지금은 불가능 합니다";
 

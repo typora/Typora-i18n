@@ -232,9 +232,96 @@
 "Open Failed" = "Error en obrir";
 "File or folder does not exist." = "El fitxer o la carpeta no existeixen.";
 
-"Search" = "Cerca";
-
-"Insert Table" = "Insereix una taula";
-"Insert Image" = "Insereix una Image";
-
+"Prettify Source Code" = "Embellir el Codi Font";
+"Copy '%@'" = "Copia '%@'";
+"Copy to %@" = "Copiar a %@";
 "Copy Image to" = "Copia la imatge a";
+"Open Image Location" = "Obrir la ubicació de la imatge";
+
+"Learn More" = "Apren més";
+"Whitespace and Line Breaks" = "Espais en blanc i salts de línia";
+"Indent first line of paragraphs" = "Indentar la primera línia dels paràgrafs";
+"Preserve single line break" = "Preserva el salt de linea solter";
+"Visible <br/>" = "Visible <br/>";
+
+"Save All" = "Desa-ho tot";
+"New Window" = "Nova finestra";
+"Reopen Closed File" = "Reobrir arxius tancats";
+
+"Global Image Settings" = "Ajustaments globals d'imatges";
+"Smart Punctuation" = "Punctuació intel·ligent";
+"Convert on Input" = "Convertir a l'entrada";
+"Convert on Rendering" = "Convertir en renderitzar";
+"Remap Unicode Punctuation on Parse" = "Reassignar la Punctuació Unicode en analitzar";
+"More Options" = "Més Opcions";
+
+"HTML Block" = "Bloc HTML";
+"Delete Block" = "Esborra el Bloc";
+"Delete %@" = "Esborra %@";
+"Play" = "Reprodueix";
+"Pause" = "Pausa";
+
+"Spell Check" = "Ortografia";
+"Unlearn Spelling" = "Oblida paraules desades";
+"Properties" = "Propietats";
+
+"Search" = "Cerca";
+"Copy without Theme Styling" = "Copia sense l'estil del Tema";
+"Recent Files" = "Arxius recents";
+"File Results" = "Fitxers resultants";
+
+"Insert Table" = "Inserir una taula";
+"Insert Image" = "Inserir una imatge";
+"Allow Magnification" = "Permet l'ampliació";
+
+"Move Row Up" = "Mou una fila cap amunt";
+"Move Row Down" = "Mou una fila cap avall";
+"Move Column Left" = "Mou una columna cap a l'esquerra";
+"Move Column Right" = "Mou una columna cap a la dreta";
+
+"Zoom Image" = "Escala la imatge";
+"Zoom Image to %@" = "Escala la imatge a %@";
+
+"Copy as Plain Text" = "Copia com a text plà";
+
+"Selection" = "Selecció";
+"Start Speaking" = "Comença a llegir";
+"Stop Speaking" = "Para de llegir";
+"Check Updates" = "Comprova actualitzacions";
+
+"HTML (without Styles)" = "HTML (sense estils)";
+
+"Highlight Current Header" = "Ressalta la capçalera actual";
+"Expand All" = "Obri tots";
+"Collapse All" = "Tanca tots";
+"Collapsible Outline" = "Esquema colapsable";
+"Flat Outline" = "Esquema plà";
+"Articles (List View)" = "Articles (Vista de llista)";
+"File Tree (Tree View)" = "Arbre d'arxius (Vista d'arbre)";
+"Filter" = "Filtre";
+
+"Upload Image" = "Carrega una imatge";
+"Upload All Local Images" = "Carega totes les imatges locals";
+"Open Image in Browser" = "Obri la imatge al Navegador";
+"Copy Image" = "Copia la imatge";
+
+"More Actions" = "Més accions";
+"Get Info" = "Més informació";
+
+"Export with Previous" = "Exporta amb l'anterior";
+"Export and Overwrite with Previous" = "Exporta i sobreescriu amb l'anterior";
+
+"Emoji and Symbols" = "Emojis i simbols";
+
+"Insert Final New Line On Save" = "Inserix una nova linea final en desar";
+"Hyperlink Actions" = "Accions d'hipervincles";
+"Copy Link Address" = "Copia l'adreça de l'enllaç";
+
+"Click" = "Clic";
+
+"Export Setting" = "Exporta la configuració";
+
+"My License" = "La meua llicència";
+"Registration / Activation" = "Registre / Activació";
+
+"Select Paragraph/Block" = "Selecciona el Paràgraf/Bloc";

@@ -50,11 +50,11 @@
 "Explorer Themes" = "Explorer Themes";
 "More Topics" = "More Topics";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora 라이센스가 활성화 되었습니다";
+"Thanks for your purchase." = "구매해 주셔서 감사합니다.";
 
 "Next" = "다음";
-"Please accept license agreement first" = "Please accept license agreement first";
+"Please accept license agreement first" = "라이센스 계약을 수락해 주세요";
 "Start %@ Days Trail" = "Start %@ Days Trail";
 "Buy License" = "라이센스 구매";
 "Activate" = "활성화";
@@ -63,15 +63,15 @@
 "Deactivate" = "비활성화";
 "View License" = "라이센스 보기";
 "Your Typora License" = "등록된 Typora 라이센스";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
+"This copy of Typora is registered with license information below." = "해당 Typora는 아래의 라이센스 정보로 등록되어 있습니다.";
+"Your trail will be expired in %@ days." = "만료까지 %@ 일 남았습니다.";
 "Enter License" = "라이센스를 입력하세요";
-"Not Now" = "Not Now";
+"Not Now" = "지금은 불가능 합니다";
 
 "Please input a valid email address" = "올바른 주소를 기입해 주세요";
 "Please input a valid license code"  = "올바른 라이센스 코드를 입력해 주세요";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "라이센스의 등록 가능한 기기를 초과하였습니다.\n가장 오래전에 등록된 기기의 라이센스가 자동으로 비활성화됩니다.";
 "This license code has been used with a different email address." =  "해당 라이센스는 다른 이메일 주소와 연동되어 있습니다.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Unknown Error. Please contact hi@typora.io" = "예상치 못한 에러가 발생하였습니다. hi@typora.io 으로 연락 부탁드립니다";
+"Failed to access the license server. Please check your network or try again later." = "라이센스 서버 접속에 실패하였습니다. 네트워크 회선을 확인하거나 다시 시도해 주세요.";
 

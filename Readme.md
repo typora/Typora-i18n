@@ -70,3 +70,4 @@ Feel free to contact us via <hi@typora.io>
 - Ukrainian by [oleksavyshnivsky](https://github.com/oleksavyshnivsky)
 - Hebrew by [RealA10N](https://github.com/RealA10N)
 - Romanian by [Mooyeee](https://github.com/Mooyeee)
+- Malay (Malaysia) by [MLukman](https://github.com/MLukman)

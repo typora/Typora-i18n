@@ -47,12 +47,12 @@
 
 /* Math */
 "Edit" = "Editar";
-"Delete Math" = "Borrar ecuación"; /* Also: "Borrar matemática" */
+"Delete Math" = "Eliminar ecuación"; /* Also: "Borrar matemática" */
 "Preview" = "Previsualizar";
 
 /* Sidebar */
 "Articles" = "Artículos";
-"Outline" = "Indice";
+"Outline" = "Índice";
 "Files" = "Archivos";
 "Switch to File List view" = "Cambiar a vista de lista de archivos";
 "Switch to File Tree view" = "Cambiar a vista de árbol de archivos";
@@ -71,19 +71,19 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
 "Sort Naturally" = "Ordenar naturalmente";
-"Sort by Name (Ascending)" = "Ordenar por nombre (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (Ascending)";
-"Sort by Name (Descending)" = "Ordenar por nombre (Descending)";
-"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (Descending)";
+"Sort by Name (Ascending)" = "Ordenar por nombre (ascendetemente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (ascendetemente)";
+"Sort by Name (Descending)" = "Ordenar por nombre (descendentemente)";
+"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (descendentemente)";
 "Location" = "Ubicación"; 
 "Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
 "No Files Available" = "No hay archivos disponibles";
 "No Folder is Opened." = "Ninguna carpeta abierta.";
-"Outline is Empty." = "Indice vacío.";
+"Outline is Empty." = "Índice vacío.";
 
 /* Status Bar */
 "Toggle Sidebar" = "Alternar barra lateral";
-"Toggle Source Code Mode" = "Cambiar a modo código fuente";
+"Toggle Source Code Mode" = "Alternar modo código fuente";
 "Exit Source Code Mode" = "Salir de modo código fuente";
 
 "Table of Contents" = "Tabla de contenidos";

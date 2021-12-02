@@ -9,14 +9,14 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Typora에 오신 것을 환영합니다!";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 선택해 주셔서 감사합니다👋. Typora는 미니멀리즘을 지향하는 마크다운 리더입니다, 소스 코드가 다양한 스타일로 부드럽게 전환되는 경험을 선사해 드립니다.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "시작하기";
+"Check following links if you're new to Markdown or Typora." = "마크다운이나 Typora를 처음 사용하신다면 다음의 링크를 클릭해 주세요.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Typora 활성화";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "라이센스를 이미 구매하셨나요? 아래의 양식을 기입하시고 Typora의 라이센스를 활성화해 보세요.";
 
 "Email" = "이메일";
 "Email Address" = "이메일 주소";
@@ -25,7 +25,7 @@
 "Help" = "도움";
 "Find my License" = "라이센스 찾기";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "동의 <a href='https://support.typora.io/License-Agreement/'>라이센스 계약</a> 과 <a href='https://support.typora.io/Privacy-Policy/'>개인정보 처리방침</a>.";
 
 "Live Preview" = "실시간 미리보기";
 "Write and read rendered output instantly." = "Write and read rendered output instantly.";
@@ -62,7 +62,7 @@
 "Close" = "종료";
 "Deactivate" = "비활성화";
 "View License" = "라이센스 보기";
-"Your Typora License" = "Your Typora License";
+"Your Typora License" = "등록된 Typora 라이센스";
 "This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
 "Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
 "Enter License" = "라이센스를 입력하세요";

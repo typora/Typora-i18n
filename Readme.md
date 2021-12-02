@@ -38,6 +38,9 @@ Feel free to contact us via <hi@typora.io>
 - Menu items on macOS → https://github.com/martnst/localize-mainmenu
 - Terminology for Windows → https://www.microsoft.com/en-us/language/
 
+## Other Language
+[简体中文](Readme-zh.md)
+
 ## Credits
 
 - Simplified Chinese by [abnerlee](https://github.com/abnerlee), [NoDotCat](https://github.com/NoDotCat), [HowardTangHw](https://github.com/HowardTangHw),  [Emphasia](https://github.com/Emphasia), [DHclly](https://github.com/DHclly), [Mornwind](https://github.com/Mornwind), [iamtwz](https://github.com/iamtwz)

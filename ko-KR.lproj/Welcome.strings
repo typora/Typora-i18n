@@ -10,7 +10,7 @@
  */
 
 "Welcome to Typora" = "Typora에 오신 것을 환영합니다!";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 선택해 주셔서 감사합니다👋. Typora는 미니멀리즘을 지향하는 마크다운 리더입니다, 소스 코드가 다양한 스타일로 부드럽게 전환되는 경험을 선사해 드립니다.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 선택해 주셔서 감사합니다👋. Typora는 미니멀리즘을 지향하는 마크다운 리더입니다, 코드가 다양한 스타일로 부드럽게 전환되는 경험을 선사해 드립니다.";
 
 "Get Start" = "시작하기";
 "Check following links if you're new to Markdown or Typora." = "마크다운이나 Typora를 처음 사용하신다면 다음의 링크를 클릭해 주세요.";
@@ -28,13 +28,13 @@
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "동의 <a href='https://support.typora.io/License-Agreement/'>라이센스 계약</a> 과 <a href='https://support.typora.io/Privacy-Policy/'>개인정보 처리방침</a>.";
 
 "Live Preview" = "실시간 미리보기";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Write and read rendered output instantly." = "마크다운을 작성하고 실시간으로 렌더링된 결과물을 확인해 보세요.";
+"Markdown Syntax" = "마크다운  문법";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "코드 블럭, YAML, To-Do 리스트, 각주, 테이블, 수식, 다이어그램";
+"Import / Export" = "가져오기 / 내보내기";
+"Deliver your content in various formats." = "컨텐츠를 다양한 포맷으로 전달해 보세요.";
+"Editing Experience" = "편집 경험";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "개요 / 글자수 / 포커스 모드 / 타입라이터 모드";
 
 "Files" = "Files";
 "Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
@@ -45,10 +45,10 @@
 "And more" = "And more";
 "Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "빠른 시작";
+"Markdown Reference" = "마크다운 레퍼런스";
+"Explorer Themes" = "테마 알아보기";
+"More Topics" = "더 알아보기";
 
 "Typora Activated" = "Typora 라이센스가 활성화 되었습니다";
 "Thanks for your purchase." = "구매해 주셔서 감사합니다.";

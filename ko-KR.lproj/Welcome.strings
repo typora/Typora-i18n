@@ -36,14 +36,14 @@
 "Editing Experience" = "편집 경험";
 "Outline / Word Count / Focus Mode / Typewriter Mode" = "개요 / 글자수 / 포커스 모드 / 타입라이터 모드";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "파일";
+"Manage files in sidebar and search across files." = "사이드바에서 파일을 관리하고 찾아 보세요.";
+"Customize" = "사용자 정의";
+"Customize your writing experience from preferences panel." = "선호 패널에서 기호에 맞게 글쓰기 환경을 조절해 보세요.";
+"Themes" = "테마";
+"Write in the theme you like, or make one by your own." = "선호하는 테마에서 글을 작성하세요, 테마를 직접 생성하실 수도 있습니다";
+"And more" = "이외에도 다양한 기능이 있습니다";
+"Explorer more topics at support.typora.io" = "더 다양한 주제에 대해서는 support.typora.io 를 참조하세요";
 
 "Quick Start" = "빠른 시작";
 "Markdown Reference" = "마크다운 레퍼런스";

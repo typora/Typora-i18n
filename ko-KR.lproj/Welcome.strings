@@ -10,7 +10,8 @@
  */
 
 "Welcome to Typora" = "Typora에 오신 것을 환영합니다!";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 선택해 주셔서 감사합니다👋. Typora는 미니멀리즘을 지향하는 마크다운 리더입니다, 코드가 다양한 스타일로 부드럽게 전환되는 경험을 선사해 드립니다.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 선택해 주셔서 감사합니다👋. Typora는 미니멀리즘을 지향하는 마크다운 리더입니다, 코드가 
+스타일로 부드럽게 전환되는 경험을 선사해 드립니다.";
 
 "Get Start" = "시작하기";
 "Check following links if you're new to Markdown or Typora." = "마크다운이나 Typora를 처음 사용하신다면 다음의 링크를 클릭해 주세요.";

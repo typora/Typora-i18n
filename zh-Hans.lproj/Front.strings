@@ -80,8 +80,8 @@
 "Location" = "目录";
 "Switch File List/Tree View" = "切换列表／树视图";
 "No Files Available" = "文件列表为空";
-"No Folder is Opened." = "没有打开的文件夹";
-"Outline is Empty." = "大纲内容为空";
+"No Folder is Opened." = "没有打开的文件夹。";
+"Outline is Empty." = "大纲内容为空。";
 
 /* Status Bar */
 "Toggle Sidebar" = "显示／隐藏侧边栏";

@@ -4,83 +4,95 @@
 
  by hi@typora.io
 
- Indonesian (Bahasa Indonesia) translation
- by Samuel Natalius (@snatalius)
- samnatalius[at]outlook[dot]com
+ Indonesian (Bahasa Indonesia) Translation
+ by Samuel Natalius <https://github.com/snatalius> <samnatalius@outlook.com>,
+    Kylamber <https://github.com/Kylamber> <>,
+    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <nash@nashrullahalifauzi.com>.
+
+  Notice:
+
+  If there is an loanword in the Indonesian dictionary, then use it in Typora. For example, if in English there is the word `font`, then in standard Indonesian it should be written `fon` without the letter `t`, even though there is a non-standard word, `fonta` which has the same meaning.
+
+  Likewise with the word 'input' in English, when it is translated into Indonesian it does not change, because the word 'input' in the Indonesian dictionary, also has the same meaning in English. It is not appropriate to translate the English word 'input' as 'masukan' in Indonesian. This is an attempt to keep the language of the app, especially Typora, from straying too far from its native language as default.
+
+  `Copy` as `kopi` (see <https://kbbi.kemdikbud.go.id/entri/kopi>), And etc. The point is, maintain the default language, if nothing is right, then look for words that have almost the same meaning.
+
+  Let's contribute to Typora, please look at the book, "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)" in <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf>. Check it too <https://kbbi.kemdikbud.go.id/> and/or<http://tesaurus.kemdikbud.go.id/>.
+
 */
 
 /* Typora Menu */
 
 "About Typora" = "Tentang Typora";
 "Preferences" = "Preferensi";
-"Check for Updates" = "Periksa Pembaruan";
-"Services" = "Layanan";
+"Check for Updates" = "Cek Pemutakhiran"; /* All the words `check` should be more than enough with just `cek` in Indonesian */
+"Services" = "Servis"; /* See <https://kbbi.kemdikbud.go.id/entri/servis> */
 "Hide Typora" = "Sembunyikan Typora";
 "Hide Others" = "Sembunyikan Lainnya";
 "Show All" = "Tampilkan Semua";
-"Quit Typora" = "Keluar dari Typora";
+"Quit Typora" = "Keluarkan Typora";
 
 /* File Menu */
 
-"File" = "File";
+"File" = "Berkas";
 "New" = "Baru";
 "Open" = "Buka";
 "Open Folder" = "Buka Folder";
-"Reopen with Encoding" = "Buka Kembali dengan Pengodean";
-"Auto" = "Otomatis";
-"Open Recent" = "Buka File Terkini";
+"Reopen with Encoding" = "Buka Kembali dengan Pengkodean"; /* Standard word is `pengkodean`, not `pengodean`. See <https://kbbi.kemdikbud.go.id/entri/pengkodean> */
+"Auto" = "Oto";
+"Open Recent" = "Buka (Berkas) Terkini"; /* `berkas` is an insert, it's better to put brackets */
 "Recent Locations" = "Lokasi Terkini";
-"Clear Items" = "Hilangkan Item";
-"No Recent Files" = "Tidak Ada File Terkini";
-"Open Quickly" = "Buka Dengan Cepat";
-"Open File Location" = "Buka Lokasi File";
-"Reveal in Library" = "Ungkap dalam Pustaka";
-"Reveal in File Tree" = "Ungkap dalam Pohon File";
+"Clear Items" = "Bersihkan Item";
+"No Recent Files" = "Tiada Berkas Terkini";
+"Open Quickly" = "Buka Segera"; /* all `quick` or `quickly` as `segera`, for context see <https://kbbi.kemdikbud.go.id/entri/segera> */
+"Open File Location" = "Buka Lokasi Berkas";
+"Reveal in Library" = "Ungkapkan dalam Pustaka";
+"Reveal in File Tree" = "Ungkapkan dalam Pohon Berkas";
 "Close" = "Tutup";
 "Save" = "Simpan";
-"Save As" = "Simpan sebagai";
-"Duplicate" = "Gandakan";
+"Save As" = "Simpan sebagai"; /* `as` or `sebagai` is conjunction, so in Indonesian must start with a lowercase letter */
+"Duplicate" = "Duplikasikan"; /* See <https://kbbi.kemdikbud.go.id/entri/duplikasi>, `kan` is an affix for imperative verbs in Indonesian. */
 "Rename" = "Ubah Nama";
 "Move To" = "Pindahkan ke";
-"Revert To" = "Kembalikan kepada";
+"Revert To" = "Kembalikan ke";
 "Browse All Versions" = "Telusuri Semua Versi";
 "Import" = "Impor";
 "Export" = "Ekspor";
-"Page Setup" = "Penyetelan Halaman";
+"Page Setup" = "Setel Halaman";
 "Print" = "Cetak";
 
 /* Edit Menu */
-"Edit" = "Edit";
-"Undo" = "Kembalikan";
+"Edit" = "Sunting";
+"Undo" = "Takjadi";
 "Redo" = "Ulangi";
 "Cut" = "Potong";
-"Copy" = "Salin";
+"Copy" = "Kopi"; /* See <https://kbbi.kemdikbud.go.id/entri/kopi> which also means `salin` */
 "Paste" = "Tempel";
-"Copy as Markdown" = "Salin sebagai Markdown";
-"Copy as HTML Code" = "Salin sebagai Kode HTML";
+"Copy as Markdown" = "Kopi sebagai Markdown";
+"Copy as HTML Code" = "Kopi sebagai Kode HTML";
 "Paste as Plain Text" = "Tempel sebagai Teks Biasa";
-"Select All" = "Pilih Semua";
-"Select Line/Sentence" = "Pilih Baris/Kalimat";
-"Select Styled Scope" = "Pilih Lingkup Gaya";
-"Select Word" = "Pilih Kata";
+"Select All" = "Seleksi Semua";
+"Select Line/Sentence" = "Seleksi Baris/Kalimat";
+"Select Styled Scope" = "Seleksi Skop Gaya"; /* See <https://kbbi.kemdikbud.go.id/entri/skop> */
+"Select Word" = "Seleksi Kata";
 "Delete" = "Hapus";
-"Delete Range" = "Hapus dalam Rentang";
+"Delete Range" = "Hapus Rentang";
 "Delete Word" = "Hapus Kata";
-"Delete Styled Scope" = "Hapus Lingkup Gaya";
+"Delete Styled Scope" = "Hapus Skop Gaya";
 "Delete Line/Sentence" = "Hapus Baris/Kalimat";
 "Jump To" = "Lompat ke";
 "Jump to Top" = "Lompat ke Atas";
-"Jump to Selection" = "Lompat ke Pilihan";
+"Jump to Selection" = "Lompat ke Seleksi";
 "Jump to Bottom" = "Lompat ke Bawah";
 "Math Tools" = "Alat Matematika";
-"Refresh All Math Expressions" = "Muat Ulang Semua Ekspresi Matematika";
+"Refresh All Math Expressions" = "Segarkan Semua Ekspresi Matematika"; /* all `refresh` as `segarkan` */
 "Image Tools" = "Alat Gambar";
 "Insert Local Images" = "Sisipkan Gambar Lokal";
-"Upload Local Images via iPic" = "Unggah Gambar Lokal lewat iPic";
+"Upload Local Images via iPic" = "Unggah Gambar Lokal via iPic"; /* `via` must stay the same */
 "When Insert Local Image" = "Ketika Menyisipkan Gambar Lokal";
-"Copy Image File to Folder" = "Salin File Gambar ke Folder";
-"Upload Image via iPic" = "Unggah Gambar lewat iPic";
-"Use Image Root Path" = "Gunakan Path Asal Gambar";
+"Copy Image File to Folder" = "Kopi Berkas Gambar ke Folder";
+"Upload Image via iPic" = "Unggah Gambar via iPic";
+"Use Image Root Path" = "Gunakan Jalur Akar Gambar";
 "Line Endings" = "Akhiran Baris";
 "Windows Line Endings (CRLF)" = "Akhiran Baris Windows (CRLF)";
 "Unix Line Endings (LF)" = "Akhiran Baris Unix (LF)";
@@ -91,10 +103,10 @@
 "Replace" = "Ganti";
 "Replace Next" = "Temukan Berikutnya";
 "Spelling and Grammar" = "Ejaan dan Tata Bahasa";
-"Check Document Now" = "Periksa Dokumen Sekarang";
-"Check Spelling While Typing" = "Periksa Ejaan ketika Mengetik";
-"Check Grammar With Spelling" = "Periksa Tata Bahasa dengan Ejaan";
-"Correct Spelling Automatically" = "Perbaiki Ejaan secara Otomatis";
+"Check Document Now" = "Cek Dokumen Sekarang";
+"Check Spelling While Typing" = "Cek Ejaan ketika Mengetik";
+"Check Grammar With Spelling" = "Cek Tata Bahasa dengan Ejaan";
+"Correct Spelling Automatically" = "Koreksi Ejaan secara Otomatis"; /* See <https://kbbi.kemdikbud.go.id/entri/koreksi> */
 "Substitutions" = "Substitusi";
 "Smart Quotes" = "Kutipan Cerdas";
 "Smart Dashes" = "Tanda Hubung Cerdas";
@@ -105,31 +117,31 @@
 
 /* Paragraph Menu */
 "Paragraph" = "Paragraf";
-"Heading 1" = "Heading 1";
-"Heading 2" = "Heading 2";
-"Heading 3" = "Heading 3";
-"Heading 4" = "Heading 4";
-"Heading 5" = "Heading 5";
-"Heading 6" = "Heading 6";
-"Increase Heading Level" = "Naikkan Tingkatan Heading";
-"Decrease Heading Level" = "Turunkan Tingkatan Heading";
+"Heading 1" = "Tajuk 1"; /* See <https://kbbi.kemdikbud.go.id/entri/tajuk> */
+"Heading 2" = "Tajuk 2";
+"Heading 3" = "Tajuk 3";
+"Heading 4" = "Tajuk 4";
+"Heading 5" = "Tajuk 5";
+"Heading 6" = "Tajuk 6";
+"Increase Heading Level" = "Naikkan Level Tajuk"; /* See <https://kbbi.kemdikbud.go.id/entri/level> */
+"Decrease Heading Level" = "Turunkan Level Tajuk";
 "Table" = "Tabel";
-"Code Fences" = "Kotak Kode";
+"Code Fences" = "Pagar Kode";
 "Math Block" = "Blok Matematika";
 "Quote" = "Kutipan";
-"Ordered List" = "Daftar Terurut";
-"Unordered List" = "Daftar Tidak Terurut";
+"Ordered List" = "Lis Berurut"; /* See <https://kbbi.kemdikbud.go.id/entri/lis> */
+"Unordered List" = "Lis Takberurut";
 "Task List" = "Daftar Tugas";
 "Task Status" = "Status Tugas";
 "Toggle Task Status" = "Ganti Status Tugas";
-"Mark as Complete" = "Tandai sebagai Selesai";
-"Mark as Incomplete" = "Tandai sebagai Tidak Selesai";
-"List Indentation" = "Penganjuran Daftar";
-"Indent" = "Anjurkan ke Dalam";
-"Outdent" = "Anjurkan ke Luar";
-"Link Reference" = "Referensi Tautan";
+"Mark as Complete" = "Tandai sebagai Komplet"; /* See <https://kbbi.kemdikbud.go.id/entri/komplet> */
+"Mark as Incomplete" = "Tandai sebagai Takkomplet";
+"List Indentation" = "Lis Indentasi";
+"Indent" = "Indentasi";
+"Outdent" = "Outdentasi";
+"Link Reference" = "Referensi Pranala";
 "Footnotes" = "Catatan Kaki";
-"Horizontal Line" = "Garis Mendatar";
+"Horizontal Line" = "Garis Horizontal";
 "Table of Contents" = "Daftar Isi";
 "YAML Front Matter" = "YAML Front Matter";
 
@@ -137,36 +149,36 @@
 "Format" = "Format";
 "Strong" = "Tebal";
 "Emphasis" = "Miring";
-"Underline" = "Garis Bawah";
+"Underline" = "Garisbawah";
 "Code" = "Kode";
 "Inline Math" = "Matematika Sebaris";
 "Strike" = "Coret";
 "Highlight" = "Sorotan";
-"Superscript" = "Tika Atas";
-"Subscript" = "Tika Bawah";
+"Superscript" = "Superskrip";
+"Subscript" = "Subskrip";
 "Comment" = "Komentar";
-"Hyperlink" = "Hyperlink";
+"Hyperlink" = "Hipertaut"; /* See <https://kbbi.kemdikbud.go.id/entri/hipertaut> */
 "Image" = "Gambar";
-"Clear Format" = "Hilangkan Format";
+"Clear Format" = "Bersihkan Format";
 
 /* View Menu */
-"View" = "Lihat";
-"New Tab" = "Tab Baru";
+"View" = "Tampilan";
+"New Tab" = "Bilah Baru";
 "Source Code Mode" = "Mode Kode Sumber";
 "Focus Mode" = "Mode Fokus";
 "Typewriter Mode" = "Mode Mesin Tik";
-"Toggle Sidebar" = "(Non-)aktifkan Bilah Sisi";
+"Toggle Sidebar" = "(Non-)aktifkan Bilahsisi";
 "Outline" = "Ikhtisar";
 "Articles" = "Artikel";
-"File Tree" = "Pohon File";
+"File Tree" = "Pohon Berkas";
 "Always on Top" = "Selalu di Atas";
 "Full Screen" = "Layar Penuh";
-"Show Status Bar" = "Tampilkan Bilah Status";
+"Show Status Bar" = "Munculkan Bilah Status"; /* to differentiate `show` (muncul) and `view` (tampil) */
 "Toggle Fullscreen" = "(Non-)aktifkan Layar Penuh";
-"Actual Size" = "Ukuran Sebenarnya";
-"Zoom In" = "Perbesar Tampilan";
-"Zoom Out" = "Perkecil Tampilan";
-"Switch Between Opened Documents" = "Pindah ke Dokumen Aktif Lainnya";
+"Actual Size" = "Ukuran Aktual";
+"Zoom In" = "Zum (ke) Dalam";
+"Zoom Out" = "Zum (ke) Luar";
+"Switch Between Opened Documents" = "Beralih Antara Dokumen yang Dibuka";
 "Toggle DevTools" = "(Non-)aktifkan DevTools";
 
 
@@ -175,58 +187,58 @@
 
 /* Window Menu */
 "Window" = "Jendela";
-"Minimize" = "Kecilkan";
-"Zoom" = "Perbesar";
-"Bring All to Front" = "Majukan Semua ke Depan";
+"Minimize" = "Minimalkan"; /* See <https://kbbi.kemdikbud.go.id/entri/minimal> */
+"Zoom" = "Zum"; /* See <https://kbbi.kemdikbud.go.id/entri/zum> */
+"Bring All to Front" = "Bawa Semua ke Front"; /* See <https://kbbi.kemdikbud.go.id/entri/front> */
 
 /* Help Menu */
 "Help" = "Bantuan";
-"Privacy Policy" = "Aturan Privasi";
+"Privacy Policy" = "Kebijakan Privasi";
 "Credits" = "Kredit";
 "Change Log" = "Log Perubahan";
-"Website" = "Situs Jejaring";
-"Feedback" = "Umpan Balik";
+"Website" = "Situsweb";
+"Feedback" = "Umpanbalik";
 "About" = "Tentang";
 
 /* Touchbar */
 "Block Styles" = "Gaya Blok";
 "Inline Styles" = "Gaya dalam Baris";
-"List Styles / Remove Block" = "List Styles / Remove Block";
-"Exit Source Code Mode" = "Keluar dari Mode Source Code";
-"Toggle Source Code Mode" = "(Non-)aktifkan Mode Source Code";
+"List Styles / Remove Block" = "Gaya Lis / Hapus Blok";
+"Exit Source Code Mode" = "Keluarkan Mode Kode Sumber";
+"Toggle Source Code Mode" = "(Non-)aktifkan Mode Kode Sumber";
 
 /* Extra Context Menu */
 "Table" = "Tabel";
-"Add Row Above" = "Tambah Baris di Atas";
-"Add Row Below" = "Tambah Baris di Bawah";
+"Add Row Above" = "Tambah Baris Atas";
+"Add Row Below" = "Tambah Baris Bawah";
 "Delete Row" = "Hapus Baris";
 "Add Column Before" = "Tambah Kolom Sebelum";
 "Add Column After" = "Tambah Kolom Sesudah";
 "Delete Column" = "Hapus Kolom";
-"Copy Table" = "Salin Tabel";
+"Copy Table" = "Kopi Tabel";
 "Delete Table" = "Hapus Tabel";
 "Insert Paragraph After" = "Sisipkan Paragram Setelah";
 "Insert Paragraph Before" = "Sisipkan Paragram Sebelum";
 "Delete Code Block" = "Hapus Blok Kode";
-"Copy as MathML" = "Salin sebagai MathML";
-"Copy as Tex" = "Salin sebagai Tex";
-"Copy Math" = "Salin Matematika";
+"Copy as MathML" = "Kopi sebagai MathML";
+"Copy as Tex" = "Kopi sebagai Tex";
+"Copy Math" = "Kopi Matematika";
 "Reveal in Finder" = "Tampilkan di Finder";
-"Open Link" = "Buka Tautan";
-"Reveal in Sidebar" = "Tampilkan di Bilah Sisi";
+"Open Link" = "Buka Pranala";
+"Reveal in Sidebar" = "Tampilkan di Bilahsisi";
 "Open in New Window" = "Buka di Jendela Baru";
-"Copy File Path" = "Salin Path File";
-"New File" = "File Baru";
+"Copy File Path" = "Kopi Jalur Berkas";
+"New File" = "Berkas Baru";
 "Rename" = "Ubah Nama";
 "New Folder" = "Folder Baru";
 
 /* Electron */
 "Learn Spelling" = "Pelajari Ejaan";
-"Copy / Paste As…" = "Salin / Tempel sebagai…";
+"Copy / Paste As…" = "Kopi / Tempel sebagai…";
 "Math" = "Matematika";
 "Insert" = "Sisipkan";
-"Inspect Element" = "Sisipkan Elemen";
-"Copy to MS Word" = "Salin ke MS Word";
+"Inspect Element" = "Inspeksi Elemen";
+"Copy to MS Word" = "Kopi ke MS Word";
 "Paragraph (before)" = "Paragraf (sebelum)";
 "Paragraph (after)" = "Paragraf (sesudah)";
 
@@ -235,46 +247,46 @@
 
 /* Related Panel */
 "Open Failed" = "Proses Pembukaan Gagal";
-"File or folder does not exist." = "File atau folder tidak ada.";
+"File or folder does not exist." = "Berkas atau folder tidak eksis.";
 
-"Prettify Source Code" = "Percantik Source Code";
-"Copy '%@'" = "Salin '%@'";
-"Copy to %@" = "Salin ke %@";
-"Copy Image to" = "Salin gambar ke";
-"Upload via iPic" = "Unggah melalui iPic";
+"Prettify Source Code" = "Percantik Kode Sumber";
+"Copy '%@'" = "Kopi '%@'";
+"Copy to %@" = "Kopi ke %@";
+"Copy Image to" = "Kopi Gambar ke";
+"Upload via iPic" = "Unggah via iPic";
 "Open Image Location" = "Buka Lokasi Gambar";
 
-"Learn More" = "Pelajari Lebih Lanjut";
-"Whitespace and Line Breaks" = "Spasi Putih dan Pembatas Baris";
-"Indent first line of paragraphs" = "Anjurkan baris paragraf pertama ke dalam";
-"Preserve single line break" = "Pertahankan pembatas garis tunggal";
-"Visible <br/>" = "Terlihat <br/>";
+"Learn More" = "Pelajari Lagi";
+"Whitespace and Line Breaks" = "Spasiputih dan Jeda Baris";
+"Indent first line of paragraphs" = "Indentasi baris pertama paragraf";
+"Preserve single line break" = "Pertahankan jeda baris tunggal";
+"Visible <br/>" = "Visibel <br/>"; /* See <https://kbbi.kemdikbud.go.id/entri/visibel> */
 
 "Save All" = "Simpan Semua";
 "New Window" = "Jendela Baru";
-"Reopen Closed File" = "Buka Kembali File yang Ditutup";
+"Reopen Closed File" = "Kembali Buka Berkas Tertutup";
 
-"Global Image Settings" = "Pengaturan Gambar Global";
-"Smart Punctuation" = "Tanda Baca Cerdas";
-"Convert on Input" = "Konversikan saat Pemasukan";
+"Global Image Settings" = "Setelan Gambar Global";
+"Smart Punctuation" = "Pungtuasi Cerdas"; <https://kbbi.kemdikbud.go.id/entri/pungtuasi> */
+"Convert on Input" = "Konversikan saat Input";
 "Convert on Rendering" = "Konversikan saat Rendering";
-"Remap Unicode Punctuation on Parse" = "Petakan Ulang Tanda Baca Unicode saat Penguraian";
+"Remap Unicode Punctuation on Parse" = "Petaulangkan Pungtuasi Unicode saat Penguraian";
 "More Options" = "Pilihan Lainnya";
 
 "HTML Block" = "Blok HTML";
 "Delete Block" = "Hapus Blok";
 "Delete %@" = "Hapus %@";
-"Play" = "Mainkan";
+"Play" = "Putar";
 "Pause" = "Jeda";
 
-"Spell Check" = "Pemeriksaan Ejaan";
-"Unlearn Spelling" = "Ejaan yang Belum Dipelajari";
+"Spell Check" = "Cek Ejaan";
+"Unlearn Spelling" = "Ejaan Takterpelajari";
 "Properties" = "Properti";
 
 "Search" = "Cari";
-"Copy without Theme Styling" = "Salin tanpa Pengaturan Gaya Tema";
-"Recent Files" = "File Terkini";
-"File Results" = "Hasil File";
+"Copy without Theme Styling" = "Kopi tanpa Gaya Tema";
+"Recent Files" = "Berkas Terkini";
+"File Results" = "Hasil Berkas";
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Sisipkan Gambar";

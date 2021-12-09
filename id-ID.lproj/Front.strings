@@ -127,7 +127,7 @@
 "Save File Failed!" = "Simpan Berkas Gagal!";
 "Cannot open folder {0}" = "Takdapat membuka folder {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Konten berkas diganti oleh aplikasi eksternal. Muatulang konten dari diska?"; /* See <https://kbbi.kemdikbud.go.id/entri/diska> */
+"File content is changed by external applications. Reload content from disk ?" = "Konten berkas diganti oleh aplikasi eksternal. Muatulang konten dari diska?"; /* See <https://kbbi.kemdikbud.go.id/entri/diska> or <http://tesaurus.kemdikbud.go.id/tematis/lema/diska> */
 "Should continue moving and overwrite exisiting file(s) ?" = "Lanjutkan pemindahan dan penimpaan berkas yang eksis ?";
 
 "Rename to \"{0}\" ?" = "Ubah nama ke \"{0}\" ?";

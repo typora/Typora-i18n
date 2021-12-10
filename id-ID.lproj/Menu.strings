@@ -193,12 +193,14 @@
 "Bring All to Front" = "Bawa Semua ke Front"; /* See <https://kbbi.kemdikbud.go.id/entri/front> */
 
 /* Help Menu */
+"What's New" = "Apa yang Baru"
 "Help" = "Bantuan";
 "Privacy Policy" = "Kebijakan Privasi";
 "Credits" = "Kredit";
 "Change Log" = "Log Perubahan";
 "Website" = "Situsweb";
 "Feedback" = "Umpanbalik";
+"My License…" = "Lisensi Saya";
 "About" = "Tentang";
 
 /* Touchbar */

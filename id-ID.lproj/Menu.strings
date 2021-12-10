@@ -1,4 +1,5 @@
 /*
+
   Menu.strings
   Typora
 
@@ -46,8 +47,8 @@
 "No Recent Files" = "Tiada Fail Terkini";
 "Open Quickly" = "Buka Segera"; /* all `quick` or `quickly` as `segera`, for context see <https://kbbi.kemdikbud.go.id/entri/segera> */
 "Open File Location" = "Buka Lokasi Fail";
-"Reveal in Library" = "Ungkapkan dalam Pustaka";
-"Reveal in File Tree" = "Ungkapkan dalam Pohon Fail";
+"Reveal in Library" = "Tunjukkan dalam Pustaka";
+"Reveal in File Tree" = "Tunjukkan dalam Pohon Fail";
 "Close" = "Tutup";
 "Save" = "Simpan";
 "Save As" = "Simpan sebagai"; /* `as` or `sebagai` is conjunction, so in Indonesian must start with a lowercase letter */
@@ -96,7 +97,7 @@
 "Line Endings" = "Akhiran Baris";
 "Windows Line Endings (CRLF)" = "Akhiran Baris Windows (CRLF)";
 "Unix Line Endings (LF)" = "Akhiran Baris Unix (LF)";
-"Find" = "Temukan";
+"Find" = "Temukan"; /* `Find` as `Temu`. `-kan` is command word, see <https://kbbi.kemdikbud.go.id/entri/temu> */
 "Find Next" = "Temukan Berikutnya";
 "Find Previous" = "Temukan Sebelumnya";
 "Find and Replace" = "Temukan dan Ganti";
@@ -223,9 +224,9 @@
 "Copy as MathML" = "Kopi sebagai MathML";
 "Copy as Tex" = "Kopi sebagai Tex";
 "Copy Math" = "Kopi Matematika";
-"Reveal in Finder" = "Tampilkan di Finder";
+"Reveal in Finder" = "Tunjukkan di Penemu"; /* `Finder` as `Penemu`, `find` as `temu` see <https://kbbi.kemdikbud.go.id/entri/penemu> */
 "Open Link" = "Buka Pranala";
-"Reveal in Sidebar" = "Tampilkan di Bilahsisi";
+"Reveal in Sidebar" = "Tunjukkan di Bilahsisi";
 "Open in New Window" = "Buka di Jendela Baru";
 "Copy File Path" = "Kopi Jalur Fail";
 "New File" = "Fail Baru";

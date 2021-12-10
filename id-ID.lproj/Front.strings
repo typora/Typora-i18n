@@ -45,7 +45,7 @@
 "search text" = "pencarian teks";
 
 /* Quick Open */
-"Search by file name" = "Cari berdasarkan nama berkas";
+"Search by file name" = "Cari berdasarkan nama fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
 "Searching" = "Sedang mencari";
 "Gathering more results" = "Mengumpulkan lebih banyak hasil";
 
@@ -64,27 +64,27 @@
 "Create Folder" = "Buat Folder";
 
 /* Math */
-"Edit" = "Sunting";
+"Edit" = "Edit"; /* `Edit` is more accurate than `sunting`, see <https://kbbi.kemdikbud.go.id/entri/edit> */
 "Delete Math" = "Hapus Matematika";
 "Preview" = "Pratinjau";
 
 /* Sidebar */
 "Articles" = "Artikel";
 "Outline" = "Ikhtisar"; /* See <http://tesaurus.kemdikbud.go.id/tematis/lema/ikhtisar> */
-"Files" = "Berkas";
-"Switch to File List view" = "Alihkan ke tampilan Daftar Berkas";
-"Switch to File Tree view" = "Alihkan ke tampilan Pohon Berkas";
+"Files" = "Fail";
+"Switch to File List view" = "Alihkan ke tampilan Daftar Fail";
+"Switch to File Tree view" = "Alihkan ke tampilan Pohon Fail";
 "Switch to Outline view" = "Alihkan ke tampilan Ikhtisar";
 "Close sidebar" = "Tutup bilahsisi";
 "Loading" = "Memuat";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak berkas. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tampilan Pohon Berkas</a> untuk kinerja yang lebih baik.";
-"New File" = "Berkas Baru";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak fail. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tampilan Pohon Fail</a> untuk kinerja yang lebih baik.";
+"New File" = "Fail Baru";
 "Unpin Outline Panel" = "Takpinkan Panel Ikhtisar";
 "Open Folder..." = "Buka Folder...";
 "Action" = "Aksi";
 "Close Sidebar Menu" = "Tutup Menu Bilahsisi";
 "Reveal in Finder" = "Tampilkan di Finder";
-"Reveal in File Explorer" = "Tampilkan di Eksplorasi Berkas";
+"Reveal in File Explorer" = "Tampilkan di Eksplorasi Fail";
 "Refresh Folder" = "Kembalisegarkan Folder";
 "Sort" = "Sortir";
 "Group By Folder" = "Grup Berdasarkan Folder";
@@ -95,8 +95,8 @@
 "Sort by Modification Date (Descending)" = "Sortir berdasarkan modifikasi Tanggal (Turun)";
 "Recent Locations" = "Lokasi Terkini";
 "Location" = "Lokasi";
-"Switch File List/Tree View" = "Alihkan Tampilan Daftar/Pohon Berkas";
-"No Files Available" = "Tiada Berkas yang Tersedia";
+"Switch File List/Tree View" = "Alihkan Tampilan Daftar/Pohon Fail";
+"No Files Available" = "Tiada Fail yang Tersedia";
 "No Folder is Opened." = "Tiada Folder yang Terbuka.";
 "Outline is Empty." = "Ikhtisar Kosong.";
 
@@ -114,21 +114,21 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Sila definisikan referensi gambar dengan \n[{0}]: http://example.png"; /* `Link` as `pranala`, see <https://kbbi.kemdikbud.go.id/entri/pranala> */
 
 /* msg */
-"Failed to create file" = "Gagal membuat berkas";
+"Failed to create file" = "Gagal membuat fail";
 "Failed to create folder" = "Gagal membuat folder";
-"Failed to rename file" = "Gagal ubah nama berkas";
+"Failed to rename file" = "Gagal ubah nama fail";
 "Folder does not exist at %@" = "Folder tidak eksis di %@";
-"File with the same name already exists at target path" = "Berkas dengan nama yang sama telah ada di target jalur";
+"File with the same name already exists at target path" = "Fail dengan nama yang sama telah ada di target jalur";
 "Apply to All" = "Terapkan untuk Semua";
 "Overwrite" = "Timpa";
 "Stop" = "Stop"; /* See <https://kbbi.kemdikbud.go.id/entri/stop> */
 "back to document" = "kembali ke dokumen";
-"Failed to load file" = "Gagal memuat berkas";
-"Save File Failed!" = "Simpan Berkas Gagal!";
+"Failed to load file" = "Gagal memuat fail";
+"Save File Failed!" = "Simpan Fail Gagal!";
 "Cannot open folder {0}" = "Takdapat membuka folder {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Konten berkas diganti oleh aplikasi eksternal. Muatulang konten dari diska?"; /* See <https://kbbi.kemdikbud.go.id/entri/diska> or <http://tesaurus.kemdikbud.go.id/tematis/lema/diska> */
-"Should continue moving and overwrite exisiting file(s) ?" = "Lanjutkan pemindahan dan penimpaan berkas yang eksis ?";
+"File content is changed by external applications. Reload content from disk ?" = "Konten fail diganti oleh aplikasi eksternal. Muatulang konten dari diska?"; /* See <https://kbbi.kemdikbud.go.id/entri/diska> or <http://tesaurus.kemdikbud.go.id/tematis/lema/diska> */
+"Should continue moving and overwrite exisiting file(s) ?" = "Lanjutkan pemindahan dan penimpaan fail yang eksis ?";
 
 "Rename to \"{0}\" ?" = "Ubah nama ke \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Gagal mengubah nama dari \"{0}\" ke \"{1}\"";
@@ -149,38 +149,38 @@
 "Whole Word" = "Seluruh Kata";
 
 "input image URL" = "input URL gambar";
-"Select image from local file" = "Seleksi gambar dari berkas lokal";
+"Select image from local file" = "Seleksi gambar dari fail lokal";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='https://$3'>https://$2</a> ?";
 
 "select a language" = "seleksi bahasa";
-"Finish Editing" = "Selesaikan Penyuntingan";
+"Finish Editing" = "Selesaikan Pengeditan"; /* `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
 
-"Revert advanced setting file to default one ?" = "Kembalikan setelan lanjutan berkas ke asali ?";
+"Revert advanced setting file to default one ?" = "Kembalikan setelan lanjutan fail ke asali ?";
 
 "Select Spell Check Language" = "Seleksi Cek Ejaan Bahasa";
 "Auto Detect Language" = "Oto Deteksi Bahasa"; /* `auto` as `oto`; `automatize` as `otomatis` */
 "Disable Spell Check" = "Nonaktifkan Cek Ejaan";
 "Global Setting…" = "Pengaturan Global…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Berkas kamus tak tersedia untuk mengaktifkan cek ejaan untuk %@.";
+"Dictionary file is missing to enable spellcheck support for %@." = "Fail kamus tak tersedia untuk mengaktifkan cek ejaan untuk %@.";
 "Install Language Support" = "Instal Dukungan Bahasa"; /* See <https://kbbi.kemdikbud.go.id/entri/instalasi> */
 "License Information" = "Informasi Lisensi";
 "Download" = "Unduh";
-"Install dictionary file only for Typora" = "Instal berkas kamus hanya untuk Typora";
+"Install dictionary file only for Typora" = "Instal fail kamus hanya untuk Typora";
 "Spell Check (%@ unavailable)" = "Cek Ejaan (%@ taktersedia)";
 "Spell Check (%@ downloading)" = "Cek Ejaan (%@ sedang diunduh)";
-"Download dictionary file for %@" = "Unduh berkas kamus untuk %@";
+"Download dictionary file for %@" = "Unduh fail kamus untuk %@";
 "(Default spell check option)" = "(Opsi asali cek ejaan)";
 "Failed to load spellcheck module" = "Gagal memuat modul cek ejaan";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> telah diaktifkan.";
 "You could turn it off from `View` menu." = "Anda dapat menonaktifkannya dari menu `Tampilan`.";
-"The file is too large to render in Typora." = "Berkas terlalu besar untuk dirender di Typora.";
+"The file is too large to render in Typora." = "Fail terlalu besar untuk dirender di Typora.";
 "Open in…" = "Buka di…";
 "Quick Look" = "Lihat Segera";
 
 "Filter" = "Filter";
 "No result found." = "Tiada hasil yang ditemukan.";
 "Continue & Overwrite" = "Lanjut & Timpa";
-"The file is read-only, or you do not have right permissions to modify the file." = "Berkas tersedia baca-saja, atau Anda tidak punya izin untuk mengubah berkas tersebut.";
+"The file is read-only, or you do not have right permissions to modify the file." = "Fail tersedia baca-saja, atau Anda tidak punya izin untuk mengubah fail tersebut.";
 
 "Learn Data Recovery" = "Pelajari Pemulihan Data";

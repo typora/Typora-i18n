@@ -35,7 +35,7 @@
 "Open Theme Folder" = "Buka Folder Tema";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Silakan cek `bantuan`->`Mulai Segera` untuk introduksi pendek. Kunjungi http://theme.typora.io untuk mendapatkan lebih banyak tema atau instruksi.";
 "Word Count" = "Jumlah Kata";
-"Always Show Word Count" = "Selalu Tampilkan Jumlah Kata";
+"Always Show Word Count" = "Selalu Munculkan Jumlah Kata";
 "Font Size" = "Ukuran Fon"; /* See <https://kbbi.kemdikbud.go.id/entri/fon> */
 "Auto ( Recommended )" = "Oto ( Direkomendasikan )";
 "Customized" = "Dikostumisasi";
@@ -50,7 +50,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Ukuran indentasi saat Menyimpan";
-"only apply to quotes and lists created from menu bar or hybrid view" = "hanya terapkah untuk kutipan dan lis yang dibuat dari bilah menu atau tampilan hibrida";
+"only apply to quotes and lists created from menu bar or hybrid view" = "hanya terapkah untuk kutipan dan lis yang dibuat dari bilah menu atau tinjauan hibrida";
 "Trigger Autocomplete without ESC key for" = "Picu Otokomplet tanpa kunci ESC untuk"; /* `Otokomplet` is standard word `autocomplete` */
 "Emoji (e.g. :smile:)" = "Emoji (contoh: :smile:)";
 "Images Insert" = "Penyisipan Gambar";
@@ -76,7 +76,7 @@
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sekuens, Diagram Alir dan Mermaid)"; /* See <https://id.wikipedia.org/wiki/Diagram_alir> */
 "Syntax Preference" = "Preferensi Sintaksis";
-"(only applies to styles created from menubar or hybrid view)" = "(hanya terapkan terhadap gaya yang dibuat dari bilah menu atau tampilan hibrida)";
+"(only applies to styles created from menubar or hybrid view)" = "(hanya terapkan terhadap gaya yang dibuat dari bilah menu atau tinjauan hibrida)";
 "Strict Mode" = "Mode Ketat";
 "(more strict to GFM spec)" = "(lebih ketat ke spesifikasi GFM)";
 "Heading Style" = "Gaya Tajuk";
@@ -132,7 +132,7 @@
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Pengunggahan Gambar via iPic...";
 "Uploading in progress…" = "Pengunggahan dalam progres...";
-"Do not show this again" = "Jangan tampilkan ini kembali";
+"Do not show this again" = "Jangan munculkan ini kembali";
 
 /* Word Count */
 "Minute" = "Menit";
@@ -153,7 +153,7 @@
 "Unibody" = "Unibodi"; /* Combined words, see <https://kbbi.kemdikbud.go.id/entri/uni> and <https://kbbi.kemdikbud.go.id/entri/bodi> */
 "(applied after restart)" = "(diterapkan setelah kembali mulai)";
 "Status Bar" = "Bilah Status";
-"Show status bar" = "Munculkan bilah status"; /* to differentiate `show` (muncul) and `view` (tampil) */
+"Show status bar" = "Munculkan bilah status";
 "Save & Recover" = "Simpan & Pulihkan";
 "Auto Save" = "Oto Simpan";
 "Recover Unsaved Drafts" = "Pulihkan Draf yang Taktersimpan";

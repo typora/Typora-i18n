@@ -34,20 +34,20 @@
 
 /* File Menu */
 
-"File" = "Berkas";
+"File" = "Fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
 "New" = "Baru";
 "Open" = "Buka";
 "Open Folder" = "Buka Folder";
 "Reopen with Encoding" = "Buka Kembali dengan Pengkodean"; /* Standard word is `pengkodean`, not `pengodean`. See <https://kbbi.kemdikbud.go.id/entri/pengkodean> */
 "Auto" = "Oto";
-"Open Recent" = "Buka (Berkas) Terkini"; /* `berkas` is an insert, it's better to put brackets */
+"Open Recent" = "Buka (Fail) Terkini"; /* `fail` is an insert, it's better to put brackets */
 "Recent Locations" = "Lokasi Terkini";
 "Clear Items" = "Bersihkan Item";
-"No Recent Files" = "Tiada Berkas Terkini";
+"No Recent Files" = "Tiada Fail Terkini";
 "Open Quickly" = "Buka Segera"; /* all `quick` or `quickly` as `segera`, for context see <https://kbbi.kemdikbud.go.id/entri/segera> */
-"Open File Location" = "Buka Lokasi Berkas";
+"Open File Location" = "Buka Lokasi Fail";
 "Reveal in Library" = "Ungkapkan dalam Pustaka";
-"Reveal in File Tree" = "Ungkapkan dalam Pohon Berkas";
+"Reveal in File Tree" = "Ungkapkan dalam Pohon Fail";
 "Close" = "Tutup";
 "Save" = "Simpan";
 "Save As" = "Simpan sebagai"; /* `as` or `sebagai` is conjunction, so in Indonesian must start with a lowercase letter */
@@ -62,7 +62,7 @@
 "Print" = "Cetak";
 
 /* Edit Menu */
-"Edit" = "Sunting";
+"Edit" = "Edit"; /* `Edit` is more accurate than `sunting`, see <https://kbbi.kemdikbud.go.id/entri/edit> */
 "Undo" = "Takjadi";
 "Redo" = "Ulangi";
 "Cut" = "Potong";
@@ -90,7 +90,7 @@
 "Insert Local Images" = "Sisipkan Gambar Lokal";
 "Upload Local Images via iPic" = "Unggah Gambar Lokal via iPic"; /* `via` must stay the same */
 "When Insert Local Image" = "Ketika Menyisipkan Gambar Lokal";
-"Copy Image File to Folder" = "Kopi Berkas Gambar ke Folder";
+"Copy Image File to Folder" = "Kopi Fail Gambar ke Folder";
 "Upload Image via iPic" = "Unggah Gambar via iPic";
 "Use Image Root Path" = "Gunakan Jalur Akar Gambar";
 "Line Endings" = "Akhiran Baris";
@@ -170,7 +170,7 @@
 "Toggle Sidebar" = "(Non-)aktifkan Bilahsisi";
 "Outline" = "Ikhtisar";
 "Articles" = "Artikel";
-"File Tree" = "Pohon Berkas";
+"File Tree" = "Pohon Fail";
 "Always on Top" = "Selalu di Atas";
 "Full Screen" = "Layar Penuh";
 "Show Status Bar" = "Munculkan Bilah Status"; /* to differentiate `show` (muncul) and `view` (tampil) */
@@ -227,8 +227,8 @@
 "Open Link" = "Buka Pranala";
 "Reveal in Sidebar" = "Tampilkan di Bilahsisi";
 "Open in New Window" = "Buka di Jendela Baru";
-"Copy File Path" = "Kopi Jalur Berkas";
-"New File" = "Berkas Baru";
+"Copy File Path" = "Kopi Jalur Fail";
+"New File" = "Fail Baru";
 "Rename" = "Ubah Nama";
 "New Folder" = "Folder Baru";
 
@@ -247,7 +247,7 @@
 
 /* Related Panel */
 "Open Failed" = "Proses Pembukaan Gagal";
-"File or folder does not exist." = "Berkas atau folder tidak eksis.";
+"File or folder does not exist." = "Fail atau folder tidak eksis.";
 
 "Prettify Source Code" = "Percantik Kode Sumber";
 "Copy '%@'" = "Kopi '%@'";
@@ -264,7 +264,7 @@
 
 "Save All" = "Simpan Semua";
 "New Window" = "Jendela Baru";
-"Reopen Closed File" = "Kembali Buka Berkas Tertutup";
+"Reopen Closed File" = "Kembali Buka Fail Tertutup";
 
 "Global Image Settings" = "Setelan Gambar Global";
 "Smart Punctuation" = "Pungtuasi Cerdas"; <https://kbbi.kemdikbud.go.id/entri/pungtuasi> */
@@ -285,8 +285,8 @@
 
 "Search" = "Cari";
 "Copy without Theme Styling" = "Kopi tanpa Gaya Tema";
-"Recent Files" = "Berkas Terkini";
-"File Results" = "Hasil Berkas";
+"Recent Files" = "Fail Terkini";
+"File Results" = "Hasil Fail";
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Sisipkan Gambar";

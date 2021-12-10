@@ -30,7 +30,7 @@
 "Services" = "Servis"; /* See <https://kbbi.kemdikbud.go.id/entri/servis> */
 "Hide Typora" = "Sembunyikan Typora";
 "Hide Others" = "Sembunyikan Lainnya";
-"Show All" = "Tampilkan Semua";
+"Show All" = "Munculkan Semua";
 "Quit Typora" = "Keluarkan Typora";
 
 /* File Menu */
@@ -163,7 +163,7 @@
 "Clear Format" = "Bersihkan Format";
 
 /* View Menu */
-"View" = "Tampilan";
+"View" = "Tinjau";
 "New Tab" = "Bilah Baru";
 "Source Code Mode" = "Mode Kode Sumber";
 "Focus Mode" = "Mode Fokus";
@@ -174,7 +174,7 @@
 "File Tree" = "Pohon Fail";
 "Always on Top" = "Selalu di Atas";
 "Full Screen" = "Layar Penuh";
-"Show Status Bar" = "Munculkan Bilah Status"; /* to differentiate `show` (muncul) and `view` (tampil) */
+"Show Status Bar" = "Munculkan Bilah Status";
 "Toggle Fullscreen" = "(Non-)aktifkan Layar Penuh";
 "Actual Size" = "Ukuran Aktual";
 "Zoom In" = "Zum (ke) Dalam";

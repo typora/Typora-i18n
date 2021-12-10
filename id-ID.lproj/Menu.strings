@@ -41,7 +41,7 @@
 "Open Folder" = "Buka Folder";
 "Reopen with Encoding" = "Buka Kembali dengan Pengkodean"; /* Standard word is `pengkodean`, not `pengodean`. See <https://kbbi.kemdikbud.go.id/entri/pengkodean> */
 "Auto" = "Oto";
-"Open Recent" = "Buka (Fail) Terkini"; /* `fail` is an insert, it's better to put brackets */
+"Open Recent" = "Buka Terkini";
 "Recent Locations" = "Lokasi Terkini";
 "Clear Items" = "Bersihkan Item";
 "No Recent Files" = "Tiada Fail Terkini";

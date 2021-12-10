@@ -49,11 +49,11 @@
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blok kode, YAML, tugas, catatan kaki, tabel, matematika, diagram";
 "Import / Export" = "Impor / Ekspor";
 "Deliver your content in various formats." = "Kirimkan konten Anda dalam berbagai format.";
-"Editing Experience" = "Pengalaman Penyuntingan"; /* See <https://kbbi.kemdikbud.go.id/entri/sunting> */
+"Editing Experience" = "Pengalaman Pengeditan"; /* `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
 "Outline / Word Count / Focus Mode / Typewriter Mode" = "Ikhtisar / Jumlah Kata / Mode Fokus / Mode Mesin Tik";
 
-"Files" = "Berkas"; /* See <https://kbbi.kemdikbud.go.id/entri/berkas> */
-"Manage files in sidebar and search across files." = "Kelola berkas di bilah sisi dan cari di seluruh berkas.";
+"Files" = "Fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
+"Manage files in sidebar and search across files." = "Kelola fail di bilah sisi dan cari di seluruh fail.";
 "Customize" = "Kustomisasi"; /* See <https://id.wikipedia.org/wiki/Wikipedia:Kustomisasi> */
 "Customize your writing experience from preferences panel." = "Kostumisasikan pengalaman menulis Anda melalui panel preferensi.";
 "Themes" = "Tema";

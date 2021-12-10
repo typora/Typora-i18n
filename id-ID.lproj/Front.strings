@@ -83,8 +83,8 @@
 "Open Folder..." = "Buka Folder...";
 "Action" = "Aksi";
 "Close Sidebar Menu" = "Tutup Menu Bilahsisi";
-"Reveal in Finder" = "Tampilkan di Finder";
-"Reveal in File Explorer" = "Tampilkan di Eksplorasi Fail";
+"Reveal in Finder" = "Tunjukkan di Penemu"; /* `Finder` as `Penemu`, `find` as `temu` see <https://kbbi.kemdikbud.go.id/entri/penemu> */
+"Reveal in File Explorer" = "Tunjukkan di Eksplorasi Fail";
 "Refresh Folder" = "Kembalisegarkan Folder";
 "Sort" = "Sortir";
 "Group By Folder" = "Grup Berdasarkan Folder";

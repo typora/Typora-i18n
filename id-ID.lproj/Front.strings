@@ -66,18 +66,18 @@
 /* Math */
 "Edit" = "Edit"; /* `Edit` is more accurate than `sunting`, see <https://kbbi.kemdikbud.go.id/entri/edit> */
 "Delete Math" = "Hapus Matematika";
-"Preview" = "Pratinjau";
+"Preview" = "Pratinjau"; /* So `view` is `tinjau`, see <https://kbbi.kemdikbud.go.id/entri/tinjau> */
 
 /* Sidebar */
 "Articles" = "Artikel";
 "Outline" = "Ikhtisar"; /* See <http://tesaurus.kemdikbud.go.id/tematis/lema/ikhtisar> */
 "Files" = "Fail";
-"Switch to File List view" = "Alihkan ke tampilan Daftar Fail";
-"Switch to File Tree view" = "Alihkan ke tampilan Pohon Fail";
-"Switch to Outline view" = "Alihkan ke tampilan Ikhtisar";
+"Switch to File List view" = "Alihkan ke tinjauan Daftar Fail";
+"Switch to File Tree view" = "Alihkan ke tinjauan Pohon Fail";
+"Switch to Outline view" = "Alihkan ke tinjauan Ikhtisar";
 "Close sidebar" = "Tutup bilahsisi";
 "Loading" = "Memuat";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak fail. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tampilan Pohon Fail</a> untuk kinerja yang lebih baik.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak fail. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tinjauan Pohon Fail</a> untuk kinerja yang lebih baik.";
 "New File" = "Fail Baru";
 "Unpin Outline Panel" = "Takpinkan Panel Ikhtisar";
 "Open Folder..." = "Buka Folder...";
@@ -95,7 +95,7 @@
 "Sort by Modification Date (Descending)" = "Sortir berdasarkan modifikasi Tanggal (Turun)";
 "Recent Locations" = "Lokasi Terkini";
 "Location" = "Lokasi";
-"Switch File List/Tree View" = "Alihkan Tampilan Daftar/Pohon Fail";
+"Switch File List/Tree View" = "Alihkan Tinjauan Daftar/Pohon Fail";
 "No Files Available" = "Tiada Fail yang Tersedia";
 "No Folder is Opened." = "Tiada Folder yang Terbuka.";
 "Outline is Empty." = "Ikhtisar Kosong.";
@@ -173,7 +173,7 @@
 "Failed to load spellcheck module" = "Gagal memuat modul cek ejaan";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> telah diaktifkan.";
-"You could turn it off from `View` menu." = "Anda dapat menonaktifkannya dari menu `Tampilan`.";
+"You could turn it off from `View` menu." = "Anda dapat menonaktifkannya dari menu `Tinjau`.";
 "The file is too large to render in Typora." = "Fail terlalu besar untuk dirender di Typora.";
 "Open in…" = "Buka di…";
 "Quick Look" = "Lihat Segera";

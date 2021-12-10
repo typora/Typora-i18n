@@ -1,5 +1,4 @@
-/*
-
+/* 
   Menu.strings
   Typora
 
@@ -19,14 +18,13 @@
   `Copy` as `kopi` (see <https://kbbi.kemdikbud.go.id/entri/kopi>), And etc. The point is, maintain the default language, if nothing is right, then look for words that have almost the same meaning.
 
   Let's contribute to Typora, please look at the book, "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)" in <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf>. Check it too <https://kbbi.kemdikbud.go.id/> and/or <http://tesaurus.kemdikbud.go.id/>.
-
 */
 
 /* Typora Menu */
 
 "About Typora" = "Tentang Typora";
 "Preferences" = "Preferensi";
-"Check for Updates" = "Cek Pemutakhiran"; /* All the words `check` should be more than enough with just `cek` in Indonesian */
+"Check for Updates" = "Cek untuk Pemutakhiran"; /* All the words `check` should be more than enough with just `cek` in Indonesian */
 "Services" = "Servis"; /* See <https://kbbi.kemdikbud.go.id/entri/servis> */
 "Hide Typora" = "Sembunyikan Typora";
 "Hide Others" = "Sembunyikan Lainnya";
@@ -53,7 +51,7 @@
 "Save" = "Simpan";
 "Save As" = "Simpan sebagai"; /* `as` or `sebagai` is conjunction, so in Indonesian must start with a lowercase letter */
 "Duplicate" = "Duplikasikan"; /* See <https://kbbi.kemdikbud.go.id/entri/duplikasi>, `kan` is an affix for imperative verbs in Indonesian. */
-"Rename" = "Ubah Nama";
+"Rename" = "Namaiulang";
 "Move To" = "Pindahkan ke";
 "Revert To" = "Kembalikan ke";
 "Browse All Versions" = "Telusuri Semua Versi";
@@ -64,7 +62,7 @@
 
 /* Edit Menu */
 "Edit" = "Edit"; /* `Edit` is more accurate than `sunting`, see <https://kbbi.kemdikbud.go.id/entri/edit> */
-"Undo" = "Takjadi";
+"Undo" = "Takjadi"; /* Must be coupled, `takjadi`, cannot be separated by spaces, `tak jadi`. */
 "Redo" = "Ulangi";
 "Cut" = "Potong";
 "Copy" = "Kopi"; /* See <https://kbbi.kemdikbud.go.id/entri/kopi> which also means `salin` */
@@ -86,7 +84,7 @@
 "Jump to Selection" = "Lompat ke Seleksi";
 "Jump to Bottom" = "Lompat ke Bawah";
 "Math Tools" = "Alat Matematika";
-"Refresh All Math Expressions" = "Segarkan Semua Ekspresi Matematika"; /* all `refresh` as `segarkan` */
+"Refresh All Math Expressions" = "Segarulangkan Semua Ekspresi Matematika"; /* all `refresh` as `segarulangkan` */
 "Image Tools" = "Alat Gambar";
 "Insert Local Images" = "Sisipkan Gambar Lokal";
 "Upload Local Images via iPic" = "Unggah Gambar Lokal via iPic"; /* `via` must stay the same */
@@ -140,7 +138,7 @@
 "List Indentation" = "Lis Indentasi";
 "Indent" = "Indentasi";
 "Outdent" = "Outdentasi";
-"Link Reference" = "Referensi Pranala";
+"Link Reference" = "Referensi Tautan";
 "Footnotes" = "Catatan Kaki";
 "Horizontal Line" = "Garis Horizontal";
 "Table of Contents" = "Tabel Konten";
@@ -169,7 +167,7 @@
 "Focus Mode" = "Mode Fokus";
 "Typewriter Mode" = "Mode Mesin Tik";
 "Toggle Sidebar" = "(Non-)aktifkan Bilahsisi";
-"Outline" = "Ikhtisar";
+"Outline" = "Garisbesar";
 "Articles" = "Artikel";
 "File Tree" = "Pohon Fail";
 "Always on Top" = "Selalu di Atas";
@@ -193,14 +191,12 @@
 "Bring All to Front" = "Bawa Semua ke Front"; /* See <https://kbbi.kemdikbud.go.id/entri/front> */
 
 /* Help Menu */
-"What's New" = "Apa yang Baru"
 "Help" = "Bantuan";
 "Privacy Policy" = "Kebijakan Privasi";
 "Credits" = "Kredit";
 "Change Log" = "Log Perubahan";
 "Website" = "Situsweb";
 "Feedback" = "Umpanbalik";
-"My License…" = "Lisensi Saya";
 "About" = "Tentang";
 
 /* Touchbar */
@@ -227,12 +223,12 @@
 "Copy as Tex" = "Kopi sebagai Tex";
 "Copy Math" = "Kopi Matematika";
 "Reveal in Finder" = "Tunjukkan di Penemu"; /* `Finder` as `Penemu`, `find` as `temu` see <https://kbbi.kemdikbud.go.id/entri/penemu> */
-"Open Link" = "Buka Pranala";
+"Open Link" = "Buka Tautan";
 "Reveal in Sidebar" = "Tunjukkan di Bilahsisi";
 "Open in New Window" = "Buka di Jendela Baru";
 "Copy File Path" = "Kopi Jalur Fail";
 "New File" = "Fail Baru";
-"Rename" = "Ubah Nama";
+"Rename" = "Namaiulang";
 "New Folder" = "Folder Baru";
 
 /* Electron */
@@ -293,3 +289,56 @@
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Sisipkan Gambar";
+"Allow Magnification" = "Izinkan Magnifikasi"; /* See <https://kbbi.kemdikbud.go.id/entri/magnifikasi> */
+
+"Move Row Up" = "Pindahkan Baris ke Atas";
+"Move Row Down" = "Pindahkan Baris Ke Bawah";
+"Move Column Left" = "Pindahkan Kolom Kiri";
+"Move Column Right" = "Pindahkan Kolom Kanan";
+
+"Zoom Image" = "Zum Gambar";
+"Zoom Image to %@" = "Zum Gambar ke %@";
+
+"Copy as Plain Text" = "Kopi sebagai Teks Biasa";
+
+"Selection" = "Selection";
+"Start Speaking" = "Mulai Berbicara";
+"Stop Speaking" = "Stop Berbicara";
+"Check Updates" = "Cek Pemutakhiran";
+
+"HTML (without Styles)" = "HTML (tanpa Gaya)";
+
+"Highlight Current Header" = "Sorot Tajuk Saat Ini";
+"Expand All" = "Ekspans Semua"; /* See <https://kbbi.kemdikbud.go.id/entri/ekspansi> */
+"Collapse All" = "Kolaps Semua"; /* See <http://tesaurus.kemdikbud.go.id/tematis/lema/kolaps> */
+"Collapsible Outline" = "Garisbesar Kolapsibel";
+"Flat Outline" = "Garisbesar Datar";
+"Articles (List View)" = "Artikel (Tinjauan Lis)";
+"File Tree (Tree View)" = "Pohon Fail (Tinjauan Pohon)";
+"Filter" = "Filter";
+
+"Upload Image" = "Unggah Gambar";
+"Upload All Local Images" = "Unggah Semua Gambar Lokal";
+"Open Image in Browser" = "Buka Gambar di Peramban"; /* See <https://kbbi.kemdikbud.go.id/entri/peramban> */
+"Copy Image" = "Kopi Gambar";
+
+"More Actions" = "Aksi Lebih";
+"Get Info" = "Dapatkan Info";
+
+"Export with Previous" = "Ekspor dengan Sebelumnya";
+"Export and Overwrite with Previous" = "Ekspor dan Timpa dengan Sebelumnya";
+
+"Emoji and Symbols" = "Emoji and Simbol";
+
+"Insert Final New Line On Save" = "Sisipkan Baris Baru Final saat Simpan";
+"Hyperlink Actions" = "Aksi Hipertaut";
+"Copy Link Address" = "Kopi Alamat Tautan";
+
+"Click" = "Klik";
+
+"Export Setting" = "Setelan Ekspor";
+
+"My License" = "Lisensi Saya";
+"Registration / Activation" = "Registrasi / Aktivasi";
+
+"Select Paragraph/Block" = "Seleksi Paragraf/Blok";

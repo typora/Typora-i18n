@@ -1,5 +1,4 @@
 /*
-
   Front.strings
   Typora
 
@@ -19,7 +18,6 @@
   `Copy` as `kopi` (see <https://kbbi.kemdikbud.go.id/entri/kopi>), And etc. The point is, maintain the default language, if nothing is right, then look for words that have almost the same meaning.
 
   Let's contribute to Typora, please look at the book, "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)" in <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf>. Check it too <https://kbbi.kemdikbud.go.id/> and/or <http://tesaurus.kemdikbud.go.id/>.
-
 */
 
 /* Common */
@@ -60,7 +58,7 @@
 "Delete Table" = "Hapus Tabel";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora mencoba menyalin gambar yang baru disisipkan ke folder <code id='image-create-folder-target'></code> sesuai dengan aturan YAML Front Matter atau preferensi global. Namun, folder tujuan tidak eksis. Buat folder tersebut sekarang?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora mencoba menyalin gambar yang baru disisipkan ke folder <code id='image-create-folder-target'></code> sesuai dengan setelan YAML Front Matter atau preferensi global. Namun, folder tujuan tidak eksis. Buat folder tersebut sekarang?";
 "Create Folder" = "Buat Folder";
 
 /* Math */
@@ -70,22 +68,22 @@
 
 /* Sidebar */
 "Articles" = "Artikel";
-"Outline" = "Ikhtisar"; /* See <http://tesaurus.kemdikbud.go.id/tematis/lema/ikhtisar> */
+"Outline" = "Garisbesar"; /* Must be coupled, `Garisbesar`, not `Garis besar`, see <http://tesaurus.kemdikbud.go.id/tematis/lema/garis%2Bbesar> */
 "Files" = "Fail";
 "Switch to File List view" = "Alihkan ke tinjauan Daftar Fail";
 "Switch to File Tree view" = "Alihkan ke tinjauan Pohon Fail";
-"Switch to Outline view" = "Alihkan ke tinjauan Ikhtisar";
+"Switch to Outline view" = "Alihkan ke tinjauan Garisbesar";
 "Close sidebar" = "Tutup bilahsisi";
 "Loading" = "Memuat";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak fail. \nMohon ubah ke <a id='switch-to-tree-on-oversize'>tinjauan Pohon Fail</a> untuk kinerja yang lebih baik.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandung terlalu banyak fail. \nSilakan ubah ke <a id='switch-to-tree-on-oversize'>tinjauan Pohon Fail</a> untuk kinerja yang lebih baik.";
 "New File" = "Fail Baru";
-"Unpin Outline Panel" = "Takpinkan Panel Ikhtisar";
+"Unpin Outline Panel" = "Takpinkan Panel Garisbesar";
 "Open Folder..." = "Buka Folder...";
 "Action" = "Aksi";
 "Close Sidebar Menu" = "Tutup Menu Bilahsisi";
 "Reveal in Finder" = "Tunjukkan di Penemu"; /* `Finder` as `Penemu`, `find` as `temu` see <https://kbbi.kemdikbud.go.id/entri/penemu> */
 "Reveal in File Explorer" = "Tunjukkan di Eksplorasi Fail";
-"Refresh Folder" = "Kembalisegarkan Folder";
+"Refresh Folder" = "Segarulangkan Folder";
 "Sort" = "Sortir";
 "Group By Folder" = "Grup Berdasarkan Folder";
 "Sort Naturally" = "Sortir secara Natural";
@@ -98,7 +96,7 @@
 "Switch File List/Tree View" = "Alihkan Tinjauan Daftar/Pohon Fail";
 "No Files Available" = "Tiada Fail yang Tersedia";
 "No Folder is Opened." = "Tiada Folder yang Terbuka.";
-"Outline is Empty." = "Ikhtisar Kosong.";
+"Outline is Empty." = "Garisbesar Kosong.";
 
 /* Status Bar */
 "Toggle Sidebar" = "(Non-)aktifkan Bilah Sisi";
@@ -111,12 +109,12 @@
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Perlu mendefinisikan referensi catatan kaki <b>{0}</b> dengan sintaksis <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Perlu mendefinisikan referensi pranala <b>[{0}]</b> dengan sintaks <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Sila definisikan referensi gambar dengan \n[{0}]: http://example.png"; /* `Link` as `pranala`, see <https://kbbi.kemdikbud.go.id/entri/pranala> */
+"Please define image reference by \n[{0}]: http://example.png" = "Silakan definisikan referensi gambar dengan \n[{0}]: http://example.png"; /* `Link` as `pranala`, see <https://kbbi.kemdikbud.go.id/entri/pranala> */
 
 /* msg */
 "Failed to create file" = "Gagal membuat fail";
 "Failed to create folder" = "Gagal membuat folder";
-"Failed to rename file" = "Gagal ubah nama fail";
+"Failed to rename file" = "Gagal namaiulang fail";
 "Folder does not exist at %@" = "Folder tidak eksis di %@";
 "File with the same name already exists at target path" = "Fail dengan nama yang sama telah ada di target jalur";
 "Apply to All" = "Terapkan untuk Semua";
@@ -130,8 +128,8 @@
 "File content is changed by external applications. Reload content from disk ?" = "Konten fail diganti oleh aplikasi eksternal. Muatulang konten dari diska?"; /* See <https://kbbi.kemdikbud.go.id/entri/diska> or <http://tesaurus.kemdikbud.go.id/tematis/lema/diska> */
 "Should continue moving and overwrite exisiting file(s) ?" = "Lanjutkan pemindahan dan penimpaan fail yang eksis ?";
 
-"Rename to \"{0}\" ?" = "Ubah nama ke \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Gagal mengubah nama dari \"{0}\" ke \"{1}\"";
+"Rename to \"{0}\" ?" = "Namaiulang ke \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Gagal namaiulang dari \"{0}\" ke \"{1}\"";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Berhasil mengunggah {0} gambar.";
@@ -160,7 +158,7 @@
 "Select Spell Check Language" = "Seleksi Cek Ejaan Bahasa";
 "Auto Detect Language" = "Oto Deteksi Bahasa"; /* `auto` as `oto`; `automatize` as `otomatis` */
 "Disable Spell Check" = "Nonaktifkan Cek Ejaan";
-"Global Setting…" = "Pengaturan Global…";
+"Global Setting…" = "Setelan Global…";
 "Dictionary file is missing to enable spellcheck support for %@." = "Fail kamus tak tersedia untuk mengaktifkan cek ejaan untuk %@.";
 "Install Language Support" = "Instal Dukungan Bahasa"; /* See <https://kbbi.kemdikbud.go.id/entri/instalasi> */
 "License Information" = "Informasi Lisensi";
@@ -184,3 +182,23 @@
 "The file is read-only, or you do not have right permissions to modify the file." = "Fail tersedia baca-saja, atau Anda tidak punya izin untuk mengubah fail tersebut.";
 
 "Learn Data Recovery" = "Pelajari Pemulihan Data";
+"Auto refresh on Files Panel cannot be enabled." = "Oto segarulang pada Panel Fail tidak dapat diaktifkan.";
+"Delete Permanently" = "Hapus Permanen";
+
+
+"Failed to upload images:" = "Gagal mengunggah gambar:";
+"Uploading in progress" = "Pengunggahan dalam progres";
+"Successfully uploaded {0} images, {1} failed." = "Sukses penuh diunggah {0} gambar, {1} gagal.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Anda dapat membatalkan operasi ini nanti via `Edit` → `Takjadi`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda dapat menekan <strong>⌘ + Klik</strong> untuk membuka <a href='#'>links</a> atau lompat ke definisi catatan kaki.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda dapat menekan <strong>CTRL + Klik</strong> untuk membuka <a href='#'>pranala</a> atau lompat ke definisi catatan kaki.";
+
+"<strong>Unibody</strong> style has been turned on." = "Gaya <strong>Unibodi</strong> telah diaktifkan.";
+"You can right click titlebar to popup application menu." = "Anda dapat mengklik kanan bilah judul untuk memunculkan menu aplikasi.";
+
+"Support Document" = "Dokumen Pendukung";
+
+"You are not supposed to edit or save this file." = "Anda tidak seharusnya mengedit atau menyimpan fail ini.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Fail di lokasi ini (%@) dikelola oleh Typora, dan dapat dihapus secara otomatis.<br/>Silakan salin konten ke fail baru untuk pengeditan lebih lanjut.";

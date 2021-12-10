@@ -26,7 +26,7 @@
  */
 
 "Welcome to Typora" = "Selamat Datang di Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih telah menggunakan Typora 👋. Typora adalah editor markdown dan pembaca markdown minimal, yang memberikan Anda pengalaman mulus antara konten gaya kaya yang dirender dan kode sumbernya.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih telah menggunakan Typora 👋. Typora adalah editor markdown dan pembaca markdown minimal, ia memberi Anda pengalaman mulus antara konten gaya kaya yang dirender dan kode sumbernya.";
 
 "Get Start" = "Mari Mulai"; /* See <https://kbbi.kemdikbud.go.id/entri/mari> */
 "Check following links if you're new to Markdown or Typora." = "Cek pranala berikut jika Anda baru mengenal Markdown atau Typora.";

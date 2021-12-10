@@ -78,7 +78,7 @@
 
 "Close" = "Tutup";
 "Deactivate" = "Deaktivasi"; /* See https://kbbi.kemdikbud.go.id/entri/deaktivasi */
-"View License" = "Tampilkan Lisensi";
+"View License" = "Tinjau Lisensi";
 "Your Typora License" = "Lisensi Typora Anda";
 "This copy of Typora is registered with license information below." = "Kopian atas Typora ini terdaftar dengan informasi lisensi di bawah.";
 "Your trail will be expired in %@ days." = "Percobaan Anda akan berakhir dalam %@ hari.";

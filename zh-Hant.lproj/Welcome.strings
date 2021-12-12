@@ -9,69 +9,69 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "歡迎使用 Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "感謝您使用 Typora 👋. Typora 是一個極簡風格的 Markdown 編輯器和閲讀器, 可以提供無縫的編輯和閲讀體驗。";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "點此開始";
+"Check following links if you're new to Markdown or Typora." = "如果您從未瞭解過 Markdown 或 Typora，可以查閲下列連結";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "激活 Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "已經購買了 Typora？填寫下列内容進行激活。";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "電郵地址";
+"Email Address" = "電郵地址";
+"License Code" = "許可證代碼";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "幫助";
+"Find my License" = "找回我的許可證";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "我同意 <a href='https://support.typora.io/License-Agreement/'>用戶許可協議</a> and <a href='https://support.typora.io/Privacy-Policy/'>隱私條款</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "實時預覽";
+"Write and read rendered output instantly." = "無縫地書寫和閲讀";
+"Markdown Syntax" = "Markdown 語法";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "代碼塊, YAML, 任務清單, 脚注, 表格, 數學公式, 圖表";
+"Import / Export" = "匯入 / 匯入";
+"Deliver your content in various formats." = "以多種格式交付您的内容";
+"Editing Experience" = "編輯體驗";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "大綱 / 字數統計 / 專注模式 / 打字機模式";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "檔案";
+"Manage files in sidebar and search across files." = "在側邊欄管理檔案或進行全局搜索";
+"Customize" = "自定義";
+"Customize your writing experience from preferences panel." = "通過偏好設置自定義您的書寫體驗";
+"Themes" = "主題";
+"Write in the theme you like, or make one by your own." = "使用您喜歡的主題，或者自己定制一個主題";
+"And more" = "更多";
+"Explorer more topics at support.typora.io" = "從 support.typora.io 獲取更多幫助";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "新手教學";
+"Markdown Reference" = "Markdown 説明";
+"Explorer Themes" = "瀏覽主題";
+"More Topics" = "更多幫助";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora 已激活";
+"Thanks for your purchase." = "感謝您的購買";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "下一頁";
+"Please accept license agreement first" = "請先同意用戶許可協議";
+"Start %@ Days Trail" = "開始試用 %@ 天";
+"Buy License" = "購買許可證";
+"Activate" = "激活";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "關閉";
+"Deactivate" = "取消激活";
+"View License" = "查看許可證";
+"Your Typora License" = "您的 Typora 許可證";
+"This copy of Typora is registered with license information below." = "這個 Typora 拷貝以使用如下許可證激活";
+"Your trail will be expired in %@ days." = "您的試用還有 %@ 天到期。";
+"Enter License" = "輸入許可證";
+"Not Now" = "不是現在";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "請輸入有效的電郵地址";
+"Please input a valid license code"  = "請輸入有效的許可證代碼";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "您的許可證激活設備數已超過上限，\n最早被激活的設備將自動取消激活";
+"This license code has been used with a different email address." =  "該許可證已被其他電郵地址使用";
+"Unknown Error. Please contact hi@typora.io" = "未知錯誤，請聯係 hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "無法與伺服器通訊，請檢查網路后重試";
 

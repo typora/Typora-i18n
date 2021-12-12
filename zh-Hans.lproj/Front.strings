@@ -119,7 +119,7 @@
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "成功上传 {0} 张图片。";
-"Failed to upload image. Error Message:" = "上传图片失败。错误信息：";
+"Failed to upload image. Error Message:" = "上传图片失败。错误信息:";
 "Failed to Copy Image to Target Folder." = "复制图片至目标目录失败。";
 "Select Container Folder" = "选择图片存储路径";
 
@@ -172,19 +172,21 @@
 "Auto refresh on Files Panel cannot be enabled." = "无法自动刷新文件列表。";
 "Delete Permanently" = "永久删除";
 
-"Failed to upload images:" = "上传文件失败";
+"Failed to upload images:" = "上传文件失败:";
 "Uploading in progress" = "上传中";
 "Successfully uploaded {0} images, {1} failed." = "成功上传 {0} 个图片，失败 {1} 个。";
 
 "You could undo this operation later via `Edit` → `Undo`." = "您可以在之后通过 `编辑` → `撤销` 撤销该操作。";
 
-"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以 <strong>按下 ⌘ + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
-"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以 <strong>按下 CTRL + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>⌘ + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>CTRL + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
 
 "<strong>Unibody</strong> style has been turned on." = "<strong>一体化</strong> 风格已开启。";
 "You can right click titlebar to popup application menu." = "您可以右键单击标题栏以弹出应用程序菜单。";
 
 "Support Document" = "帮助文档";
 
-"You are not supposed to edit or save this file." = "请不要将改动保存到该文件";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "位于该文件夹 (%@) 的文件交由 Typora 管理，它们可能会被删除。如需更改，请将内容复制至新的路径再进行编辑。";
+
+"You are not supposed to edit or save this file." = "请不要将改动保存到该文件。";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "位于该文件夹 (%@) 的文件交由 Typora 管理，它们可能会被删除。如需更改，请将内容拷贝至新的路径再进行编辑。";
+

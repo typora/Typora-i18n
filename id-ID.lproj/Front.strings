@@ -76,10 +76,10 @@
 "Sort" = "Urut";
 "Group By Folder" = "Kumpulkan menurut Folder";
 "Sort Naturally" = "Urutkan secara Alami";
-"Sort by Name (Ascending)" = "Ordenar por nome (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordenar por data de modificación (Ascending)";
-"Sort by Name (Descending)" = "Ordenar por nome (Descending)";
-"Sort by Modification Date (Descending)" = "Ordenar por data de modificación (Descending)";
+"Sort by Name (Ascending)" = "Urutkan berdasarkan Nama (Urut Naik)";
+"Sort by Modification Date (Ascending)" = "Urutkan berdasarkan Tanggal Perubahan (Urut Naik)";
+"Sort by Name (Descending)" = "Urutkan berdasarkan Nama (Urut Turun)";
+"Sort by Modification Date (Descending)" = "Urutkan berdasarkan Tanggal Perubahan (Urut Turun)";
 "Recent Locations" = "Lokasi Terkini";
 "Location" = "Lokasi";
 "Switch File List/Tree View" = "Ubah ke Tinjauan Daftar/Pohon File";

@@ -24,7 +24,7 @@
 "Open Folder" = "Abrir carpeta";
 "Reopen with Encoding" = "Reabrir con codificación";
 "Auto" = "Auto";
-"Open Recent" = "Abrir recientes";
+"Open Recent" = "Abrir reciente";
 "Recent Locations" = "Ubicaciones recientes";
 "Clear Items" = "Limpiar elementos";
 "No Recent Files" = "No hay archivos recientes";
@@ -57,12 +57,12 @@
 "Paste as Plain Text" = "Pegar como texto plano";
 "Select All" = "Seleccionar todo";
 "Select Line/Sentence" = "Seleccionar línea/frase";
-"Select Styled Scope" = "Selecionar todo con ese estilo";
+"Select Styled Scope" = "Selecionar rango con ese estilo";
 "Select Word" = "Seleccionar palabra";
 "Delete" = "Eliminar";
 "Delete Range" = "Eliminar rango";
 "Delete Word" = "Eliminar palabra";
-"Delete Styled Scope" = "Eliminar todo con ese estilo";
+"Delete Styled Scope" = "Eliminar rango con ese estilo";
 "Delete Line/Sentence" = "Eliminar línea/sentencia";
 "Jump To" = "Saltar a";
 "Jump to Top" = "Saltar a arriba";
@@ -92,11 +92,11 @@
 "Check Grammar With Spelling" = "Comprobar gramática con ortografía";
 "Correct Spelling Automatically" = "Corregir ortografía automáticamente";
 "Substitutions" = "Sustituciones";
-"Smart Quotes" = "Frases inteligentes";
+"Smart Quotes" = "Comillas inteligentes";
 "Smart Dashes" = "Guiones inteligentes";
 "Text Replacement" = "Reemplazo de texto";
 "Speech" = "Voz";
-"Start Speaking" = "Leer en voz alta";
+"Start Speaking" = "Iniciar lectura en voz alta";
 "Stop Speaking" = "Detener lectura en voz alta";
 
 /* Paragraph Menu */

@@ -20,7 +20,7 @@
 "Seamless window only support OS X later than 10.10." = "Jendela yang mulus hanya didukung oleh OS X versi lebih baru daripada 10.10.";
 "Themes" = "Tema";
 "Open Theme Folder" = "Buka Folder Tema";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Silakan buka `help`->`Quick Start` untuk pengenalan singkat. Kunjungi http://theme.typora.io to mendapatkan lebih banya tema atau instruksi.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Silakan buka `help`->`Quick Start` untuk pengenalan singkat. Kunjungi http://theme.typora.io to mendapatkan lebih banyak tema atau instruksi.";
 "Word Count" = "Perhitungan Kata";
 "Always Show Word Count" = "Selalu Tampilkan Perhitungan Kata";
 "Font Size" = "Ukuran Huruf";
@@ -100,13 +100,13 @@
 "Check help->Install and use Pandoc from menubar for detail" = "Periksa bantuan->Pasang dan gunakan Pandoc dari bilah menu untuk rincian";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Fitur impor atau beberapa fitur ekspor memerlukan pemasangan <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Ikuti Instruksi untuk Memasang/Memperbarui Pandoc";
-"Export Failed" = "Expor Gagal";
+"Export Failed" = "Ekspor Gagal";
 "Import Failed" = "Impor Gagal";
 "Generated Image too Large" = "Gambar yang Dihasilkan Terlalu Besar";
 "Failed to export file to <em>{0}</em>" = "Gagal mengekspor file ke <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "Gagal mengimpor file dari <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "File tidak ada di <em>{0}</em>";
-"Export to..." = "Expor ke...";
+"Export to..." = "Ekspor ke...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Apakah kamu ingin menyimpan perubahan terhadap dokumen ini ?<br> Perubahan yang Anda buat akan hilang bila tidak disimpan.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Peringatan] Gagal melampirkan bookmark untuk file PDF.";
 "Dark Theme not support" = "Tema Gelap tidak mendukung";
@@ -201,7 +201,7 @@
 "Clear Recent Documents" = "Hilangkan Dokumen Terkini";
 "File Name" = "Nama File";
 "Path" = "Path";
-"Export As..." = "Expor Sebagai...";
+"Export As..." = "Ekspor Sebagai...";
 "More Formats" = "Format Lainnya";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Format file dalam 'Format Lainnya' memerlukan pemasangan <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Ada Kesalahan…";
@@ -215,7 +215,7 @@
 "Auto wrap long lines" = "Bungkus baris yang panjang secara otomatis";
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Maaf, versi Typora saat ini tidak akan mencetak warna latar belakang.\nJadi proses cetak belum mendukung tema gelap. \n\nSilakan pilih mode terang atau ekspor dokumen ini ke PDF.";
-"Export to PDF" = "Expor ke PDF";
+"Export to PDF" = "Ekspor ke PDF";
 "Pretty indentation" = "Penganjuran Cantik";
 "Update markdown reference for this image" = "Perbarui referensi markdown untuk gambar ini";
 
@@ -231,7 +231,7 @@
 "Learn More" = "Pelajari Lebih Lanjut";
 "Whitespace / Line Break" = "Spasi Putih / Pembatas Baris";
 "When Writing" = "Ketika Menulis";
-"Export / Print" = "Expor / Cetak";
+"Export / Print" = "Ekspor / Cetak";
 "Preserve sequential whitespace and single line break" = "Pertahankan spasi putih dan pembatas garis tunggal";
 "Ignore sequential whitespace and single line break" = "Acuhkan spasi putih dan pembatas garis tunggal";
 

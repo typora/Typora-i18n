@@ -1,77 +1,100 @@
-/* 
+/*
   Front.strings
   Typora
 
  by hi@typora.io
+
+ Indonesian (Bahasa Indonesia) Translation
+ by Samuel Natalius <https://github.com/snatalius> <samnatalius@outlook.com>,
+    Kylamber <https://github.com/Kylamber> <>,
+    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <nash@nashrullahalifauzi.com>.
+
+  Notice:
+
+  If there is an loanword in the Indonesian dictionary, then use it in Typora. For example, if in English there is the word `font`, then in standard Indonesian it should be written `fon` without the letter `t`, even though there is a non-standard word, `fonta` which has the same meaning.
+
+  Likewise with the word 'input' in English, when it is translated into Indonesian it does not change, because the word 'input' in the Indonesian dictionary, also has the same meaning in English. It is not appropriate to translate the English word 'input' as 'masukan' in Indonesian. This is an attempt to keep the language of the app, especially Typora, from straying too far from its native language as default.
+
+  `Copy` as `kopi` (see <https://kbbi.kemdikbud.go.id/entri/kopi>), And etc. The point is, maintain the default language, if nothing is right, then look for words that have almost the same meaning.
+
+  Let's contribute to Typora, please look at the book, "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)" in <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf>. Check it too <https://kbbi.kemdikbud.go.id/> and/or <http://tesaurus.kemdikbud.go.id/>.
 */
 
 /*
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Selamat datang di Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih telah menggunakan Typora 👋. Typora adalah editor markdown dan pembaca markdown minimal, yang memberikan Anda pengalaman mulus antara konten gaya kaya yang dirender dan kode sumbernya.";
+"Welcome to Typora" = "Selamat Datang di Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih telah menggunakan Typora 👋. Typora adalah editor markdown dan pembaca markdown minimal, ia memberi Anda pengalaman mulus antara konten gaya kaya yang dirender dan kode sumbernya.";
 
-"Get Start" = "Memulai";
-"Check following links if you're new to Markdown or Typora." = "Lihat tautan berikut jika Anda baru mengenal Markdown atau Typora.";
+"Get Start" = "Mari Mulai"; /* See <https://kbbi.kemdikbud.go.id/entri/mari> */
+"Check following links if you're new to Markdown or Typora." = "Cek tautan berikut jika Anda baru mengenal Markdown atau Typora.";
 
 "Activate Typora" = "Aktifkan Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Sudah memiliki lisensi? Isi formulir di bawah ini dan aktifkan Typora secara instan.";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Sudah membeli lisensi? Isi formulir di bawah ini dan aktifkan Typora secara instan.";
 
-"Email" = "Surel";
-"Email Address" = "Alamat Surel";
+"Email" = "Pos-el"; / Standard word `email` in Indonesian is `pos-el`, see <https://kbbi.kemdikbud.go.id/entri/pos-el> */
+"Email Address" = "Alamat Pos-el";
 "License Code" = "Kode Lisensi";
 
 "Help" = "Bantuan";
-"Find my License" = "Temukan lisensi saya";
+"Find my License" = "Temukan Lisensi Saya";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Terima <a href='https://support.typora.io/License-Agreement/'>Perjanjian Lisensi</a> dan <a href='https://support.typora.io/Privacy-Policy/'>Kebijakan Privasi</a>.";
 
 "Live Preview" = "Pratinjau Langsung";
-"Write and read rendered output instantly." = "Tulis dan baca hasil yang dirender secara instan.";
+"Write and read rendered output instantly." = "Tulis dan baca keluaran yang dirender secara instan.";
 "Markdown Syntax" = "Sintaksis Markdown";
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blok kode, YAML, tugas, catatan kaki, tabel, matematika, diagram";
 "Import / Export" = "Impor / Ekspor";
-"Deliver your content in various formats." = "Kirimkan konten anda dalam berbagai format.";
-"Editing Experience" = "Pengalaman Mengedit";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Ikhtisar / Jumlah Kata / Mode Fokus / Mode Mesin Tik";
+"Deliver your content in various formats." = "Kirimkan konten Anda dalam berbagai format.";
+"Editing Experience" = "Pengalaman Pengeditan"; /* `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Garisbesar / Jumlah Kata / Mode Fokus / Mode Mesin Tik";
 
-"Files" = "File";
-"Manage files in sidebar and search across files." = "Kelola file di bilah sisi dan cari di seluruh file.";
-"Customize" = "Sesuaikan";
-"Customize your writing experience from preferences panel." = "Sesuaikan pengalaman menulis Anda melalui panel preferensi.";
+"Files" = "Fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
+"Manage files in sidebar and search across files." = "Kelola fail di bilah sisi dan cari di seluruh fail.";
+"Customize" = "Kustomisasi"; /* See <https://id.wikipedia.org/wiki/Wikipedia:Kustomisasi> */
+"Customize your writing experience from preferences panel." = "Kostumisasikan pengalaman menulis Anda melalui panel preferensi.";
 "Themes" = "Tema";
 "Write in the theme you like, or make one by your own." = "Tulis dalam tema yang Anda suka, atau buat sendiri.";
 "And more" = "Dan lainnya";
-"Explorer more topics at support.typora.io" = "Jelajahi topik lainnya di support.typora.io";
+"Explorer more topics at support.typora.io" = "Eksplorasi topik lainnya di support.typora.io"; /* See <https://kbbi.kemdikbud.go.id/entri/eksplorasi> */
 
-"Quick Start" = "Mulai Cepat";
+"Quick Start" = "Mulai Segera"; /* See <https://kbbi.kemdikbud.go.id/entri/segera> */
 "Markdown Reference" = "Referensi Markdown";
-"Explorer Themes" = "Jelajahi tema";
-"More Topics" = "Topik lainnya";
+"Explorer Themes" = "Eksplorasi Tema";
+"More Topics" = "Topik Lainnya";
 
 "Typora Activated" = "Typora Diaktifkan";
 "Thanks for your purchase." = "Terima kasih atas pembelian Anda.";
 
 "Next" = "Lanjut";
-"Please accept license agreement first" = "Harap terima perjanjian lisensi terlebih dahulu ";
-"Start %@ Days Trail" = "Mulai %@ hari percobaan";
-"Buy License" = "Beli lisensi";
+"Please accept license agreement first" = "Silakan terima perjanjian lisensi dahulu";
+"Start %@ Days Trail" = "Mulai %@ Hari Percobaan";
+"Buy License" = "Beli Lisensi";
 "Activate" = "Aktifkan";
 
 "Close" = "Tutup";
-"Deactivate" = "Nonaktifkan";
-"View License" = "Lihat Lisensi";
+"Deactivate" = "Deaktivasi"; /* See https://kbbi.kemdikbud.go.id/entri/deaktivasi */
+"View License" = "Tinjau Lisensi";
 "Your Typora License" = "Lisensi Typora Anda";
-"This copy of Typora is registered with license information below." = "Salinan Typora ini terdaftar dengan informasi lisensi di bawah.";
+"This copy of Typora is registered with license information below." = "Kopian atas Typora ini terdaftar dengan informasi lisensi di bawah.";
 "Your trail will be expired in %@ days." = "Percobaan Anda akan berakhir dalam %@ hari.";
 "Enter License" = "Masukkan Lisensi";
 "Not Now" = "Tidak Sekarang";
 
-"Please input a valid email address" = "Harap masukkan alamat email yang valid";
-"Please input a valid license code"  = "Harap masukkan kode lisensi yang valid";
+"Please input a valid email address" = "Silakan masukkan alamat pos-el yang valid";
+"Please input a valid license code"  = "Silakan masukkan kode lisensi yang valid";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Lisensi Anda telah melewati jumlah perangkat maksimum.\nPerangkat tertua telah ditidakdaftarkan secara otomatis.";
-"This license code has been used with a different email address." =  "Kode lisensi ini telah dipakai oleh alamat email yang berbeda.";
-"Unknown Error. Please contact hi@typora.io" = "Kesalahan tidak dikenal. Harap hubungi hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Gagal mengakses server lisensi. Harap periksa jaringan Anda atau coba lagi nanti.";
+"This license code has been used with a different email address." =  "Kode lisensi ini telah dipakai oleh alamat pos-el yang berbeda.";
+"Unknown Error. Please contact hi@typora.io" = "Eror Takdiketahui. Silakan hubungi hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Gagal mengakses server lisensi. Harap cek jaringan Anda atau coba lagi nanti.";
 
+"Enter a license code to support our development ❤" = "Masukkan kode lisensi untuk mendukung pengembangan kami ❤";
+"Re-enter Email" = "Kembali masukkan Pos-el";
+"Email address confirmation does not match." = "Konfirmasi alamat pos-el tidak cocok.";
+
+"Are you sure to deactivate Typora on this device?" = "Apakah Anda yakin untuk mendeaktivasi Typora di perangkat ini?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Lisensi Anda telah melebihi jumlah perangkat maksimum.\nJika Anda mengklik \"Lanjutkan Aktivasi\", perangkat ini akan diaktifkan dan perangkat tertua akan dibatalkan pendaftarannya secara otomatis.";
+"Continue Activation" = "Lanjutkan Aktivasi";

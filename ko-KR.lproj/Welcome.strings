@@ -9,69 +9,69 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Typora에 오신 것을 환영합니다.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora를 이용해 주셔서 감사합니다 👋.  Typora는 가볍고 최적화된 MarkDown 편집기이자 MarkDown 리더로서, 렌더링된 다양한 스타일 콘텐츠와 소스 코드 간의 원활한 경험을 제공합니다";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "시작하기";
+"Check following links if you're new to Markdown or Typora." = "Markdown 또는 Typora를 처음 사용하는 경우 다음 링크를 확인하십시오.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Typora 활성화";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "이미 라이센스를 구입하셨습니까? 아래 양식을 작성하고 Typora를 즉시 활성화하십시오.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "이메일";
+"Email Address" = "이메일 주소";
+"License Code" = "라이센스 코드";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "도움말";
+"Find my License" = "내 라이센스 찾기";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>사용권 계약</a> 과 <a href='https://support.typora.io/Privacy-Policy/'>개인정보 보호 정책</a> 동의.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "실시간 미리보기";
+"Write and read rendered output instantly." = "쓰는 즉시 렌더링된 출력을 읽을 수 있습니다.";
+"Markdown Syntax" = "Markdown 문법";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "코드 블럭, YAML, 작업, 각주, 표, 수학 수식, 다이어그램";
+"Import / Export" = "가져오기 / 내보내기";
+"Deliver your content in various formats." = "다양한 포맷으로 컨텐츠 전달하기.";
+"Editing Experience" = "편집 경험";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "개요 / 단어 수 / 초점 모드 / 타자기 모드";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
+"Files" = "파일";
+"Manage files in sidebar and search across files." = "사이드바에서 파일을 관리하고 여러 파일을 검색합니다.";
 "Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
+"Customize your writing experience from preferences panel." = "환경 설정 패널에서 사용자 정의 쓰기 경험을 정의 할 수 있습니다.";
 "Themes" = "Themes";
 "Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
 "And more" = "And more";
 "Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "빠른 시작";
+"Markdown Reference" = "Markdown 참조";
+"Explorer Themes" = "테마 탐색";
+"More Topics" = "더 많은 주제";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora 활성화 상태";
+"Thanks for your purchase." = "구매 해주셔서 감사합니다.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "다음";
+"Please accept license agreement first" = "먼저 라이센스 계약에 동의하십시오";
+"Start %@ Days Trail" = " %@ 일 체험판 시작하기";
+"Buy License" = "라이센스 구매";
+"Activate" = "활성화";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "닫기";
+"Deactivate" = "비활성화";
+"View License" = "라이센스 보기";
+"Your Typora License" = "귀하의 Typora 라이센스";
+"This copy of Typora is registered with license information below." = "이 Typora는 아래 라이센스 정보로 등록되어 있습니다..";
+"Your trail will be expired in %@ days." = "귀하의 체험판은 %@ 일 후에 만료 됩니다.";
+"Enter License" = "라이센스 입력";
+"Not Now" = "나중에";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
+"Please input a valid email address" = "유효한 이메일 주소를 입력하십시오";
+"Please input a valid license code"  = "유효한 라이센스 코드를 입력하십시오";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "라이센스가 최대 장치 수를 초과했습니다.\n가장 오래된 장치가 자동으로 등록 취소되었습니다.";
 "This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Unknown Error. Please contact hi@typora.io" = "알수없는 오류. hi@typora.io로 연락주세요";
+"Failed to access the license server. Please check your network or try again later." = "라이센스 서버에 액세스하지 못했습니다. 네트워크를 확인하거나 나중에 다시 시도하십시오.";
 

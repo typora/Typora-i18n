@@ -4,7 +4,7 @@
 
  by hi@typora.io
 
- Dutch translations by Melle Dijkstra & André van Delft
+ Dutch translations by Melle Dijkstra, André van Delft & Mark Walet
 
 */
 
@@ -78,7 +78,6 @@
 "Upload Local Images via iPic" = "Upload lokale afbeeldingen via iPic";
 "When Insert Local Image" = "Wanneer lokaal bestand wordt ingevoegd";
 "Copy Image File to Folder" = "Afbeelding kopiëren naar map";
-"Upload Image via iPic" = "Upload afbeelding via iPic";
 "Use Image Root Path" = "Gebruik de hoofdmap van de afbeelding";
 "Line Endings" = "Regeleinden";
 "Windows Line Endings (CRLF)" = "Windows-regeleindes (CRLF)";
@@ -114,23 +113,23 @@
 "Decrease Heading Level" = "Titelniveau verlagen";
 "Table" = "Tabel";
 "Code Fences" = "Codeblok";
-"Math Block" = "Wiskundeblok";
+"Math Block" = "Formule";
 "Quote" = "Citaat";
-"Ordered List" = "Geordende Lijst";
-"Unordered List" = "Ongeordende Lijst";
+"Ordered List" = "Genummerde lijst";
+"Unordered List" = "Ongenummerde lijst";
 "Task List" = "Takenlijst";
 "Task Status" = "Taakstatus";
 "Toggle Task Status" = "Schakel taakstatus in/uit";
 "Mark as Complete" = "Markeer als voltooid";
 "Mark as Incomplete" = "Markeer als niet-voltooid";
-"List Indentation" = "Lijst inspringen";
+"List Indentation" = "Lijst inspringing";
 "Indent" = "Inspringen";
 "Outdent" = "Uitspringen";
 "Link Reference" = "Link-referentie";
 "Footnotes" = "Voetnoten";
 "Horizontal Line" = "Horizontale Lijn";
 "Table of Contents" = "Inhoudsopgave";
-"YAML Front Matter" = "YAML voorwerk";
+"YAML Front Matter" = "YAML Front Matter";
 
 /* Format Menu */
 "Format" = "Opmaak";
@@ -143,7 +142,7 @@
 "Highlight" = "Markeer";
 "Superscript" = "Superscript";
 "Subscript" = "Subscript";
-"Comment" = "Commentaar";
+"Comment" = "Notitie";
 "Hyperlink" = "Koppeling";
 "Image" = "Afbeelding";
 "Clear Format" = "Opmaak Wissen";
@@ -166,7 +165,7 @@
 "Zoom In" = "Inzoomen";
 "Zoom Out" = "Uitzoomen";
 "Switch Between Opened Documents" = "Schakel tussen geopende documenten";
-"Toggle DevTools" = "Schakel DevTools in/uit";
+"Toggle DevTools" = "Schakel ontwikkelaars-functies in/uit";
 
 
 /* Themes Menu */
@@ -182,7 +181,7 @@
 "Help" = "Help";
 "Privacy Policy" = "Privacybeleid";
 "Credits" = "Credits";
-"Change Log" = "Veranderingen";
+"Change Log" = "Nieuwe functies";
 "Website" = "Website";
 "Feedback" = "Feedback";
 "About" = "Over de applicatie";
@@ -191,8 +190,8 @@
 "Block Styles" = "Blokstijlen";
 "Inline Styles" = "Stijlen in tekst";
 "List Styles / Remove Block" = "Geef stijlen weer / Verwijder Blok";
-"Exit Source Code Mode" = "Sluit broncode-modus";
-"Toggle Source Code Mode" = "Schakel broncode-modus in/uit";
+"Exit Source Code Mode" = "Sluit Broncode Modus";
+"Toggle Source Code Mode" = "Toon/verberg Broncode Modus";
 
 /* Extra Context Menu */
 "Table" = "Tabel";
@@ -213,7 +212,7 @@
 "Reveal in Finder" = "Weergeven in Finder";
 "Open Link" = "Open Link";
 "Reveal in Sidebar" = "Weergeven in zijbalk";
-"Open in New Window" = "Openen in nieuw scherm";
+"Open in New Window" = "Open in nieuw scherm";
 "Copy File Path" = "Kopieer bestandslocatie";
 "New File" = "Nieuw bestand";
 "Rename" = "Hernoemen";
@@ -222,7 +221,7 @@
 /* Electron */
 "Learn Spelling" = "Leer spelling";
 "Copy / Paste As…" = "Kopiëren / Plakken als…";
-"Math" = "Wiskunde";
+"Math" = "Formule";
 "Insert" = "Invoegen";
 "Inspect Element" = "Element Inspecteren";
 "Copy to MS Word" = "Kopiëren naar MS Word";
@@ -240,10 +239,93 @@
 "Copy '%@'" = "Kopieer '%@'";
 "Copy to %@" = "Kopiëren naar %@";
 "Copy Image to" = "Kopieer afbeelding naar";
-"Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Afbeeldingslocatie";
 
+"Learn More" = "Lees meer";
+"Whitespace and Line Breaks" = "Witruimtes en regeleindes";
+"Indent first line of paragraphs" = "Spring de eerste regel van een paragraaf in";
+"Preserve single line break" = "Behoud enkele regeleindes";
+"Visible <br/>" = "Zichtbare <br/>";
+
+"Save All" = "Alles Opslaan";
+"New Window" = "Nieuw scherm";
+"Reopen Closed File" = "Heropen afgesloten bestand";
+
+"Global Image Settings" = "Globale Afbeeldingsinstellingen";
+"Smart Punctuation" = "Slimme Interpunctie";
+"Convert on Input" = "Converteren tijdens invoer";
+"Convert on Rendering" = "Converteren tijdens weergave";
+"Remap Unicode Punctuation on Parse" = "Unicode-interpunctie opnieuw toewijzen tijdens parse";
+"More Options" = "Meer opties";
+
+"HTML Block" = "HTML Blok";
+"Delete Block" = "Blok verwijderen";
+"Delete %@" = "Verwijder %@";
+"Play" = "Start";
+"Pause" = "Pauzeer";
+
+"Spell Check" = "Spellingscontrole";
+"Unlearn Spelling" = "Spelling afleren";
+"Properties" = "Eigenschappen";
+
 "Search" = "Zoeken";
+"Copy without Theme Styling" = "Kopiëren zonder opmaak";
+"Recent Files" = "Recente bestanden";
+"File Results" = "Resultaten";
 
 "Insert Table" = "Tabel invoegen";
 "Insert Image" = "Afbeelding invoegen";
+"Allow Magnification" = "Uitvergroten toestaan";
+
+"Move Row Up" = "Rij naar boven verplaatsen";
+"Move Row Down" = "Rij naar onder verplaatsen";
+"Move Column Left" = "Kolom naar links verplaatsen";
+"Move Column Right" = "Kolom naar rechts verplaatsen";
+
+"Zoom Image" = "Afbeelding uitvergroten";
+"Zoom Image to %@" = "Vergroot afbeelding naar %@";
+
+"Copy as Plain Text" = "Kopiëren als platte tekst";
+
+"Selection" = "Selectie";
+"Start Speaking" = "Begin met praten";
+"Stop Speaking" = "Stop met praten";
+"Check Updates" = "Controleren op updates";
+
+"HTML (without Styles)" = "HTML (zonder stijlen)";
+
+"Highlight Current Header" = "Laat huidige titel zien";
+"Expand All" = "Klap alles uit";
+"Collapse All" = "Klap alles in";
+"Collapsible Outline" = "Klap overzicht in";
+"Flat Outline" = "Plat overzicht";
+"Articles (List View)" = "Artikelen (Lijstweergave)";
+"File Tree (Tree View)" = "Bestanden (Boomweergave)";
+"Filter" = "Filter";
+
+"Upload Image" = "Afbeelding uploaden";
+"Upload All Local Images" = "Upload alle lokale bestanden";
+"Open Image in Browser" = "Open afbeelding in browser";
+"Copy Image" = "Kopieer afbeelding";
+
+"More Actions" = "Meer acties";
+"Get Info" = "Meer informatie";
+
+"Export with Previous" = "Exporteer met vorige";
+"Export and Overwrite with Previous" = "Exporteer en overschrijf met vorige";
+
+"Emoji and Symbols" = "Emoji en symbolen ";
+
+"Insert Final New Line On Save" = "Nieuwe regel invoegen bij opslaan";
+"Hyperlink Actions" = "Link acties";
+"Copy Link Address" = "Kopieer linkadres";
+
+"Click" = "Klik";
+
+"Export Setting" = "Exporteer instellingen";
+
+"My License" = "Mijn licentie";
+"Registration / Activation" = "Registratie / Activatie";
+
+"Select Paragraph/Block" = "Selecteer paragraaf/blok";
+

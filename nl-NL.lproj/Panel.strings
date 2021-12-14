@@ -4,7 +4,7 @@
 
  by hi@typora.io
 
- Dutch translations by Melle Dijkstra & André van Delft
+ Dutch translations by Melle Dijkstra, André van Delft & Mark Walet
 
 */
 
@@ -30,6 +30,7 @@
 "Show Outline Panel by Default" = "Laat het overzichtspaneel standaard zien";
 "Collapsible Outline on Left Panel" = "Inklapbaar overzicht op linkerpaneel";
 "Save without asking when\nswitch files on side panel" = "Sla op zonder te vragen wanneer er tussen bestanden wordt geschakeld op het zijpaneel";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled."= "Gewijzigde bestanden zullen worden opgeslagen zonder bevestiging wanneer u wisselt van bestanden. \nDit is altijd ingeschakeld wanneer \"Vraag om wijzigingen te bouwen wanneer u een document sluit\" is uitgeschakeld.";
 "Language" = "Taal";
 "System Language" = "Systeemtaal";
 
@@ -115,8 +116,6 @@
 "Converting file using Pandoc. This may take some time." = "Bezig met converteren van bestang met Pandoc. Dit kan even duren.";
 "Exporting file using Pandoc. This may take some time." = "Bezig met exporteren van bestand met Pandoc. Dit kan even duren.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Uploaden van afbeeldingen via iPic...";
 "Uploading in progress…" = "Bezig met uploaden...";
 "Do not show this again" = "Niet meer laten zien";
 
@@ -133,7 +132,7 @@
 "In Selection" = "In selectie";
 "Panel" = "Paneel";
 
-/* Windows Prefernce Panel*/
+/* Windows Preferences Panel*/
 "Appearance" = "Uiterlijk";
 "System Native" = "Systeem-eigen";
 "Unibody" = "Unibody";
@@ -149,8 +148,6 @@
 "Default Line Ending" = "Standaard regeleinde";
 "Line ending for new file" = "Regeleinde voor nieuw bestand";
 "Spell Check" = "Spellingscontrole";
-"(support US English only)" = "(ondersteun alleen US English)";
-"Enable spell check" = "Spellingscontrole inschakelen";
 "Auto correct spelling" = "Automatisch spelling corrigeren";
 "System" = "Systeem";
 "Privacy" = "Privacy";
@@ -169,19 +166,20 @@
 "This feature require macOS >= 10.11" = "Deze functionaliteit vereist macOS >= 10.11";
 "One More Step" = "Nog één stap";
 "Notice" = "Merk op";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Deze functionaliteit vereist een installatie van iPic. De afbeeldingen waar naar verwezen wordt zullen geüpload worden naar de cloud-services via iPic. Merk op dat de standaard cloud-service het verwijderen van geüploade bestanden niet ondersteunt.";
 
 "%d Images Failed to Upload." = "%d afbeeldingen niet gelukt te uploaden.";
 "%d Succeeded," = "%d geslaagd,";
-"Enable this feature on preferences panel" = "Deze functionaliteit kan bij het voorkeuren paneel ingeschakeld worden";
+"Enable this feature on preferences panel" = "Schakel deze functionaliteit in via instellingen";
+"The option `%@` must be enabled first to automatically upload images." = "The optie `%@` moet ingesteld zijn om automatisch afbeeldingen te kunnen uploaden.";
 "%@ is a file, not a directory" = "%@ is een bestand, niet een map";
 "Copy Images To…" = "Kopieer Afbeeldingen Naar…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora probeert de nieuwe afbeelding te kopiëren naar de map %@. Deze map bestaat echter niet. Wilt u de map aanmaken?";
 "Create Folder and Continue" = "Maak map en ga door";
 "Document must be saved first" = "Document moet eerst opgeslagen worden";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kopieert de nieuw ingevoegde afbeelding naar map op geselecteerd relatief pad, dus sla eerst het bestand op.";
 "Open Operation Failed" = "Open-actie Mislukt";
 
-"Support Documentation" = "Ondersteun documentatie";
+"Support Documentation" = "Ondersteunings-documentatie";
 
 "Markdown File" = "Markdownbestand";
 "Plain Text File" = "Bestand met platte tekst";

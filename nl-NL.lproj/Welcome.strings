@@ -3,6 +3,8 @@
   Typora
 
  by hi@typora.io
+
+ Dutch translations by Melle Dijkstra, André van Delft & Mark Walet
 */
 
 /*
@@ -10,7 +12,7 @@
  */
 
 "Welcome to Typora" = "Welkom bij Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Bedankt om Typora te gebruiken 👋. Typora is een minimale markdown-editor en markdown-lezer, die een naadloze ervaring verzorgt tussen geformatteerde tekst en zijn broncode.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Bedankt voor het gebruik van Typora 👋. Typora is een minimale markdown-editor en markdown-lezer, die een naadloze ervaring verzorgt tussen geformatteerde tekst en zijn broncode.";
 
 "Get Start" = "Ga van start";
 "Check following links if you're new to Markdown or Typora." = "Raadpleeg volgende links als Markdown of Typore nieuw voor je is.";
@@ -51,13 +53,13 @@
 "More Topics" = "Meer onderwerpen";
 
 "Typora Activated" = "Typora geactiveerd";
-"Thanks for your purchase." = "Bedankt voor je aankoop.";
+"Thanks for your purchase." = "Bedankt voor uw aankoop.";
 
 "Next" = "Volgende";
 "Please accept license agreement first" = "Gelieve eerst de licentieovereenkomst te aanvaarden.";
-"Start %@ Days Trail" = "Start %@ dagen testperiode";
-"Buy License" = "Koop licentie";
-"Activate" = "Activeer";
+"Start %@ Days Trail" = "Start %@ dagen proefperiode";
+"Buy License" = "Koop een licentie";
+"Activate" = "Activeren";
 
 "Close" = "Sluiten";
 "Deactivate" = "Deactiveer";
@@ -75,3 +77,11 @@
 "Unknown Error. Please contact hi@typora.io" = "Onbekende fout. Gelieve hi@typora.io te contacteren";
 "Failed to access the license server. Please check your network or try again later." = "De licentieserver is onbereikbaar. Gelieve je netwerk te controleren of later opnieuw te proberen.";
 
+"Enter a license code to support our development ❤" = "Voeg een licentiecode toe om het development te ondersteunen ❤";
+"Re-enter Email" = "Bevestig email";
+"Email address confirmation does not match." = "E-mailadres komt niet overeen.";
+
+"Are you sure to deactivate Typora on this device?" = "Weet u zeker dat u Typora wilt deactiveren op dit apparaat?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Uw licentie heeft het maximum aantal apparaten in gebruik.\nAls u up \"Alsnog activeren\" klikt, zal dit apparaat geactiveerd worden en het oudste apparaat gedeactiveerd.";
+"Continue Activation" = "Alsnog activeren";

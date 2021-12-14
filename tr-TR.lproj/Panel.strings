@@ -40,7 +40,7 @@
 "Use relative path if possible" = "Mümkünse ilgili konumu kullan";
 "Auto Pair" = "Otomatik Eşleştirme";
 "Auto pair brackets and quotes" = "Köşeli parantez ve alıntıları otomatik olarak eşle";
-"Auto pair common Markdown syntax" = "Genel Markdown sözdizilimlerini otomatik olarak eşle";
+"Auto pair common Markdown syntax" = "Genel Markdown söz dizilimlerini otomatik olarak eşle";
 "Live Rendering" = "Anlık Oluşturma";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Odaklamada basit öbeklerin \n(başlıklar da dahil olmak üzere ve benzerleri) kaynaklarını göster";
 "Default Copy Behavior" = "Varsayılan Kopyalama Davranışı";
@@ -51,14 +51,14 @@
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Değiştirilmiş ayarlar yeniden başlatmanın ardından uygulanacaktır.)";
-"Syntax Support" = "Sözdizimi Desteği";
+"Syntax Support" = "Söz Dizimi Desteği";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Satıriçi Matematik  (örneğin: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    (örneğin: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superscript (örneğin: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Vurgu     (örneğin: ==key==)";
 "Diagrams" = "Diyagramlar";
 "(Sequence, Flowchart and Mermaid)" = "(Sıra numarası, Akış Şeması ve Mermaid)";
-"Syntax Preference" = "Sözdizimi Ayarları";
+"Syntax Preference" = "Söz Dizimi Ayarları";
 "(only applies to styles created from menubar or hybrid view)" = "(sadece menü çubuğundan veya hibrit görüntülemeden oluşturulmuş stiller üzerine uygulanır)";
 "Strict Mode" = "Katı Mod";
 "(more strict to GFM spec)" = "(GFM özelliklerine daha katı)";
@@ -211,7 +211,7 @@
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Üzgünüz, Typora'nın güncel versiyonu arkaplan rengini yazdırmaz.\nBu sebepten koyu tema henüz yazdırmak için destelenmemektedir. \n\nLütfen açık bir tema seçin veya bu belgeyi PDF'e aktarın.";
 "Export to PDF" = "PDF'e aktar";
 "Pretty indentation" = "Düzenli girintileme";
-"Update markdown reference for this image" = "Bu resmin referansı için mardown'u güncelle";
+"Update markdown reference for this image" = "Bu resmin referansı için markdown'u güncelle";
 
 "No special action" = "Özel eylem yok";
 "Copy image to current folder (./)" = "Resmi açık klasöre kopyala (./)";

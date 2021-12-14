@@ -24,7 +24,7 @@
 "Search" = "Ara";
 "Replace" = "Değiştir";
 "All" = "Tümü";
-"Search text not found in article" = "Belgede aranan metin bulunamadı";
+"Search text not found in article" = "Aranan metin belgede bulunamadı";
 "search text" = "Metni ara";
 
 /* Quick Open */
@@ -43,7 +43,7 @@
 "Delete Table" = "Tabloyu kaldır";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sizin YAML Front Matter ayarlarınız veya genel ayarlarınıza göre <code id='image-create-folder-target'></code> dosyasına yeni yerleştirilen resmi kopyalamaya çalışıyor. Ancak hedef gösterilen klasör yok, Şimdi oluşturmak ister misiniz?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sizin YAML Front Matter ayarlarınız veya genel ayarlarınıza göre <code id='image-create-folder-target'></code> dosyasına yeni yerleştirilen resmi kopyalamaya çalışıyor. Ancak hedef gösterilen klasör yok, şimdi oluşturmak ister misiniz?";
 "Create Folder" = "Yeni Klasör Oluştur";
 
 /* Math */
@@ -65,7 +65,7 @@
 "Unpin Outline Panel" = "Özet panelini kaldırın";
 "Open Folder..." = "Klasörü Aç...";
 "Action" = "Eylemler";
-"Close Sidebar Menu" = "Kenar Çubuğunu Menüsünü Kapat";
+"Close Sidebar Menu" = "Kenar Çubuğu Menüsünü Kapat";
 "Reveal in Finder" = "Dosya Konumunu Göster";
 "Reveal in File Explorer" = "Dosya Konumunu Göster";
 "Refresh Folder" = "Klasörü Yenile";
@@ -161,13 +161,13 @@
 "Open in…" = "… Dosya konumunda aç";
 "Quick Look" = "Genel Bakış";
 
-"Filter" = "Flitre";
+"Filter" = "Filtre";
 "No result found." = "Sonuç bulunamadı.";
 "Continue & Overwrite" = "Devam Et ve Üzerine Yaz";
 "The file is read-only, or you do not have right permissions to modify the file." = "Dosya yazılmaya karşı korumalı veya dosyayı düzenlemek için gerekli izinlere sahip değilsiniz.";
 
 "Learn Data Recovery" = "Veri kurtarmayı öğren";
-"Auto refresh on Files Panel cannot be enabled." = "Dosya panelinde otomatik yenileme aktifleştrilemiyor.";
+"Auto refresh on Files Panel cannot be enabled." = "Dosya panelinde otomatik yenileme aktifleştirilemiyor.";
 "Delete Permanently" = "Kalıcı olarak sil";
 
 

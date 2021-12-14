@@ -47,8 +47,8 @@
 
 /* Edit Menu */
 "Edit" = "Düzenle";
-"Undo" = "Geri All";
-"Redo" = "Yinile";
+"Undo" = "Geri Al";
+"Redo" = "Yinele";
 "Cut" = "Kes";
 "Copy" = "Kopyala";
 "Paste" = "Yapıştır";
@@ -114,9 +114,9 @@
 "Quote" = "Alıntı";
 "Ordered List" = "Düzenli Liste";
 "Unordered List" = "Düzensiz Liste";
-"Task List" = "Yapılıcaklar Listesi";
-"Task Status" = "Yapılıcaklar Durumu";
-"Toggle Task Status" = "Yapılıcaklar Durumunu Aç/Kapat";
+"Task List" = "Yapılacaklar Listesi";
+"Task Status" = "Yapılacaklar Durumu";
+"Toggle Task Status" = "Yapılacaklar Durumunu Aç/Kapat";
 "Mark as Complete" = "Tamamlandı Olarak İşaretle";
 "Mark as Incomplete" = "Tamamlanmadı Olarak İşaretle";
 "List Indentation" = "Girintileri Listele";
@@ -131,10 +131,10 @@
 /* Format Menu */
 "Format" = "Biçim";
 "Strong" = "Sert";
-"Emphasis" = "Italik";
+"Emphasis" = "İtalik";
 "Underline" = "Altı Çizgili";
 "Code" = "Kod";
-"Inline Math" = "Satıriçi Matematik";
+"Inline Math" = "Satır İçi Matematik";
 "Strike" = "Orta Çizgili";
 "Highlight" = "Vurgulu";
 "Superscript" = "Superscript";
@@ -185,7 +185,7 @@
 
 /* Touchbar */
 "Block Styles" = "Öbek Stilleri";
-"Inline Styles" = "Satıriçi Stilleri";
+"Inline Styles" = "Satır İçi Stilleri";
 "List Styles / Remove Block" = "Liste Stilleri / Öbeği Kaldır";
 "Exit Source Code Mode" = "Kaynak Kodu Modundan Çık";
 "Toggle Source Code Mode" = "Kaynak Kodu Modunu Aç/Kapat";
@@ -195,9 +195,9 @@
 "Add Row Above" = "Üste Satır Ekle";
 "Add Row Below" = "Alta Satır Ekle";
 "Delete Row" = "Satırı Sil";
-"Add Column Before" = "Geriye Stün Ekle";
-"Add Column After" = "İleriye Stün Ekle";
-"Delete Column" = "Sütünu Sil";
+"Add Column Before" = "Geriye Sütun Ekle";
+"Add Column After" = "İleriye Sütun Ekle";
+"Delete Column" = "Sütunu Sil";
 "Copy Table" = "Tabloyu Kopyala";
 "Delete Table" = "Tabloyu Sil";
 "Insert Paragraph After" = "Sonrasına Paragraf Ekle";
@@ -230,7 +230,7 @@
 
 /* Related Panel */
 "Open Failed" = "Açış Sırasında Hata Meydana Geldi";
-"File or folder does not exist." = "Dosya Veya Klasör Bulunamadı.";
+"File or folder does not exist." = "Dosya veya Klasör Bulunamadı.";
 
 "Prettify Source Code" = "Kaynak Kodunu Güzelleştir";
 "Copy '%@'" = "'%@' Ögesini Kopyala";
@@ -275,9 +275,9 @@
 "Allow Magnification" = "Yakınlaştırmaya İzin Ver";
 
 "Move Row Up" = "Satırı Yukarı Taşı";
-"Move Row Down" = "Satırı Aşşağı Taşı";
-"Move Column Left" = "Sütünu Sola Taşı";
-"Move Column Right" = "Sütünu Sağa Taşı";
+"Move Row Down" = "Satırı Aşağı Taşı";
+"Move Column Left" = "Sütunu Sola Taşı";
+"Move Column Right" = "Sütunu Sağa Taşı";
 
 "Zoom Image" = "Resmi Yakınlaştır";
 "Zoom Image to %@" = "%@ 'a Resmi Yakınlaştır";

@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com, arnaud@ligny.org and nicolas@leperlier.co
 */
 
 /* Common */
@@ -33,14 +33,14 @@
 "Gathering more results" = "Réception de résultats supplémentaires en cours";
 
 /* Tables */
-"Insert Table" = "Insérer Tableau";
+"Insert Table" = "Insérer un tableau";
 "Columns" = "Colonnes";
 "Rows" = "Lignes";
-"Align Left" = "Aligner à Gauche";
-"Align Center" = "Aligner au Centre";
-"Align Right" = "Aligner à Droite";
-"Resize Table" = "Redimensioner Tableau";
-"Delete Table" = "Effacer Tableau";
+"Align Left" = "Aligner à gauche";
+"Align Center" = "Aligner au centre";
+"Align Right" = "Aligner à droite";
+"Resize Table" = "Redimensionner le tableau";
+"Delete Table" = "Effacer le tableau";
 
 /* Images */
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier l’image nouvellement insérée au dossier <code id='image-create-folder-target'></code>, comformément à votre YAML Front Matter setting ou à vos préférences globales. Cependant, le dossier ciblé n’existe pas, voulez-vous le créer ?";
@@ -118,7 +118,7 @@
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "{0} images envoyées avec succès.";
-"Failed to upload image. Error Message:" = "Échec de l'envoi d’image. Message d’erreur:";
+"Failed to upload image. Error Message:" = "Échec de l'envoi d’image. Message d’erreur :";
 "Failed to Copy Image to Target Folder." = "Échec de la copie de l’image vers le dossier cible.";
 "Select Container Folder" = "Sélectionner dossier d’origine";
 
@@ -135,16 +135,16 @@
 "Select image from local file" = "Choisissez une image de vos fichiers locaux";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Impossible d’ouvrir l’emplacement <code>$1</code>, voulez-vous dire <a href='https://$3'>https://$2</a> ?";
 
-"select a language" = "Choisissez un langage";
+"select a language" = "choisissez une langue";
 "Finish Editing" = "Finir l’édition";
 
 "Revert advanced setting file to default one ?" = "Revenir des paramètres de fichiers avancés vers les paramètres par défaut ?";
 
-"Select Spell Check Language" = "Choisir le langage de vérification orthographique";
+"Select Spell Check Language" = "Choisir la langue de vérification orthographique";
 "Auto Detect Language" = "Detecter automatiquement la langue";
 "Disable Spell Check" = "Désactiver la vérification orthographique";
 "Global Setting…" = "Paramètres globaux…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Le fichier de dictionnaire afin de pouvoir activer la vérification orthographique pour le langage suivant est manquant : %@.";
+"Dictionary file is missing to enable spellcheck support for %@." = "Fichier dictionnaire introuvable lors de l'activation de la vérification orthographique pour %@.";
 "Install Language Support" = "Installer le support linguistique"; /*Please check if possible*/
 "License Information" = "Informations sur la license";
 "Download" = "Télécharger";
@@ -153,7 +153,7 @@
 "Spell Check (%@ downloading)" = "Vérification Orthographique (%@ en téléchargement)";
 "Download dictionary file for %@" = "Télécharger le fichier dictionnaire pour %@";
 "(Default spell check option)" = "(Option de vérification orthographique par défaut)";
-"Failed to load spellcheck module" = "Chargement du module de vérification orthographique échouée";
+"Failed to load spellcheck module" = "Échec du chargement du module de vérification orthographique";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> a été activé.";
 "You could turn it off from `View` menu." = "Vous pouvez le désactiver du menu `Présentation`.";
@@ -185,5 +185,5 @@
 
 "Support Document" = "Document d’assistance";
 
-"You are not supposed to edit or save this file." = "Vous n’êtes pas supposé éditer ou enregistrer ce fichier.";
+"You are not supposed to edit or save this file." = "Vous n'êtes pas censé editer ou enregistrer ce fichier.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Les fichiers à cet emplacement (%@) sont gérés par Typora, et peuvent être supprimés automatiquement.<br/>Veuillez copier le contenu dans un nouveau fichier pour une édition ultérieure.";

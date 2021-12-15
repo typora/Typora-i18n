@@ -4,7 +4,7 @@
 
  by hi@typora.io
 
- Dutch translations by Melle Dijkstra & André van Delft
+ Dutch translations by Melle Dijkstra, André van Delft & Mark Walet
 
 */
 
@@ -20,8 +20,8 @@
 "Untitled" = "Naamloos";
 "Undo" = "Ongedaan maken";
 "Dismiss" = "Afwijzen";
-"Confirm" = "Bevestig";
-"Error" = "Fout";
+"Confirm" = "Bevestigen";
+"Error" = "Foutmelding";
 
 /* Search Panel */
 "Search" = "Zoeken";
@@ -42,15 +42,16 @@
 "Align Left" = "Links uitlijnen";
 "Align Center" = "Centreren";
 "Align Right" = "Rechts uitlijnen";
-"Resize Table" = "Tabel vergroten/verkleinen";
+"Resize Table" = "Tabel formaat wijzigen";
 "Delete Table" = "Tabel verwijderen";
 
 /* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora probeert de nieuwe afbeelding te kopiëren naar de map <code id='image-create-folder-target'></code>. Deze map bestaat echter niet. Wilt u de map aanmaken?";
 "Create Folder" = "Map aanmaken";
 
 /* Math */
 "Edit" = "Aanpassen";
-"Delete Math" = "Verwijder wiskunde";
+"Delete Math" = "Verwijder formule";
 "Preview" = "Voorbeeld";
 
 /* Sidebar */
@@ -73,7 +74,8 @@
 "Refresh Folder" = "Map verversen";
 "Sort" = "Sorteren";
 "Group By Folder" = "Groeperen op map";
-"Sort Naturally" = "Natuurlijk sorteren";
+"Sort Naturally (Ascending)" = "Natuurlijk sorteren (oplopend)";
+"Sort Naturally (Descending)" = "Natuurlijk sorteren (aflopend)";
 "Sort by Name (Ascending)" = "Sorteren op naam (A-Z)";
 "Sort by Modification Date (Ascending)" = "Sorten op wijzigingsdatum (oudste eerst)";
 "Sort by Name (Descending)" = "Sorteren op naam (Z-A)";
@@ -85,17 +87,17 @@
 "Outline is Empty." = "Overzicht is leeg.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Open/sluit zijbalk";
-"Toggle Source Code Mode" = "Open/sluit broncode-modus";
+"Toggle Sidebar" = "Toon/verberg zijbalk";
+"Toggle Source Code Mode" = "Toon/verberg Broncode Modus";
 "Exit Source Code Mode" = "Sluit Broncode Modus";
 
 "Table of Contents" = "Inhoudsopgave";
 "Empty Diagram" = "Leeg diagram";
-"Input Math TeX here" = "Voer Math TeX hier in";
+"Input Math TeX here" = "Voer hier Math TeX in";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Graag de referentie voetnoot <b>{0}</b> definiëren met syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Graag de referentie link <b>[{0}]</b> definiëren met syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Definieer de afbeeldingsreferentie met \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Graag de referentie voetnoot <b>{0}</b> definiëren met syntax <a>[^{1}]: www.voorbeeld.nl</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Graag de referentie link <b>[{0}]</b> definiëren met syntax <b>[{1}]: www.voorbeeld.nl</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Definieer de afbeeldingsreferentie met \n[{0}]: http://voorbeeld.png";
 
 /* msg */
 "Failed to create file" = "Aanmaken van bestand mislukt";
@@ -111,12 +113,12 @@
 "Save File Failed!" = "Het is niet gelukt om het bestand op te slaan!";
 "Cannot open folder {0}" = "Kan map {0} niet openen";
 
-"File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Herladen van schijf ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Doorgaan met het verplaatsen en overschrijven van bestaande bestand(en) ?";
+"File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Bestand herladen?";
+"Should continue moving and overwrite existing file(s) ?" = "Doorgaan met het verplaatsen en overschrijven van bestaande bestand(en)?";
 
 "Rename Failed" = "Hernoemen mislukt";
 "Rename to \"{0}\" ?" = "Hernoemen naar \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Hernoemen van \"{0}\" naar \"{1}\" mislukt";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Hernoemen van \"{0}\" naar \"{1}\" is mislukt";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Succesvol {0} afbeeldingen geüpload.";
@@ -135,3 +137,57 @@
 
 "input image URL" = "voer afbeeldings-URL in";
 "Select image from local file" = "Selecteer afbeelding van lokaal bestand";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan de locatie <code>$1</code> niet openen. Bedoelde u <a href='https://$3'>https://$2</a>?";
+
+"select a language" = "selecteer een taal";
+"Finish Editing" = "Stop met bewerken";
+
+"Revert advanced setting file to default one ?" = "Wilt u de geavanceerde instellingen terugzetten naar de standaardwaarden?";
+
+"Select Spell Check Language" = "Selecteer de taal voor spellingscontrole";
+"Auto Detect Language" = "Detecteer taal automatisch";
+"Disable Spell Check" = "Schakel spellingscontrole uit";
+"Global Setting…" = "Globale instellingen…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Het woordenboek mist voor de spellingscontrole van %@.";
+"Install Language Support" = "Installeer taalondersteuning";
+"License Information" = "Licentie Informatie";
+"Download" = "Downloaden";
+"Install dictionary file only for Typora" = "Installeer het woordenboek uitsluitend voor Typora";
+"Spell Check (%@ unavailable)" = "Spellingscontrole (%@ unavailable)";
+"Spell Check (%@ downloading)" = "Spellingscontrole (%@ downloading)";
+"Download dictionary file for %@" = "Download woordenboek voor %@";
+"(Default spell check option)" = "(Standaard spellingscontrole optie)";
+"Failed to load spellcheck module" = "Het laden van de spellingscontrole module is mislukt";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> is aangezet.";
+"You could turn it off from `View` menu." = "U kunt dit uitzetten via de `Weergave` knop in het menu.";
+"The file is too large to render in Typora." = "Dit bestand is te groot om weer te geven in Typora.";
+"Open in…" = "Openen in…";
+"Quick Look" = "Snelle weergave";
+
+"Filter" = "Filteren";
+"No result found." = "Geen resultaten gevonden.";
+"Continue & Overwrite" = "Doorgaan & Overschrijven";
+"The file is read-only, or you do not have right permissions to modify the file." = "Dit bestand is alleen-lezen of u heeft niet genoeg rechten om dit bestand te wijzigen.";
+
+"Learn Data Recovery" = "Leer over gegevensherstel";
+"Auto refresh on Files Panel cannot be enabled." = "Automatisch vernieuwen voor bestanden kan niet worden ingeschakeld.";
+"Delete Permanently" = "Verwijder permanent";
+
+
+"Failed to upload images:" = "Uploaden van afbeeldingen is mislukt:";
+"Uploading in progress" = "Bezig met uploaden";
+"Successfully uploaded {0} images, {1} failed." = "Succesvol {0} afbeeldingen geüpload, {1} mislukt.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "U kunt deze actie later terugdraaien via de `ongedaan maken via de `Edit` → `Undo` knop in het menu.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "U kunt <strong>⌘ + Linkermuisknop</strong> indrukken om <a href='#'>links</a> te openen of naar de definitie van een voetnoot te gaan.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "U kunt <strong>CTRL + Linkermuisknop</strong> indrukken om <a href='#'>links</a> te openen of naar de definitie van een voetnoot te gaan.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stijlen zijn aangezet.";
+"You can right click titlebar to popup application menu." = "U kunt met de rechtermuisknop klikken op de titel om het applicatiemenu te openen.";
+
+"Support Document" = "Ondersteuningsdocument";
+
+"You are not supposed to edit or save this file." = "Het is niet de bedoeling dat u dit bestand bewerkt of opslaat.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Bestanden op deze locatie (%@) worden beheerd door Typora, en kunnen automatisch verwijderd worden.<br/>Kopieer uw bestanden naar een nieuwe locatie om door te gaan met bewerken.";

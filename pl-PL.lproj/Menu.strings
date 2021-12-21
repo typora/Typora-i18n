@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by rzezior@gazeta.pl, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com, radek.kwlsk@gmail.com
 */
 
 /* Typora Menu */
@@ -68,8 +68,8 @@
 "Jump to Top" = "Przeskocz na początek";
 "Jump to Selection" = "Przeskocz do zaznaczenia";
 "Jump to Bottom" = "Przeskocz na koniec";
-"Math Tools" = "Narzędzia matematyczne";
-"Refresh All Math Expressions" = "Odśwież wszystkie wyrażenia matematyczne";
+"Math Tools" = "Narzędzia Math";
+"Refresh All Math Expressions" = "Odśwież wszystkie wyrażenia Math";
 "Image Tools" = "Narzędzia edycji obrazu";
 "Insert Local Images" = "Wstaw lokalny obraz";
 "Upload Local Images via iPic" = "Prześlij lokalne obrazy za pomocą iPic";
@@ -110,7 +110,7 @@
 "Decrease Heading Level" = "Obniż poziom nagłówka";
 "Table" = "Tabela";
 "Code Fences" = "Blok kodu";
-"Math Block" = "Blok matematyczny";
+"Math Block" = "Blok Math";
 "Quote" = "Cytat";
 "Ordered List" = "Lista numerowana";
 "Unordered List" = "Lista wypunktowana";
@@ -134,7 +134,7 @@
 "Emphasis" = "Kursywa";
 "Underline" = "Podkreślenie";
 "Code" = "Kod";
-"Inline Math" = "Wyróżnienie wstawki matematycznej";
+"Inline Math" = "Formuła Math";
 "Strike" = "Przekreślenie";
 "Highlight" = "Wyróżnienie";
 "Superscript" = "Indeks górny";
@@ -205,7 +205,7 @@
 "Delete Code Block" = "Usuń blok kodu";
 "Copy as MathML" = "Kopiuj jako MathML";
 "Copy as Tex" = "Kopiuj jako TeX";
-"Copy Math" = "Kopiuj działanie";
+"Copy Math" = "Kopiuj formułę Math";
 "Reveal in Finder" = "Pokaż w Finderze";
 "Open Link" = "Otwórz łącze";
 "Reveal in Sidebar" = "Pokaż w panelu bocznym";
@@ -218,7 +218,7 @@
 /* Electron */
 "Learn Spelling" = "Zapamiętaj pisownię";
 "Copy / Paste As…" = "Kopiuj / Wklej jako…";
-"Math" = "Działanie matematyczne";
+"Math" = "Math";
 "Insert" = "Wstaw";
 "Inspect Element" = "Zbadaj element";
 "Copy to MS Word" = "Kopiuj do MS Word";

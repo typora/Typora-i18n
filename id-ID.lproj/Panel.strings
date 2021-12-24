@@ -369,11 +369,11 @@
 
 "Downloading…" = "Mengunduh…";
 "Unzipping…" = "Pengunzipan…";
-"Finished" = "Finis";
+"Finished" = "Finis"; /* See <https://kbbi.kemdikbud.go.id/entri/finis> */
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora akan meluncurkan aplikasi pihak ke-3 dengan jalur fail dari semua gambar lokal. Pengunggah gambar dan penyimpanan gambar awan kemudian akan memiliki akses ke gambar lokal Anda. Apakah Anda yakin untuk melanjutkan?";
 
-"Export operation finished successfully." = "Operasi ekspor berhasil disukseskan penuh.";
+"Export operation finished successfully." = "Operasi ekspor difiniskan dengan sukses.";
 
 "Shortcut Keys" = "Kunci Pintasan";
 "Custom Shortcut Keys" = "Kunci Pintasan Kustom";

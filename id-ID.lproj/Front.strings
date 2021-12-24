@@ -151,7 +151,7 @@
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='https://$3'>https://$2</a> ?";
 
 "select a language" = "seleksi bahasa";
-"Finish Editing" = "Selesaikan Pengeditan"; /* `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
+"Finish Editing" = "Finiskan Pengeditan"; /* See <https://kbbi.kemdikbud.go.id/entri/finis>; `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
 
 "Revert advanced setting file to default one ?" = "Kembalikan setelan lanjutan fail ke asali ?";
 

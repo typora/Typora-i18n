@@ -29,7 +29,7 @@
 "Select" = "Seleksi"; /* See <https://kbbi.kemdikbud.go.id/entri/seleksi> */
 "Continue" = "Lanjutkan";
 "Learn More…" = "Pelajari Lagi…";
-"Untitled" = "Takberjudul"; /* Learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
+"Untitled" = "Takbertitel"; /* See <https://kbbi.kemdikbud.go.id/entri/titel> and learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
 "Undo" = "Takjadi"; /* Learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
 "Dismiss" = "Hentikan";
 "Confirm" = "Konfirmasikan";
@@ -196,7 +196,7 @@
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda dapat menekan <strong>CTRL + Klik</strong> untuk membuka <a href='#'>pranala</a> atau lompat ke definisi catatan kaki.";
 
 "<strong>Unibody</strong> style has been turned on." = "Gaya <strong>Unibodi</strong> telah diaktifkan.";
-"You can right click titlebar to popup application menu." = "Anda dapat mengklik kanan bilah judul untuk memunculkan menu aplikasi.";
+"You can right click titlebar to popup application menu." = "Anda dapat mengklik kanan bilahtitel untuk memunculkan menu aplikasi.";
 
 "Support Document" = "Dokumen Pendukung";
 

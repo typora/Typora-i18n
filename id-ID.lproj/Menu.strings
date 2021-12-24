@@ -7,7 +7,7 @@
  Indonesian (Bahasa Indonesia) Translation
  by Samuel Natalius <https://github.com/snatalius> <samnatalius@outlook.com>,
     Kylamber <https://github.com/Kylamber> <>,
-    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <nash@nashrullahalifauzi.com>.
+    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <hello@nashrullahalifauzi.com>.
 
   Notice:
 
@@ -130,7 +130,7 @@
 "Quote" = "Kutipan";
 "Ordered List" = "Lis Berurut"; /* See <https://kbbi.kemdikbud.go.id/entri/lis> */
 "Unordered List" = "Lis Takberurut";
-"Task List" = "Daftar Tugas";
+"Task List" = "Lis Tugas";
 "Task Status" = "Status Tugas";
 "Toggle Task Status" = "Ganti Status Tugas";
 "Mark as Complete" = "Tandai sebagai Komplet"; /* See <https://kbbi.kemdikbud.go.id/entri/komplet> */

@@ -1,7 +1,7 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
+
  by hi@typora.io
 
  Indonesian (Bahasa Indonesia) Translation
@@ -342,7 +342,7 @@
 "Validation Failed" = "Validasi Gagal";
 "Validation Succeed" = "Validasi Sukses";
 "Testing image uploading using command:" = "Mengetes pengunggahan gambar menggunakan perintah:";
-"Running… Waiting for results." = "Menjalankan… Menunggu hasil.";
+"Running… Waiting for results." = "Menjalankan… Menunggu resultan."; /* See <https://kbbi.kemdikbud.go.id/entri/resultan>*/
 "Output from the console:" = "Keluaran dari konsol:";
 "Error from the console:" = "Eror dari konsol:";
 "Failed to fetch uploaded image from command output." = "Gagal mengambil gambar yang diunggah dari keluaran perintah.";

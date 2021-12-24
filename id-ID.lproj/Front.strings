@@ -45,7 +45,7 @@
 /* Quick Open */
 "Search by file name" = "Cari berdasarkan nama fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
 "Searching" = "Sedang mencari";
-"Gathering more results" = "Mengumpulkan lebih banyak hasil";
+"Gathering more results" = "Mengumpulkan lagi resultan"; /* See <https://kbbi.kemdikbud.go.id/entri/resultan> */
 
 /* Tables */
 "Insert Table" = "Sisipkan Tabel";
@@ -177,7 +177,7 @@
 "Quick Look" = "Lihat Segera";
 
 "Filter" = "Filter";
-"No result found." = "Tiada hasil yang ditemukan.";
+"No result found." = "Tiada resultan yang ditemukan."; /* See <https://kbbi.kemdikbud.go.id/entri/resultan>*/
 "Continue & Overwrite" = "Lanjut & Timpa";
 "The file is read-only, or you do not have right permissions to modify the file." = "Fail tersedia baca-saja, atau Anda tidak punya izin untuk mengubah fail tersebut.";
 

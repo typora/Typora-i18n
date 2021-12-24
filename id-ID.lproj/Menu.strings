@@ -1,4 +1,4 @@
-/* 
+/*
   Menu.strings
   Typora
 
@@ -285,7 +285,7 @@
 "Search" = "Cari";
 "Copy without Theme Styling" = "Kopi tanpa Gaya Tema";
 "Recent Files" = "Fail Terkini";
-"File Results" = "Hasil Fail";
+"File Results" = "Resultan Fail"; /* See <https://kbbi.kemdikbud.go.id/entri/resultan>*/
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Sisipkan Gambar";

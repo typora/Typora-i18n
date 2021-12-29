@@ -90,7 +90,7 @@
 
 "Table of Contents" = "Spis treści";
 "Empty Diagram" = "Pusty diagram";
-"Input Math TeX here" = "Wprowadź tutaj składnie zgodną z Math TeX";
+"Input Math TeX here" = "Wprowadź tutaj składnię zgodną z Math TeX";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Musisz zdefiniować odsyłacz do przypisu <b>{0}</b> ze składnią <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Musisz zdefiniować odsyłacz do adresu <b>[{0}]</b> ze składnią <b>[{1}]: www.example.com</b>";

@@ -1,4 +1,4 @@
-/* 
+/*
   Menu.strings
   Typora
 
@@ -7,7 +7,7 @@
  Indonesian (Bahasa Indonesia) Translation
  by Samuel Natalius <https://github.com/snatalius> <samnatalius@outlook.com>,
     Kylamber <https://github.com/Kylamber> <>,
-    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <nash@nashrullahalifauzi.com>.
+    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <hello@nashrullahalifauzi.com>.
 
   Notice:
 
@@ -130,7 +130,7 @@
 "Quote" = "Kutipan";
 "Ordered List" = "Lis Berurut"; /* See <https://kbbi.kemdikbud.go.id/entri/lis> */
 "Unordered List" = "Lis Takberurut";
-"Task List" = "Daftar Tugas";
+"Task List" = "Lis Tugas";
 "Task Status" = "Status Tugas";
 "Toggle Task Status" = "Ganti Status Tugas";
 "Mark as Complete" = "Tandai sebagai Komplet"; /* See <https://kbbi.kemdikbud.go.id/entri/komplet> */
@@ -285,7 +285,7 @@
 "Search" = "Cari";
 "Copy without Theme Styling" = "Kopi tanpa Gaya Tema";
 "Recent Files" = "Fail Terkini";
-"File Results" = "Hasil Fail";
+"File Results" = "Resultan Fail"; /* See <https://kbbi.kemdikbud.go.id/entri/resultan>*/
 
 "Insert Table" = "Sisipkan Tabel";
 "Insert Image" = "Sisipkan Gambar";

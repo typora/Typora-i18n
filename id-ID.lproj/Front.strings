@@ -7,7 +7,7 @@
  Indonesian (Bahasa Indonesia) Translation
  by Samuel Natalius <https://github.com/snatalius> <samnatalius@outlook.com>,
     Kylamber <https://github.com/Kylamber> <>,
-    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <nash@nashrullahalifauzi.com>.
+    Nashrullah Ali Fauzi <https://github.com/nashrullahalifauzi> <hello@nashrullahalifauzi.com>.
 
   Notice:
 
@@ -29,7 +29,7 @@
 "Select" = "Seleksi"; /* See <https://kbbi.kemdikbud.go.id/entri/seleksi> */
 "Continue" = "Lanjutkan";
 "Learn More…" = "Pelajari Lagi…";
-"Untitled" = "Takberjudul"; /* Learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
+"Untitled" = "Takbertitel"; /* See <https://kbbi.kemdikbud.go.id/entri/titel> and learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
 "Undo" = "Takjadi"; /* Learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
 "Dismiss" = "Hentikan";
 "Confirm" = "Konfirmasikan";
@@ -45,7 +45,7 @@
 /* Quick Open */
 "Search by file name" = "Cari berdasarkan nama fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
 "Searching" = "Sedang mencari";
-"Gathering more results" = "Mengumpulkan lebih banyak hasil";
+"Gathering more results" = "Mengumpulkan lagi resultan"; /* See <https://kbbi.kemdikbud.go.id/entri/resultan> */
 
 /* Tables */
 "Insert Table" = "Sisipkan Tabel";
@@ -70,7 +70,7 @@
 "Articles" = "Artikel";
 "Outline" = "Garisbesar"; /* Must be coupled, `Garisbesar`, not `Garis besar`, see <http://tesaurus.kemdikbud.go.id/tematis/lema/garis%2Bbesar> */
 "Files" = "Fail";
-"Switch to File List view" = "Alihkan ke tinjauan Daftar Fail";
+"Switch to File List view" = "Alihkan ke tinjauan Lis Fail"; /* See <https://kbbi.kemdikbud.go.id/entri/lis> */
 "Switch to File Tree view" = "Alihkan ke tinjauan Pohon Fail";
 "Switch to Outline view" = "Alihkan ke tinjauan Garisbesar";
 "Close sidebar" = "Tutup bilahsisi";
@@ -93,7 +93,7 @@
 "Sort by Modification Date (Descending)" = "Sortir berdasarkan modifikasi Tanggal (Turun)";
 "Recent Locations" = "Lokasi Terkini";
 "Location" = "Lokasi";
-"Switch File List/Tree View" = "Alihkan Tinjauan Daftar/Pohon Fail";
+"Switch File List/Tree View" = "Alihkan Tinjauan Lis/Pohon Fail";
 "No Files Available" = "Tiada Fail yang Tersedia";
 "No Folder is Opened." = "Tiada Folder yang Terbuka.";
 "Outline is Empty." = "Garisbesar Kosong.";
@@ -151,7 +151,7 @@
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='https://$3'>https://$2</a> ?";
 
 "select a language" = "seleksi bahasa";
-"Finish Editing" = "Selesaikan Pengeditan"; /* `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
+"Finish Editing" = "Finiskan Pengeditan"; /* See <https://kbbi.kemdikbud.go.id/entri/finis>; `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
 
 "Revert advanced setting file to default one ?" = "Kembalikan setelan lanjutan fail ke asali ?";
 
@@ -177,7 +177,7 @@
 "Quick Look" = "Lihat Segera";
 
 "Filter" = "Filter";
-"No result found." = "Tiada hasil yang ditemukan.";
+"No result found." = "Tiada resultan yang ditemukan."; /* See <https://kbbi.kemdikbud.go.id/entri/resultan>*/
 "Continue & Overwrite" = "Lanjut & Timpa";
 "The file is read-only, or you do not have right permissions to modify the file." = "Fail tersedia baca-saja, atau Anda tidak punya izin untuk mengubah fail tersebut.";
 
@@ -196,7 +196,7 @@
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda dapat menekan <strong>CTRL + Klik</strong> untuk membuka <a href='#'>pranala</a> atau lompat ke definisi catatan kaki.";
 
 "<strong>Unibody</strong> style has been turned on." = "Gaya <strong>Unibodi</strong> telah diaktifkan.";
-"You can right click titlebar to popup application menu." = "Anda dapat mengklik kanan bilah judul untuk memunculkan menu aplikasi.";
+"You can right click titlebar to popup application menu." = "Anda dapat mengklik kanan bilahtitel untuk memunculkan menu aplikasi.";
 
 "Support Document" = "Dokumen Pendukung";
 

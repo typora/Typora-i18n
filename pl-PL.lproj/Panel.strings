@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by rzezior@gazeta.pl, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com, radek.kwlsk@gmail.com
  */
 
 /* Preference Panel */
@@ -53,7 +53,7 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(poniższe ustawienia zostaną wdrożone po ponownym uruchomieniu aplikacji)";
 "Syntax Support" = "Obsługa składni";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Działania matematyczne (np. $\LaTeX$)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Formuła Math (np. $\LaTeX$)";
 "Subscript    ( e.g: H~2~O )" = "Indeks dolny (np. H~2~O)";
 "Superscript ( e.g: X^2^ )" = "Indeks górny (np. X^2^)";
 "Highlight     (e.g: ==key==)" = "Wyróżnienie (np. ==key==)";
@@ -68,7 +68,7 @@
 "Unordered List" = "Lista wypunktowana";
 "Code Fences" = "Bloki kodu";
 "Display line numbers for code fences" = "Wyświetlaj numerację wierszy w blokach kodu";
-"Math Blocks" = "Bloki matematyczne";
+"Math Blocks" = "Bloki Math";
 "Auto Numbering Math Equations" = "Automatyczne numerowanie równań matematycznych";
 
 /* Security Panel */

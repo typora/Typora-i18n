@@ -55,7 +55,7 @@
 
 "Next" = "Suivant";
 "Please accept license agreement first" = "Veuillez accepter le contrat de licence d’abord.";
-"Start %@ Days Trail" = "Commencer une période d’essai de %@ jours";
+"Start %@ Days Trial" = "Commencer une période d’essai de %@ jours";
 "Buy License" = "Acheter une licence";
 "Activate" = "Activer";
 
@@ -64,7 +64,7 @@
 "View License" = "Voir la licence";
 "Your Typora License" = "Votre licence Typora";
 "This copy of Typora is registered with license information below." = "Cette copie de Typora est enregistrée avec les informations de licence ci-dessous.";
-"Your trail will be expired in %@ days." = "Votre période d’essai prend fin dans %@ jours.";
+"Your trial will be expired in %@ days." = "Votre période d’essai prend fin dans %@ jours.";
 "Enter License" = "Entrer une licence";
 "Not Now" = "Pas maintenant";
 

@@ -56,7 +56,7 @@
 
 "Next" = "بعدی";
 "Please accept license agreement first" = "لطفا ابتدا توافق نامه مجوز  را بپذیرید";
-"Start %@ Days Trail" = "شروع دوره آزمایشی %@ روزه";
+"Start %@ Days Trial" = "شروع دوره آزمایشی %@ روزه";
 "Buy License" = "خرید لایسنس";
 "Activate" = "فعال سازی";
 
@@ -65,7 +65,7 @@
 "View License" = "نمایش لایسنس";
 "Your Typora License" = "لایسنس Typora شما";
 "This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "دوره آزمایشی %@ روز دیگر منقضی می‌شود.";
+"Your trial will be expired in %@ days." = "دوره آزمایشی %@ روز دیگر منقضی می‌شود.";
 "Enter License" = "لایسنس را وارد نمایید";
 "Not Now" = "فعلا نه";
 

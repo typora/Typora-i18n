@@ -55,7 +55,7 @@
 
 "Next" = "下一頁";
 "Please accept license agreement first" = "請先同意用戶許可協議";
-"Start %@ Days Trail" = "開始試用 %@ 天";
+"Start %@ Days Trial" = "開始試用 %@ 天";
 "Buy License" = "購買授權";
 "Activate" = "啟用";
 
@@ -64,7 +64,7 @@
 "View License" = "查看授權";
 "Your Typora License" = "您的 Typora 授權";
 "This copy of Typora is registered with license information below." = "這個 Typora 副本使用以下授權註冊";
-"Your trail will be expired in %@ days." = "您的試用還有 %@ 天到期。";
+"Your trial will be expired in %@ days." = "您的試用還有 %@ 天到期。";
 "Enter License" = "輸入授權碼";
 "Not Now" = "不是現在";
 

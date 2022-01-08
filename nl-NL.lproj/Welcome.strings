@@ -57,7 +57,7 @@
 
 "Next" = "Volgende";
 "Please accept license agreement first" = "Gelieve eerst de licentieovereenkomst te aanvaarden.";
-"Start %@ Days Trail" = "Start %@ dagen proefperiode";
+"Start %@ Days Trial" = "Start %@ dagen proefperiode";
 "Buy License" = "Koop een licentie";
 "Activate" = "Activeren";
 
@@ -66,7 +66,7 @@
 "View License" = "Bekijk licentie";
 "Your Typora License" = "Je Typora licentie";
 "This copy of Typora is registered with license information below." = "Dit exemplaar van Typora is geregistreerd met de hieronder vermelde licentiegegevens.";
-"Your trail will be expired in %@ days." = "Je testperiode vervalt binnen %@ dagen.";
+"Your trial will be expired in %@ days." = "Je testperiode vervalt binnen %@ dagen.";
 "Enter License" = "Vul licentie in";
 "Not Now" = "Niet nu";
 

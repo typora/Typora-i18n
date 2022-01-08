@@ -139,7 +139,7 @@
 
 "input image URL" = "Vložit URL obrázku";
 "Select image from local file" = "Vybrat obrázek z mísního uložiště";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nelze otevřít umístění <code>$1</code>, neměli jste na mysli <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nelze otevřít umístění <code>$1</code>, neměli jste na mysli <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "Vybrat jazyk";
 "Finish Editing" = "Dokončit úpravy";

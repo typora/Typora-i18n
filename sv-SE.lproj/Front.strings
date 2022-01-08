@@ -133,7 +133,7 @@
 
 "input image URL" = "bild URL";
 "Select image from local file" = "Välj bild från lokal fil";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan inte öppna <code>$1</code>, menar du <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Kan inte öppna <code>$1</code>, menar du <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "välj ett språk";
 "Finish Editing" = "Avsluta redigering";

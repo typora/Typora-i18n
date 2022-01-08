@@ -201,7 +201,7 @@
 "More Formats" = "Mai multe Formate";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatele din 'Mai multe Formate' necesită ca <a class='open-pandoc-guide'>Pandoc să fie instalat</a>.";
 "Something is Wrong…" = "Ceva Nu Este Corect…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Conținutul nu a putu fi salvat din anumite motive.<br/>Ați putea copia conținutul într-o nouă fereastră Typora, și să salvați. <br/>Aflați mai multe:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Raportați eroarea</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperați conținutul pierdut</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Conținutul nu a putu fi salvat din anumite motive.<br/>Ați putea copia conținutul într-o nouă fereastră Typora, și să salvați. <br/>Aflați mai multe:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Raportați eroarea</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperați conținutul pierdut</a></li></ul>";
 "Copy Content" = "Copiază Conținut";
 
 

@@ -134,7 +134,7 @@
 
 "input image URL" = "chèn URL hình ảnh";
 "Select image from local file" = "Chọn hình ảnh từ tập tin trong máy";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Không thể mở khu vực <code>$1</code>, ý bạn là <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Không thể mở khu vực <code>$1</code>, ý bạn là <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "chọn một ngôn ngữ";
 "Finish Editing" = "Kết thúc chỉnh sửa";

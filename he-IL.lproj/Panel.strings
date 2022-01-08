@@ -201,7 +201,7 @@
 "More Formats" = "פורמטים נוספים";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "פורמטים תחת \"פורמטים נוספים\" צריכים ש־<a class='open-pandoc-guide'>Pandoc יהיה מותקן</a>.";
 "Something is Wrong…" = "משהו לא בסדר...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "שמירת התוכן נכשלה משום מה.<br/>תוכל להעתיק את התוכן לחלון Typora חדש, ולנסות לשמור אותו שם.<br/>למד עוד על:<ul><li><a href='https://support.typora.io/Report-Bugs/'>דיווח באגים</a></li><li><a href='https://support.typora.io/Version-Control//'>שיחזור תוכן שאבד</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "שמירת התוכן נכשלה משום מה.<br/>תוכל להעתיק את התוכן לחלון Typora חדש, ולנסות לשמור אותו שם.<br/>למד עוד על:<ul><li><a href='https://support.typora.io/Report-Bugs/'>דיווח באגים</a></li><li><a href='https://support.typora.io/Version-Control/'>שיחזור תוכן שאבד</a></li></ul>";
 "Copy Content" = "העתק תוכן";
 
 

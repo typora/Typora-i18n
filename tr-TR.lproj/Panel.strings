@@ -199,7 +199,7 @@
 "More Formats" = "Daha Fazla Biçim";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = " 'Daha Fazla Biçim' altındaki dosya biçimleri bölümü <a class='open-pandoc-guide'>Pandoc 'un yüklü olmasını gerektirmektedir</a>.";
 "Something is Wrong…" = "Bir Hata Oluştu…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Yüklü içerik bir sebepten dolayı başarısız oldu.<br/>İçeriği yeni bir Typora penceresine kopyalayıp kaydedebilirsiniz. <br/>Daha fazla öğrenmek için:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Bize hata bildirin</a></li><li><a href='https://support.typora.io/Version-Control//'>Kayıp içerikleri kurtarın</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Yüklü içerik bir sebepten dolayı başarısız oldu.<br/>İçeriği yeni bir Typora penceresine kopyalayıp kaydedebilirsiniz. <br/>Daha fazla öğrenmek için:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Bize hata bildirin</a></li><li><a href='https://support.typora.io/Version-Control/'>Kayıp içerikleri kurtarın</a></li></ul>";
 "Copy Content" = "İçeriği Kopyala";
 
 

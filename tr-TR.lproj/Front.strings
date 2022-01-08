@@ -133,7 +133,7 @@
 
 "input image URL" = "resmin URL 'sini giriniz";
 "Select image from local file" = "Resmi bilgisayardan seç";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> konumu açılamıyor, Bunu '<a href='https://$3'>https://$2</a>' mu demek istediniz ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> konumu açılamıyor, Bunu '<a href='$3' target='_blank' target='_blank'>$2</a>' mu demek istediniz ?";
 
 "select a language" = "bir dil seçiniz";
 "Finish Editing" = "Düzenlemeyi tamamla";

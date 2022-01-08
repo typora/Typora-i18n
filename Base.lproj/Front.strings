@@ -133,7 +133,7 @@
 
 "input image URL" = "input image URL";
 "Select image from local file" = "Select image from local file";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "select a language";
 "Finish Editing" = "Finish Editing";
@@ -187,3 +187,6 @@
 
 "You are not supposed to edit or save this file." = "You are not supposed to edit or save this file.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing.";
+
+"File not exists at path %@." = "File not exists at path %@.";
+"File not exists at path %@, do you want to create one at that path ?" = "File not exists at path %@, do you want to create one at that path ?";

@@ -135,7 +135,7 @@
 
 "input image URL" = "输入图片路径";
 "Select image from local file" = "选择本地图片";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "无法打开 <code>$1</code> ，您是想打开 <a href='https://$3'>https://$2</a> 么？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank'>$2</a> ?" = "无法打开 <code>$1</code> ，您是想打开 <a href='$3' target='_blank'>$2</a> 么？";
 
 "select a language" = "选择语言";
 "Finish Editing" = "完成编辑";

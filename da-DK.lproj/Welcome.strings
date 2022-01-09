@@ -56,7 +56,7 @@
 
 "Next" = "Næste";
 "Please accept license agreement first" = "Accetér venligst licensaftalen først";
-"Start %@ Days Trail" = "Start %@ dages prøveperiode";
+"Start %@ Days Trial" = "Start %@ dages prøveperiode";
 "Buy License" = "Køb licens";
 "Activate" = "Aktivér";
 
@@ -65,7 +65,7 @@
 "View License" = "Vis licens";
 "Your Typora License" = "Din Typora licens";
 "This copy of Typora is registered with license information below." = "Denne kopi af Typora er registreret med licensoplysningerne vist nedenfor.";
-"Your trail will be expired in %@ days." = "Din prøveperiode udløber om %@ dage.";
+"Your trial will be expired in %@ days." = "Din prøveperiode udløber om %@ dage.";
 "Enter License" = "Indtast licens";
 "Not Now" = "Ikke nu";
 

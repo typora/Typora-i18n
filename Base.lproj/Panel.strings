@@ -200,7 +200,7 @@
 "More Formats" = "More Formats";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>.";
 "Something is Wrong…" = "Something is Wrong…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>";
 "Copy Content" = "Copy Content";
 
 
@@ -485,3 +485,10 @@
 "Typora activation is required to change this." = "Typora activation is required to change this.";
 "You can reinstall the stable version and then disable this." = "You can reinstall the stable version and then disable this.";
 "Update to dev version" = "Update to dev version";
+
+"Typora Server" = "Typora Server";
+"Use Typora Server in China" = "Use Typora Server in China";
+
+"File does not exist" = "File does not exist";
+"Create File" = "Create File";
+"Create Folder" = "Create Folder";

@@ -55,7 +55,7 @@
 
 "Next" = "Següent";
 "Please accept license agreement first" = "Accepteu primer l'acord de llicència";
-"Start %@ Days Trail" = "Comenceu els %@ dies de prova";
+"Start %@ Days Trial" = "Comenceu els %@ dies de prova";
 "Buy License" = "Compre una Llicència";
 "Activate" = "Activa";
 
@@ -64,7 +64,7 @@
 "View License" = "Vegeu la Llicència";
 "Your Typora License" = "La seva llicència de Typora";
 "This copy of Typora is registered with license information below." = "Aquesta còpia de Typora està registrada amb la informació de la llicència següent.";
-"Your trail will be expired in %@ days." = "La seva prova acabarà en %@ dies.";
+"Your trial will be expired in %@ days." = "La seva prova acabarà en %@ dies.";
 "Enter License" = "Introduïu la Llicència";
 "Not Now" = "Ara no";
 

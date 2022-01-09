@@ -134,7 +134,7 @@
 
 "input image URL" = "vložiť URL obrázka";
 "Select image from local file" = "Vybrať obrázok z lokálného súboru";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>, myslíš <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>, myslíš <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "vybrať jazyk";
 "Finish Editing" = "Dokončiť úpravy";

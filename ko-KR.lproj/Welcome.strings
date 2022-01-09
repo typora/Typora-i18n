@@ -41,9 +41,9 @@
 "Customize" = "Customize";
 "Customize your writing experience from preferences panel." = "환경 설정 패널에서 사용자 정의 쓰기 경험을 정의 할 수 있습니다.";
 "Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Write in the theme you like, or make one by your own." = "당신이 좋아하는 주제로 글을 쓰거나 스스로 만들어 보세요.";
+"And more" = "더 보기";
+"Explorer more topics at support.typora.io" = "support.typora.io 에서 더 많은 항목을 보실 수 있습니다.";
 
 "Quick Start" = "빠른 시작";
 "Markdown Reference" = "Markdown 참조";
@@ -55,7 +55,7 @@
 
 "Next" = "다음";
 "Please accept license agreement first" = "먼저 라이센스 계약에 동의하십시오";
-"Start %@ Days Trail" = " %@ 일 체험판 시작하기";
+"Start %@ Days Trial" = " %@ 일 체험판 시작하기";
 "Buy License" = "라이센스 구매";
 "Activate" = "활성화";
 
@@ -64,14 +64,14 @@
 "View License" = "라이센스 보기";
 "Your Typora License" = "귀하의 Typora 라이센스";
 "This copy of Typora is registered with license information below." = "이 Typora는 아래 라이센스 정보로 등록되어 있습니다..";
-"Your trail will be expired in %@ days." = "귀하의 체험판은 %@ 일 후에 만료 됩니다.";
+"Your trial will be expired in %@ days." = "귀하의 체험판은 %@ 일 후에 만료 됩니다.";
 "Enter License" = "라이센스 입력";
 "Not Now" = "나중에";
 
 "Please input a valid email address" = "유효한 이메일 주소를 입력하십시오";
 "Please input a valid license code"  = "유효한 라이센스 코드를 입력하십시오";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "라이센스가 최대 장치 수를 초과했습니다.\n가장 오래된 장치가 자동으로 등록 취소되었습니다.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
+"This license code has been used with a different email address." =  "이 라이센스 코드는 다른 이메일에서 사용되었습니다.";
 "Unknown Error. Please contact hi@typora.io" = "알수없는 오류. hi@typora.io로 연락주세요";
 "Failed to access the license server. Please check your network or try again later." = "라이센스 서버에 액세스하지 못했습니다. 네트워크를 확인하거나 나중에 다시 시도하십시오.";
 

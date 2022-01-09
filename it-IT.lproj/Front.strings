@@ -133,7 +133,7 @@
 
 "input image URL" = "inserisci URL dell'immagine";
 "Select image from local file" = "Seleziona immagine da file locale";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Impossibile aprire la posizione <code>$1</code>, forse intendi <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Impossibile aprire la posizione <code>$1</code>, forse intendi <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "seleziona una lingua";
 "Finish Editing" = "Termina modifica";

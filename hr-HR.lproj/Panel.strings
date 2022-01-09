@@ -202,7 +202,7 @@
 "More Formats" = "Više formata";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Za formate datoteka pod sekcijom 'Više formata' <a class='open-pandoc-guide'>Pandoc treba biti instaliran</a>.";
 "Something is Wrong…" = "Nešto nije u redu…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Spremanje sadržaja nije uspjelo iz nekog razloga.<br/>Mogli biste kopirati sadržaj u novi Typora prozor i zatim ga spremiti. <br/>Saznajte više:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Prijavite nam bugove</a></li><li><a href='https://support.typora.io/Version-Control//'>Vrati izgubljen sadržaj</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Spremanje sadržaja nije uspjelo iz nekog razloga.<br/>Mogli biste kopirati sadržaj u novi Typora prozor i zatim ga spremiti. <br/>Saznajte više:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Prijavite nam bugove</a></li><li><a href='https://support.typora.io/Version-Control/'>Vrati izgubljen sadržaj</a></li></ul>";
 "Copy Content" = "Kopiraj sadržaj";
 
 

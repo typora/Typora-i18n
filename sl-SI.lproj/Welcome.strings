@@ -58,7 +58,7 @@
 
 "Next" = "Naprej";
 "Please accept license agreement first" = "Prosimo, najprej sprejmite licenčne pogoje.";
-"Start %@ Days Trail" = "Pričnite %@ dnevno preizkušnjo";
+"Start %@ Days Trial" = "Pričnite %@ dnevno preizkušnjo";
 "Buy License" = "Kupite licenco";
 "Activate" = "Aktiviraj";
 
@@ -67,7 +67,7 @@
 "View License" = "Prikaži licenco";
 "Your Typora License" = "Vaša Typora licenca";
 "This copy of Typora is registered with license information below." = "Ta kopija Typore je registirana s spodnjimi informacijami.";
-"Your trail will be expired in %@ days." = "Vaša preizkusna doba poteče v %@ dneh.";
+"Your trial will be expired in %@ days." = "Vaša preizkusna doba poteče v %@ dneh.";
 "Enter License" = "Vnesi licenco";
 "Not Now" = "Ne sedaj";
 

@@ -198,7 +198,7 @@
 "More Formats" = "Máis Formatos";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Os formatos de arquivo en seccións 'Máis formatos' necesitan que<a class='opand-guide-> Pandoc estéa instalado </a>.";
 "Something is Wrong…" = "Algo vai mal…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Non pode gardar o contido por algún motivo.<br/>Pode copiar o contido nunha nova xanela de Typora e logo gardar.<br/>Máis información sobre: <ul><li><a href='https://support.typora.io/Report-Bugs/'>Informarnos de erros</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperar os contidos perdidos</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Non pode gardar o contido por algún motivo.<br/>Pode copiar o contido nunha nova xanela de Typora e logo gardar.<br/>Máis información sobre: <ul><li><a href='https://support.typora.io/Report-Bugs/'>Informarnos de erros</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar os contidos perdidos</a></li></ul>";
 "Copy Content" = "Copiar contido";
 
 

@@ -132,7 +132,7 @@
 
 "input image URL" = "введіть URL зображення";
 "Select image from local file" = "Виберіть зображення з локального файлу";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не можу відкрити розташування <code>$1</code>; можливо, ви мали на увазі <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Не можу відкрити розташування <code>$1</code>; можливо, ви мали на увазі <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "виберіть мову";
 "Finish Editing" = "Завершити редагування";

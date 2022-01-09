@@ -148,7 +148,7 @@
 
 "input image URL" = "input URL gambar";
 "Select image from local file" = "Seleksi gambar dari fail lokal";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "seleksi bahasa";
 "Finish Editing" = "Finiskan Pengeditan"; /* See <https://kbbi.kemdikbud.go.id/entri/finis>; `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */

@@ -132,7 +132,7 @@
 
 "input image URL" = "輸入圖片網址";
 "Select image from local file" = "選擇本機圖片";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='https://$3'>https://$2</a> 嗎？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='$3' target='_blank' target='_blank'>$2</a> 嗎？";
 
 "select a language" = "選取一個語言";
 "Finish Editing" = "完成編輯";

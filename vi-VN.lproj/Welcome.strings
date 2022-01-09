@@ -55,7 +55,7 @@
 
 "Next" = "Tiếp theo";
 "Please accept license agreement first" = "Vui lòng chấp nhận thoả thuận giấy phép trước";
-"Start %@ Days Trail" = "Bắt đầu %@ ngày dùng thử";
+"Start %@ Days Trial" = "Bắt đầu %@ ngày dùng thử";
 "Buy License" = "Mua giấy phép";
 "Activate" = "Kích hoạt";
 
@@ -64,7 +64,7 @@
 "View License" = "Xem giấy phép";
 "Your Typora License" = "Giấy phép Typora của bạn";
 "This copy of Typora is registered with license information below." = "Bản sao Typora này được đăng ký với thông tin giấy phép dưới đây.";
-"Your trail will be expired in %@ days." = "Bạn sẽ hết hạn dùng thử trong %@ ngày.";
+"Your trial will be expired in %@ days." = "Bạn sẽ hết hạn dùng thử trong %@ ngày.";
 "Enter License" = "Nhập giấy phép";
 "Not Now" = "Không phải lúc này";
 

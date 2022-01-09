@@ -132,4 +132,4 @@
 
 "input image URL" = "unesi link slike";
 "Select image from local file" = "Odaberi sliku iz datoteke lokalno";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne mogu otvoriti lokaciju <code>$1</code>, jeste li mislili <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Ne mogu otvoriti lokaciju <code>$1</code>, jeste li mislili <a href='$3' target='_blank' target='_blank'>$2</a> ?";

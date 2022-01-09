@@ -55,7 +55,7 @@
 
 "Next" = "Next";
 "Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trail" = "Start %@ Days Trail";
+"Start %@ Days Trial" = "Start %@ Days Trial";
 "Buy License" = "Buy License";
 "Activate" = "Activate";
 
@@ -64,7 +64,7 @@
 "View License" = "View License";
 "Your Typora License" = "Your Typora License";
 "This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trail will be expired in %@ days." = "Your trail will be expired in %@ days.";
+"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
 "Enter License" = "Enter License";
 "Not Now" = "Not Now";
 

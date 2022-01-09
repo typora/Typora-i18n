@@ -56,7 +56,7 @@
 
 "Next" = "Seterusnya";
 "Please accept license agreement first" = "Sila terima perjanjian lesen terlebih dahulu";
-"Start %@ Days Trail" = "Mulakan %@ Hari Percubaan";
+"Start %@ Days Trial" = "Mulakan %@ Hari Percubaan";
 "Buy License" = "Beli Lesen";
 "Activate" = "Aktifkan";
 
@@ -65,7 +65,7 @@
 "View License" = "Lihat Lesen";
 "Your Typora License" = "Lesen Typora Anda";
 "This copy of Typora is registered with license information below." = "Salinan Typora ini telah didaftarkan dengan maklumat lesen di bawah.";
-"Your trail will be expired in %@ days." = "Percubaan anda akan tamat dalam %@ hari.";
+"Your trial will be expired in %@ days." = "Percubaan anda akan tamat dalam %@ hari.";
 "Enter License" = "Masukkan Lesen";
 "Not Now" = "Bukan Sekarang";
 

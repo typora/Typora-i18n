@@ -133,7 +133,7 @@
 
 "input image URL" = "введите URL изображения";
 "Select image from local file" = "Выбрать изображение...";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Не удается открыть <code>$1</code>. Предполагается сайт <a href='https://$3'>https://$2</a>?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Не удается открыть <code>$1</code>. Предполагается сайт <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
 "select a language" = "выбрать язык";
 "Finish Editing" = "Закончить редактирование";

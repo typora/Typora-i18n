@@ -134,7 +134,7 @@
 
 "input image URL" = "Introduce URL-ul imaginii";
 "Select image from local file" = "Selectează imagine din fișier local";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nu se poate deschide locația <code>$1</code>, vreți să spuneți <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nu se poate deschide locația <code>$1</code>, vreți să spuneți <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "Selectați o limbă";
 "Finish Editing" = "Finalizează editarea";

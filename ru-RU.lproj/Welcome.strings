@@ -55,7 +55,7 @@
 
 "Next" = "Далее";
 "Please accept license agreement first" = "Пожалуйста, сначала примите лицензионное соглашение";
-"Start %@ Days Trail" = "Начать %@-дневный пробный период";
+"Start %@ Days Trial" = "Начать %@-дневный пробный период";
 "Buy License" = "Купить лицензию";
 "Activate" = "Активировать";
 
@@ -64,7 +64,7 @@
 "View License" = "Посмотреть лицензию";
 "Your Typora License" = "Ваша лицензия Typora";
 "This copy of Typora is registered with license information below." = "Эта копия Typora зарегистрирована с лицензионной информацией, приведенной ниже.";
-"Your trail will be expired in %@ days." = "Срок действия вашего пробного периода истечет через %@ дней.";
+"Your trial will be expired in %@ days." = "Срок действия вашего пробного периода истечет через %@ дней.";
 "Enter License" = "Введите лицензию";
 "Not Now" = "Не сейчас";
 

@@ -138,7 +138,7 @@ Japanese translated by
 
 "input image URL" = "画像のURLを入力";
 "Select image from local file" = "ローカルファイルから画像を選択";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='https://$3'>https://$2</a> で正しいですか？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='$3' target='_blank' target='_blank'>$2</a> で正しいですか？";
 
 "select a language" = "言語を選択";
 "Finish Editing" = "編集を完了";

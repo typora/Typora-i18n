@@ -134,7 +134,7 @@
 
 "input image URL" = "indtast URL på billedet";
 "Select image from local file" = "Vælg billede fra lokal disk";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan ikke læse placeringen <code>$1</code>, mener du <a href='https://$3'>https://$2</a>?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Kan ikke læse placeringen <code>$1</code>, mener du <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
 "select a language" = "vælg et sprog";
 "Finish Editing" = "Afslut redigering";

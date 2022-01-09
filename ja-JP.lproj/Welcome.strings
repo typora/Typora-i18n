@@ -12,6 +12,7 @@ Japanese translated by
  "Send Anonymous Usage Info"
  */
 
+
 "Welcome to Typora" = "Typoraへようこそ";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typoraをご利用いただきありがとうございます 👋。Typoraは最小限なmarkdownの読み込みとエディタであり、 あなたに豊富な表示スタイルとソースコードによるシームレスな体験を提供します。";
 
@@ -58,7 +59,7 @@ Japanese translated by
 
 "Next" = "次へ";
 "Please accept license agreement first" = "先に進むには、ライセンス契約に同意をしてください";
-"Start %@ Days Trail" = "%@日間のトライアルを始める";
+"Start %@ Days Trial" = "%@日間のトライアルを始める";
 "Buy License" = "ライセンスを購入";
 "Activate" = "有効にする";
 
@@ -67,7 +68,7 @@ Japanese translated by
 "View License" = "ライセンスを確認";
 "Your Typora License" = "あなたのTyporaのライセンス";
 "This copy of Typora is registered with license information below." = "このTyporaのコピーは下のライセンス情報で登録されています。";
-"Your trail will be expired in %@ days." = "あなたのトライアル期間は残り%d日です。";
+"Your trial will be expired in %@ days." = "あなたのトライアル期間は残り%d日です。";
 "Enter License" = "ライセンスを入力";
 "Not Now" = "今は行わない";
 
@@ -77,4 +78,3 @@ Japanese translated by
 "This license code has been used with a different email address." =  "このライセンスは別のメールアドレスで使用されています。";
 "Unknown Error. Please contact hi@typora.io" = "不明なエラー。hi@typora.ioにご連絡ください。";
 "Failed to access the license server. Please check your network or try again later." = "ライセンスサーバーへのアクセスに失敗しました。あなたのネットワークを確認するか、時間をあけてもう一度お試しください。 ";
-

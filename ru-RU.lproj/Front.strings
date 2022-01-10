@@ -176,3 +176,17 @@
 "Successfully uploaded {0} images, {1} failed." = "Успешно загружено изображений — {0}, не удалось загрузить — {1}.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Можно отменить эту операцию позже с помощью команды `Правка` → `Отменить`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Можно нажать <strong>⌘ + клик</strong> для открытия <a href='#'>ссылок</a> или перехода к определению сноски.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Можно нажать <strong>CTRL + клик</strong> для открытия <a href='#'>ссылок</a> или перехода к определению сноски.";
+
+"<strong>Unibody</strong> style has been turned on." = "Включен стиль <strong>Unibody</strong>.";
+"You can right click titlebar to popup application menu." = "Вы можете щелкнуть правой кнопкой мыши на панели заголовка, чтобы открыть меню приложения.";
+
+"Support Document" = "Вспомогательный документ";
+
+"You are not supposed to edit or save this file." = "Вы не должны редактировать или сохранять этот файл.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Файлы в этом месте (%@) управляются Typora и могут быть удалены автоматически.<br/>Пожалуйста, скопируйте содержимое в новый файл для дальнейшего редактирования.";
+
+"File not exists at path %@." = "Файл не существует по пути %@.";
+"File not exists at path %@, do you want to create one at that path ?" = "Файл не существует по пути %@, хотите ли вы создать его по этому пути?";

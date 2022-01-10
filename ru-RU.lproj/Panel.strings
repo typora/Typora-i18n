@@ -466,3 +466,29 @@
 "End of current section" = "Конец текущего раздела";
 "Convert TeX formulas to web images" = "Преобразовывать формулы TeX в веб-изображения";
 "Image Format" = "Формат изображения";
+
+"Set Pandoc Path" = "Установить путь Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Применить разрыв строки для \\ и &#92;newline";
+
+"Export operation succeeded with warnings." = "Операция экспорта прошла успешно с предупреждениями.";
+
+"Typora is now deactivated" = "Typora деактивирована";
+"This device has been deactivated" = "Это устройство было деактивировано";
+"UNREGISTERED" = "НЕТ РЕГИСТРАЦИИ";
+
+"Allow physics package to redefine existing TeX commands" = "Разрешить пакету physics переопределять существующие команды TeX";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "При включении такие команды, как \\div и \\Re будут переопределены пакетом physics.";
+
+"Your Typora is not activated." = "Ваша версия Typora не активирована.";
+"Your Typora has been activated." = "Ваша версия Typora была активирована.";
+"Typora activation is required to change this." = "Для изменения этого требуется активация Typora.";
+"You can reinstall the stable version and then disable this." = "Вы можете переустановить стабильную версию, а затем отключить это.";
+"Update to dev version" = "Обновляться до версии для разработчиков";
+
+"Typora Server" = "Сервер Typora";
+"Use Typora Server in China" = "Использовать сервер Typora в Китае";
+
+"File does not exist" = "Файл не существует";
+"Create File" = "Создать файл";
+"Create Folder" = "Создать папку";

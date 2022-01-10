@@ -1,0 +1,88 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+  translation by @sponka9 / Boštjan <sponka@gmail.com>
+
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Dobrodošli v Typori";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Hvala, da uporabljate Typoro 👋. Typora je minimalen markdown urejevalnik in markdown bralnik, vam omogoča brezhibno izkušnjo med prikazano obogateno vsebino in izvorno kodo.";
+
+"Get Start" = "Pričnite z uporabo";
+"Check following links if you're new to Markdown or Typora." = "Če se šele spoznavate z Markdown ali Typoro preverite spodnje povezave.";
+
+"Activate Typora" = "Aktivirajte Typoro";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Ste že pridobili licenco? Izpolnite spodnji obrazec in aktivirajte program.";
+
+"Email" = "E-pošta";
+"Email Address" = "E-poštni naslov";
+"License Code" = "Licenca";
+
+"Help" = "Pomoč";
+"Find my License" = "Najdi mojo licenco";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Sprejmite <a href='https://support.typora.io/License-Agreement/'>Licenčno pogodbo</a> in <a href='https://support.typora.io/Privacy-Policy/'>Politiko zasebnosti.</a>.";
+
+"Live Preview" = "Predogled v živo";
+"Write and read rendered output instantly." = "Zapisano se takoj prikaže v berljivi obliki.";
+"Markdown Syntax" = "Markdown skladnja";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, opravila, opombe, zabele, matematične formule, diagrami";
+"Import / Export" = "Uvoz / Izvoz";
+"Deliver your content in various formats." = "Predstavite svojo vsebino v različnih oblikah.";
+"Editing Experience" = "Izkušnja urejanja";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Oris / Štetje besed / Fokus način / Način pisalnega stroja";
+
+"Files" = "Datoteke";
+"Manage files in sidebar and search across files." = "Upravljanje datotek v stranski vrstici in iskanje po datotekah.";
+"Customize" = "Prilagoditve";
+"Customize your writing experience from preferences panel." = "Prilagodite svojo izkušnjo pisanja v nadzorni plošči.";
+"Themes" = "Teme";
+"Write in the theme you like, or make one by your own." = "Pri pisanju uporabite temo, ki vam je všeč ali pa jo ustvarite popolnoma na novo.";
+"And more" = "In še več";
+"Explorer more topics at support.typora.io" = "Raziščite možnosti na naslovu support.typora.io";
+
+"Quick Start" = "Hitri začetek";
+"Markdown Reference" = "Markdown refrenca";
+"Explorer Themes" = "Raziščite teme";
+"More Topics" = "Več vsebin";
+
+"Typora Activated" = "Typora je aktivirana";
+"Thanks for your purchase." = "Hvala za nakup.";
+
+"Next" = "Naprej";
+"Please accept license agreement first" = "Prosimo, najprej sprejmite licenčne pogoje.";
+"Start %@ Days Trial" = "Pričnite %@ dnevno preizkušnjo";
+"Buy License" = "Kupite licenco";
+"Activate" = "Aktiviraj";
+
+"Close" = "Zapri";
+"Deactivate" = "Deaktiviraj";
+"View License" = "Prikaži licenco";
+"Your Typora License" = "Vaša Typora licenca";
+"This copy of Typora is registered with license information below." = "Ta kopija Typore je registirana s spodnjimi informacijami.";
+"Your trial will be expired in %@ days." = "Vaša preizkusna doba poteče v %@ dneh.";
+"Enter License" = "Vnesi licenco";
+"Not Now" = "Ne sedaj";
+
+"Please input a valid email address" = "Prosimo, vnesite veljaven e-poštni naslov";
+"Please input a valid license code"  = "Prosimo, vnesite veljavno licenco";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Dosegli ste največje dovoljeno število licenciranih naprav.\nNajstarejša naprava je bila samodejno odregistrirana.";
+"This license code has been used with a different email address." =  "Ta licenca je že uprabljena z drugim e-poštnim naslovom.";
+"Unknown Error. Please contact hi@typora.io" = "Neznana napaka. Za pomoč pišite na naslov hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Dostop do strežnika z licencami ni uspel. Preverite omrežno povezavo in poskusite znova.";
+
+"Enter a license code to support our development ❤" = "Vnesite licenčno kodo za podporo našemu razvoju ❤";
+"Re-enter Email" = "Ponovite e-poštni naslov";
+"Email address confirmation does not match." = "Potrditev e-poštnega naslova se ne ujema.";
+
+"Are you sure to deactivate Typora on this device?" = "Ali ste prepričani, da deaktivirate Typoro v tej napravi?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Vaša licenca je presegla največje število naprav.\nČe kliknete \"Nadaljuj z aktivacijo\", bo ta naprava aktivirana, najstarejša naprava pa bo samodejno odjavljena.";
+"Continue Activation" = "Nadaljuj z aktivacijo";

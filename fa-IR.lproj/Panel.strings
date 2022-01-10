@@ -12,7 +12,7 @@
 
 /* General Panel */
 "General" = "عمومی";
-"Window Style" = "Window Style";
+"Window Style" = "سبک پنجره";
 "Classic" = "سنتی";
 "Seamless" = "یک پارچه";
 "Seamless window only support OS X later than 10.10." = "پنجره‌ی یکپارچه تنها در نسخه OS X و بعد از 10.10 پشتیبانی می‌شود‫.‬";
@@ -51,7 +51,7 @@
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "همیشه هنگامی که حالت ماشین تحریر فعال است\nنشانک را در وسط نگهدار";
 
 /* Markdown Panel */
-"Markdown" = "مارکدون";
+"Markdown" = "مارک‌داون";
 "(Following preferences will be applied after restart.)" = "(تنظیمات زیر پس از اجرای مجدد برنامه اعمال خواهند شد.)";
 "Syntax Support" = "پشتیبانی سینتکس";
 "Inline Math  ( e.g: $\LaTeX$ )" = "فرمول ریاضی درون‌خطی  ( e.g: $\LaTeX$ )";
@@ -96,7 +96,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc احتیاج دارد تا این فایل‌های فرمت را وارد کند";
 "Check help->Install and use Pandoc from menubar for detail" = "مسیر help->Install را بررسی کرده و Pandoc را برای اطلاعات بیشتر استفاده کنید";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "افزودن یا برخی از خصوصیات خروجی گرفتن احتیاج دارد تا نسخه <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) نصب شود.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "افزودن یا برخی از خصوصیات خروجی گرفتن احتیاج دارد تا نسخه <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) نصب شود.";
 "Follow Instructions to Install/Update Pandoc" = "مطابق دستورات پیش روید تا Pandoc را نصب‫/‬بروزرسانی نمایید‫.‬";
 "Export Failed" = "خروجی گرفتن ناموفق بود";
 "Import Failed" = "افزودن ناموفق بود";
@@ -203,7 +203,7 @@
 "More Formats" = "فرمت‌های بیشتر";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "فایل فرمت‌ها تحت بخش‌های 'فرمت‌های بیشتر' به <a class='open-pandoc-guide'>Pandoc جهت نصب نیاز دارد</a>.";
 "Something is Wrong…" = "مشکلی وجود دارد…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "ذخیره محتوی به دلایلی ناموفق بود.<br/>شما باید محتویات این فایل را به فایلم دیگری در Typora منتقل کرده و در آنجا دوباره ذخیره کنید. <br/>در این باره بیشتر بدانید:<ul><li><a href='https://support.typora.io/Report-Bugs/'>گزارش باگ به ما</a></li><li><a href='https://support.typora.io/Version-Control//'>بازیابی محتویات از دست رفته</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "ذخیره محتوی به دلایلی ناموفق بود.<br/>شما باید محتویات این فایل را به فایلم دیگری در Typora منتقل کرده و در آنجا دوباره ذخیره کنید. <br/>در این باره بیشتر بدانید:<ul><li><a href='https://support.typora.io/Report-Bugs/'>گزارش باگ به ما</a></li><li><a href='https://support.typora.io/Version-Control/'>بازیابی محتویات از دست رفته</a></li></ul>";
 "Copy Content" = "کپی محتوی";
 
 
@@ -230,7 +230,7 @@
 "Whitespace / Line Break" = "خط‌ فاصله / خط بعدی";
 "When Writing" = "در هنگام نوشتن";
 "Export / Print" = "خروجی / پرینت";
-"Preserve sequential whitespace and single line break" = حفظ خط فاصله و خط بعدی";
+"Preserve sequential whitespace and single line break" = "حفظ خط فاصله و خط بعدی";
 "Ignore sequential whitespace and single line break" = "نادیده گرفتن خط فاصله و خط بعدی";
 
 "Quit" = "خروج";

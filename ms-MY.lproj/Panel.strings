@@ -1,0 +1,488 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ ms-MY by anatilmizun@gmail.com
+ */
+
+/* Preference Panel */
+"Preferences" = "Pilihan";
+
+/* General Panel */
+"General" = "Umum";
+"Window Style" = "Gaya Tetingkap";
+"Classic" = "Klasik";
+"Seamless" = "Tanpa Bingkai";
+"Seamless window only support OS X later than 10.10." = "Tetingkap tanpa bingkai hanya menyokong OS X kemudian daripada 10.10.";
+"Themes" = "Tema";
+"Open Theme Folder" = "Buka Folder Baru";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Sila periksa `Bantuan`->`Mula Cepat` untuk pengenalan ringkas. Lawat http://theme.typora.io untuk dapatkan lebih tema dan arahan.";
+"Word Count" = "Kiraan Perkataan";
+"Always Show Word Count" = "Sentiasa Tunjuk Kiraan Perkataan";
+"Font Size" = "Saiz Fon";
+"Auto ( Recommended )" = "Auto ( Digalakkan )";
+"Customized" = "Diubah khas";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Jika saiz fon khas digunakan, saiz fon sebenarnya bergantung kepada saiz fon asas dan gaya CSS.";
+"Left Panel" = "Panel Kiri";
+"Show Outline Panel by Default" = "Tunjuk Panel Kerangka secara Auto";
+"Collapsible Outline on Left Panel" = "Kerangka Boleh Kuncup dalam Panel Kiri";
+"Save without asking when\nswitch files on side panel" = "Simpan tanpa bertanya apabila\nberalih fail dalam panel sisi";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Fail tersunting akan disimpan tanpa bertanya apabila beralih fail dalam panel sisi. \nApabila \"Tanya untuk simpan perubahan apabila menutup dokumen\" dimatikan dalam Pilihan Sistem, ini akan sentiasa dibolehkan.";
+"Language" = "Bahasa";
+"System Language" = "Bahasa Sistem";
+
+/* Editor Panel */
+"Editor" = "Penyunting";
+"Indent Size on Save" = "Saiz Lekuk semasa Simpan";
+"only apply to quotes and lists created from menu bar or hybrid view" = "hanya guna pakai untuk petikan dan senarai yang dibuat daripada bar menu atau paparan hibrid";
+"Trigger Autocomplete without ESC key for" = "Cetus Autolengkap tanpa kekunci ESC key untuk";
+"Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
+"Images Insert" = "Sisipan Imej";
+"Use relative path if possible" = "Guna laluan relatif jika boleh";
+"Auto Pair" = "Auto Padan";
+"Auto pair brackets and quotes" = "Auto padan kurungan dan petikan";
+"Auto pair common Markdown syntax" = "Auto padan sinteks Markdown lazim";
+"Live Rendering" = "Rendering Secara Langsung";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Papar sumber untuk blok ringkas\n(termasuk tajuk, etc.) semasa fokus";
+"Default Copy Behavior" = "Tingkah Laku Asas Menyalin";
+"Copy Markdown source as plain text" = "Salin sumber Markdown sebagai teks biasa";
+"Typewriter Mode" = "Mod Mesin Taip";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Sentiasa kekalkan karet di tengah skrin\nsemasa mod mesin taip dibolehkan";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Pilihan berikut akan digunapakai selepas mula semua.)";
+"Syntax Support" = "Sokongan Sinteks";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Matematik Dalam Barisan  ( e.g: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Subskrip    ( e.g: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Superskrip ( e.g: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Tonjolan     (e.g: ==key==)";
+"Diagrams" = "Gambarajah";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"Syntax Preference" = "Pilihan Sinteks";
+"(only applies to styles created from menubar or hybrid view)" = "(hanya gunapakai untuk penggayaan terbuat daripada bar menu atau paparan hibrid)";
+"Strict Mode" = "Mod Tegas";
+"(more strict to GFM spec)" = "(lebih tegas pada spesifikasi GFM)";
+"Heading Style" = "Gaya Tajuk";
+"Unordered List" = "Senarai Tanpa Turutan";
+"Ordered List" = "Senarai Dengan Turutan";
+"Code Fences" = "Pagar Kod";
+"Display line numbers for code fences" = "Tunjuk nombor barisan untuk pagar kod";
+"Math Blocks" = "Blok Matematik";
+"Auto Numbering Math Equations" = "Auto Nombor Persamaan Matematik";
+
+/* Security Panel */
+"Security" = "Keselamatan";
+"Enable Debug" = "Bolehkan Nyahpijat";
+"Send Anonymous Usage Info" = "Hantar Maklumat Penggunaan Tanpa Nama";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Perlukan Pandoc untuk Teruskan...";
+"Follow instructions to install Pandoc" = "Ikut Arahan untuk Memasang Pandoc";
+"Cancel" = "Batal";
+
+/* Pandoc Import Panel */
+"Importing..." = "Sedang Mengimport...";
+"Importing in progress..." = "Pengimportan dalam kemajuan...";
+"Converting file with Pandoc. This may take some time." = "Ubah fail dengan Pandoc. Ini mungkin akan memerlukan masa.";
+"Abort" = "Gugur";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Sedang Mengeksport...";
+"Exporting in progress..." = "Pengeksportan dalam kemajuan...";
+"Converting file with Pandoc. This may take some time." = "Sedang mengubah fail dengan Pandoc. Ini mungkin akan memerlukan masa.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc diperlukan untuk mengimport format-format fail ini";
+"Check help->Install and use Pandoc from menubar for detail" = "Periksa Bantuan->Pasang dan gunakan Pandoc daripada bar menu untuk maklumat lanjut";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Import atau sesetengah ciri-ciri eksport memerlukan <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) dipasang.";
+"Follow Instructions to Install/Update Pandoc" = "Ikut Arahan untuk Memasang/Mengemaskini Pandoc";
+"Export Failed" = "Eksport Gagal";
+"Import Failed" = "Import Gagal";
+"Generated Image too Large" = "Imej Terjana Terlalu Besar";
+"Failed to export file to <em>{0}</em>" = "Gagal mengeksport fail ke <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Gagal mengimport fail ke <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Fail tidak wujud di <em>{0}</em>";
+"Export to..." = "Eksport ke...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Adakah anda mahu menyimpan perubahan terhadap dokumen ini ?<br> Perubahan anda akan hilang jika anda tidak menyimpannya.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Amaran] Gagal melampirkan penanda buku utk fail PDF.";
+"Dark Theme not support" = "Tema Gelap Tidak Disokong";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Maaf, versi semasa Typora tidak akan mencetak warna latar atas PDF yang dieksport, Jadi tema gelap masih belum disokong untuk mengeksport PDF. \nSila pilih tema cerah atau klik \"Cetak dengan tema asas\"";
+"Print with default theme" = "Cetak dengan tema asas";
+"Export to PDF successfully." = "Eksport ke PDF dengan jayanya.";
+"Converting file using Pandoc. This may take some time." = "Sedang mengubah fail menggunakan Pandoc. Ini mungkin akan memerlukan masa.";
+"Exporting file using Pandoc. This may take some time." = "Sedang mengeksport fail menggunakan Pandoc. Ini mungkin akan memerlukan masa.";
+
+"Uploading in progress…" = "Muat naik dalam kemajuan…";
+"Do not show this again" = "Jangan tunjuk ini lagi";
+
+/* Word Count */
+"Minute" = "Minit";
+"Line" = "Barisan";
+"Word" = "Perkataan";
+"Character" = "Aksara";
+
+"Minutes" = "Minit";
+"Lines" = "Barisan";
+"Words" = "Perkataan";
+"Characters" = "Aksara";
+"In Selection" = "Dalam Pilihan";
+"Panel" = "Panel";
+
+/* Windows Prefernce Panel*/
+"Appearance" = "Penampilan";
+"System Native" = "Asli Sistem";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(tergunapakai selepas mula semula)";
+"Status Bar" = "Bar Status";
+"Show status bar" = "Tunjuk Bar Status";
+"Save & Recover" = "Simpan & Pulih";
+"Auto Save" = "Auto Simpan";
+"Recover Unsaved Drafts" = "Pulih Draf Belum Simpan";
+"Emoji Autocomplete" = "Emoji Autolengkap";
+"Trigger by ESC key" = "Cetus menggunakan kekunci ESC";
+"Trigger automatically" = "Cetus secara automatik";
+"Default Line Ending" = "Penamat Barisan Asal";
+"Line ending for new file" = "Penamat barisan untuk fail baru";
+"Spell Check" = "Semak Ejaan";
+"Auto correct spelling" = "Autobetul ejaan yang betul";
+"System" = "Sistem";
+"Privacy" = "Privasi";
+"Developer" = "Pemaju";
+"Update" = "Kemaskini";
+"Check Updates" = "Periksa Kemaskini";
+"Check updates automatically" = "Periksa kemaskini secara automatik";
+"Advanced Settings" = "Tetapan Lanjut";
+"Open Advanced Settings" = "Buka Tetapan Lanjut";
+"Reset Advanced Settings" = "Set Semula Tetapan Lanjut";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Fungsi ini memerlukan versi terbaru iPic dipasang.";
+"Get iPic" = "Dapatkan iPic";
+"Cannot Continue…" = "Tidak Boleh Diteruskan…";
+"This feature require macOS >= 10.11" = "Ciri ini memerlukan macOS >= 10.11";
+"One More Step" = "Satu Lagi Langkah";
+"Notice" = "Notis";
+
+"%d Images Failed to Upload." = "%d Imej Gagal Dimuat Naik.";
+"%d Succeeded," = "%d Berjaya, ";
+"Enable this feature on preferences panel" = "Perboleh ciri ini dalam panel pilihan";
+"The option `%@` must be enabled first to automatically upload images." = "Pilihan `%@` mesti dibolehkan terlebih dahulu untuk memuat naik imej secara automatik.";
+"%@ is a file, not a directory" = "%@ ialah satu fail, bukan satu direktori";
+"Copy Images To…" = "Salin Imej Ke…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sedang mencuba menyalin imej yang baru dimasukkan ke folder %@ menurut kepada tetapan YAML Front Matter atau pilihan global anda. Tetapi folder sasaran tidak wujud, buatnya sekarang?";
+"Create Folder and Continue" = "Buat Folder dan Teruskan";
+"Document must be saved first" = "Dokumen mesti disimpan terlebih dahulu";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora akan menyalin imej yang baru dimasukkan ke folder mengikut laluan relatif terpilih, jadi sila simpan fail terlebih dahulu.";
+"Open Operation Failed" = "Operasa Membuka Gagal";
+
+"Support Documentation" = "Dokumentasi Sokongan";
+
+"Markdown File" = "Fail Markdown";
+"Plain Text File" = "Fail Teks Biasa";
+"All Files" = "Semua Fail";
+"All Supported Formats" = "Semua Format Tersokong";
+"Discard Changes" = "Buang Perubahan";
+"Discard" = "Buang";
+
+"Menu" = "Menu";
+"Back" = "Kembali";
+
+"Contact" = "Hubungi";
+"Open From..." = "Buka Dari...";
+"Import..." = "Import...";
+"Recent Documents" = "Dokumen Terkini";
+"Search for" = "Carian";
+"Clear Recent Documents" = "Kosongkan Dokumen Terkini";
+"File Name" = "Nama Fail";
+"Path" = "Laluan";
+"Export As..." = "Eksport Sebagai...";
+"More Formats" = "Format Lanjut";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Format fail bawah seksyen 'Format Lanjut' memerlukan <a class='open-pandoc-guide'>Pandoc dipasang</a>.";
+"Something is Wrong…" = "Ada yang Tidak Kena…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Penyimpanan kandungan gagal atas sebab tertentu.<br/>Anda boleh menyalin kandungan ke dalam tetingkap Typora baru, dan kemudian menyimpannya. <br/>Belajar lanjut tentang:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Lapor pepijat kepada kami</a></li><li><a href='https://support.typora.io/Version-Control//'>Pulih kandungan yang hilang</a></li></ul>";
+"Copy Content" = "Salin Kandungan";
+
+
+"Total" = "Jumlah";
+"Word count only support OS X later than 10.10." = "Kiraan perkataan hanya menyokong OS X terkemudian daripada 10.10.";
+"Indent Size for Code" = "Saiz Lekukan untuk Kod";
+"Auto wrap long lines" = "Auto wrap barisan panjang";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Maaf, versi semasa Typora tidak akan mencetak warna latar. \nJadi tema gelap masih belum disokong untuk percetakan. \nSila pilih tema cerah atau klik \"Cetak dengan tema asas\"";
+"Export to PDF" = "Eksport ke PDF";
+"Pretty indentation" = "Lekukan Cantik";
+"Update markdown reference for this image" = "Kemaskini rujukan markdown untuk imej ini";
+
+"No special action" = "Tiada tindakan istimewa";
+"Copy image to current folder (./)" = "Salin imej ke folder semasa (./)";
+"Copy image to ./assets" = "Salin imej ke ./assets";
+"Copy image to ./${filename}.assets" = "Salin imej ke ./${filename}.assets";
+"Apply above rules to local images" = "Gunapakai aturan di atas pada imej tempatan";
+"Apply above rules to online images" = "Gunapakai aturan di atas pada imej atas talian";
+"Allow upload images automatically based on YAML settings" = "Benarkan muat naik imej secara automatik berasaskan tetapan YAML";
+
+"Learn More" = "Belajar Lebih Lanjut";
+"Whitespace / Line Break" = "Jarak Kosong / Pemecah Barisan";
+"When Writing" = "Ketika Menulis";
+"Export / Print" = "Eksort / Cetak";
+"Preserve sequential whitespace and single line break" = "Pelihara jarak kosong berturutan dan pecahan barisan tunggal";
+"Ignore sequential whitespace and single line break" = "Abaikan jarak kosong berturutan dan pecahan barisan tunggal";
+
+"Quit" = "Keluar";
+"Quit Typora when last window is closed" = "Keluar Typora apabila tetingkap terakhir ditutup";
+"On Launch" = "Semasa Pelancaran";
+"Open new file" = "Buka Fail Baru";
+"Restore last closed folders" = "Pulih folder terakhir yang ditutup";
+"Restore last closed files and folders" = "Pulih fail dan folder terakhir yang ditutup";
+"Open custom folder" = "Buka folder khas";
+"Select custom folder" = "Pilih folder khas";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Pilihan ini mungkin diatasi oleh \"Tutup tetingkap semasa keluar daripada aplikasi\" dalam Pilihan Sistem";
+
+"Ignore" = "Abaikan";
+"Choose Default Folder" = "Pilih Folder Asal";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Tukar semasa Input</strong>: Input sempang dan petikan ASCII, ditukar dan disimpan sebagai petikan kerinting atau sempang unicode.<br/><strong>Tukar semasa Rendering</strong>: Input disimpan sebagai sempang dan petikan ASCII, render sebagai petikan kerinting atau sempang unicode.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Kenalpasti tanda baca unicode sebagai gantian ASCII semasa menghurai markdown, contohnya:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Ianya akan dihidupkan secara automatik jika petikan/sempang pintar akan ditukar semasa input.<div>";
+
+"Copy image to custom folder" = "Salin imej ke dalam folder khas";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Sila nyatakan laluan relatif ke folder semasa  yang bermula dengan './' or '../', atau laluan folder mutlak. (`${filename}` mewakili nama fail semasa.)";
+"Restore to previous setting" = "Pulih kepada tetapan sebelumnya";
+"Folder not exist at %@, please input another path." = "Folder tidak wujud di %@, sila masukkan laluan lain.";
+"Please input a folder path." = "Sila masukkan satu laluan folder.";
+"Cannot use root path." = "Tidak boleh menggunakan laluan akar (root path).";
+
+"Get Themes" = "Dapatkan Tema";
+"File/directory already exists at target path." = "Fail/direktori sudah wujud di laluan sasaran.";
+"Keep Both" = "Simpan Keduanya";
+"Are you sure you want to move %@?" = "Anda pasti anda mahu memindahkan %@?";
+
+"Are you sure you want to delete %@?" = "Anda pasti anda mahu memadamkan %@?";
+"You can restore from the Trash." = "Anda boleh pulih daripada Trash.";
+
+"Reset All Dialog Warnings" = "Set Semula Semua Amaran Dialog";
+"Dialogs" = "Dialog";
+"Dialog warnings have been reset." = "Amaran dialog telah diset semula.";
+
+"Operation Failed" = "Operasi Gagal";
+"Failed to move target file or folder to trash" = "Gagal memindahkan fail atau folder sasaran ke Trash";
+
+"Undo %@" = "Undur %@";
+"Rename %@" = "Nama Semula %@";
+"Copy %@" = "Salin %@";
+"Move %@" = "Pindah %@";
+"Delete %@" = "Padam %@";
+
+"Turn off Typewriter / Focus Mode" = "Padamkan Mod Mesin Taip / Fokus";
+"Typewriter / Focus Mode have been turned off." = "Mod Mesin Taip / Fokus telah ditutup.";
+
+"Reading Speed" = "Kelajuan Membaca";
+"Auto" = "Auto";
+"words / min" = "perkataan / minit";
+
+"Reset to Default" = "Set Semula ke Asal";
+"120  words/minute (Slow)" = "120  perkataan/minit (Perlahan)";
+"240  words/minute (Medium)" = "240  perkataan/minit (Biasan)";
+"382  words/minute (Fast)" = "382  perkataan/minit (Laju)";
+
+"Copy and update image source to…" = "Salin dah kemaskini sumber imej kepada…";
+"Updater" = "Pengemaskini";
+"Install Updates ?" = "Pasang Kemaskini ?";
+"Quit and Install" = "Keluar dan Pasang";
+"Download failed" = "Muat turun gagal";
+"Downloading Updates…" = "Memuat Turun Kemaskini…";
+"Checking Updates…" = "Memeriksa Kemaskini…";
+"Check Update Failed" = "Pemeriksaan Kemaskini Gagal";
+"You're up to date!" = "Anda sudah terkemaskini!";
+"Latest version is $1, your version is $2" = "Versi terbaru ialah $1, versi anda ialah $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Pilihan ini juga boleh ditukar di bawah menu \"Suntingan→Jarak Kosong dan Pemecah Barisan\"";
+"Auto escape image URL when insert" = "Auto escape URL imej ketika memasuk";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Contohnya, jika anda masukkan satu fail di 'img/example file.png', ia akan menjadi 'img/example%20file.png'. Perbolehkan ini untuk kesesuian yang lebih baikdengan enjin Markdown, atau padamkannya untuk kebolehbacaan yang lebih baik.";
+"Check updates automatically" = "Periksa kemaskini secara automatik";
+"Skip This Version" = "Langkau Versi Ini";
+"Remind Me Later" = "Ingatkan Saya Nanti";
+"Download Update" = "Muat Turun Kemaskini";
+"New version available." = "Versi baru tersedia.";
+
+"When copy / export as HTML (without style)" = "Apabila menyalin / eksport sebagai HTML (tanpa penggayaan)";
+"Use Rendered SVG" = "Gunakan SVG Ter-render";
+"Use LaTeX Source" = "Gunakan Sumber LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Memberi kesan apabila eksport sebagai HTML (tanpa gaya) atau salin sebagai kod HTML, atau salin tanpa gaya tema.<br/>Apabila <strong>Gunakan Sumber LaTeX</strong> dipilih, Typora akan meletakkan sumber mentah LaTeX (contohnya: $X^2$),<br/>Apabila <strong>Gunakan SVG Ter-render</strong> dipilih, SVG ter-render akan digunakan, jika anda menampak kepada aplikasi lain, SVG mungkin akan diabaikan.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Fungsi import dan beberapa format eksport memerlukan Pandoc (≥%@) dipasang.";
+"Do not show this message again" = "Jangan tunjuk mesej ini lagi";
+
+"Page Break Between Top Headings" = "Pecahan Halaman Antara Tajuk Utama";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Maaf, sesuatu ralat berlaku, kandungan penulisan semasa telah disalin ke clipboard. Anda boleh melapor ini kepada <hi@typora.io> untuk membantu kami membetulkan ralat ini.";
+"Try Recovery" = "Cuba Pemulihan";
+"Other Options for Data Recovery" = "Pilihan Lain untuk Pemulihan Data";
+
+"When Insert" = "Ketika Memasukkan";
+"Upload image" = "Muat Naik Imej";
+"e.g: %@" = "contohnya: %@";
+"Test Uploader" = "Uji Pemuat Naik";
+"Validating" = "Mengesahkan Pemuat Naik Imej";
+"Validation Failed" = "Pengesahan Gagal";
+"Validation Succeed" = "Pengesahan Berjaya";
+"Testing image uploading using command:" = "Menguji muat naik imej menggunakan perintah:";
+"Running… Waiting for results." = "Berjalan… Sedang menunggu hasil.";
+"Output from the console:" = "Output daripada konsol:";
+"Error from the console:" = "Ralat daripada konsol:";
+"Failed to fetch uploaded image from command output." = "Gagal mengambil imej termuat naik daripada output perintah.";
+"Successfully get uploaded image url." = "Berjaya mendapatkan URL imej termuat naik.";
+"Image Uploader" = "Pemuat Naik Imej";
+"Instructions" = "Arahan";
+"Download %@" = "Muat Turun %@";
+"Image Upload Setting" = "Tetapan Muat Naik Imej";
+"Please set an image uploader in Preferences panel before using this function." = "Sila set pemuat naik imej dalam Panel Pilihan sebelum menggunakan fungsi ini.";
+"Download or Upgrade" = "Muat Turun atau Maik Taraf";
+"Open Config File" = "Buka Fail Konfigurasi";
+"Command" = "Perintah";
+"PicGo Path" = "Laluan PicGo";
+"Path of PicGo binary" = "Laluan binari PicGo";
+"Executable" = "Executable";
+"Checking" = "Sedang Memeriksa";
+"Download" = "Muat Turun";
+"Agree and Download" = "Setuju dan Muat Turun";
+"Download and Reinstall" = "Muat Turun dan Pasang Semula";
+"Loading PicGo-Core License" = "Muat Lesem PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Gagal mendapatkan versi terpasang PicGo-Core (command line)";
+"You have the latest PicGo-Core (CLI)" = "Anda memiliki PicGo-Core terkini (CLI)";
+"Newer version is available" = "Versi lebih baru tersedia";
+
+"Downloading…" = "Sedang Muat Turun…";
+"Unzipping…" = "Sedang Unzip…";
+"Finished" = "Selesai";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora akan melancarkan aplikasi pihak ketiga dengan laluan fail semua imej tempatan. Pemuat naik imej dan pengstoran imej awanan akan memiliki akses kepada imej tempatan. Adakah anda pasti untuk teruskan?";
+
+"Export operation finished successfully." = "Operasi pengeksportan selesai dengan jayanya.";
+
+"Shortcut Keys" = "Kekunci Pintas";
+"Custom Shortcut Keys" = "Kekunci Pintas Khas";
+
+"Theme" = "Tema";
+"Light Theme" = "Tema Cerah";
+"Dark Theme" = "Tema Gelap";
+"Use separate theme in dark mode" = "Guna tema berasingan dalam mod gelap";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Tersokong atas macOS ≥ 10.15 atau Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Ubah -- kepada – (en dash), dan --- kepada — (em dash)";
+"Convert -- and --- to — (em dash)" = "Uba -- dan --- kepada — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Anda boleh tetapkan corak petikan dalam Pilihan Sistem → Papan Kekunci → Teks. Sekiranya ditukar, Typora akan perlu mula semua untuk menggunapakainya.";
+
+
+"Paper Size" = "Saiz Kertas";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Pecahan Halaman";
+"Page Break Between Top Headings" = "Pecahan Halaman Antara Tajuk Utama";
+"Header" = "Tajuk";
+"Footer" = "Pengaki";
+"Author" = "Pengarang";
+"Append in <head />" = "Lampir di <head />";
+"Append in <body />" = "Lampir di <body />";
+"Include Outline Sidebar" = "Sertakan Bar Sisi Kerangka";
+"Width" = "Lebar";
+"Command" = "Perintah";
+"Show Save File Dialog" = "Tunjuk Dialog Simpan Fail";
+"File Extensions for Export" = "Sambungan Fail untuk Eksport";
+"Arguments" = "Hujahan";
+"Extra Arguments" = "Hujahan Tambahan";
+"LaTeX Engine" = "Enjin LaTeX";
+"Template" = "Templat";
+"Empty" = "Kosong";
+"Style Reference" = "Rujukan Penggayaan";
+"Custom CSS" = "CSS Khas";
+"Chapter Level" = "Peringkat Bab";
+"Default Folder for Exported File" = "Folder Asal untuk Pengeksportan Fail";
+"Same folder with current file" = "Folder sama dengan fail semasa";
+"Custom location" = "Location khas";
+"(Auto Detect)" = "(Auto Kesan)";
+"After Export" = "Selepas Eksport";
+"Open exported file location" = "Buka lokasi fail yang dieksport";
+"Open exported file" = "Buka fail yang dieksport";
+"Custom" = "Khas";
+"None" = "Tiada";
+"Default" = "Asal";
+"Margin" = "Margin";
+"Margin Left" = "Margin Kiri";
+"Margin Right" = "Margin Kanan";
+"Margin Top" = "Margin Atas";
+"Margin Bottom" = "Margin Bawah";
+"Width x Height" = "Lebar x Tinggi";
+"Add From a Template" = "Tambah Daripada Templat";
+"Delete this export option ?" = "Padam pilihan eksport ini ?";
+"Add" = "Tambah";
+"Delete" = "Padam";
+"Rename" = "Nama Semula";
+"Move Down" = "Pindah Ke Bawah";
+"Move Up" = "Pindah Ke Atas";
+"Pandoc Path" = "Laluan Pandoc";
+"Select" = "Pilih";
+"Target Format" = "Format Sasaran";
+"auto detect based on target file path" = "auto kesan berdasarkan laluan fail sasaran";
+"Target File Extensions (separate by whitespace)" = "Sambungan Fail Sasaran (dipisahkan oleh jarak kosong)";
+"e.g: .text .asciidoc or leave this empty" = "contohnya: .text .asciidoc atau biarkan kosong";
+"Raw Type" = "Jenis Mentah";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Tunjuk Dialog Simpan Fail";
+"Do not popup save file dialog" = "Jangan timbulkan dialog simpan fail";
+"Select file path to save" = "Pilih laluan fail untuk disimpan";
+"Select folder path to save" = "Pilih laluan folder untuk disimpan";
+"PDF Engine" = "Enjin PDF";
+"Show command output" = "Tunjuk hasil perintah";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksport dan Tulis Tindih dengan Sebelumnya\" akan menulis tindih di %@, adakah anda akan teruskan?";
+"Command Arguments:" = "Hujahan Perintah:";
+"This beta version of Typora is expired, please download and install a newer version." = "Versi beta Typora ini sudah tamat tempoh, sila muat turun dan pasang versi lebih baru.";
+"Current Theme" = "Tema Semasa";
+"After Export" = "Selepas Eksport";
+"Run command" = "Jalankan perintah";
+"Run command after export failed" = "Jalankan perintah selepas pengeksportan gagal";
+"Read and overwrite export settings from YAML front matters" = "Baca dan tulis tindih tetapan pengeksportan daripada YAML front matters";
+"Append Extra Content (HTML)" = "Lampirkan Kandungan Tambahan (HTML)";
+"Change this option to specify a separated theme for export." = "Tukar pilihan ini untuk menyatakan tema berasingan yang akan dieksport.";
+"Dark theme is not supported." = "Tema gelap tidak disokong.";
+
+"Markdown Variants" = "Variasi Markdown";
+"Original Unextended Markdown" = "Markdown Asli";
+"CommonMark with many pandoc extensions" = "CommonMark dengan sambungan pandoc pelbagai";
+"Line Wrap" = "Pindah Baris";
+"Hard line wrap" = "Pindah Baris Sepenuhnya";
+"Text Column Width" = "Kelebaran Lajur Teks";
+"Auto (based on current OS)" = "Auto (berdasarkan OS semasa)";
+"Indent" = "Lekukan";
+"Preserve tabs" = "Pelihara tab";
+"2 spaces per tab" = "2 jarak kosong per tab";
+"3 spaces per tab" = "3 jarak kosong per tab";
+"4 spaces per tab" = "4 jarak kosong per tab";
+"Unicode Characters" = "Aksara Unicode";
+"Use only ASCII characters in output" = "Hanya gunakan aksara ASCII dalam pengeluaran";
+"Use reference-style links rather than inline links" = "Gunakah pautan gaya-rujukan berbanding pautan dalam barisan";
+"Footnotes and References Location" = "Nota Kaki dan Lokasi Rujukan";
+"End of document" = "Penghujung dokumen";
+"End of current (top-level) block" = "Penghujung blok (peringkat utama) level";
+"End of current section" = "Penghujung seksyen semasa";
+"Convert TeX formulas to web images" = "Tukar formula TeX kepada imej web";
+"Image Format" = "Format Imej";
+
+"Set Pandoc Path" = "Tetapkan Laluan Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Gunapakai Pemecah Barisan di \\ dan &#92;newline";
+
+"Export operation succeeded with warnings." = "Operasi mengeksport berjaya dengan amaran.";
+
+"Typora is now deactivated" = "Typora telah dinyahaktifkan";
+"This device has been deactivated" = "Peranti ini telah dinyahaktifkan";
+"UNREGISTERED" = "TIDAK BERDAFTAR";
+
+"Allow physics package to redefine existing TeX commands" = "Benarkan pakej fizik untuk menakrif semula perintah TeX sedia ada";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Apabila dibolehkan, arahan seperti \\div, \\Re akan ditakrif semula oleh pakej fizik.";
+
+"Your Typora is not activated." = "Typora anda belum diaktifkan.";
+"Your Typora has been activated." = "Typora anda sudah diaktifkan.";
+"Typora activation is required to change this." = "Pengaktifan Typora diperlukan untuk mengubah ini.";
+"You can reinstall the stable version and then disable this." = "Anda boleh memasang semula versi yang stabil dan menutup ini.";
+"Update to dev version" = "Kemaskini kepada versi pemaju";

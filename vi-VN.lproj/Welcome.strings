@@ -1,0 +1,85 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Chào mừng đến với Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Cảm ơn bạn đã sử dụng Typora 👋. Typora là một ứng dụng đọc và chỉnh sửa tập tin markdown, nó cho bạn một trải nghiệm liền mạch giữa phong cách dựng nội dung phong phú song hành với mã nguồn của tài liệu đó.";
+
+"Get Start" = "Bắt đầu";
+"Check following links if you're new to Markdown or Typora." = "Hãy ghé thăm những đường dẫn sau đây nếu bạn mới biết đến Markdown hoặc Typora.";
+
+"Activate Typora" = "Kích hoạt Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Bạn đã mua giấy phép rồi à? Điền vào mẫu thông tin bên dưới và kích hoạt Typora ngay và luôn.";
+
+"Email" = "Email";
+"Email Address" = "Địa chỉ Email";
+"License Code" = "Mã giấy phép";
+
+"Help" = "Giúp đỡ";
+"Find my License" = "Tìm lại giấy phép của tôi";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Chấp nhận <a href='https://support.typora.io/License-Agreement/'>Thoả thuận giấy phép</a> và <a href='https://support.typora.io/Privacy-Policy/'>Chính sách bảo mật</a>.";
+
+"Live Preview" = "Xem trước trực tiếp";
+"Write and read rendered output instantly." = "Viết và đọc nội dung được biên dịch trực tiếp ngay tức thì.";
+"Markdown Syntax" = "Cú pháp Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Khối mã lệnh, YAML, danh sách, chú thích, bảng, công thức toán, sơ đồ";
+"Import / Export" = "Nhập / Xuất";
+"Deliver your content in various formats." = "Đọc ghi nội dung của bạn ở nhiều định dạng khác nhau.";
+"Editing Experience" = "Trải nghiệm chỉnh sửa";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Dàn bài / Bộ đếm từ / Chế độ tập trung / Chế độ máy đánh chữ";
+
+"Files" = "Tập tin";
+"Manage files in sidebar and search across files." = "Quản lý tập tin ngay thanh bên và tìm kiếm xuyên suốt các tập tin.";
+"Customize" = "Tuỳ chỉnh";
+"Customize your writing experience from preferences panel." = "Tuỳ chỉnh trải nghiệm viết lách của bạn từ các thiết lập trong bản tuỳ chọn.";
+"Themes" = "Chủ đề";
+"Write in the theme you like, or make one by your own." = "Soạn thảo trong nền chủ đề mà bạn thích, hay tự làm một cái chủ đề theo ý bạn cũng được.";
+"And more" = "Và còn nhiều nữa";
+"Explorer more topics at support.typora.io" = "Khám phá nhiều chủ đề khác tại support.typora.io";
+
+"Quick Start" = "Bắt đầu nhanh";
+"Markdown Reference" = "Tài liệu tham khảo Markdown";
+"Explorer Themes" = "Khám phá các chủ đề";
+"More Topics" = "Các nội dung khác";
+
+"Typora Activated" = "Typora đã được kích hoạt";
+"Thanks for your purchase." = "Cảm ơn bạn đã mua giấy phép.";
+
+"Next" = "Tiếp theo";
+"Please accept license agreement first" = "Vui lòng chấp nhận thoả thuận giấy phép trước";
+"Start %@ Days Trial" = "Bắt đầu %@ ngày dùng thử";
+"Buy License" = "Mua giấy phép";
+"Activate" = "Kích hoạt";
+
+"Close" = "Đóng";
+"Deactivate" = "Huỷ kích hoạt";
+"View License" = "Xem giấy phép";
+"Your Typora License" = "Giấy phép Typora của bạn";
+"This copy of Typora is registered with license information below." = "Bản sao Typora này được đăng ký với thông tin giấy phép dưới đây.";
+"Your trial will be expired in %@ days." = "Bạn sẽ hết hạn dùng thử trong %@ ngày.";
+"Enter License" = "Nhập giấy phép";
+"Not Now" = "Không phải lúc này";
+
+"Please input a valid email address" = "Vui lòng nhập địa chỉ email hợp lệ";
+"Please input a valid license code"  = "Vui lòng nhập mã giấy phép hợp lệ";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Giấy phép của bạn đã vượt quá số thiết bị cho phép.\nThiết bị cũ nhất đã tự động bị huỷ đăng ký.";
+"This license code has been used with a different email address." =  "Mã giấy phép này đã được dùng với một địa chỉ email khác.";
+"Unknown Error. Please contact hi@typora.io" = "Lỗi không xác định. Vui lòng liên hệ hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Không thể truy cập đến máy chủ giấy phép. Vui lòng kiểm tra đường truyền mạng của bạn hoặc thử lại lần nữa.";
+
+"Enter a license code to support our development ❤" = "Nhập mã giấy phép để hỗ trợ công việc viết ứng dụng của chúng tôi ❤";
+"Re-enter Email" = "Nhập lại Email";
+"Email address confirmation does not match." = "Địa chỉ email xác nhận không trùng khớp.";
+
+"Are you sure to deactivate Typora on this device?" = "Bạn có chắc là muốn huỷ kích hoạt Typora trên thiết bị này?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Giấy phép của bạn vượt quá số thiết bị cho phép.\nNếu bạn chọn \"Tiếp tục kích hoạt\", thiết bị này sẽ được kích hoạt và thiết bị cũ nhất đã dùng giấy phép này sẽ tự động bị huỷ đăng ký.";
+"Continue Activation" = "Tiếp tục kích hoạt";

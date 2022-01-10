@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by hi@typora.io, hello@mordinateur.com and naeiogalaxy@gmail.com
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
  */
 
 /* Preference Panel */
@@ -13,33 +13,32 @@
 "Window Style" = "Style de fenêtre";
 "Classic" = "Classique";
 "Seamless" = "Transparent";
-"Seamless window only support OS X later than 10.10." = "Les fenêtres transparentes ne sont supportées qu'à partir d'OS X 10.10 et ultérieurs.";
+"Seamless window only support OS X later than 10.10." = "Les fenêtres transparentes ne sont supportées qu’à partir d’OS X 10.10 et ultérieurs.";
 "Themes" = "Thèmes";
 "Open Theme Folder" = "Ouvrir dossier des Thèmes";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Veuillez consulter `Aide`->`Démarrage rapide` pour une introduction rapide. Visitz http://theme.typora.io pour obtenir plus de thèmes et d'instructions.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Veuillez consulter `Aide`->`Démarrage rapide` pour une introduction rapide. Visitz http://theme.typora.io pour obtenir plus de thèmes et d’instructions.";
 "Word Count" = "Nombre de mots";
 "Always Show Word Count" = "Toujours montrer le nombre de mots";
 "Font Size" = "Taille de police";
 "Auto ( Recommended )" = "Auto ( Recommandé )";
 "Customized" = "Personnalisé";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Si une taille de police personnalisée est utilisée, la taille réelle dépendra de la taille de police de base et du style css.";
- "Left Panel" = "Panneau de gauche";
+"Left Panel" = "Panneau de gauche";
 "Show Outline Panel by Default" = "Montrer le panneau du plan par défaut";
 "Collapsible Outline on Left Panel" = "Plan qui peut être réduit dans le panneau de\ngauche";
 "Save without asking when\nswitch files on side panel" = "Enregistrer sans le demander lors du changement\nde fichier dans le panneau latéral";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Les fichiers édités seront enregistrés sans confirmation en cas de modification des fichiers dans le panneau de gauche. \nLorsque que \"Demander de conserver les modifications lors de la fermetures des documents\" est désactivée dans les préférences système, c’est toujours actif.";
 "Language" = "Langue";
 "System Language" = "Langue du système";
 
 /* Editor Panel */
 "Editor" = "Éditeur";
 "Indent Size on Save" = "Indentation";
-"only apply to quotes and lists created from menu bar or hybrid view" = "n'appliquer qu'aux citations créées depuis le menu ou la vue hybride";
+"only apply to quotes and lists created from menu bar or hybrid view" = "n’appliquer qu’aux citations créées depuis le menu ou la vue hybride";
 "Trigger Autocomplete without ESC key for" = "Auto-complétion sans utiliser la touche ÉCHAP";
 "Emoji (e.g. :smile:)" = "Emoji (e.g. :smile:)";
-"Images Insert" = "Insertions d'images";
+"Images Insert" = "Insertions d’images";
 "Use relative path if possible" = "Utiliser le chemin relatif si possible";
-"Allow copy images to given folder" = "Autoriser la copie des images dans\nle dossier";
-"Allow upload to given server" = "Autoriser le téléversement vers le serveur spécifié";
 "Auto Pair" = "Paires automatiques";
 "Auto pair brackets and quotes" = "Paires de guillemets et parenthèses auto";
 "Auto pair common Markdown syntax" = "Paires de règles Markdown communes auto";
@@ -48,20 +47,20 @@
 "Default Copy Behavior" = "Mode de copie par défaut";
 "Copy Markdown source as plain text" = "Copier le code Markdown comme texte brut";
 "Typewriter Mode" = "Mode Machine à écrire";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Toujours garder le curseur au milieu\nde l'écran dans le mode Machine à écrire";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Toujours garder le curseur au milieu\nde l’écran dans le mode Machine à écrire";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Les préférences suivantes seront appliquées après redémarrage.)";
 "Syntax Support" = "Support de la syntaxe";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Maths en ligne ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Indices    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Exposants ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Surlignage     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Maths en ligne (ex : $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Indices    (ex : H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Exposants (ex : X^2^ )";
+"Highlight     (e.g: ==key==)" = "Surlignage     (ex : ==key==)";
 "Diagrams" = "Diagrammes";
-"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart et Mermaid)";
 "Syntax Preference" = "Preférences de syntaxe";
-"(only applies to styles created from menubar or hybrid view)" = "(n'appliquer qu'aux styles créés depuis le menu ou la vue hybride)";
+"(only applies to styles created from menubar or hybrid view)" = "(n’appliquer qu’aux styles créés depuis le menu ou la vue hybride)";
 "Strict Mode" = "Mode strict";
 "(more strict to GFM spec)" = "(plus strict que le Markdown Github GFM)";
 "Heading Style" = "Style de titres";
@@ -75,7 +74,7 @@
 /* Security Panel */
 "Security" = "Sécurité";
 "Enable Debug" = "Activer le débogage";
-"Send Anonymous Usage Info" = "Envoyer des informations anonymisées sur l'utilisation";
+"Send Anonymous Usage Info" = "Envoyer des informations anonymisées sur l’utilisation";
 
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "Besoin de Pandoc pour continuer...";
@@ -94,29 +93,27 @@
 "Converting file with Pandoc. This may take some time." = "Conversion du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 
 /* Export & Import */
-"Pandoc is needed for importing these file formats" = "Pandoc est requis pour l'importation de ces formats de fichiers";
+"Pandoc is needed for importing these file formats" = "Pandoc est requis pour l’importation de ces formats de fichiers";
 "Check help->Install and use Pandoc from menubar for detail" = "Consulter Aide->Installer et utiliser Pandoc dans le menu pour plus de détails";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "L'importation ou certaines fonctions d'exportation nécessitent l'installation de <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "L’importation ou certaines fonctions d’exportation nécessitent l’installation de <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Suivez les instructions pour installer/mettre à jour Pandoc";
-"Export Failed" = "Échec de l'exportation";
-"Import Failed" = "Échec de l'importation";
-"Generated Image too Large" = "L'image générée est trop grande";
-"Failed to export file to <em>{0}</em>" = "Échec de l'exportation du fichier vers <em>{0}</em>";
-"Failed to import file from <em>{0}</em>" = "Échec de l'importation du fichier depuis <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "Le fichier n'existe pas à <em>{0}</em>";
+"Export Failed" = "Échec de l’exportation";
+"Import Failed" = "Échec de l’importation";
+"Generated Image too Large" = "L’image générée est trop grande";
+"Failed to export file to <em>{0}</em>" = "Échec de l’exportation du fichier vers <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Échec de l’importation du fichier depuis <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Le fichier n’existe pas à <em>{0}</em>";
 "Export to..." = "Exporter vers...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Souhaitez-vous enregistrer les modifications apportés à ce document ?<br> Vos modifications seront perdues si vous ne les enregistrez pas.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Attention] Impossible d'ajouter le marque-page au fichier PDF.";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don’t save them." = "Souhaitez-vous enregistrer les modifications apportés à ce document ?<br> Vos modifications seront perdues si vous ne les enregistrez pas.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Attention] Impossible d’ajouter le marque-page au fichier PDF.";
 "Dark Theme not support" = "Thème sombre non pris en charge";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Désolé, la version actuelle de Typora ne peut pas imprimer la couleur d'arrière-plan dans les PDF exportés, Ainsi le thème sombre n'est pas encore pris en charge pour l'exportation PDF \nVeuillez choisir un thème clair ou cliquer sur \"Imprimer avec le thème par défaut\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Désolé, la version actuelle de Typora ne peut pas imprimer la couleur d’arrière-plan dans les PDF exportés, Ainsi le thème sombre n’est pas encore pris en charge pour l’exportation PDF \nVeuillez choisir un thème clair ou cliquer sur \"Imprimer avec le thème par défaut\"";
 "Print with default theme" = "Imprimer avec le thème par défaut";
 "Export to PDF successfully." = "Exportation PDF réussie.";
 "Converting file using Pandoc. This may take some time." = "Conversion du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 "Exporting file using Pandoc. This may take some time." = "Exportation du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Téléversement d'images via iPic...";
-"Uploading in progress…" = "Téléversement en cours...";
+"Uploading in progress…" = "Envoi en cours...";
 "Do not show this again" = "Ne plus montrer ce message";
 
 /* Word Count */
@@ -137,8 +134,8 @@
 "System Native" = "Native du système";
 "Unibody" = "Unibody";
 "(applied after restart)" = "(nécessite un redémarrage du programme)";
-"Status Bar" = "Barre d'état";
-"Show status bar" = "Montrer la barre d'état";
+"Status Bar" = "Barre d’état";
+"Show status bar" = "Montrer la barre d’état";
 "Save & Recover" = "Enregistrement & Récupération";
 "Auto Save" = "Enregistrement automatique";
 "Recover Unsaved Drafts" = "Récupérer les brouillons non-enregistrés";
@@ -148,8 +145,6 @@
 "Default Line Ending" = "Fins de lignes par défaut";
 "Line ending for new file" = "Fin de lignes pour les nouveaux fichiers";
 "Spell Check" = "Vérification orthographique";
-"(support US English only)" = "(disponible pour l'anglais américain uniquement)";
-"Enable spell check" = "Activer la vérification orthographique";
 "Auto correct spelling" = "Correction orthographique automatique";
 "System" = "Système";
 "Privacy" = "Confidentialité";
@@ -162,26 +157,26 @@
 "Reset Advanced Settings" = "Réinitialiser les paramètres avancés";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "Il faut que la dernière version d'iPic soit installée pour utiliser cette fonction";
+"This function requires latest version of iPic to be installed." = "Il faut que la dernière version d’iPic soit installée pour utiliser cette fonction";
 "Get iPic" = "Obtenir iPic";
 "Cannot Continue…" = "Impossible de continuer…";
 "This feature require macOS >= 10.11" = "Cette fonction nécessite macOS >= 10.11";
 "One More Step" = "Une dernière étape";
 "Notice" = "Information";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Il faut installer iPic pour cela, les fichiers d'images en question seront envoyés sur un service cloud via iPic. Veuillez aussi noter que le service cloud par défaut ne permet pas de supprimer les images envoyées.";
 
-"%d Images Failed to Upload." = "%d images n'ont pas pu être téléversées.";
+"%d Images Failed to Upload." = "%d images n’ont pas pu être envoyées.";
 "%d Succeeded," = "%d réussis, ";
 "Enable this feature on preferences panel" = "Activer cette fonction dans les préférences";
+"The option `%@` must be enabled first to automatically upload images." = "L’option `%@` doit être activée afin d’envoyer automatisuement les images.";
 "%@ is a file, not a directory" = "%@ est un fichier, pas un dossier";
 "Copy Images To…" = "Copier les images vers…";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier les images nouvellement insérées au dossier %@ d'après vos paramètres de YAML Front Matter ou vos préférences globales. Cependant la cible n'existe pas, voulez-vous la créer ?";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora essaie de copier les images nouvellement insérées au dossier %@ d’après vos paramètres de YAML Front Matter ou vos préférences globales. Cependant la cible n’existe pas, voulez-vous la créer ?";
 "Create Folder and Continue" = "Créer le dossier et continuer";
-"Document must be saved first" = "Le document doit d'abord être enregistré";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiera les nouvelles images insérées vers le dossier selon le chemin relatif spécifié, merci de d'abord sauver le fichier.";
-"Open Operation Failed" = "Echec de l'opération d'ouverture";
+"Document must be saved first" = "Le document doit d’abord être enregistré";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiera les nouvelles images insérées vers le dossier selon le chemin relatif spécifié, merci de d’abord sauver le fichier.";
+"Open Operation Failed" = "Echec de l’opération d’ouverture";
 
-"Support Documentation" = "Documentation d'aide";
+"Support Documentation" = "Documentation d’aide";
 
 "Markdown File" = "Fichier Markdown";
 "Plain Text File" = "Fichier texte brut";
@@ -203,34 +198,37 @@
 "Path" = "Chemin";
 "Export As..." = "Exporter comme...";
 "More Formats" = "Plus de formats";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Les formats de fichiers sous la section 'Plus de formats' nécessitent <a class='open-pandoc-guide'>l'installation de Pandoc</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Les formats de fichiers sous la section 'Plus de formats' nécessitent <a class='open-pandoc-guide'>l’installation de Pandoc</a>.";
 "Something is Wrong…" = "Quelque chose ne va pas…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "La sauvegarde des contenus n'a pas fonctionné.<br/>Vous pouvez copier les contenus dans une nouvelle fenêtre Typora, puis enregistrer. <br/>En savoir plus sur:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Le signalement des bugs </a></li><li><a href='https://support.typora.io/Version-Control//'>La récupération de contenus perdus</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "La sauvegarde des contenus n’a pas fonctionné.<br/>Vous pouvez copier les contenus dans une nouvelle fenêtre Typora, puis enregistrer. <br/>En savoir plus sur:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Le signalement des bugs </a></li><li><a href='https://support.typora.io/Version-Control/'>La récupération de contenus perdus</a></li></ul>";
 "Copy Content" = "Copier contenu";
 
+
 "Total" = "Total";
-"Word count only support OS X later than 10.10." = "Le décompte des mots n'est supporté que sur les OS X plus récents que 10.10.";
+"Word count only support OS X later than 10.10." = "Le décompte des mots n’est supporté que sur les OS X plus récents que 10.10.";
+"Indent Size for Code" = "Taille de l’indentation pour le code";
 "Auto wrap long lines" = "Retour à la ligne automatique pour les lignes longues";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Désolé, la version actuelle de Typora n'affiche pas les couleurs de fond.\nDonc les thèmes sombres ne sont pour l'instant pas supportés pour l'impression. \n\nVeuillez choisir un thème clair pour exporter au format PDF.";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Désolé, la version actuelle de Typora n’affiche pas les couleurs de fond.\nDonc les thèmes sombres ne sont pour l’instant pas supportés pour l’impression. \n\nVeuillez choisir un thème clair pour exporter au format PDF.";
 "Export to PDF" = "Exporter au format PDF";
 "Pretty indentation" = "Belle indentation";
 "Update markdown reference for this image" = "Mettre à jour les références markdown de cette image";
 
 "No special action" = "Aucune action spécifique";
-"Copy image to current folder (./)" = "Copier l'image vers le dossier courant (./)";
-"Copy image to ./assets" = "Copier l'image vers ./assets";
-"Copy image to ./${filename}.assets" = "Copier l'image vers ./${filename}.assets";
+"Copy image to current folder (./)" = "Copier l’image vers le dossier courant (./)";
+"Copy image to ./assets" = "Copier l’image vers ./assets";
+"Copy image to ./${filename}.assets" = "Copier l’image vers ./${filename}.assets";
 "Apply above rules to local images" = "Appliquer les règles ci-dessus sur les images locales";
 "Apply above rules to online images" = "Appliquer les règles ci-dessus sur les images en ligne";
-"Allow upload images automatically based on YAML settings" = "Autoriser le téléversement d'images automatiquement d'après les paramètres YAML";
+"Allow upload images automatically based on YAML settings" = "Autoriser l’envoi automatique d’images d’après les paramètres YAML";
 
 "Learn More" = "En apprendre plus";
 "Whitespace / Line Break" = "Espaces / Retours à la ligne";
-"When Writing" = "Lors de l'impression";
+"When Writing" = "Lors de l’impression";
 "Export / Print" = "Export / Impression";
 "Preserve sequential whitespace and single line break" = "Preserver les espaces successifs et les retours à la ligne simples";
 "Ignore sequential whitespace and single line break" = "Ignorer les espaces successifs et les retours à la ligne simples";
+
 "Quit" = "Quit";
 "Quit Typora when last window is closed" = "Quitter Typora lorsque la dernière fenêtre est fermée";
 "On Launch" = "Au lançement";
@@ -239,19 +237,19 @@
 "Restore last closed files and folders" = "Restaurer les derniers fichiers et dossiers fermés";
 "Open custom folder" = "Ouvrir un dossier spécifique";
 "Select custom folder" = "Sélectionner un dossier spécifique";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Cette option peut être écrasée par \"Fermer les fenêtres lors de la fermeture d’une application\" dans les préférences système";
 
 "Ignore" = "Ignore";
 "Choose Default Folder" = "Choisir dossier par défaut";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convertir à la saisie</strong>: Les tirets et guillements ASCII saisis sont ensuite convertis et enregistés en tirets unicode ou guillements arrondis.<br/><strong>Convertir à l'affichage</strong>: Les tirets et guillements ASCII saisis sont enregistés tels quels et convertis en tirets unicode ou guillements arrondis seulement lors de l'affichage.</div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convertir à la saisie</strong>: Les tirets et guillements ASCII saisis sont ensuite convertis et enregistés en tirets unicode ou guillements arrondis.<br/><strong>Convertir à l’affichage</strong>: Les tirets et guillements ASCII saisis sont enregistés tels quels et convertis en tirets unicode ou guillements arrondis seulement lors de l’affichage.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconnaître la ponctuation unicode telle qu’ASCII lors de l’analyse du Markdown, e.g.:<br/> <pre> 》 citation → > citation <br/> [lien](src ’titre’) → [lien](src 'titre')</pre>Ce paramètre est automatiquement activé si les guillemets/tirets intelligents sont convertis à l’entrée.<div>";
 
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconnaître la ponctuation unicode telle qu'ASCII lors de l'analyse du Markdown, e.g.:<br/> <pre> 》 citation → > citation <br/> [lien](src ’titre’) → [lien](src 'titre')</pre>Ce paramètre est automatiquement activé si les guillemets/tirets intelligents sont convertis à l'entrée.<div>";
-
-"Copy image to custom folder" = "Copier l'image vers un dossier spécifique";
+"Copy image to custom folder" = "Copier l’image vers un dossier spécifique";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Veuillez spécifier un chemin relatif au dossier courant, commençant par './' ou '../', ou un chemin de dossier absolu. (`${filename}` représentant le nom des fichiers courants.)";
 "Restore to previous setting" = "Restaurer les paramètres précédents.";
-"Folder not exist at %@, please input another path." = "Le dossier à %@ n'existe pas, veuilliez entrer un autre chemin.";
+"Folder not exist at %@, please input another path." = "Le dossier à %@ n’existe pas, veuilliez entrer un autre chemin.";
 "Please input a folder path." = "Veuillez enter un chemin vers un dossier.";
-"Cannot use root path." = "Impossible d'utiliser le chemin racine.";
+"Cannot use root path." = "Impossible d’utiliser le chemin racine.";
 
 "Get Themes" = "Récupérer les thèmes";
 "File/directory already exists at target path." = "Le fichier/dossier existe déjà au chemin ciblé.";
@@ -261,11 +259,11 @@
 "Are you sure you want to delete %@?" = "Êtes-vous sûrs de vouloir supprimer %@ ?";
 "You can restore from the Trash." = "Vous pouvez le récupérer de la corbeille.";
 
-"Reset All Dialog Warnings" = "Réinitialiser tous les dialogues d'avertissement";
+"Reset All Dialog Warnings" = "Réinitialiser tous les dialogues d’avertissement";
 "Dialogs" = "Dialogues";
-"Dialog warnings have been reset." = "Les dialogues d'avertissement on été réinitialisés.";
+"Dialog warnings have been reset." = "Les dialogues d’avertissement on été réinitialisés.";
 
-"Operation Failed" = "l'operation a échoué";
+"Operation Failed" = "l’operation a échoué";
 "Failed to move target file or folder to trash" = "Échec du déplacement du fichier ou dossier vers la corbeille";
 
 "Undo %@" = "Annuler %@";
@@ -274,3 +272,216 @@
 "Move %@" = "Déplacer %@";
 "Delete %@" = "Supprimer %@";
 
+"Turn off Typewriter / Focus Mode" = "Désactiver le mode Machine à écrire / le mode Focus";
+"Typewriter / Focus Mode have been turned off." = "Le mode Machine à écrire / le mode Focus ont été désactivés.";
+
+"Reading Speed" = "Vitesse de lecture";
+"Auto" = "Auto";
+"words / min" = "mots / min";
+
+"Reset to Default" = "Réinitialiser par défaut";
+"120  words/minute (Slow)" = "120  mots/minute (Lent)";
+"240  words/minute (Medium)" = "240  mots/minute (Moyen)";
+"382  words/minute (Fast)" = "382  mots/minute (Rapide)";
+
+"Copy and update image source to…" = "Copier et coller l’image source vers…";
+"Updater" = "Mise à jour";
+"Install Updates ?" = "Installer les mises à jour ?";
+"Quit and Install" = "Quitter et Installer";
+"Download failed" = "Échec du téléchargement";
+"Downloading Updates…" = "Téléchargement des mises à jour…";
+"Checking Updates…" = "Vérification des mises à jour…";
+"Check Update Failed" = "Échec de la vérification de la mise à jour";
+"You're up to date!" = "Vous êtes à jour !";
+"Latest version is $1, your version is $2" = "La dernière version est la $1, votre version est la $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ces options peuvent également être modifiées via le menu \"Éditer→Espaces et Retours à la ligne\"";
+"Auto escape image URL when insert" = "Échapper automatiquement l’URL de l’image quand elle est insérée";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Par exemple, si vous insérez un ficher 'img/fichier exemple.png', il deviendra 'img/fichier%20exemple.png'. Activez ceci pour une meilleure compatibilité avec les autres moteurs Markdown, ou désactivez le pour une meilleure lisibilité.";
+"Check updates automatically" = "Vérifier les mises à jour automatiquement";
+"Skip This Version" = "Passer cette version";
+"Remind Me Later" = "Me le rappeler plus tard";
+"Download Update" = "Télécharger la mise à jour";
+"New version available." = "Nouvelle version disponible.";
+
+"When copy / export as HTML (without style)" = "Lors de la copie / l’exportation au format HTML (sans style)";
+"Use Rendered SVG" = "Utiliser le rendu SVG";
+"Use LaTeX Source" = "Utiliser la source LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Prend effet lors d’un export HTML (sans styles) ou de la copie du code HTML, ou copié sans le stytle du thème.<br/>Quand <strong>Utiliser la source LaTeX</strong> est sélectionné, Typora mettra la source LaTeX brute (ex : $X^2$),<br/>Quand <strong>Utiliser le rendu SVG</strong> est sélectionné, le rendu SVG sera utilisé, si vous collez dans une autre app, le SVG peut être ignoré.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "La fonction d’import et de nombreux formats d’export nécessitent que Pandoc (≥%@) soit installé.";
+"Do not show this message again" = "Ne plus afficher ce message à l’avenir";
+
+"Page Break Between Top Headings" = "Saut de page entre les titres";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Désolé, une erreur est survenue, le contenu rédigé jusqu’à maintenant à été copié dans le presse-papier. Vous pouvez faire un rapport à <hi@typora.io> afin de nous aider à corriger cette erreur.";
+"Try Recovery" = "Tenter une récupéreration";
+"Other Options for Data Recovery" = "Autres options de la récupération de données";
+
+"When Insert" = "Lors de l’insertion";
+"Upload image" = "Envoyer l’image";
+"e.g: %@" = "ex : %@";
+"Test Uploader" = "Tester l’envoi";
+"Validating" = "Validation de l’envoi d’image";
+"Validation Failed" = "Validation en échec";
+"Validation Succeed" = "Validation réussie";
+"Testing image uploading using command:" = "Le test d’envoi d’une image utilise la commande :";
+"Running… Waiting for results." = "Exécution en cours… En attente des résultats.";
+"Output from the console:" = "Sortie de la console :";
+"Error from the console:" = "Erreur de la console :";
+"Failed to fetch uploaded image from command output." = "Échec de la récupération de l’image envoyée à partir de la sortie de la commande.";
+"Successfully get uploaded image url." = "URL de l’image envoyée obtenue avec succès";
+"Image Uploader" = "Outil d’envoi d’image";
+"Instructions" = "Instructions";
+"Download %@" = "Télécharge %@";
+"Image Upload Setting" = "Paramètre d’envoi d’image";
+"Please set an image uploader in Preferences panel before using this function." = "Veuillez définir un outil d’envoi d’image dans l’écran des préférences avant d’utiliser cette fonctionnalité.";
+"Download or Upgrade" = "Télécharger ou mettre à jour";
+"Open Config File" = "Ouvrir le fichier de configuration";
+"Command" = "Commande";
+"PicGo Path" = "Chemin vers PicGo";
+"Path of PicGo binary" = "Chemin vers le binaire de PicGo";
+"Executable" = "Exécutable";
+"Checking" = "Vérification";
+"Download" = "Télécharger";
+"Agree and Download" = "Accepter et télécharger";
+"Download and Reinstall" = "Télécharger et réinstaller";
+"Loading PicGo-Core License" = "Chargement de la licence de PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Impossible d’obtenir la version installée de PicGo-Core (en ligne de commande)";
+"You have the latest PicGo-Core (CLI)" = "Vous possédez la dernière version de PicGo-Core (en ligne de commande)";
+"Newer version is available" = "Une nouvelle version est disponible";
+
+"Downloading…" = "Téléchargement…";
+"Unzipping…" = "Décompression…";
+"Finished" = "Terminé";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora va démarrer une application tiers avec le chemin de toutes les images locales. L’outil d’envoi d’image et de stockage d’image dans les nuages aura accès à vos images locales. Êtes-vous sûr de vouloir continuer ?";
+
+"Export operation finished successfully." = "Opération d’export terminée avec succès.";
+
+"Shortcut Keys" = "Raccourcis claviers";
+"Custom Shortcut Keys" = "Raccourcis claviers personnalisés";
+
+"Theme" = "Thème";
+"Light Theme" = "Thème clair";
+"Dark Theme" = "Thème somble";
+"Use separate theme in dark mode" = "Utiliser un thème différent en mode sombre";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Pris en charge sur macOS ≥ 10.15 our sur Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Covertir -- en – (tiret), et --- en — (tiret)";
+"Convert -- and --- to — (em dash)" = "Convertir -- et --- en — (tiret)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Vous pouvez définir des modèles de citation dans Préférences système → Clavier → Texte. En cas de modification Typora nécessitera un redémarrage pour l’appliquer.";
+
+
+"Paper Size" = "Format du paier";
+"US Letter" = "Lettre US";
+"US Legal" = "Legal";
+"Tabloid" = "Berlinois";
+"Page Break" = "Saut de page";
+"Page Break Between Top Headings" = "Saut de page entre les titres";
+"Header" = "Entête";
+"Footer" = "Pied de page";
+"Author" = "Auteur";
+"Append in <head />" = "Ajouter à <head />";
+"Append in <body />" = "Ajouter à <body />";
+"Include Outline Sidebar" = "Inclure le contour de la barre latérale";
+"Width" = "Largeur";
+"Command" = "Commande";
+"Show Save File Dialog" = "Montrer la fenêtre d’enregistrement";
+"File Extensions for Export" = "Extensions de fichier pour l’export";
+"Arguments" = "Arguments";
+"Extra Arguments" = "Arguments complémentaires";
+"LaTeX Engine" = "Moteur LaTeX";
+"Template" = "Modèle";
+"Empty" = "Vide";
+"Style Reference" = "Style de référence";
+"Custom CSS" = "CSS personnalisé";
+"Chapter Level" = "Niveau de chapitre";
+"Default Folder for Exported File" = "Dossier par défaut pour l’export de fichier";
+"Same folder with current file" = "Même dossier que le fichier actif";
+"Custom location" = "Emplacement personnalisé";
+"(Auto Detect)" = "(Détection automatique)";
+"After Export" = "Après l’export";
+"Open exported file location" = "Ouvrir l’emplacement du fichier exporté";
+"Open exported file" = "Ouvrir le fichier exporté";
+"Custom" = "Personnalisé";
+"None" = "Aucun";
+"Default" = "Par défut";
+"Margin" = "Marge";
+"Margin Left" = "Marge de gauche";
+"Margin Right" = "Marge de droite";
+"Margin Top" = "Marge supérieure";
+"Margin Bottom" = "Marge inférieure";
+"Width x Height" = "Largeur x Hauteur";
+"Add From a Template" = "Ajouter depuis un modèle";
+"Delete this export option ?" = "Supprimer cette option d’export ?";
+"Add" = "Ajouter";
+"Delete" = "Supprimer";
+"Rename" = "Renommer";
+"Move Down" = "Déplacer vers le bas";
+"Move Up" = "Déplacer vers le haut";
+"Pandoc Path" = "Chemin de Pandoc";
+"Select" = "Sélectionner";
+"Target Format" = "Format cible";
+"auto detect based on target file path" = "détection automatique basée sur le chemin du fichier cible";
+"Target File Extensions (separate by whitespace)" = "Extensions de fichier cible (séparé par espace)";
+"e.g: .text .asciidoc or leave this empty" = "ex : .text .asciidoc ou laisser vide";
+"Raw Type" = "Type brute";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Afficher la boîte de dialogue d’enregistrement de fichier";
+"Do not popup save file dialog" = "Ne pas afficher la boîte de dialogue d’enregistrement de fichier";
+"Select file path to save" = "Sélectionnez le chemin du fichier à enregistrer";
+"Select folder path to save" = "Sélectionnez le dossier du fichier à enregistrer";
+"PDF Engine" = "Moteur PDF";
+"Show command output" = "Montrer la sortie de commande";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "Command Arguments:";
+"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"Current Theme" = "Current Theme";
+"After Export" = "After Export";
+"Run command" = "Run command";
+"Run command after export failed" = "Run command after export failed";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
+"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Dark theme is not supported." = "Dark theme is not supported.";
+
+"Markdown Variants" = "Variantes Markdown";
+"Original Unextended Markdown" = "Markdown original non étendu";
+"CommonMark with many pandoc extensions" = "CommonMark avec beaucoup des extensions Pandoc";
+"Line Wrap" = "Retour à la ligne";
+"Hard line wrap" = "Retour à la ligne strict";
+"Text Column Width" = "Largeur de la colonne de texte";
+"Auto (based on current OS)" = "Auto (basé sur l’OS actif)";
+"Indent" = "Indentation";
+"Preserve tabs" = "Préserveer les tabulations";
+"2 spaces per tab" = "2 espaces par tabulation";
+"3 spaces per tab" = "3 espaces par tabulation";
+"4 spaces per tab" = "4 espaces par tabulation";
+"Unicode Characters" = "Caractères Unicode";
+"Use only ASCII characters in output" = "Utiliser uniquement des caractères ASCII en sortie";
+"Use reference-style links rather than inline links" = "Utiliser des liens par référence plutôt que des liens en ligne";
+"Footnotes and References Location" = "Emplacement des Notes de pied de page et des références";
+"End of document" = "Fin de document";
+"End of current (top-level) block" = "Fin du bloc actif (haut niveau)";
+"End of current section" = "Fin de la section active";
+"Convert TeX formulas to web images" = "Convertir les formules TeX en images web";
+"Image Format" = "Format d’image";
+
+"Set Pandoc Path" = "Définir le chemin de Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Appliquer le saut de ligne sur \\ et &#92;newline";
+
+"Export operation succeeded with warnings." = "Export réalisé avec succès avec des avertissements.";
+
+"Typora is now deactivated" = "Typora est maintenant désactivé";
+"This device has been deactivated" = "Cet appareil à été désactivé";
+"UNREGISTERED" = "NON ENREGISTRÉ";
+
+"Allow physics package to redefine existing TeX commands" = "Autoriser le package des physiques à redéfinir les commandes TeX existantes";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Si activé, les commandes telles que \\div, \\Re seront redéfinis avec le package des physiques.";
+
+"Your Typora is not activated." = "Votre Typora n’est pas activé.";
+"Your Typora has been activated." = "Votre Typora a été activé.";
+"Typora activation is required to change this." = "L’activation de Typora est requise pour effectuer cette modification.";
+"You can reinstall the stable version and then disable this." = "Vous pouvez réinstaller la version stable et ensuite désactiver ceci.";
+"Update to dev version" = "Mettre à jour vers la version de développement";

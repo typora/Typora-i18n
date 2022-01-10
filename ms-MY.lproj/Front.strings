@@ -1,0 +1,190 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ ms-MY by anatilmizun@gmail.com
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Batal";
+"Yes" = "Ya";
+"No" = "Tidak";
+"Close" = "Tutup";
+"Select" = "Pilih";
+"Continue" = "Teruskan";
+"Learn More…" = "Belajar Lebih…";
+"Untitled" = "Tanpa Tajuk";
+"Undo" = "Undur";
+"Dismiss" = "Abaikan";
+"Confirm" = "Pastikan";
+"Error" = "Ralat";
+
+/* Search Panel */
+"Search" = "Carian";
+"Replace" = "Gantian";
+"All" = "Semua";
+"Search text not found in article" = "Teks carian tidak dijumpai dalam artikel";
+"search text" = "teks carian";
+
+/* Quick Open */
+"Search by file name" = "Carian mengikut nama fail";
+"Searching" = "Sedang mencari";
+"Gathering more results" = "Sedang mengumpul lebih hasil carian";
+
+/* Tables */
+"Insert Table" = "Masukkan Jadual";
+"Columns" = "Lajur";
+"Rows" = "Barisan";
+"Align Left" = "Jajar Kiri";
+"Align Center" = "Jajar Tengah";
+"Align Right" = "Jajar Kanan";
+"Resize Table" = "Ubah Saiz Jadual";
+"Delete Table" = "Lupus Jadual";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sedang mencuba untuk menyalin imej yang baru dimasukkan ke dalam folder <code id='image-create-folder-target'></code> mengikut tetapan YAML Front Matter anda atau pilihan global. Akan tetapi folder sasaran tidak wujud, buat folder itu sekarang?";
+"Create Folder" = "Buat Folder";
+
+/* Math */
+"Edit" = "Sunting";
+"Delete Math" = "Lupus Matematik";
+"Preview" = "Pratonton";
+
+/* Sidebar */
+"Articles" = "Artikel-artikel";
+"Outline" = "Kerangka";
+"Files" = "Fail-fail";
+"Switch to File List view" = "Beralih kepada Paparan Senarai Fail";
+"Switch to File Tree view" = "Beralih kepada Paparan Hierarki Fail";
+"Switch to Outline view" = "Beralih kepada Paparan Kerangka";
+"Close sidebar" = "Tutup bar sisi";
+"Loading" = "Sedang memuatkan";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Folder yang dipilih mengandungi terlalu banyak fail-fail. \nSila beralih kepada <a id='switch-to-tree-on-oversize'>Paparan Hierarki Fail</a> untuk prestasi yang lebih baik.";
+"New File" = "Fail Baru";
+"Unpin Outline Panel" = "Nyahpin Panel Kerangka";
+"Open Folder..." = "Buka Folder...";
+"Action" = "Tindakan";
+"Close Sidebar Menu" = "Tutup Menu Bar Sisi";
+"Reveal in Finder" = "Dedahkan dalam Finder";
+"Reveal in File Explorer" = "Dedahkan dalam File Explorer";
+"Refresh Folder" = "Segar Semula Folder";
+"Sort" = "Susun";
+"Group By Folder" = "Kumpul Mengikut Folder";
+"Sort Naturally (Ascending)" = "Susunan Asli (Menaik)";
+"Sort Naturally (Descending)" = "Susunan Asli (Menurun)";
+"Sort by Name (Ascending)" = "Susunan Mengikut Nama (Menaik)";
+"Sort by Modification Date (Ascending)" = "Susunan Mengikut Tarikh Ubahsuai (Menaik)";
+"Sort by Name (Descending)" = "Susunan Mengikut Nama (Menurun)";
+"Sort by Modification Date (Descending)" = "Susunan Mengikut Tarikh Ubahsuai (Menurun)";
+"Location" = "Lokasi";
+"Switch File List/Tree View" = "Beralih Antara Paparan Senarai/Hierarki Fail";
+"No Files Available" = "Tiada File Dijumpai";
+"No Folder is Opened." = "Tiada Folder Dibuka.";
+"Outline is Empty." = "Kerangka adalah kosong.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Togol Bar Sisi";
+"Toggle Source Code Mode" = "Togol Mod Kod Sumber";
+"Exit Source Code Mode" = "Keluar Dari Mod Kod Sumber";
+
+"Table of Contents" = "Jadual Isi Kandungan";
+"Empty Diagram" = "Gambarajah Kosong";
+"Input Math TeX here" = "Masukkan Math TeX di sini";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Perlu untuk tentukan rujukan nota kaki <b>{0}</b> dengan sintaks <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Perlu until tentukan rujukan pautan <b>[{0}]</b> dengan sintaks <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Sila tentukan rujukan imej dengan \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Gagal membuat fail";
+"Failed to create folder" = "Gagal membuat folder";
+"Failed to rename file" = "Gagal menamakan semula fail";
+"Folder does not exist at %@" = "Folder tidak wujud di %@";
+"File with the same name already exists at target path" = "Fail dengan nama yang sama sudah wujud di lokasi sasaran";
+"Apply to All" = "Guna Pakai Untuk Semua";
+"Overwrite" = "Tulis Ganti";
+"Stop" = "Berhenti";
+"back to document" = "kembali ke dokumen";
+"Failed to load file" = "Gagal memuatkan fail";
+"Save File Failed!" = "Simpanan Fail Telah Gagal!";
+"Cannot open folder {0}" = "Tidak berjaya membuka folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Kandungan fail telah diubah oleh aplikasi lain. Muat semula kandungan daripada storan?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Patutkah untuk terus memindahkan dan menulis tindih fail tersedia ada?";
+
+"Rename to \"{0}\" ?" = "Nama semua kepada \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Gagal menama semua daripada \"{0}\" kepada \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Berjaya muat naik {0} imej.";
+"Failed to upload image. Error Message:" = "Gagal memuat naik imej. Mesej Ralat:";
+"Failed to Copy Image to Target Folder." = "Gagal Menyalin Imej ke dalam Folder Sasaran.";
+"Select Container Folder" = "Pilih Folder Kandungan";
+
+"Saved" = "Disimpan";
+
+/* place holder in find & replace input */
+"search text" = "kata carian";
+"replace with" = "ganti dengan";
+/* search option */
+"Case Sensitive" = "Peka Huruf Besar/Kecil";
+"Whole Word" = "Keseluruhan Perkataan";
+
+"input image URL" = "masukkan URL imej";
+"Select image from local file" = "Pilih imej daripada fail tempatan";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Tidak boleh membuka lokasi <code>$1</code>, adakah anda maksudkan <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "pilih bahasa";
+"Finish Editing" = "Selesai menyunting";
+
+"Revert advanced setting file to default one ?" = "Kembalikan fail tentapan lanjutan kepada asal ?";
+
+"Select Spell Check Language" = "Pilih Bahasa Penyemak Ejaan";
+"Auto Detect Language" = "Kesan Bahasa Secara Automatik";
+"Disable Spell Check" = "Tutup Penyemak Ejaan";
+"Global Setting…" = "Tetapan Global…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Fail kamus telah hilang untuk membolehkan sokongan penyemak ejaan untuk %@.";
+"Install Language Support" = "Pasang Sokongan Bahasa";
+"License Information" = "Maklumat Lesen";
+"Download" = "Muat Turun";
+"Install dictionary file only for Typora" = "Pasang fail kamus hanya untuk Typora";
+"Spell Check (%@ unavailable)" = "Penyemak Ejaan (%@ tiada)";
+"Spell Check (%@ downloading)" = "Penyemak Ejaan (%@ sedang muat turun)";
+"Download dictionary file for %@" = "Muat turun fail kamus untuk  %@";
+"(Default spell check option)" = "(Pilihan penyemak ejaan asal)";
+"Failed to load spellcheck module" = "Gagal memuatkan modul penyemak ejaan";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> telah dihidupkan.";
+"You could turn it off from `View` menu." = "Anda boleh memadamkannya dari menu `Paparan`.";
+"The file is too large to render in Typora." = "Fail terlalu besar untuk dipaparkan dalam Typora.";
+"Open in…" = "Buka dalam…";
+"Quick Look" = "Sekali Imbas";
+
+"Filter" = "Tapisan";
+"No result found." = "Tiada hasil dijumpai.";
+"Continue & Overwrite" = "Teruskan & Tulis Tindih";
+"The file is read-only, or you do not have right permissions to modify the file." = "Fail adalah mod baca sahaja, atau anda tidak mempunyai kebenaran untuk ubahsuai fail.";
+
+"Learn Data Recovery" = "Pemulihan Data Pembelajaran";
+"Auto refresh on Files Panel cannot be enabled." = "Segar semula atas Panel Fail tidak dapat dibolehkan.";
+"Delete Permanently" = "Padam Secara Hakiki";
+
+
+"Failed to upload images:" = "Gagal memuat naik imej:";
+"Uploading in progress" = "Muat naik sedang berjalan";
+"Successfully uploaded {0} images, {1} failed." = "Berjaya memuat naik {0} imej, {1} gagal.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Anda boleh undur operasi ini kemudian melalui `Sunting` → `Undur`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda boleh tekan <strong>⌘ + Klik</strong> untuk membuka <a href='#'>pautan</a> atau melompat ke takrifan nota kaki.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Anda boleh tekan <strong>CTRL + Klik</strong> untuk membuka <a href='#'>pautan</a> atau melompat ke takrifan nota kaki.";
+
+"<strong>Unibody</strong> style has been turned on." = "Gaya <strong>Unibody</strong> telah dihidupkan.";
+"You can right click titlebar to popup application menu." = "Anda boleh klik kanan bar tajuk untuk pop timbul menu aplikasi.";
+
+"Support Document" = "Dokumen Sokongan";
+
+"You are not supposed to edit or save this file." = "Anda tidak sepatutnya menyunting atau menyimpan fail ini.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Fail-fail di lokasi ini (%@) adalah diuruskan oleh Typora, dan mungkin dipadam secara automatik.<br/>Sila salin kandungan ke satu fail yang baru untuk suntingan selanjutnya.";

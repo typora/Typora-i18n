@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc è necessario per importare il formato di questi file";
 "Check help->Install and use Pandoc from menubar for detail" = "Vai su Aiuto->Installa e usa Pandoc per maggiori dettagli";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Alcune funzioni di importazione o esportazione richiedono che <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) sia installato.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Alcune funzioni di importazione o esportazione richiedono che <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) sia installato.";
 "Follow Instructions to Install/Update Pandoc" = "Segui le istruzioni per installare/aggiornare Pandoc";
 "Export Failed" = "Esportazione non riuscita";
 "Import Failed" = "Importazione non riuscita";
@@ -200,7 +200,7 @@
 "More Formats" = "Altri formati";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "I file nella sezione 'Altri formati' richiedono <a class='open-pandoc-guide'>l'installazione di Pandoc</a>.";
 "Something is Wrong…" = "Qualcosa è andato storto…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Il salvataggio del contenuto non è riuscito.<br/>Copia il contenuto del documento in una nuova finestra di Typora e prova a salvarlo. <br/>Per maggiori informazioni:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Segnala un bug</a></li><li><a href='https://support.typora.io/Version-Control//'>Recupera contenuti persi</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Il salvataggio del contenuto non è riuscito.<br/>Copia il contenuto del documento in una nuova finestra di Typora e prova a salvarlo. <br/>Per maggiori informazioni:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Segnala un bug</a></li><li><a href='https://support.typora.io/Version-Control/'>Recupera contenuti persi</a></li></ul>";
 "Copy Content" = "Copia contenuto";
 
 
@@ -215,7 +215,7 @@
 "Update markdown reference for this image" = "Aggiorna riferimento markdown per questa immagine";
 
 "No special action" = "Nessuna azione speciale";
-"Copy image to current folder (./)" = Copia immagine nella cartella corrente (./)";
+"Copy image to current folder (./)" = "Copia immagine nella cartella corrente (./)";
 "Copy image to ./assets" = "Copia immagine in ./assets";
 "Copy image to ./${filename}.assets" = "Copia immagine in ./${filename}.assets";
 "Apply above rules to local images" = "Applica regole alle immagini locali";
@@ -315,7 +315,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Spiacente, si è verificato un errore, il contenuto che stavi scrivendo è stato copiato negli appunti. Puoi segnalare questo errore a <hi@typora.io> per aiutarci a correggerlo.";
 "Try Recovery" = "Prova il recupero";
-"Other options for Data Recovery" = "Altre opzioni per il recupero dei dati";
+"Other Options for Data Recovery" = "Altre opzioni per il recupero dei dati";
 
 "When Insert" = "Quando inserisci";
 "Upload image" = "Carica immagine";

@@ -132,7 +132,7 @@
 
 "input image URL" = "لینک تصویر ورودی";
 "Select image from local file" = "انتخاب تصویر از فایل محلی";
-"Cannot open location <code>$<$<$<$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$<$<$<$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "انتخاب یک زبان";
 "Finish Editing" = "پایان ویرایش";

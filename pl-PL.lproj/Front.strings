@@ -1,8 +1,8 @@
-/* 
+/*
   Front.strings
   Typora
 
- by rzezior@gazeta.pl, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com, radek.kwlsk@gmail.com
 */
 
 /* Common */
@@ -48,7 +48,7 @@
 
 /* Math */
 "Edit" = "Edytuj";
-"Delete Math" = "Usuń działanie matematyczne";
+"Delete Math" = "Usuń Math";
 "Preview" = "Podgląd";
 
 /* Sidebar */
@@ -64,7 +64,7 @@
 "New File" = "Nowy plik";
 "Unpin Outline Panel" = "Odepnij panel konspektu";
 "Open Folder..." = "Otwórz folder…";
-"Action" = "Działania"
+"Action" = "Działania";
 "Close Sidebar Menu" = "Zamknij menu panelu bocznego";
 "Reveal in Finder" = "Otwórz w Finderze";
 "Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
@@ -77,7 +77,7 @@
 "Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
 "Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";
 "Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (malejąco)";
-"Location" = "Położenie";
+"Location" = "Lokalizacja";
 "Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
 "No Files Available" = "Brak dostępnych plików";
 "No Folder is Opened." = "Żaden folder nie jest otwarty.";
@@ -90,7 +90,7 @@
 
 "Table of Contents" = "Spis treści";
 "Empty Diagram" = "Pusty diagram";
-"Input Math TeX here" = "Wprowadź tutaj działanie matematyczne zgodne z TeX";
+"Input Math TeX here" = "Wprowadź tutaj składnię zgodną z Math TeX";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Musisz zdefiniować odsyłacz do przypisu <b>{0}</b> ze składnią <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Musisz zdefiniować odsyłacz do adresu <b>[{0}]</b> ze składnią <b>[{1}]: www.example.com</b>";
@@ -107,7 +107,7 @@
 "Stop" = "Zatrzymaj";
 "back to document" = "Wróć do dokumentu";
 "Failed to load file" = "Nie udało się załadować pliku";
-"Save File Failed!" = "Nie udało się zapisać pliku!"
+"Save File Failed!" = "Nie udało się zapisać pliku!";
 "Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku?";
@@ -133,7 +133,7 @@
 
 "input image URL" = "adres URL obrazu";
 "Select image from local file" = "Wybierz obraz z pliku lokalnego";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nie mogę otworzyć adresu <code>$1</code>. Czy chodziło o <a href='https://$3'>https://$2</a>?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nie mogę otworzyć adresu <code>$1</code>. Czy chodziło o <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
 "select a language" = "wybierz język";
 "Finish Editing" = "Zakończ edycję";
@@ -176,3 +176,14 @@
 "Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Możesz później cofnąć tę czynność, wybierając `Edycja` → `Cofnij`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>⌘ + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Możesz użyć kombinacji <strong>CTRL + kliknięcie</strong>, aby otworzyć <a href='#'>łącza</a> albo przejść do treści przypisu.";
+
+"<strong>Unibody</strong> style has been turned on." = "Styl <strong>Unibody</strong> został włączony.";
+"You can right click titlebar to popup application menu." = "Możesz kliknąć prawym przyciskiem myszy, aby wywołać menu aplikacji.";
+
+"Support Document" = "Dokumentacja";
+
+"You are not supposed to edit or save this file." = "Nie możesz edytować ani zapisywać tego pliku.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Pliki w tej lokalizacji (%@) są zarządzane przez Typorę i mogą być automatycznie usuwane.<br/>Skopiuj zawartość do nowego pliku w celu dalszej edycji.";

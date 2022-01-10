@@ -97,7 +97,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Απαιτείται το Pandoc για την εισαγωγή αυτού του είδους των αρχείων";
 "Check help->Install and use Pandoc from menubar for detail" = "Τσεκάρετε βοήθεια->Εγκατάσταση και χρησιμοποιήστε το Pandoc από το μενού για λεπτομέρειες";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Κάποια χαρακτηριστικά εισαγωγής και εξαγωγής απαιτούν την εγκατάσταση του <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Κάποια χαρακτηριστικά εισαγωγής και εξαγωγής απαιτούν την εγκατάσταση του <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Ακολουθήστε τις οδηγίες για την Εγκατάσταση/Ενημέρωση του Pandoc";
 "Export Failed" = "Αποτυχία Εξαγωγής";
 "Import Failed" = "Αποτυχία Εισαγωγής";
@@ -206,7 +206,7 @@
 "More Formats" = "Περισσότερες Μορφές";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Η μορφή αρχείων κάτω από το τμήμα 'Περισσότερες Μορφές' χρειάζεται <a class='open-pandoc-guide'>εγκατάσταση του Pandoc</a>.";
 "Something is Wrong…" = "Κάτι πήγε Στραβά…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Για κάποιο λόγο η αποθήκευση του περιεχομένου απέτυχε. <br/>Θα μπορούσατε να αντιγράψετε το περιεχόμενο σε ένα νέο παράθυρο Typora, και στην συνέχεια να το αποθυκεύσετε. <br/>Μάθετε περισσότερα για:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Αναφορά bugs σε εμάς</a></li><li><a href='https://support.typora.io/Version-Control//'>Ανάκτηση χαμένου περιεχομένου</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Για κάποιο λόγο η αποθήκευση του περιεχομένου απέτυχε. <br/>Θα μπορούσατε να αντιγράψετε το περιεχόμενο σε ένα νέο παράθυρο Typora, και στην συνέχεια να το αποθυκεύσετε. <br/>Μάθετε περισσότερα για:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Αναφορά bugs σε εμάς</a></li><li><a href='https://support.typora.io/Version-Control/'>Ανάκτηση χαμένου περιεχομένου</a></li></ul>";
 "Copy Content" = "Αντιγραφή Περιεχομένου";
 
 

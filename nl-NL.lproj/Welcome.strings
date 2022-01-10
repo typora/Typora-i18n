@@ -1,0 +1,87 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Dutch translations by Melle Dijkstra, André van Delft & Mark Walet
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Welkom bij Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Bedankt voor het gebruik van Typora 👋. Typora is een minimale markdown-editor en markdown-lezer, die een naadloze ervaring verzorgt tussen geformatteerde tekst en zijn broncode.";
+
+"Get Start" = "Ga van start";
+"Check following links if you're new to Markdown or Typora." = "Raadpleeg volgende links als Markdown of Typore nieuw voor je is.";
+
+"Activate Typora" = "Activeer Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Al een licentie gekocht? Vul onderstaand formulier in en activeer Typora meteen.";
+
+"Email" = "E-mail";
+"Email Address" = "E-mailadres";
+"License Code" = "Licentiecode";
+
+"Help" = "Help";
+"Find my License" = "Vind mijn licentie";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+
+"Live Preview" = "Live Preview";
+"Write and read rendered output instantly." = "Write and read rendered output instantly.";
+"Markdown Syntax" = "Markdown Syntax";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Codeblokken, YAML, taken, voetnoten, tabellen, wiskunde, diagrammen";
+"Import / Export" = "Import / Export";
+"Deliver your content in various formats." = "Lever je inhoud in verschillende formaten.";
+"Editing Experience" = "Bewerkingservaring";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Overzicht / Aantal woorden / Focus modus / Typemachine modus";
+
+"Files" = "Bestanden";
+"Manage files in sidebar and search across files." = "Beheer bestanden in de zijbalk en zoek doorheen bestanden.";
+"Customize" = "Aanpassen";
+"Customize your writing experience from preferences panel." = "Pas je schrijfinstellingen aan in het voorkeurenpaneel.";
+"Themes" = "Themes";
+"Write in the theme you like, or make one by your own." = "Schrijf in een thema dat je leuk vindt, of maak er zelf één.";
+"And more" = "En meer";
+"Explorer more topics at support.typora.io" = "Ontdek meer onderwerpen op support.typora.io";
+
+"Quick Start" = "Snelstart";
+"Markdown Reference" = "Markdown gids";
+"Explorer Themes" = "Thema's verkenner";
+"More Topics" = "Meer onderwerpen";
+
+"Typora Activated" = "Typora geactiveerd";
+"Thanks for your purchase." = "Bedankt voor uw aankoop.";
+
+"Next" = "Volgende";
+"Please accept license agreement first" = "Gelieve eerst de licentieovereenkomst te aanvaarden.";
+"Start %@ Days Trial" = "Start %@ dagen proefperiode";
+"Buy License" = "Koop een licentie";
+"Activate" = "Activeren";
+
+"Close" = "Sluiten";
+"Deactivate" = "Deactiveer";
+"View License" = "Bekijk licentie";
+"Your Typora License" = "Je Typora licentie";
+"This copy of Typora is registered with license information below." = "Dit exemplaar van Typora is geregistreerd met de hieronder vermelde licentiegegevens.";
+"Your trial will be expired in %@ days." = "Je testperiode vervalt binnen %@ dagen.";
+"Enter License" = "Vul licentie in";
+"Not Now" = "Niet nu";
+
+"Please input a valid email address" = "Gelieve een geldig e-mailadres in te geven";
+"Please input a valid license code"  = "Gelieve een geldige licentiecode in geven";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Het maximaal aantal toestellen voor je licentie werd overschreden.\nHet oudste toestel werd automatisch ontkoppeld.";
+"This license code has been used with a different email address." =  "Dese licentiecode is gebruikt geweest met een verschillend e-mailadres.";
+"Unknown Error. Please contact hi@typora.io" = "Onbekende fout. Gelieve hi@typora.io te contacteren";
+"Failed to access the license server. Please check your network or try again later." = "De licentieserver is onbereikbaar. Gelieve je netwerk te controleren of later opnieuw te proberen.";
+
+"Enter a license code to support our development ❤" = "Voeg een licentiecode toe om het development te ondersteunen ❤";
+"Re-enter Email" = "Bevestig email";
+"Email address confirmation does not match." = "E-mailadres komt niet overeen.";
+
+"Are you sure to deactivate Typora on this device?" = "Weet u zeker dat u Typora wilt deactiveren op dit apparaat?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Uw licentie heeft het maximum aantal apparaten in gebruik.\nAls u up \"Alsnog activeren\" klikt, zal dit apparaat geactiveerd worden en het oudste apparaat gedeactiveerd.";
+"Continue Activation" = "Alsnog activeren";

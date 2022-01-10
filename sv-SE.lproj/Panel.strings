@@ -94,7 +94,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc krävs för att importera dessa filformat";
 "Check help->Install and use Pandoc from menubar for detail" = "Gå till hjälp->Installera och använd Pandoc från menyraden för mer info";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import och vissa exportfunktioner kräver att <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) är installerat.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Import och vissa exportfunktioner kräver att <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) är installerat.";
 "Follow Instructions to Install/Update Pandoc" = "Följ instruktionerna för att installera/uppdatera Pandoc";
 "Export Failed" = "Export misslyckades";
 "Import Failed" = "Import misslyckades";
@@ -202,7 +202,7 @@
 "More Formats" = "Fler format";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformat listade under 'Fler format' kräver att <a class='open-pandoc-guide'>Pandoc är installerat</a>.";
 "Something is Wrong…" = "Något är fel…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Av någon anledning kunde inte innehållet sparas.<br/>Du kan prova att kopiera innehållet till ett nytt Typora-fönster och spara där. <br/>Läs mer:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportera problem till oss</a></li><li><a href='https://support.typora.io/Version-Control//'>Återställ förlorat innehåll</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Av någon anledning kunde inte innehållet sparas.<br/>Du kan prova att kopiera innehållet till ett nytt Typora-fönster och spara där. <br/>Läs mer:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportera problem till oss</a></li><li><a href='https://support.typora.io/Version-Control/'>Återställ förlorat innehåll</a></li></ul>";
 "Copy Content" = "Kopiera innehåll";
 
 
@@ -320,4 +320,4 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
 "Try Recovery" = "Try Recovery";
-"Other options for Data Recovery" = "Other options for Data Recovery";
+"Other Options for Data Recovery" = "Other Options for Data Recovery";

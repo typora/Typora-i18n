@@ -1,0 +1,328 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+ ms-MY by anatilmizun@gmail.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Tentang Typora";
+"Preferences" = "Pilihan";
+"Check for Updates" = "Periksa Kemaskini";
+"Services" = "Perkhidmatan";
+"Hide Typora" = "Sorok Typora";
+"Hide Others" = "Sorok Lain-lain";
+"Show All" = "Tunjuk All";
+"Quit Typora" = "Keluar Typora";
+
+/* File Menu */
+
+"File" = "Fail";
+"New" = "Baru";
+"Open" = "Buka";
+"Open Folder" = "Buka Folder";
+"Reopen with Encoding" = "Buka Semula dengan Encoding";
+"Auto" = "Auto";
+"Open Recent" = "Buka Terkini";
+"Recent Locations" = "Lokasi Terkini";
+"Clear Items" = "Kosongkan Barang";
+"No Recent Files" = "Tiada Fail Terkini";
+"Open Quickly" = "Buka Segera";
+"Open File Location" = "Buka Lokasi Fail";
+"Reveal in Library" = "Dedah dalam Pustaka";
+"Reveal in File Tree" = "Dedah dalam Hierarki Fail";
+"Close" = "Tutup";
+"Save" = "Simpan";
+"Save As" = "Simpan Sebagai";
+"Duplicate" = "Pendua";
+"Rename" = "Nama Semula";
+"Move To" = "Pindah Ke";
+"Revert To" = "Kembali Ke";
+"Browse All Versions" = "Semak Imbas Semua Versi";
+"Import" = "Import";
+"Export" = "Eksport";
+"Page Setup" = "Persediaan Halaman";
+"Print" = "Cetak";
+
+/* Edit Menu */
+"Edit" = "Sunting";
+"Undo" = "Undur";
+"Redo" = "Buat Semula";
+"Cut" = "Potong";
+"Copy" = "Salin";
+"Paste" = "Tampal";
+"Copy as Markdown" = "Salin sebagan Markdown";
+"Copy as HTML Code" = "Salin sebagai Kod HTML";
+"Paste as Plain Text" = "Tampal sebagai Teks Biasa";
+"Select All" = "Pilih Semua";
+"Select Line/Sentence" = "Pilih Barisan/Ayat";
+"Select Styled Scope" = "Pilih Skop Bergaya";
+"Select Word" = "Pilih Perkataan";
+"Delete" = "Padam";
+"Delete Range" = "Padam Julat";
+"Delete Word" = "Padam Perkataan";
+"Delete Styled Scope" = "Padam Skop Bergaya";
+"Delete Line/Sentence" = "Padam Barisan/Ayat";
+"Jump To" = "Lompat Ke";
+"Jump to Top" = "Lompat ke Atas";
+"Jump to Selection" = "Lompat ke Pilihan";
+"Jump to Bottom" = "Lompat ke Bawah";
+"Math Tools" = "Alatan Matematik";
+"Refresh All Math Expressions" = "Segar Semula Semua Ekspresi Matematik";
+"Image Tools" = "Alatan Imej";
+"Insert Local Images" = "Masukkan Imej Tempatan";
+"Upload Local Images via iPic" = "Muat Naik Imej melalui iPic";
+"When Insert Local Image" = "Apabila Memasukkan Imej Tempatan";
+"Copy Image File to Folder" = "Salin Fail Imej ke Folder";
+"Use Image Root Path" = "Guna Laluan Akar Imej";
+"Line Endings" = "Penamat Barisan";
+"Windows Line Endings (CRLF)" = "Penamat Barisan Windows (CRLF)";
+"Unix Line Endings (LF)" = "Penamat Barisan Unix (LF)";
+"Find" = "Cari";
+"Find Next" = "Cari Seterusnya";
+"Find Previous" = "Cari Sebelumnya";
+"Find and Replace" = "Cari dan Ganti";
+"Replace" = "Ganti";
+"Replace Next" = "Ganti Seterusnya";
+"Spelling and Grammar" = "Ejaan dan Tatabahasa";
+"Check Document Now" = "Semak Dokumen Sekarang";
+"Check Spelling While Typing" = "Semak Ejaan Semasa Menaip";
+"Check Grammar With Spelling" = "Semak Tatabahasa Semasa Menaip";
+"Correct Spelling Automatically" = "Semak Ejaan Secara Automatik";
+"Substitutions" = "Penggantian";
+"Smart Quotes" = "Petikan Pintar";
+"Smart Dashes" = "Sempang Pintar";
+"Text Replacement" = "Teks Gantian";
+"Speech" = "Pertuturan";
+"Start Speaking" = "Mula Pertuturan";
+"Stop Speaking" = "Henti Pertuturan";
+
+/* Paragraph Menu */
+"Paragraph" = "Perenggan";
+"Heading 1" = "Tajuk 1";
+"Heading 2" = "Tajuk 2";
+"Heading 3" = "Tajuk 3";
+"Heading 4" = "Tajuk 4";
+"Heading 5" = "Tajuk 5";
+"Heading 6" = "Tajuk 6";
+"Increase Heading Level" = "Tambah Peringkat Tajuk";
+"Decrease Heading Level" = "Kurang Peringkat Tajuk";
+"Table" = "Jadual";
+"Code Fences" = "Pagar Kod";
+"Math Block" = "Blok Matematik";
+"Quote" = "Petikan";
+"Ordered List" = "Senarai Dengan Turutan";
+"Unordered List" = "Senarai Tanpa Turutan";
+"Task List" = "Senarai Tugasan";
+"Task Status" = "Status Tugasan";
+"Toggle Task Status" = "Togol Status Tugasan";
+"Mark as Complete" = "Tanda sebagai Siap";
+"Mark as Incomplete" = "Tanda sebagai Belum Siap";
+"List Indentation" = "Lekukan Senarai";
+"Indent" = "Tambah Lekukan";
+"Outdent" = "Kurang Lekukan";
+"Link Reference" = "Rujukan Pautan";
+"Footnotes" = "Nota Kaki";
+"Horizontal Line" = "Garisan Mendatar";
+"Table of Contents" = "Jadual Isi Kandungan";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "Format";
+"Strong" = "Kuat";
+"Emphasis" = "Tekanan";
+"Underline" = "Garis Bawah";
+"Code" = "Kod";
+"Inline Math" = "Matematik Dalam Barisan";
+"Strike" = "Garis Potong";
+"Highlight" = "Tonjol";
+"Superscript" = "Superskrip";
+"Subscript" = "Subskrip";
+"Comment" = "Komen";
+"Hyperlink" = "Pautan";
+"Image" = "Imej";
+"Clear Format" = "Kosongkan Format";
+
+/* View Menu */
+"View" = "Paparan";
+"New Tab" = "Tab Baru";
+"Source Code Mode" = "Mod Kod Sumber";
+"Focus Mode" = "Mod Fokus";
+"Typewriter Mode" = "Mod Mesin Taip";
+"Toggle Sidebar" = "Togol Bar Sisi";
+"Outline" = "Kerangka";
+"Articles" = "Artikel-artikel";
+"File Tree" = "Hierarki Fail";
+"Always on Top" = "Sentiasa Di Atas";
+"Full Screen" = "Skrin Penuh";
+"Show Status Bar" = "Tunjuk Bar Status";
+"Toggle Fullscreen" = "Togol Skrin Penuh";
+"Actual Size" = "Saiz Sebenar";
+"Zoom In" = "Zum Masuk";
+"Zoom Out" = "Zum Keluar";
+"Switch Between Opened Documents" = "Beralih Antara Dokumen Terbuka";
+"Toggle DevTools" = "Togol Alatan Pemaju";
+
+
+/* Themes Menu */
+"Themes" = "Tema";
+
+/* Window Menu */
+"Window" = "Tetingkap";
+"Minimize" = "Minimum";
+"Zoom" = "Zum";
+"Bring All to Front" = "Bawa Semua Ke Hadapan";
+
+/* Help Menu */
+"Help" = "Bantuan";
+"Privacy Policy" = "Polisi Peribadi";
+"Credits" = "Kredit";
+"Change Log" = "Log Pertukaran";
+"Website" = "Laman Web";
+"Feedback" = "Maklum Balas";
+"About" = "Tentang";
+
+/* Touchbar */
+"Block Styles" = "Gaya Blok";
+"Inline Styles" = "Gaya Dalam Garisan";
+"List Styles / Remove Block" = "Gaya Senarai / Padam Blok";
+"Exit Source Code Mode" = "Keluar Mod Kod Sumber";
+"Toggle Source Code Mode" = "Togol Mod Kod Sumber";
+
+/* Extra Context Menu */
+"Table" = "Jadual";
+"Add Row Above" = "Tambah Barisan Atas";
+"Add Row Below" = "Tambah Barisan Bawah";
+"Delete Row" = "Padam Barisan";
+"Add Column Before" = "Tambah Lajur Sebelum";
+"Add Column After" = "Tambah Lajur Selepas";
+"Delete Column" = "Padam Lajur";
+"Copy Table" = "Salin Jadual";
+"Delete Table" = "Padam Jadual";
+"Insert Paragraph After" = "Masukkan Perenggan Selepas";
+"Insert Paragraph Before" = "Masukkan Perenggan Sebelum";
+"Delete Code Block" = "Padam Blok Kod";
+"Copy as MathML" = "Salin sebagai MathML";
+"Copy as Tex" = "Salin sebagai Tex";
+"Copy Math" = "Salin Matematik";
+"Reveal in Finder" = "Dedahkan dalam Finder";
+"Open Link" = "Buka Pautan";
+"Reveal in Sidebar" = "Dedah dalam Bar Sisi";
+"Open in New Window" = "Buka dalam Tetingkap Baru";
+"Copy File Path" = "Salin Laluan Fail";
+"New File" = "Fail Baru";
+"Rename" = "Nama Semula";
+"New Folder" = "Folder Baru";
+
+/* Electron */
+"Learn Spelling" = "Belajar Ejaan";
+"Copy / Paste As…" = "Salin / Tampal Sebagai…";
+"Math" = "Matematik";
+"Insert" = "Masukkan";
+"Inspect Element" = "Periksa Elemen";
+"Copy to MS Word" = "Salin kepada MS Word";
+"Paragraph (before)" = "Perenggan (sebelum)";
+"Paragraph (after)" = "Perenggan (selepas)";
+
+"Search with Google" = "Cari menggunakan Google";
+"Search With…" = "Cari Menggunakan…";
+
+/* Related Panel */
+"Open Failed" = "Gagal Membuka";
+"File or folder does not exist." = "Fail atau folder tidak wujud.";
+
+"Prettify Source Code" = "Cantikkan Kod Sumber";
+"Copy '%@'" = "Salin '%@'";
+"Copy to %@" = "Salin ke %@";
+"Copy Image to" = "Salin Imej ke";
+"Open Image Location" = "Salin Lokasi Imej";
+
+"Learn More" = "Belajar Lebih Lanjut";
+"Whitespace and Line Breaks" = "Ruang Kosong dan Pecahan Barisan";
+"Indent first line of paragraphs" = "Lekuk barisan pertama dalam perenggan";
+"Preserve single line break" = "Pelihara pecahan barisan tunggal";
+"Visible <br/>" = "Kelihatan <br/>";
+
+"Save All" = "Simpan Semua";
+"New Window" = "Tetingkap Baru";
+"Reopen Closed File" = "Buka Semula Fail Tertutup";
+
+"Global Image Settings" = "Tetapan Imej Global";
+"Smart Punctuation" = "Tanda Baca Pintar";
+"Convert on Input" = "Tukar semasa Input";
+"Convert on Rendering" = "Tukar semasa Rendering";
+"Remap Unicode Punctuation on Parse" = "Peta Semula Tanda Baca Unicode semasa Penghuraian";
+"More Options" = "Pilihan Lanjut";
+
+"HTML Block" = "Blok HTML";
+"Delete Block" = "Padam Blok";
+"Delete %@" = "Padam %@";
+"Play" = "Main Semula";
+"Pause" = "Henti Seketika";
+
+"Spell Check" = "Periksa Ejaan";
+"Unlearn Spelling" = "Lupakan Ejaan";
+"Properties" = "Sifat-sifat";
+
+"Search" = "Carian";
+"Copy without Theme Styling" = "Salin tanpa Penggayaan Tema";
+"Recent Files" = "Fail-fail Terkini";
+"File Results" = "Hasil-hasil Fail";
+
+"Insert Table" = "Masukkan Jadual";
+"Insert Image" = "Masukkan Imej";
+"Allow Magnification" = "Benarkan Pembesaran";
+
+"Move Row Up" = "Pindah Barisan Ke Atas";
+"Move Row Down" = "Pindah Barisan Ke Bawah";
+"Move Column Left" = "Pindah Lajur Ke Kiri";
+"Move Column Right" = "Pindah Lajur Ke Kanan";
+
+"Zoom Image" = "Zum Imej";
+"Zoom Image to %@" = "Zum Imej ke %@";
+
+"Copy as Plain Text" = "Salin sebagai Teks Biasa";
+
+"Selection" = "Pilihan";
+"Start Speaking" = "Mula Bertutur";
+"Stop Speaking" = "Berhenti Bertutur";
+"Check Updates" = "Periksa Kemaskini";
+
+"HTML (without Styles)" = "HTML (tanpa Gaya)";
+
+"Highlight Current Header" = "Tonjol Tajuk Semasa";
+"Expand All" = "Kembang Semua";
+"Collapse All" = "Kuncup Semua";
+"Collapsible Outline" = "Kerangka Boleh Kuncup";
+"Flat Outline" = "Kerangka Rata";
+"Articles (List View)" = "Artikel (Paparan Senarai)";
+"File Tree (Tree View)" = "Hierarki Fail (Paparan Hierarki)";
+"Filter" = "Tapisan";
+
+"Upload Image" = "Muat Naik Imej";
+"Upload All Local Images" = "Muat Naik Semua Imej Tempatan";
+"Open Image in Browser" = "Buka Imej dalam Pelayar";
+"Copy Image" = "Salin Imej";
+
+"More Actions" = "Tindakan Lanjut";
+"Get Info" = "Dapatkan Info";
+
+"Export with Previous" = "Eksport dengan Sebelumnya";
+"Export and Overwrite with Previous" = "Eksport dan Tulis Tindih dengan Sebelumnya";
+
+"Emoji and Symbols" = "Emoji dan Simbol";
+
+"Insert Final New Line On Save" = "Masukkan Barisan Penamat Semasa Menyimpan";
+"Hyperlink Actions" = "Tindakan Pautan";
+"Copy Link Address" = "Salin Alamat Pautan";
+
+"Click" = "Klik";
+
+"Export Setting" = "Eksport Tetapan";
+
+"My License" = "Lesen Saya";
+"Registration / Activation" = "Pendaftaran / Pengaktifan";
+
+"Select Paragraph/Block" = "Pilih Perenggan/Blok";

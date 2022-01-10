@@ -112,10 +112,10 @@ Japanese translated by
 "Stop" = "ストップ";
 "back to document" = "文書に戻る";
 "Failed to load file" = "ファイル読み込みに失敗しました";
-"Save File Failed!" = "ファイル保存に失敗！"
+"Save File Failed!" = "ファイル保存に失敗！";
 "Cannot open folder {0}" = "ファイルを開けませんでした {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか？"
+"File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか？";
 "Should continue moving and overwrite exisiting file(s) ?" = "既存のファイルを上書きして移動を続けますか？";
 
 "Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか？";
@@ -138,7 +138,7 @@ Japanese translated by
 
 "input image URL" = "画像のURLを入力";
 "Select image from local file" = "ローカルファイルから画像を選択";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='https://$3'>https://$2</a> で正しいですか？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='$3' target='_blank' target='_blank'>$2</a> で正しいですか？";
 
 "select a language" = "言語を選択";
 "Finish Editing" = "編集を完了";

@@ -8,7 +8,7 @@
 /* Typora Menu */
 
 "About Typora" = "درباره Typora";
-"Preferences" = "Preference";
+"Preferences" = "تنظیمات";
 "Check for Updates" = "بررسی بروزرسانی";
 "Services" = "خدمات";
 "Hide Typora" = "مخفی کردن Typora";
@@ -22,7 +22,7 @@
 "New" = "جدید";
 "Open" = "باز کردن";
 "Open Folder" = "باز کردن پوشه";
-"Reopen with Encoding" = "Reopen with Encoding";
+"Reopen with Encoding" = "باز کردن مجدد با Encoding";
 "Auto" = "خودکار";
 "Open Recent" = "باز کردن  موارد اخیر";
 "Recent Locations" = "مکان‌های اخیر";
@@ -272,4 +272,4 @@
 "File Results" = "نتایج فایل";
 
 "Insert Table" = "افزودن جدول";
-"Insert Image" = "Insert Image";
+"Insert Image" = "افزودن تصویر";

@@ -1,0 +1,77 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "歡迎使用 Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "感謝您使用 Typora 👋. Typora 是一個極簡風格的 Markdown 編輯器和閱讀器, 可以提供無縫的編輯和閱讀體驗。";
+
+"Get Start" = "點此開始";
+"Check following links if you're new to Markdown or Typora." = "如果您從未瞭解過 Markdown 或 Typora，可以查閱下列連結";
+
+"Activate Typora" = "啟用 Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "已經購買了 Typora？填寫下列内容啟用Typora。";
+
+"Email" = "電郵地址";
+"Email Address" = "電郵地址";
+"License Code" = "授權碼";
+
+"Help" = "幫助";
+"Find my License" = "找回我的授權";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "我同意 <a href='https://support.typora.io/License-Agreement/'>用戶許可協議</a> and <a href='https://support.typora.io/Privacy-Policy/'>隱私條款</a>.";
+
+"Live Preview" = "實時預覽";
+"Write and read rendered output instantly." = "無縫地書寫和閱讀";
+"Markdown Syntax" = "Markdown 語法";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "程式碼區塊, YAML, 任務清單, 腳註, 表格, 數學公式, 圖表";
+"Import / Export" = "匯入 / 匯出";
+"Deliver your content in various formats." = "以多種格式發表您的内容";
+"Editing Experience" = "編輯體驗";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "大綱 / 字數統計 / 專注模式 / 打字機模式";
+
+"Files" = "檔案";
+"Manage files in sidebar and search across files." = "在側邊欄管理檔案或進行全域搜尋";
+"Customize" = "自定義";
+"Customize your writing experience from preferences panel." = "通過偏好設定自定義您的書寫體驗";
+"Themes" = "主題";
+"Write in the theme you like, or make one by your own." = "使用您喜歡的主題，或者自己定制一個主題";
+"And more" = "更多";
+"Explorer more topics at support.typora.io" = "從 support.typora.io 獲取更多幫助";
+
+"Quick Start" = "新手教學";
+"Markdown Reference" = "Markdown 說明";
+"Explorer Themes" = "瀏覽主題";
+"More Topics" = "更多幫助";
+
+"Typora Activated" = "Typora 已啟用";
+"Thanks for your purchase." = "感謝您的購買";
+
+"Next" = "下一頁";
+"Please accept license agreement first" = "請先同意用戶許可協議";
+"Start %@ Days Trial" = "開始試用 %@ 天";
+"Buy License" = "購買授權";
+"Activate" = "啟用";
+
+"Close" = "關閉";
+"Deactivate" = "停用";
+"View License" = "查看授權";
+"Your Typora License" = "您的 Typora 授權";
+"This copy of Typora is registered with license information below." = "這個 Typora 副本使用以下授權註冊";
+"Your trial will be expired in %@ days." = "您的試用還有 %@ 天到期。";
+"Enter License" = "輸入授權碼";
+"Not Now" = "不是現在";
+
+"Please input a valid email address" = "請輸入有效的電郵地址";
+"Please input a valid license code"  = "請輸入有效的授權碼";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "您的授權設備數已超過上限，\n最早被啟用的設備將自動停用";
+"This license code has been used with a different email address." =  "該授權碼已被其他電郵地址使用";
+"Unknown Error. Please contact hi@typora.io" = "未知錯誤，請聯繫 hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "無法連接伺服器，請檢查網路後重試";
+

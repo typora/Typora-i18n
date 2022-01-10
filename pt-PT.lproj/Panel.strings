@@ -27,7 +27,7 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
  "Left Panel" = "Painel Esquerdo";
 "Show Outline Panel by Default" = "Exibir Painel de Índices por Defeito";
 "Collapsible Outline on Left Panel" = "Índice Flexível no Painel Esquerdo";
-"Save without asking when\nswitch files on side panel" = "Guardar sem perguntar quando\ntrocar de ficheiro no painel lateral"
+"Save without asking when\nswitch files on side panel" = "Guardar sem perguntar quando\ntrocar de ficheiro no painel lateral";
 "Language" = "Idioma";
 "System Language" = "Idioma do Sistema";
 
@@ -97,7 +97,7 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Pandoc é necessário para importar esses formatos de ficheiro";
 "Check help->Install and use Pandoc from menubar for detail" = "Verifique ajuda->Instalar e usar Pandoc na barra de menu para detalhes";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "As funcionalidades de importação e algumas de exportação requerem que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) esteja instalado.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "As funcionalidades de importação e algumas de exportação requerem que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) esteja instalado.";
 "Follow Instructions to Install/Update Pandoc" = "Siga Instruções para Instalar/Atualizar Pandoc";
 "Export Failed" = "Erro ao Exportar";
 "Import Failed" = "Erro ao Importar";
@@ -201,7 +201,7 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 "More Formats" = "Mais Formatos";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatos de ficheiro em 'Mais Formatos' precisam que <a class='open-pandoc-guide'>Pandoc esteja instalado</a>.";
 "Something is Wrong…" = "Algo está mal…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Por alguma razão ocorreu um erro ao guardar o conteúdo.<br/>Pode copiar o conteúdo para uma nova janeja Typora, e guardar. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control//'>Recuperar conteúdos perdidos</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Por alguma razão ocorreu um erro ao guardar o conteúdo.<br/>Pode copiar o conteúdo para uma nova janeja Typora, e guardar. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar conteúdos perdidos</a></li></ul>";
 "Copy Content" = "Copiar Conteúdo";
 
 

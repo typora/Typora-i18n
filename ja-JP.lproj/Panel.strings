@@ -100,7 +100,7 @@ Japanese translated by
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "このファイルのインポートにはPandocが必要です";
 "Check help->Install and use Pandoc from menubar for detail" = "メニューのヘルプ＞インストールをチェックしてください";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "インポート機能や一部のエクスポート機能には、<a href='http://pandoc.org/' target='_blank'>Pandoc</a> （v1.16）以上が必要です";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "インポート機能や一部のエクスポート機能には、<a href='http://pandoc.org/' target='_blank'>Pandoc</a> （v2.0）以上が必要です";
 "Follow Instructions to Install/Update Pandoc" = "指示に従ってPandocをインストール／アップデートしてください";
 "Export Failed" = "エクスポートに失敗しました";
 "Import Failed" = "インポートに失敗しました";
@@ -207,7 +207,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告</a></li><li><a href='https://support.typora.io/Version-Control//'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告</a></li><li><a href='https://support.typora.io/Version-Control/'>失われたコンテンツを回復する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 
@@ -322,4 +322,4 @@ Japanese translated by
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "エラーが発生しました、現在の入力内容がクリップボードにコピーされています。<hi@typora.io> 宛に報告を頂けると、この問題の解決に役立てることができます。";
 "Try Recovery" = "復旧を試みる";
-"Other options for Data Recovery" = "データ復旧のための他のオプション";
+"Other Options for Data Recovery" = "データ復旧のための他のオプション";

@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by rzezior@gazeta.pl, iriusturar350@Gmail.com
+ by rzezior@gazeta.pl, iriusturar350@Gmail.com, radek.kwlsk@gmail.com
  */
 
 /* Preference Panel */
@@ -53,7 +53,7 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(poniższe ustawienia zostaną wdrożone po ponownym uruchomieniu aplikacji)";
 "Syntax Support" = "Obsługa składni";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Działania matematyczne (np. $\LaTeX$)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Formuła Math (np. $\LaTeX$)";
 "Subscript    ( e.g: H~2~O )" = "Indeks dolny (np. H~2~O)";
 "Superscript ( e.g: X^2^ )" = "Indeks górny (np. X^2^)";
 "Highlight     (e.g: ==key==)" = "Wyróżnienie (np. ==key==)";
@@ -68,7 +68,7 @@
 "Unordered List" = "Lista wypunktowana";
 "Code Fences" = "Bloki kodu";
 "Display line numbers for code fences" = "Wyświetlaj numerację wierszy w blokach kodu";
-"Math Blocks" = "Bloki matematyczne";
+"Math Blocks" = "Bloki Math";
 "Auto Numbering Math Equations" = "Automatyczne numerowanie równań matematycznych";
 
 /* Security Panel */
@@ -95,7 +95,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "W celu zaimportowania plików tych formatów wymagany jest Pandoc.";
 "Check help->Install and use Pandoc from menubar for detail" = "Przejdź do Pomoc->Install and Use Pandoc, by dowiedzieć się więcej";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Importowanie oraz część opcji eksportowania wymaga zainstalowanego programu <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Importowanie oraz część opcji eksportowania wymaga zainstalowanego programu <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Postępuj zgodnie z instrukcjami, by zainstalować/zaktualizować Pandoc";
 "Export Failed" = "Eksportowanie nie powiodło się";
 "Import Failed" = "Importowanie nie powiodło się";
@@ -200,7 +200,7 @@
 "More Formats" = "Więcej formatów";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formaty plików w sekcjach 'Więcej formatów' wymagają <a class='open-pandoc-guide'>zainstalowanego Pandoc</a>.";
 "Something is Wrong…" = "Coś poszło nie tak…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Zapisanie zawartości nie powiodło się z jakiegoś powodu.<br/>Skopiuj zawartość do nowego okna Typora, a następnie zapisz dokument. <br/>Dowiedz się więcej o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>zgłaszaniu błędów</a></li><li><a href='https://support.typora.io/Version-Control//'>przywracaniu utraconej zawartości</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Zapisanie zawartości nie powiodło się z jakiegoś powodu.<br/>Skopiuj zawartość do nowego okna Typora, a następnie zapisz dokument. <br/>Dowiedz się więcej o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>zgłaszaniu błędów</a></li><li><a href='https://support.typora.io/Version-Control/'>przywracaniu utraconej zawartości</a></li></ul>";
 "Copy Content" = "Kopiuj zawartość";
 
 
@@ -315,7 +315,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Przepraszamy, ale wystąpił jakiś błąd, a obecna zawartość tekstowa została skopiowana do schowka. Możesz to zgłosić pod adresem <hi@typora.io>, byśmy mogli naprawić ten błąd.";
 "Try Recovery" = "Wypróbuj odzyskiwanie";
-"Other options for Data Recovery" = "Inne opcje odzyskiwania danych";
+"Other Options for Data Recovery" = "Inne opcje odzyskiwania danych";
 
 "When Insert" = "Podczas wstawiania";
 "Upload image" = "Prześlij plik";
@@ -466,3 +466,22 @@
 "End of current section" = "Na końcu bieżącej sekcji";
 "Convert TeX formulas to web images" = "Konwertuj formuły TeX na obrazy WWW";
 "Image Format" = "Format obrazu";
+
+"Set Pandoc Path" = "Ustaw ścieżkę do programu Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Wstaw podział wiersza w \\ i &#92;newline";
+
+"Export operation succeeded with warnings." = "Eksportowanie zakończone pomyślnie, lecz z ostrzeżeniami.";
+
+"Typora is now deactivated" = "Typora jest teraz zdezaktywowana";
+"This device has been deactivated" = "To urządzenie zostało zdezaktywowane";
+"UNREGISTERED" = "NIE ZAREJESTROWANO";
+
+"Allow physics package to redefine existing TeX commands" = "Pozwól pakietowi fizyki zmienić definicje istniejących poleceń TeX";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Po włączeniu tej opcji polecenia w rodzaju \\div, \\Re zostaną zastąpione definicjami z pakietu fizyki.";
+
+"Your Typora is not activated." = "Twoja Typora nie jest aktywowana.";
+"Your Typora has been activated." = "Twoja Typora została aktywowana.";
+"Typora activation is required to change this." = "Do zmiany tej opcji konieczna jest aktywacja Typory.";
+"You can reinstall the stable version and then disable this." = "Możesz ponownie zainstalować wersję stabilną i wyłączyć to.";
+"Update to dev version" = "Zaktualizuj do wersji deweloperskiej";

@@ -96,7 +96,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Na import týchto formátov súborov je potrebný Pandoc";
 "Check help->Install and use Pandoc from menubar for detail" = "Pozrite sa na pomoc->Inštalácia a použitie Pandoc z menu pre detaily.";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Import a niektoré exportné funkcie vyžadujú inštaláciu <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Import a niektoré exportné funkcie vyžadujú inštaláciu <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "Nasledujte inštrukcie pre inštaláciu/aktualizaciu Pandoc";
 "Export Failed" = "Zlyhal export";
 "Import Failed" = "Zlyhal import";
@@ -203,7 +203,7 @@
 "More Formats" = "Ďalšie formáty";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formáty súborov v časti 'Ďalšie formáty' vyžadujů <a class='open-pandoc-guide'>Inštaláciu Pandocu</a>.";
 "Something is Wrong…" = "Niečo nefunguje…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "Uloženie obsahu zlyhalo z nejakého dôvodu.<br/>Obsah môžete skopírovať do nového okna Typory a potom ho uložiť. <br/>Ďalšie informácie o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Nahláste nám chyby</a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovte stratený obsah</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "Uloženie obsahu zlyhalo z nejakého dôvodu.<br/>Obsah môžete skopírovať do nového okna Typory a potom ho uložiť. <br/>Ďalšie informácie o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Nahláste nám chyby</a></li><li><a href='https://support.typora.io/Version-Control/'>Obnovte stratený obsah</a></li></ul>";
 "Copy Content" = "Kopírovať obsah";
 
 

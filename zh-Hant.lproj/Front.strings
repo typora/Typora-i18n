@@ -106,7 +106,7 @@
 "Stop" = "停止";
 "back to document" = "回到文件";
 "Failed to load file" = "載入檔案失敗";
-"Save File Failed!" = "存檔失敗！"
+"Save File Failed!" = "存檔失敗！";
 "Cannot open folder {0}" = "無法開啟資料夾 {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
@@ -132,7 +132,7 @@
 
 "input image URL" = "輸入圖片網址";
 "Select image from local file" = "選擇本機圖片";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='https://$3'>https://$2</a> 嗎？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='$3' target='_blank' target='_blank'>$2</a> 嗎？";
 
 "select a language" = "選取一個語言";
 "Finish Editing" = "完成編輯";

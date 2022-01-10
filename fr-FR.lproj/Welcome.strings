@@ -1,0 +1,83 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io, nicolas@leperlier.co and arnaud@ligny.org
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Bienvenue dans Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Merci d’utiliser Typora 👋. Typora est un éditeur et lecteur Markdown minimaliste. Il vous offre une expérience fluide entre le rendu d’un contenu riche et de son code source.";
+
+"Get Start" = "Commencer";
+"Check following links if you're new to Markdown or Typora." = "Consultez les liens suivants si vous commencez avec Markdown ou Typora.";
+
+"Activate Typora" = "Activer Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Vous avez déjà acheté une licence ? Remplissez le formulaire ci-dessous pour activer Typora instantanément.";
+
+"Email" = "E-mail";
+"Email Address" = "Adresse e-mail";
+"License Code" = "Clé de licence";
+
+"Help" = "Aide";
+"Find my License" = "Trouver ma licence";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accepter <a href='https://support.typora.io/License-Agreement/'>le contrat de licence</a> et <a href='https://support.typora.io/Privacy-Policy/'>la politique de confidentialité</a>.";
+
+"Live Preview" = "Aperçu en direct";
+"Write and read rendered output instantly." = "Ecrivez et lisez votre rendu instantannément.";
+"Markdown Syntax" = "Syntaxe Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blocs de code, YAML, tâches, notes de bas de page, tableaux, math, diagrammes";
+"Import / Export" = "Importer / Exporter";
+"Deliver your content in various formats." = "Livrez votre contenu dans différents formats.";
+"Editing Experience" = "Expérience d’édition";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Plan / Nombre de Mots / Mode Focus / Mode Machine à Écrire";
+
+"Files" = "Fichiers";
+"Manage files in sidebar and search across files." = "Gérez vos fichiers depuis la barre latérale et cherchez parmi tous vos fichiers.";
+"Customize" = "Personnalisez";
+"Customize your writing experience from preferences panel." = "Personnalisez votre expérience d’écriture depuis le panneau Préférences.";
+"Themes" = "Thèmes";
+"Write in the theme you like, or make one by your own." = "Écrivez dans le thème que vous aimez ou créez-en un par vous-même.";
+"And more" = "Et bien plus";
+"Explorer more topics at support.typora.io" = "Explorez plus de sujets sur support.typora.io";
+
+"Quick Start" = "Démarrage rapide";
+"Markdown Reference" = "Références Markdown";
+"Explorer Themes" = "Parcourir les thèmes";
+"More Topics" = "Plus de sujets";
+
+"Typora Activated" = "Typora activé";
+"Thanks for your purchase." = "Merci pour votre achat.";
+
+"Next" = "Suivant";
+"Please accept license agreement first" = "Veuillez accepter le contrat de licence d’abord.";
+"Start %@ Days Trial" = "Commencer une période d’essai de %@ jours";
+"Buy License" = "Acheter une licence";
+"Activate" = "Activer";
+
+"Close" = "Fermer";
+"Deactivate" = "Désactiver";
+"View License" = "Voir la licence";
+"Your Typora License" = "Votre licence Typora";
+"This copy of Typora is registered with license information below." = "Cette copie de Typora est enregistrée avec les informations de licence ci-dessous.";
+"Your trial will be expired in %@ days." = "Votre période d’essai prend fin dans %@ jours.";
+"Enter License" = "Entrer une licence";
+"Not Now" = "Pas maintenant";
+
+"Please input a valid email address" = "Veuillez entrer une adresse e-mail valide";
+"Please input a valid license code"  = "Veuillez entrer une clé de licence valide";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Votre licence a dépassé le nombre maximum d’appareils.\nLa licence de l’appareil le plus ancien a été automatiquement désactivée.";
+"This license code has been used with a different email address." =  "Ce code de licence a été utilisé avec une adresse e-mail différente.";
+"Unknown Error. Please contact hi@typora.io" = "Erreur inconnue. Veuillez contacter hi@typora.io";
+
+"Failed to access the license server. Please check your network or try again later." = "Accès au serveur de licence impossible. Veuillez vérifier votre connexion internet et réessayez plus tard.";
+
+"Enter a license code to support our development ❤" = "Saisissez un code de licence pour soutenir notre développement ❤";
+"Re-enter Email" = "Saisir à nouveau l’adresse e-mail";
+"Email address confirmation does not match." = "L’adresse e-mail de confirmation ne correspond pas.";
+
+"Are you sure to deactivate Typora on this device?" = "Êtes-vous sûr de vouloir désactiver Typora sur cet appareil ?";

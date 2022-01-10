@@ -1,0 +1,191 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+ 
+  translation by @sponka9 / Boštjan <sponka@gmail.com>
+
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Prekliči";
+"Yes" = "Da";
+"No" = "Ne";
+"Close" = "Zapri";
+"Select" = "Izberi";
+"Continue" = "Nadaljuj";
+"Learn More…" = "Izvedi več …";
+"Untitled" = "Brez naslova";
+"Undo" = "Razveljavi";
+"Dismiss" = "Opusti";
+"Confirm" = "Potrdi";
+"Error" = "Napaka";
+
+/* Search Panel */
+"Search" = "Išči";
+"Replace" = "Zamenjaj";
+"All" = "Vse";
+"Search text not found in article" = "Iskanega besedila ni v članku";
+"search text" = "najdi v besedilu";
+
+/* Quick Open */
+"Search by file name" = "Išči po imenu datoteke";
+"Searching" = "Iskanje";
+"Gathering more results" = "Zbiranje več rezultatov";
+
+/* Tables */
+"Insert Table" = "Vstavi tabelo";
+"Columns" = "Stolpci";
+"Rows" = "Vrstice";
+"Align Left" = "Poravnaj levo";
+"Align Center" = "Poravnaj sredinsko";
+"Align Right" = "Poravnaj desno";
+"Resize Table" = "Spremeni velikost tabele";
+"Delete Table" = "Izbriši tabelo";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora poskuša kopirati novo vstavljeno sliko v mapo <code id='image-create-folder-target'></code> glede na vaše nastavitve YAML oziroma na globalne nastavitve. Ciljna mapa ne obstaja, jo ustvarite zdaj?";
+"Create Folder" = "Ustvari mapo";
+
+/* Math */
+"Edit" = "Uredi";
+"Delete Math" = "Izbriši Metamatiko";
+"Preview" = "Predogled";
+
+/* Sidebar */
+"Articles" = "Članki";
+"Outline" = "Oris";
+"Files" = "Datoteke";
+"Switch to File List view" = "Preklopite na pogled seznama datotek";
+"Switch to File Tree view" = "Preklopite na drevesni pogled datotek";
+"Switch to Outline view" = "Preklopite na pogled orisa";
+"Close sidebar" = "Zapri stransko vrstico";
+"Loading" = "Nalaganje";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Izbrana mapa vsebuje preveliko število datotek. \nZa boljšo odzivnost izberite <a id='switch-to-tree-on-oversize'>Drevesni pogled datotek</a>,";
+"New File" = "Nova datoteka";
+"Unpin Outline Panel" = "Odpni panelo z orisom";
+"Open Folder..." = "Odpri mapo ...";
+"Action" = "Dejanje";
+"Close Sidebar Menu" = "Zapri stranski meni";
+"Reveal in Finder" = "Prikaži v Raziskovalcu";
+"Reveal in File Explorer" = "Prikaži v Raziskovalcu";
+"Refresh Folder" = "Osveži vsebino mape";
+"Sort" = "Razvrsti";
+"Group By Folder" = "Združi po mapi";
+"Sort Naturally (Ascending)" = "Naravno razvrščanje (Naraščajoče)";
+"Sort Naturally (Descending)" = "Naravno razvrščanje (Padajoče)";
+"Sort by Name (Ascending)" = "Razvrsti po imenu (Naraščajoče)";
+"Sort by Modification Date (Ascending)" = "Razvrsti po datumu spremembe (Naraščajoče)";
+"Sort by Name (Descending)" = "Razvrsti po imenu (Padajoče)";
+"Sort by Modification Date (Descending)" = "Razvrsti po datumu spremembe (Padajoče)";
+"Location" = "Lokacija";
+"Switch File List/Tree View" = "Preklopi seznam datotek/drevesni pogled";
+"No Files Available" = "Na voljo ni nobena datoteka";
+"No Folder is Opened." = "Ni odprtih map.";
+"Outline is Empty." = "Oris je prazen.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Preklopi stransko vrstico";
+"Toggle Source Code Mode" = "Preklopi način izvorne kode";
+"Exit Source Code Mode" = "Izhod iz načina izvorne kode";
+
+"Table of Contents" = "Vsebina";
+"Empty Diagram" = "Prazen diagram";
+"Input Math TeX here" = "Tu vstavite TeX enačbo";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Določiti je potrebno referečno opombo <b>{0}</b> z obliko zapisa <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Določiti je potrebno referečno povezavo <b>[{0}]</b> z obliko zapisa <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Določiti je potrebno referečno sliko z \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Ustvarjanje nove datoteke ni uspelo";
+"Failed to create folder" = "Ustvarjanje nove mape ni uspelo";
+"Failed to rename file" = "Preimenovanje datoteke ni uspelo";
+"Folder does not exist at %@" = "Mapa ne obstaja na lokaciji %@";
+"File with the same name already exists at target path" = "Datoteka z enakim imenom že obstaja";
+"Apply to All" = "Uveljavi za vse";
+"Overwrite" = "Prepiši";
+"Stop" = "Ustavi";
+"back to document" = "nazaj na dokument";
+"Failed to load file" = "Nalaganje datoteke ni uspelo";
+"Save File Failed!" = "Shranjevanje datoteke ni uspelo!";
+"Cannot open folder {0}" = "Ne morem odpreti mape {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Vsebino datoteke je spremenila zunanja aplikacija. Naložim spremenjeno vsebino?";
+"Should continue moving and overwrite existing file(s) ?" = "Nadaljujem s premikanjem in nadomestim obstoječe datoteke?";
+
+"Rename to \"{0}\" ?" = "Preimenujem v \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Preimenovanje datoteke iz \"{0}\" v \"{1}\" ni uspelo";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Uspešno naloženo {0} slik.";
+"Failed to upload image. Error Message:" = "Neuspešno nalaganje slik. Sporočilo napake:";
+"Failed to Copy Image to Target Folder." = "Neuspešno kopiranje slik v ciljno mapo.";
+"Select Container Folder" = "Izberite vsebovano mapo";
+
+"Saved" = "Shranjeno";
+
+/* place holder in find & replace input */
+"search text" = "vnesite iskano besedilo";
+"replace with" = "zamenjaj z";
+/* search option */
+"Case Sensitive" = "Loči velike in male črke";
+"Whole Word" = "Celotna beseda";
+
+"input image URL" = "vnesi spletni naslov slike (URL)";
+"Select image from local file" = "Izberi sliko med lokalnimi datotekami";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne morem odpreti naslova <code>$1</code>, ste morda mislili <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "izberi jezik";
+"Finish Editing" = "Zaključi urejanje";
+
+"Revert advanced setting file to default one ?" = "Povrnem datoteko z naprednimi nastavitvami na prednastavljeno?";
+
+"Select Spell Check Language" = "Izberite jezik črkovalnika";
+"Auto Detect Language" = "Samodejno zaznaj jezik";
+"Disable Spell Check" = "Onemogoči preberjanje črkovanja";
+"Global Setting…" = "Globalne nastavitve …";
+"Dictionary file is missing to enable spellcheck support for %@." = "Datoteka s slovarjem za %@ ne obstaja, podpora za črkovanje ni omogočena.";
+"Install Language Support" = "Namesti jezikovno podporo";
+"License Information" = "Informacija o licenci";
+"Download" = "Prenesi";
+"Install dictionary file only for Typora" = "Namesti datoteko s slovarjem le za Typoro";
+"Spell Check (%@ unavailable)" = "Črkovalnik (%@ ni na voljo)";
+"Spell Check (%@ downloading)" = "Črkovalnik (%@ prenašanje)";
+"Download dictionary file for %@" = "Prenašanje datoteke s slovarjem za %@";
+"(Default spell check option)" = "(Privzeta možnost črkovalnika)";
+"Failed to load spellcheck module" = "Neuspešno nalaganje modula za preverjanje črkovanja";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> je bil izključen.";
+"You could turn it off from `View` menu." = "Vključite ga lahko v meniju `Pogled`.";
+"The file is too large to render in Typora." = "Datoteka je prevelika za prikaz v Typori.";
+"Open in…" = "Odpri v …";
+"Quick Look" = "Hitri ogled";
+
+"Filter" = "Filter";
+"No result found." = "Ni rezultatov.";
+"Continue & Overwrite" = "Nadaljuj & Prepiši";
+"The file is read-only, or you do not have right permissions to modify the file." = "Datoteka je označena le za branje ali pa nimate dovoljenja za prepisovanje.";
+
+"Learn Data Recovery" = "Izvedite več o obnovitvi podatkov";
+"Auto refresh on Files Panel cannot be enabled." = "Samodejnega osveževanja seznama datotek ni mogoče omogočiti.";
+"Delete Permanently" = "Dokončno izbriši";
+
+"Failed to upload images:" = "Neuspešno nalaganje slik:";
+"Uploading in progress" = "Poteka nalaganje";
+"Successfully uploaded {0} images, {1} failed." = "Uspešno prenešenih {0} slik, {1} ni uspelo.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "To operacijo lahko pozneje prekličete prek `Urejanje` → `Razveljavi`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Lahko pritisnete <strong>⌘ + klik</strong, da odprete <a href='#'>povezave</a> ali skočite na definicijo opombe pod črto.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Lahko pritisnete <strong>CTRL + Click</strong>, da odprete <a href='#'>links</a> ali skočite na definicijo opombe pod črto.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stil je izključen.";
+"You can right click titlebar to popup application menu." = "Z desnim klikom na naslovno vrstico lahko odprete meni aplikacije.";
+
+"Support Document" = "Dokument za podporo";
+
+"You are not supposed to edit or save this file." = "Te datoteke ne smete urejati ali shranjevati.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Datoteke na tem mestu (%@) upravlja Typora in se lahko samodejno izbrišejo.<br/>Za urejanje kopirajte vsebino v novo datoteko.";

@@ -40,7 +40,7 @@
 "Use relative path if possible" = "Mümkünse ilgili konumu kullan";
 "Auto Pair" = "Otomatik Eşleştirme";
 "Auto pair brackets and quotes" = "Köşeli parantez ve alıntıları otomatik olarak eşle";
-"Auto pair common Markdown syntax" = "Genel Markdown sözdizilimlerini otomatik olarak eşle";
+"Auto pair common Markdown syntax" = "Genel Markdown söz dizilimlerini otomatik olarak eşle";
 "Live Rendering" = "Anlık Oluşturma";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Odaklamada basit öbeklerin \n(başlıklar da dahil olmak üzere ve benzerleri) kaynaklarını göster";
 "Default Copy Behavior" = "Varsayılan Kopyalama Davranışı";
@@ -51,14 +51,14 @@
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Değiştirilmiş ayarlar yeniden başlatmanın ardından uygulanacaktır.)";
-"Syntax Support" = "Sözdizimi Desteği";
+"Syntax Support" = "Söz Dizimi Desteği";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Satıriçi Matematik  (örneğin: $\LaTeX$ )";
 "Subscript    ( e.g: H~2~O )" = "Subscript    (örneğin: H~2~O )";
 "Superscript ( e.g: X^2^ )" = "Superscript (örneğin: X^2^ )";
 "Highlight     (e.g: ==key==)" = "Vurgu     (örneğin: ==key==)";
 "Diagrams" = "Diyagramlar";
 "(Sequence, Flowchart and Mermaid)" = "(Sıra numarası, Akış Şeması ve Mermaid)";
-"Syntax Preference" = "Sözdizimi Ayarları";
+"Syntax Preference" = "Söz Dizimi Ayarları";
 "(only applies to styles created from menubar or hybrid view)" = "(sadece menü çubuğundan veya hibrit görüntülemeden oluşturulmuş stiller üzerine uygulanır)";
 "Strict Mode" = "Katı Mod";
 "(more strict to GFM spec)" = "(GFM özelliklerine daha katı)";
@@ -94,7 +94,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Bu dosya formatlarının içe alınması için Pandoc gerekli";
 "Check help->Install and use Pandoc from menubar for detail" = " yardım->Kurulum kısmını kontrol edin ve detaylar için menü çubuğundan Pandoc kullanın";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Bazı içe ve dışa aktarım özellikleri <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) yüklenmesini gerektirmektedir.";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Bazı içe ve dışa aktarım özellikleri <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) yüklenmesini gerektirmektedir.";
 "Follow Instructions to Install/Update Pandoc" = "Pandoc kurmak/güncelleştirmek için talimatları uygulayın";
 "Export Failed" = "Dışa Aktarma Başarısız";
 "Import Failed" = "İçe Aktarma Başarısız";
@@ -199,7 +199,7 @@
 "More Formats" = "Daha Fazla Biçim";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = " 'Daha Fazla Biçim' altındaki dosya biçimleri bölümü <a class='open-pandoc-guide'>Pandoc 'un yüklü olmasını gerektirmektedir</a>.";
 "Something is Wrong…" = "Bir Hata Oluştu…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Yüklü içerik bir sebepten dolayı başarısız oldu.<br/>İçeriği yeni bir Typora penceresine kopyalayıp kaydedebilirsiniz. <br/>Daha fazla öğrenmek için:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Bize hata bildirin</a></li><li><a href='https://support.typora.io/Version-Control//'>Kayıp içerikleri kurtarın</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Yüklü içerik bir sebepten dolayı başarısız oldu.<br/>İçeriği yeni bir Typora penceresine kopyalayıp kaydedebilirsiniz. <br/>Daha fazla öğrenmek için:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Bize hata bildirin</a></li><li><a href='https://support.typora.io/Version-Control/'>Kayıp içerikleri kurtarın</a></li></ul>";
 "Copy Content" = "İçeriği Kopyala";
 
 
@@ -211,7 +211,7 @@
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Üzgünüz, Typora'nın güncel versiyonu arkaplan rengini yazdırmaz.\nBu sebepten koyu tema henüz yazdırmak için destelenmemektedir. \n\nLütfen açık bir tema seçin veya bu belgeyi PDF'e aktarın.";
 "Export to PDF" = "PDF'e aktar";
 "Pretty indentation" = "Düzenli girintileme";
-"Update markdown reference for this image" = "Bu resmin referansı için mardown'u güncelle";
+"Update markdown reference for this image" = "Bu resmin referansı için markdown'u güncelle";
 
 "No special action" = "Özel eylem yok";
 "Copy image to current folder (./)" = "Resmi açık klasöre kopyala (./)";
@@ -317,7 +317,7 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Üzgünüz, bir hata oluştu, son yazılan içerik panoya kopyalandı. Bu hatayı düzeltmemiz için <hi@typora.io> adresine bildirerek bize yardım edebilirsiniz.";
 "Try Recovery" = "Kurtarmayı Dene";
-"Other options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
+"Other Options for Data Recovery" = "Data Kurtarma için diğer seçenekler";
 
 "When Insert" = "Yerleştirildiğinde";
 "Upload image" = "Resim yükle";

@@ -310,3 +310,17 @@
 "Copy Image" = "Kopiér billede";
 
 "More Actions" = "Flere handlinger";
+"Get Info" = "Vis information";
+
+"Export with Previous" = "Eksportér med forrige";
+"Export and Overwrite with Previous" = "Eksportér og overskriv med forrige";
+
+"Emoji and Symbols" = "Emoji og symboler";
+
+"Insert Final New Line On Save" = "Indsæt afsluttende ny linje ved gemning";
+"Hyperlink Actions" = "Hyperlink handlinger";
+"Copy Link Address" = "Kopiér link adresse";
+
+"Click" = "Klik";
+
+"Export Setting" = "Eksportér indstilling";

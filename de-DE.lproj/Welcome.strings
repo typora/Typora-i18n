@@ -1,0 +1,82 @@
+/* 
+  Welcome.strings
+  Typora
+
+ by hi@typora.io
+ 
+ translated by Jonas Heschl (https://github.com/Jheschl17)
+ 	my lastname [at] protonmail [dot] com
+
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Willkommen bei Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Danke, dass du Typora verwendest 👋. Typora ist ein minimaler Markdown-Editor und Markdown-Reader, der dir eine nahtlose Erfahrung zwischen gerenderten Rich-Style-Inhalten und ihrem Quellcode bietet.";
+
+"Get Start" = "Loslegen";
+"Check following links if you're new to Markdown or Typora." = "Schau dir diese Links an, wenn Typora oder Markdown für dich neu sind.";
+
+"Activate Typora" = "Aktiviere Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Du hast schon eine Lizenz gekauft? Fülle die Felder unten aus und aktiviere Typora sofort.";
+
+"Email" = "E-Mail";
+"Email Address" = "E-Mail Addresse";
+"License Code" = "Lizenzcode";
+
+"Help" = "Hilfe";
+"Find my License" = "Finde meine Lizenz";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>Lizenzvereinbarung</a> und <a href='https://support.typora.io/Privacy-Policy/'>Datenschutzbestimmungen</a> akzeptieren.";
+
+"Live Preview" = "Live Vorschau";
+"Write and read rendered output instantly." = "Schreibe und lese gerenderte Ausgabe sofort.";
+"Markdown Syntax" = "Markdown Syntax";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Codeblöcke, YAML, Aufgaben, Fußnoten, Tabellen, Mathematik, Diagramme";
+"Import / Export" = "Importieren / Exportieren";
+"Deliver your content in various formats." = "Stelle deine Inhalte in verschiedenen Formaten bereit.";
+"Editing Experience" = " Bearbeitungserfahrung";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Gliederung / Wortanzahl / Fokusmodus / Schreibmaschinenmodus";
+
+"Files" = "Dateien";
+"Manage files in sidebar and search across files." = "Verwalte Dateien in der Seitenleiste und suche in Dateien.";
+"Customize" = "Anpassen";
+"Customize your writing experience from preferences panel." = "Passe deine Schreiberfahrung über das Einstellungsfeld an.";
+"Themes" = "Themen";
+"Write in the theme you like, or make one by your own." = "Schreib in dem Thema, dass dir gefällt oder erstelle ein eigenes.";
+"And more" = "Und mehr";
+/* Use "Thematiken" as translation for "topic" to differentiate between theme and topic. Otherwise, if used "Thema" instead, the same word ("Thema") would be used for theme and topic. */
+"Explorer more topics at support.typora.io" = "Erfahre über mehr Thematiken auf support.typora.io";
+
+"Quick Start" = "Schnellstart";
+"Markdown Reference" = "Markdown Referenz";
+/* See previous comment in line 46 */
+"Explorer Themes" = "Erkunde Themen";
+"More Topics" = "Mehr Thematiken";
+
+"Typora Activated" = "Typora Aktiviert";
+"Thanks for your purchase." = "Danke für deinen Einkauf";
+
+"Next" = "Nächste";
+"Please accept license agreement first" = "Bitte akzeptiere zuerst die Lizenzvereinbarung";
+"Start %@ Days Trial" = "Starte die %@ Tage Testversion";
+"Buy License" = "Kaufe Lizenz";
+"Activate" = "Aktivieren";
+
+"Close" = "Schließen";
+"Deactivate" = "Deaktivieren";
+"View License" = "Lizenz Ansehen";
+"Your Typora License" = "Deine Typora Lizenz";
+"This copy of Typora is registered with license information below." = "Diese Kopie von Typora ist mit den unten stehenden Lizenzinformationen registriert.";
+"Your trial will be expired in %@ days." = "Deine Testversion wird in %@ Tagen ausgelaufen sein.";
+"Not Now" = "Nicht jetzt";
+
+"Please input a valid email address" = "Bitte gib eine valide E-Mail Adresse an";
+"Please input a valid license code"  = "Bitte gib einen validen Lizenzcode an";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Deine Lizenz hat die maximale Geräteanzahl überschritten.\nDas älteste Gerät wurde automatisch abgemeldet.";
+"This license code has been used with a different email address." =  "Dieser Lizenzcode wurde mit einer anderen E-Mail Adresse verwendet.";
+"Unknown Error. Please contact hi@typora.io" = "Unbekannter Fehler. Bitte kontaktiere hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Der Zugriff auf den Lizenzserver ist fehlgeschlagen. Bitte überprüfe dein Netzwerk oder versuche es später erneut.";
+

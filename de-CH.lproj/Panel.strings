@@ -98,7 +98,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Um diese Dateiformate zu importieren wird Pandoc benötigt";
 "Check help->Install and use Pandoc from menubar for detail" = "Lesen Sie Hilfe->Install and use Pandoc aus der Menüleiste für weitere Details";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Einige Import- bzw. Export-Eigenschaften benötigen ein installiertes <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16).";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Einige Import- bzw. Export-Eigenschaften benötigen ein installiertes <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
 "Follow Instructions to Install/Update Pandoc" = "Folgen Sie der Anleitung um Pandoc zu installieren/aktualisieren";
 "Export Failed" = "Export fehlgeschlagen";
 "Import Failed" = "Import fehlgeschlagen";
@@ -207,7 +207,7 @@
 "More Formats" = "Weitere Formate";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Die Dateiformate unter den 'Weitere Formate'-Abschnitten benötigen eine Installation von <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Da ist etwas schief gegangen…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Speichern des Inhalts ist aus unbekannten Gründen fehlgeschlagen.<br/>Sie können den Inhalt in ein neues Typora Fenster kopieren und dann erneut speichern. <br/>Mehr darüber erfahren:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Fehler berichten</a></li><li><a href='https://support.typora.io/Version-Control//'>Verlorene Inhalte wiederherstellen</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Speichern des Inhalts ist aus unbekannten Gründen fehlgeschlagen.<br/>Sie können den Inhalt in ein neues Typora Fenster kopieren und dann erneut speichern. <br/>Mehr darüber erfahren:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Fehler berichten</a></li><li><a href='https://support.typora.io/Version-Control/'>Verlorene Inhalte wiederherstellen</a></li></ul>";
 "Copy Content" = "Inhalt kopieren";
 
 

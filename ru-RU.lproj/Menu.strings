@@ -34,10 +34,10 @@
 "Reveal in File Tree" = "Показать в Проводнике";
 "Close" = "Закрыть";
 "Save" = "Сохранить";
-"Save As" = "Сохранить как...";
+"Save As" = "Сохранить как";
 "Duplicate" = "Копировать";
 "Rename" = "Переименовать";
-"Move To" = "Переместить в...";
+"Move To" = "Переместить в";
 "Revert To" = "Вернуться к";
 "Browse All Versions" = "Просмотр всех версий";
 "Import" = "Импорт";
@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Загружать локальные изображения через iPic";
 "When Insert Local Image" = "При вставке локального изображения";
 "Copy Image File to Folder" = "Скопировать файл изображения в папку";
-"Upload Image via iPic" = "Загрузить изображение через iPic";
 "Use Image Root Path" = "Использовать корневой путь изображения";
 "Line Endings" = "Окончания строк";
 "Windows Line Endings (CRLF)" = "Windows-формат (CRLF)";
@@ -150,20 +149,20 @@
 "New Tab" = "Новая вкладка";
 "Source Code Mode" = "Режим просмотра исходного кода";
 "Focus Mode" = "Режим фокусировки";
-"Typewriter Mode" = "Режим пищущей машинки";
-"Toggle Sidebar" = "Включить боковую панель";
+"Typewriter Mode" = "Режим печатной машинки";
+"Toggle Sidebar" = "Переключить боковую панель";
 "Outline" = "Оглавление";
 "Articles" = "Файлы";
 "File Tree" = "Дерево файлов";
-"Always on Top" = "Всегда наверху";
+"Always on Top" = "Поверх всех окон";
 "Full Screen" = "Во весь экран";
 "Show Status Bar" = "Показать строку состояния";
-"Toggle Fullscreen" = "Включить полный экран";
+"Toggle Fullscreen" = "Переключить полный экран";
 "Actual Size" = "Реальный размер";
 "Zoom In" = "Приблизить";
 "Zoom Out" = "Отдалить";
 "Switch Between Opened Documents" = "Переключение между открытыми документами";
-"Toggle DevTools" = "Включить инструменты разработчика";
+"Toggle DevTools" = "Переключить инструменты разработчика";
 
 
 /* Themes Menu */
@@ -173,7 +172,7 @@
 "Window" = "Окно";
 "Minimize" = "Свернуть";
 "Zoom" = "Увеличить";
-"Bring All to Front" = "Вывести ВСЕ на передний план";
+"Bring All to Front" = "Вынести ВСЁ на передний план";
 
 /* Help Menu */
 "Help" = "Справка";
@@ -189,7 +188,7 @@
 "Inline Styles" = "Встроенные стили";
 "List Styles / Remove Block" = "Стили списка / Удалить блок";
 "Exit Source Code Mode" = "Выход из режима просмотра исходного кода";
-"Toggle Source Code Mode" = "Включить режим просмотра исходного кода";
+"Toggle Source Code Mode" = "Переключить режим просмотра исходного кода";
 
 /* Extra Context Menu */
 "Table" = "Таблица";
@@ -217,7 +216,7 @@
 "New Folder" = "Новая папка";
 
 /* Electron */
-"Learn Spelling" = "Учить правописание";
+"Learn Spelling" = "Добавить в словарь";
 "Copy / Paste As…" = "Копировать / Вставить как…";
 "Math" = "Формулы";
 "Insert" = "Вставить";
@@ -236,8 +235,7 @@
 "Prettify Source Code" = "Приукрасить исходный код";
 "Copy '%@'" = "Скопировать '%@'";
 "Copy to %@" = "Скопировать в %@";
-"Copy Image to" = "Скопировать изображение...";
-"Upload via iPic" = "Загрузить через iPic";
+"Copy Image to" = "Скопировать изображение";
 "Open Image Location" = "Открыть папку изображения";
 
 "Learn More" = "Узнать больше";
@@ -246,7 +244,7 @@
 "Preserve single line break" = "Сохранять разрыв строки";
 "Visible <br/>" = "Видимый <br/> и разрыв строки markdown";
 
-"Save All" = "Сохранить все";
+"Save All" = "Сохранить всё";
 "New Window" = "Новое окно";
 "Reopen Closed File" = "Повторно открыть закрытый файл";
 
@@ -264,7 +262,7 @@
 "Pause" = "Приостановить";
 
 "Spell Check" = "Проверка орфографии";
-"Unlearn Spelling" = "Забыть орфографию";
+"Unlearn Spelling" = "Удалить из словаря";
 "Properties" = "Свойства";
 
 "Search" = "Поиск";
@@ -301,3 +299,16 @@
 "Articles (List View)" = "Статьи (Представление в виде списка)";
 "File Tree (Tree View)" = "Дерево файлов (Представление в виде дерева)";
 "Filter" = "Фильтр";
+
+"Upload Image" = "Загрузить изображение";
+"Upload All Local Images" = "Загрузить все локальные изображения";
+"Open Image in Browser" = "Открыть изображение в браузере";
+"Copy Image" = "Копировать изображение";
+
+"More Actions" = "Дополнительные действия";
+"Get Info" = "Получить сведения";
+
+"Export with Previous" = "Экспорт с предыдущим";
+"Export and Overwrite with Previous" = "Экспорт и перезапись с предыдущим";
+
+"Emoji and Symbols" = "Эмодзи и символы";

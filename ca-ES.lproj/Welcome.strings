@@ -1,0 +1,77 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Benvingut a Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Gràcies per utilitzar Typora 👋. Typora és un editor i lector minimalístic de markdow, us ofereix una experiència perfecta entre els la representació de continguts amb estils rics i el seu codi font.";
+
+"Get Start" = "Començar";
+"Check following links if you're new to Markdown or Typora." = "Comproveu els enllaços següents si sou nou a Markdown o Typora.";
+
+"Activate Typora" = "Activa Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Ja has comprat una llicència? Omple el formulari següent i activa Typora a l'instant.";
+
+"Email" = "Correu electrònic";
+"Email Address" = "Adreça de correu electrònic";
+"License Code" = "Codi de Llicència";
+
+"Help" = "Ajuda";
+"Find my License" = "Trobar la meua llicència";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accepteu l'<a href='https://support.typora.io/License-Agreement/'>Acord de llicència</a> i <a href='https://support.typora.io/Privacy-Policy/'> Política de privadesa</a>.";
+
+"Live Preview" = "Vista prèvia en directe";
+"Write and read rendered output instantly." = "Escriviu i llegiu la sortida renderitzada a l'instant.";
+"Markdown Syntax" = "Sintaxi Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blocs de codi, YAML, tasques, notes al peu, taules, matemàtiques, diagrames";
+"Import / Export" = "Importació / Exportació";
+"Deliver your content in various formats." = "Proporcioneu el vostre contingut en diferents formats.";
+"Editing Experience" = "Experiència d'edició";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Esquema / Recompte de paraules / Mode d'enfocament / Mode màquina d'escriure";
+
+"Files" = "Fitxers";
+"Manage files in sidebar and search across files." = "Gestioneu fitxers a la barra lateral i cerqueu entre fitxers.";
+"Customize" = "Personalització";
+"Customize your writing experience from preferences panel." = "Personalitzeu la vostra experiència d'escriptura des del tauler de preferències.";
+"Themes" = "Temes";
+"Write in the theme you like, or make one by your own." = "Escriu amb el tema que t'agradi o fes-ne un pel teu compte.";
+"And more" = "i molt més";
+"Explorer more topics at support.typora.io" = "Exploreu més temes a support.typora.io";
+
+"Quick Start" = "Guia ràpida";
+"Markdown Reference" = "Referència de Markdown";
+"Explorer Themes" = "Explora Temes";
+"More Topics" = "Més assumptes";
+
+"Typora Activated" = "Typora Activat";
+"Thanks for your purchase." = "Gràcies per la seva compra.";
+
+"Next" = "Següent";
+"Please accept license agreement first" = "Accepteu primer l'acord de llicència";
+"Start %@ Days Trial" = "Comenceu els %@ dies de prova";
+"Buy License" = "Compre una Llicència";
+"Activate" = "Activa";
+
+"Close" = "Tanca";
+"Deactivate" = "Desactivar";
+"View License" = "Vegeu la Llicència";
+"Your Typora License" = "La seva llicència de Typora";
+"This copy of Typora is registered with license information below." = "Aquesta còpia de Typora està registrada amb la informació de la llicència següent.";
+"Your trial will be expired in %@ days." = "La seva prova acabarà en %@ dies.";
+"Enter License" = "Introduïu la Llicència";
+"Not Now" = "Ara no";
+
+"Please input a valid email address" = "Introduïu una adreça de correu electrònic vàlida";
+"Please input a valid license code"  = "Introduïu un codi de llicència vàlid";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "La seva llicència ha superat el nombre màxim de dispositius.\nEl dispositiu més antic s'anul·larà automàticament.";
+"This license code has been used with a different email address." =  "Aquest codi de llicència s'ha utilitzat amb una adreça electrònica diferent.";
+"Unknown Error. Please contact hi@typora.io" = "Error desconegut. Poseu-vos en contacte amb hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "No s'ha pogut accedir al servidor de llicències. Comproveu la vostra xarxa o torneu-ho a provar més tard.";
+

@@ -94,7 +94,7 @@
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "需要安裝 Pandoc 才能匯入這些檔案格式";
 "Check help->Install and use Pandoc from menubar for detail" = "請從導覽列中的「說明」->「安裝並使用 Pandoc」來檢視詳細資訊";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "匯入及某些匯出功能需要先安裝 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16)";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "匯入及某些匯出功能需要先安裝 <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "依照指示來安裝及更新 Pandoc";
 "Export Failed" = "匯出失敗";
 "Import Failed" = "匯入失敗";
@@ -201,7 +201,7 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要<a class='open-pandoc-guide'>先安裝 Pandoc </a>才能匯出「更多格式」中所列的檔案格式。";
 "Something is Wrong…" = "出錯了...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個 Typora 視窗再儲存它。<br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>回報問題給我們</a></li><li><a href='https://support.typora.io/Version-Control//'>恢復遺失的內容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "某些原因造成存檔失敗<br/>你可先複製內容到另一個 Typora 視窗再儲存它。<br/>了解更多：<ul><li><a href='https://support.typora.io/Report-Bugs/'>回報問題給我們</a></li><li><a href='https://support.typora.io/Version-Control/'>恢復遺失的內容</a></li></ul>";
 "Copy Content" = "複製內容";
 
 

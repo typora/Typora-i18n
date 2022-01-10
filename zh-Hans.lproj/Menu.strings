@@ -201,8 +201,8 @@
 "Delete Column" = "删除列";
 "Copy Table" = "复制表格";
 "Delete Table" = "删除表格";
-"Insert Paragraph After" = "下方插入段落";
-"Insert Paragraph Before" = "上方插入段落";
+"Insert Paragraph Before" = "在上方插入段落";
+"Insert Paragraph After" = "在下方插入段落";
 "Delete Code Block" = "删除代码块";
 "Copy as MathML" = "复制为 MathML";
 "Copy as Tex" = "复制为 Tex 代码";
@@ -314,3 +314,16 @@
 "Export and Overwrite with Previous" = "导出并覆盖上一次导出的文件";
 
 "Emoji and Symbols" = "表情与符号";
+
+"Insert Final New Line On Save" = "保存时在文末添加空行";
+"Hyperlink Actions" = "链接操作";
+"Copy Link Address" = "复制链接地址";
+
+"Click" = "点击";
+
+"Export Setting" = "导出设置";
+
+"My License" = "我的许可证";
+"Registration / Activation" = "许可证信息";
+
+"Select Paragraph/Block" = "选择段落或块";

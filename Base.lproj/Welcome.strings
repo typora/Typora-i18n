@@ -1,0 +1,85 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Welcome to Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+
+"Get Start" = "Get Start";
+"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+
+"Activate Typora" = "Activate Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+
+"Email" = "Email";
+"Email Address" = "Email Address";
+"License Code" = "License Code";
+
+"Help" = "Help";
+"Find my License" = "Find my License";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+
+"Live Preview" = "Live Preview";
+"Write and read rendered output instantly." = "Write and read rendered output instantly.";
+"Markdown Syntax" = "Markdown Syntax";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
+"Import / Export" = "Import / Export";
+"Deliver your content in various formats." = "Deliver your content in various formats.";
+"Editing Experience" = "Editing Experience";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+
+"Files" = "Files";
+"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
+"Customize" = "Customize";
+"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
+"Themes" = "Themes";
+"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
+"And more" = "And more";
+"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
+
+"Quick Start" = "Quick Start";
+"Markdown Reference" = "Markdown Reference";
+"Explore Themes" = "Explore Themes";
+"More Topics" = "More Topics";
+
+"Typora Activated" = "Typora Activated";
+"Thanks for your purchase." = "Thanks for your purchase.";
+
+"Next" = "Next";
+"Please accept license agreement first" = "Please accept license agreement first";
+"Start %@ Days Trial" = "Start %@ Days Trial";
+"Buy License" = "Buy License";
+"Activate" = "Activate";
+
+"Close" = "Close";
+"Deactivate" = "Deactivate";
+"View License" = "View License";
+"Your Typora License" = "Your Typora License";
+"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
+"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
+"Enter License" = "Enter License";
+"Not Now" = "Not Now";
+
+"Please input a valid email address" = "Please input a valid email address";
+"Please input a valid license code"  = "Please input a valid license code";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
+"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
+"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+
+"Enter a license code to support our development ❤" = "Enter a license code to support our development ❤";
+"Re-enter Email" = "Re-enter Email";
+"Email address confirmation does not match." = "Email address confirmation does not match.";
+
+"Are you sure to deactivate Typora on this device?" = "Are you sure to deactivate Typora on this device?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically.";
+"Continue Activation" = "Continue Activation";

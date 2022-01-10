@@ -107,7 +107,7 @@
 "Stop" = "Interromper";
 "back to document" = "voltar ao documento";
 "Failed to load file" = "Erro ao carregar arquivo";
-"Save File Failed!" = "Erro ao Salvar Arquivo!"
+"Save File Failed!" = "Erro ao Salvar Arquivo!";
 "Cannot open folder {0}" = "Não foi possível abrir a pasta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "O conteúdo do arquivo foi modificado por aplicativos externos. Recarregar o conteúdo do disco?";
@@ -133,7 +133,7 @@
 
 "input image URL" = "URL da imagem da entrada";
 "Select image from local file" = "Selecionar imagem de um arquivo local";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "A localização <code>$1</code> não pôde ser aberta, você quis dizer <a href='https://$3'>https://$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "A localização <code>$1</code> não pôde ser aberta, você quis dizer <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "selecionar um idioma";
 "Finish Editing" = "Concluir Edição";

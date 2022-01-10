@@ -1,4 +1,4 @@
-/* 
+/*
   Front.strings
   Typora
 
@@ -47,7 +47,7 @@
 
 "Quick Start" = "Быстрый старт";
 "Markdown Reference" = "Справочник по Markdown";
-"Explorer Themes" = "Исследовать темы";
+"Explorer Themes" = "Обзор тем";
 "More Topics" = "Больше тем";
 
 "Typora Activated" = "Typora активированна";
@@ -74,3 +74,12 @@
 "This license code has been used with a different email address." =  "Лицензия была использована с другим адресом электронной почты.";
 "Unknown Error. Please contact hi@typora.io" = "Неизвестная ошибка. Пожалуйста, свяжитесь с hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Не удалось получить доступ к серверу лицензии. Пожалуйста, проверьте подключение к сети или попробуйте получить доступ позже.";
+
+"Enter a license code to support our development ❤" = "Введите лицензионный код для поддержки наших разработок ❤";
+"Re-enter Email" = "Повторный ввод электронной почты";
+"Email address confirmation does not match." = "Подтверждение адреса электронной почты не совпадает.";
+
+"Are you sure to deactivate Typora on this device?" = "Хотите отключить Typora на этом устройстве?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "В вашей лицензии превышено максимальное количество устройств.\nЕсли нажмёте на \"Продолжить активацию\", это устройство будет активировано, а самое старое устройство будет автоматически снято с регистрации.";
+"Continue Activation" = "Продолжить активацию";

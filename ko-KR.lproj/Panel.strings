@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9, cozyplanes, cog25
+ by ryush00, Third9, cozyplanes, cog25, wookayin
  */
 
 /* Preference Panel */
@@ -252,3 +252,252 @@
 "Choose Default Folder" = "기본 폴더 선택";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>입력 시 변환</strong>: 아스키 대시, 아스키 따옴표 입력 시 각각 유니코드 대시, 꺽인 따옴표로 변환되고 변환된 채로 저장됩니다.<br/><strong>출력 시 변환</strong>: 아스키 대시, 아스키 따옴표 입력 시 각각 유니코드 대시, 꺽인 따옴표로 변환되어 출력됩니다.</div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>마크다운 해석 시 유니코드 문장부호를 아스키 문장부호로 인식합니다, 예시:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>이 설정은 스마트 인용, 스마트 대시의 설정이 입력 시 변환일 경우 자동으로 활성화됩니다.<div>";
+
+"Copy image to custom folder" = "사용자 정의 폴더로 이미지 복사";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "현재 폴더를 기준으로 하는 상대 경로 ('./' 또는 '../' 로 시작해야 함), 혹은 절대 경로를 입력하세요. (`${filename}` 은 현재 파일의 이름을 나타냅니다.)";
+"Restore to previous setting" = "이전 설정으로 복구",
+"Folder not exist at %@, please input another path." = "%@ 에 폴더가 존재하지 않습니다. 다른 경로를 입력하세요.";
+"Please input a folder path." = "폴더 경로를 입력하세요.";
+"Cannot use root path." = "루트 경로(root path)는 사용할 수 없습니다.";
+
+"Get Themes" = "테마 둘러보기";
+"File/directory already exists at target path." = "대상 경로에 파일/디렉토리가 이미 존재합니다.";
+"Keep Both" = "둘 다 유지";
+"Are you sure you want to move %@?" = "정말로 %@ 로 이동하시겠습니까?";
+
+"Are you sure you want to delete %@?" = "정말로 %@ 를 삭제하시겠습니까?";
+"You can restore from the Trash." = "휴지통(Trash)에서 복구할 수 있습니다.";
+
+"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Dialogs" = "Dialogs";
+"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+
+"Operation Failed" = "작업 실패";
+"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+
+"Undo %@" = "Undo %@";
+"Rename %@" = "Rename %@";
+"Copy %@" = "Copy %@";
+"Move %@" = "Move %@";
+"Delete %@" = "Delete %@";
+
+"Turn off Typewriter / Focus Mode" = "타자기 모드 / 포커스 모드 끄기"
+"Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다."
+
+"Reading Speed" = "읽기 속도";
+"Auto" = "Auto";
+"words / min" = "단어 / 분";
+
+"Reset to Default" = "기본값으로 되돌리기";
+"120  words/minute (Slow)" = "120  단어/분 (느림)";
+"240  words/minute (Medium)" = "240  단어/분 (중간 속도)";
+"382  words/minute (Fast)" = "382  단어/분 (빠름)";
+
+"Copy and update image source to…" = "Copy and update image source to…";
+"Updater" = "Updater";
+"Install Updates ?" = "Install Updates ?";
+"Quit and Install" = "Quit and Install";
+"Download failed" = "Download failed";
+"Downloading Updates…" = "Downloading Updates…";
+"Checking Updates…" = "Checking Updates…";
+"Check Update Failed" = "Check Update Failed";
+"You're up to date!" = "You're up to date!";
+"Latest version is $1, your version is $2" = "최신 버전: $1, 설치된 버전: $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "이 설정은 \"편집 → 공백 및 줄바꿈\" 메뉴에서도 변경할 수 있습니다.";
+"Auto escape image URL when insert" = "삽입 시 이미지 URL을 자동으로 이스케이프하기";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "예를 들어, 'img/example file.png' 에 있는 이미지를 삽입할 때, 경로를 'img/example%20file.png' 로 변환합니다. 다른 마크다운 엔진과의 호환성을 위해 이 기능을 활성화하거나, 더 나은 가독성을 위해 이 기능을 비활성화 하세요.";
+"Check updates automatically" = "자동으로 업데이트 확인";
+"Skip This Version" = "이 버전 건너뛰기";
+"Remind Me Later" = "나중에 알림";
+"Download Update" = "업데이트 다운로드";
+"New version available." = "새 버전이 있습니다.";
+
+"When copy / export as HTML (without style)" = "HTML로 복사 또는 내보내기 (style 제외):";
+"Use Rendered SVG" = "렌더링된 SVG"
+"Use LaTeX Source" = "LaTeX 소스";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>이 설정은 HTML로 복사 또는 내보내기 (style 또는 theme 제외) 시에 적용됩니다.<br/><strong>LaTeX 소스</strong>을 선택하면, 수식의 원 LaTeX 소스를 (예: $X^2$), <strong>렌더링된 SVG</strong>를 선택하면 렌더링된 SVG 이미지를 복사합니다. 다른 어플리케이션으로 붙여넣기할 때 SVG는 무시될 수도 있습니다.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
+"Do not show this message again" = "이 메시지를 다시 표시하지 않음";
+
+"Page Break Between Top Headings" = "제목(Top Headings)이 나올 때마다 페이지 나누기";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "죄송합니다. 오류가 발생했습니다. 현재의 작업 내용을 클립보드에 복사했습니다. 이 오류를 고칠 수 있도록 <hi@typora.io> 로 제보해 주시기 바랍니다.";
+"Try Recovery" = "복구 시도";
+"Other Options for Data Recovery" = "데이터 복구를 위한 다른 옵션";
+
+"When Insert" = "이미지 삽입 시";
+"Upload image" = "이미지를 업로드";
+"e.g: %@" = "e.g: %@";
+"Test Uploader" = "Test Uploader";
+"Validating" = "Validating Image Uploader";
+"Validation Failed" = "Validation Failed";
+"Validation Succeed" = "Validation Succeed";
+"Testing image uploading using command:" = "Testing image uploading using command:";
+"Running… Waiting for results." = "Running… Waiting for results.";
+"Output from the console:" = "Output from the console:";
+"Error from the console:" = "Error from the console:";
+"Failed to fetch uploaded image from command output." = "Failed to fetch uploaded image from command output.";
+"Successfully get uploaded image url." = "Successfully get uploaded image url.";
+"Image Uploader" = "이미지 업로더";
+"Instructions" = "Instructions";
+"Download %@" = "Download %@";
+"Image Upload Setting" = "이미지 업로드 설정";
+"Please set an image uploader in Preferences panel before using this function." = "Please set an image uploader in Preferences panel before using this function.";
+"Download or Upgrade" = "Download or Upgrade";
+"Open Config File" = "Open Config File";
+"Command" = "Command";
+"PicGo Path" = "PicGo Path";
+"Path of PicGo binary" = "Path of PicGo binary";
+"Executable" = "Executable";
+"Checking" = "Checking";
+"Download" = "Download";
+"Agree and Download" = "Agree and Download";
+"Download and Reinstall" = "Download and Reinstall";
+"Loading PicGo-Core License" = "Loading PicGo-Core License";
+"Failed to get installed version of PicGo-Core (command line)" = "Failed to get installed version of PicGo-Core (command line)";
+"You have the latest PicGo-Core (CLI)" = "You have the latest PicGo-Core (CLI)";
+"Newer version is available" = "Newer version is available";
+
+"Downloading…" = "Downloading…";
+"Unzipping…" = "Unzipping…";
+"Finished" = "Finished";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?";
+
+"Export operation finished successfully." = "Export operation finished successfully.";
+
+"Shortcut Keys" = "단축키";
+"Custom Shortcut Keys" = "사용자 정의 단축키";
+
+"Theme" = "테마";
+"Light Theme" = "Light Theme";
+"Dark Theme" = "Dark Theme";
+"Use separate theme in dark mode" = "다크 모드에서 별도의 테마를 사용";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 또는 Windows 10 ≥ 1903 에서 지원됨";
+"Convert -- to – (en dash), and --- to — (em dash)" = "-- 를 – (en dash)로 변경, --- 를 — (em dash)로 변경";
+"Convert -- and --- to — (em dash)" = "-- 와 --- 를 — (em dash)로 변경";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "따옴표 패턴은 시스템 '환경설정 → 키보드 → 텍스트' 에서 설정할 수 있습니다. 변경 시, Typora를 재시작해야 설정이 적용됩니다.";
+
+
+"Paper Size" = "용지 크기";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "페이지 나누기(Page Break)";
+"Page Break Between Top Headings" = "제목(Top Headings)이 나올 때마다 페이지 나누기";
+"Header" = "머리말(Header)";
+"Footer" = "꼬리말(Footer)";
+"Author" = "저자(Author)";
+"Append in <head />" = "<head /> 에 추가할 내용";
+"Append in <body />" = "<body /> 에 추가할 내용";
+"Include Outline Sidebar" = "개요 사이드바 포함";
+"Width" = "Width";
+"Command" = "Command";
+"Show Save File Dialog" = "Show Save File Dialog";
+"File Extensions for Export" = "File Extensions for Export";
+"Arguments" = "Arguments";
+"Extra Arguments" = "추가 Arguments";
+"LaTeX Engine" = "LaTeX Engine";
+"Template" = "템플릿";
+"Empty" = "Empty";
+"Style Reference" = "Style Reference";
+"Custom CSS" = "사용자 정의 CSS";
+"Chapter Level" = "챕터 레벨(Chapter Level)";
+"Default Folder for Exported File" = "파일을 내보낼 기본값 폴더";
+"Same folder with current file" = "현재 파일과 같은 폴더";
+"Custom location" = "사용자 지정 위치";
+"(Auto Detect)" = "(Auto Detect)";
+"After Export" = "내보내기 이후 작업";
+"Open exported file location" = "파일을 내보낸 위치 열기";
+"Open exported file" = "내보낸 파일 열기";
+"Custom" = "Custom";
+"None" = "None";
+"Default" = "Default";
+"Margin" = "여백";
+"Margin Left" = "왼쪽 여백";
+"Margin Right" = "오른쪽 여백";
+"Margin Top" = "위쪽 여백";
+"Margin Bottom" = "아래쪽 여백";
+"Width x Height" = "너비(Width) x 높이(Height)";
+"Add From a Template" = "템플릿을 사용하여 설정 추가";
+"Delete this export option ?" = "Delete this export option ?";
+"Add" = "추가";
+"Delete" = "삭제";
+"Rename" = "이름 변경";
+"Move Down" = "아래로 이동";
+"Move Up" = "위로 이동";
+"Pandoc Path" = "Pandoc 경로";
+"Select" = "선택";
+"Target Format" = "Target Format";
+"auto detect based on target file path" = "auto detect based on target file path";
+"Target File Extensions (separate by whitespace)" = "Target File Extensions (separate by whitespace)";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
+"Raw Type" = "Raw Type";
+"Auto" = "자동";
+"Show Save File Dialog" = "Show Save File Dialog";
+"Do not popup save file dialog" = "Do not popup save file dialog";
+"Select file path to save" = "Select file path to save";
+"Select folder path to save" = "Select folder path to save";
+"PDF Engine" = "PDF Engine";
+"Show command output" = "Command output 보여주기";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "Command Arguments:";
+"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"Current Theme" = "현재 테마";
+"After Export" = "내보내기 이후 작업";
+"Run command" = "Command 실행";
+"Run command after export failed" = "Run command after export failed";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "추가할 내용 (HTML)";
+"Change this option to specify a separated theme for export." = "내보내기할 때 별도로 사용할 테마를 지정하세요.";
+"Dark theme is not supported." = "다크 테마는 지원되지 않습니다.";
+
+"Markdown Variants" = "Markdown Variants";
+"Original Unextended Markdown" = "Original Unextended Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
+"Line Wrap" = "Line Wrap";
+"Hard line wrap" = "Hard line wrap";
+"Text Column Width" = "Text Column Width";
+"Auto (based on current OS)" = "Auto (based on current OS)";
+"Indent" = "Indent";
+"Preserve tabs" = "Preserve tabs";
+"2 spaces per tab" = "2 spaces per tab";
+"3 spaces per tab" = "3 spaces per tab";
+"4 spaces per tab" = "4 spaces per tab";
+"Unicode Characters" = "Unicode Characters";
+"Use only ASCII characters in output" = "Use only ASCII characters in output";
+"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
+"Footnotes and References Location" = "Footnotes and References Location";
+"End of document" = "End of document";
+"End of current (top-level) block" = "End of current (top-level) block";
+"End of current section" = "End of current section";
+"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
+"Image Format" = "Image Format";
+
+"Set Pandoc Path" = "Pandoc 경로 설정";
+
+"Apply Line Break at \\ and &#92;newline" = "\\ 및 &#92;newline 에서 줄바꿈(line break) 적용";
+
+"Export operation succeeded with warnings." = "내보내기를 성공하였으나 경고 메세지가 있습니다.";
+
+"Typora is now deactivated" = "Typora가 비활성화되었습니다.";
+"This device has been deactivated" = "이 기기의 등록이 비활성화되었습니다.";
+"UNREGISTERED" = "등록되지 않음";
+
+"Allow physics package to redefine existing TeX commands" = "physics 패키지가 TeX 명령어를 재정의하는 것을 허용";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "이 기능을 활성화하면, \\div, \\Re 등의 명령어를 physics 패키지에서 정의된 것으로 재정의합니다."
+
+"Your Typora is not activated." = "Typora가 등록되지 않았습니다.";
+"Your Typora has been activated." = "Typora가 등록되었습니다.";
+"Typora activation is required to change this." = "이 옵션을 변경하려면 Typora를 활성화해야 합니다.";
+"You can reinstall the stable version and then disable this." = "안정 버전(stable version)으로 재설치한 뒤 이 옵션을 해제할 수 있습니다.";
+"Update to dev version" = "개발 버전(dev version)으로 업데이트";
+
+"Typora Server" = "Typora 서버";
+"Use Typora Server in China" = "중국에 있는 Typora Server 사용";
+
+"File does not exist" = "File does not exist";
+"Create File" = "Create File";
+"Create Folder" = "Create Folder";

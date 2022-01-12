@@ -33,7 +33,7 @@
 "Activate Typora" = "Aktifkan Typora";
 "Already purchased a license? Fill the form below and activate Typora instantly." = "Sudah membeli lisensi? Isi formulir di bawah ini dan aktifkan Typora secara instan.";
 
-"Email" = "Pos-el"; / Standard word `email` in Indonesian is `pos-el`, see <https://kbbi.kemdikbud.go.id/entri/pos-el> */
+"Email" = "Pos-el"; /* Standard word `email` in Indonesian is `pos-el`, see <https://kbbi.kemdikbud.go.id/entri/pos-el> */
 "Email Address" = "Alamat Pos-el";
 "License Code" = "Kode Lisensi";
 

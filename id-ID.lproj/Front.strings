@@ -33,7 +33,7 @@
 "Undo" = "Takjadi"; /* Learn <https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf> */
 "Dismiss" = "Hentikan";
 "Confirm" = "Konfirmasikan";
-"Error" = "Eror; /* See <https://kbbi.kemdikbud.go.id/entri/eror> */
+"Error" = "Eror"; /* See <https://kbbi.kemdikbud.go.id/entri/eror> */
 
 /* Search Panel */
 "Search" = "Cari";

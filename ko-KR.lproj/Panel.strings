@@ -255,7 +255,7 @@
 
 "Copy image to custom folder" = "사용자 정의 폴더로 이미지 복사";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "현재 폴더를 기준으로 하는 상대 경로 ('./' 또는 '../' 로 시작해야 함), 혹은 절대 경로를 입력하세요. (`${filename}` 은 현재 파일의 이름을 나타냅니다.)";
-"Restore to previous setting" = "이전 설정으로 복구",
+"Restore to previous setting" = "이전 설정으로 복구";
 "Folder not exist at %@, please input another path." = "%@ 에 폴더가 존재하지 않습니다. 다른 경로를 입력하세요.";
 "Please input a folder path." = "폴더 경로를 입력하세요.";
 "Cannot use root path." = "루트 경로(root path)는 사용할 수 없습니다.";
@@ -281,8 +281,8 @@
 "Move %@" = "Move %@";
 "Delete %@" = "Delete %@";
 
-"Turn off Typewriter / Focus Mode" = "타자기 모드 / 포커스 모드 끄기"
-"Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다."
+"Turn off Typewriter / Focus Mode" = "타자기 모드 / 포커스 모드 끄기";
+"Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다.";
 
 "Reading Speed" = "읽기 속도";
 "Auto" = "Auto";
@@ -313,7 +313,7 @@
 "New version available." = "새 버전이 있습니다.";
 
 "When copy / export as HTML (without style)" = "HTML로 복사 또는 내보내기 (style 제외):";
-"Use Rendered SVG" = "렌더링된 SVG"
+"Use Rendered SVG" = "렌더링된 SVG";
 "Use LaTeX Source" = "LaTeX 소스";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>이 설정은 HTML로 복사 또는 내보내기 (style 또는 theme 제외) 시에 적용됩니다.<br/><strong>LaTeX 소스</strong>을 선택하면, 수식의 원 LaTeX 소스를 (예: $X^2$), <strong>렌더링된 SVG</strong>를 선택하면 렌더링된 SVG 이미지를 복사합니다. 다른 어플리케이션으로 붙여넣기할 때 SVG는 무시될 수도 있습니다.</div>";
 
@@ -487,7 +487,7 @@
 "UNREGISTERED" = "등록되지 않음";
 
 "Allow physics package to redefine existing TeX commands" = "physics 패키지가 TeX 명령어를 재정의하는 것을 허용";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "이 기능을 활성화하면, \\div, \\Re 등의 명령어를 physics 패키지에서 정의된 것으로 재정의합니다."
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "이 기능을 활성화하면, \\div, \\Re 등의 명령어를 physics 패키지에서 정의된 것으로 재정의합니다.";
 
 "Your Typora is not activated." = "Typora가 등록되지 않았습니다.";
 "Your Typora has been activated." = "Typora가 등록되었습니다.";

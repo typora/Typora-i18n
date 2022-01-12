@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, vreality64, Third9, IdionKim, cog25
+ by ryush00, vreality64, Third9, IdionKim, cog25, wookayin
 */
 
 /* Typora Menu */
@@ -260,8 +260,75 @@
 "Remap Unicode Punctuation on Parse" = "마크다운 해석 시 유니코드 문장부호를 아스키로 변환";
 "More Options" = "상세 설정";
 
+"HTML Block" = "HTML Block";
+"Delete Block" = "Delete Block";
+"Delete %@" = "Delete %@";
+"Play" = "Play";
+"Pause" = "Pause";
+
+/*
+"Spell Check" = "Spell Check";
+"Unlearn Spelling" = "Unlearn Spelling";
+"*/
 "Properties" = "속성";
+
 "Search" = "검색";
+"Copy without Theme Styling" = "테마/스타일 없이 복사";
+"Recent Files" = "최근 파일";
+"File Results" = "File Results";
 
 "Insert Table" = "표 삽입";
 "Insert Image" = "이미지 삽입";
+"Allow Magnification" = "확대 허용";
+
+"Move Row Up" = "행 위로 이동";
+"Move Row Down" = "행 아래로 이동";
+"Move Column Left" = "열 왼쪽으로 이동";
+"Move Column Right" = "열 오른쪽으로 이동";
+
+"Zoom Image" = "이미지 확대";
+"Zoom Image to %@" = "이미지를 %@ 로 확대";
+
+"Copy as Plain Text" = "일반 텍스트로 복사";
+
+"Selection" = "선택";
+"Start Speaking" = "말하기 시작";
+"Stop Speaking" = "말하기 중단";
+"Check Updates" = "Check Updates";
+
+"HTML (without Styles)" = "HTML (without Styles)";
+
+"Highlight Current Header" = "Highlight Current Header";
+"Expand All" = "Expand All";
+"Collapse All" = "Collapse All";
+"Collapsible Outline" = "Collapsible Outline";
+"Flat Outline" = "Flat Outline";
+"Articles (List View)" = "Articles (List View)";
+"File Tree (Tree View)" = "File Tree (Tree View)";
+"Filter" = "Filter";
+
+"Upload Image" = "이미지 업로드";
+"Upload All Local Images" = "모든 로컬 이미지 업로드";
+"Open Image in Browser" = "이미지를 브라우저에서 열기";
+"Copy Image" = "이미지 복사";
+
+"More Actions" = "더 많은 동작";
+"Get Info" = "정보 가져오기";
+
+"Export with Previous" = "Export with Previous";
+"Export and Overwrite with Previous" = "Export and Overwrite with Previous";
+
+"Emoji and Symbols" = "이모지 및 기호";
+
+"Insert Final New Line On Save" = "Insert Final New Line On Save";
+"Hyperlink Actions" = "하이퍼링크 동작";
+"Copy Link Address" = "링크 주소 복사";
+
+"Click" = "클릭";
+
+"Export Setting" = "내보내기 설정";
+
+"My License" = "내 라이선스";
+"Registration / Activation" = "등록 / 라이선스 활성화";
+
+"Select Paragraph/Block" = "문단/블록 선택";

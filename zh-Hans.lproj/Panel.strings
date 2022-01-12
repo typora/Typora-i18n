@@ -491,3 +491,12 @@
 
 "Typora Server" = "Typora 服务器";
 "Use Typora Server in China" = "Typora 服务使用国内服务器";
+
+"File does not exist" = "文件不存在";
+"Create File" = "创建文件";
+"Create Folder" = "创建文件夹";
+
+"(Some options will be applied after restart.)" = "（一些选项需要重启 Typora 后生效）";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "复制或剪切时，若没有文字被选中，则复制或剪切光标所在的一整行";
+"Enable physics package" = "启用 physics 包";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics 包启用后会重定义一些 LaTeX 宏";

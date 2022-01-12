@@ -477,9 +477,6 @@
 "This device has been deactivated" = "This device has been deactivated";
 "UNREGISTERED" = "UNREGISTERED";
 
-"Allow physics package to redefine existing TeX commands" = "Allow physics package to redefine existing TeX commands";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "When enabled, commands like \\div, \\Re will be redefined by physics package.";
-
 "Your Typora is not activated." = "Your Typora is not activated.";
 "Your Typora has been activated." = "Your Typora has been activated.";
 "Typora activation is required to change this." = "Typora activation is required to change this.";
@@ -492,3 +489,8 @@
 "File does not exist" = "File does not exist";
 "Create File" = "Create File";
 "Create Folder" = "Create Folder";
+
+"(Some options will be applied after restart.)" = "(Some options will be applied after restart.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut.";
+"Enable physics package" = "Enable physics package";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics package will redefine some latex macros, such as \\div, \\Re, etc.";

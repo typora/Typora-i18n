@@ -16,32 +16,32 @@
 "Check following links if you're new to Markdown or Typora." = "Markdown 또는 Typora를 처음 사용하는 경우 다음 링크를 확인하십시오.";
 
 "Activate Typora" = "Typora 활성화";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "이미 라이센스를 구입하셨습니까? 아래 양식을 작성하고 Typora를 즉시 활성화하십시오.";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "이미 라이선스를 구입하셨습니까? 아래 양식을 작성하고 Typora를 즉시 활성화하십시오.";
 
 "Email" = "이메일";
 "Email Address" = "이메일 주소";
-"License Code" = "라이센스 코드";
+"License Code" = "라이선스 코드";
 
 "Help" = "도움말";
-"Find my License" = "내 라이센스 찾기";
+"Find my License" = "내 라이선스 찾기";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>사용권 계약</a> 과 <a href='https://support.typora.io/Privacy-Policy/'>개인정보 보호 정책</a> 동의.";
 
 "Live Preview" = "실시간 미리보기";
-"Write and read rendered output instantly." = "쓰는 즉시 렌더링된 출력을 읽을 수 있습니다.";
+"Write and read rendered output instantly." = "편집과 동시에 렌더링된 결과물을 볼 수 있습니다.";
 "Markdown Syntax" = "Markdown 문법";
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "코드 블럭, YAML, 작업, 각주, 표, 수학 수식, 다이어그램";
 "Import / Export" = "가져오기 / 내보내기";
 "Deliver your content in various formats." = "다양한 포맷으로 컨텐츠 전달하기.";
 "Editing Experience" = "편집 경험";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "개요 / 단어 수 / 초점 모드 / 타자기 모드";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "개요 / 단어 수 / 포커스 모드 / 타자기 모드";
 
 "Files" = "파일";
 "Manage files in sidebar and search across files." = "사이드바에서 파일을 관리하고 여러 파일을 검색합니다.";
 "Customize" = "Customize";
 "Customize your writing experience from preferences panel." = "환경 설정 패널에서 사용자 정의 쓰기 경험을 정의 할 수 있습니다.";
 "Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "당신이 좋아하는 주제로 글을 쓰거나 스스로 만들어 보세요.";
+"Write in the theme you like, or make one by your own." = "당신이 좋아하는 테마로 글을 쓰거나 테마를 직접 만들어 보세요.";
 "And more" = "더 보기";
 "Explorer more topics at support.typora.io" = "support.typora.io 에서 더 많은 항목을 보실 수 있습니다.";
 
@@ -54,24 +54,24 @@
 "Thanks for your purchase." = "구매 해주셔서 감사합니다.";
 
 "Next" = "다음";
-"Please accept license agreement first" = "먼저 라이센스 계약에 동의하십시오";
+"Please accept license agreement first" = "먼저 라이선스 계약에 동의하십시오.";
 "Start %@ Days Trial" = " %@ 일 체험판 시작하기";
-"Buy License" = "라이센스 구매";
+"Buy License" = "라이선스 구매";
 "Activate" = "활성화";
 
 "Close" = "닫기";
 "Deactivate" = "비활성화";
-"View License" = "라이센스 보기";
-"Your Typora License" = "귀하의 Typora 라이센스";
-"This copy of Typora is registered with license information below." = "이 Typora는 아래 라이센스 정보로 등록되어 있습니다..";
-"Your trial will be expired in %@ days." = "귀하의 체험판은 %@ 일 후에 만료 됩니다.";
-"Enter License" = "라이센스 입력";
+"View License" = "라이선스 보기";
+"Your Typora License" = "귀하의 Typora 라이선스";
+"This copy of Typora is registered with license information below." = "이 Typora는 아래 라이선스 정보로 등록되어 있습니다.";
+"Your trial will be expired in %@ days." = "체험판이 %@ 일 후에 만료됩니다.";
+"Enter License" = "라이선스 입력";
 "Not Now" = "나중에";
 
 "Please input a valid email address" = "유효한 이메일 주소를 입력하십시오";
-"Please input a valid license code"  = "유효한 라이센스 코드를 입력하십시오";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "라이센스가 최대 장치 수를 초과했습니다.\n가장 오래된 장치가 자동으로 등록 취소되었습니다.";
-"This license code has been used with a different email address." =  "이 라이센스 코드는 다른 이메일에서 사용되었습니다.";
-"Unknown Error. Please contact hi@typora.io" = "알수없는 오류. hi@typora.io로 연락주세요";
-"Failed to access the license server. Please check your network or try again later." = "라이센스 서버에 액세스하지 못했습니다. 네트워크를 확인하거나 나중에 다시 시도하십시오.";
+"Please input a valid license code"  = "유효한 라이선스 코드를 입력하십시오";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "라이선스가 허용되는 최대 장치 수를 초과했습니다.\n가장 오래된 장치의 등록이 자동으로 취소되었습니다.";
+"This license code has been used with a different email address." =  "이 라이선스 코드는 다른 이메일에서 사용되었습니다.";
+"Unknown Error. Please contact hi@typora.io" = "알 수 없는 오류입니다. hi@typora.io 로 연락해 주시기 바랍니다.";
+"Failed to access the license server. Please check your network or try again later." = "라이선스 서버에 연결하지 못했습니다. 네트워크 연결 상태를 확인하거나 나중에 다시 시도하십시오.";
 

@@ -129,7 +129,7 @@
 "In Selection" = "A kijelölésben";
 "Panel" = "Panel";
 
-/* Windows Prefernce Panel*/
+/* Windows Preferences Panel*/
 "Appearance" = "Megjelenés";
 "System Native" = "Operációs rendszeré";
 "Unibody" = "Unibody";
@@ -353,7 +353,7 @@
 "Unzipping…" = "Kitömörítés…";
 "Finished" = "Kész";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "A Typora alkalmazni fogja a harmadik fél által készített alkalmazást az összes helyben tárolt képre. Ezzel a képfeltöltő és a felhőtárhely hozzáférést szerez a dokumentum helyben tárolt képeihez. Szeretné folytatni?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "A Typora alkalmazni fogja a harmadik fél által készített alkalmazást az összes helyben tárolt képre. Ezzel a képfeltöltő és a felhőtárhely hozzáférést szerez a dokumentum helyben tárolt képeihez. Szeretné folytatni?";
 
 "Export operation finished successfully." = "Az exportálás sikeresen befejeződött.";
 
@@ -471,3 +471,25 @@
 "Apply Line Break at \\ and &#92;newline" = "\\ és &#92;newline jeleknél sortörés";
 
 "Export operation succeeded with warnings." = "Az exportálás figyelmeztetésekkel befejeződött.";
+
+"Typora is now deactivated" = "A Typora deaktiválódott.";
+"This device has been deactivated" = "Ez az eszköz sikeresen aktiválódott.";
+"UNREGISTERED" = "NEM REGISZTRÁLT";
+
+"Your Typora is not activated." = "A Typora ezen példánya nincs aktiválva.";
+"Your Typora has been activated." = "A Typora ezen példánya sikeresen aktiválódott.";
+"Typora activation is required to change this." = "Ez csak a Typora aktiválása után változtatható meg.";
+"You can reinstall the stable version and then disable this." = "A stabil verzió telepítése után lehet kikapcsolni.";
+"Update to dev version" = "Frissítés fejlesztői verzióra is";
+
+"Typora Server" = "Typora szerver";
+"Use Typora Server in China" = "A Kínában lévő Typora szerver használata";
+
+"File does not exist" = "A fájl nem létezik";
+"Create File" = "Fájl létrehozása";
+"Create Folder" = "Mappa létrehozása";
+
+"(Some options will be applied after restart.)" = "(Bizonyos beállítások csak újraindítás után lépnek életbe.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Az egész sor kivágása vagy másolása, ha nincs kijelölve semmi.";
+"Enable physics package" = "A Physics makrócsomag engedélyezése";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "A Physics makrócsomag felülír néhány latex makrót, pl. \\div, \\Re, stb.";

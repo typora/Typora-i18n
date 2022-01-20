@@ -9,69 +9,77 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Üdvözöljük a Typorában";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Köszönjük, hogy a Typorát választotta 👋. A Typora egy minimalista markdown szerkesztő és markdown olvasó. Könnyedén és egyszerre kezelhető benne a formázott szöveg és annak forráskódja.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Kezdjünk hozzá!";
+"Check following links if you're new to Markdown or Typora." = "Ha még nem ismered a Markdown-t vagy a Typorát, segítséget nyújtanak az alábbi linkek.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "A Typora aktiválása";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Már megvásároltad a licencet? Az alábbi mezők kitöltésével rögtön aktiválhatod is a Typorát.";
 
 "Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email Address" = "Emailcím";
+"License Code" = "Licenckód";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Súgó";
+"Find my License" = "Licenc keresése";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "A <a href='https://support.typora.io/License-Agreement/'>Licencszerződés</a> és az <a href='https://support.typora.io/Privacy-Policy/'>Adatvédelmi szabályzat</a> elfogadása.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Azonnali előnézet";
+"Write and read rendered output instantly." = "A formázott szöveg közvetlenül szerkeszthető.";
+"Markdown Syntax" = "Markdown formázás";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Programkód, YAML, tennivaló lista, lábjegyzet, táblázat, képletek, diagramok";
+"Import / Export" = "Importálás és Exportálás";
+"Deliver your content in various formats." = "Fájlok átalakítása különböző formátumokba.";
+"Editing Experience" = "Kényelmes szerkesztés";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Vázlat / Szavak száma / Fókusz mód / Írógép mód";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "Fájlkezelő";
+"Manage files in sidebar and search across files." = "Fájlok áttekintése az oldalsávban és keresés egyszerre több fájlban.";
+"Customize" = "Testreszabás";
+"Customize your writing experience from preferences panel." = "A szerkesztési beállítások testre szabhatók.";
+"Themes" = "Témák";
+"Write in the theme you like, or make one by your own." = "Használd a kedvenc témádat, vagy hozd létre a sajátodat.";
+"And more" = "És még sok minden más!";
+"Explore more topics at support.typora.io" = "További információk a support.typora.io oldalon";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Első lépések";
+"Markdown Reference" = "Markdown kézikönyv";
+"Explore Themes" = "Témák felfedezése";
+"More Topics" = "További témakörök";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Ez a Typora aktiválva van";
+"Thanks for your purchase." = "Köszönjük a vásárlást!";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Tovább";
+"Please accept license agreement first" = "Kérlek, előbb fogadd el a licencszerződést!";
+"Start %@ Days Trial" = "%@ napos próbaidőszak indítása";
+"Buy License" = "Licenc vásárlása";
+"Activate" = "Aktiválás";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Bezárás";
+"Deactivate" = "Deaktiválás";
+"View License" = "Licenc megtekintése";
+"Your Typora License" = "A Typora licenced";
+"This copy of Typora is registered with license information below." = "A Typora ezen példánya az alábbi licenc információkkal lett regisztrálva.";
+"Your trial will be expired in %@ days." = "A próbaidőszak %@ nap múlva lejár.";
+"Enter License" = "Licenc megadása";
+"Not Now" = "Most nem";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Írj be egy érvényes e-mail címet";
+"Please input a valid license code"  = "Írj be egy érvényes licenckódot";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Ehhez a licenchez nem regisztrálható több eszköz.\nA legrégebben társított eszköz regisztrációját automatikusan töröltük.";
+"This license code has been used with a different email address." =  "Ezt a licenckódot már használták egy másik e-mail címmel.";
+"Unknown Error. Please contact hi@typora.io" = "Váratlan hiba történt. Kérj segítséget a hi@typora.io címen.";
+"Failed to access the license server. Please check your network or try again later." = "Nem sikerült kapcsolódni a licenckiszolgálóhoz. Ellenőrizd a hálózati kapcsolatod vagy próbáld újra később.";
 
+"Enter a license code to support our development ❤" = "Írj be egy licenckódot és támogasd a fejlesztőket ❤";
+"Re-enter Email" = "Email újból";
+"Email address confirmation does not match." = "Az email címek nem egyeznek.";
+
+"Are you sure to deactivate Typora on this device?" = "Biztosan deaktiválod a Typorát ezen az eszközön?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Ehhez a licenchez nem regisztrálható több eszköz.\nHa az \"Aktiválás folytatása\" gombra kattintasz, ez az eszköz regisztrálva lesz, a legrégebben regisztrált eszköz pedig automatikusan törölésre kerül.";
+"Continue Activation" = "Aktiválás folytatása";

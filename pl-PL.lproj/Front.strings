@@ -187,3 +187,6 @@
 
 "You are not supposed to edit or save this file." = "Nie możesz edytować ani zapisywać tego pliku.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Pliki w tej lokalizacji (%@) są zarządzane przez Typorę i mogą być automatycznie usuwane.<br/>Skopiuj zawartość do nowego pliku w celu dalszej edycji.";
+
+"File not exists at path %@." = "W lokalizacji %@ nie ma pliku.";
+"File not exists at path %@, do you want to create one at that path ?" = "W lokalizacji %@ nie ma pliku. Chcesz go tam utworzyć?";

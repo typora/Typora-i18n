@@ -477,11 +477,20 @@
 "This device has been deactivated" = "To urządzenie zostało zdezaktywowane";
 "UNREGISTERED" = "NIE ZAREJESTROWANO";
 
-"Allow physics package to redefine existing TeX commands" = "Pozwól pakietowi fizyki zmienić definicje istniejących poleceń TeX";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Po włączeniu tej opcji polecenia w rodzaju \\div, \\Re zostaną zastąpione definicjami z pakietu fizyki.";
-
 "Your Typora is not activated." = "Twoja Typora nie jest aktywowana.";
 "Your Typora has been activated." = "Twoja Typora została aktywowana.";
 "Typora activation is required to change this." = "Do zmiany tej opcji konieczna jest aktywacja Typory.";
 "You can reinstall the stable version and then disable this." = "Możesz ponownie zainstalować wersję stabilną i wyłączyć to.";
 "Update to dev version" = "Zaktualizuj do wersji deweloperskiej";
+
+"Typora Server" = "Serwer Typory";
+"Use Typora Server in China" = "Użyj serwera Typory w Chinach";
+
+"File does not exist" = "Plik nie istnieje";
+"Create File" = "Utwórz plik";
+"Create Folder" = "Utwórz folder";
+
+"(Some options will be applied after restart.)" = "(niektóre opcje zostaną uaktywnione po ponownym uruchomieniu)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Skopiuj albo wytnij całe linie, nad którymi znajduje się kursor, jeżeli nie dokonano zaznaczenia podczas kopiowania/wycinania.";
+"Enable physics package" = "Włącz pakiet fizyki";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Pakiet fizyki zmieni definicje niektórych makr latex takich jak \\div, \\Re itp.";

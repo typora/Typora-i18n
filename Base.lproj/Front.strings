@@ -188,5 +188,5 @@
 "You are not supposed to edit or save this file." = "You are not supposed to edit or save this file.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing.";
 
-"File not exists at path %@." = "File not exists at path %@.";
-"File not exists at path %@, do you want to create one at that path ?" = "File not exists at path %@, do you want to create one at that path ?";
+"File does not exist at path %@." = "File does not exist at path %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "File does not exist at path %@, do you want to create one at that path?";

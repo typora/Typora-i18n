@@ -107,7 +107,7 @@
 "Cannot open folder {0}" = "No es pot obrir la carpeta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "El contingut del fitxer s'ha canviat amb una aplicació externa. Voleu tornar a carregar el contingut?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Hauria de continuar movent i sobreescrivint els fitxers existents?";
+"Should continue moving and overwrite existing file(s) ?" = "Hauria de continuar movent i sobreescrivint els fitxers existents?";
 
 "Rename Failed" = "Error en canviar el nom";
 "Rename to \"{0}\" ?" = "Voleu canviar el nom a \"{0}\" ?";

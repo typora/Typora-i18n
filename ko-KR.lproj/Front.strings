@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "{0} 폴더를 열 수 없습니다";
 
 "File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";
-"Should continue moving and overwrite exisiting file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
+"Should continue moving and overwrite existing file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
 
 "Rename Failed" = "이름 변경 실패";
 "Rename to \"{0}\" ?" = "\"{0}\"(으)로 이름을 바꾸시겠습니까?";

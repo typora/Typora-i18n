@@ -111,7 +111,7 @@
 "Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Kontynuować przenoszenie oraz zastępowanie istniejących plików?";
+"Should continue moving and overwrite existing file(s) ?" = "Kontynuować przenoszenie oraz zastępowanie istniejących plików?";
 
 "Rename Failed" = "Zmiana nazwy nie powiodła się";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Zmiana nazwy z \"{0}\" na \"{1}\" nie powiodła się";
@@ -188,5 +188,5 @@
 "You are not supposed to edit or save this file." = "Nie możesz edytować ani zapisywać tego pliku.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Pliki w tej lokalizacji (%@) są zarządzane przez Typorę i mogą być automatycznie usuwane.<br/>Skopiuj zawartość do nowego pliku w celu dalszej edycji.";
 
-"File not exists at path %@." = "W lokalizacji %@ nie ma pliku.";
+"File does not exist at path %@." = "W lokalizacji %@ nie ma pliku.";
 "File not exists at path %@, do you want to create one at that path ?" = "W lokalizacji %@ nie ma pliku. Chcesz go tam utworzyć?";

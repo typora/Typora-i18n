@@ -110,7 +110,7 @@
 "Cannot open folder {0}" = "Non se pode abrir o cartafol {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "O contido do arquivo modificouse con aplicacións externas. Recargares o contido do disco?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Desexa continuar a mover e sobrescribir os arquivos existentes?";
+"Should continue moving and overwrite existing file(s) ?" = "Desexa continuar a mover e sobrescribir os arquivos existentes?";
 
 "Rename Failed" = "Renomear fallou";
 "Rename to \"{0}\" ?" = "Renomear como \"{0}\" ?";

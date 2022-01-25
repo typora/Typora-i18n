@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "ישנה בעיה בפתיחת התיקייה {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "תוכן הקובץ שונה על ידי תוכנה חיצונית. טען מחדש את תוכן הקובץ מהדיסק?";
-"Should continue moving and overwrite exisiting file(s) ?" = "להמשיך העברה ודריסה של קבצים קיימים?";
+"Should continue moving and overwrite existing file(s) ?" = "להמשיך העברה ודריסה של קבצים קיימים?";
 
 "Rename to \"{0}\" ?" = "שנה שם ל־\"{0}\"?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "שינוי השם מ־\"{0}\" ל־\"{1}\" נכשל";

@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "Nu se poate deschide folderul {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Conținutul fișierului a fost modificat de o aplicație externă. Doriți să reîncărcați conținutul de pe disc ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Doriți să continuați să mutați și să suprascrieți fișierul existent ?";
+"Should continue moving and overwrite existing file(s) ?" = "Doriți să continuați să mutați și să suprascrieți fișierul existent ?";
 
 "Rename to \"{0}\" ?" = "Redenumește cu \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Redenumirea de la \"{0}\" la \"{1}\" nu s/a reușit";

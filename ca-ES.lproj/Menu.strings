@@ -13,7 +13,7 @@
 "Services" = "Serveis";
 "Hide Typora" = "Amaga el Typora";
 "Hide Others" = "Amaga altres";
-"Show All" = "Mosta-ho tot";
+"Show All" = "Mostra-ho tot";
 "Quit Typora" = "Surt del Typora";
 
 /* File Menu */
@@ -30,7 +30,7 @@
 "No Recent Files" = "No hi ha fitxers recents";
 "Open Quickly" = "Obre ràpidament";
 "Open File Location" = "Obre la ubicació del fitxer";
-"Reveal in Library" = "Mostra a la bilbioteca"; /* Needs context */
+"Reveal in Library" = "Mostra a la biblioteca"; /* Needs context */
 "Reveal in File Tree" = "Mostra a l'arbre de fitxers";
 "Close" = "Tanca";
 "Save" = "Desa";
@@ -238,7 +238,7 @@
 "Copy Image to" = "Copia la imatge a";
 "Open Image Location" = "Obrir la ubicació de la imatge";
 
-"Learn More" = "Apren més";
+"Learn More" = "Aprèn més";
 "Whitespace and Line Breaks" = "Espais en blanc i salts de línia";
 "Indent first line of paragraphs" = "Indentar la primera línia dels paràgrafs";
 "Preserve single line break" = "Preserva el salt de linea solter";
@@ -249,7 +249,7 @@
 "Reopen Closed File" = "Reobrir arxius tancats";
 
 "Global Image Settings" = "Ajustaments globals d'imatges";
-"Smart Punctuation" = "Punctuació intel·ligent";
+"Smart Punctuation" = "Puntuació intel·ligent";
 "Convert on Input" = "Convertir a l'entrada";
 "Convert on Rendering" = "Convertir en renderitzar";
 "Remap Unicode Punctuation on Parse" = "Reassignar la Punctuació Unicode en analitzar";
@@ -295,7 +295,7 @@
 "Expand All" = "Obri tots";
 "Collapse All" = "Tanca tots";
 "Collapsible Outline" = "Esquema colapsable";
-"Flat Outline" = "Esquema plà";
+"Flat Outline" = "Esquema pla";
 "Articles (List View)" = "Articles (Vista de llista)";
 "File Tree (Tree View)" = "Arbre d'arxius (Vista d'arbre)";
 "Filter" = "Filtre";

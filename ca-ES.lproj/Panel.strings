@@ -33,7 +33,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Mida del sagnat en desar";
-"only apply to quotes and lists created from menu bar or hybrid view" = "aplica només per a comentaris i llistes creades des de la barra de menú o la vista hibrida";
+"only apply to quotes and lists created from menu bar or hybrid view" = "aplica només per a comentaris i llistes creades des de la barra de menú o la vista híbrida";
 "Trigger Autocomplete without ESC key for" = "Activa l'emplenament automàtic sense la tecla ESC per a";
 "Emoji (e.g. :smile:)" = "Emoji (ex. :smile:)";
 "Images Insert" = "Inserció d'imatges";
@@ -76,7 +76,7 @@
 /* Security Panel */
 "Security" = "Seguretat";
 "Enable Debug" = "Habilita la depuració";
-"Send Anonymous Usage Info" = "Envia un informe anònim d'usabilitat";
+"Send Anonymous Usage Info" = "Envia un informe anònim d'ús";
 
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "Requereix el Pandoc per a continuar...";
@@ -84,14 +84,14 @@
 "Cancel" = "Cancel·lar";
 
 /* Pandoc Import Panel */
-"Importing..." = "S'està mportant...";
+"Importing..." = "S'està important...";
 "Importing in progress..." = "Importació en progrés...";
 "Converting file with Pandoc. This may take some time." = "S'està convertint el fitxer amb el Pandoc. Això pot trigar un temps.";
 "Abort" = "Abandona";
 
 /* Pandoc Export Panel */
 "Exporting..." = "S'està exportant...";
-"Exporting in progress..." = "Exportació en progres...";
+"Exporting in progress..." = "Exportació en progrés...";
 "Converting file with Pandoc. This may take some time." = "S'està convertint el fitxer amb el Pandoc. Això pot trigar un temps.";
 
 /* Export & Import */
@@ -116,7 +116,7 @@
 "Exporting file using Pandoc. This may take some time." = "S'està exportant el fitxer amb Pandoc. Això pot trigar un temps.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "S'estan pujant imatges via iPic...";
+"Uploading Images via iPic..." = "S'estàn pujant imatges via iPic...";
 "Uploading in progress…" = "Pujada en progrés...";
 "Do not show this again" = "No mostris de nou";
 
@@ -169,7 +169,7 @@
 "This feature require macOS >= 10.11" = "Aquesta característica requereix macOS >= 10.11";
 "One More Step" = "Un pas més";
 "Notice" = "Avís";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Això requereix tenir instal·lat iPic, i les imatges referides es carregaran a servidors al núvol via iPic. Tingueu en compte també que el servidor per defecte no permet eliminar la imatge carregada.";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Això requereix tenir instal·lat iPic, i les imatges referides es carregaràn a servidors al núvol via iPic. Tingueu en compte també que el servidor per defecte no permet eliminar la imatge carregada.";
 
 "%d Images Failed to Upload." = "%d imatges no s'han pogut pujar.";
 "%d Succeeded," = "%d correctes,";

@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "Kan ikke åbne mappen {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Filens indhold er blevet ændret af et andret program. Genindlæs fra disk?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Fortsæt og overskriv eksisterende fil(er)?";
+"Should continue moving and overwrite existing file(s) ?" = "Fortsæt og overskriv eksisterende fil(er)?";
 
 "Rename to \"{0}\" ?" = "Omdøb til \"{0}\"?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Kunne ikke omdøbe fra \"{0}\" til \"{1}\"";

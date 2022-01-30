@@ -110,7 +110,7 @@
 "Cannot open folder {0}" = "Kan inte öppna mappen vid {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Filen har ändrats utanför Typora. Vill du läsa in filen på nytt ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Vill du fortsätta flytta och skriva över existerande fil(er) ?";
+"Should continue moving and overwrite existing file(s) ?" = "Vill du fortsätta flytta och skriva över existerande fil(er) ?";
 
 "Rename Failed" = "Kunde inte byta namn";
 "Rename to \"{0}\" ?" = "Byt namn till \"{0}\" ?";

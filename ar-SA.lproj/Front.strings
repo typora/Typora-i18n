@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "لا يمكن فتح المجلد {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "تم تغيير محتوى الملف من قبل تطبيق خارجي. أتود تحديثه بالنسخة المخزنة؟";
-"Should continue moving and overwrite exisiting file(s) ?" = "أتود المتابعة والكتابة على الملفات؟";
+"Should continue moving and overwrite existing file(s) ?" = "أتود المتابعة والكتابة على الملفات؟";
 
 "Rename to \"{0}\" ?" = "إعادة التسمية لـ \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "إعادة التسمية فشلت من \"{0}\" لـ \"{1}\"";

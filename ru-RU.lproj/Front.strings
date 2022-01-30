@@ -111,7 +111,7 @@
 "Cannot open folder {0}" = "Не удается открыть папку {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Содержимое файла изменено внешними приложениями. Перезагрузить содержимое с диска?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Продолжить перемещение и перезапись существующих файлов?";
+"Should continue moving and overwrite existing file(s) ?" = "Продолжить перемещение и перезапись существующих файлов?";
 
 "Rename to \"{0}\" ?" = "Переименовать в \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Не удалось переименовать \"{0}\" в \"{1}\"";
@@ -188,5 +188,5 @@
 "You are not supposed to edit or save this file." = "Вы не должны редактировать или сохранять этот файл.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Файлы в этом месте (%@) управляются Typora и могут быть удалены автоматически.<br/>Пожалуйста, скопируйте содержимое в новый файл для дальнейшего редактирования.";
 
-"File not exists at path %@." = "Файл не существует по пути %@.";
+"File does not exist at path %@." = "Файл не существует по пути %@.";
 "File not exists at path %@, do you want to create one at that path ?" = "Файл не существует по пути %@, хотите ли вы создать его по этому пути?";

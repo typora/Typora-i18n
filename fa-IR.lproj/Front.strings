@@ -110,7 +110,7 @@
 "Cannot open folder {0}" = "نمی‌توانم فایل را باز کنم {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "محتوای فایل با اپلیکیشن/ابزار دیگری تغییر کرده است. محتوا را از روی دیسک دوباره بارگذاری کنم?";
-"Should continue moving and overwrite exisiting file(s) ?" = "آیا انتقال و بازنویسی فایل(های) موجود ادامه یابد?";
+"Should continue moving and overwrite existing file(s) ?" = "آیا انتقال و بازنویسی فایل(های) موجود ادامه یابد?";
 
 "Rename to \"{0}\" ?" = "تغییر نام به \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "تغییر نام از \"{0}\" به \"{1}\" انجام نشد";

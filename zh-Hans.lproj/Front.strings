@@ -111,7 +111,7 @@
 "Cannot open folder {0}" = "无法打开文件夹 {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "文件内容已被外部程序更改。是否重新加载文件？";
-"Should continue moving and overwrite exisiting file(s) ?" = "是否继续移动并替换原有文件？";
+"Should continue moving and overwrite existing file(s) ?" = "是否继续移动并替换原有文件？";
 
 "Rename Failed" = "重命名失败";
 "Rename to \"{0}\" ?" = "重命名为 \"{0}\" ？";

@@ -269,7 +269,7 @@
 "Are you sure you want to delete %@?" = "정말로 %@ 를 삭제하시겠습니까?";
 "You can restore from the Trash." = "휴지통(Trash)에서 복구할 수 있습니다.";
 
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Reset All Dialog Warnings" = "경고 다이얼로그 초기화";
 "Dialogs" = "Dialogs";
 "Dialog warnings have been reset." = "Dialog warnings have been reset.";
 

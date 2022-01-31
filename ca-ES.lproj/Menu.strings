@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io
+ by Artur V.
 */
 
 /* Typora Menu */
@@ -34,12 +34,12 @@
 "Reveal in File Tree" = "Mostra a l'arbre de fitxers";
 "Close" = "Tanca";
 "Save" = "Desa";
-"Save As" = "Desa com a";
+"Save As" = "Anomena i desa";
 "Duplicate" = "Duplica"; /* Needs context */
 "Rename" = "Canvia el nom";
 "Move To" = "Mou a";
-"Revert To" = "Reverteix a ";
-"Browse All Versions" = "Explorar totes les versions";
+"Revert To" = "Reverteix a";
+"Browse All Versions" = "Explora totes les versions";
 "Import" = "Importa";
 "Export" = "Exporta";
 "Page Setup" = "Configuració de la pàgina";
@@ -63,11 +63,11 @@
 "Delete Range" = "Elimina el rang";
 "Delete Word" = "Elimina la paraula";
 "Delete Styled Scope" = "Elimina l'àmbit d'estil";
-"Delete Line/Sentence" = "Elimina la línia/oració";
-"Jump To" = "Salta a";
-"Jump to Top" = "Salta al capdamunt";
-"Jump to Selection" = "Salta a la selecció";
-"Jump to Bottom" = "Salta al capdavall";
+"Delete Line/Sentence" = "Elimina la línia/frase";
+"Jump To" = "Vés a";
+"Jump to Top" = "Vés al capdamunt";
+"Jump to Selection" = "Vés a la selecció";
+"Jump to Bottom" = "Vés al capdavall";
 "Math Tools" = "Eines matemàtiques";
 "Refresh All Math Expressions" = "Recarrega totes les expressions matemàtiques";
 "Image Tools" = "Eines d'imatge";
@@ -83,7 +83,7 @@
 "Find" = "Troba";
 "Find Next" = "Troba el següent";
 "Find Previous" = "Troba l'anterior";
-"Find and Replace" = "Cercar i Substituir";
+"Find and Replace" = "Troba i reemplaça";
 "Replace" = "Reemplaça";
 "Replace Next" = "Reemplaça el següent";
 "Spelling and Grammar" = "Ortografia i gramàtica";
@@ -96,8 +96,8 @@
 "Smart Dashes" = "Guions intel·ligents";
 "Text Replacement" = "Reemplaç de text";
 "Speech" = "Parla";
-"Start Speaking" = "Comença la lectura en veu alta";
-"Stop Speaking" = "Atura la lectura en veu alta";
+"Start Speaking" = "Inicia la lectura";
+"Stop Speaking" = "Atura la lectura";
 
 /* Paragraph Menu */
 "Paragraph" = "Paràgraf";
@@ -127,7 +127,7 @@
 "Footnotes" = "Notes a peu";
 "Horizontal Line" = "Línia horitzontal";
 "Table of Contents" = "Taula de continguts";
-"YAML Front Matter" = "YAML Front Matter";
+"YAML Front Matter" = "Preliminars YAML";
 
 /* Format Menu */
 "Format" = "Format";
@@ -232,32 +232,36 @@
 "Open Failed" = "Error en obrir";
 "File or folder does not exist." = "El fitxer o la carpeta no existeixen.";
 
-"Prettify Source Code" = "Embellir el Codi Font";
-"Copy '%@'" = "Copia '%@'";
-"Copy to %@" = "Copiar a %@";
+"Prettify Source Code" = "Embelleix el codi font";
+"Copy '%@'" = "Copia «%@»";
+"Copy to %@" = "Copia a %@";
 "Copy Image to" = "Copia la imatge a";
-"Open Image Location" = "Obrir la ubicació de la imatge";
+"Open Image Location" = "Obre la ubicació de la imatge";
 
+<<<<<<< HEAD
 "Learn More" = "Aprèn més";
+=======
+"Learn More" = "Més informació";
+>>>>>>> upstream/master
 "Whitespace and Line Breaks" = "Espais en blanc i salts de línia";
-"Indent first line of paragraphs" = "Indentar la primera línia dels paràgrafs";
-"Preserve single line break" = "Preserva el salt de linea solter";
-"Visible <br/>" = "Visible <br/>";
+"Indent first line of paragraphs" = "Sagna la primera línia dels paràgrafs";
+"Preserve single line break" = "Mantén el salt de línia únic";
+"Visible <br/>" = "<br/> visible";
 
 "Save All" = "Desa-ho tot";
-"New Window" = "Nova finestra";
-"Reopen Closed File" = "Reobrir arxius tancats";
+"New Window" = "Finestra nova";
+"Reopen Closed File" = "Reobre el fitxer tancat";
 
-"Global Image Settings" = "Ajustaments globals d'imatges";
+"Global Image Settings" = "Configuració global d'imatges";
 "Smart Punctuation" = "Puntuació intel·ligent";
-"Convert on Input" = "Convertir a l'entrada";
-"Convert on Rendering" = "Convertir en renderitzar";
-"Remap Unicode Punctuation on Parse" = "Reassignar la Punctuació Unicode en analitzar";
-"More Options" = "Més Opcions";
+"Convert on Input" = "Converteix en introduir";
+"Convert on Rendering" = "Converteix en renderitzar";
+"Remap Unicode Punctuation on Parse" = "Reassigna la puntuació Unicode en analitzar";
+"More Options" = "Més opcions";
 
 "HTML Block" = "Bloc HTML";
-"Delete Block" = "Esborra el Bloc";
-"Delete %@" = "Esborra %@";
+"Delete Block" = "Elimina el bloc";
+"Delete %@" = "Elimina %@";
 "Play" = "Reprodueix";
 "Pause" = "Pausa";
 
@@ -266,12 +270,12 @@
 "Properties" = "Propietats";
 
 "Search" = "Cerca";
-"Copy without Theme Styling" = "Copia sense l'estil del Tema";
-"Recent Files" = "Arxius recents";
+"Copy without Theme Styling" = "Copia sense l'estil del tema";
+"Recent Files" = "Fitxers recents";
 "File Results" = "Fitxers resultants";
 
-"Insert Table" = "Inserir una taula";
-"Insert Image" = "Inserir una imatge";
+"Insert Table" = "Insereix una taula";
+"Insert Image" = "Insereix una imatge";
 "Allow Magnification" = "Permet l'ampliació";
 
 "Move Row Up" = "Mou una fila cap amunt";
@@ -282,7 +286,7 @@
 "Zoom Image" = "Escala la imatge";
 "Zoom Image to %@" = "Escala la imatge a %@";
 
-"Copy as Plain Text" = "Copia com a text plà";
+"Copy as Plain Text" = "Copia com a text sense format";
 
 "Selection" = "Selecció";
 "Start Speaking" = "Comença a llegir";
@@ -292,17 +296,17 @@
 "HTML (without Styles)" = "HTML (sense estils)";
 
 "Highlight Current Header" = "Ressalta la capçalera actual";
-"Expand All" = "Obri tots";
-"Collapse All" = "Tanca tots";
-"Collapsible Outline" = "Esquema colapsable";
+"Expand All" = "Expandeix-ho tot";
+"Collapse All" = "Col·lapsa-ho tot";
+"Collapsible Outline" = "Esquema col·lapsable";
 "Flat Outline" = "Esquema pla";
-"Articles (List View)" = "Articles (Vista de llista)";
-"File Tree (Tree View)" = "Arbre d'arxius (Vista d'arbre)";
+"Articles (List View)" = "Articles (vista de llista)";
+"File Tree (Tree View)" = "Arbre de fitxers (vista d'arbre)";
 "Filter" = "Filtre";
 
-"Upload Image" = "Carrega una imatge";
-"Upload All Local Images" = "Carega totes les imatges locals";
-"Open Image in Browser" = "Obri la imatge al Navegador";
+"Upload Image" = "Puja una imatge";
+"Upload All Local Images" = "Puja totes les imatges locals";
+"Open Image in Browser" = "Obre la imatge al navegador";
 "Copy Image" = "Copia la imatge";
 
 "More Actions" = "Més accions";
@@ -311,17 +315,17 @@
 "Export with Previous" = "Exporta amb l'anterior";
 "Export and Overwrite with Previous" = "Exporta i sobreescriu amb l'anterior";
 
-"Emoji and Symbols" = "Emojis i simbols";
+"Emoji and Symbols" = "Emojis i símbols";
 
-"Insert Final New Line On Save" = "Inserix una nova linea final en desar";
-"Hyperlink Actions" = "Accions d'hipervincles";
+"Insert Final New Line On Save" = "Inserix una línea final nova en desar";
+"Hyperlink Actions" = "Accions d'enllaços";
 "Copy Link Address" = "Copia l'adreça de l'enllaç";
 
 "Click" = "Clic";
 
 "Export Setting" = "Exporta la configuració";
 
-"My License" = "La meua llicència";
+"My License" = "La meva llicència";
 "Registration / Activation" = "Registre / Activació";
 
-"Select Paragraph/Block" = "Selecciona el Paràgraf/Bloc";
+"Select Paragraph/Block" = "Selecciona el paràgraf/bloc";

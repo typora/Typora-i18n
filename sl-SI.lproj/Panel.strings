@@ -488,3 +488,10 @@
 "Typora activation is required to change this." = "Za spremembe je potrebno aktivirati Typoro.";
 "You can reinstall the stable version and then disable this." = "Če namestite stabilno različico lahko to onemogočite.";
 "Update to dev version" = "Nadgradnja na razvojno različico";
+
+"Typora Server" = "Typora strežnik";
+"Use Typora Server in China" = "Uporabi Typora strežnik na Kitajskem";
+
+"File does not exist" = "Daoteka ne obstaja";
+"Create File" = "Ustvari datoteko";
+"Create Folder" = "Ustvari mapo";

@@ -189,3 +189,6 @@
 
 "You are not supposed to edit or save this file." = "Te datoteke ne smete urejati ali shranjevati.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Datoteke na tem mestu (%@) upravlja Typora in se lahko samodejno izbrišejo.<br/>Za urejanje kopirajte vsebino v novo datoteko.";
+
+"File not exists at path %@." = "Datoteka na poti %@ ne obstaja."
+"File not exists at path %@, do you want to create one at that path ?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";

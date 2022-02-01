@@ -238,11 +238,7 @@
 "Copy Image to" = "Copia la imatge a";
 "Open Image Location" = "Obre la ubicació de la imatge";
 
-<<<<<<< HEAD
-"Learn More" = "Aprèn més";
-=======
 "Learn More" = "Més informació";
->>>>>>> upstream/master
 "Whitespace and Line Breaks" = "Espais en blanc i salts de línia";
 "Indent first line of paragraphs" = "Sagna la primera línia dels paràgrafs";
 "Preserve single line break" = "Mantén el salt de línia únic";

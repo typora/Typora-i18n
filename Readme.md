@@ -75,3 +75,4 @@ Feel free to contact us via <hi@typora.io>
 - Romanian by [Mooyeee](https://github.com/Mooyeee)
 - Malay (Malaysia) by [MLukman](https://github.com/MLukman)
 - Turkish by [serhattsnmz](https://github.com/serhattsnmz)
+- Slovenian by [sponka9](https://github.com/sponka9/)

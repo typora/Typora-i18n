@@ -79,3 +79,7 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "您的序列号激活的设备数量已超过最大数量，\n如您点击 \"继续激活\"，该设备将会被激活，而之前最早被激活的设备将自动取消激活。";
 "Continue Activation" = "继续激活";
+
+"Offline Activation" = "离线激活";
+"Back" = "返回";
+"Get Activation Token" = "获取 Activation Token";

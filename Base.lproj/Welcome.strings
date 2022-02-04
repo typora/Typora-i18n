@@ -83,3 +83,7 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically.";
 "Continue Activation" = "Continue Activation";
+
+"Offline Activation" = "Offline Activation";
+"Back" = "Back";
+"Get Activation Token" = "Get Activation Token";

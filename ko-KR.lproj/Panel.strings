@@ -445,7 +445,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "Command Arguments:";
-"This beta version of Typora is expired, please download and install a newer version." = "현제 이 베타버젼은 만기 되었습니다. 새로운 버젼을 다운로드하셔서 설치하시기 바랍니다.";
+"This dev version of Typora is expired, please download and install a newer version." = "현제 이 베타버젼은 만기 되었습니다. 새로운 버젼을 다운로드하셔서 설치하시기 바랍니다.";
 "Current Theme" = "현재 테마";
 "After Export" = "내보내기 이후 작업";
 "Run command" = "Command 실행";

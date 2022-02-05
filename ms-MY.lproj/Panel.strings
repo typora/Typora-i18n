@@ -436,7 +436,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksport dan Tulis Tindih dengan Sebelumnya\" akan menulis tindih di %@, adakah anda akan teruskan?";
 "Command Arguments:" = "Hujahan Perintah:";
-"This beta version of Typora is expired, please download and install a newer version." = "Versi beta Typora ini sudah tamat tempoh, sila muat turun dan pasang versi lebih baru.";
+"This dev version of Typora is expired, please download and install a newer version." = "Versi dev Typora ini sudah tamat tempoh, sila muat turun dan pasang versi lebih baru.";
 "Current Theme" = "Tema Semasa";
 "After Export" = "Selepas Eksport";
 "Run command" = "Jalankan perintah";

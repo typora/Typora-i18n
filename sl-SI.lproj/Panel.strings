@@ -438,7 +438,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Izvoz in prepiši s predhodnim\" bo prepisal datoteko %@, želite nadaljevati?";
 "Command Arguments:" = "Argumenti ukaza:";
-"This beta version of Typora is expired, please download and install a newer version." = "Beta različica Typore je potekla, prenesite in nametite novejšo različico.";
+"This dev version of Typora is expired, please download and install a newer version." = "Dev različica Typore je potekla, prenesite in nametite novejšo različico.";
 "Current Theme" = "Trenutna tema";
 "After Export" = "Po izvozu";
 "Run command" = "Zaženi ukaz";

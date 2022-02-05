@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksportuj i zastąp z ostatnimi ustawieniami\" zastąpi plik w %@. Kontynuować?";
 "Command Arguments:" = "Argumenty wiersza poleceń:";
-"This beta version of Typora is expired, please download and install a newer version." = "Ta wersja beta programu Typora wygasła. Pobierz i zainstaluj nowszą wersję.";
+"This dev version of Typora is expired, please download and install a newer version." = "Ta wersja dev programu Typora wygasła. Pobierz i zainstaluj nowszą wersję.";
 "Current Theme" = "Obecny motyw";
 "After Export" = "Po wyeksportowaniu";
 "Run command" = "Wykonaj polecenie";

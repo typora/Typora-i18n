@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Экспорт и перезапись с предыдущим\" перезапишет файл в %@, продолжим?";
 "Command Arguments:" = "Аргументы команды:";
-"This beta version of Typora is expired, please download and install a newer version." = "Эта бета-версия Typora истекла, пожалуйста, загрузите и установите новую версию.";
+"This dev version of Typora is expired, please download and install a newer version." = "Эта бета-версия Typora истекла, пожалуйста, загрузите и установите новую версию.";
 "Current Theme" = "Текущая тема";
 "After Export" = "После экспорта";
 "Run command" = "Выполнить команду";

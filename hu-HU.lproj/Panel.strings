@@ -434,7 +434,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "Az \"Exportálás és felülírás a legutóbbival\" felül fogja írni a %@ fájlt. Folytatja?";
 "Command Arguments:" = "Parancs argumentumai:";
-"This beta version of Typora is expired, please download and install a newer version." = "A Typora ezen béta verziója lejárt. Töltsön le és telepítsen egy újabb verziót.";
+"This dev version of Typora is expired, please download and install a newer version." = "A Typora ezen béta verziója lejárt. Töltsön le és telepítsen egy újabb verziót.";
 "Current Theme" = "Jelenlegi téma";
 "After Export" = "Exportálás után";
 "Run command" = "Parancs futtatása";

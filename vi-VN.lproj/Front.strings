@@ -188,3 +188,6 @@
 
 "You are not supposed to edit or save this file." = "Bạn không được phép chỉnh sửa hoặc lưu tập tin này.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Các tập tin trong khu vực (%@) được quản lý bởi Typora, và có thể tự động bị xoá.<br/>Vui lòng sao chép nội dung sang một tập tin mới để tiếp tục chỉnh sửa.";
+
+"File not exists at path %@." = "Tập tin không tồn tại ở đường dẫn %@.";
+"File not exists at path %@, do you want to create one at that path ?" = "Tập tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tập tin tại đường dẫn đó chứ?";

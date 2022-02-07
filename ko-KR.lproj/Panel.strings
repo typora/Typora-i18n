@@ -269,7 +269,7 @@
 "Are you sure you want to delete %@?" = "정말로 %@ 를 삭제하시겠습니까?";
 "You can restore from the Trash." = "휴지통(Trash)에서 복구할 수 있습니다.";
 
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
+"Reset All Dialog Warnings" = "경고 다이얼로그 초기화";
 "Dialogs" = "Dialogs";
 "Dialog warnings have been reset." = "Dialog warnings have been reset.";
 
@@ -408,7 +408,7 @@
 "Default Folder for Exported File" = "파일을 내보낼 기본값 폴더";
 "Same folder with current file" = "현재 파일과 같은 폴더";
 "Custom location" = "사용자 지정 위치";
-"(Auto Detect)" = "(Auto Detect)";
+"(Auto Detect)" = "(자동설정)";
 "After Export" = "내보내기 이후 작업";
 "Open exported file location" = "파일을 내보낸 위치 열기";
 "Open exported file" = "내보낸 파일 열기";
@@ -445,7 +445,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "Command Arguments:";
-"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"This dev version of Typora is expired, please download and install a newer version." = "현제 이 베타버젼은 만기 되었습니다. 새로운 버젼을 다운로드하셔서 설치하시기 바랍니다.";
 "Current Theme" = "현재 테마";
 "After Export" = "내보내기 이후 작업";
 "Run command" = "Command 실행";
@@ -463,10 +463,10 @@
 "Text Column Width" = "Text Column Width";
 "Auto (based on current OS)" = "Auto (based on current OS)";
 "Indent" = "Indent";
-"Preserve tabs" = "Preserve tabs";
-"2 spaces per tab" = "2 spaces per tab";
-"3 spaces per tab" = "3 spaces per tab";
-"4 spaces per tab" = "4 spaces per tab";
+"Preserve tabs" = "탭 유지";
+"2 spaces per tab" = "탭을 공란 2칸으로";
+"3 spaces per tab" = "탭을 공란 3칸으로";
+"4 spaces per tab" = "탭을 공란 4칸으로";
 "Unicode Characters" = "Unicode Characters";
 "Use only ASCII characters in output" = "Use only ASCII characters in output";
 "Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
@@ -499,6 +499,6 @@
 "Typora Server" = "Typora 서버";
 "Use Typora Server in China" = "중국에 있는 Typora Server 사용";
 
-"File does not exist" = "File does not exist";
-"Create File" = "Create File";
-"Create Folder" = "Create Folder";
+"File does not exist" = "파일이 존재하지 않습니다";
+"Create File" = "파일 생성";
+"Create Folder" = "폴더 생성";

@@ -16,7 +16,7 @@ Japanese translated by
 "Welcome to Typora" = "Typoraへようこそ";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typoraをご利用いただきありがとうございます 👋。Typoraは最小限なmarkdownの読み込みとエディタであり、 あなたに豊富な表示スタイルとソースコードによるシームレスな体験を提供します。";
 
-"Get Start" = "始める";
+"Get Started" = "始める";
 "Check following links if you're new to Markdown or Typora." = "Typoraを始めて利用する人は次のリンクを確認してください。";
 
 "Activate Typora" = "Typoraを有効化する";

@@ -110,7 +110,7 @@
 "Cannot open folder {0}" = "Αδυναμία ανοίγματος φακέλου {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Το περιεχόμενο του αρχείου υπέστη αλλαγή από εξωτερικές εφαρμογές. Εκ νέου φόρτωση από τον δίσκο;";
-"Should continue moving and overwrite exisiting file(s) ?" = "Συνέχιση μεταφοράς και αντικατάσταση αρχείου(ων);";
+"Should continue moving and overwrite existing file(s) ?" = "Συνέχιση μεταφοράς και αντικατάσταση αρχείου(ων);";
 
 "Rename Failed" = "Η Μετονομασία Απέτυχε";
 "Rename to \"{0}\" ?" = "Μετονομασία σε \"{0}\" ;";

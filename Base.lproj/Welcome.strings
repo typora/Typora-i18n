@@ -12,7 +12,7 @@
 "Welcome to Typora" = "Welcome to Typora";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
 
-"Get Start" = "Get Start";
+"Get Started" = "Get Started";
 "Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
 
 "Activate Typora" = "Activate Typora";
@@ -83,3 +83,7 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically.";
 "Continue Activation" = "Continue Activation";
+
+"Offline Activation" = "Offline Activation";
+"Back" = "Back";
+"Get Activation Token" = "Get Activation Token";

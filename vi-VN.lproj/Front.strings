@@ -112,7 +112,7 @@
 "Cannot open folder {0}" = "Không thể mở thư mục {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Nội dung tập tin đã thay đổi bởi các chương trình khác. Bạn có muốn tải lại tập tin từ đĩa ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Bạn sẽ tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
+"Should continue moving and overwrite existing file(s) ?" = "Bạn sẽ tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
 
 "Rename to \"{0}\" ?" = "Đổi tên thành \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Không thể đổi tên từ \"{0}\" sang \"{1}\"";

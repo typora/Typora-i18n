@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io
+ by Artur V.
 */
 
 /* Common */
@@ -11,7 +11,7 @@
 "Yes" = "Sí";
 "No" = "No";
 "Close" = "Tanca";
-"Select" = "Sel·lecciona";
+"Select" = "Selecciona";
 "Continue" = "Continua";
 "Learn More…" = "Més informació…";
 "Untitled" = "Sense títol";
@@ -22,7 +22,7 @@
 
 /* Search Panel */
 "Search" = "Cerca";
-"Replace" = "Substitueix";
+"Replace" = "Remplaça";
 "All" = "Tot";
 "Search text not found in article" = "El text no s'ha trobat a l'article";
 "search text" = "text a trobar";
@@ -59,20 +59,20 @@
 "Switch to Outline view" = "Canvia a la vista d'esquema";
 "Close sidebar" = "Tanca la barra lateral";
 "Loading" = "S'està carregant";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les carpetes sel·leccionades tenen massa fitxers. \nCanvieu a la <a id='switch-to-tree-on-oversize'>vista d'arbre de fitxers</a> per a un millor rendiment.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Les carpetes seleccionades tenen massa fitxers. \nCanvieu a la <a id='switch-to-tree-on-oversize'>vista d'arbre de fitxers</a> per a un millor rendiment.";
 "New File" = "Crea un fitxer";
 "Unpin Outline Panel" = "Desancora el panel d'esquema";
 "Open Folder..." = "Obre una carpeta...";
 "Action" = "Acció"; /* Needs more context */
-"Close Sidebar Menu" = "Tanca menú de la barra lateral";
+"Close Sidebar Menu" = "Tanca el menú de la barra lateral";
 "Reveal in Finder" = "Mostra al Finder";
 "Reveal in File Explorer" = "Mostrar a l'Explorador de fitxers";
 "Refresh Folder" = "Recarrega la carpeta";
 "Sort" = "Ordena";
 "Group By Folder" = "Agrupa per carpeta";
 "Sort Naturally" = "Ordena naturalment";
-"Sort by Name" = "Ordena per nom";
-"Sort by Modification Date" = "Ordena per data de modificació";
+"Sort by Name" = "Ordena pel nom";
+"Sort by Modification Date" = "Ordena per la data de modificació";
 "Location" = "Ubicació"; 
 "Switch File List/Tree View" = "Canvia entre vista de llista i d'arbre de fitxers";
 "No Files Available" = "No hi ha cap fitxer disponible";
@@ -103,20 +103,20 @@
 "Stop" = "Atura";
 "back to document" = "torna al document";
 "Failed to load file" = "Error en carregar el fitxer";
-"Save File Failed!" = "Error en guardar el fitxer!";
+"Save File Failed!" = "Error en desar el fitxer!";
 "Cannot open folder {0}" = "No es pot obrir la carpeta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "El contingut del fitxer s'ha canviat amb una aplicació externa. Voleu tornar a carregar el contingut?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Hauria de continuar movent i sobreescrivint els fitxers existents?";
+"Should continue moving and overwrite existing file(s) ?" = "Hauria de continuar movent i sobreescrivint els fitxers existents?";
 
 "Rename Failed" = "Error en canviar el nom";
-"Rename to \"{0}\" ?" = "Voleu canviar el nom a \"{0}\" ?";
+"Rename to \"{0}\" ?" = "Voleu canviar el nom a \"{0}\"?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Error en canviar el nom de \"{0}\" a \"{1}\"";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "S'han carregat amb èxit {0} imatges.";
 "Failed to upload image. Error Message:" = "Error en carregar la imatge. Missatge d'error:";
 "Failed to Copy Image to Target Folder." = "Error en copiar la imatge a la carpeta de destí.";
-"Select Container Folder" = "Sel·leccioneu la carpeta contenidora";
+"Select Container Folder" = "Seleccioneu la carpeta contenidora";
 
 "Saved" = "S'ha desat";

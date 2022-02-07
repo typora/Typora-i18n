@@ -109,7 +109,7 @@
 "Cannot open folder {0}" = "Ne mogu otvoriti direktorij {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Sadržaj datoteke je izmijenjen externom aplikacijom. Da osvježim trenutni sadržaj s diska ?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Da nastavim s premještanjem i prepišem postojeću datoteku(e) ?";
+"Should continue moving and overwrite existing file(s) ?" = "Da nastavim s premještanjem i prepišem postojeću datoteku(e) ?";
 
 "Rename Failed" = "Preimenovanje nije uspjelo";
 "Rename to \"{0}\" ?" = "Preimenuj u \"{0}\" ?";

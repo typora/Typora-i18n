@@ -110,7 +110,7 @@
 "Cannot open folder {0}" = "Не можу відкрити директорію {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Вміст файлу був змінений зовнішнім застосунком. Перезавантажити вміст з диску?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Продовжити переміщення і перезаписати наявний файл(и)?";
+"Should continue moving and overwrite existing file(s) ?" = "Продовжити переміщення і перезаписати наявний файл(и)?";
 
 "Rename to \"{0}\" ?" = "Перейменувати як \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Не вдалося перейменувати файл із \"{0}\" на \"{1}\"";

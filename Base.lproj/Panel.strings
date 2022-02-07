@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "Command Arguments:";
-"This beta version of Typora is expired, please download and install a newer version." = "This beta version of Typora is expired, please download and install a newer version.";
+"This dev version of Typora is expired, please download and install a newer version." = "This dev version of Typora is expired, please download and install a newer version.";
 "Current Theme" = "Current Theme";
 "After Export" = "After Export";
 "Run command" = "Run command";
@@ -494,3 +494,7 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut.";
 "Enable physics package" = "Enable physics package";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics package will redefine some latex macros, such as \\div, \\Re, etc.";
+
+"Detail" = "Detail";
+"Use custom font size" = "Use custom font size";
+"Use theme font size" = "Use theme font size";

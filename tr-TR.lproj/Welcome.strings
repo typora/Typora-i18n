@@ -9,69 +9,68 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Typora'ya Hoşgeldiniz";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora'yı kullandığınız için teşekkür ederiz 👋. Typora, minimal bir markdown editörü ve markdown okuyucusudur, size işlenmiş zengin stil içeriği ve kaynak kodu arasında kusursuz bir deneyim sunar.";
 
-"Get Start" = "Get Start";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Start" = "Başlayın";
+"Check following links if you're new to Markdown or Typora." = "Markdown veya Typora'da yeniyseniz aşağıdaki bağlantıları kontrol edin.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Typora'yı Etkinleştir";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Zaten bir lisans satın aldınız mı? Aşağıdaki formu doldurun ve Typora'yı anında etkinleştirin.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "E-Posta";
+"Email Address" = "E-Posta Adresi";
+"License Code" = "Lisans Kodu";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Yardım";
+"Find my License" = "Lisansımı Bul";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>Lisans Koşullarını</a> ve <a href='https://support.typora.io/Privacy-Policy/'>Gizlilik Politikasını</a> kabul edin.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Canlı Önizleme";
+"Write and read rendered output instantly." = "Oluşturulan çıktıyı anında yazın ve okuyun.";
+"Markdown Syntax" = "Markdown Sözdizimi";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Kod blokları, YAML, görevler, dipnotlar, tablolar, matematik, diyagramlar";
+"Import / Export" = "İçe Aktar / Dışa Aktar";
+"Deliver your content in various formats." = "İçeriğinizi çeşitli biçimlerde sunun.";
+"Editing Experience" = "Düzenleme Deneyimi";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Anahat / Kelime Sayısı / Odak Modu / Daktilo Modu";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explorer more topics at support.typora.io" = "Explorer more topics at support.typora.io";
+"Files" = "Dosyalar";
+"Manage files in sidebar and search across files." = "Dosyaları kenar çubuğunda yönetin ve dosyalar arasında arama yapın.";
+"Customize" = "Özelleştirme";
+"Customize your writing experience from preferences panel." = "Tercihler panelinden yazma deneyiminizi özelleştirin.";
+"Themes" = "Temalar";
+"Write in the theme you like, or make one by your own." = "Beğendiğiniz temayı yazın veya kendiniz yapın.";
+"And more" = "Ve daha fazlası";
+"Explorer more topics at support.typora.io" = "support.typora.io adresinde daha fazla konu keşfedin";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explorer Themes" = "Explorer Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Hızlı başlangıç";
+"Markdown Reference" = "Markdown Referansı";
+"Explorer Themes" = "Tema Keşfedici";
+"More Topics" = "Daha Fazla Konu";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora Etkinleştirildi";
+"Thanks for your purchase." = "Satın aldığınız için teşekkürler.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Sonraki";
+"Please accept license agreement first" = "Lütfen, öncelikle lisans sözleşmesini kabul edin";
+"Start %@ Days Trial" = "%@ Günlük Deneme Sürümünü Başlatın";
+"Buy License" = "Lisans Satın Al";
+"Activate" = "Etkinleştir";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Kapat";
+"Deactivate" = "Devre Dışı Bırak";
+"View License" = "Lisansı Görüntüle";
+"Your Typora License" = "Typora Lisansınız";
+"This copy of Typora is registered with license information below." = "Typora'nın bu kopyası, aşağıdaki lisans bilgileriyle kayıtlıdır.";
+"Your trial will be expired in %@ days." = "Deneme süreniz %@ gün içinde sona erecek.";
+"Enter License" = "Lisans Anahtarı Girin";
+"Not Now" = "Daha Sonra";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
-
+"Please input a valid email address" = "Lütfen geçerli bir E-Posta adresi girin";
+"Please input a valid license code"  = "Lütfen geçerli bir lisans kodu girin";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Lisansınız maksimum cihaz sayısını aştı.\nEn eski cihazın kaydı otomatik olarak iptal edildi.";
+"This license code has been used with a different email address." =  "Bu lisans kodu farklı bir E-Posta adresiyle kullanılmış.";
+"Unknown Error. Please contact hi@typora.io" = "Bilinmeyen hata. Lütfen hi@typora.io ile iletişime geçin.";
+"Failed to access the license server. Please check your network or try again later." = "Lisans sunucusuna erişilemedi. Lütfen ağınızı kontrol edin veya daha sonra tekrar deneyin.";

@@ -7,7 +7,7 @@
 "Welcome to Typora" = "欢迎使用 Typora";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "感谢您使用 Typora 👋。 Typora 是一个极简风格的 Markdown 编辑器和阅读器，可以提供无缝的编辑和阅读体验。";
 
-"Get Start" = "快速上手";
+"Get Started" = "快速上手";
 "Check following links if you're new to Markdown or Typora." = "如果您未了解过 Markdown 或 Typora，可以点击下列链接了解详情。";
 
 "Activate Typora" = "激活 Typora";
@@ -79,3 +79,7 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "您的序列号激活的设备数量已超过最大数量，\n如您点击 \"继续激活\"，该设备将会被激活，而之前最早被激活的设备将自动取消激活。";
 "Continue Activation" = "继续激活";
+
+"Offline Activation" = "离线激活";
+"Back" = "返回";
+"Get Activation Token" = "获取 Activation Token";

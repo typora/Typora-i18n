@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Esporta e Sovrascrivi Precedenti\" sovrascrive il file %@, vuoi continuare?";
 "Command Arguments:" = "Opzioni Comandi";
-"This beta version of Typora is expired, please download and install a newer version." = "Questa versione Beta di Typora è scaduta, per favore scarica ed installa una versione più recente.";
+"This dev version of Typora is expired, please download and install a newer version." = "Questa versione Dev di Typora è scaduta, per favore scarica ed installa una versione più recente.";
 "Current Theme" = "Tema Corrente";
 "After Export" = "Dopo l'Esportazione";
 "Run command" = "Esegui Comando";

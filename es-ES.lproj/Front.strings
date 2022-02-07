@@ -109,7 +109,7 @@
 "Cannot open folder {0}" = "No se puede abrir la carpeta {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "El contenido del archivo fue cambiado por una aplicación externa. ¿Recargar contenido?";
-"Should continue moving and overwrite exisiting file(s) ?" = "¿Continuar moviendo y sobrescribiendo el(los) archivo(s) existente(s)?";
+"Should continue moving and overwrite existing file(s) ?" = "¿Continuar moviendo y sobrescribiendo el(los) archivo(s) existente(s)?";
 
 "Rename Failed" = "Error al renombrar";
 "Rename to \"{0}\" ?" = "¿Renombrar a \"{0}\" ?";

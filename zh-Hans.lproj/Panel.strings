@@ -438,7 +438,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "”导出并覆盖上一次导出的文件“ 会覆盖位于 %@ 的文件，是否继续?";
 "Command Arguments:" = "命令行：";
-"This beta version of Typora is expired, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
+"This dev version of Typora is expired, please download and install a newer version." = "当前测试版版本过低，请下载较新版本";
 "Current Theme" = "自动使用当前主题";
 "After Export" = "导出后";
 "Run command" = "运行自定义命令";
@@ -500,3 +500,7 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "复制或剪切时，若没有文字被选中，则复制或剪切光标所在的一整行";
 "Enable physics package" = "启用 physics 包";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics 包启用后会重定义一些 LaTeX 宏";
+
+"Detail" = "详情";
+"Use custom font size" = "使用自定义的字体大小";
+"Use theme font size" = "使用主题的字体大小";

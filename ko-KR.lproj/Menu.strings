@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, vreality64, Third9, IdionKim, cog25, wookayin
+ by ryush00, vreality64, Third9, IdionKim, cog25, wookayin, seungjin
 */
 
 /* Typora Menu */
@@ -261,8 +261,8 @@
 "More Options" = "상세 설정";
 
 "HTML Block" = "HTML Block";
-"Delete Block" = "Delete Block";
-"Delete %@" = "Delete %@";
+"Delete Block" = "블럭 삭제";
+"Delete %@" = "%@ 삭제";
 "Play" = "Play";
 "Pause" = "Pause";
 
@@ -294,17 +294,17 @@
 "Selection" = "선택";
 "Start Speaking" = "말하기 시작";
 "Stop Speaking" = "말하기 중단";
-"Check Updates" = "Check Updates";
+"Check Updates" = "업데이트 확인하기";
 
 "HTML (without Styles)" = "HTML (without Styles)";
 
 "Highlight Current Header" = "Highlight Current Header";
-"Expand All" = "Expand All";
-"Collapse All" = "Collapse All";
+"Expand All" = "전부 열기";
+"Collapse All" = "전부 닫기";
 "Collapsible Outline" = "Collapsible Outline";
 "Flat Outline" = "Flat Outline";
-"Articles (List View)" = "Articles (List View)";
-"File Tree (Tree View)" = "File Tree (Tree View)";
+"Articles (List View)" = "문서 간략보기로 나열 (리스트뷰))";
+"File Tree (Tree View)" = "파일이름 나열 (트리뷰)";
 "Filter" = "Filter";
 
 "Upload Image" = "이미지 업로드";
@@ -320,7 +320,7 @@
 
 "Emoji and Symbols" = "이모지 및 기호";
 
-"Insert Final New Line On Save" = "Insert Final New Line On Save";
+"Insert Final New Line On Save" = "저장시 마지막 공백 라인 추가";
 "Hyperlink Actions" = "하이퍼링크 동작";
 "Copy Link Address" = "링크 주소 복사";
 

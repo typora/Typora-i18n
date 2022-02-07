@@ -436,7 +436,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportează și Suprascire cu Anteriorul\" va suprascrie fișierul la %@, doriți să continuați?";
 "Command Arguments:" = "Argumente Comandă:";
-"This beta version of Typora is expired, please download and install a newer version." = "Această versiune beta de Typora a expirat, vă rugam să descărcați și să instalați o veriune nouă.";
+"This dev version of Typora is expired, please download and install a newer version." = "Această versiune dev de Typora a expirat, vă rugam să descărcați și să instalați o veriune nouă.";
 "Current Theme" = "Temă Actuală";
 "After Export" = "După Export";
 "Run command" = "Execută Comandă";

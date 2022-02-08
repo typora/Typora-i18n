@@ -477,11 +477,20 @@
 "This device has been deactivated" = "Thiết bị này đã được kích hoạt";
 "UNREGISTERED" = "CHƯA ĐĂNG KÝ";
 
-"Allow physics package to redefine existing TeX commands" = "Cho phép các gói lệnh vật lý xác định lại các lệnh TeX có sẵn";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Khi được bật, các lệnh như \\div, \\Re sẽ được xử lý bởi các gói vật lý.";
-
 "Your Typora is not activated." = "Typora chưa được kích hoạt.";
 "Your Typora has been activated." = "Typora đã được kích hoạt.";
 "Typora activation is required to change this." = "Bạn cần kích hoạt Typora để thực hiện thay đổi này.";
 "You can reinstall the stable version and then disable this." = "Bạn có thể cài đặt lại phiên bản ổn định và tắt tính năng này.";
 "Update to dev version" = "Cập nhật lên phiên bản dev";
+
+"Typora Server" = "Máy chủ Typora";
+"Use Typora Server in China" = "Sử dụng máy chủ Typora ở Trung Quốc";
+
+"File does not exist" = "Tập tin không tồn tại";
+"Create File" = "Tạo tập tin";
+"Create Folder" = "Tạo thư mục";
+
+"(Some options will be applied after restart.)" = "(Một số tuỳ chọn sẽ có hiệu lực sau khi khởi động lại ứng dụng.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Tự động sao chép hoặc cắt nguyên dòng văn bản có đặt con trỏ chuột, trong trường hợp không tô chọn vùng trước khi thực hiện sao chép / cắt.";
+"Enable physics package" = "Bật gói lệnh vật lý";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Gói lệnh vật lý sẽ xác định lại các latex macros, cụ thể như \\div, \\Re, và nhiều nữa.";

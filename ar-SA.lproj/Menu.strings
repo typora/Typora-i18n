@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "نسخ كترميز HTML";
 "Paste as Plain Text" = "لصق كنص عادي";
 "Select All" = "تحديد الكل";
-"Select Line/Sentence" = "تحديد سطر/جملة";
+"Select Line / Sentence" = "تحديد سطر/جملة";
 "Select Styled Scope" = "تحديد النطاق المُنمط";
 "Select Word" = "تحديد كلمة";
 "Delete" = "حذف";
 "Delete Range" = "حذف النطاق";
 "Delete Word" = "حذف كلمة";
 "Delete Styled Scope" = "حذف النطاق المُنمط";
-"Delete Line/Sentence" = "حذف سطر/جملة";
+"Delete Line / Sentence" = "حذف سطر/جملة";
 "Jump To" = "قفز إلى";
 "Jump to Top" = "قفز إلى الأعلى";
 "Jump to Selection" = "قفز إلى المحدد";
@@ -258,7 +258,7 @@
 "More Options" = "خيارات أكثر";
 
 "HTML Block" = "HTML قالب";
-"Delete Block" = "حذف القالب";
+"Delete Paragraph / Block" = "حذف القالب";
 "Delete %@" = "حذف %@";
 "Play" = "تشغيل";
 "Pause" = "إيقاف مؤقت";

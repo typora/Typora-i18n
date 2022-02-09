@@ -71,14 +71,14 @@
 "Copy as HTML Code" = "Kopi sebagai Kode HTML";
 "Paste as Plain Text" = "Tempel sebagai Teks Biasa";
 "Select All" = "Seleksi Semua";
-"Select Line/Sentence" = "Seleksi Baris/Kalimat";
+"Select Line / Sentence" = "Seleksi Baris/Kalimat";
 "Select Styled Scope" = "Seleksi Skop Gaya"; /* See <https://kbbi.kemdikbud.go.id/entri/skop> */
 "Select Word" = "Seleksi Kata";
 "Delete" = "Hapus";
 "Delete Range" = "Hapus Rentang";
 "Delete Word" = "Hapus Kata";
 "Delete Styled Scope" = "Hapus Skop Gaya";
-"Delete Line/Sentence" = "Hapus Baris/Kalimat";
+"Delete Line / Sentence" = "Hapus Baris/Kalimat";
 "Jump To" = "Lompat ke";
 "Jump to Top" = "Lompat ke Atas";
 "Jump to Selection" = "Lompat ke Seleksi";
@@ -273,7 +273,7 @@
 "More Options" = "Pilihan Lainnya";
 
 "HTML Block" = "Blok HTML";
-"Delete Block" = "Hapus Blok";
+"Delete Paragraph / Block" = "Hapus Blok";
 "Delete %@" = "Hapus %@";
 "Play" = "Putar";
 "Pause" = "Jeda";
@@ -341,4 +341,4 @@
 "My License" = "Lisensi Saya";
 "Registration / Activation" = "Registrasi / Aktivasi";
 
-"Select Paragraph/Block" = "Seleksi Paragraf/Blok";
+"Select Paragraph / Block" = "Seleksi Paragraf/Blok";

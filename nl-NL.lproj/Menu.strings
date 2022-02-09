@@ -59,14 +59,14 @@
 "Copy as HTML Code" = "Kopiëren als HTML-code";
 "Paste as Plain Text" = "Kopiëren als platte tekst";
 "Select All" = "Selecteer alles";
-"Select Line/Sentence" = "Selecteer regel/zin";
+"Select Line / Sentence" = "Selecteer regel/zin";
 "Select Styled Scope" = "Selecteer gestijld bereik";
 "Select Word" = "Selecteer woord";
 "Delete" = "Verwijder";
 "Delete Range" = "Verwijder reeks";
 "Delete Word" = "Verwijder woord";
 "Delete Styled Scope" = "Verwijder gestijld bereik";
-"Delete Line/Sentence" = "Verwijder regel/zin";
+"Delete Line / Sentence" = "Verwijder regel/zin";
 "Jump To" = "Ga naar";
 "Jump to Top" = "Ga naar begin";
 "Jump to Selection" = "Ga naar selectie";
@@ -259,7 +259,7 @@
 "More Options" = "Meer opties";
 
 "HTML Block" = "HTML Blok";
-"Delete Block" = "Blok verwijderen";
+"Delete Paragraph / Block" = "Blok verwijderen";
 "Delete %@" = "Verwijder %@";
 "Play" = "Start";
 "Pause" = "Pauzeer";
@@ -327,5 +327,5 @@
 "My License" = "Mijn licentie";
 "Registration / Activation" = "Registratie / Activatie";
 
-"Select Paragraph/Block" = "Selecteer paragraaf/blok";
+"Select Paragraph / Block" = "Selecteer paragraaf/blok";
 

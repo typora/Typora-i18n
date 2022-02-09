@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "複製為 HTML";
 "Paste as Plain Text" = "以純文字貼上";
 "Select All" = "全選";
-"Select Line/Sentence" = "選擇行/句子";
+"Select Line / Sentence" = "選擇行/句子";
 "Select Styled Scope" = "選擇具格式化的段落";
 "Select Word" = "選擇單字";
 "Delete" = "刪除";
 "Delete Range" = "刪除區段";
 "Delete Word" = "刪除單字";
 "Delete Styled Scope" = "刪除具格式化的段落";
-"Delete Line/Sentence" = "刪除行/句子";
+"Delete Line / Sentence" = "刪除行/句子";
 "Jump To" = "跳到";
 "Jump to Top" = "跳到最上方";
 "Jump to Selection" = "跳到所選處";
@@ -259,7 +259,7 @@
 "More Options" = "更多選項";
 
 "HTML Block" = "HTML 區塊";
-"Delete Block" = "刪除區塊";
+"Delete Paragraph / Block" = "刪除區塊";
 "Delete %@" = "刪除 %@";
 "Play" = "播放";
 "Pause" = "暫停";

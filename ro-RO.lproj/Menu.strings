@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "Copiază ca Cod HTML";
 "Paste as Plain Text" = "Lipește ca Text Simplu";
 "Select All" = "Selectează tot";
-"Select Line/Sentence" = "Selectează Linee/Frază";
+"Select Line / Sentence" = "Selectează Linee/Frază";
 "Select Styled Scope" = "Selectează Bloc";
 "Select Word" = "Selectează Cuvânt";
 "Delete" = "Șterge";
 "Delete Range" = "Șterge Interval";
 "Delete Word" = "Șterge Cuvânt";
 "Delete Styled Scope" = "Șterge Bloc";
-"Delete Line/Sentence" = "Șterge Linee/Frază";
+"Delete Line / Sentence" = "Șterge Linee/Frază";
 "Jump To" = "Salt La";
 "Jump to Top" = "Salt la Început";
 "Jump to Selection" = "Salt la Selecție";
@@ -257,7 +257,7 @@
 "More Options" = "Mai Multe Opțiuni";
 
 "HTML Block" = "Bloc HTML";
-"Delete Block" = "Șterge Bloc";
+"Delete Paragraph / Block" = "Șterge Bloc";
 "Delete %@" = "Șterge %@";
 "Play" = "Rulează";
 "Pause" = "Pauză";

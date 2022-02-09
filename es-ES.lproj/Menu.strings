@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Copiar como código HTML";
 "Paste as Plain Text" = "Pegar como texto plano";
 "Select All" = "Seleccionar todo";
-"Select Line/Sentence" = "Seleccionar línea/frase";
+"Select Line / Sentence" = "Seleccionar línea/frase";
 "Select Styled Scope" = "Selecionar rango con ese estilo";
 "Select Word" = "Seleccionar palabra";
 "Delete" = "Eliminar";
 "Delete Range" = "Eliminar rango";
 "Delete Word" = "Eliminar palabra";
 "Delete Styled Scope" = "Eliminar rango con ese estilo";
-"Delete Line/Sentence" = "Eliminar línea/sentencia";
+"Delete Line / Sentence" = "Eliminar línea/sentencia";
 "Jump To" = "Saltar a";
 "Jump to Top" = "Saltar a arriba";
 "Jump to Selection" = "Saltar a selección";

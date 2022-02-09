@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "HTML Kodu Olarak Kopyala";
 "Paste as Plain Text" = "Düz Yazı Olarak Kopyala";
 "Select All" = "Tümünü Seç";
-"Select Line/Sentence" = "Satırı/Cümleyi Seç";
+"Select Line / Sentence" = "Satırı/Cümleyi Seç";
 "Select Styled Scope" = "Stili Seç";
 "Select Word" = "Kelimeyi Seç";
 "Delete" = "Sil";
 "Delete Range" = "Aralığı Sil";
 "Delete Word" = "Kelimeyi Sil";
 "Delete Styled Scope" = "Stili Sil";
-"Delete Line/Sentence" = "Satırı/Cümleyi Sil";
+"Delete Line / Sentence" = "Satırı/Cümleyi Sil";
 "Jump To" = "Atla";
 "Jump to Top" = "En Tepeye Git";
 "Jump to Selection" = "Seçime Git";
@@ -256,7 +256,7 @@
 "More Options" = "Daha Fazla Seçenek";
 
 "HTML Block" = "HTML Öbeği";
-"Delete Block" = "Öbeği Sil";
+"Delete Paragraph / Block" = "Öbeği Sil";
 "Delete %@" = "%@ 'i Sil";
 "Play" = "Oynat";
 "Pause" = "Duraklat";

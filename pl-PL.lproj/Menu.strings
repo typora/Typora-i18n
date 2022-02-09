@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Kopiuj jako kod HTML";
 "Paste as Plain Text" = "Wklej jako zwykły tekst";
 "Select All" = "Zaznacz wszystko";
-"Select Line/Sentence" = "Zaznacz wiersz/zdanie";
+"Select Line / Sentence" = "Zaznacz wiersz/zdanie";
 "Select Styled Scope" = "Zaznacz stylizowany zakres";
 "Select Word" = "Zaznacz słowo";
 "Delete" = "Usuń";
 "Delete Range" = "Usuń zaznaczenie";
 "Delete Word" = "Usuń słowo";
 "Delete Styled Scope" = "Usuń stylizowany zakres";
-"Delete Line/Sentence" = "Usuń wiersz/zdanie";
+"Delete Line / Sentence" = "Usuń wiersz/zdanie";
 "Jump To" = "Przeskocz do";
 "Jump to Top" = "Przeskocz na początek";
 "Jump to Selection" = "Przeskocz do zaznaczenia";
@@ -256,7 +256,7 @@
 "More Options" = "Więcej opcji";
 
 "HTML Block" = "Blok HTML";
-"Delete Block" = "Usuń blok";
+"Delete Paragraph / Block" = "Usuń blok";
 "Delete %@" = "Usuń %@";
 "Play" = "Odtwórz";
 "Pause" = "Wstrzymaj";

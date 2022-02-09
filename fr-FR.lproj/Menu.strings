@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Copier au format code HTML";
 "Paste as Plain Text" = "Coller au format texte brut";
 "Select All" = "Sélectionner tout";
-"Select Line/Sentence" = "Sélectionner ligne/phrase";
+"Select Line / Sentence" = "Sélectionner ligne/phrase";
 "Select Styled Scope" = "Sélectionner bloc";
 "Select Word" = "Sélectionner mot";
 "Delete" = "Supprimer";
 "Delete Range" = "Supprimer...";
 "Delete Word" = "Supprimer le mot";
 "Delete Styled Scope" = "Supprimer le bloc";
-"Delete Line/Sentence" = "Supprimer la ligne/phrase";
+"Delete Line / Sentence" = "Supprimer la ligne/phrase";
 "Jump To" = "Aller à";
 "Jump to Top" = "Aller tout en haut";
 "Jump to Selection" = "Aller à la sélection";
@@ -256,7 +256,7 @@
 "More Options" = "Plus d’options";
 
 "HTML Block" = "Bloc HTML";
-"Delete Block" = "Supprimer le Bloc";
+"Delete Paragraph / Block" = "Supprimer le Bloc";
 "Delete %@" = "Supprimer %@";
 "Play" = "Lancer";
 "Pause" = "Pause";
@@ -324,4 +324,4 @@
 "My License" = "Ma Licence";
 "Registration / Activation" = "Enregistrement / Activation";
 
-"Select Paragraph/Block" = "Sélectionner le paragraphe / bloc";
+"Select Paragraph / Block" = "Sélectionner le paragraphe / bloc";

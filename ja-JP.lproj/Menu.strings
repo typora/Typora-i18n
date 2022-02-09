@@ -62,14 +62,14 @@ Japanese translated by
 "Copy as HTML Code" = "HTMLとしてコピー";
 "Paste as Plain Text" = "テキストとして貼り付け";
 "Select All" = "すべてを選択";
-"Select Line/Sentence" = "行・文を選択";
+"Select Line / Sentence" = "行・文を選択";
 "Select Styled Scope" = "連続書式を選択";
 "Select Word" = "単語を選択";
 "Delete" = "削除";
 "Delete Range" = "選択範囲を削除";
 "Delete Word" = "単語を削除";
 "Delete Styled Scope" = "連続書式内のテキストを削除";
-"Delete Line/Sentence" = "行・文を削除";
+"Delete Line / Sentence" = "行・文を削除";
 "Jump To" = "ジャンプ";
 "Jump to Top" = "冒頭にジャンプ";
 "Jump to Selection" = "選択範囲にジャンプ";
@@ -264,7 +264,7 @@ Japanese translated by
 "More Options" = "高度な設定";
 
 "HTML Block" = "HTMLブロック";
-"Delete Block" = "ブロックを削除する";
+"Delete Paragraph / Block" = "ブロックを削除する";
 "Delete %@" = "%@ を削除";
 "Play" = "再生";
 "Pause" = "一時停止";

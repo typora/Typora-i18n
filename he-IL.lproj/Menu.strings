@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "העתק בתור קוד HTML";
 "Paste as Plain Text" = "העתק בתור טקסט רגיל";
 "Select All" = "בחר הכל";
-"Select Line/Sentence" = "בחר שורה/משפט";
+"Select Line / Sentence" = "בחר שורה/משפט";
 "Select Styled Scope" = "בחר קטע מעוצב";
 "Select Word" = "בחר מילה";
 "Delete" = "מחר";
 "Delete Range" = "מחק טווח";
 "Delete Word" = "מחק מילה";
 "Delete Styled Scope" = "מחק קטע מעוצב";
-"Delete Line/Sentence" = "מחק שורה/משפט";
+"Delete Line / Sentence" = "מחק שורה/משפט";
 "Jump To" = "קפוץ ל";
 "Jump to Top" = "קפוץ למעלה";
 "Jump to Selection" = "קפוץ לחלק המסומן";
@@ -258,7 +258,7 @@
 "More Options" = "אפשרויות נוספות";
 
 "HTML Block" = "בלוק HTML";
-"Delete Block" = "מחק בלוק";
+"Delete Paragraph / Block" = "מחק בלוק";
 "Delete %@" = "מחק %@";
 "Play" = "נגן";
 "Pause" = "עצור";

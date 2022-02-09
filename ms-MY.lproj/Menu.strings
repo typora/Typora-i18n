@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "Salin sebagai Kod HTML";
 "Paste as Plain Text" = "Tampal sebagai Teks Biasa";
 "Select All" = "Pilih Semua";
-"Select Line/Sentence" = "Pilih Barisan/Ayat";
+"Select Line / Sentence" = "Pilih Barisan/Ayat";
 "Select Styled Scope" = "Pilih Skop Bergaya";
 "Select Word" = "Pilih Perkataan";
 "Delete" = "Padam";
 "Delete Range" = "Padam Julat";
 "Delete Word" = "Padam Perkataan";
 "Delete Styled Scope" = "Padam Skop Bergaya";
-"Delete Line/Sentence" = "Padam Barisan/Ayat";
+"Delete Line / Sentence" = "Padam Barisan/Ayat";
 "Jump To" = "Lompat Ke";
 "Jump to Top" = "Lompat ke Atas";
 "Jump to Selection" = "Lompat ke Pilihan";
@@ -257,7 +257,7 @@
 "More Options" = "Pilihan Lanjut";
 
 "HTML Block" = "Blok HTML";
-"Delete Block" = "Padam Blok";
+"Delete Paragraph / Block" = "Padam Blok";
 "Delete %@" = "Padam %@";
 "Play" = "Main Semula";
 "Pause" = "Henti Seketika";
@@ -325,4 +325,4 @@
 "My License" = "Lesen Saya";
 "Registration / Activation" = "Pendaftaran / Pengaktifan";
 
-"Select Paragraph/Block" = "Pilih Perenggan/Blok";
+"Select Paragraph / Block" = "Pilih Perenggan/Blok";

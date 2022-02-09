@@ -58,14 +58,14 @@
 "Copy as HTML Code" = "Kopier som HTML";
 "Paste as Plain Text" = "Indsæt som tekst";
 "Select All" = "Vælg alt";
-"Select Line/Sentence" = "Vælg linje/sætning";
+"Select Line / Sentence" = "Vælg linje/sætning";
 "Select Styled Scope" = "Vælg formatteret blok";
 "Select Word" = "Vælg ord";
 "Delete" = "Slet";
 "Delete Range" = "Slet område";
 "Delete Word" = "Slet ord";
 "Delete Styled Scope" = "Slet formatteret blok";
-"Delete Line/Sentence" = "Slet linje/sætning";
+"Delete Line / Sentence" = "Slet linje/sætning";
 "Jump To" = "Gå til";
 "Jump to Top" = "Gå til top";
 "Jump to Selection" = "Gå til markering";
@@ -260,7 +260,7 @@
 "More Options" = "Flere indstillinger";
 
 "HTML Block" = "HTML blok";
-"Delete Block" = "Slet blok";
+"Delete Paragraph / Block" = "Slet blok";
 "Delete %@" = "Slet %@";
 "Play" = "Afspil";
 "Pause" = "Pause";

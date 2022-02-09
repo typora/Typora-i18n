@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "کپی به عنوان کد HTML";
 "Paste as Plain Text" = "چسباندن به عنوان متن ساده";
 "Select All" = "انتخاب همه";
-"Select Line/Sentence" = "انتخاب خط/جمله";
+"Select Line / Sentence" = "انتخاب خط/جمله";
 "Select Styled Scope" = "انتخاب دامنه محتوی";
 "Select Word" = "انتخاب کلمه";
 "Delete" = "حذف";
 "Delete Range" = "حذف محدوده";
 "Delete Word" = "حذف کلمه";
 "Delete Styled Scope" =  "حذف دامنه محتوی";
-"Delete Line/Sentence" = "حذف خط/جمله";
+"Delete Line / Sentence" = "حذف خط/جمله";
 "Jump To" = "پرش به";
 "Jump to Top" = "پرش به بالا";
 "Jump to Selection" = "برش به انتخاب شده";
@@ -257,7 +257,7 @@
 "More Options" = "گزینه های بیشتر";
 
 "HTML Block" = "HTML بلوک";
-"Delete Block" = "حذف بلاک";
+"Delete Paragraph / Block" = "حذف بلاک";
 "Delete %@" = "حذف %@";
 "Play" = "پخش";
 "Pause" = "مکث";

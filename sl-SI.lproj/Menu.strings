@@ -59,14 +59,14 @@
 "Copy as HTML Code" = "Kopiraj kot HTML kodo";
 "Paste as Plain Text" = "Prilepi kot golo besedilo";
 "Select All" = "Izberi vse";
-"Select Line/Sentence" = "Izberi vrstico/stavek";
+"Select Line / Sentence" = "Izberi vrstico/stavek";
 "Select Styled Scope" = "Izberi obseg trenutnega stila";
 "Select Word" = "Izberi besedo";
 "Delete" = "Izbriši";
 "Delete Range" = "Izbriši obseg";
 "Delete Word" = "Izbriši besedo";
 "Delete Styled Scope" = "Izbriši obseg trenutnega stila";
-"Delete Line/Sentence" = "Izbriši vrstico/stavek";
+"Delete Line / Sentence" = "Izbriši vrstico/stavek";
 "Jump To" = "Pojdi na";
 "Jump to Top" = "Pojdi na vrh";
 "Jump to Selection" = "Pojdi na označeno";
@@ -260,7 +260,7 @@
 "More Options" = "Več možnosti";
 
 "HTML Block" = "HTML blok";
-"Delete Block" = "Izbriši blok";
+"Delete Paragraph / Block" = "Izbriši blok";
 "Delete %@" = "Izbriši %@";
 "Play" = "Predvajaj";
 "Pause" = "Premor";
@@ -328,4 +328,4 @@
 "My License" = "Moja licenca";
 "Registration / Activation" = "Registracija / Aktivacija";
 
-"Select Paragraph/Block" = "Izberi odstavek/blok";
+"Select Paragraph / Block" = "Izberi odstavek/blok";

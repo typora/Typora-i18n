@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Kopiera som HTML";
 "Paste as Plain Text" = "Klistra in utan formattering";
 "Select All" = "Markera allt";
-"Select Line/Sentence" = "Markera rad/mening";
+"Select Line / Sentence" = "Markera rad/mening";
 "Select Styled Scope" = "Markera formaterat område";
 "Select Word" = "Markera ord";
 "Delete" = "Radera";
 "Delete Range" = "Radera intervall";
 "Delete Word" = "Radera ord";
 "Delete Styled Scope" = "Radera formaterat område";
-"Delete Line/Sentence" = "Radera rad/mening";
+"Delete Line / Sentence" = "Radera rad/mening";
 "Jump To" = "Gå till";
 "Jump to Top" = "Gå till toppen";
 "Jump to Selection" = "Gå till markering";
@@ -258,7 +258,7 @@
 "More Options" = "Fler Val";
 
 "HTML Block" = "HTML Block";
-"Delete Block" = "Ta bort Block";
+"Delete Paragraph / Block" = "Ta bort Block";
 "Delete %@" = "Ta bort %@";
 "Play" = "Spela";
 "Pause" = "Pausa";

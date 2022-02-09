@@ -63,14 +63,14 @@
 "Copy as HTML Code" = "Kopírovat jako HTML";
 "Paste as Plain Text" = "Vložit jako prostý text";
 "Select All" = "Vybrat vše";
-"Select Line/Sentence" = "Vybrat řádek/větu";
+"Select Line / Sentence" = "Vybrat řádek/větu";
 "Select Styled Scope" = "Vybrat rozsah stylu";
 "Select Word" = "Vybrat slovo";
 "Delete" = "Smazat";
 "Delete Range" = "Smazat rozsah";
 "Delete Word" = "Smazat slovo";
 "Delete Styled Scope" = "Smazat stylizovaný rozsah";
-"Delete Line/Sentence" = "Vymazat řádek/větu";
+"Delete Line / Sentence" = "Vymazat řádek/větu";
 "Jump To" = "Přejít na";
 "Jump to Top" = "Přejít na začátek";
 "Jump to Selection" = "Přejít na výběr";
@@ -264,7 +264,7 @@
 "More Options" = "Více nastavení";
 
 "HTML Block" = "Blok HTML";
-"Delete Block" = "Smazat Blok";
+"Delete Paragraph / Block" = "Smazat Blok";
 "Delete %@" = "Smazat %@";
 "Play" = "Přehrát";
 "Pause" = "Pozastavit";

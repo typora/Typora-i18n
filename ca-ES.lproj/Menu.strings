@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Copia com a codi HTML";
 "Paste as Plain Text" = "Enganxa com a text sense format";
 "Select All" = "Selecciona-ho tot";
-"Select Line/Sentence" = "Selecciona una línia/frase";
+"Select Line / Sentence" = "Selecciona una línia/frase";
 "Select Styled Scope" = "Selecciona un àmbit d'estil";
 "Select Word" = "Selecciona una paraula";
 "Delete" = "Elimina";
 "Delete Range" = "Elimina el rang";
 "Delete Word" = "Elimina la paraula";
 "Delete Styled Scope" = "Elimina l'àmbit d'estil";
-"Delete Line/Sentence" = "Elimina la línia/frase";
+"Delete Line / Sentence" = "Elimina la línia/frase";
 "Jump To" = "Vés a";
 "Jump to Top" = "Vés al capdamunt";
 "Jump to Selection" = "Vés a la selecció";
@@ -256,7 +256,7 @@
 "More Options" = "Més opcions";
 
 "HTML Block" = "Bloc HTML";
-"Delete Block" = "Elimina el bloc";
+"Delete Paragraph / Block" = "Elimina el bloc";
 "Delete %@" = "Elimina %@";
 "Play" = "Reprodueix";
 "Pause" = "Pausa";
@@ -324,4 +324,4 @@
 "My License" = "La meva llicència";
 "Registration / Activation" = "Registre / Activació";
 
-"Select Paragraph/Block" = "Selecciona el paràgraf/bloc";
+"Select Paragraph / Block" = "Selecciona el paràgraf/bloc";

@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Copy as HTML Code";
 "Paste as Plain Text" = "Paste as Plain Text";
 "Select All" = "Select All";
-"Select Line/Sentence" = "Select Line/Sentence";
+"Select Line / Sentence" = "Select Line / Sentence";
 "Select Styled Scope" = "Select Styled Scope";
 "Select Word" = "Select Word";
 "Delete" = "Delete";
 "Delete Range" = "Delete Range";
 "Delete Word" = "Delete Word";
 "Delete Styled Scope" = "Delete Styled Scope";
-"Delete Line/Sentence" = "Delete Line/Sentence";
+"Delete Line / Sentence" = "Delete Line / Sentence";
 "Jump To" = "Jump To";
 "Jump to Top" = "Jump to Top";
 "Jump to Selection" = "Jump to Selection";
@@ -256,7 +256,7 @@
 "More Options" = "More Options";
 
 "HTML Block" = "HTML Block";
-"Delete Block" = "Delete Block";
+"Delete Paragraph / Block" = "Delete Paragraph / Block";
 "Delete %@" = "Delete %@";
 "Play" = "Play";
 "Pause" = "Pause";
@@ -324,4 +324,4 @@
 "My License" = "My License";
 "Registration / Activation" = "Registration / Activation";
 
-"Select Paragraph/Block" = "Select Paragraph/Block";
+"Select Paragraph / Block" = "Select Paragraph / Block";

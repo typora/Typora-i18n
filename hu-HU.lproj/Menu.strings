@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Másolás HTML-ként";
 "Paste as Plain Text" = "Beillesztés formázás nélkül";
 "Select All" = "Összes kijelölése";
-"Select Line/Sentence" = "Sor/mondat kijelölése";
+"Select Line / Sentence" = "Sor/mondat kijelölése";
 "Select Styled Scope" = "Azonos stílus kiválasztása";
 "Select Word" = "Szó kijelölése";
 "Delete" = "Törlés";
 "Delete Range" = "Tartomány törlése";
 "Delete Word" = "Szó törlése";
 "Delete Styled Scope" = "Azonos stílus törlése";
-"Delete Line/Sentence" = "Sor/mondat törlése";
+"Delete Line / Sentence" = "Sor/mondat törlése";
 "Jump To" = "Ugrás";
 "Jump to Top" = "Ugrás a tetejére";
 "Jump to Selection" = "Ugrás a kijelölésre";
@@ -256,7 +256,7 @@
 "More Options" = "További beállítások";
 
 "HTML Block" = "HTML doboz";
-"Delete Block" = "Doboz törlése";
+"Delete Paragraph / Block" = "Doboz törlése";
 "Delete %@" = "%@ törlése";
 "Play" = "Lejátszás";
 "Pause" = "Szünet";
@@ -324,4 +324,4 @@
 "My License" = "Licencem";
 "Registration / Activation" = "Regisztráció / aktiválás";
 
-"Select Paragraph/Block" = "Bekezdés/blokk kijelölése";
+"Select Paragraph / Block" = "Bekezdés/blokk kijelölése";

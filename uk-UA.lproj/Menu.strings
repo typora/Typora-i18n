@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Скопіювати як HTML-код";
 "Paste as Plain Text" = "Вставити як звичайний текст";
 "Select All" = "Виділити все";
-"Select Line/Sentence" = "Виділити рядок/речення";
+"Select Line / Sentence" = "Виділити рядок/речення";
 "Select Styled Scope" = "Виділити діапазон із цим стилем";
 "Select Word" = "Виділити слово";
 "Delete" = "Видалити";
 "Delete Range" = "Видалити діапазон";
 "Delete Word" = "Видалити слово";
 "Delete Styled Scope" = "Видалити діапазон із цим стилем";
-"Delete Line/Sentence" = "Видалити рядок/речення";
+"Delete Line / Sentence" = "Видалити рядок/речення";
 "Jump To" = "Перейти до";
 "Jump to Top" = "Перейти нагору";
 "Jump to Selection" = "Перейти до виділеного";
@@ -258,7 +258,7 @@
 "More Options" = "Більше опцій";
 
 "HTML Block" = "Блок HTML";
-"Delete Block" = "Видалити блок";
+"Delete Paragraph / Block" = "Видалити блок";
 "Delete %@" = "Видалити %@";
 "Play" = "Грати";
 "Pause" = "Пауза";

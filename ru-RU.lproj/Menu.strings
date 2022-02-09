@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "Копировать как HTML";
 "Paste as Plain Text" = "Вставить как обычный текст";
 "Select All" = "Выделить все";
-"Select Line/Sentence" = "Выбрать строку/предложение";
+"Select Line / Sentence" = "Выбрать строку/предложение";
 "Select Styled Scope" = "Выбрать стилизованную область";
 "Select Word" = "Выделить слово";
 "Delete" = "Удалить";
 "Delete Range" = "Удалить диапазон";
 "Delete Word" = "Удалить слово";
 "Delete Styled Scope" = "Удалить стилизованную область";
-"Delete Line/Sentence" = "Удалить строку/предложение";
+"Delete Line / Sentence" = "Удалить строку/предложение";
 "Jump To" = "Перейти к";
 "Jump to Top" = "Перейти к началу страницы";
 "Jump to Selection" = "Перейти к выделенному";
@@ -256,7 +256,7 @@
 "More Options" = "Дополнительные параметры";
 
 "HTML Block" = "HTML блок";
-"Delete Block" = "Удалить блок";
+"Delete Paragraph / Block" = "Удалить блок";
 "Delete %@" = "Удалить %@";
 "Play" = "Воспроизвести";
 "Pause" = "Приостановить";
@@ -324,4 +324,4 @@
 "My License" = "Моя лицензия";
 "Registration / Activation" = "Регистрация / Активация";
 
-"Select Paragraph/Block" = "Выберите абзац/блок";
+"Select Paragraph / Block" = "Выберите абзац/блок";

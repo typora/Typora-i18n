@@ -58,14 +58,14 @@
 "Copy as HTML Code" = "Kopírovať ako HTML";
 "Paste as Plain Text" = "Vložiť ako obyčajný text";
 "Select All" = "Vybrať všetko";
-"Select Line/Sentence" = "Vybrať riadok/vetu";
+"Select Line / Sentence" = "Vybrať riadok/vetu";
 "Select Styled Scope" = "Vybrať štylizovanou oblasť";
 "Select Word" = "Vybrať slovo";
 "Delete" = "Vymazať";
 "Delete Range" = "Vymazať rozsah";
 "Delete Word" = "Vymazať slovo";
 "Delete Styled Scope" = "Vymazať štylizovanou oblasť";
-"Delete Line/Sentence" = "Vymazať riadok/vetu";
+"Delete Line / Sentence" = "Vymazať riadok/vetu";
 "Jump To" = "Prejsť na";
 "Jump to Top" = "Prejsť na začiatok";
 "Jump to Selection" = "Prejsť na výber";
@@ -260,7 +260,7 @@
 "More Options" = "Ďalšie možnosti";
 
 "HTML Block" = "HTML blok";
-"Delete Block" = "Vymazať blok";
+"Delete Paragraph / Block" = "Vymazať blok";
 "Delete %@" = "Vymazať %@";
 "Play" = "Prehrať";
 "Pause" = "Pozastaviť";

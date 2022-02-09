@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "Sao chép theo dạng HTML Code";
 "Paste as Plain Text" = "Dán theo dạng văn bản gốc";
 "Select All" = "Chọn tất cả";
-"Select Line/Sentence" = "Chọn dòng/câu";
+"Select Line / Sentence" = "Chọn dòng/câu";
 "Select Styled Scope" = "Chọn theo kiểu định dạng";
 "Select Word" = "Chọn từ";
 "Delete" = "Xoá";
 "Delete Range" = "Xoá theo vùng";
 "Delete Word" = "Xoá theo từ";
 "Delete Styled Scope" = "Xoá theo kiểu định dạng";
-"Delete Line/Sentence" = "Xoá dòng/câu";
+"Delete Line / Sentence" = "Xoá dòng/câu";
 "Jump To" = "Nhảy đến";
 "Jump to Top" = "Nhảy về trên cùng";
 "Jump to Selection" = "Nhảy đến phần đã chọn";
@@ -257,7 +257,7 @@
 "More Options" = "Tuỳ chọn khác";
 
 "HTML Block" = "Khối HTML";
-"Delete Block" = "Xoá khối";
+"Delete Paragraph / Block" = "Xoá khối";
 "Delete %@" = "Xoá %@";
 "Play" = "Phát";
 "Pause" = "Tạm dừng";
@@ -325,4 +325,4 @@
 "My License" = "Giấy phép của tôi";
 "Registration / Activation" = "Đăng ký / Kích hoạt";
 
-"Select Paragraph/Block" = "Chọn Đoạn văn/Khối";
+"Select Paragraph / Block" = "Chọn Đoạn văn/Khối";

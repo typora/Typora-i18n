@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, vreality64, Third9, IdionKim, cog25, wookayin, seungjin
+ by ryush00, vreality64, Third9, IdionKim, cog25, wookayin, seungjin, Corea
 */
 
 /* Typora Menu */
@@ -130,7 +130,7 @@
 "Footnotes" = "각주";
 "Horizontal Line" = "수평선";
 "Table of Contents" = "목차";
-"YAML Front Matter" = "YAML Front Matter";
+"YAML Front Matter" = "YAML 말머리";
 
 /* Format Menu */
 "Format" = "서식";

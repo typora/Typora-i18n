@@ -303,9 +303,9 @@
 "Download Update" = "Pobierz aktualizację";
 "New version available." = "Dostępna nowa wersja.";
 
-"When copy / export as HTML (without style)" = "Podczas kopiowania/eksportowania jako HTML (bez stylów)";
-"Use Rendered SVG" = "używaj renderowanego SVG";
-"Use LaTeX Source" = "używaj źródła LaTeX";
+"When copy / export as HTML (without style)" = "Do kopiowania/eksportowania jako HTML (bez stylów)";
+"Use Rendered SVG" = "użyj renderowanego SVG";
+"Use LaTeX Source" = "użyj źródła LaTeX";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ma zastosowanie podczas eksportowania jako HTML (bez stylów) albo kopiowania bez stylu motywu.<br/>Po wybraniu <strong>używaj źródła LaTeX</strong> Typora wstawi czyste źródło LaTeX (np. $X^2$).<br/>Po wybraniu <strong>używaj renderowanego SVG</strong>, zostanie użyty wyrenderowana grafika SVG; po wklejeniu tekstu do innej aplikacji obraz SVG może zostać pominięty.</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Funkcja importowania i kilka formatów eksportowania wymagają zainstalowanego modułu Pandoc (≥%@).";
@@ -410,7 +410,7 @@
 "Margin Right" = "Prawy margines";
 "Margin Top" = "Górny margines";
 "Margin Bottom" = "Dolny margines";
-"Width x Height" = "Szerokość x wysokość";
+"Width x Height" = "Szer. x wys.";
 "Add From a Template" = "Dodaj z szablonu";
 "Delete this export option ?" = "Usunąć tę opcję eksportu?";
 "Add" = "Dodaj";
@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksportuj i zastąp z ostatnimi ustawieniami\" zastąpi plik w %@. Kontynuować?";
 "Command Arguments:" = "Argumenty wiersza poleceń:";
-"This dev version of Typora is expired, please download and install a newer version." = "Ta wersja dev programu Typora wygasła. Pobierz i zainstaluj nowszą wersję.";
+"This dev version of Typora is expired, please download and install a newer version." = "Ta wersja deweloperska programu Typora wygasła. Pobierz i zainstaluj nowszą wersję.";
 "Current Theme" = "Obecny motyw";
 "After Export" = "Po wyeksportowaniu";
 "Run command" = "Wykonaj polecenie";
@@ -494,3 +494,7 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Skopiuj albo wytnij całe linie, nad którymi znajduje się kursor, jeżeli nie dokonano zaznaczenia podczas kopiowania/wycinania.";
 "Enable physics package" = "Włącz pakiet fizyki";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Pakiet fizyki zmieni definicje niektórych makr latex takich jak \\div, \\Re itp.";
+
+"Detail" = "Szczegółowość";
+"Use custom font size" = "Użyj własnego rozmiaru czcionki";
+"Use theme font size" = "Użyj rozmiaru czcionki z motywu";

@@ -71,7 +71,6 @@
 "Please input a valid email address" = "Podaj poprawny adres email";
 "Please input a valid license code"  = "Podaj poprawny kod licencyjny";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Przekroczono maksymalną liczbę urządzeń w ramach Twojej licencji.\nNajstarsze urządzenie zostało automatycznie wyrejestrowane.";
-
 "This license code has been used with a different email address." =  "Ten kod licencyjny został użyty z innym adresem email.";
 "Unknown Error. Please contact hi@typora.io" = "Nieznany błąd. Skontaktuj się z hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Nie udało się nawiązać połączenia z serwerem licencji. Spróbuj później.";
@@ -81,3 +80,10 @@
 "Email address confirmation does not match." = "Podane adresy email nie są takie same.";
 
 "Are you sure to deactivate Typora on this device?" = "Na pewno zdezaktywować Typorę na tym urządzeniu?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Przekroczono maksymalną liczbę urządzeń w ramach Twojej licencji.\nJeśli kliknijesz \„Kontynuuj aktywację\”, to urządzenie zostanie aktywowane, a najstarsze urządzenie automatycznie wyrejestrowane.";
+"Continue Activation" = "Kontynuuj aktywację";
+
+"Offline Activation" = "Aktywacja offline";
+"Back" = "Powrót";
+"Get Activation Token" = "Pobierz token aktywacyjny";

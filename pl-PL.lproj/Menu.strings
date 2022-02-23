@@ -256,7 +256,7 @@
 "More Options" = "Więcej opcji";
 
 "HTML Block" = "Blok HTML";
-"Delete Paragraph / Block" = "Usuń blok";
+"Delete Paragraph / Block" = "Usuń akapit/blok";
 "Delete %@" = "Usuń %@";
 "Play" = "Odtwórz";
 "Pause" = "Wstrzymaj";
@@ -323,3 +323,5 @@
 
 "My License" = "Moja licencja";
 "Registration / Activation" = "Rejestracja/aktywacja";
+
+"Select Paragraph / Block" = "Zaznacz akapit/blok";

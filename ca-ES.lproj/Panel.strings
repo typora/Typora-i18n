@@ -33,7 +33,7 @@
 /* Editor Panel */
 "Editor" = "Editor";
 "Indent Size on Save" = "Mida del sagnat en desar";
-"only apply to quotes and lists created from menu bar or hybrid view" = "només s'aplica per a cites i llistes creades des de la barra de menú o la vista hibrida";
+"only apply to quotes and lists created from menu bar or hybrid view" = "només s'aplica per a cites i llistes creades des de la barra de menú o la vista híbrida";
 "Trigger Autocomplete without ESC key for" = "Activa l'emplenament automàtic sense la tecla ESC per a";
 "Emoji (e.g. :smile:)" = "Emoji (p. ex. :smile:)";
 "Images Insert" = "Inserció d'imatges";
@@ -76,7 +76,7 @@
 /* Security Panel */
 "Security" = "Seguretat";
 "Enable Debug" = "Habilita la depuració";
-"Send Anonymous Usage Info" = "Envia un informe anònim d'usabilitat";
+"Send Anonymous Usage Info" = "Envia un informe anònim d'ús";
 
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "Requereix el Pandoc per a continuar...";
@@ -116,7 +116,7 @@
 "Exporting file using Pandoc. This may take some time." = "S'està exportant el fitxer amb el Pandoc. Això pot trigar un temps.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "S'estan pujant imatges via iPic...";
+"Uploading Images via iPic..." = "S'estàn pujant imatges via iPic...";
 "Uploading in progress…" = "Pujada en curs…";
 "Do not show this again" = "No mostris de nou";
 

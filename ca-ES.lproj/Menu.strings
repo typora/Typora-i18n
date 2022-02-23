@@ -13,7 +13,7 @@
 "Services" = "Serveis";
 "Hide Typora" = "Amaga el Typora";
 "Hide Others" = "Amaga altres";
-"Show All" = "Mosta-ho tot";
+"Show All" = "Mostra-ho tot";
 "Quit Typora" = "Surt del Typora";
 
 /* File Menu */
@@ -30,7 +30,7 @@
 "No Recent Files" = "No hi ha fitxers recents";
 "Open Quickly" = "Obre ràpidament";
 "Open File Location" = "Obre la ubicació del fitxer";
-"Reveal in Library" = "Mostra a la bilbioteca"; /* Needs context */
+"Reveal in Library" = "Mostra a la biblioteca"; /* Needs context */
 "Reveal in File Tree" = "Mostra a l'arbre de fitxers";
 "Close" = "Tanca";
 "Save" = "Desa";
@@ -249,7 +249,7 @@
 "Reopen Closed File" = "Reobre el fitxer tancat";
 
 "Global Image Settings" = "Configuració global d'imatges";
-"Smart Punctuation" = "Punctuació intel·ligent";
+"Smart Punctuation" = "Puntuació intel·ligent";
 "Convert on Input" = "Converteix en introduir";
 "Convert on Rendering" = "Converteix en renderitzar";
 "Remap Unicode Punctuation on Parse" = "Reassigna la puntuació Unicode en analitzar";
@@ -295,7 +295,7 @@
 "Expand All" = "Expandeix-ho tot";
 "Collapse All" = "Col·lapsa-ho tot";
 "Collapsible Outline" = "Esquema col·lapsable";
-"Flat Outline" = "Esquema plà";
+"Flat Outline" = "Esquema pla";
 "Articles (List View)" = "Articles (vista de llista)";
 "File Tree (Tree View)" = "Arbre de fitxers (vista d'arbre)";
 "Filter" = "Filtre";

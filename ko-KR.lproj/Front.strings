@@ -24,15 +24,15 @@
 "Error" = "오류";
 
 /* Search Panel */
-"Search" = "검색";
+"Search" = "찾기";
 "Replace" = "바꾸기";
 "All" = "모두";
 "Search text not found in article" = "문서에서 텍스트를 찾지 못했습니다";
-"search text" = "검색할 텍스트";
+"search text" = "찾을 텍스트";
 
 /* Quick Open */
 "Search by file name" = "파일 이름으로 찾기";
-"Searching" = "검색";
+"Searching" = "찾는 중";
 "Gathering more results" = "더 많은 결과 보기";
 
 /* Tables */

@@ -202,3 +202,6 @@
 
 "You are not supposed to edit or save this file." = "Anda tidak seharusnya mengedit atau menyimpan fail ini.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Fail di lokasi ini (%@) dikelola oleh Typora, dan dapat dihapus secara otomatis.<br/>Silakan salin konten ke fail baru untuk pengeditan lebih lanjut.";
+
+"File does not exist at path %@." = "Fail tidak eksis di jalur %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Fail tidak eksis di jalur %@, apakah Anda ingin membuatnya di jalur itu?";

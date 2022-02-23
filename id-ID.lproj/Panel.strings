@@ -502,3 +502,19 @@
 "Typora activation is required to change this." = "Aktivasi Typora diperlukan untuk mengubah ini.";
 "You can reinstall the stable version and then disable this." = "Anda dapat menginstalulang versi stabil dan kemudian menonaktifkan ini.";
 "Update to dev version" = "Perbarui ke versi developer";
+
+"Typora Server" = "Server Typora";
+"Use Typora Server in China" = "Gunakan Server Typora di China";
+
+"File does not exist" = "Fail tidak eksis";
+"Create File" = "Buat Fail";
+"Create Folder" = "Buat Folder";
+
+"(Some options will be applied after restart.)" = "(Beberapa opsi akan diterapkan setelah kembali mulai.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Kopi atau potong seluruh baris yang memiliki kursor di atasnya, jika tidak ada pilihan saat melakukan kopi / potong.";
+"Enable physics package" = "Aktifkan paket fisika";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Paket Fisika akan mendefinisikan kembali beberapa makro latex, seperti \\div, \\Re, dll.";
+
+"Detail" = "Detail";
+"Use custom font size" = "Gunakan ukuran fon kostum";
+"Use theme font size" = "Gunakan ukuran fon tema";

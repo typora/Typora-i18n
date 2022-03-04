@@ -58,11 +58,11 @@
 "Themes" = "Tema";
 "Write in the theme you like, or make one by your own." = "Tulis dalam tema yang Anda suka, atau buat sendiri.";
 "And more" = "Dan lainnya";
-"Explorer more topics at support.typora.io" = "Eksplorasi topik lainnya di support.typora.io"; /* See <https://kbbi.kemdikbud.go.id/entri/eksplorasi> */
+"Explore more topics at support.typora.io" = "Eksplorasi topik lainnya di support.typora.io"; /* See <https://kbbi.kemdikbud.go.id/entri/eksplorasi> */
 
 "Quick Start" = "Mulai Segera"; /* See <https://kbbi.kemdikbud.go.id/entri/segera> */
 "Markdown Reference" = "Referensi Markdown";
-"Explorer Themes" = "Eksplorasi Tema";
+"Explore Themes" = "Eksplorasi Tema";
 "More Topics" = "Topik Lainnya";
 
 "Typora Activated" = "Typora Diaktifkan";

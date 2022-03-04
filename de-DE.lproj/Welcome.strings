@@ -48,12 +48,12 @@
 "Write in the theme you like, or make one by your own." = "Schreib in dem Thema, dass dir gefällt oder erstelle ein eigenes.";
 "And more" = "Und mehr";
 /* Use "Thematiken" as translation for "topic" to differentiate between theme and topic. Otherwise, if used "Thema" instead, the same word ("Thema") would be used for theme and topic. */
-"Explorer more topics at support.typora.io" = "Erfahre über mehr Thematiken auf support.typora.io";
+"Explore more topics at support.typora.io" = "Erfahre über mehr Thematiken auf support.typora.io";
 
 "Quick Start" = "Schnellstart";
 "Markdown Reference" = "Markdown Referenz";
 /* See previous comment in line 46 */
-"Explorer Themes" = "Erkunde Themen";
+"Explore Themes" = "Erkunde Themen";
 "More Topics" = "Mehr Thematiken";
 
 "Typora Activated" = "Typora Aktiviert";

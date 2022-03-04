@@ -498,3 +498,6 @@
 "Detail" = "Detail";
 "Use custom font size" = "Use custom font size";
 "Use theme font size" = "Use theme font size";
+
+"You are using the Snap version, it may have limited access to your local executables." = "You are using the Snap version, it may have limited access to your local executables.";
+

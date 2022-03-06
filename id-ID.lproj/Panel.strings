@@ -518,3 +518,5 @@
 "Detail" = "Detail";
 "Use custom font size" = "Gunakan ukuran fon kostum";
 "Use theme font size" = "Gunakan ukuran fon tema";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Anda menggunakan versi Snap, ia mungkin memiliki limitasi akses ke eksekusi lokal Anda.";

@@ -274,7 +274,7 @@
 "Dialog warnings have been reset." = "경고 다이얼로그가 초기화되었습니다.";
 
 "Operation Failed" = "작업 실패";
-"Failed to move target file or folder to trash" = "대상 파일 혹은 폴더를 휴지통으로 옮기는데 실패하였습니다"
+"Failed to move target file or folder to trash" = "대상 파일 혹은 폴더를 휴지통으로 옮기는데 실패하였습니다";
 
 "Undo %@" = "Undo %@";
 "Rename %@" = "Rename %@";

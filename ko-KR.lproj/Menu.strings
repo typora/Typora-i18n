@@ -310,7 +310,7 @@
 "Upload Image" = "이미지 업로드";
 "Upload All Local Images" = "모든 로컬 이미지 업로드";
 "Open Image in Browser" = "이미지를 브라우저에서 열기";
-"Copy Image" = "이미지 복사";
+"Copy Image Content" = "이미지 복사";
 
 "More Actions" = "더 많은 동작";
 "Get Info" = "정보 가져오기";

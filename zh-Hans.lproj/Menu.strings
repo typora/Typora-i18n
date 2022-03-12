@@ -305,7 +305,7 @@
 "Upload All Local Images" = "上传所有本地图片";
 "Open Image in Browser" = "在浏览器中打开图片";
 
-"Copy Image" = "拷贝图片";
+"Copy Image Content" = "拷贝图片";
 
 "More Actions" = "更多操作";
 "Get Info" = "显示简介";
@@ -327,3 +327,10 @@
 "Registration / Activation" = "许可证信息";
 
 "Select Paragraph / Block" = "选择段落或块";
+
+"Delete Selected" = "删除所选范围";
+"Move Image to…" = "移动图片到…";
+"Move to %@…" = "移动到 %@…";
+"Delete Image" = "删除图片";
+"Delete Image File" = "删除图片文件";
+"Reload All Images" = "重新加载所有图片";

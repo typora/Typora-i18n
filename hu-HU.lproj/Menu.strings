@@ -303,7 +303,7 @@
 "Upload Image" = "Kép feltöltése";
 "Upload All Local Images" = "Összes helyi fájl feltöltése";
 "Open Image in Browser" = "Kép megnyitása böngészőben";
-"Copy Image" = "Kép másolása";
+"Copy Image Content" = "Kép másolása";
 
 "More Actions" = "Továbbiak";
 "Get Info" = "Információk lekérése";

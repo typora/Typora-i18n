@@ -303,7 +303,7 @@
 "Upload Image" = "Upload Image";
 "Upload All Local Images" = "Upload All Local Images";
 "Open Image in Browser" = "Open Image in Browser";
-"Copy Image" = "Copy Image";
+"Copy Image Content" = "Copy Image Content";
 
 "More Actions" = "More Actions";
 "Get Info" = "Get Info";
@@ -325,3 +325,10 @@
 "Registration / Activation" = "Registration / Activation";
 
 "Select Paragraph / Block" = "Select Paragraph / Block";
+
+"Delete Selected" = "Delete Selected";
+"Move Image to…" = "Move Image to…";
+"Move to %@…" = "Move to %@…";
+"Delete Image" = "Delete Image";
+"Delete Image File" = "Delete Image File";
+"Reload All Images" = "Reload All Images";

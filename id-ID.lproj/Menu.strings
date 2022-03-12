@@ -320,7 +320,7 @@
 "Upload Image" = "Unggah Gambar";
 "Upload All Local Images" = "Unggah Semua Gambar Lokal";
 "Open Image in Browser" = "Buka Gambar di Peramban"; /* See <https://kbbi.kemdikbud.go.id/entri/peramban> */
-"Copy Image" = "Kopi Gambar";
+"Copy Image Content" = "Kopi Gambar";
 
 "More Actions" = "Aksi Lebih";
 "Get Info" = "Dapatkan Info";

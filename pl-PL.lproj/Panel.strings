@@ -498,3 +498,5 @@
 "Detail" = "Szczegółowość";
 "Use custom font size" = "Użyj własnego rozmiaru czcionki";
 "Use theme font size" = "Użyj rozmiaru czcionki z motywu";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Używasz wersji Snap, która może mieć ograniczony dostęp do plików wykonywalnych w systemie";

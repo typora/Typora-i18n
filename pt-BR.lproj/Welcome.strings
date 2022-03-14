@@ -10,13 +10,13 @@
  */
 
 "Welcome to Typora" = "Bem vindo ao Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Obrigado por usar o Typora 👋. O Typora é um editor e leitor de markdown minimalistico, que traz a você uma experiência de transição suave entre o conteúdo Rich Text e seu código fonte"
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Obrigado por usar o Typora 👋. Typora é um editor e leitor de markdown minimalistico, que traz a você uma experiência de transição suave entre o conteúdo Rich Text e seu código fonte"
 
 "Get Started" = "Começar";
 "Check following links if you're new to Markdown or Typora." = "Visite os links a seguir se você não é familiarizado com Markdown ou com o Typora.";
 
 "Activate Typora" = "Ativar Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Já comprou uma lincença? Preencha o formulário abaixo e ative o Typora de forma instantânea"
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Já comprou uma lincença? Preencha o formulário abaixo e ative o Typora instantâneamente"
 
 "Email" = "E-mail";
 "Email Address" = "Endereço de E-mail";
@@ -64,7 +64,7 @@
 "View License" = "Exibir Licença";
 "Your Typora License" = "Sua Licença do Typora";
 "This copy of Typora is registered with license information below." = "Esta cópia do Typora está registrado com as informações de licença a seguir.";
-"Your trial will be expired in %@ days." = "Sua fase de testes irá experirar em %@ dias.";
+"Your trial will be expired in %@ days." = "Sua fase de testes irá expirar em %@ dias.";
 "Enter License" = "Inserir Licença";
 "Not Now" = "Agora não";
 

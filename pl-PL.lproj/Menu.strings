@@ -303,7 +303,7 @@
 "Upload Image" = "Prześlij obraz";
 "Upload All Local Images" = "Prześlij wszystkie obrazy lokalne";
 "Open Image in Browser" = "Otwórz obraz w przeglądarce";
-"Copy Image Content" = "Skopiuj obraz";
+"Copy Image Content" = "Skopiuj zawartość obrazu";
 
 "More Actions" = "Więcej działań";
 "Get Info" = "Wyświetl informacje";
@@ -325,3 +325,10 @@
 "Registration / Activation" = "Rejestracja/aktywacja";
 
 "Select Paragraph / Block" = "Zaznacz akapit/blok";
+
+"Delete Selected" = "Usuń zaznaczone";
+"Move Image to…" = "Przenieś obraz do…";
+"Move to %@…" = "Przenieś do %@…";
+"Delete Image" = "Usuń obraz";
+"Delete Image File" = "Usuń plik obrazu";
+"Reload All Images" = "Ponownie załaduj wszystkie obrazy";

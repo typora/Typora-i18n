@@ -2,10 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io
-
-  translation by @sponka9 / Boštjan <sponka@gmail.com>
-
+by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 */
 
 /*
@@ -84,5 +81,8 @@
 
 "Are you sure to deactivate Typora on this device?" = "Ali ste prepričani, da deaktivirate Typoro v tej napravi?";
 
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Vaša licenca je presegla največje število naprav.\nČe kliknete \"Nadaljuj z aktivacijo\", bo ta naprava aktivirana, najstarejša naprava pa bo samodejno odjavljena.";
-"Continue Activation" = "Nadaljuj z aktivacijo";
+"Offline Activation" = "Aktivacija brez povezave";
+"Back" = "Nazaj";
+"Get Activation Token" = "Pridobite žeton za aktivacijo";
+
+"Your activated devices has exceeded the maximum limits." = "Število aktiviranih naprav je preseglo največje dovoljeno število.";

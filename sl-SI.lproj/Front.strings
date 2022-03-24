@@ -2,10 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io
- 
-  translation by @sponka9 / Boštjan <sponka@gmail.com>
-
+ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 */
 
 /* Common */
@@ -173,6 +170,7 @@
 "Auto refresh on Files Panel cannot be enabled." = "Samodejnega osveževanja seznama datotek ni mogoče omogočiti.";
 "Delete Permanently" = "Dokončno izbriši";
 
+
 "Failed to upload images:" = "Neuspešno nalaganje slik:";
 "Uploading in progress" = "Poteka nalaganje";
 "Successfully uploaded {0} images, {1} failed." = "Uspešno prenešenih {0} slik, {1} ni uspelo.";
@@ -191,4 +189,4 @@
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Datoteke na tem mestu (%@) upravlja Typora in se lahko samodejno izbrišejo.<br/>Za urejanje kopirajte vsebino v novo datoteko.";
 
 "File not exists at path %@." = "Datoteka na poti %@ ne obstaja.";
-"File not exists at path %@, do you want to create one at that path ?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";
+"File not exists at path %@, do you want to create one at that path?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";

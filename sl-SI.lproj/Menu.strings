@@ -2,10 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io
-  
-  translation by @sponka9 / Boštjan <sponka@gmail.com>
-
+ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 */
 
 /* Typora Menu */
@@ -25,7 +22,7 @@
 "New" = "Novo";
 "Open" = "Odpri";
 "Open Folder" = "Odpri mapo";
-"Reopen with Encoding" = "ponovno odpri s kodiranjem";
+"Reopen with Encoding" = "Ponovno odpri s kodiranjem";
 "Auto" = "Samodejno";
 "Open Recent" = "Odpri nedavno";
 "Recent Locations" = "Nedavne lokacije";
@@ -256,7 +253,7 @@
 "Smart Punctuation" = "Pametna ločila";
 "Convert on Input" = "Pretvori ob vnosu";
 "Convert on Rendering" = "Pretvori ob izrisu";
-"Remap Unicode Punctuation on Parse" = "Ob razčlenjevanju preobliku unicode ločila";
+"Remap Unicode Punctuation on Parse" = "Ob razčlenjevanju preoblikuj unicode ločila";
 "More Options" = "Več možnosti";
 
 "HTML Block" = "HTML blok";
@@ -329,3 +326,10 @@
 "Registration / Activation" = "Registracija / Aktivacija";
 
 "Select Paragraph / Block" = "Izberi odstavek/blok";
+
+"Delete Selected" = "Izbriši označeno";
+"Move Image to…" = "Premakni sliko v …";
+"Move to %@…" = "Premakni v %@…";
+"Delete Image" = "Izbriši sliko";
+"Delete Image File" = "Izbriši slikovno datoteko";
+"Reload All Images" = "Ponovno naloži vse slike";

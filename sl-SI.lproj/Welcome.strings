@@ -10,7 +10,7 @@ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
  */
 
 "Welcome to Typora" = "Dobrodošli v Typori";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Hvala, da uporabljate Typoro 👋. Typora je minimalen markdown urejevalnik in markdown bralnik, vam omogoča brezhibno izkušnjo med prikazano obogateno vsebino in izvorno kodo.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Hvala, da uporabljate Typoro 👋. Typora je minimalen markdown urejevalnik in bralnik, ki vam omogoča brezhibno izkušnjo med prikazano obogateno vsebino in izvorno kodo.";
 
 "Get Start" = "Pričnite z uporabo";
 "Check following links if you're new to Markdown or Typora." = "Če se šele spoznavate z Markdown ali Typoro preverite spodnje povezave.";
@@ -63,10 +63,10 @@ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 "Deactivate" = "Deaktiviraj";
 "View License" = "Prikaži licenco";
 "Your Typora License" = "Vaša Typora licenca";
-"This copy of Typora is registered with license information below." = "Ta kopija Typore je registirana s spodnjimi informacijami.";
+"This copy of Typora is registered with license information below." = "Ta kopija Typora je registrirana s spodaj navedenimi podatki.";
 "Your trial will be expired in %@ days." = "Vaša preizkusna doba poteče v %@ dneh.";
 "Enter License" = "Vnesi licenco";
-"Not Now" = "Ne sedaj";
+"Not Now" = "Ne zdaj";
 
 "Please input a valid email address" = "Prosimo, vnesite veljaven e-poštni naslov";
 "Please input a valid license code"  = "Prosimo, vnesite veljavno licenco";

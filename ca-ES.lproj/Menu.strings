@@ -182,6 +182,14 @@
 "Website" = "Lloc web";
 "Feedback" = "Comentaris";
 "About" = "Quant a";
+"What's New..." = "Que hi ha de nou..."
+"Quick Start" = "Guia ràpida"
+"Markdown Reference" = "Documentació Markdown"
+"Install and Use Pandoc" = "Instal·lar i utilitzar Pandoc"
+"Custom Themes" = "Temes personalitzats"
+"Use Images in Typora" = "Utilitza imatges en Typora"
+"More Topics..." = "Més temes d'ajuda..."
+"Enable Debbuging" = "Activar depuració"
 
 /* Touchbar */
 "Block Styles" = "Estils de bloc";

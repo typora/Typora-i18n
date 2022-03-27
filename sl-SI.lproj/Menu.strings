@@ -9,7 +9,7 @@
 
 "About Typora" = "O Typori";
 "Preferences" = "Nastavitve";
-"Check for Updates" = "Preveri pododobitve";
+"Check for Updates" = "Preveri za posodobitve";
 "Services" = "Servisi";
 "Hide Typora" = "Skrij Typoro";
 "Hide Others" = "Skrij ostalo";
@@ -52,7 +52,7 @@
 "Cut" = "Izreži";
 "Copy" = "Kopiraj";
 "Paste" = "Prilepi";
-"Copy as Markdown" = "kopiraj kot Markdown";
+"Copy as Markdown" = "Kopiraj kot Markdown";
 "Copy as HTML Code" = "Kopiraj kot HTML kodo";
 "Paste as Plain Text" = "Prilepi kot golo besedilo";
 "Select All" = "Izberi vse";
@@ -106,8 +106,8 @@
 "Heading 4" = "Naslov 4";
 "Heading 5" = "Naslov 5";
 "Heading 6" = "Naslov 6";
-"Increase Heading Level" = "Povečaj stopnjo naslova";
-"Decrease Heading Level" = "Zmanjšaj stopnjo naslova";
+"Increase Heading Level" = "Povečaj raven naslova";
+"Decrease Heading Level" = "Zmanjšaj raven naslova";
 "Table" = "Tabela";
 "Code Fences" = "Blok s kodo";
 "Math Block" = "Matematični blok";
@@ -135,8 +135,8 @@
 "Underline" = "Podčrtano";
 "Code" = "Koda";
 "Inline Math" = "Matematične formule v vrstici";
-"Strike" = "Prečrtaj";
-"Highlight" = "Povdari";
+"Strike" = "Prečrtano";
+"Highlight" = "Povdarjeno";
 "Superscript" = "Nadpisano";
 "Subscript" = "Podpisano";
 "Comment" = "Komentar";
@@ -158,9 +158,9 @@
 "Full Screen" = "Celozaslonski način";
 "Show Status Bar" = "Prikaži statusno vrstico";
 "Toggle Fullscreen" = "Preklopi v celozaslonski način";
-"Actual Size" = "Prava velikost";
-"Zoom In" = "Povečaj";
-"Zoom Out" = "Pomanjšaj";
+"Actual Size" = "Privzeta povečava";
+"Zoom In" = "Povečaj prikaz";
+"Zoom Out" = "Zmanjšaj prikaz";
 "Switch Between Opened Documents" = "Preklopi med odprtimi dokumenti";
 "Toggle DevTools" = "Prikaži/skrij DevTools";
 
@@ -288,7 +288,7 @@
 "Selection" = "Izbor";
 "Start Speaking" = "Začni z govorom";
 "Stop Speaking" = "Prenehaj z govorom";
-"Check Updates" = "Preveri pododobitve";
+"Check Updates" = "Preveri posodobitve";
 
 "HTML (without Styles)" = "HTML (brez stilov)";
 

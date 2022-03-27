@@ -21,7 +21,7 @@
 "Always Show Word Count" = "Vedno pokaži število besed";
 "Font Size" = "Velikost pisave";
 "Auto ( Recommended )" = "Samodejno (Priporočeno)";
-"Customized" = "Prilgojeno";
+"Customized" = "Prilagojeno";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Če se uporablja velikost pisave po meri, bo dejanska velikost pisave odvisna od osnovne velikosti pisave in sloga CSS.";
 "Left Panel" = "Leva plošča";
 "Show Outline Panel by Default" = "Privzeto pokaži orisno ploščo";
@@ -40,8 +40,8 @@
 "Images Insert" = "Vstavi slike";
 "Use relative path if possible" = "Če je možno, uporabi relativno pot";
 "Auto Pair" = "Samodejno uskladi";
-"Auto pair brackets and quotes" = "Samodejno uskljevanje oklepajev in citatov";
-"Auto pair common Markdown syntax" = "Samodejno usklajevanje običajne sintakse Markdown";
+"Auto pair brackets and quotes" = "Samodejno usklajevanje oklepajev in citatov";
+"Auto pair common Markdown syntax" = "Samodejno usklajevanje običajne Markdown sintakse";
 "Live Rendering" = "Predogled v živo";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Prikaz vira za preproste bloke\n(vključno z naslovi itd.) v fokusu";
 "Default Copy Behavior" = "Privzeto obnašanje kopiranja";
@@ -211,7 +211,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Trenutna različica Typore ne podpira barvnega ozadja pri izvozu v PDF, zato temne teme ne podpirajo izvoza v PDF. \nIzberite svetlo temo ali izvozite dokument kot PDF.";
 "Export to PDF" = "Izvoz v PDF";
-"Pretty indentation" = "Lepa poravnava";
+"Pretty indentation" = "Urejena poravnava";
 "Update markdown reference for this image" = "Posodobitev markdown reference za to sliko";
 
 "No special action" = "Brez posebnega ukrepanja";
@@ -222,7 +222,7 @@
 "Apply above rules to online images" = "Uveljavi zgornja pravila za slike na spletu";
 "Allow upload images automatically based on YAML settings" = "Omogočite samodejno nalaganje slik na podlagi nastavitev YAML";
 
-"Learn More" = "Preberite več";
+"Learn More" = "Več informacij";
 "Whitespace / Line Break" = "Presledek / Prelom vrstice";
 "When Writing" = "Ob pisanju";
 "Export / Print" = "Izvozi / Tiskaj";
@@ -289,14 +289,14 @@
 "Install Updates ?" = "Namesti ?";
 "Quit and Install" = "Zapri in namesti";
 "Download failed" = "Prenos ni uspel";
-"Downloading Updates…" = "Prenašanje pododobitev …";
+"Downloading Updates…" = "Prenašanje posodobitev …";
 "Checking Updates…" = "Preverjam za posodobitve …";
 "Check Update Failed" = "Preverjanje posodobitev ni uspelo";
 "You are update to date!" = "Vse je posodobljeno!";
 "Latest version is $1, your version is $2" = "Zadnja različica je $1, vi imate $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Urejanje → Presledki in prelomi vrstic\"";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Uredi → Presledki in prelomi vrstic\"";
 "Auto escape image URL when insert" = "Pri vstavljanju samodejni dokončaj URL slike";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Na primer, če vstavite sliko kot 'img/example file.png', bo postalo 'img/example%20file.png'. To omogočite za boljšo združljivost z ostalimi Markdown pogoni ali pa onemogočite za boljšo berljivost kode.";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Če vstavite sliko kot 'img/example file.png', bo postalo 'img/example%20file.png'. To omogočite za boljšo združljivost z ostalimi Markdown pogoni ali pa onemogočite za boljšo berljivost kode.";
 "Check updates automatically" = "Samodejno preveri za posodobitve";
 "Skip This Version" = "Preskoči to različico";
 "Remind Me Later" = "Opomni me kasneje";
@@ -317,7 +317,7 @@
 "Try Recovery" = "Poskusite obnoviti podatke";
 "Other options for Data Recovery" = "Druge možnosti za obnovitev podatkov";
 
-"When Insert" = "Ko vstavite";
+"When Insert" = "Ko vstavite sliko";
 "Upload image" = "Naloži sliko";
 "e.g: %@" = "n.pr: %@";
 "Test Uploader" = "Preverjanje programa za prenašanje slik";
@@ -495,7 +495,7 @@
 "Enable physics package" = "Omogoči paket physics";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Paket pyhsics bo ponastavil nekatere latex makroje, kot so \\div, \\Re, in podobno.";
 
-"Detail" = "Detajl";
+"Detail" = "Podrobnosti";
 "Use custom font size" = "Uporabi velikost pisave po meri";
 "Use theme font size" = "Uporabi velikost pisave, določeno s temo";
 

@@ -216,8 +216,8 @@
 "Delete Column" = "Hapus Kolom";
 "Copy Table" = "Kopi Tabel";
 "Delete Table" = "Hapus Tabel";
-"Insert Paragraph After" = "Sisipkan Paragram Setelah";
-"Insert Paragraph Before" = "Sisipkan Paragram Sebelum";
+"Insert Paragraph After" = "Sisipkan Paragraf Setelah";
+"Insert Paragraph Before" = "Sisipkan Paragraf Sebelum";
 "Delete Code Block" = "Hapus Blok Kode";
 "Copy as MathML" = "Kopi sebagai MathML";
 "Copy as Tex" = "Kopi sebagai Tex";
@@ -320,7 +320,7 @@
 "Upload Image" = "Unggah Gambar";
 "Upload All Local Images" = "Unggah Semua Gambar Lokal";
 "Open Image in Browser" = "Buka Gambar di Peramban"; /* See <https://kbbi.kemdikbud.go.id/entri/peramban> */
-"Copy Image Content" = "Kopi Gambar";
+"Copy Image Content" = "Kopi Konten Gambar";
 
 "More Actions" = "Aksi Lebih";
 "Get Info" = "Dapatkan Info";

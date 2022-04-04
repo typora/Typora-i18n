@@ -1,0 +1,487 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by plutonium.239.811@gmail.com 
+ */
+
+/* Preference Panel */
+"Preferences" = "पसंद";
+
+/* General Panel */
+"General" = "आम";
+"Window Style" = "खिड़की की शैली";
+"Classic" = "क्लासिक";
+"Seamless" = "निर्बाध";
+"Seamless window only support OS X later than 10.10." = "निर्बाध विंडो केवल 10.10 से बाद में OS एक्स का समर्थन करती है।";
+"Themes" = "विषयों";
+"Open Theme Folder" = "ओपन थीम फ़ोल्डर";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "लघु परिचय के लिए कृपया `सहायता`->` त्वरित शुरुआत 'की जांच करें। अधिक थीम या निर्देश प्राप्त करने के लिए http://theme.typora.io पर जाएं।";
+"Word Count" = "शब्द गणना";
+"Always Show Word Count" = "हमेशा शब्द गिनती दिखाएं";
+"Font Size" = "फ़ॉन्ट आकार";
+"Auto ( Recommended )" = "ऑटो (अनुशंसित)";
+"Customized" = "स्वनिर्धारित";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "यदि कस्टम फ़ॉन्ट आकार का उपयोग किया जाता है, तो वास्तविक फ़ॉन्ट आकार बेस फ़ॉन्ट आकार और सीएसएस शैली पर निर्भर करेगा।";
+"Left Panel" = "बाएं पैनल";
+"Show Outline Panel by Default" = "डिफ़ॉल्ट रूप से आउटलाइन पैनल दिखाएं";
+"Collapsible Outline on Left Panel" = "बाएं पैनल पर संकुचित रूपरेखा";
+"Save without asking when\nswitch files on side panel" = "बिना पूछे बिना सहेजें जब साइड पैनल पर \nswitch फ़ाइलें";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\"बाएं पैनल में फ़ाइलों को स्विच करते समय संपादित फ़ाइलों को सहेजा जाएगा। \nWhen \" = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Language" = "भाषा";
+"System Language" = "तंत्र भाषा";
+
+/* Editor Panel */
+"Editor" = "संपादक";
+"Indent Size on Save" = "बचाव पर इंडेंट आकार";
+"only apply to quotes and lists created from menu bar or hybrid view" = "केवल मेनू बार या हाइब्रिड व्यू से बनाए गए उद्धरण और सूचियों पर लागू करें";
+"Trigger Autocomplete without ESC key for" = "के लिए ESC कुंजी के बिना ट्रिगर स्वत: पूर्ण";
+"Emoji (e.g. :smile:)" = "इमोजी (उदा: मुस्कान :)";
+"Images Insert" = "छवियों सम्मिलित करें";
+"Use relative path if possible" = "यदि संभव हो तो सापेक्ष पथ का उपयोग करें";
+"Auto Pair" = "ऑटो जोड़ी";
+"Auto pair brackets and quotes" = "ऑटो जोयर ब्रैकेट और उद्धरण";
+"Auto pair common Markdown syntax" = "ऑटो जोड़ी सामान्य मार्कडाउन सिंटैक्स";
+"Live Rendering" = "लाइव प्रतिपादन";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "फोकस पर सरल ब्लॉक \n (शीर्षलेख, आदि सहित) के लिए प्रदर्शन स्रोत";
+"Default Copy Behavior" = "डिफ़ॉल्ट प्रति व्यवहार";
+"Copy Markdown source as plain text" = "मार्कडाउन स्रोत को सादे पाठ के रूप में कॉपी करें";
+"Typewriter Mode" = "टाइपराइटर मोड";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "हमेशा स्क्रीन के बीच में कैरेट रखें \nwhen टाइपराइटर मोड सक्षम है";
+"Markdown" = "markdown";
+
+/* Markdown Panel */
+"(Following preferences will be applied after restart.)" = "(पुनरारंभ करने के बाद निम्नलिखित प्राथमिकताएं लागू की जाएंगी।)";
+"Syntax Support" = "सिंटेक्स समर्थन";
+"Inline Math  ( e.g: $\LaTeX$ )" = "इनलाइन गणित (E.G: $ \ LATEX $)";
+"Subscript    ( e.g: H~2~O )" = "सबस्क्रिप्ट (उदा: एच ~ 2 ~ ओ)";
+"Superscript ( e.g: X^2^ )" = "सुपरस्क्रिप्ट (उदाहरण: x ^ 2 ^)";
+"Highlight     (e.g: ==key==)" = "हाइलाइट (उदा: == कुंजी ==)";
+"Diagrams" = "चित्र";
+"(Sequence, Flowchart and Mermaid)" = "(अनुक्रम, फ्लोचार्ट और मरमेड)";
+"Syntax Preference" = "सिंटेक्स वरीयता";
+"(only applies to styles created from menubar or hybrid view)" = "(केवल मेनूबार या हाइब्रिड व्यू से बनाई गई शैलियों पर लागू होता है)";
+"Strict Mode" = "सख्त मोड";
+"(more strict to GFM spec)" = "(जीएफएम स्पेक के लिए अधिक सख्त)";
+"Heading Style" = "हेडिंग स्टाइल";
+"Unordered List" = "अव्यवस्थित सूची";
+"Ordered List" = "आदेशित सूचि";
+"Code Fences" = "कोड बाड़";
+"Display line numbers for code fences" = "कोड बाड़ के लिए लाइन नंबर प्रदर्शित करें";
+"Math Blocks" = "गणित ब्लॉक";
+"Auto Numbering Math Equations" = "ऑटो नंबरिंग गणित समीकरण";
+
+/* Security Panel */
+"Security" = "सुरक्षा";
+"Enable Debug" = "डीबग सक्षम करें";
+"Send Anonymous Usage Info" = "अनाम उपयोग जानकारी भेजें";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "जारी रखने के लिए Pandoc की आवश्यकता है ...";
+"Follow instructions to install Pandoc" = "Pandoc स्थापित करने के लिए निर्देशों का पालन करें";
+"Cancel" = "रद्द करें";
+
+/* Pandoc Import Panel */
+"Importing..." = "आयात ...";
+"Importing in progress..." = "प्रगति में आयात ...";
+"Converting file with Pandoc. This may take some time." = "Pandoc के साथ फ़ाइल कनवर्ट करना। इसमें कुछ समय लग सकता है।";
+"Abort" = "बीच में बंद करें";
+
+/* Pandoc Export Panel */
+"Exporting..." = "निर्यात ...";
+"Exporting in progress..." = "प्रगति में निर्यात ...";
+"Converting file with Pandoc. This may take some time." = "Pandoc के साथ फ़ाइल कनवर्ट करना। इसमें कुछ समय लग सकता है।";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "इन फ़ाइल स्वरूपों को आयात करने के लिए Pandoc की आवश्यकता है";
+"Check help->Install and use Pandoc from menubar for detail" = "सहायता की जांच करें-> मेनूबार से Pandoc को विस्तार से जांचें और उपयोग करें";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "आयात या कुछ निर्यात सुविधाओं के लिए <a href='http://pandoc.org/ 'target='_blank'> Pandoc </a> (≥ v2.0) स्थापित करने की आवश्यकता है।";
+"Follow Instructions to Install/Update Pandoc" = "Pandoc को स्थापित / अपडेट करने के लिए निर्देशों का पालन करें";
+"Export Failed" = "निर्यात विफल";
+"Import Failed" = "आयात विफल";
+"Generated Image too Large" = "उत्पन्न छवि बहुत बड़ी है";
+"Failed to export file to <em>{0}</em>" = "<Em> {0} </ em> पर फ़ाइल निर्यात करने में विफल";
+"Failed to import file from <em>{0}</em>" = "<Em> {0} </ em> से फ़ाइल आयात करने में विफल";
+"File does not exist at <em>{0}</em>" = "फ़ाइल <em> {0} </ em> पर मौजूद नहीं है";
+"Export to..." = "को निर्यात...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "क्या आप इस दस्तावेज़ में किए गए परिवर्तनों को सहेजना चाहते हैं? <br> यदि आप उन्हें सहेजते नहीं हैं तो आपके परिवर्तन खो जाएंगे।";
+"[Warning] Failed to attach bookmark for PDF file." = "[चेतावनी] पीडीएफ फ़ाइल के लिए बुकमार्क संलग्न करने में विफल।";
+"Dark Theme not support" = "डार्क थीम समर्थन नहीं";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"क्षमा करें, Typora का वर्तमान संस्करण निर्यातित पीडीएफ पर पृष्ठभूमि रंग मुद्रित नहीं करेगा, इसलिए पीडीएफ निर्यात के लिए डार्क थीम अभी तक समर्थित नहीं है। \n कृपया एक हल्की थीम चुनें या क्लिक करें" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
+"Print with default theme" = "डिफ़ॉल्ट थीम के साथ प्रिंट करें";
+"Export to PDF successfully." = "पीडीएफ को सफलतापूर्वक निर्यात करें।";
+"Converting file using Pandoc. This may take some time." = "Pandoc का उपयोग कर फ़ाइल कनवर्ट करना। इसमें कुछ समय लग सकता है।";
+"Exporting file using Pandoc. This may take some time." = "Pandoc का उपयोग कर फ़ाइल निर्यात। इसमें कुछ समय लग सकता है।";
+
+"Uploading in progress…" = "प्रगति में अपलोड करना …";
+"Do not show this again" = "इसे पुनः न दिखाएं";
+
+/* Word Count */
+"Minute" = "मिनट";
+"Line" = "रेखा";
+"Word" = "शब्द";
+"Character" = "चरित्र";
+
+"Minutes" = "मिनट";
+"Lines" = "पंक्तियां";
+"Words" = "शब्दों";
+"Characters" = "पात्र";
+"In Selection" = "चयन में";
+"Panel" = "पैनल";
+
+/* Windows Preferences Panel*/
+"Appearance" = "दिखावट";
+"System Native" = "प्रणाली मूल";
+"Unibody" = "यूनिbody";
+"(applied after restart)" = "(पुनरारंभ के बाद लागू)";
+"Status Bar" = "स्टेटस बार";
+"Show status bar" = "स्टेटस बार दिखाएं";
+"Save & Recover" = "सहेजें और पुनर्प्राप्त करें";
+"Auto Save" = "ऑटो बचाओ";
+"Recover Unsaved Drafts" = "सहेजे गए ड्राफ्ट को पुनर्प्राप्त करें";
+"Emoji Autocomplete" = "इमोजी स्वत: पूर्ण";
+"Trigger by ESC key" = "ईएससी कुंजी द्वारा ट्रिगर";
+"Trigger automatically" = "स्वचालित रूप से ट्रिगर";
+"Default Line Ending" = "डिफ़ॉल्ट लाइन अंत";
+"Line ending for new file" = "नई फ़ाइल के लिए लाइन समाप्त";
+"Spell Check" = "वर्तनी की जाँच";
+"Auto correct spelling" = "ऑटो सही वर्तनी";
+"System" = "प्रणाली";
+"Privacy" = "गोपनीयता";
+"Developer" = "डेवलपर";
+"Update" = "अद्यतन";
+"Check Updates" = "अपडेट जांचें";
+"Check updates automatically" = "स्वचालित रूप से अपडेट की जाँच करें";
+"Advanced Settings" = "एडवांस सेटिंग";
+"Open Advanced Settings" = "उन्नत सेटिंग्स खोलें";
+"Reset Advanced Settings" = "उन्नत सेटिंग्स रीसेट करें";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "इस फ़ंक्शन को आईपीआईसी के नवीनतम संस्करण को स्थापित करने की आवश्यकता है।";
+"Get iPic" = "आईपीआईसी प्राप्त करें";
+"Cannot Continue…" = "जारी नहीं रह सकता …";
+"This feature require macOS >= 10.11" = "इस सुविधा को macos> = 10.11 की आवश्यकता होती है";
+"One More Step" = "एक और कदम";
+"Notice" = "सूचना";
+
+"%d Images Failed to Upload." = "% d छवियां अपलोड करने में विफल रहीं।";
+"%d Succeeded," = "% d सफल हुआ,";
+"Enable this feature on preferences panel" = "प्राथमिकता पैनल पर इस सुविधा को सक्षम करें";
+"The option `%@` must be enabled first to automatically upload images." = "विकल्प `%@` को पहले छवियों को स्वचालित रूप से अपलोड करने के लिए सक्षम होना चाहिए।";
+"%@ is a file, not a directory" = "%@ एक फ़ाइल है, निर्देशिका नहीं";
+"Copy Images To…" = "छवियों को कॉपी करें …";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora आपके यामल फ्रंट मैटर सेटिंग या वैश्विक वरीयताओं के अनुसार नई डाली गई छवि को फ़ोल्डर%@ पर कॉपी करने की कोशिश कर रहा है। लेकिन लक्ष्य फ़ोल्डर मौजूद नहीं है, इसे अभी बनाएं?";
+"Create Folder and Continue" = "फ़ोल्डर बनाएं और जारी रखें";
+"Document must be saved first" = "दस्तावेज़ को पहले सहेजा जाना चाहिए";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora चयनित सापेक्ष पथ द्वारा नई डाली गई छवि को फ़ोल्डर में कॉपी करेगा, इसलिए कृपया फ़ाइल को पहले सहेजें सहेजें।";
+"Open Operation Failed" = "ओपन ऑपरेशन विफल";
+
+"Support Documentation" = "समर्थन प्रलेखन";
+
+"Markdown File" = "मार्कडाउन फाइल";
+"Plain Text File" = "सादा पाठ संचिका";
+"All Files" = "सारे दस्तावेज";
+"All Supported Formats" = "सभी समर्थित प्रारूप";
+"Discard Changes" = "परिवर्तनों को निरस्त करें";
+"Discard" = "रद्द करें";
+
+"Menu" = "मेन्यू";
+"Back" = "पीछे";
+
+"Contact" = "संपर्क";
+"Open From..." = "से खोलें...";
+"Import..." = "आयात...";
+"Recent Documents" = "हाल के कागजात";
+"Search for" = "निम्न को खोजें";
+"Clear Recent Documents" = "हाल के दस्तावेजों को साफ़ करें";
+"File Name" = "फ़ाइल का नाम";
+"Path" = "पथ";
+"Export As..." = "निर्यात के रूप में ...";
+"More Formats" = "अधिक प्रारूप";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "'अधिक प्रारूपों' अनुभागों के तहत फ़ाइल स्वरूपों को <a class='Open-Pandoc-Guide' 'Pandoc स्थापित करने की आवश्यकता है </a>।";
+"Something is Wrong…" = "कुछ गलत है …";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "कुछ कारणों से सामग्री को सहेजें। <br/> आप सामग्री को एक नई Typora विंडो में कॉपी कर सकते हैं, और फिर इसे सहेज सकते हैं। <br/> इसके बारे में और जानें: <ul> <li> <a href='https://support.typora.io/report-bugs/'> रिपोर्ट बग्स हमें हमें </a> </ li> <li> <a href='https://support.typora.io/version-control//'> पुनर्प्राप्त खोया सामग्री </a> </ li> </ ul>";
+"Copy Content" = "प्रतिलिपि सामग्री";
+
+
+"Total" = "कुल";
+"Word count only support OS X later than 10.10." = "शब्द गणना केवल OS X 10.10 का समर्थन है।";
+"Indent Size for Code" = "कोड के लिए इंडेंट आकार";
+"Auto wrap long lines" = "ऑटो लपेटें लंबी लाइनें";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "क्षमा करें, Typora का वर्तमान संस्करण पृष्ठभूमि रंग मुद्रित नहीं करेगा। \nSo डार्क थीम अभी तक प्रिंटिंग के लिए समर्थित नहीं है। \n \n कृपया एक प्रकाश थीम चुनें या इस दस्तावेज़ को पीडीएफ में निर्यात करें।";
+"Export to PDF" = "पीडीएफ को निर्यात करें";
+"Pretty indentation" = "सुंदर इंडेंटेशन";
+"Update markdown reference for this image" = "इस छवि के लिए मार्कडाउन संदर्भ अद्यतन करें";
+
+"No special action" = "कोई विशेष कार्रवाई नहीं";
+"Copy image to current folder (./)" = "वर्तमान फ़ोल्डर में छवि कॉपी करें (./)";
+"Copy image to ./assets" = "छवि को कॉपी करें ./assets";
+"Copy image to ./${filename}.assets" = "छवि को कॉपी करें ./${filename}.assets";
+"Apply above rules to local images" = "स्थानीय छवियों के नियमों के ऊपर लागू करें";
+"Apply above rules to online images" = "ऑनलाइन छवियों के लिए नियमों को लागू करें";
+"Allow upload images automatically based on YAML settings" = "अपलोड छवियों को स्वचालित रूप से YAML सेटिंग्स के आधार पर अनुमति दें";
+
+"Learn More" = "और अधिक जानें";
+"Whitespace / Line Break" = "व्हिटस्पेस / लाइन ब्रेक";
+"When Writing" = "लेखन करते समय";
+"Export / Print" = "निर्यात / प्रिंट";
+"Preserve sequential whitespace and single line break" = "अनुक्रमिक व्हाट्सएप और सिंगल लाइन ब्रेक को संरक्षित करें";
+"Ignore sequential whitespace and single line break" = "अनुक्रमिक व्हाट्सएप और सिंगल लाइन ब्रेक को अनदेखा करें";
+
+"Quit" = "छोड़ना";
+"Quit Typora when last window is closed" = "अंतिम विंडो बंद होने पर टाइपोटा को छोड़ दें";
+"On Launch" = "लॉन्च पर";
+"Open new file" = "नई फ़ाइल खोलें";
+"Restore last closed folders" = "अंतिम बंद फ़ोल्डर्स को पुनर्स्थापित करें";
+"Restore last closed files and folders" = "अंतिम बंद फ़ाइलों और फ़ोल्डरों को पुनर्स्थापित करें";
+"Open custom folder" = "खुला कस्टम फ़ोल्डर";
+"Select custom folder" = "कस्टम फ़ोल्डर का चयन करें";
+"This option may be overridden by \"Close windows when quitting an application\"इस विकल्प को ओवरराइड किया जा सकता है \" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+
+"Ignore" = "ध्यान न देना";
+"Choose Default Folder" = "डिफ़ॉल्ट फ़ोल्डर चुनें";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div> <strong> इनपुट पर कनवर्ट </ strong>: इनपुट ASCII डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में परिवर्तित और सहेजा गया। <br/> <strong> प्रतिपादन पर कनवर्ट करें </ strong>: इनपुट और ASCII के रूप में सहेजा गया डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में प्रस्तुत करते हैं। </ div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> ASCII के रूप में यूनिकोड विरामियों को पहचानें जब पार्स मार्कडाउन, उदाहरण: <br/> <pre> 》 blockquote → > blockquote <br/> [लिंक] (src ’शीर्षक’) → [लिंक] (एसआरसी 'शीर्षक') </pre> यह स्वचालित रूप से चालू हो जाएगा यदि स्मार्ट उद्धरण / डैश इनपुट पर परिवर्तित किया जाएगा। <div>";
+
+"Copy image to custom folder" = "कस्टम फ़ोल्डर में छवि कॉपी करें";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "कृपया वर्तमान फ़ोल्डर के लिए एक सापेक्ष पथ निर्दिष्ट करें जो './' या '.. /', या एक पूर्ण फ़ोल्डर पथ से शुरू होता है। (`$ {फ़ाइल नाम}` currents फ़ाइल नाम के लिए प्रतिनिधित्व।)";
+"Restore to previous setting" = "पिछली सेटिंग को पुनर्स्थापित करें";
+"Folder not exist at %@, please input another path." = "फ़ोल्डर%@ पर मौजूद नहीं है, कृपया एक और रास्ता इनपुट करें।";
+"Please input a folder path." = "कृपया एक फ़ोल्डर पथ इनपुट करें।";
+"Cannot use root path." = "रूट पथ का उपयोग नहीं कर सकते।";
+
+"Get Themes" = "विषय प्राप्त करें";
+"File/directory already exists at target path." = "लक्ष्य पथ पर फ़ाइल / निर्देशिका पहले से मौजूद है।";
+"Keep Both" = "दोनो रख लो";
+"Are you sure you want to move %@?" = "क्या आप वाकई%@ स्थानांतरित करना चाहते हैं?";
+
+"Are you sure you want to delete %@?" = "बहुत ही पास से %@?";
+"You can restore from the Trash." = "आप ट्रैश से बहाल कर सकते हैं।";
+
+"Reset All Dialog Warnings" = "सभी संवाद चेतावनी रीसेट करें";
+"Dialogs" = "संवाद";
+"Dialog warnings have been reset." = "संवाद चेतावनियों को रीसेट कर दिया गया है।";
+
+"Operation Failed" = "कार्रवाई विफल";
+"Failed to move target file or folder to trash" = "ट्रैश करने के लिए लक्ष्य फ़ाइल या फ़ोल्डर को स्थानांतरित करने में विफल";
+
+"Undo %@" = "पूर्ववत करें @";
+"Rename %@" = "%@ नाम बदलें";
+"Copy %@" = "कॉपी%@";
+"Move %@" = "कदम %@";
+"Delete %@" = "%@ हटाएं";
+
+"Turn off Typewriter / Focus Mode" = "टाइपराइटर / फोकस मोड को बंद करें";
+"Typewriter / Focus Mode have been turned off." = "टाइपराइटर / फोकस मोड बंद कर दिया गया है।";
+
+"Reading Speed" = "पढ़ने की गति";
+"Auto" = "ऑटो";
+"words / min" = "शब्द / मिनट";
+
+"Reset to Default" = "वितथ पर ले जाएं";
+"120  words/minute (Slow)" = "120 शब्द / मिनट (धीमा)";
+"240  words/minute (Medium)" = "240 शब्द / मिनट (मध्यम)";
+"382  words/minute (Fast)" = "382 शब्द / मिनट (फास्ट)";
+
+"Copy and update image source to…" = "छवि स्रोत को कॉपी और अपडेट करें …";
+"Updater" = "अपडेटर";
+"Install Updates ?" = "अद्यतनों को स्थापित करें ?";
+"Quit and Install" = "छोड़ो और स्थापित करें";
+"Download failed" = "डाउनलोड विफल";
+"Downloading Updates…" = "अपडेट डाउनलोड करना …";
+"Checking Updates…" = "अपडेट की जाँच करना …";
+"Check Update Failed" = "चेक अपडेट विफल";
+"You're up to date!" = "आप अद्यतित हैं!";
+"Latest version is $1, your version is $2" = "नवीनतम संस्करण $ 1 है, आपका संस्करण $ 2 है";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\"इन विकल्पों को भी बदल दिया जा सकता है" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"Auto escape image URL when insert" = "डालने के दौरान ऑटो एस्केप छवि यूआरएल";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "उदाहरण के लिए, यदि आप 'आईएमजी / उदाहरण फ़ाइल। पीएनजी' पर एक फाइल डालते हैं, तो यह 'आईएमजी / उदाहरण% 20file.png' बन जाएगा। अन्य मार्कडाउन इंजन के साथ बेहतर संगतता के लिए इसे सक्षम करें, या इसे बेहतर पठनीयता के लिए अक्षम करें।";
+"Check updates automatically" = "स्वचालित रूप से अपडेट की जाँच करें";
+"Skip This Version" = "इस संस्करण को छोड़ दें";
+"Remind Me Later" = "मुझे बाद में याद दिलाना";
+"Download Update" = "अद्यतन डाउनलोड करे";
+
+"New version available." = "नया संस्करण उपलब्ध है।";
+"When copy / export as HTML (without style)" = "जब एचटीएमएल के रूप में कॉपी / निर्यात (शैली के बिना)";
+"Use Rendered SVG" = "प्रस्तुत SVG का उपयोग करें";
+"Use LaTeX Source" = "लेटेक्स स्रोत का उपयोग करें";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div> प्रभाव लें जब एचटीएमएल के बिना निर्यात करें) या एचटीएमएल कोड के रूप में प्रतिलिपि बनाएं, या थीम शैली के बिना कॉपी करें। <br/> जब <strong> लेटेक्स स्रोत का उपयोग करें </ strong> का चयन किया गया है, Typora कच्चे लेटेक्स स्रोत को डाल देगा (उदाहरण: $ x ^ 2 $), <br/> जब <strong> प्रस्तुत SVG का उपयोग करें </ strong> का चयन किया जाता है, तो प्रस्तुत एसवीजी का उपयोग किया जाएगा, यदि आप अन्य ऐप पर पेस्ट करते हैं, तो एसवीजी को अनदेखा किया जा सकता है। </ div >";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "आयात समारोह और कई निर्यात प्रारूपों को स्थापित करने के लिए Pandoc (¢ ¥%@) की आवश्यकता होती है।";
+"Do not show this message again" = "फिर इस संदेश को नहीं दिखाना";
+
+"Page Break Between Top Headings" = "शीर्ष शीर्षकों के बीच पेज ब्रेक";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "क्षमा करें, कुछ त्रुटि हुई, वर्तमान लेखन सामग्री को क्लिपबोर्ड पर कॉपी किया गया है। आप इस त्रुटि को ठीक करने में हमारी सहायता के लिए <hi@typora.io> पर रिपोर्ट कर सकते हैं।";
+"Try Recovery" = "वसूली का प्रयास करें";
+"Other Options for Data Recovery" = "डेटा रिकवरी के लिए अन्य विकल्प";
+
+"When Insert" = "जब सम्मिलित करें";
+"Upload image" = "तस्वीर डालिये";
+"e.g: %@" = "उदा:%@";
+"Test Uploader" = "परीक्षण अपलोडर";
+"Validating" = "सत्यापित किया जा रहा";
+"Validation Failed" = "प्रमाणीकरण विफल रहा";
+"Validation Succeed" = "सत्यापन सफल";
+"Testing image uploading using command:" = "आदेश का उपयोग कर परीक्षण छवि अपलोडिंग:";
+"Running… Waiting for results." = "Rankingâ … परिणामों की प्रतीक्षा कर रहा है।";
+"Output from the console:" = "कंसोल से आउटपुट:";
+"Error from the console:" = "कंसोल से त्रुटि:";
+"Failed to fetch uploaded image from command output." = "कमांड आउटपुट से अपलोड की गई छवि को प्राप्त करने में विफल।";
+"Successfully get uploaded image url." = "सफलतापूर्वक अपलोड छवि यूआरएल प्राप्त करें।";
+"Image Uploader" = "छवि अपलोडर";
+"Instructions" = "निर्देश";
+"Download %@" = "डाउनलोड %@";
+"Image Upload Setting" = "छवि अपलोड सेटिंग";
+"Please set an image uploader in Preferences panel before using this function." = "इस फ़ंक्शन का उपयोग करने से पहले कृपया प्राथमिकता पैनल में एक छवि अपलोडर सेट करें।";
+"Download or Upgrade" = "डाउनलोड या अपग्रेड करें";
+"Open Config File" = "खुली कॉन्फ़िगर फ़ाइल";
+"Command" = "आदेश";
+"PicGo Path" = "पिकगो पथ";
+"Path of PicGo binary" = "पिकगो बाइनरी का पथ";
+"Executable" = "निष्पादन";
+"Checking" = "चेकिंग";
+"Download" = "डाउनलोड";
+"Agree and Download" = "सहमत और डाउनलोड करें";
+"Download and Reinstall" = "डाउनलोड करें और पुनर्स्थापित करें";
+"Loading PicGo-Core License" = "पिकगो-कोर लाइसेंस लोड हो रहा है";
+"Failed to get installed version of PicGo-Core (command line)" = "Picgo-Core (कमांड लाइन) का स्थापित संस्करण प्राप्त करने में विफल";
+"You have the latest PicGo-Core (CLI)" = "आपके पास नवीनतम पिकगो-कोर (CLI) है";
+"Newer version is available" = "नया संस्करण उपलब्ध है";
+
+"Downloading…" = "डाउनलोड करना …";
+"Unzipping…" = "Unzippingâ …";
+"Finished" = "ख़त्म होना";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora सभी स्थानीय छवियों के फ़ाइल पथ के साथ तीसरी पार्टी ऐप लॉन्च करेगा। छवि अपलोडर और क्लाउड छवि संग्रहण के बाद आपकी स्थानीय छवियों तक पहुंच होगी। क्या आप जारी रखना चाहते हैं?";
+
+"Export operation finished successfully." = "निर्यात ऑपरेशन सफलतापूर्वक समाप्त हो गया।";
+
+"Shortcut Keys" = "शॉर्टकट कुंजियाँ";
+"Custom Shortcut Keys" = "कस्टम शॉर्टकट कुंजी";
+
+"Theme" = "विषय";
+"Light Theme" = "प्रकाश विषय";
+"Dark Theme" = "अंधेरा विषय";
+"Use separate theme in dark mode" = "डार्क मोड में अलग थीम का उपयोग करें";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 या Windows 10 ≥ 1903 पर समर्थित";
+"Convert -- to -“ (en dash), and --- to — (em dash)" = "कन्वर्ट -- से - (en डैश), और --- से — (em डैश)";
+"Convert -- and --- to — (em dash)" = "कन्वर्ट -- और --- से — (ईएम डैश)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "आप सिस्टम प्राथमिकताओं में उद्धरण पैटर्न सेट कर सकते हैं â 'कीबोर्ड â' टेक्स्ट। यदि यह बदलता है, तो Typora को इसे लागू करने के लिए पुनरारंभ करने की आवश्यकता होगी।";
+
+
+"Paper Size" = "काग़ज़ का आकार";
+"US Letter" = "अमेरिकी पत्र";
+"US Legal" = "अमेरिकी कानूनी";
+"Tabloid" = "मुख़्तसर";
+"Page Break" = "पृष्ठ विराम";
+"Page Break Between Top Headings" = "शीर्ष शीर्षकों के बीच पेज ब्रेक";
+"Header" = "हैडर";
+"Footer" = "फ़ुटबाल";
+"Author" = "लेखक";
+"Append in <head />" = "<head /> में संलग्न करें";
+"Append in <body />" = "<body /> में संलग्न करें";
+"Include Outline Sidebar" = "रूपरेखा साइडबार शामिल करें";
+"Width" = "चौड़ाई";
+"Command" = "आदेश";
+"Show Save File Dialog" = "फ़ाइल संवाद सहेजें";
+"File Extensions for Export" = "निर्यात के लिए फ़ाइल एक्सटेंशन";
+"Arguments" = "बहस";
+"Extra Arguments" = "अतिरिक्त तर्क";
+"LaTeX Engine" = "LaTeX इंजन";
+"Template" = "टेम्पलेट";
+"Empty" = "खाली";
+"Style Reference" = "शैली संदर्भ";
+"Custom CSS" = "कस्टम CSS";
+"Chapter Level" = "अध्याय स्तर";
+"Default Folder for Exported File" = "निर्यात की गई फ़ाइल के लिए डिफ़ॉल्ट फ़ोल्डर";
+"Same folder with current file" = "वर्तमान फ़ाइल के साथ एक ही फ़ोल्डर";
+"Custom location" = "कस्टम स्थान";
+"(Auto Detect)" = "(स्वयंं पता लगाना)";
+"After Export" = "निर्यात के बाद";
+"Open exported file location" = "निर्यातित फ़ाइल स्थान खोलें";
+"Open exported file" = "निर्यातित फ़ाइल खोलें";
+"Custom" = "कस्टम";
+"None" = "कोई नहीं";
+"Default" = "चूक";
+"Margin" = "हाशिया";
+"Margin Left" = "मार्जिन छोड़ दिया";
+"Margin Right" = "मार्जिन अधिकार";
+"Margin Top" = "मार्जिन टॉप";
+"Margin Bottom" = "मार्जिन तल";
+"Width x Height" = "चौड़ाई एक्स ऊंचाई";
+"Add From a Template" = "एक टेम्पलेट से जोड़ें";
+"Delete this export option ?" = "इस निर्यात विकल्प को हटाएं?";
+"Add" = "जोड़ें";
+"Delete" = "हटाएं";
+"Rename" = "नाम बदलें";
+"Move Down" = "नीचे की ओर";
+"Move Up" = "बढ़ाना";
+"Pandoc Path" = "Pandoc पथ";
+"Select" = "चुनते हैं";
+"Target Format" = "लक्ष्य प्रारूप";
+"auto detect based on target file path" = "लक्ष्य फ़ाइल पथ के आधार पर ऑटो का पता लगाएं";
+"Target File Extensions (separate by whitespace)" = "लक्ष्य फ़ाइल एक्सटेंशन (व्हाइटस्पेस द्वारा अलग)";
+"e.g: .text .asciidoc or leave this empty" = "उदा: .text .asciidoc या यह खाली छोड़ दें";
+"Raw Type" = "कच्चा प्रकार";
+"Auto" = "ऑटो";
+"Show Save File Dialog" = "फ़ाइल संवाद सहेजें";
+"Do not popup save file dialog" = "पॉपअप फ़ाइल संवाद न करें";
+"Select file path to save" = "सहेजने के लिए फ़ाइल पथ का चयन करें";
+"Select folder path to save" = "सहेजने के लिए फ़ोल्डर पथ का चयन करें";
+"PDF Engine" = "PDF इंजन";
+"Show command output" = "कमांड आउटपुट दिखाएं";
+
+"\"Export and Overwrite with Previous\"\" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"Command Arguments:" = "कमांड तर्क:";
+"This beta version of Typora is expired, please download and install a newer version." = "Typora का यह बीटा संस्करण समाप्त हो गया है, कृपया एक नया संस्करण डाउनलोड और स्थापित करें।";
+"Current Theme" = "वर्तमान विषय";
+"After Export" = "निर्यात के बाद";
+"Run command" = "चलाने के आदेश";
+"Run command after export failed" = "निर्यात के बाद रन कमांड विफल";
+"Read and overwrite export settings from YAML front matters" = "यामल फ्रंट मामलों से निर्यात सेटिंग्स को पढ़ें और ओवरराइट करें";
+"Append Extra Content (HTML)" = "अतिरिक्त सामग्री (एचटीएमएल) संलग्न करें";
+"Change this option to specify a separated theme for export." = "निर्यात के लिए एक अलग थीम निर्दिष्ट करने के लिए इस विकल्प को बदलें।";
+"Dark theme is not supported." = "डार्क थीम समर्थित नहीं है।";
+
+"Markdown Variants" = "मार्कडाउन वेरिएंट";
+"Original Unextended Markdown" = "Original Unextended Markdown";
+"CommonMark with many pandoc extensions" = "कई Pandoc एक्सटेंशन के साथ CommonMark";
+"Line Wrap" = "लाइन रैप";
+"Hard line wrap" = "हार्ड लाइन लपेटें";
+"Text Column Width" = "पाठ कॉलम चौड़ाई";
+"Auto (based on current OS)" = "ऑटो (वर्तमान OS पर आधारित)";
+"Indent" = "मांगपत्र";
+"Preserve tabs" = "टैब को संरक्षित करें";
+"2 spaces per tab" = "प्रति टैब 2 रिक्त स्थान";
+"3 spaces per tab" = "प्रति टैब 3 रिक्त स्थान";
+"4 spaces per tab" = "प्रति टैब 4 रिक्त स्थान";
+"Unicode Characters" = "यूनिकोड वर्ण";
+"Use only ASCII characters in output" = "आउटपुट में केवल ASCII वर्णों का उपयोग करें";
+"Use reference-style links rather than inline links" = "इनलाइन लिंक के बजाय संदर्भ-शैली लिंक का उपयोग करें";
+"Footnotes and References Location" = "फुटनोट्स और संदर्भ स्थान";
+"End of document" = "दस्तावेज़ का अंत";
+"End of current (top-level) block" = "वर्तमान (शीर्ष-स्तर) ब्लॉक का अंत";
+"End of current section" = "वर्तमान खंड का अंत";
+"Convert TeX formulas to web images" = "TeX सूत्रों को वेब छवियों में कनवर्ट करें";
+"Image Format" = "छवि प्रारूप";
+
+"Set Pandoc Path" = "Pandoc पथ सेट करें";
+
+"Apply Line Break at \\ and &#92;newline" = "\\ और & # 92 पर लाइन ब्रेक लगाएं; NEWLINE";
+
+"Export operation succeeded with warnings." = "निर्यात ऑपरेशन चेतावनियों के साथ सफल रहा।";
+
+"Typora is now deactivated" = "Typora अब निष्क्रिय है";
+"This device has been deactivated" = "यह डिवाइस निष्क्रिय कर दिया गया है";
+"UNREGISTERED" = "अपंजीकृत";
+
+"Allow physics package to redefine existing TeX commands" = "भौतिकी पैकेज को मौजूदा टेक्स कमांड को फिर से परिभाषित करने की अनुमति दें";
+"When enabled, commands like \\div, \\Re will be redefined by physics package." = "सक्षम होने पर, \\ div जैसे कमांड, \\ फिर भौतिकी पैकेज द्वारा फिर से परिभाषित किया जाएगा।";
+
+"Your Typora is not activated." = "आपका Typora सक्रिय नहीं है।";
+"Your Typora has been activated." = "आपका Typora सक्रिय कर दिया गया है।";
+"Typora activation is required to change this." = "इसे बदलने के लिए Typora सक्रियण की आवश्यकता है।";
+"You can reinstall the stable version and then disable this." = "आप स्थिर संस्करण को पुनर्स्थापित कर सकते हैं और फिर इसे अक्षम कर सकते हैं।";
+"Update to dev version" = "देव संस्करण के लिए अद्यतन";

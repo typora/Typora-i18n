@@ -1,0 +1,327 @@
+/* 
+  Menu.strings
+  Typora
+
+ by plutonium.239.811@gmail.com
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Typora के बारे में";
+"Preferences" = "पसंद";
+"Check for Updates" = "अद्यतन के लिए जाँच";
+"Services" = "सेवाएं";
+"Hide Typora" = "टाइपोरा छुपाएं";
+"Hide Others" = "दूसरों को छुपाएं";
+"Show All" = "सब दिखाओ";
+"Quit Typora" = "टिनोरा छोड़ो";
+
+/* File Menu */
+
+"File" = "फ़ाइल";
+"New" = "नया";
+"Open" = "खुला हुआ";
+"Open Folder" = "फोल्डर खोलो";
+"Reopen with Encoding" = "एन्कोडिंग के साथ फिर से खोलें";
+"Auto" = "ऑटो";
+"Open Recent" = "हाल ही वाला खोलें";
+"Recent Locations" = "हाल के स्थानों";
+"Clear Items" = "साफ़ आइटम";
+"No Recent Files" = "कोई हालिया फाइलें नहीं";
+"Open Quickly" = "जल्दी से खोलें";
+"Open File Location" = "फ़ाइल स्थान खोलें";
+"Reveal in Library" = "पुस्तकालय में प्रकट";
+"Reveal in File Tree" = "फ़ाइल पेड़ में प्रकट";
+"Close" = "बंद करे";
+"Save" = "सहेजें";
+"Save As" = "के रूप रक्षित करें";
+"Duplicate" = "डुप्लिकेट";
+"Rename" = "नाम बदलें";
+"Move To" = "करने के लिए कदम";
+"Revert To" = "में वापस जाएं";
+"Browse All Versions" = "सभी संस्करणों को ब्राउज़ करें";
+"Import" = "आयात";
+"Export" = "निर्यात";
+"Page Setup" = "पृष्ठ सेटअप";
+"Print" = "छाप";
+
+/* Edit Menu */
+"Edit" = "संपादित करें";
+"Undo" = "पूर्ववत";
+"Redo" = "फिर से करें";
+"Cut" = "कट गया";
+"Copy" = "प्रतिलिपि";
+"Paste" = "पेस्ट करें";
+"Copy as Markdown" = "मार्कडाउन के रूप में कॉपी करें";
+"Copy as HTML Code" = "HTML कोड के रूप में कॉपी करें";
+"Paste as Plain Text" = "सादे पाठ के रूप मे पेस्ट करें";
+"Select All" = "सबका चयन करें";
+"Select Line/Sentence" = "लाइन / वाक्य का चयन करें";
+"Select Styled Scope" = "स्टाइल स्कोप का चयन करें";
+"Select Word" = "शब्द का चयन करें";
+"Delete" = "हटाएं";
+"Delete Range" = "रेंज हटाएं";
+"Delete Word" = "शब्द हटाएं";
+"Delete Styled Scope" = "स्टाइल स्कोप हटाएं";
+"Delete Line/Sentence" = "लाइन / वाक्य हटाएं";
+"Jump To" = "करने के लिए कूद";
+"Jump to Top" = "शीर्ष पर जाएं";
+"Jump to Selection" = "चयन करने के लिए कूदो";
+"Jump to Bottom" = "नीचे तक कूदो";
+"Math Tools" = "गणित उपकरण";
+"Refresh All Math Expressions" = "सभी गणित अभिव्यक्तियों को ताज़ा करें";
+"Image Tools" = "छवि उपकरण";
+"Insert Local Images" = "स्थानीय छवियां डालें";
+"Upload Local Images via iPic" = "आईपीआईसी के माध्यम से स्थानीय छवियां अपलोड करें";
+"When Insert Local Image" = "जब स्थानीय छवि डालें";
+"Copy Image File to Folder" = "छवि फ़ाइल को फ़ोल्डर में कॉपी करें";
+"Use Image Root Path" = "छवि रूट पथ का उपयोग करें";
+"Line Endings" = "रेखा समाप्ति";
+"Windows Line Endings (CRLF)" = "विंडोज लाइन एंडिंग्स (सीआरएलएफ)";
+"Unix Line Endings (LF)" = "यूनिक्स लाइन एंडिंग्स (एलएफ)";
+"Find" = "पाना";
+"Find Next" = "अगला ढूंढो";
+"Find Previous" = "पिछला खोजें";
+"Find and Replace" = "ढूँढें और बदलें";
+"Replace" = "बदलने के";
+"Replace Next" = "अगला बदलें";
+"Spelling and Grammar" = "शब्द रचना और व्याकरण";
+"Check Document Now" = "अब दस्तावेज़ की जाँच करें";
+"Check Spelling While Typing" = "टाइप करते समय वर्तनी की जाँच करें";
+"Check Grammar With Spelling" = "वर्तनी के साथ व्याकरण की जाँच करें";
+"Correct Spelling Automatically" = "सही वर्तनी स्वचालित रूप से";
+"Substitutions" = "प्रतिस्थापन";
+"Smart Quotes" = "स्मार्ट उद्धरण";
+"Smart Dashes" = "स्मार्ट डैश";
+"Text Replacement" = "पाठ प्रतिस्थापन";
+"Speech" = "भाषण";
+"Start Speaking" = "बोलना शुरू करो";
+"Stop Speaking" = "बोलना बंद करो";
+
+/* Paragraph Menu */
+"Paragraph" = "अनुच्छेद";
+"Heading 1" = "शीर्षक 1";
+"Heading 2" = "शीर्षक 2";
+"Heading 3" = "हेडिंग 3";
+"Heading 4" = "हेडिंग 4";
+"Heading 5" = "हेडिंग 5";
+"Heading 6" = "शीर्षक 6";
+"Increase Heading Level" = "हेडिंग लेवल बढ़ाएं";
+"Decrease Heading Level" = "हेडिंग लेवल कम करें";
+"Table" = "टेबल";
+"Code Fences" = "कोड बाड़";
+"Math Block" = "गणित खंड";
+"Quote" = "उद्धरण";
+"Ordered List" = "आदेशित सूचि";
+"Unordered List" = "अव्यवस्थित सूची";
+"Task List" = "कार्य सूची";
+"Task Status" = "कार्य स्थिति";
+"Toggle Task Status" = "टॉगल कार्य की स्थिति";
+"Mark as Complete" = "के रूप में चिह्नित करें";
+"Mark as Incomplete" = "अधूरा के रूप में चिह्नित करें";
+"List Indentation" = "सूची इंडेंटेशन";
+"Indent" = "मांगपत्र";
+"Outdent" = "आउटडेंट";
+"Link Reference" = "लिंक संदर्भ";
+"Footnotes" = "फुटनोट";
+"Horizontal Line" = "क्षैतिज रेखा";
+"Table of Contents" = "विषयसूची";
+"YAML Front Matter" = "यामल फ्रंट मैटर";
+
+/* Format Menu */
+"Format" = "प्रारूप";
+"Strong" = "मज़बूत";
+"Emphasis" = "ज़ोर";
+"Underline" = "रेखांकन";
+"Code" = "कोड";
+"Inline Math" = "इनलाइन गणित";
+"Strike" = "हड़ताल";
+"Highlight" = "हाइलाइट";
+"Superscript" = "ऊपर की ओर लिखा हुआ";
+"Subscript" = "सबस्क्रिप्ट";
+"Comment" = "टिप्पणी";
+"Hyperlink" = "हाइपरलिंक";
+"Image" = "छवि";
+"Clear Format" = "साफ़ प्रारूप";
+
+/* View Menu */
+"View" = "राय";
+"New Tab" = "नया टैब";
+"Source Code Mode" = "स्रोत मोड कोड";
+"Focus Mode" = "संकेन्द्रित विधि";
+"Typewriter Mode" = "टाइपराइटर मोड";
+"Toggle Sidebar" = "साइडबार टॉगल करें";
+"Outline" = "रेखांकित करें";
+"Articles" = "सामग्री";
+"File Tree" = "फाइल ट्री";
+"Always on Top" = "हमेशा ऊपर";
+"Full Screen" = "पूर्ण स्क्रीन";
+"Show Status Bar" = "स्टेटस बार दिखाएं";
+"Toggle Fullscreen" = "पूर्णस्क्रीन चालू करें";
+"Actual Size" = "वास्तविक आकार";
+"Zoom In" = "ज़ूम इन";
+"Zoom Out" = "ज़ूम आउट";
+"Switch Between Opened Documents" = "खोले हुए दस्तावेजों के बीच स्विच करें";
+"Toggle DevTools" = "देवटूल टॉगल करें";
+
+
+/* Themes Menu */
+"Themes" = "विषयों";
+
+/* Window Menu */
+"Window" = "खिड़की";
+"Minimize" = "छोटा करना";
+"Zoom" = "ज़ूम";
+"Bring All to Front" = "सभी को सामने लाओ";
+
+/* Help Menu */
+"Help" = "मदद";
+"Privacy Policy" = "गोपनीयता नीति";
+"Credits" = "क्रेडिट";
+"Change Log" = "लॉग बदलें";
+"Website" = "वेबसाइट";
+"Feedback" = "प्रतिपुष्टि";
+"About" = "के बारे में";
+
+/* Touchbar */
+"Block Styles" = "ब्लॉक शैलियों";
+"Inline Styles" = "इनलाइन शैलियों";
+"List Styles / Remove Block" = "सूची शैलियों / निकालें ब्लॉक";
+"Exit Source Code Mode" = "स्रोत कोड मोड से बाहर निकलें";
+"Toggle Source Code Mode" = "स्रोत कोड मोड टॉगल करें";
+"Table" = "टेबल";
+
+/* Extra Content Menu */
+"Add Row Above" = "ऊपर पंक्ति जोड़ें";
+"Add Row Below" = "नीचे पंक्ति जोड़ें";
+"Delete Row" = "पंक्ति को हटाएं";
+"Add Column Before" = "पहले कॉलम जोड़ें";
+"Add Column After" = "बाद में कॉलम जोड़ें";
+"Delete Column" = "कॉलम हटाएं";
+"Copy Table" = "प्रतिलिपि तालिका";
+"Delete Table" = "तालिका हटाएं";
+"Insert Paragraph After" = "के बाद अनुच्छेद डालें";
+"Insert Paragraph Before" = "पहले पैराग्राफ डालें";
+"Delete Code Block" = "कोड ब्लॉक हटाएं";
+"Copy as MathML" = "MATHML के रूप में कॉपी करें";
+"Copy as Tex" = "टेक्स के रूप में कॉपी करें";
+"Copy Math" = "गणित";
+"Reveal in Finder" = "खोजक में पता चलता है";
+"Open Link" = "खुली लिंक";
+"Reveal in Sidebar" = "साइडबार में प्रकट करें";
+"Open in New Window" = "नयी विंडो में खोलिए";
+"Copy File Path" = "फ़ाइल पथ कॉपी करें";
+"New File" = "नई फ़ाइल";
+"Rename" = "नाम बदलें";
+"New Folder" = "नया फ़ोल्डर";
+
+/* Electron */
+"Learn Spelling" = "वर्तनी सीखें";
+"Copy / Paste As…" = "कॉपी / पेस्ट के रूप में € |";
+"Math" = "गणित";
+"Insert" = "डालने";
+"Inspect Element" = "तत्व का निरीक्षण";
+"Copy to MS Word" = "एमएस शब्द की प्रतिलिपि";
+"Paragraph (before)" = "अनुच्छेद (पहले)";
+"Paragraph (after)" = "अनुच्छेद (बाद)";
+
+"Search with Google" = "Google के साथ खोजें";
+"Search With…" = "के साथ खोजें";
+
+/* Related Panel */
+"Open Failed" = "खुला विफल";
+"File or folder does not exist." = "फ़ाइल या फ़ोल्डर मौजूद नहीं है।";
+
+"Prettify Source Code" = "स्रोत कोड का प्रचार करें";
+"Copy '%@'" = "कॉपी '% @'";
+"Copy to %@" = "में कॉपी %@";
+"Copy Image to" = "प्रति कॉपी करें";
+"Open Image Location" = "खुली छवि स्थान";
+
+"Learn More" = "और अधिक जानें";
+"Whitespace and Line Breaks" = "व्हाइटस्पेस और लाइन ब्रेक";
+"Indent first line of paragraphs" = "अनुच्छेद की पहली पंक्ति";
+"Preserve single line break" = "एकल लाइन ब्रेक को संरक्षित करें";
+"Visible <br/>" = "दृश्यमान <br/>";
+
+"Save All" = "सभी को सेव करें";
+"New Window" = "नई विंडो";
+"Reopen Closed File" = "बंद फ़ाइल को फिर से खोलें";
+
+"Global Image Settings" = "वैश्विक छवि सेटिंग्स";
+"Smart Punctuation" = "स्मार्ट विराम चिह्न";
+"Convert on Input" = "इनपुट पर कनवर्ट करें";
+"Convert on Rendering" = "प्रतिपादन पर कनवर्ट करें";
+"Remap Unicode Punctuation on Parse" = "पार्स पर यूनिकोड विराम चिह्न को रीमेप करें";
+"More Options" = "अधिक विकल्प";
+
+"HTML Block" = "एचटीएमएल ब्लॉक";
+"Delete Block" = "ब्लॉक हटाएं";
+"Delete %@" = "% @ हटाएं";
+"Play" = "खेल";
+"Pause" = "ठहराव";
+
+"Spell Check" = "वर्तनी की जाँच";
+"Unlearn Spelling" = "वर्तनी";
+"Properties" = "गुण";
+
+"Search" = "खोज";
+"Copy without Theme Styling" = "थीम स्टाइल के बिना कॉपी करें";
+"Recent Files" = "हाल हीं के फाइल";
+"File Results" = "फ़ाइल परिणाम";
+
+"Insert Table" = "तलिका डालें";
+"Insert Image" = "चित्र डालें";
+"Allow Magnification" = "आवर्धन की अनुमति दें";
+
+"Move Row Up" = "पंक्ति को ले जाएँ";
+"Move Row Down" = "पंक्ति को नीचे ले जाएं";
+"Move Column Left" = "लेफ्ट कॉलम लेफ्ट";
+"Move Column Right" = "कॉलम को सही ले जाएँ";
+
+"Zoom Image" = "ज़ूम छवि";
+"Zoom Image to %@" = "ज़ूम छवि% @";
+
+"Copy as Plain Text" = "सादे पाठ के रूप में कॉपी करें";
+
+"Selection" = "चयन";
+"Start Speaking" = "बोलना शुरू करो";
+"Stop Speaking" = "बोलना बंद करो";
+"Check Updates" = "अपडेट जांचें";
+
+"HTML (without Styles)" = "एचटीएमएल (शैलियों के बिना)";
+
+"Highlight Current Header" = "हाइलाइट वर्तमान हेडर";
+"Expand All" = "सभी का विस्तार करें";
+"Collapse All" = "सभी को संकुचित करें";
+"Collapsible Outline" = "संकुचित रूपरेखा";
+"Flat Outline" = "फ्लैट रूपरेखा";
+"Articles (List View)" = "लेख (सूची दृश्य)";
+"File Tree (Tree View)" = "फाइल ट्री (ट्री व्यू)";
+"Filter" = "फ़िल्टर";
+
+"Upload Image" = "तस्वीर डालिये";
+"Upload All Local Images" = "सभी स्थानीय छवियों को अपलोड करें";
+"Open Image in Browser" = "ब्राउज़र में खुली छवि";
+"Copy Image" = "नकल छवि";
+
+"More Actions" = "अधिक कार्रवाई";
+"Get Info" = "जानकारी मिलना";
+
+"Export with Previous" = "पिछले के साथ निर्यात";
+"Export and Overwrite with Previous" = "निर्यात और पिछले के साथ ओवरराइट";
+
+"Emoji and Symbols" = "इमोजी और प्रतीक";
+
+"Insert Final New Line On Save" = "सहेजें पर अंतिम नई लाइन डालें";
+"Hyperlink Actions" = "हाइपरलिंक क्रियाएं";
+"Copy Link Address" = "लिंक के पते को कापी करे";
+
+"Click" = "क्लिक";
+
+"Export Setting" = "निर्यात सेटिंग";
+
+"My License" = "मेरा लाइसेंस";
+"Registration / Activation" = "पंजीकरण और सक्रियण";
+
+"Select Paragraph/Block" = "अनुच्छेद / ब्लॉक का चयन करें";

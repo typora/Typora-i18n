@@ -1,0 +1,85 @@
+/* 
+  Front.strings
+  Typora
+
+ by plutonium.239.811@gmail.com
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "टाइपोरा में आपका स्वागत है";
+"Thank you for using Typora. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "टाइपोरा का उपयोग करने के लिए धन्यवाद। टाइपोरा एक न्यूनतम मार्कडाउन संपादक और मार्कडाउन रीडर है, यह आपको रेंडर समृद्ध शैली सामग्री और उसके स्रोत कोड के बीच एक निर्बाध अनुभव देता है।";
+
+"Get Start" = "शुरू करो";
+"Check following links if you're new to Markdown or Typora." = "यदि आप मार्कडाउन या टाइपोरा के लिए नए हैं तो निम्न लिंक की जांच करें।";
+
+"Activate Typora" = "टाइपोरा सक्रिय करें";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "पहले से ही एक लाइसेंस खरीदा है? नीचे दिए गए फॉर्म को भरें और टाइपोरा को तुरंत सक्रिय करें।";
+
+"Email" = "ईमेल";
+"Email Address" = "मेल पता";
+"License Code" = "अनुज्ञापत्र संहिता";
+
+"Help" = "मदद";
+"Find my License" = "मेरा लाइसेंस खोजें";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "स्वीकार करें <a href='https://support.typora.io/license-agreement/''> लाइसेंस समझौता </a> और <a href='https://support.typora.io/privacy-policy/''> गोपनीयता नीति </a>।";
+
+"Live Preview" = "सजीव पूर्वावलोकन";
+"Write and read rendered output instantly." = "तुरंत प्रस्तुत आउटपुट लिखें और पढ़ें।";
+"Markdown Syntax" = "मार्कडाउन सिंटैक्स";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "कोड ब्लॉक, यामल, कार्य, फुटनोट, टेबल्स, गणित, आरेख";
+"Import / Export" = "आयात निर्यात";
+"Deliver your content in various formats." = "विभिन्न प्रारूपों में अपनी सामग्री वितरित करें।";
+"Editing Experience" = "संपादन अनुभव";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "रूपरेखा / शब्द गणना / फोकस मोड / टाइपराइटर मोड";
+
+"Files" = "फ़ाइलें";
+"Manage files in sidebar and search across files." = "फ़ाइलों को साइडबार में प्रबंधित करें और फ़ाइलों में खोजें।";
+"Customize" = "अनुकूलित करें";
+"Customize your writing experience from preferences panel." = "प्राथमिकता पैनल से अपने लेखन अनुभव को अनुकूलित करें।";
+"Themes" = "विषयों";
+"Write in the theme you like, or make one by your own." = "अपनी पसंद की थीम में लिखें, या अपने आप से एक बनाओ।";
+"And more" = "और अधिक";
+"Explore more topics at support.typora.io" = "Support.typora.io पर अधिक विषयों का अन्वेषण करें";
+
+"Quick Start" = "जल्दी शुरू";
+"Markdown Reference" = "मार्कडाउन संदर्भ";
+"Explore Themes" = "सूचनाओं का अन्वेषण करें";
+"More Topics" = "अधिक विषय";
+
+"Typora Activated" = "टाइपोरा सक्रिय";
+"Thanks for your purchase." = "आपकी खरीदी के लिए शुक्रिया।";
+
+"Next" = "अगला";
+"Please accept license agreement first" = "कृपया पहले लाइसेंस समझौते को स्वीकार करें";
+"Start %@ Days Trial" = "% @ दिन परीक्षण शुरू करें";
+"Buy License" = "लाइसेंस खरीदें";
+"Activate" = "सक्रिय";
+
+"Close" = "बंद करे";
+"Deactivate" = "निष्क्रिय करें";
+"View License" = "लाइसेंस देखें";
+"Your Typora License" = "आपका टाइपोरा लाइसेंस";
+"This copy of Typora is registered with license information below." = "टाइपोरा की यह प्रति नीचे लाइसेंस की जानकारी के साथ पंजीकृत है।";
+"Your trial will be expired in %@ days." = "आपका परीक्षण% @ दिनों में समाप्त हो जाएगा।";
+"Enter License" = "लाइसेंस दर्ज करें";
+"Not Now" = "अभी नहीं";
+
+"Please input a valid email address" = "कृपया एक मान्य ईमेल पता इनपुट करें";
+"Please input a valid license code"  = "कृपया एक वैध लाइसेंस कोड इनपुट करें";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "आपका लाइसेंस अधिकतम डिवाइस संख्याओं को पार कर गया है। \nThe सबसे पुराना डिवाइस स्वचालित रूप से अनियंत्रित था।";
+"This license code has been used with a different email address." =  "इस लाइसेंस कोड का उपयोग एक अलग ईमेल पते के साथ किया गया है।";
+"Unknown Error. Please contact hi@typora.io" = "अज्ञात त्रुटि। कृपया hi@typora.io से संपर्क करें";
+"Failed to access the license server. Please check your network or try again later." = "लाइसेंस सर्वर तक पहुंचने में विफल। कृपया अपना नेटवर्क जांचें या बाद में पुनः प्रयास करें।";
+
+"Enter a license code to support our development" = "हमारे विकास का समर्थन करने के लिए एक लाइसेंस कोड दर्ज करें";
+"Re-enter Email" = "ईमेल पुन: दर्ज करें";
+"Email address confirmation does not match." = "ईमेल पता पुष्टिकरण मेल नहीं खाता है।";
+
+"Are you sure to deactivate Typora on this device?" = "क्या आप इस डिवाइस पर टाइपोरा को निष्क्रिय करना सुनिश्चित कर रहे हैं?";
+
+"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\"आपका लाइसेंस अधिकतम डिवाइस संख्याओं को पार कर गया है। \nIf आप क्लिक \" = "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically.";
+"Continue Activation" = "सक्रियण जारी रखें";

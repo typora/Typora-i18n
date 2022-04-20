@@ -102,3 +102,5 @@
 "Offline Activation" = "Aktivasi Luring";
 "Back" = "Kembali";
 "Get Activation Token" = "Dapatkan Token Aktivasi";
+
+"Your activated devices have exceeded the maximum limits." = "Perangkat Anda yang diaktifkan telah melampaui limit maksimum.";

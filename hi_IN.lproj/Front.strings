@@ -1,0 +1,189 @@
+/* 
+  Front.strings
+  Typora
+
+ by plutonium.239.811@gmail.com
+*/
+
+/* Common */
+"OK" = "ठीक है";
+"Cancel" = "रद्द करें";
+"Yes" = "हाँ";
+"No" = "नहीं";
+"Close" = "बंद करे";
+"Select" = "चुनते हैं";
+"Continue" = "जारी रखें";
+"Learn Moreâ€¦" = "और जानें € |";
+"Untitled" = "शीर्षकहीन";
+"Undo" = "पूर्ववत";
+"Dismiss" = "खारिज";
+"Confirm" = "पुष्टि करना";
+"Error" = "त्रुटि";
+
+/* Search Panel */
+"Search" = "खोज";
+"Replace" = "बदलने के";
+"All" = "सभी";
+"Search text not found in article" = "लेख में खोज पाठ नहीं मिला";
+"search text" = "खोज पाठ";
+
+/* Quick Open */
+"Search by file name" = "फ़ाइल नाम से खोजें";
+"Searching" = "खोज कर";
+"Gathering more results" = "अधिक परिणाम एकत्र करना";
+
+/* Tables */
+"Insert Table" = "तलिका डालें";
+"Columns" = "कॉलम";
+"Rows" = "पंक्तियों";
+"Align Left" = "बाये को करी";
+"Align Center" = "मध्य में संरेखित करें";
+"Align Right" = "सही संरेखित";
+"Resize Table" = "तालिका का आकार बदलें";
+"Delete Table" = "तालिका हटाएं";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "टाइपोरा आपके यामल फ्रंट मैटर सेटिंग या वैश्विक वरीयताओं के अनुसार फ़ोल्डर <कोड आईडी = 'छवि-निर्माण-फ़ोल्डर-लक्ष्य'> </ code> पर नई डाली गई छवि को कॉपी करने की कोशिश कर रहा है। लेकिन लक्ष्य फ़ोल्डर मौजूद नहीं है, इसे अभी बनाएं?";
+"Create Folder" = "फोल्डर बनाएं";
+
+/* Math */
+"Edit" = "संपादित करें";
+"Delete Math" = "गणित हटाएं";
+"Preview" = "पूर्वावलोकन";
+
+/* Sidebar */
+"Articles" = "सामग्री";
+"Outline" = "रेखांकित करें";
+"Files" = "फ़ाइलें";
+"Switch to File List view" = "फ़ाइल सूची दृश्य पर स्विच करें";
+"Switch to File Tree view" = "फाइल ट्री व्यू पर स्विच करें";
+"Switch to Outline view" = "रूपरेखा दृश्य पर स्विच करें";
+"Close sidebar" = "साइडबार बंद करें";
+"Loading" = "लोड हो रहा है";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "चयनित फ़ोल्डर में बहुत सारी फाइलें होती हैं। \ N कृपया बेहतर प्रदर्शन के लिए <a id='Switch-to-tree-on-Overize'> फ़ाइल ट्री व्यू </a> पर स्विच करें।";
+"New File" = "नई फ़ाइल";
+"Unpin Outline Panel" = "अनपिन आउटलाइन पैनल";
+"Open Folder..." = "फोल्डर खोलो...";
+"Action" = "कार्य";
+"Close Sidebar Menu" = "साइडबार मेनू बंद करें";
+"Reveal in Finder" = "खोजक में पता चलता है";
+"Reveal in File Explorer" = "फ़ाइल एक्सप्लोरर में प्रकट करें";
+"Refresh Folder" = "फ़ोल्डर को ताज़ा करें";
+"Sort" = "तरह";
+"Group By Folder" = "फ़ोल्डर द्वारा समूह";
+"Sort Naturally (Ascending)" = "स्वाभाविक रूप से क्रमबद्ध करें (आरोही)";
+"Sort Naturally (Descending)" = "स्वाभाविक रूप से क्रमबद्ध करें (उतरना)";
+"Sort by Name (Ascending)" = "नाम से क्रमबद्ध करें (आरोही)";
+"Sort by Modification Date (Ascending)" = "संशोधन तिथि द्वारा क्रमबद्ध करें (आरोही)";
+"Sort by Name (Descending)" = "नाम से क्रमबद्ध करें (अवरोही)";
+"Sort by Modification Date (Descending)" = "संशोधन तिथि (अवरोही) द्वारा क्रमबद्ध करें";
+"Location" = "स्थान";
+"Switch File List/Tree View" = "फ़ाइल सूची / पेड़ दृश्य स्विच करें";
+"No Files Available" = "कोई फाइल उपलब्ध नहीं है";
+"No Folder is Opened." = "कोई फ़ोल्डर नहीं खोला जाता है।";
+"Outline is Empty." = "रूपरेखा खाली है।";
+
+/* Status Bar */
+"Toggle Sidebar" = "साइडबार टॉगल करें";
+"Toggle Source Code Mode" = "स्रोत कोड मोड टॉगल करें";
+"Exit Source Code Mode" = "स्रोत कोड मोड से बाहर निकलें";
+
+"Table of Contents" = "विषयसूची";
+"Empty Diagram" = "खाली आरेख";
+"Input Math TeX here" = "इनपुट गणित टेक्स यहाँ";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "संदर्भ फुटनोट <b> {0} </ b> को सिंटैक्स के साथ परिभाषित करने की आवश्यकता है <a> [^ {1}]: www.example.com </a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "संदर्भ लिंक को परिभाषित करने की आवश्यकता <b> [{0}] </ b> सिंटैक्स के साथ <b> [{1}]: www.example.com </ b>";
+"Please define image reference by \n[{0}]: http://example.png" = "कृपया \ n [{0}] द्वारा छवि संदर्भ को परिभाषित करें: http: //example.png";
+
+/* msg */
+"Failed to create file" = "फ़ाइल बनाने में विफल";
+"Failed to create folder" = "फ़ोल्डर बनाने में विफल";
+"Failed to rename file" = "फ़ाइल का नाम बदलने में विफल";
+"Folder does not exist at %@" = "फ़ोल्डर% @ पर मौजूद नहीं है";
+"File with the same name already exists at target path" = "उसी नाम के साथ फ़ाइल पहले से ही लक्ष्य पथ पर मौजूद है";
+"Apply to All" = "सब पर लागू";
+"Overwrite" = "ओवरराइट";
+"Stop" = "विराम";
+"back to document" = "वापस दस्तावेज़ पर";
+"Failed to load file" = "फ़ाइल लोड करने में विफल";
+"Save File Failed!" = "फ़ाइल सहेजें विफल!";
+"Cannot open folder {0}" = "फ़ोल्डर नहीं खोल सकता {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "फ़ाइल सामग्री बाहरी अनुप्रयोगों द्वारा बदल दी जाती है। डिस्क से सामग्री को पुनः लोड करें?";
+"Should continue moving and overwrite existing file(s) ?" = "जारी रखना जारी रखना चाहिए और मौजूदा फ़ाइल को ओवरराइट करना चाहिए?";
+
+"Rename to \"{0}\"नाम बदलें" = "Rename to \"{0}\" ?";
+"Failed to rename from \"{0}\"से नाम बदलने में विफल"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+
+"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
+"Successfully uploaded {0} images." = "सफलतापूर्वक {0} छवियों को अपलोड किया गया।";
+"Failed to upload image. Error Message:" = "छवि अपलोड करने में विफल। त्रुटि संदेश:";
+"Failed to Copy Image to Target Folder." = "फ़ोल्डर को लक्षित करने के लिए छवि कॉपी करने में विफल।";
+"Select Container Folder" = "कंटेनर फ़ोल्डर का चयन करें";
+
+"Saved" = "बचाया";
+
+/* place holder in find & replace input */
+"search text" = "खोज पाठ";
+"replace with" = "से बदलो";
+/* search option */
+"Case Sensitive" = "अक्षर संवेदनशील";
+"Whole Word" = "पूरा शब्द";
+
+"input image URL" = "इनपुट छवि यूआरएल";
+"Select image from local file" = "स्थानीय फ़ाइल से छवि का चयन करें";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "स्थान <कोड> $ 1 </ code> नहीं खोल सकता, क्या आपका मतलब है <a href='https://$3'> https: // $ 2 </a>?";
+
+"select a language" = "भाषा चुनें";
+"Finish Editing" = "संपादन समाप्त करें";
+
+"Revert advanced setting file to default one ?" = "डिफ़ॉल्ट सेटिंग फ़ाइल को डिफ़ॉल्ट पर वापस लाएं?";
+
+"Select Spell Check Language" = "वर्तनी जांच भाषा का चयन करें";
+"Auto Detect Language" = "ऑटो पता लगाते हैं";
+"Disable Spell Check" = "वर्तनी जाँच अक्षम करें";
+"Global Settingâ€¦" = "वैश्विक सेटिंग € |";
+"Dictionary file is missing to enable spellcheck support for %@." = "% @ के लिए वर्तनी जांच को सक्षम करने के लिए शब्दकोश फ़ाइल गुम है।";
+"Install Language Support" = "भाषा समर्थन स्थापित करें";
+"License Information" = "लाइसेंस जानकारी";
+"Download" = "डाउनलोड";
+"Install dictionary file only for Typora" = "केवल टाइपोरा के लिए शब्दकोश फ़ाइल स्थापित करें";
+"Spell Check (%@ unavailable)" = "वर्तनी जाँच (% @ अनुपलब्ध)";
+"Spell Check (%@ downloading)" = "वर्तनी जांच (% @ डाउनलोडिंग)";
+"Download dictionary file for %@" = "% @ के लिए शब्दकोश फ़ाइल डाउनलोड करें";
+"(Default spell check option)" = "(डिफ़ॉल्ट वर्तनी जांच विकल्प)";
+"Failed to load spellcheck module" = "स्पेलचेक मॉड्यूल लोड करने में विफल";
+
+"<strong>%@</strong> has been turned on." = "<strong>% @ </ strong> चालू किया गया है।";
+"You could turn it off from `View` menu." = "आप इसे 'व्यू` मेनू से बंद कर सकते हैं।";
+"The file is too large to render in Typora." = "टाइपोरा में प्रस्तुत करने के लिए फ़ाइल बहुत बड़ी है।";
+"Open inâ€¦" = "€ € | में खुला";
+"Quick Look" = "त्वरित देखो";
+
+"Filter" = "फ़िल्टर";
+"No result found." = "कोई परिणाम नहीं मिला।";
+"Continue & Overwrite" = "जारी रखें और ओवरराइट करें";
+"The file is read-only, or you do not have right permissions to modify the file." = "फ़ाइल केवल पढ़ने योग्य है, या फ़ाइल को संशोधित करने के लिए आपके पास सही अनुमतियां नहीं हैं।";
+
+"Learn Data Recovery" = "डेटा रिकवरी सीखें";
+"Auto refresh on Files Panel cannot be enabled." = "फ़ाइलें पैनल पर ऑटो रीफ्रेश सक्षम नहीं किया जा सकता है।";
+"Delete Permanently" = "स्थायी रूप से मिटाएं";
+
+
+"Failed to upload images:" = "छवियों को अपलोड करने में विफल:";
+"Uploading in progress" = "प्रगति पर अपलोड करना";
+"Successfully uploaded {0} images, {1} failed." = "सफलतापूर्वक {0} छवियों को अपलोड किया गया, {1} विफल।";
+
+"You could undo this operation later via `Edit` â†’ `Undo`." = "आप बाद में `संपादन '†'` पूर्ववत 'के माध्यम से इस ऑपरेशन को पूर्ववत कर सकते हैं।";
+
+"You can press <strong>âŒ˜ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'> लिंक </a> खोलने के लिए आप <strong> œœ + क्लिक </ strong> दबा सकते हैं या फुटनोट परिभाषा पर कूद सकते हैं।";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'> लिंक </a> खोलने के लिए आप <strong> Ctrl + क्लिक </ strong> दबा सकते हैं या फुटनोट परिभाषा पर कूद सकते हैं।";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong> यूनिबॉडी </ strong> शैली चालू कर दी गई है।";
+"You can right click titlebar to popup application menu." = "आप पॉपअप एप्लिकेशन मेनू पर टाइटलबार पर राइट क्लिक कर सकते हैं।";
+
+"Support Document" = "समर्थन दस्तावेज़";
+
+"You are not supposed to edit or save this file." = "आपको इस फ़ाइल को संपादित या सहेजना नहीं है।";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "इस स्थान (% @) में फ़ाइलें टाइपोरा द्वारा प्रबंधित की जाती हैं, और स्वचालित रूप से हटा दी जा सकती हैं। <br/> कृपया सामग्री को एक नई फ़ाइल में आगे संपादन के लिए कॉपी करें।";

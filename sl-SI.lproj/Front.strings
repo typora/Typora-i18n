@@ -2,10 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io
- 
-  translation by @sponka9 / Boštjan <sponka@gmail.com>
-
+ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 */
 
 /* Common */
@@ -51,16 +48,16 @@
 
 /* Math */
 "Edit" = "Uredi";
-"Delete Math" = "Izbriši Metamatiko";
+"Delete Math" = "Izbriši Matematiko";
 "Preview" = "Predogled";
 
 /* Sidebar */
 "Articles" = "Članki";
 "Outline" = "Oris";
 "Files" = "Datoteke";
-"Switch to File List view" = "Preklopite na pogled seznama datotek";
-"Switch to File Tree view" = "Preklopite na drevesni pogled datotek";
-"Switch to Outline view" = "Preklopite na pogled orisa";
+"Switch to File List view" = "Preklopi na pogled seznama datotek";
+"Switch to File Tree view" = "Preklopi na drevesni pogled datotek";
+"Switch to Outline view" = "Preklopi na pogled orisa";
 "Close sidebar" = "Zapri stransko vrstico";
 "Loading" = "Nalaganje";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Izbrana mapa vsebuje preveliko število datotek. \nZa boljšo odzivnost izberite <a id='switch-to-tree-on-oversize'>Drevesni pogled datotek</a>,";
@@ -145,7 +142,7 @@
 
 "Select Spell Check Language" = "Izberite jezik črkovalnika";
 "Auto Detect Language" = "Samodejno zaznaj jezik";
-"Disable Spell Check" = "Onemogoči preberjanje črkovanja";
+"Disable Spell Check" = "Onemogoči preverjanje črkovanja";
 "Global Setting…" = "Globalne nastavitve …";
 "Dictionary file is missing to enable spellcheck support for %@." = "Datoteka s slovarjem za %@ ne obstaja, podpora za črkovanje ni omogočena.";
 "Install Language Support" = "Namesti jezikovno podporo";
@@ -173,6 +170,7 @@
 "Auto refresh on Files Panel cannot be enabled." = "Samodejnega osveževanja seznama datotek ni mogoče omogočiti.";
 "Delete Permanently" = "Dokončno izbriši";
 
+
 "Failed to upload images:" = "Neuspešno nalaganje slik:";
 "Uploading in progress" = "Poteka nalaganje";
 "Successfully uploaded {0} images, {1} failed." = "Uspešno prenešenih {0} slik, {1} ni uspelo.";
@@ -191,4 +189,4 @@
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Datoteke na tem mestu (%@) upravlja Typora in se lahko samodejno izbrišejo.<br/>Za urejanje kopirajte vsebino v novo datoteko.";
 
 "File not exists at path %@." = "Datoteka na poti %@ ne obstaja.";
-"File not exists at path %@, do you want to create one at that path ?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";
+"File not exists at path %@, do you want to create one at that path?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";

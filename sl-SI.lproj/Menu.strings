@@ -2,17 +2,14 @@
   Menu.strings
   Typora
 
- by hi@typora.io
-  
-  translation by @sponka9 / Boštjan <sponka@gmail.com>
-
+ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 */
 
 /* Typora Menu */
 
 "About Typora" = "O Typori";
 "Preferences" = "Nastavitve";
-"Check for Updates" = "Preveri pododobitve";
+"Check for Updates" = "Preveri za posodobitve";
 "Services" = "Servisi";
 "Hide Typora" = "Skrij Typoro";
 "Hide Others" = "Skrij ostalo";
@@ -25,7 +22,7 @@
 "New" = "Novo";
 "Open" = "Odpri";
 "Open Folder" = "Odpri mapo";
-"Reopen with Encoding" = "ponovno odpri s kodiranjem";
+"Reopen with Encoding" = "Ponovno odpri s kodiranjem";
 "Auto" = "Samodejno";
 "Open Recent" = "Odpri nedavno";
 "Recent Locations" = "Nedavne lokacije";
@@ -55,7 +52,7 @@
 "Cut" = "Izreži";
 "Copy" = "Kopiraj";
 "Paste" = "Prilepi";
-"Copy as Markdown" = "kopiraj kot Markdown";
+"Copy as Markdown" = "Kopiraj kot Markdown";
 "Copy as HTML Code" = "Kopiraj kot HTML kodo";
 "Paste as Plain Text" = "Prilepi kot golo besedilo";
 "Select All" = "Izberi vse";
@@ -109,8 +106,8 @@
 "Heading 4" = "Naslov 4";
 "Heading 5" = "Naslov 5";
 "Heading 6" = "Naslov 6";
-"Increase Heading Level" = "Povečaj stopnjo naslova";
-"Decrease Heading Level" = "Zmanjšaj stopnjo naslova";
+"Increase Heading Level" = "Povečaj raven naslova";
+"Decrease Heading Level" = "Zmanjšaj raven naslova";
 "Table" = "Tabela";
 "Code Fences" = "Blok s kodo";
 "Math Block" = "Matematični blok";
@@ -138,8 +135,8 @@
 "Underline" = "Podčrtano";
 "Code" = "Koda";
 "Inline Math" = "Matematične formule v vrstici";
-"Strike" = "Prečrtaj";
-"Highlight" = "Povdari";
+"Strike" = "Prečrtano";
+"Highlight" = "Povdarjeno";
 "Superscript" = "Nadpisano";
 "Subscript" = "Podpisano";
 "Comment" = "Komentar";
@@ -161,9 +158,9 @@
 "Full Screen" = "Celozaslonski način";
 "Show Status Bar" = "Prikaži statusno vrstico";
 "Toggle Fullscreen" = "Preklopi v celozaslonski način";
-"Actual Size" = "Prava velikost";
-"Zoom In" = "Povečaj";
-"Zoom Out" = "Pomanjšaj";
+"Actual Size" = "Privzeta povečava";
+"Zoom In" = "Povečaj prikaz";
+"Zoom Out" = "Zmanjšaj prikaz";
 "Switch Between Opened Documents" = "Preklopi med odprtimi dokumenti";
 "Toggle DevTools" = "Prikaži/skrij DevTools";
 
@@ -256,7 +253,7 @@
 "Smart Punctuation" = "Pametna ločila";
 "Convert on Input" = "Pretvori ob vnosu";
 "Convert on Rendering" = "Pretvori ob izrisu";
-"Remap Unicode Punctuation on Parse" = "Ob razčlenjevanju preobliku unicode ločila";
+"Remap Unicode Punctuation on Parse" = "Ob razčlenjevanju preoblikuj unicode ločila";
 "More Options" = "Več možnosti";
 
 "HTML Block" = "HTML blok";
@@ -291,7 +288,7 @@
 "Selection" = "Izbor";
 "Start Speaking" = "Začni z govorom";
 "Stop Speaking" = "Prenehaj z govorom";
-"Check Updates" = "Preveri pododobitve";
+"Check Updates" = "Preveri posodobitve";
 
 "HTML (without Styles)" = "HTML (brez stilov)";
 
@@ -329,3 +326,10 @@
 "Registration / Activation" = "Registracija / Aktivacija";
 
 "Select Paragraph / Block" = "Izberi odstavek/blok";
+
+"Delete Selected" = "Izbriši označeno";
+"Move Image to…" = "Premakni sliko v …";
+"Move to %@…" = "Premakni v %@…";
+"Delete Image" = "Izbriši sliko";
+"Delete Image File" = "Izbriši slikovno datoteko";
+"Reload All Images" = "Ponovno naloži vse slike";

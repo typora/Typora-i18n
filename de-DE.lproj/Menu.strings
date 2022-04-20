@@ -77,7 +77,6 @@
 "Upload Local Images via iPic" = "Lokale Bilder über iPic hochladen";
 "When Insert Local Image" = "Wenn lokale Bilder eingefügt werden";
 "Copy Image File to Folder" = "Bilddateien in den Ordner kopieren";
-"Upload Image via iPic" = "Bilder über iPic hochladen";
 "Use Image Root Path" = "Wurzelverzeichnis für Bilder nutzen";
 "Line Endings" = "Zeilenenden";
 "Windows Line Endings (CRLF)" = "Windows Zeilenenden (CRLF)";
@@ -303,3 +302,36 @@
 "Articles (List View)" = "Artikellistenansicht";
 "File Tree (Tree View)" = "Dateibaumansicht";
 "Filter" = "Filter";
+
+"Upload Image" = "Bild hochladen";
+"Upload All Local Images" = "Alle lokalen Bilder hochladen";
+"Open Image in Browser" = "Bild im Browser öffnen";
+"Copy Image Content" = "Bildinhalt kopieren";
+
+"More Actions" = "Mehr Aktionen";
+"Get Info" = "Informationen über das Dokument";
+
+"Export with Previous" = "Mit zuletzt verwendeten Einstellungen exportieren";
+"Export and Overwrite with Previous" = "Export mit Dokumentänderungen überschreiben";
+
+"Emoji and Symbols" = "Emojis und Symbole";
+
+"Insert Final New Line On Save" = "Abschließende neue Zeile beim Speichern einfügen";
+"Hyperlink Actions" = "Hyperlink Aktionen";
+"Copy Link Address" = "Linkadresse kopieren";
+
+"Click" = "Klick";
+
+"Export Setting" = "Exporteinstellung";
+
+"My License" = "Meine Lizenz";
+"Registration / Activation" = "Registrierung / Aktivierung";
+
+"Select Paragraph / Block" = "Absatz / Block auswählen";
+
+"Delete Selected" = "Ausgewählte löschen";
+"Move Image to…" = "Bild verschieben nach…";
+"Move to %@…" = "Bild nach '%@…' verschieben";
+"Delete Image" = "Bild löschen";
+"Delete Image File" = "Bilddatei löschen";
+"Reload All Images" = "Alle Bilder neu laden";

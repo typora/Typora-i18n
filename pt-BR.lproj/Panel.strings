@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by aride.moulin@gmail.com, @teuscard
+ by aride.moulin@gmail.com, @teuscard, @laazv
  */
 
 /* Preference Panel */
@@ -280,7 +280,6 @@
 "words / min" = "palavras / min";
 
 "Reset to Default" = "Redefinir para Padrão";
-"Select custom folder" = "Selecionar pasta personalizada";
 "120  words/minute (Slow)" = "120  palavras/minuto (Devagar)";
 "240  words/minute (Medium)" = "240  palavras/minuto (Normal)";
 "382  words/minute (Fast)" = "382  palavras/minuto (Rápido)";
@@ -313,7 +312,6 @@
 "Do not show this message again" = "Não mostrar essa mensagem de novo";
 
 "Page Break Between Top Headings" = "Quebra de página entre as seções de nível superior";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Você pode definir padrões de cotação nas Preferências do Sistema → Teclado → Texto. Se alterado, o Typora precisará ser reiniciado para aplicar os ajustes.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Desculpa, um erro ocorreu, o conteúdo atual foi copiado para a área de transferência. Você pode reportar esse erro para <hi@typora.io> a fim de nos ajudar a corrigir.";
 "Try Recovery" = "Tentar Recuperar";
@@ -358,7 +356,148 @@
 
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora abrirá um aplicativo de terceiro com caminhos de arquivo de todas as imagens locais. O carregador de imagem e o armazenamento em nuvem terão acesso as imagens locais. Tem certeza que deseja continuar?";
 
-"Export operation finished successfully." = "Exportar operação concluída com sucesso.";
+"Export operation finished successfully." = "Exportação concluída com sucesso.";
 
 "Shortcut Keys" = "Teclas de Atalho";
 "Custom Shortcut Keys" = "Teclas de Atalho Personalizadas";
+
+"Theme" = "Tema";
+"Light Theme" = "Tema Claro";
+"Dark Theme" = "Tema Escuro";
+"Use separate theme in dark mode" = "Usar tema separado no modo escuro";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Compatível com MacOS ≥ 10.15 ou Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Converter -- para – (traço), e --- para — (travessão)";
+"Convert -- and --- to — (em dash)" = "Converter -- e --- para — (travessão)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Você pode definir padrões de cotação nas Preferências do Sistema → Teclado → Texto. Se alterado, o Typora precisará ser reiniciado para aplicar os ajustes.";
+
+
+"Paper Size" = "Tamanho do papel";
+"US Letter" = "Carta (Estados Unidos)";
+"US Legal" = "US Legal";
+"Tabloid" = "Tablóide";
+"Page Break" = "Quebra de Página";
+"Page Break Between Top Headings" = "Quebra de Página entre Títulos";
+"Header" = "Cabeçalho";
+"Footer" = "Rodapé";
+"Author" = "Autor";
+"Append in <head />" = "Juntar no <head />";
+"Append in <body />" = "Juntar no <body />";
+"Include Outline Sidebar" = "Incluir Barra Lateral de Esboço";
+"Width" = "Largura";
+"Command" = "Comando";
+"Show Save File Dialog" = "Exibir Caixa de Diálogo de Salvamento";
+"File Extensions for Export" = "Extensões de Arquivo para Exportação";
+"Arguments" = "Argumentos";
+"Extra Arguments" = "Argumentos Extra";
+"LaTeX Engine" = "Motor LaTeX";
+"Template" = "Modelo";
+"Empty" = "Vazio";
+"Style Reference" = "Referência de Estilo";
+"Custom CSS" = "CSS Personalizado";
+"Chapter Level" = "Nível do Capítulo";
+"Default Folder for Exported File" = "Pasta Padrão para Arquivos Exportados";
+"Same folder with current file" = "Mesma pasta do arquivo atual";
+"Custom location" = "Local personalizado";
+"(Auto Detect)" = "(Detectar Automaticamente)";
+"After Export" = "Depois de Exportar";
+"Open exported file location" = "Abrir a pasta do arquivo exportado";
+"Open exported file" = "Abrir o arquivo exportado";
+"Custom" = "Personalizado";
+"None" = "Nenhum";
+"Default" = "Padrão";
+"Margin" = "Margem";
+"Margin Left" = "Margem da Esquerda";
+"Margin Right" = "Margem da Direita";
+"Margin Top" = "Margem Superior";
+"Margin Bottom" = "Margem Inferior";
+"Width x Height" = "Largura x Altura";
+"Add From a Template" = "Adicionar a partir de um Modelo";
+"Delete this export option ?" = "Remover essa opção de exportação ?";
+"Add" = "Adicionar";
+"Delete" = "Remover";
+"Rename" = "Renomear";
+"Move Down" = "Move para Cima";
+"Move Up" = "Mover para Baixo";
+"Pandoc Path" = "Caminho para o Pandoc";
+"Select" = "Selecionar";
+"Target Format" = "Formato de Destino";
+"auto detect based on target file path" = "detectar automaticamente baseado no caminho do arquivo de destino";
+"Target File Extensions (separate by whitespace)" = "Extensões de Arquivo de Destino (separados por um espaço)";
+"e.g: .text .asciidoc or leave this empty" = "ex: .text .asciidoc ou deixe este campo vazio";
+"Raw Type" = "Tipo Raw";
+"Auto" = "Automático";
+"Show Save File Dialog" = "Exibir Caixa de Diálogo de Salvamento";
+"Do not popup save file dialog" = "Não exibir caixa de diálogo de salvamento";
+"Select file path to save" = "Selecionar caminho do arquivo para salvar";
+"Select folder path to save" = "Selecionar caminho da pasta para salvar";
+"PDF Engine" = "Motor PDF";
+"Show command output" = "Exibir comando de saída";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportar e Sobrescrever com o Anterior\" irá sobrescrever o arquivo salvo em %@, gostaria de continuar?";
+"Command Arguments:" = "Argumentos do Comando:";
+"This dev version of Typora is expired, please download and install a newer version." = "Esta versão de desenvolvimento do Typora expirou, por favor baixe e instale a versão mais recente.";
+"Current Theme" = "Tema Atual";
+"After Export" = "Após Exportar";
+"Run command" = "Executar comando";
+"Run command after export failed" = "A execução do comando após a exportação falhou";
+"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
+"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
+"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Dark theme is not supported." = "Tema escuro não é suportado.";
+
+"Markdown Variants" = "Variações do Markdown";
+"Original Unextended Markdown" = "Markdown Original não interpretado";
+"CommonMark with many pandoc extensions" = "CommonMark com várias extensões do pandoc";
+"Line Wrap" = "Quebra de Linha";
+"Hard line wrap" = "Quebra de Linha Restrita";
+"Text Column Width" = "Largura da Coluna de Texto";
+"Auto (based on current OS)" = "Automaticamente (baseado no SO atual)";
+"Indent" = "Indentar";
+"Preserve tabs" = "Preservar tabs";
+"2 spaces per tab" = "2 espaços por tab";
+"3 spaces per tab" = "3 espaços por tab";
+"4 spaces per tab" = "4 espaços por tab";
+"Unicode Characters" = "Caracteres Unicode";
+"Use only ASCII characters in output" = "Usar somente caracteres ASCII na saída";
+"Use reference-style links rather than inline links" = "Utilizar link no estilo referência ao invés de links inline";
+"Footnotes and References Location" = "Localização das Referências e Notas de Rodapé";
+"End of document" = "Final do documento";
+"End of current (top-level) block" = "Final do bloco (de maior nível) atual";
+"End of current section" = "Final da seleção atual";
+"Convert TeX formulas to web images" = "Converter formulas TeX em imagens para web";
+"Image Format" = "Formato de Imagem";
+
+"Set Pandoc Path" = "Definir caminho do Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Aplicar Quebra de Linha em \\ e &#92;newline";
+
+"Export operation succeeded with warnings." = "Operação de Exportação foi concluída com avisos.";
+
+"Typora is now deactivated" = "Typora está desativado";
+"This device has been deactivated" = "Este dispositivo foi desativado";
+"UNREGISTERED" = "NÃO REGISTRADO";
+
+"Your Typora is not activated." = "Seu Typora não está ativado.";
+"Your Typora has been activated." = "Seu Typora foi ativado.";
+"Typora activation is required to change this." = "A ativação do Typora é necessária para modificar isto.";
+"You can reinstall the stable version and then disable this." = "Você pode reinstalar a versão estável e então desabilitar esta opção.";
+"Update to dev version" = "Atualizar para a versão de desenvolvimento";
+
+"Typora Server" = "Servidor do Typora";
+"Use Typora Server in China" = "Utilizar o servidor do Typora na China";
+
+"File does not exist" = "Arquivo não existe";
+"Create File" = "Criar Arquivo";
+"Create Folder" = "Criar Pasta";
+
+"(Some options will be applied after restart.)" = "(Algumas opções serão aplicadas após reiniciar.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copiar ou Recortar toda linha em que se encontra o cursor se não houver uma seleção ao copiar / recortar.";
+"Enable physics package" = "Habilitar o pacote de Física";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "O Pacote de Física irá redefinir alguns macros do latex, como \\div, \\Re, etc.";
+
+"Detail" = "Detalhe";
+"Use custom font size" = "Usar um tamanho de fonte personalizado";
+"Use theme font size" = "Usar o tamanho da fonte do tema";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Você está usando a versão Snap, ela pode ter acesso limitado aos executáveis locais.";
+

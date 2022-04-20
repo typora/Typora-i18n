@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by hi@typora.io
+ by @laazv
 */
 
 /*
@@ -74,3 +74,15 @@
 "This license code has been used with a different email address." =  "Este código de licença foi usado com um endereço de e-mail diferente.";
 "Unknown Error. Please contact hi@typora.io" = "Erro desconhecido. Por favor entre em contato com hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Falha ao conectar com o servidor de licenças. Por favor cheque sua conexão com a internet ou tente novamente mais tarde."
+
+"Enter a license code to support our development ❤" = "Entre um código de licença para contribuir com o nosso desenvolvimento ❤";
+"Re-enter Email" = "Re-insira seu e-mail";
+"Email address confirmation does not match." = "O E-mail de confirmação não é igual.";
+
+"Are you sure to deactivate Typora on this device?" = "Tem certeza que deseja desativar o Typora nesse dispostivo?";
+
+"Offline Activation" = "Ativação Offline";
+"Back" = "Voltar";
+"Get Activation Token" = "Obter Token de Ativação";
+
+"Your activated devices has exceeded the maximum limits." = "Você excedeu o limite máximo de dispositivos ativos.";

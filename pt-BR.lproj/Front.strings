@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by aride.moulin@gmail.com, @teuscard
+ by aride.moulin@gmail.com, @teuscard, @laazv
 */
 
 /* Common */
@@ -174,3 +174,19 @@
 "Failed to upload images:" = "Erro ao carregar imagens:";
 "Uploading in progress" = "Carregamento em processo";
 "Successfully uploaded {0} images, {1} failed." = "{0} imagens carregadas com sucesso, {1} falharam.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Você pode desfazer essa operação mais tarde em `Editar` → `Desfazer`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Você pode pressionar <strong>⌘ + Clique</strong> para abrir <a href='#'>links</a> ou ir à nota de rodapé.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Você pode pressionar <strong>CTRL + Clique</strong> para abrir <a href='#'>links</a> ou ir à nota de rodapé.";
+
+"<strong>Unibody</strong> style has been turned on." = "O estilo <strong>Unibody</strong> foi ativado.";
+"You can right click titlebar to popup application menu." = "Você pode clicar com o botão direito na barra de titulo para exibir o menu do aplicativo.";
+
+"Support Document" = "Documento de Supporte";
+
+"You are not supposed to edit or save this file." = "Você não pode editar ou salvar este arquivo.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Arquivos neste local (%@) são gerenciados pelo Typora, e podem ser deletados automaticamente.<br/>Por favor copie o conteúdo para um novo arquivo para continuar editando.";
+
+"File does not exist at path %@." = "O arquivo não existe no caminho %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "O arquivo não existe no caminho %@, deseja cria-lo neste local?";

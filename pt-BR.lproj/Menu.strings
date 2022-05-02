@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by aride.moulin@gmail.com, @teuscard
+ by aride.moulin@gmail.com, @teuscard, @laazv
 */
 
 /* Typora Menu */
@@ -303,3 +303,32 @@
 "Upload Image" = "Carregar Imagem";
 "Upload All Local Images" = "Carregar Todas as Imagens Locais";
 "Open Image in Browser" = "Abrir Imagem no Navegador";
+"Copy Image Content" = "Copiar o Conteúdo da Imagem";
+
+"More Actions" = "Mais ações";
+"Get Info" = "Obter informações";
+
+"Export with Previous" = "Exportar como o Anterior";
+"Export and Overwrite with Previous" = "Exportar e Sobrescrever como o Anterior";
+
+"Emoji and Symbols" = "Emoji e Símbolos";
+
+"Insert Final New Line On Save" = "Inserir Última Nova Linha Ao Salvar;
+"Hyperlink Actions" = "Ações de Hiperlink";
+"Copy Link Address" = "Copiar Endereço";
+
+"Click" = "Clique";
+
+"Export Setting" = "Exportar Configuração";
+
+"My License" = "Minha Licença";
+"Registration / Activation" = "Registrar / Ativar";
+
+"Select Paragraph / Block" = "Selecionar Paragrafo / Bloco";
+
+"Delete Selected" = "Deletar Selecionado";
+"Move Image to…" = "Mover Imagem para…";
+"Move to %@…" = "Mover para %@…";
+"Delete Image" = "Deletar Imagem";
+"Delete Image File" = "Deletar Arquivo da Imagem";
+"Reload All Images" = "Recarregar Todas As Imagens";

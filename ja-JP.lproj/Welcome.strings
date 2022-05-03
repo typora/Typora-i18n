@@ -68,7 +68,7 @@ Japanese translated by
 "View License" = "ライセンスを確認";
 "Your Typora License" = "あなたのTyporaのライセンス";
 "This copy of Typora is registered with license information below." = "このTyporaのコピーは下のライセンス情報で登録されています。";
-"Your trial will be expired in %@ days." = "あなたのトライアル期間は残り%d日です。";
+"Your trial will be expired in %@ days." = "あなたのトライアル期間は残り%@日です。";
 "Enter License" = "ライセンスを入力";
 "Not Now" = "今は行わない";
 

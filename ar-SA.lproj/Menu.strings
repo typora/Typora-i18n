@@ -3,19 +3,19 @@
   Typora
 
  by hi@typora.io
- Arabic Translation: ahmedelq
+ Arabic Translation: ahmedelq & Conceit LLC <info@conceit.sa>
 */
 
 /* Typora Menu */
 
-"About Typora" = "حول تايبورا";
+"About Typora" = "حول Typora";
 "Preferences" = "التفضيلات";
 "Check for Updates" = "تحقق من وجود تحديثات";
 "Services" = "خدمات";
-"Hide Typora" = "إخفاء تايبورا";
-"Hide Others" = "إخفاء الأخرى";
+"Hide Typora" = "إخفاء Typora";
+"Hide Others" = "إخفاء التطبيقات الأخرى";
 "Show All" = "إظهار الكل";
-"Quit Typora" = "إغلاق تايبورا";
+"Quit Typora" = "إغلاق Typora";
 
 /* File Menu */
 
@@ -25,25 +25,25 @@
 "Open Folder" = "فتح مجلد";
 "Reopen with Encoding" = "إعادة فتح مع الترميز";
 "Auto" = "تلقائي";
-"Open Recent" = "فتح ملفات حديثة";
-"Recent Locations" = "مسارات حديثة";
+"Open Recent" = "فتح أحدث الملفات";
+"Recent Locations" = "أحدث المسارات";
 "Clear Items" = "تنظيف العناصر";
-"No Recent Files" = "لا ملفات حديثة";
+"No Recent Files" = "لا توجد ملفات حديثة";
 "Open Quickly" = "فتح سريع";
 "Open File Location" = "فتح مسار الملف";
 "Reveal in Library" = "عرض في المكتبة";
-"Reveal in File Tree" = "عرض في شجرة الملفات";
+"Reveal in File Tree" = "عرض في قائمة شجرة الملفات";
 "Close" = "إغلاق";
 "Save" = "حفظ";
-"Save As" = "حفظ كـ";
+"Save As" = "حفظ باسم";
 "Duplicate" = "تكرار";
 "Rename" = "إعادة تسمية";
-"Move To" = "نقل لـ";
-"Revert To" = "الرجوع لـ";
+"Move To" = "نقل إلى";
+"Revert To" = "استعادة إلى";
 "Browse All Versions" = "استعراض كل النسخ";
 "Import" = "استيراد";
 "Export" = "تصدير";
-"Page Setup" = "هيئة الصفحة";
+"Page Setup" = "إعداد الصفحة";
 "Print" = "طباعة";
 
 /* Edit Menu */
@@ -53,7 +53,7 @@
 "Cut" = "قص";
 "Copy" = "نسخ";
 "Paste" = "لصق";
-"Copy as Markdown" = "نسخ هيئة المارك داون";
+"Copy as Markdown" = "نسخ كنص Markdown";
 "Copy as HTML Code" = "نسخ كترميز HTML";
 "Paste as Plain Text" = "لصق كنص عادي";
 "Select All" = "تحديد الكل";
@@ -61,21 +61,21 @@
 "Select Styled Scope" = "تحديد النطاق المُنمط";
 "Select Word" = "تحديد كلمة";
 "Delete" = "حذف";
-"Delete Range" = "حذف النطاق";
+"Delete Range" = "حذف نطاق";
 "Delete Word" = "حذف كلمة";
 "Delete Styled Scope" = "حذف النطاق المُنمط";
 "Delete Line / Sentence" = "حذف سطر/جملة";
 "Jump To" = "قفز إلى";
 "Jump to Top" = "قفز إلى الأعلى";
-"Jump to Selection" = "قفز إلى المحدد";
+"Jump to Selection" = "قفز إلى التحديد";
 "Jump to Bottom" = "قفز إلى الأسفل";
 "Math Tools" = "أدوات الرياضيات";
-"Refresh All Math Expressions" = "تحديث كل العبارات الرياضية";
+"Refresh All Math Expressions" = "تحديث كل التعابير الرياضية";
 "Image Tools" = "أدوات الصور";
 "Insert Local Images" = "إدخال صور محلية";
 "Upload Local Images via iPic" = "رفع الصور المحلية عبر iPic";
 "When Insert Local Image" = "عند إدراج صورة محلية";
-"Copy Image File to Folder" = "نسخ ملف الصورة للمجلد";
+"Copy Image File to Folder" = "نسخ الصورة للمجلد";
 "Use Image Root Path" = "استخدام مسار الصورة الأصلي";
 "Line Endings" = "نهاية الأسطر";
 "Windows Line Endings (CRLF)" = "نهاية أسطر ويندوز (CRLF)";
@@ -108,24 +108,24 @@
 "Heading 5" = "عنوان 5";
 "Heading 6" = "عنوان 6";
 "Increase Heading Level" = "زيادة مستوى العنوان";
-"Decrease Heading Level" = "تنقيص مستوى العنوان";
+"Decrease Heading Level" = "خفض مستوى العنوان";
 "Table" = "جدول";
 "Code Fences" = "سياج الرمز المصدري";
-"Math Block" = "قالب رموز رياضياتية";
+"Math Block" = "قالب رموز رياضية";
 "Quote" = "اقتباس";
 "Ordered List" = "قائمة مرتبة";
 "Unordered List" = "قائمة غير مرتبة";
 "Task List" = "قائمة المهام";
 "Task Status" = "حالة المهام";
 "Toggle Task Status" = "تبديل حالة المهام";
-"Mark as Complete" = "علم كمنجز";
-"Mark as Incomplete" = "علم كعدم منجز";
+"Mark as Complete" = "تحديد كمنجز";
+"Mark as Incomplete" = "تحديد كغير منجز";
 "List Indentation" = "إدراج مسافة بادئة";
 "Indent" = "مسافة بادئة";
 "Outdent" = "تراجع سلبي";
 "Link Reference" = "رابط مرجعي";
-"Footnotes" = "حاشية";
-"Horizontal Line" = "خط عرضي";
+"Footnotes" = "الحاشية";
+"Horizontal Line" = "خط أفقي";
 "Table of Contents" = "قائمة المحتويات";
 "YAML Front Matter" = "YAML Front Matter";
 
@@ -138,7 +138,7 @@
 "Inline Math" = "رمز رياضي في السطر";
 "Strike" = "شطب";
 "Highlight" = "إبراز";
-"Superscript" = "حرف فوقي";
+"Superscript" = "حرف علوي";
 "Subscript" = "حرف سفلي";
 "Comment" = "تعليق";
 "Hyperlink" = "ارتباط تشعبي";
@@ -150,15 +150,15 @@
 "New Tab" = "نافذة جديدة";
 "Source Code Mode" = "وضع النص المصدري";
 "Focus Mode" = "وضع التركيز";
-"Typewriter Mode" = "وضع آلة الكتابة";
+"Typewriter Mode" = "وضع الآلة الكاتبة";
 "Toggle Sidebar" = "إخفاء وإظهار الشريط الجانبي";
-"Outline" = "ملخص";
-"Articles" = "مستندات";
+"Outline" = "الموجز";
+"Articles" = "المستندات";
 "File Tree" = "شجرة الملفات";
-"Always on Top" = "دائمًا إلى الأعلى";
-"Full Screen" = "شاشة كاملة";
+"Always on Top" = "دائمًا في الأعلى";
+"Full Screen" = "كامل الشاشة";
 "Show Status Bar" = "إظهار شريط الحالة";
-"Toggle Fullscreen" = "Toggle Fullscreen";
+"Toggle Fullscreen" = "تبديل كامل الشاشة";
 "Actual Size" = "الحجم الحقيقي";
 "Zoom In" = "تكبير";
 "Zoom Out" = "تصغير";
@@ -173,7 +173,7 @@
 "Window" = "نافذة";
 "Minimize" = "تصغير";
 "Zoom" = "تكبير";
-"Bring All to Front" = "جلب الجميع للأمام";
+"Bring All to Front" = "جلب الكل للأمام";
 
 /* Help Menu */
 "Help" = "مساعدة";
@@ -182,33 +182,33 @@
 "Change Log" = "ما الجديد";
 "Website" = "الموقع";
 "Feedback" = "للاقتراحات";
-"About" = "عن";
+"About" = "عن Typora";
 
 
 /* Touchbar */
-"Block Styles" = "أنماط مقولبة";
-"Inline Styles" = "أنماط مضمنة";
-"List Styles / Remove Block" = "إسدال الأنماط / إزالة القوالب";
-"Exit Source Code Mode" = "الخروج من وضعية الرمز المصدري";
-"Toggle Source Code Mode" = "تبديل وضعية الرمز المصدري";
+"Block Styles" = "أنماط قولبية";
+"Inline Styles" = "أنماط ضمنية";
+"List Styles / Remove Block" = "عرض الأنماط / إزالة القالب";
+"Exit Source Code Mode" = "الخروج من وضع الرمز المصدري";
+"Toggle Source Code Mode" = "تبديل وضع الرمز المصدري";
 
 /* Extra Context Menu */
 "Table" = "جدول";
-"Add Row Above" = "إضافة صف إلى الأعلى";
-"Add Row Below" = "إضافة صف إلى الأسفل";
-"Delete Row" = "حذف صف";
+"Add Row Above" = "إضافة صف في الأعلى";
+"Add Row Below" = "إضافة صف في الأسفل";
+"Delete Row" = "حذف الصف";
 "Add Column Before" = "إضافة عمود لليسار";
 "Add Column After" = "إضافة عمود لليمين";
-"Delete Column" = "حذف عمود";
+"Delete Column" = "حذف العمود";
 "Copy Table" = "نسخ الجدول";
 "Delete Table" = "حذف الجدول";
-"Insert Paragraph After" = "إضافة فقرة إلى الأعلى";
-"Insert Paragraph Before" = "إضافة فقرة إلى الأسفل";
+"Insert Paragraph After" = "إضافة فقرة في الأعلى";
+"Insert Paragraph Before" = "إضافة فقرة في الأسفل";
 "Delete Code Block" = "حذف قالب الرمز المصدري";
 "Copy as MathML" = "نسخ كـ MathML";
 "Copy as Tex" = "نسخ كـ Tex";
-"Copy Math" = "نسخ الرموز الرياضياتية";
-"Reveal in Finder" = "إظهار في الباحث";
+"Copy Math" = "نسخ الرموز الرياضية";
+"Reveal in Finder" = "إظهار في Finder";
 "Open Link" = "فتح الرابط";
 "Reveal in Sidebar" = "فتح في القائمة الجانبية";
 "Open in New Window" = "فتح في نافذة جانبية";
@@ -223,27 +223,27 @@
 "Math" = "رياضيات";
 "Insert" = "إدراج";
 "Inspect Element" = "فحص العنصر";
-"Copy to MS Word" = "نسخ لمايكروسوفت ورد";
+"Copy to MS Word" = "نسخ لمستند وورد";
 "Paragraph (before)" = "فقرة (قبل)";
 "Paragraph (after)" = "فقرة (بعد)";
 
-"Search with Google" = "بحث جوجل";
+"Search with Google" = "البحث في قوقل";
 "Search With…" = "البحث بـ…";
 
 /* Related Panel */
-"Open Failed" = "الفتح فشل";
+"Open Failed" = "فشل الفتح";
 "File or folder does not exist." = "الملف أو المجلد غير موجود.";
 
 "Prettify Source Code" = "تجميل النص المصدري";
 "Copy '%@'" = "نسخ '%@'";
-"Copy to %@" = "نسخ لـ %@";
-"Copy Image to" = "نسخ الصورة لـ";
+"Copy to %@" = "نسخ إلى %@";
+"Copy Image to" = "نسخ الصورة إلى";
 "Open Image Location" = "فتح مسار الصورة";
 
-"Learn More" = "اعرف أكثر";
-"Whitespace and Line Breaks" = "المسافات والسطور";
+"Learn More" = "معرفة المزيد";
+"Whitespace and Line Breaks" = "المسافات الفارغة والأسطر";
 "Indent first line of paragraphs" = "وضع مسافة لأول سطر";
-"Preserve single line break" = "الإبقاء على وضعية السطر الواحد";
+"Preserve single line break" = "الإبقاء على وضع السطر الواحد";
 "Visible <br/>" = "ظاهر <br/>";
 
 "Save All" = "حفظ الكل";
@@ -251,14 +251,14 @@
 "Reopen Closed File" = "إعادة فتح الملف المغلق";
 
 "Global Image Settings" = "إعدادات الصورة العامة";
-"Smart Punctuation" = "علامات ترقيم ذكية";
+"Smart Punctuation" = "ترقيم ذكي";
 "Convert on Input" = "تحويل عند الإدخال";
 "Convert on Rendering" = "تحويل عند القراءة";
-"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
-"More Options" = "خيارات أكثر";
+"Remap Unicode Punctuation on Parse" = "إعادة تعييم ترقيمات Unicode عند التحليل";
+"More Options" = "المزيد من الخيارات";
 
 "HTML Block" = "HTML قالب";
-"Delete Paragraph / Block" = "حذف القالب";
+"Delete Paragraph / Block" = "حذف فقرة / قالب";
 "Delete %@" = "حذف %@";
 "Play" = "تشغيل";
 "Pause" = "إيقاف مؤقت";
@@ -276,13 +276,13 @@
 "Insert Image" = "إدراج صورة";
 "Allow Magnification" = "السماح بالتكبير";
 
-"Move Row Up" = "حرك الصف إلى الأعلى";
-"Move Row Down" = "حرك الصف إلى الأسفل";
+"Move Row Up" = "رفع الصف";
+"Move Row Down" = "إنزال الصف";
 "Move Column Left" = "حرك العمود إلى اليسار";
 "Move Column Right" = "حرك العمود إلى اليمين";
 
 "Zoom Image" = "تكبير الصورة";
-"Zoom Image to %@" = "تكبير الصورة لـ %@";
+"Zoom Image to %@" = "تكبير الصورة إلى %@";
 
 "Copy as Plain Text" = "نسخ كنص مجرد";
 

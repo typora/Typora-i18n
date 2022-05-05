@@ -76,3 +76,4 @@ Feel free to contact us via <hi@typora.io>
 - Malay (Malaysia) by [MLukman](https://github.com/MLukman)
 - Turkish by [serhattsnmz](https://github.com/serhattsnmz)
 - Slovenian by [sponka9](https://github.com/sponka9/)
+- Arabic by [Conceit LLC](https://github.com/hiconceit/), [ahmedelq](https://github.com/ahmedelq/)

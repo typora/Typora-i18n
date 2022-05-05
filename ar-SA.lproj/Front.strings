@@ -3,7 +3,7 @@
   Typora
 
  by hi@typora.io
- Arabic Translation: ahmedelq
+ Arabic Translation: ahmedelq & Conceit LLC <info@conceit.sa>
 */
 
 /* Common */
@@ -16,7 +16,7 @@
 "Continue" = "متابعة";
 "Learn More…" = "معرفة المزيد";
 "Untitled" = "بدون عنوان";
-"Undo" = "إعادة";
+"Undo" = "تراجع";
 "Dismiss" = "تجاهل";
 "Confirm" = "تأكيد";
 "Error" = "خطأ";
@@ -25,8 +25,8 @@
 "Search" = "بحث";
 "Replace" = "استبدال";
 "All" = "الكل";
-"Search text not found in article" = "لم يتم العثور على نص البحث في المستند";
-"search text" = "بحث النص";
+"Search text not found in article" = "لم يتم العثور على النص في المستند";
+"search text" = "بحث عن نص";
 
 /* Quick Open */
 "Search by file name" = "البحث باسم الملف";
@@ -44,34 +44,34 @@
 "Delete Table" = "حذف الجدول";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "يحاول Typora نسخ الصورة الجديدة المدرجة للمجلد <code id='image-create-folder-target'></code> بناءً على إعداد YAML Front Matter الخاص بك أو الإعدادات العامة، لكن لم نجد المجلد المراد. هل تود إنشاءه الآن؟";
 "Create Folder" = "إنشاء مجلد";
 
 /* Math */
 "Edit" = "تعديل";
-"Delete Math" = "حذف الرموز الرياضياتية";
+"Delete Math" = "حذف الرموز الرياضية";
 "Preview" = "معاينة";
 
 /* Sidebar */
 "Articles" = "المستندات";
 "Outline" = "موجز";
 "Files" = "الملفات";
-"Switch to File List view" = "تبديل لوضعية قائمة الملفات";
-"Switch to File Tree view" = "تبديل لوضعية شجرة الملفات";
-"Switch to Outline view" = "تبديل لوضعية الموجز";
+"Switch to File List view" = "تبديل لوضع قائمة الملفات";
+"Switch to File Tree view" = "تبديل لوضع شجرة الملفات";
+"Switch to Outline view" = "تبديل لوضع الموجز";
 "Close sidebar" = "إغلاق الشريط الجانبي";
 "Loading" = "جار التحميل";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "تحتوي المجلدات المحددة على ملفات كثيرة جدًا. \nالرجاء التبديل لـ <a id='switch-to-tree-on-oversize'>النموذج الشجري</a> لأداء أفضل.";
 "New File" = "ملف جديد";
 "Unpin Outline Panel" = "إلغاء تثبيت لوحة الموجز";
-"Open Folder..." = "فتح ملف...";
+"Open Folder..." = "فتح مجلد...";
 "Action" = "إجراء";
 "Close Sidebar Menu" = "إغلاق الشريط الجانبي";
-"Reveal in Finder" = "العرض في الباحث";
+"Reveal in Finder" = "العرض في Finder";
 "Reveal in File Explorer" = "العرض في مستكشف الملفات";
-"Refresh Folder" = "تحديث الملف";
+"Refresh Folder" = "تحديث المجلد";
 "Sort" = "ترتيب";
-"Group By Folder" = "تجميع حسب المجلد";
+"Group By Folder" = "جمع حسب المجلد";
 "Sort Naturally (Ascending)" = "ترتيب طبيعي (تصاعديًا)";
 "Sort Naturally (Descending)" = "ترتيب طبيعي (تنازليًا)";
 "Sort by Name (Ascending)" = "ترتيب حسب الاسم (تصاعديًا)";
@@ -79,99 +79,99 @@
 "Sort by Name (Descending)" = "ترتيب حسب الاسم (تنازليًا)";
 "Sort by Modification Date (Descending)" = "ترتيب حسب تاريخ التعديل (تنازليًا)";
 "Location" = "مسار";
-"Switch File List/Tree View" = "تبديل العرض لقائمة/شجرة الملفات";
+"Switch File List/Tree View" = "تبديل وضع قائمة الملفات/وضع شجرة الملفات";
 "No Files Available" = "لا يوجد ملفات متاحة";
 "No Folder is Opened." = "لا يوجد مجلد مفتوح.";
 "Outline is Empty." = "الموجز فارغ.";
 
 /* Status Bar */
 "Toggle Sidebar" = "إظهار وإخفاء الشريط الجانبي";
-"Toggle Source Code Mode" = "Toggle Source Code Mode";
+"Toggle Source Code Mode" = "تبديل وضع النص المصدري";
 "Exit Source Code Mode" = "الخروج من وضع النص المصدري";
 
 "Table of Contents" = "جدول المحتويات";
 "Empty Diagram" = "إفراغ الرسم البياني";
-"Input Math TeX here" = "إدخال رموز ماث تيكس الرياضياتية هنا";
+"Input Math TeX here" = "أدخل رموز ماث تيكس الرياضية هنا";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "تحتاج إلى تحديد الحاشية المرجعية <b>{0}</b> بالتركيب <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "تحتاج إلى تحديد الارتباط المرجعي <b>[{0}]</b> بالتركيب <b>[{1}]: www.example.com</b>";
 "Please define image reference by \n[{0}]: http://example.png" = "يرجى تحديد مرجع الصورة بواسطة \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "فشل في إنشاء الملف";
-"Failed to create folder" = "فشل في إنشاء المجلد";
-"Failed to rename file" = "فشل في إعادة تسمية الملف";
+"Failed to create file" = "فشل إنشاء الملف";
+"Failed to create folder" = "فشل إنشاء المجلد";
+"Failed to rename file" = "فشلت إعادة تسمية الملف";
 "Folder does not exist at %@" = "المجلد غير موجود في %@";
 "File with the same name already exists at target path" = "يوجد ملف يحمل نفس الاسم في المسار المحدد";
-"Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
-"Stop" = "Stop";
+"Apply to All" = "تطبيق للكل";
+"Overwrite" = "استبدال";
+"Stop" = "إيقاف";
 "back to document" = "العودة للمستند";
-"Failed to load file" = "تحمل الملف فشل";
-"Save File Failed!" = "حفظ الملف فشل!";
+"Failed to load file" = "فشل تحميل الملف";
+"Save File Failed!" = "فشل حفظ الملف!";
 "Cannot open folder {0}" = "لا يمكن فتح المجلد {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "تم تغيير محتوى الملف من قبل تطبيق خارجي. أتود تحديثه بالنسخة المخزنة؟";
-"Should continue moving and overwrite existing file(s) ?" = "أتود المتابعة والكتابة على الملفات؟";
+"File content is changed by external applications. Reload content from disk ?" = "تم تغيير محتوى الملف من قبل تطبيق خارجي. هل تود تحديث المحتوى من الذاكرة؟";
+"Should continue moving and overwrite existing file(s) ?" = "هل تود المتابعة والكتابة على الملف/الملفات؟";
 
-"Rename to \"{0}\" ?" = "إعادة التسمية لـ \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "إعادة التسمية فشلت من \"{0}\" لـ \"{1}\"";
+"Rename to \"{0}\" ?" = "إعادة تسمية إلى \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "فشلت إعادة التسمية من \"{0}\" إلى  \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "رفعت {0} صور بنجاح.";
-"Failed to upload image. Error Message:" = "تحميل الصورة فشل. رسالة خطأ:";
-"Failed to Copy Image to Target Folder." = "فشل في نسخ الصورة إلى المجلد المحدد.";
+"Successfully uploaded {0} images." = "تم رفع {0} صور بنجاح.";
+"Failed to upload image. Error Message:" = "فشل رفع الصورة. رسالة الخطأ:";
+"Failed to Copy Image to Target Folder." = "فشل نسخ الصورة إلى المجلد المحدد.";
 "Select Container Folder" = "تحديد مجلد التخزين";
 
-"Saved" = "Saved";
+"Saved" = "تم الحفط";
 
 /* place holder in find & replace input */
-"search text" = "بحث النص";
+"search text" = "بحث عن نص";
 "replace with" = "استبدال بـ";
 /* search option */
 "Case Sensitive" = "حساس للأحرف الكبيرة";
 "Whole Word" = "كلمة كاملة";
 
 "input image URL" = "أدخل رابط الصورة";
-"Select image from local file" = "تحديد صورة من ملف محلي";
+"Select image from local file" = "اختيار صورة من ملف محلي";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "لا يمكن فتح المسار <code>$1</code>, هل تقصد <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "تحديد لغة";
-"Finish Editing" = "انتهاء التعديل";
+"select a language" = "اختيار لغة";
+"Finish Editing" = "إنهاء التعديل";
 
-"Revert advanced setting file to default one ?" = "استرجاع ملف الخصائص المتقدمة إلى الافتراضية؟";
+"Revert advanced setting file to default one ?" = "استرجاع ملف الإعدادات المتقدمة إلى الافتراضي؟";
 
 "Select Spell Check Language" = "تحديد مصحح اللغة الإملائي";
 "Auto Detect Language" = "تحديد لغة تلقائي";
 "Disable Spell Check" = "تعطيل المصحح الإملائي";
-"Global Setting…" = "Global Setting…";
+"Global Setting…" = "إعدادات عامة…";
 "Dictionary file is missing to enable spellcheck support for %@." = "لا يوجد ملف قاموس لإتاحة دعم التصحيح الإملائي لـ %@.";
 "Install Language Support" = "تحميل دعم اللغة";
 "License Information" = "معلومات الرخصة";
 "Download" = "تحميل";
-"Install dictionary file only for Typora" = "تحميل قاموس فقط لتايبورا";
+"Install dictionary file only for Typora" = "تحميل قاموس فقط لـTypora";
 "Spell Check (%@ unavailable)" = "المصحح الإملائي (%@ غير متاح)";
-"Spell Check (%@ downloading)" = "المصحح الإملائي (%@ يحمل)";
-"Download dictionary file for %@" = "تحميل القاموس %@";
+"Spell Check (%@ downloading)" = "المصحح الإملائي (%@ جار التحميل)";
+"Download dictionary file for %@" = "تحميل ملف القاموس لـ %@";
 "(Default spell check option)" = "(خيار المصحح الإملائي الافتراضي)";
-"Failed to load spellcheck module" = "فشل في تحميل جزئية المصحح الإملائي";
+"Failed to load spellcheck module" = "فشل في تحميل نموذج المصحح الإملائي";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> تم تشغيله.";
 "You could turn it off from `View` menu." = "تستطيع إيقافه من قائمة `عرض`.";
-"The file is too large to render in Typora." = "الملف كبير جدًا على تايبورا.";
+"The file is too large to render in Typora." = "الملف كبير جدًا على Typora.";
 "Open in…" = "فتح في…";
 "Quick Look" = "نظرة سريعة";
 
 "Filter" = "تصفية";
-"No result found." = "لا نتائج";
-"Continue & Overwrite" = "المتابعة والكتابة";
-"The file is read-only, or you do not have right permissions to modify the file." = "إما أن الملف للقراءة فقط أو ليس لديك صلاحيات تعديله.";
+"No result found." = "لا توجد نتائج";
+"Continue & Overwrite" = "متابعة واستبدال";
+"The file is read-only, or you do not have right permissions to modify the file." = "إما أن الملف للقراءة فقط أو ليست لديك صلاحيات تعديله.";
 
 "Learn Data Recovery" = "تعلم استعادة الملفات";
-"Auto refresh on Files Panel cannot be enabled." = "التحديث التلقائي لقائمة الملفات غير ممكن.";
+"Auto refresh on Files Panel cannot be enabled." = "لا يمكن تفعيل التحديث التلقائى في قائمة الملفات";
 "Delete Permanently" = "حذف نهائي";
 
 
-"Failed to upload images:" = "فشل في رفع الصور:";
+"Failed to upload images:" = "فشل رفع الصور:";
 "Uploading in progress" = "جار الرفع";
-"Successfully uploaded {0} images, {1} failed." = "رفعت  {0} صور بنجاح و{1} فشلت.";
+"Successfully uploaded {0} images, {1} failed." = "تم رفع {0} صور، وفشل رفع {1} صور.";

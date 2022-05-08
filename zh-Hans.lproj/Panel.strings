@@ -504,3 +504,5 @@
 "Detail" = "详情";
 "Use custom font size" = "使用自定义的字体大小";
 "Use theme font size" = "使用主题的字体大小";
+
+"No local images found." = "文档未包含本地图片。";

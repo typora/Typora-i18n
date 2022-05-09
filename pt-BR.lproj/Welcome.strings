@@ -10,13 +10,13 @@
  */
 
 "Welcome to Typora" = "Bem vindo ao Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Obrigado por usar o Typora 👋. Typora é um editor e leitor de markdown minimalistico, que traz a você uma experiência de transição suave entre o conteúdo Rich Text e seu código fonte"
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Obrigado por usar o Typora 👋. Typora é um editor e leitor de markdown minimalistico, que traz a você uma experiência de transição suave entre o conteúdo Rich Text e seu código fonte";
 
 "Get Started" = "Começar";
 "Check following links if you're new to Markdown or Typora." = "Visite os links a seguir se você não é familiarizado com Markdown ou com o Typora.";
 
 "Activate Typora" = "Ativar Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Já comprou uma lincença? Preencha o formulário abaixo e ative o Typora instantâneamente"
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Já comprou uma lincença? Preencha o formulário abaixo e ative o Typora instantâneamente";
 
 "Email" = "E-mail";
 "Email Address" = "Endereço de E-mail";
@@ -73,7 +73,7 @@
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Seu código de licença ultrapassou o número máximo de dispostivo.\nO dispositivo registrado mais antigo foi removido automaticamente.";
 "This license code has been used with a different email address." =  "Este código de licença foi usado com um endereço de e-mail diferente.";
 "Unknown Error. Please contact hi@typora.io" = "Erro desconhecido. Por favor entre em contato com hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Falha ao conectar com o servidor de licenças. Por favor cheque sua conexão com a internet ou tente novamente mais tarde."
+"Failed to access the license server. Please check your network or try again later." = "Falha ao conectar com o servidor de licenças. Por favor cheque sua conexão com a internet ou tente novamente mais tarde.";
 
 "Enter a license code to support our development ❤" = "Entre um código de licença para contribuir com o nosso desenvolvimento ❤";
 "Re-enter Email" = "Re-insira seu e-mail";

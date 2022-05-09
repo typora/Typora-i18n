@@ -13,7 +13,7 @@
 "Close" = "बंद करे";
 "Select" = "चुनते हैं";
 "Continue" = "जारी रखें";
-"Learn Moreâ€¦" = "और जानें € |";
+"Learn More…" = "और जानें…";
 "Untitled" = "शीर्षकहीन";
 "Undo" = "पूर्ववत";
 "Dismiss" = "खारिज";
@@ -114,7 +114,7 @@
 "Should continue moving and overwrite existing file(s) ?" = "जारी रखना जारी रखना चाहिए और मौजूदा फ़ाइल को ओवरराइट करना चाहिए?";
 
 "Rename to \"{0}\"नाम बदलें" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\"से नाम बदलने में विफल"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Failed to rename from \"{0}\"से नाम बदलने में विफल\"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
 
 "Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
 "Successfully uploaded {0} images." = "सफलतापूर्वक {0} छवियों को अपलोड किया गया।";
@@ -143,7 +143,7 @@
 "Select Spell Check Language" = "वर्तनी जांच भाषा का चयन करें";
 "Auto Detect Language" = "ऑटो पता लगाते हैं";
 "Disable Spell Check" = "वर्तनी जाँच अक्षम करें";
-"Global Settingâ€¦" = "वैश्विक सेटिंग € |";
+"Global Setting…" = "वैश्विक सेटिंग…";
 "Dictionary file is missing to enable spellcheck support for %@." = "% @ के लिए वर्तनी जांच को सक्षम करने के लिए शब्दकोश फ़ाइल गुम है।";
 "Install Language Support" = "भाषा समर्थन स्थापित करें";
 "License Information" = "लाइसेंस जानकारी";
@@ -158,7 +158,7 @@
 "<strong>%@</strong> has been turned on." = "<strong>% @ </ strong> चालू किया गया है।";
 "You could turn it off from `View` menu." = "आप इसे 'व्यू` मेनू से बंद कर सकते हैं।";
 "The file is too large to render in Typora." = "टाइपोरा में प्रस्तुत करने के लिए फ़ाइल बहुत बड़ी है।";
-"Open inâ€¦" = "€ € | में खुला";
+"Open in…" = "Open in…";
 "Quick Look" = "त्वरित देखो";
 
 "Filter" = "फ़िल्टर";

@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "डिफ़ॉल्ट रूप से आउटलाइन पैनल दिखाएं";
 "Collapsible Outline on Left Panel" = "बाएं पैनल पर संकुचित रूपरेखा";
 "Save without asking when\nswitch files on side panel" = "बिना पूछे बिना सहेजें जब साइड पैनल पर \nswitch फ़ाइलें";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\"बाएं पैनल में फ़ाइलों को स्विच करते समय संपादित फ़ाइलों को सहेजा जाएगा। \nWhen \" = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
 "Language" = "भाषा";
 "System Language" = "तंत्र भाषा";
 
@@ -107,7 +107,7 @@
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "क्या आप इस दस्तावेज़ में किए गए परिवर्तनों को सहेजना चाहते हैं? <br> यदि आप उन्हें सहेजते नहीं हैं तो आपके परिवर्तन खो जाएंगे।";
 "[Warning] Failed to attach bookmark for PDF file." = "[चेतावनी] पीडीएफ फ़ाइल के लिए बुकमार्क संलग्न करने में विफल।";
 "Dark Theme not support" = "डार्क थीम समर्थन नहीं";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"क्षमा करें, Typora का वर्तमान संस्करण निर्यातित पीडीएफ पर पृष्ठभूमि रंग मुद्रित नहीं करेगा, इसलिए पीडीएफ निर्यात के लिए डार्क थीम अभी तक समर्थित नहीं है। \n कृपया एक हल्की थीम चुनें या क्लिक करें" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"";
 "Print with default theme" = "डिफ़ॉल्ट थीम के साथ प्रिंट करें";
 "Export to PDF successfully." = "पीडीएफ को सफलतापूर्वक निर्यात करें।";
 "Converting file using Pandoc. This may take some time." = "Pandoc का उपयोग कर फ़ाइल कनवर्ट करना। इसमें कुछ समय लग सकता है।";
@@ -237,11 +237,11 @@
 "Restore last closed files and folders" = "अंतिम बंद फ़ाइलों और फ़ोल्डरों को पुनर्स्थापित करें";
 "Open custom folder" = "खुला कस्टम फ़ोल्डर";
 "Select custom folder" = "कस्टम फ़ोल्डर का चयन करें";
-"This option may be overridden by \"Close windows when quitting an application\"इस विकल्प को ओवरराइड किया जा सकता है \" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
 
 "Ignore" = "ध्यान न देना";
 "Choose Default Folder" = "डिफ़ॉल्ट फ़ोल्डर चुनें";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div> <strong> इनपुट पर कनवर्ट </ strong>: इनपुट ASCII डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में परिवर्तित और सहेजा गया। <br/> <strong> प्रतिपादन पर कनवर्ट करें </ strong>: इनपुट और ASCII के रूप में सहेजा गया डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में प्रस्तुत करते हैं। </ div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div> <strong> इनपुट पर कनवर्ट </ strong>: इनपुट ASCII डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में परिवर्तित और सहेजा गया। <br/> <strong> प्रतिपादन पर कनवर्ट करें </ strong>: इनपुट और ASCII के रूप में सहेजा गया डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में प्रस्तुत करते हैं। </div>";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> ASCII के रूप में यूनिकोड विरामियों को पहचानें जब पार्स मार्कडाउन, उदाहरण: <br/> <pre> 》 blockquote → > blockquote <br/> [लिंक] (src ’शीर्षक’) → [लिंक] (एसआरसी 'शीर्षक') </pre> यह स्वचालित रूप से चालू हो जाएगा यदि स्मार्ट उद्धरण / डैश इनपुट पर परिवर्तित किया जाएगा। <div>";
 
 "Copy image to custom folder" = "कस्टम फ़ोल्डर में छवि कॉपी करें";
@@ -294,7 +294,7 @@
 "Check Update Failed" = "चेक अपडेट विफल";
 "You're up to date!" = "आप अद्यतित हैं!";
 "Latest version is $1, your version is $2" = "नवीनतम संस्करण $ 1 है, आपका संस्करण $ 2 है";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\"इन विकल्पों को भी बदल दिया जा सकता है" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
 "Auto escape image URL when insert" = "डालने के दौरान ऑटो एस्केप छवि यूआरएल";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "उदाहरण के लिए, यदि आप 'आईएमजी / उदाहरण फ़ाइल। पीएनजी' पर एक फाइल डालते हैं, तो यह 'आईएमजी / उदाहरण% 20file.png' बन जाएगा। अन्य मार्कडाउन इंजन के साथ बेहतर संगतता के लिए इसे सक्षम करें, या इसे बेहतर पठनीयता के लिए अक्षम करें।";
 "Check updates automatically" = "स्वचालित रूप से अपडेट की जाँच करें";
@@ -433,7 +433,7 @@
 "PDF Engine" = "PDF इंजन";
 "Show command output" = "कमांड आउटपुट दिखाएं";
 
-"\"Export and Overwrite with Previous\"\" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "कमांड तर्क:";
 "This beta version of Typora is expired, please download and install a newer version." = "Typora का यह बीटा संस्करण समाप्त हो गया है, कृपया एक नया संस्करण डाउनलोड और स्थापित करें।";
 "Current Theme" = "वर्तमान विषय";

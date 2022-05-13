@@ -158,7 +158,7 @@
 "<strong>%@</strong> has been turned on." = "<strong>% @ </ strong> चालू किया गया है।";
 "You could turn it off from `View` menu." = "आप इसे 'व्यू` मेनू से बंद कर सकते हैं।";
 "The file is too large to render in Typora." = "टाइपोरा में प्रस्तुत करने के लिए फ़ाइल बहुत बड़ी है।";
-"Open in…" = "Open in…";
+"Open in…" = "में खुलेगा…";
 "Quick Look" = "त्वरित देखो";
 
 "Filter" = "फ़िल्टर";

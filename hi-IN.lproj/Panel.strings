@@ -27,7 +27,7 @@
 "Show Outline Panel by Default" = "डिफ़ॉल्ट रूप से आउटलाइन पैनल दिखाएं";
 "Collapsible Outline on Left Panel" = "बाएं पैनल पर संकुचित रूपरेखा";
 "Save without asking when\nswitch files on side panel" = "बिना पूछे बिना सहेजें जब साइड पैनल पर \nswitch फ़ाइलें";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "बाएं पैनल में फ़ाइलों को स्विच करते समय संपादित फ़ाइलों को सहेजा जाएगा। \nजब सिस्टम वरीयता में \"Ask to keep changes when closing documents\" अक्षम होता है, तो यह हमेशा सक्षम होता है।";
 "Language" = "भाषा";
 "System Language" = "तंत्र भाषा";
 
@@ -237,7 +237,7 @@
 "Restore last closed files and folders" = "अंतिम बंद फ़ाइलों और फ़ोल्डरों को पुनर्स्थापित करें";
 "Open custom folder" = "खुला कस्टम फ़ोल्डर";
 "Select custom folder" = "कस्टम फ़ोल्डर का चयन करें";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "इस विकल्प को ओवरराइड किया जा सकता है जब सिस्टम वरीयता में \"Close windows when quitting an application\" अक्षम हो।";
 
 "Ignore" = "ध्यान न देना";
 "Choose Default Folder" = "डिफ़ॉल्ट फ़ोल्डर चुनें";

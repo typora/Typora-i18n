@@ -10,12 +10,12 @@
  */
 
 "Welcome to Typora" = "Bienvenido a Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Gracias por suar Typora 👋. Typora es una aplicación para leer y escribir Markdown con énfasis en en minimalismo. Le brinda una experiencia sin barreras entre una hermosa visualización y su código fuente.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Gracias por usar Typora 👋. Typora es una aplicación para leer y escribir Markdown con énfasis en el minimalismo. Le brinda una experiencia sin barreras entre una hermosa visualización y su código fuente.";
 
 "Get Started" = "Iniciar";
 "Check following links if you're new to Markdown or Typora." = "Revise los siguientes enlaces si no está familiarizado con Markdown o Typora.";
 
-"Activate Typora" = "Activata Typora";
+"Activate Typora" = "Activar Typora";
 "Already purchased a license? Fill the form below and activate Typora instantly." = "¿Ya posee una licencia? Llene el formulario y active Typora inmediatamente.";
 
 "Email" = "Email";
@@ -37,7 +37,7 @@
 "Outline / Word Count / Focus Mode / Typewriter Mode" = "Índice / Conteo de palabras / Modo de enfoque / Modo máquina de escribir";
 
 "Files" = "Archivos";
-"Manage files in sidebar and search across files." = "Maneje sus archivos en la barra lateral y realice búsquedas através de ellos.";
+"Manage files in sidebar and search across files." = "Maneje sus archivos en la barra lateral y realice búsquedas a través de ellos.";
 "Customize" = "Personalice";
 "Customize your writing experience from preferences panel." = "Personalice su experiencia al escribir usando el panel de preferencias.";
 "Themes" = "Temas";
@@ -57,7 +57,7 @@
 "Please accept license agreement first" = "Por favor acepte los términos de la licencia primero";
 "Start %@ Days Trial" = "Iniciar prueba de %@ días";
 "Buy License" = "Comprar licencia";
-"Activate" = "Activatar";
+"Activate" = "Activar";
 
 "Close" = "Cerrar";
 "Deactivate" = "Desactivar";

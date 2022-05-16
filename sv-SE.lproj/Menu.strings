@@ -54,7 +54,7 @@
 "Paste" = "Klistra in";
 "Copy as Markdown" = "Kopiera som Markdown";
 "Copy as HTML Code" = "Kopiera som HTML";
-"Paste as Plain Text" = "Klistra in utan formattering";
+"Paste as Plain Text" = "Klistra in utan formatering";
 "Select All" = "Markera allt";
 "Select Line / Sentence" = "Markera rad/mening";
 "Select Styled Scope" = "Markera formaterat område";
@@ -143,7 +143,7 @@
 "Comment" = "Kommentar";
 "Hyperlink" = "Hyperlänk";
 "Image" = "Bild";
-"Clear Format" = "Rensa formattering";
+"Clear Format" = "Rensa formatering";
 
 /* View Menu */
 "View" = "Innehåll";

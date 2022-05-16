@@ -334,3 +334,5 @@
 "Delete Image" = "删除图片";
 "Delete Image File" = "删除图片文件";
 "Reload All Images" = "重新加载所有图片";
+
+"Save %@ As…" = "将 %@ 另存为…";

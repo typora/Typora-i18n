@@ -332,3 +332,5 @@
 "Delete Image" = "Izbriši sliko";
 "Delete Image File" = "Izbriši slikovno datoteko";
 "Reload All Images" = "Ponovno naloži vse slike";
+
+"Save %@ As…" = "Shrani %@ kot …";

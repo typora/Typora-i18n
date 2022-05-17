@@ -189,4 +189,4 @@
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Файлы в этом месте (%@) управляются Typora и могут быть удалены автоматически.<br/>Пожалуйста, скопируйте содержимое в новый файл для дальнейшего редактирования.";
 
 "File does not exist at path %@." = "Файл не существует по пути %@.";
-"File not exists at path %@, do you want to create one at that path?" = "Файл не существует по пути %@, хотите ли вы создать его по этому пути?";
+"File does not exist at path %@, do you want to create one at that path?" = "Файл не существует по пути %@, хотите ли вы создать его по этому пути?";

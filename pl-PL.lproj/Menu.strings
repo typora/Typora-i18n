@@ -332,3 +332,5 @@
 "Delete Image" = "Usuń obraz";
 "Delete Image File" = "Usuń plik obrazu";
 "Reload All Images" = "Ponownie załaduj wszystkie obrazy";
+
+"Save %@ As…" = "Zapisz %@ jako…";

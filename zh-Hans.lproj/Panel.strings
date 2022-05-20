@@ -508,3 +508,6 @@
 "No local images found." = "文档未包含本地图片。";
 
 "File Format:" = "文件格式";
+
+"Images copied to %@." = "已将图片复制到了 %@。";
+"Images moved to %@." = "已将图片移动到了 %@。";

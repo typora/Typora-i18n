@@ -504,3 +504,6 @@
 "No local images found." = "No local images found.";
 
 "File Format:" = "File Format:";
+
+"Images copied to %@." = "Images copied to %@.";
+"Images moved to %@." = "Images moved to %@.";

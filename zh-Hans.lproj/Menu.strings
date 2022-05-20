@@ -336,3 +336,6 @@
 "Reload All Images" = "重新加载所有图片";
 
 "Save %@ As…" = "将 %@ 另存为…";
+
+"Copy All Images to…" = "复制所有图片到…";
+"Move All Images to…" = "移动所有图片到…";

@@ -218,7 +218,7 @@
 
 /* Electron */
 "Learn Spelling" = "添加到字典";
-"Copy / Paste As…" = "复制／粘贴为…";
+"Copy / Paste As" = "复制／粘贴为";
 "Math" = "公式";
 "Insert" = "插入";
 "Inspect Element" = "检查元素";

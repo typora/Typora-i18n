@@ -224,7 +224,7 @@ Japanese translated by
 
 /* Electron */
 "Learn Spelling" = "スペリングを登録";
-"Copy / Paste As…" = "~としてコピー/貼り付け";
+"Copy / Paste As" = "~としてコピー/貼り付け";
 "Math" = "数式";
 "Insert" = "挿入";
 "Inspect Element" = "要素を調査";

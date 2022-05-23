@@ -217,7 +217,7 @@
 
 /* Electron */
 "Learn Spelling" = "Добавить в словарь";
-"Copy / Paste As…" = "Копировать / Вставить как…";
+"Copy / Paste As" = "Копировать / Вставить как";
 "Math" = "Формулы";
 "Insert" = "Вставить";
 "Inspect Element" = "Осмотреть элемент";

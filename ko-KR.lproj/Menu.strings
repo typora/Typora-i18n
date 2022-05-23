@@ -221,7 +221,7 @@
 
 /* Electron */
 "Learn Spelling" = "맞춤법 학습";
-"Copy / Paste As…" = "다음으로 복사/붙이기…";
+"Copy / Paste As" = "다음으로 복사/붙이기";
 "Math" = "수식";
 "Insert" = "삽입";
 "Inspect Element" = "요소 검사";

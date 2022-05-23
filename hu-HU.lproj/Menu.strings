@@ -217,7 +217,7 @@
 
 /* Electron */
 "Learn Spelling" = "Helyesírás tanulása";
-"Copy / Paste As…" = "Másolás / Beszúrás mint…";
+"Copy / Paste As" = "Másolás / Beszúrás mint";
 "Math" = "Képlet";
 "Insert" = "Beszúrás";
 "Inspect Element" = "Elem vizsgálata";

@@ -217,7 +217,7 @@
 
 /* Electron */
 "Learn Spelling" = "वर्तनी सीखें";
-"Copy / Paste As…" = "कॉपी / पेस्ट के रूप में € |";
+"Copy / Paste As" = "कॉपी / पेस्ट के रूप में";
 "Math" = "गणित";
 "Insert" = "डालने";
 "Inspect Element" = "तत्व का निरीक्षण";

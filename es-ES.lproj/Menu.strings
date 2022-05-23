@@ -217,7 +217,7 @@
 
 /* Electron */
 "Learn Spelling" = "Añadir al diccionario";
-"Copy / Paste As…" = "Copiar / Pegar como…";
+"Copy / Paste As" = "Copiar / Pegar como";
 "Math" = "Matemáticas";
 "Insert" = "Insertar";
 "Inspect Element" = "Inspeccionar elemento";

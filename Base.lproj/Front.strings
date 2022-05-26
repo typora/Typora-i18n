@@ -190,3 +190,7 @@
 
 "File does not exist at path %@." = "File does not exist at path %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "File does not exist at path %@, do you want to create one at that path?";
+
+"No Results" = "No Results";
+"Too many matches" = "Too many matches";
+"Regular Expression" = "Regular Expression";

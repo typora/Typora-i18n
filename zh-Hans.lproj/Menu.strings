@@ -329,7 +329,7 @@
 "Select Paragraph / Block" = "选择段落或块";
 
 "Delete Selected" = "删除所选范围";
-"Move Image to…" = "移动图片到…";
+"Move Image to" = "移动图片到";
 "Move to %@…" = "移动到 %@…";
 "Delete Image" = "删除图片";
 "Delete Image File" = "删除图片文件";
@@ -337,5 +337,5 @@
 
 "Save %@ As…" = "将 %@ 另存为…";
 
-"Copy All Images to…" = "复制所有图片到…";
-"Move All Images to…" = "移动所有图片到…";
+"Copy All Images to" = "复制所有图片到";
+"Move All Images to" = "移动所有图片到";

@@ -327,7 +327,7 @@
 "Select Paragraph / Block" = "Select Paragraph / Block";
 
 "Delete Selected" = "Delete Selected";
-"Move Image to…" = "Move Image to…";
+"Move Image to" = "Move Image to";
 "Move to %@…" = "Move to %@…";
 "Delete Image" = "Delete Image";
 "Delete Image File" = "Delete Image File";
@@ -335,5 +335,5 @@
 
 "Save %@ As…" = "Save %@ As…";
 
-"Copy All Images to…" = "Copy All Images to…";
-"Move All Images to…" = "Move All Images to…";
+"Copy All Images to" = "Copy All Images to";
+"Move All Images to" = "Move All Images to";

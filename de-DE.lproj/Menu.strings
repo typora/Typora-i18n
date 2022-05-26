@@ -330,7 +330,7 @@
 "Select Paragraph / Block" = "Absatz / Block auswählen";
 
 "Delete Selected" = "Ausgewählte löschen";
-"Move Image to…" = "Bild verschieben nach…";
+"Move Image to" = "Bild verschieben nach";
 "Move to %@…" = "Bild nach '%@…' verschieben";
 "Delete Image" = "Bild löschen";
 "Delete Image File" = "Bilddatei löschen";

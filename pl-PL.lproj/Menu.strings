@@ -327,7 +327,7 @@
 "Select Paragraph / Block" = "Zaznacz akapit/blok";
 
 "Delete Selected" = "Usuń zaznaczone";
-"Move Image to…" = "Przenieś obraz do…";
+"Move Image to" = "Przenieś obraz do";
 "Move to %@…" = "Przenieś do %@…";
 "Delete Image" = "Usuń obraz";
 "Delete Image File" = "Usuń plik obrazu";
@@ -335,5 +335,5 @@
 
 "Save %@ As…" = "Zapisz %@ jako…";
 
-"Copy All Images to…" = "Skopiuj wszystkie obrazy do…";
-"Move All Images to…" = "Przenieś wszystkie obrazy do…";
+"Copy All Images to" = "Skopiuj wszystkie obrazy do";
+"Move All Images to" = "Przenieś wszystkie obrazy do";

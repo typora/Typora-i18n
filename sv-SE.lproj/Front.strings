@@ -43,7 +43,7 @@
 "Delete Table" = "Radera tabell";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora försöker kopiera den nyligen infogade bilden till mappen <code id='image-create-folder-target'></code> enligt din YAML Front Matter inställning eller dina globala inställningar. Målmappen finns inte dock, skapa den nu?";
 "Create Folder" = "Skapa mapp";
 
 /* Math */
@@ -72,10 +72,10 @@
 "Sort" = "Sortera";
 "Group By Folder" = "Gruppera efter mapp";
 "Sort Naturally" = "Sortera naturligt";
-"Sort by Name (Ascending)" = "Sortera efter namn (Ascending)";
-"Sort by Modification Date (Ascending)" = "Sortera efter modifieringsdatum (Ascending)";
-"Sort by Name (Descending)" = "Sortera efter namn (Descending)";
-"Sort by Modification Date (Descending)" = "Sortera efter modifieringsdatum (Descending)";
+"Sort by Name (Ascending)" = "Sortera efter namn (Stigande)";
+"Sort by Modification Date (Ascending)" = "Sortera efter modifieringsdatum (Stigande)";
+"Sort by Name (Descending)" = "Sortera efter namn (Minskande)";
+"Sort by Modification Date (Descending)" = "Sortera efter modifieringsdatum (Minskande)";
 "Location" = "Plats";
 "Switch File List/Tree View" = "Växla listvy/trädvy";
 "No Files Available" = "Inga tillgängliga filer";
@@ -140,20 +140,20 @@
 
 "Revert advanced setting file to default one ?" = "Återställ inställningarna  ?";
 
-"Select Spell Check Language" = "Välj rättstavningsspråk";
-"Auto Detect Language" = "Välj Språk Automatiskt";
-"Disable Spell Check" = "Stäng Av Rättstavning";
+"Select Spell Check Language" = "Välj språk för stavningskontroll";
+"Auto Detect Language" = "Välj språk automatiskt";
+"Disable Spell Check" = "Stäng av stavningskontroll";
 "Global Setting…" = "Global inställning…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Ordbok saknas för att aktivera rättstavning på %@.";
+"Dictionary file is missing to enable spellcheck support for %@." = "Ordbok saknas för att aktivera stavningskontroll på %@.";
 "Install Language Support" = "Installera stöd för språk";
-"License Information" = "Licens Information";
+"License Information" = "Licensinformation";
 "Download" = "Ladda ner";
-"Install dictionary file only for Typora" = "Installera ordlist-fil endast för Typora";
-"Spell Check (%@ unavailable)" = "Rättstavning (%@ ej tillgänglig)";
-"Spell Check (%@ downloading)" = "Rättstavning (%@ laddar ner)";
-"Download dictionary file for %@" = "Ladda ner ordlist-fil till %@";
-"(Default spell check option)" = "(Ursprungligt rättstavningsval)";
-"Failed to load spellcheck module" = "Misslyckades att ladda rättstavnigsmodul";
+"Install dictionary file only for Typora" = "Installera ordboksfil endast för Typora";
+"Spell Check (%@ unavailable)" = "Stavningskontroll (%@ ej tillgänglig)";
+"Spell Check (%@ downloading)" = "Stavningskontroll (%@ laddar ner)";
+"Download dictionary file for %@" = "Ladda ner ordboksfil till %@";
+"(Default spell check option)" = "(Ursprungligt val av stavningskontroll)";
+"Failed to load spellcheck module" = "Misslyckades att ladda modul för stavningskontroll";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> är aktiverat.";
 "You could turn it off from `View` menu." = "Du kan stänga av det från `Innehåll` menyn.";
@@ -166,6 +166,6 @@
 "Continue & Overwrite" = "Fortsätt & skriv över";
 "The file is read-only, or you do not have right permissions to modify the file." = "Filen är skrivskyddad eller så har du inte rätt rättigheter för att ändra filen.";
 
-"Learn Data Recovery" = "Learn Data Recovery";
-"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
-"Delete Permanently" = "Ta bort Permanent";
+"Learn Data Recovery" = "Läs om dataåterhämtning";
+"Auto refresh on Files Panel cannot be enabled." = "Automatisk uppdatering av filpanelen kan inte bli aktiverad.";
+"Delete Permanently" = "Ta bort permanent";

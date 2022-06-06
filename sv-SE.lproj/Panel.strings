@@ -53,9 +53,9 @@
 "(Following preferences will be applied after restart.)" = "(Följande inställningar kommer appliceras efter omstart.)";
 "Syntax Support" = "Syntaxstöd";
 "Inline Math  ( e.g: $\LaTeX$ )" = "Inline matte ( t.ex: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Nedsänkt text   ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Upphöjd text    ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Markering       (e.g: ==key==)";
+"Subscript    ( e.g: H~2~O )" = "Nedsänkt text   ( t.ex: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Upphöjd text    ( t.ex: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Markering       (t.ex: ==key==)";
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart och Mermaid)";
 "Syntax Preference" = "Syntaxinställning";
@@ -104,7 +104,7 @@
 "File does not exist at <em>{0}</em>" = "Filen existerar inte vid <em>{0}</em>";
 "Export to..." = "Exportera till...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vill du spara dina ändringar till det här dokumentet ?<br> Dina ändringar kommer förloras om du inte sparar dem.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Warning] Misslyckades med att infoga ett bokmärke i PDF-filen.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Varning] Misslyckades med att infoga ett bokmärke i PDF-filen.";
 "Dark Theme not support" = "Mörkt tema stöds ej";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Tyvärr kan inte denna version av Typora spara bakgrundsfärg i exporterade PDF dokument. Ett mörkt tema kan därför inte användas för att exportera till PDF. \nByt till ett ljust tema eller klicka på \"Skriv ut med standardtema\" för att fortsätta.";
 "Print with default theme" = "Skriv ut med standardtema";
@@ -137,10 +137,10 @@
 "(applied after restart)" = "(appliceras efter omstart)";
 "Status Bar" = "Statusraden";
 "Show status bar" = "Visa statusraden";
-"Save & Recover" = "Spara & Återställ";
+"Save & Recover" = "Spara & återställ";
 "Auto Save" = "Spara automatiskt";
 "Recover Unsaved Drafts" = "Återställ osparade utkast";
-"Emoji Autocomplete" = "Autokomplettering av Emoji";
+"Emoji Autocomplete" = "Autokomplettering av emoji";
 "Trigger by ESC key" = "Vid tryck på ESC";
 "Trigger automatically" = "Automatiskt";
 "Default Line Ending" = "Radbryt";
@@ -160,7 +160,7 @@
 "Reset Advanced Settings" = "Återställ avancerade inställningar";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "Denna funktion kräver att senaste versionen av iPic installerats.";
+"This function requires latest version of iPic to be installed." = "Denna funktion kräver att den senaste versionen av iPic är installerad.";
 "Get iPic" = "Skaffa iPic";
 "Cannot Continue…" = "Kan inte fortsätta…";
 "This feature require macOS >= 10.11" = "Denna funktion kräver macOS >= 10.11";
@@ -245,79 +245,79 @@
 "Ignore" = "Ignorera";
 "Choose Default Folder" = "Välj standardmapp";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Omvandla vid skrift</strong>: Skriv ASCII streck eller raka citattecken - spara som typografiska citattecken eller unicode streck.<br/><strong>Omvandla vid rendering</strong>: Skriv och spara som ASCII streck eller raka citattecken - rendera som typografiska citattecken eller unicode streck.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Aktivera stöd för unicode-skiljetecken vid tolkning av markdown, t.ex:<br/> <pre> 》 blockquote → > blockquote <br/> [länk](src ’titel’) → [länk](src 'titel')</pre>Detta aktiveras automatiskt om smarta citatecken/streck är inställda på att  omvandlas vid skrift.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Aktivera stöd för unicode-skiljetecken vid tolkning av markdown, t.ex:<br/> <pre> 》 blockquote → > blockquote <br/> [länk](src ’titel’) → [länk](src 'titel')</pre>Detta aktiveras automatiskt om smarta citatecken/streck är inställda på att omvandlas vid skrift.<div>";
 
-"Copy image to custom folder" = "Copy image to custom folder";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)";
-"Restore to previous setting" = "Restore to previous setting";
-"Folder not exist at %@, please input another path." = "Folder not exist at %@, please input another path.";
-"Please input a folder path." = "Please input a folder path.";
-"Cannot use root path." = "Cannot use root path.";
+"Copy image to custom folder" = "Kopiera bild till anpassad mapp";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Vänligen specifiera en relativ sökväg till den nuverande mappen som börjar med './' eller '../', eller en absolut mappsökväg. (`${filename}` representerar nuvarande filnamn.)";
+"Restore to previous setting" = "Återställ till föregående inställning";
+"Folder not exist at %@, please input another path." = "Mappen finns ej vid %@, vänligen skriv in en annan sökväg.";
+"Please input a folder path." = "Vänligen skriv in en mappsökväg.";
+"Cannot use root path." = "Kan ej använda rotsökväg.";
 
-"Get Themes" = "Get Themes";
-"File/directory already exists at target path." = "File/directory already exists at target path.";
-"Keep Both" = "Keep Both";
-"Are you sure you want to move %@?" = "Are you sure you want to move %@?";
+"Get Themes" = "Skaffa teman";
+"File/directory already exists at target path." = "Fil/mapp finns redan vid sökvägen.";
+"Keep Both" = "Behåll båda";
+"Are you sure you want to move %@?" = "Är du säker på att du vill flytta %@?";
 
-"Are you sure you want to delete %@?" = "Are you sure you want to delete %@?";
-"You can restore from the Trash." = "You can restore from the Trash.";
+"Are you sure you want to delete %@?" = "Är du säker på att du vill radera %@?";
+"You can restore from the Trash." = "Du kan återställa från sopkorgen.";
 
-"Reset All Dialog Warnings" = "Reset All Dialog Warnings";
-"Dialogs" = "Dialogs";
-"Dialog warnings have been reset." = "Dialog warnings have been reset.";
+"Reset All Dialog Warnings" = "Återställ alla dialogvarningar";
+"Dialogs" = "Dialoger";
+"Dialog warnings have been reset." = "Dialogvarningar har blivit återställda.";
 
-"Operation Failed" = "Operation Failed";
-"Failed to move target file or folder to trash" = "Failed to move target file or folder to trash";
+"Operation Failed" = "Operation misslyckad";
+"Failed to move target file or folder to trash" = "Misslyckades att flytta filen eller mappen till sopkorgen";
 
-"Undo %@" = "Undo %@";
-"Rename %@" = "Rename %@";
-"Copy %@" = "Copy %@";
-"Move %@" = "Move %@";
-"Delete %@" = "Delete %@";
+"Undo %@" = "Ångra %@";
+"Rename %@" = "Döp om %@";
+"Copy %@" = "Kopiera %@";
+"Move %@" = "Flytta på %@";
+"Delete %@" = "Radera %@";
 
-"Turn off Typewriter / Focus Mode" = "Turn off Typewriter / Focus Mode";
-"Typewriter / Focus Mode have been turned off." = "Typewriter / Focus Mode have been turned off.";
+"Turn off Typewriter / Focus Mode" = "Stäng av skrivmaskin / Fokusläge";
+"Typewriter / Focus Mode have been turned off." = "Skrivmaskin / Fokusläge har stängts av.";
 
-"Reading Speed" = "Reading Speed";
+"Reading Speed" = "Läsfart";
 "Auto" = "Auto";
-"words / min" = "words / min";
+"words / min" = "ord / min";
 
-"Reset to Default" = "Reset to Default";
-"Select custom folder" = "Select custom folder";
-"120  words/minute (Slow)" = "120  words/minute (Slow)";
-"240  words/minute (Medium)" = "240  words/minute (Medium)";
-"382  words/minute (Fast)" = "382  words/minute (Fast)";
+"Reset to Default" = "Återställ till standard";
+"Select custom folder" = "Välj anpassad mapp";
+"120  words/minute (Slow)" = "120  ord/minut (Långsam)";
+"240  words/minute (Medium)" = "240  ord/minut (Mellan)";
+"382  words/minute (Fast)" = "382  ord/minut (Snabb)";
 
-"Copy and update image source to…" = "Copy and update image source to…";
-"Updater" = "Updater";
-"Install Updates ?" = "Install Updates ?";
-"Quit and Install" = "Quit and Install";
-"Download failed" = "Download failed";
-"Downloading Updates…" = "Downloading Updates…";
-"Checking Updates…" = "Checking Updates…";
-"Check Update Failed" = "Check Update Failed";
-"You're up to date!" = "You're up to date!";
-"Latest version is $1, your version is $2" = "Latest version is $1, your version is $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
-"Auto escape image URL when insert" = "Auto escape image URL when insert";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability.";
-"Check updates automatically" = "Check updates automatically";
-"Skip This Version" = "Skip This Version";
+"Copy and update image source to…" = "Kopiera och uppdatera bildkälla till…";
+"Updater" = "Uppdaterare";
+"Install Updates ?" = "Installera uppdateringar ?";
+"Quit and Install" = "Avsluta och installera";
+"Download failed" = "Nedladdning misslyckades";
+"Downloading Updates…" = "Laddar ner uppdateringar…";
+"Checking Updates…" = "Letar efter uppdateringar…";
+"Check Update Failed" = "Letandet efter uppdateringar misslyckades";
+"You're up to date!" = "Du är redan fullt uppdaterad!";
+"Latest version is $1, your version is $2" = "Den senaste versionen är $1, din version är $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Dessa val kan även ändras under \"Redigera→Whitespace och raadbryt\" menyn";
+"Auto escape image URL when insert" = "Bryt automatiskt ut bild-URL när infogad";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Till exempel, om du infogar en fil vid 'img/example file.png' så kommer den att bli 'img/example%20file.png'. Aktivera detta för bättre kompatibilitet med andra Markdown-redigerare, eller stäng av för bättre läsbarhet.";
+"Check updates automatically" = "Leta efter uppdateringar automatiskt";
+"Skip This Version" = "Skippa den här versionen";
 "Remind Me Later" = "Påminn mig senare";
-"Download Update" = "Ladda ner Uppdatering";
-"New version available." = "New version available.";
+"Download Update" = "Ladda ner uppdatering";
+"New version available." = "Ny version tillgänglig.";
 
-"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
-"Use Rendered SVG" = "Use Rendered SVG";
-"Use LaTeX Source" = "Use LaTeX Source";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+"When copy / export as HTML (without style)" = "När kopiera / exportera som HTML (utan style)";
+"Use Rendered SVG" = "Använd renderad SVG";
+"Use LaTeX Source" = "Använd LaTeX-källa";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ta effekter när den exporteras som HTML (utan styler) eller kopiera som HTML-kod, eller kopiera utan temstyla.<br/>När <strong>Använd LaTeX-källa</strong> är vald, så kommer Typora använda den råa LaTeX-källan (t.ex: $X^2$),<br/>När <strong>Använd renderad SVG</strong> är vald, så kommer den renderade SVG:n användas, ifall du klistrar in i en annan app så kanske SVG:n ignoreras.</div>";
 
-"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
-"Do not show this message again" = "Do not show this message again";
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importfunktionen och flera exportformat kräver att Pandoc (≥%@) är installerad.";
+"Do not show this message again" = "Visa inte det här meddelandet igen";
 
-"Page Break Between Top Headings" = "Page Break Between Top Headings";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+"Page Break Between Top Headings" = "Sidbrytning mellan huvudrubriker";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kan ställa in citatmönster i Systeminställningar → Tangentbord → Text. Detta kräver att Typora startas om för att tillämpas.";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error.";
-"Try Recovery" = "Try Recovery";
-"Other Options for Data Recovery" = "Other Options for Data Recovery";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Tyvärr så uppstod det ett fel, det nuvarande skrivinnehållet har kopierats till urklippet. Du kan anmäla detta till <hi@typora.io> för att hjälpa oss fixa detta.";
+"Try Recovery" = "Försök att återhämta";
+"Other Options for Data Recovery" = "Andra val för dataåterhämtning";

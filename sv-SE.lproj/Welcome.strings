@@ -9,69 +9,69 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Välkommen till Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Tack för att du använder Typora 👋. Typora är en minimal markdown-redigerare and markdown-läsare, som ger dig en sömlös upplevelse mellan renderade rika stilinnehåll och dess källkod.";
 
-"Get Started" = "Get Started";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Started" = "Kom igång";
+"Check following links if you're new to Markdown or Typora." = "Kolla in de följande länkarna ifall du är ny till Markdown eller Typora.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Aktivera Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Har du redan köpt en licens? Fyll i formuläret nedanför och aktivera Typora direkt.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "E-post";
+"Email Address" = "E-postadress";
+"License Code" = "Licenskod";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Hjälp";
+"Find my License" = "Hitta min licens";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Acceptera <a href='https://support.typora.io/License-Agreement/'>licensavtalet</a> och <a href='https://support.typora.io/Privacy-Policy/'>integritetspolicyn</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
+"Live Preview" = "Live förhandsvisning";
+"Write and read rendered output instantly." = "Skriv och läs renderad utdata direkt.";
+"Markdown Syntax" = "Markdown-syntax";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Kodblock, YAML, arbeten, fotnoter, tabeller, matte, diagram";
 "Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Deliver your content in various formats." = "Leverera ditt innehåll i flera format.";
+"Editing Experience" = "Redigeringsupplevelse";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Översikt / Antal ord / Fokusläge / Skrivmaskinsläge";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
+"Files" = "Filer";
+"Manage files in sidebar and search across files." = "Hantera filer i sidofältet och sök bland filer.";
+"Customize" = "Anpassa";
+"Customize your writing experience from preferences panel." = "Anpassa din skrivupplevelse från inställningspanelen.";
+"Themes" = "Teman";
+"Write in the theme you like, or make one by your own." = "Skriv i temat du tycker om, eller skapa ett själv.";
+"And more" = "Och mer";
+"Explore more topics at support.typora.io" = "Utforska mer ämnen vid support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explore Themes" = "Explore Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Snabbstart";
+"Markdown Reference" = "Markdown-referens";
+"Explore Themes" = "Utforska teman";
+"More Topics" = "Fler ämnen";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora är aktiverad";
+"Thanks for your purchase." = "Tack för ditt köp.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Nästa";
+"Please accept license agreement first" = "Vänligen acceptera licensavtalet först.";
+"Start %@ Days Trial" = "Starta %@ dagars testperiod";
+"Buy License" = "Köp licens";
+"Activate" = "Aktivera";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Stäng ner";
+"Deactivate" = "Avaktivera";
+"View License" = "Visa licens";
+"Your Typora License" = "Din Typora licens";
+"This copy of Typora is registered with license information below." = "Denna kopia av Typora är registrerad med licensinformationen nedanför.";
+"Your trial will be expired in %@ days." = "Din testperiod kommer gå ut om %@ dagar.";
+"Enter License" = "Skriv in licens";
+"Not Now" = "Inte nu";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Vänligen skriv in en giltig e-postaddress";
+"Please input a valid license code"  = "Vänligen skriv in en giltig licenskod";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Din licens har gått över antalet max enheter.\nDen äldsta enheten har automatiskt oregistrerats.";
+"This license code has been used with a different email address." =  "Denna licenskod har redan blivit använd med en annan e-postaddress.";
+"Unknown Error. Please contact hi@typora.io" = "Okänt fel. Vänligen kontakta hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Misslyckades med att komma åt licensservern. Vänligen kontrollera din internetuppkoppling eller pröva igen senare.";
 

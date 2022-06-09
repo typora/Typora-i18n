@@ -190,3 +190,7 @@
 
 "File does not exist at path %@." = "Datoteka na poti %@ ne obstaja.";
 "File does not exist at path %@, do you want to create one at that path?" = "Datoteka na poti %@ ne obstaja, ali jo želite ustvariti?";
+
+"No Results" = "Brez rezultatov";
+"Too many matches" = "Preveč zadetkov";
+"Regular Expression" = "Regularni izraz";

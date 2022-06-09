@@ -504,3 +504,6 @@
 "No local images found." = "Lokalne slike niso bile najdene.";
 
 "File Format:" = "Format datoteke:";
+
+"Images copied to %@." = "Slike kopirane v %@.";
+"Images moved to %@." = "Slike premaknjene v %@.";

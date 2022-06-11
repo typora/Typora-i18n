@@ -81,3 +81,9 @@
 "Email address confirmation does not match." = "L’adresse e-mail de confirmation ne correspond pas.";
 
 "Are you sure to deactivate Typora on this device?" = "Êtes-vous sûr de vouloir désactiver Typora sur cet appareil ?";
+
+"Offline Activation" = "Activation hors ligne";
+"Back" = "Retour";
+"Get Activation Token" = "Obtenir la clé d'activation";
+
+"Your activated devices have exceeded the maximum limits." = "Vous avez dépassé la limite d'appareils activés.";

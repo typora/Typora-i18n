@@ -53,10 +53,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Naslednje nastavitve bodo uveljavljene po ponovnem zagonu.)";
 "Syntax Support" = "Podpora za sintakso";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Enačbe v vrstici  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Nadpisano    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Podpisano ( e.g: X^2^ )";
-"Highlight     (e.g: ==key==)" = "Označeno     (e.g: ==key==)";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Enačbe v vrstici  ( n.pr.: $\LaTeX$ )";
+"Subscript    ( e.g: H~2~O )" = "Nadpisano    ( n.pr.: H~2~O )";
+"Superscript ( e.g: X^2^ )" = "Podpisano ( n.pr.: X^2^ )";
+"Highlight     (e.g: ==key==)" = "Označeno     ( n.pr.: ==key== )";
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart in Mermaid)";
 "Syntax Preference" = "Nastavitve sintakse";
@@ -83,13 +83,13 @@
 
 /* Pandoc Import Panel */
 "Importing…" = "Uvažanje …";
-"Importing in progress…" = "Poteka uvoz …";
+"Importing in progress…" = "Uvažanje v teku …";
 "Converting file with Pandoc. This may take some time." = "Pretvarjanje datoteke s Pandoc. To lahko traja nekaj časa.";
 "Abort" = "Ustavi";
 
 /* Pandoc Export Panel */
 "Exporting…" = "Izvoz …";
-"Exporting in progress…" = "Izvažanje …";
+"Exporting in progress…" = "Izvažanje v teku …";
 "Converting file with Pandoc. This may take some time." = "Pretvarjanje datoteke s Pandoc. To lahko traja nekaj časa.";
 
 /* Export & Import */
@@ -504,3 +504,6 @@
 "No local images found." = "Lokalne slike niso bile najdene.";
 
 "File Format:" = "Format datoteke:";
+
+"Images copied to %@." = "Slike kopirane v %@.";
+"Images moved to %@." = "Slike premaknjene v %@.";

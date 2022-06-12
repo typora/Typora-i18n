@@ -187,3 +187,10 @@
 
 "You are not supposed to edit or save this file." = "Vous n'êtes pas censé editer ou enregistrer ce fichier.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Les fichiers à cet emplacement (%@) sont gérés par Typora, et peuvent être supprimés automatiquement.<br/>Veuillez copier le contenu dans un nouveau fichier pour une édition ultérieure.";
+
+"File does not exist at path %@." = "Le fichier n'existe pas à l'emplacement %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Le fichier n'existe pas à l'emplacement %@, voulez-vous en créer un à cet emplacement ?";
+
+"No Results" = "Aucun résultat";
+"Too many matches" = "Trop de correspondances";
+"Regular Expression" = "Expression régulière";

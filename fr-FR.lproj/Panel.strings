@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com, arnaud@ligny.org and nicolas@leperlier.co
  */
 
 /* Preference Panel */
@@ -485,3 +485,25 @@
 "Typora activation is required to change this." = "L’activation de Typora est requise pour effectuer cette modification.";
 "You can reinstall the stable version and then disable this." = "Vous pouvez réinstaller la version stable et ensuite désactiver ceci.";
 "Update to dev version" = "Mettre à jour vers la version de développement";
+
+"File does not exist" = "Le fichier n'existe pas";
+"Create File" = "Créer un fichier";
+"Create Folder" = "Créer un dossier";
+
+"(Some options will be applied after restart.)" = "(Certaines options seront appliquées après redémarrage.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copier ou couper l'ensemble de la ligne lorsque le curseur y est positionné, s'il n'y a pas de sélection lors du copier/couper.";
+"Enable physics package" = "Activer le paquet physics";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Le paquet physics va redéfinir certaines macros latex, telles que \\div, \\Re, etc.";
+
+"Detail" = "Détail";
+"Use custom font size" = "Utiliser une taille de police personnalisée";
+"Use theme font size" = "Utiliser la taille de police du thème";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Vous utilisez la version Snap, qui pourrait avoir un accès limité à vos executables locaux";
+
+"No local images found." = "Aucune image locale trouvée.";
+
+"File Format:" = "Format du fichier :";
+
+"Images copied to %@." = "Images copiées vers %@.";
+"Images moved to %@." = "Images déplacées vers %@.";

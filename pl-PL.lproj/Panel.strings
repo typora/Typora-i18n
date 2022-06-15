@@ -495,7 +495,7 @@
 "Enable physics package" = "Włącz pakiet fizyki";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Pakiet fizyki zmieni definicje niektórych makr latex takich jak \\div, \\Re itp.";
 
-"Detail" = "Szczegółowość";
+"Detail" = "Szczegóły";
 "Use custom font size" = "Użyj własnego rozmiaru czcionki";
 "Use theme font size" = "Użyj rozmiaru czcionki z motywu";
 

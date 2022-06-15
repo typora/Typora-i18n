@@ -511,3 +511,5 @@
 
 "Images copied to %@." = "已将图片复制到了 %@。";
 "Images moved to %@." = "已将图片移动到了 %@。";
+
+"Custom Command" = "自定义命令";

@@ -507,3 +507,5 @@
 
 "Images copied to %@." = "Images copied to %@.";
 "Images moved to %@." = "Images moved to %@.";
+
+"Custom Command" = "Custom Command";

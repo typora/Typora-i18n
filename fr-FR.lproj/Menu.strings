@@ -333,7 +333,7 @@
 "Delete Image File" = "Supprimer le fichier image";
 "Reload All Images" = "Recharger toutes les images";
 
-"Save %@ As…" = "Enregistrer %@ sous…";
+"Save %@ As" = "Enregistrer %@ sous";
 
 "Copy All Images to" = "Copier toutes les images vers";
 "Move All Images to" = "Déplacer toutes les images vers";

@@ -505,6 +505,7 @@
 
 "File Format:" = "Format pliku:";
 
-
 "Images copied to %@." = "Obrazy skopiowano do %@.";
 "Images moved to %@." = "Obrazy przeniesiono do %@.";
+
+"Custom Command" = "Własne polecenie";

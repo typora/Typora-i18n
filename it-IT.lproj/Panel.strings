@@ -386,7 +386,7 @@
 "Width" = "Larghezza";
 "Command" = "Comando";
 "Show Save File Dialog" = "Mostra dialogo di salvataggio";
-"File Extensions for Export" = "Estensioni file per l'esportazioni";
+"File Extensions for Export" = "Estensioni file per l'esportazione";
 "Arguments" = "Opzioni";
 "Extra Arguments" = "Opzioni Aggiuntive";
 "LaTeX Engine" = "LaTeX Engine";

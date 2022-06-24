@@ -313,27 +313,27 @@
 
 "Emoji and Symbols" = "Emoji e Simboli";
 
-"Insert Final New Line On Save" = "Insert Final New Line On Save";
-"Hyperlink Actions" = "Hyperlink Actions";
-"Copy Link Address" = "Copy Link Address";
+"Insert Final New Line On Save" = "Inserisci invio finale al salvataggio";
+"Hyperlink Actions" = "Azioni su collegamenti";
+"Copy Link Address" = "Copia indirizzo collegamento";
 
 "Click" = "Click";
 
-"Export Setting" = "Export Setting";
+"Export Setting" = "Esporta impostazioni";
 
-"My License" = "My License";
-"Registration / Activation" = "Registration / Activation";
+"My License" = "La mia licenza";
+"Registration / Activation" = "Registrazione / Attivazione";
 
-"Select Paragraph / Block" = "Select Paragraph / Block";
+"Select Paragraph / Block" = "Seleziona paragrafo / blocco";
 
-"Delete Selected" = "Delete Selected";
-"Move Image to" = "Move Image to";
-"Move to %@…" = "Move to %@…";
-"Delete Image" = "Delete Image";
-"Delete Image File" = "Delete Image File";
-"Reload All Images" = "Reload All Images";
+"Delete Selected" = "Elimina selezione";
+"Move Image to" = "Sposta immagine in";
+"Move to %@…" = "Sposta in %@…";
+"Delete Image" = "Elimina immagine";
+"Delete Image File" = "Elimina file immagine";
+"Reload All Images" = "Ricarica tutte le immagini";
 
-"Save %@ As" = "Save %@ As";
+"Save %@ As" = "Salva %@ come";
 
-"Copy All Images to" = "Copy All Images to";
-"Move All Images to" = "Move All Images to";
+"Copy All Images to" = "Copia tutte le immagini in";
+"Move All Images to" = "Sposta tutte le immagini in";

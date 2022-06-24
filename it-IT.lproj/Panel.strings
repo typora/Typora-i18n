@@ -64,8 +64,8 @@
 "Strict Mode" = "Modalità Strict";
 "(more strict to GFM spec)" = "(più conforme alle specifiche GFM)";
 "Heading Style" = "Stile dei titoli";
-"Ordered List" = "Elenco numerato";
 "Unordered List" = "Elenco puntato";
+"Ordered List" = "Elenco numerato";
 "Code Fences" = "Blocchi di codice";
 "Display line numbers for code fences" = "Mostra numero delle righe nei blocchi di codice";
 "Math Blocks" = "Blocchi Math";
@@ -129,7 +129,7 @@
 "In Selection" = "Selezionati";
 "Panel" = "Pannello";
 
-/* Windows Prefernce Panel*/
+/* Windows Prefernces Panel*/
 "Appearance" = "Aspetto";
 "System Native" = "Nativo di sistema";
 "Unibody" = "Unibody";
@@ -252,7 +252,7 @@
 "Cannot use root path." = "Impossibile utilizzare il percorso root.";
 
 "Get Themes" = "Ottieni temi";
-"File/directory alreay exists at target path." = "File/cartella già esistente nel percorso selezionato.";
+"File/directory already exists at target path." = "File/cartella già esistente nel percorso selezionato.";
 "Keep Both" = "Mantieni entrambi";
 "Are you sure you want to move %@?" = "Sei sicuro di voler spostare %@?";
 
@@ -368,7 +368,7 @@
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supportato su macOS ≥ 10.15 o Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "Converte -- in – (lineetta enne), e --- in — (lineetta emme)";
 "Convert -- and --- to — (em dash)" = "Converte -- e --- in — (lineetta emme)";
-"You could set patterns per citazione in  → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Puoi impostare pattern di citazione in Impostazioni → Tastiera → Testo. Necessita rivvio di Typora.";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Puoi impostare pattern di citazione in Impostazioni → Tastiera → Testo. Necessita rivvio di Typora.";
 
 
 "Paper Size" = "Dimensione Foglio";

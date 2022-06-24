@@ -467,45 +467,45 @@
 "Convert TeX formulas to web images" = "Converti formule TeX in immagini web";
 "Image Format" = "Formato Immagine";
 
-"Set Pandoc Path" = "Set Pandoc Path";
+"Set Pandoc Path" = "Imposta percorso Pandoc";
 
-"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
+"Apply Line Break at \\ and &#92;newline" = "Applica interruzioni di riga quando trova \\ e &#92;newline";
 
-"Export operation succeeded with warnings." = "Export operation succeeded with warnings.";
+"Export operation succeeded with warnings." = "Operazione di esportazione completata con degli avvisi.";
 
-"Typora is now deactivated" = "Typora is now deactivated";
-"This device has been deactivated" = "This device has been deactivated";
-"UNREGISTERED" = "UNREGISTERED";
+"Typora is now deactivated" = "Typora è ora disattivato";
+"This device has been deactivated" = "Questo dispostivo è stato disattivato";
+"UNREGISTERED" = "NON REGISTRATO";
 
-"Your Typora is not activated." = "Your Typora is not activated.";
-"Your Typora has been activated." = "Your Typora has been activated.";
-"Typora activation is required to change this." = "Typora activation is required to change this.";
-"You can reinstall the stable version and then disable this." = "You can reinstall the stable version and then disable this.";
-"Update to dev version" = "Update to dev version";
+"Your Typora is not activated." = "Il tuo Typora non è attivato.";
+"Your Typora has been activated." = "Il tuo Typora è stato attivato.";
+"Typora activation is required to change this." = "Per cambiarlo è richiesta l'attivazione di Typora.";
+"You can reinstall the stable version and then disable this." = "Puoi reinstallare la versione stabile e quindi disabilitare questa.";
+"Update to dev version" = "Aggiorna alla versione di sviluppo";
 
-"Typora Server" = "Typora Server";
-"Use Typora Server in China" = "Use Typora Server in China";
+"Typora Server" = "Server Typora";
+"Use Typora Server in China" = "Usa il server Typora in Cina";
 
-"File does not exist" = "File does not exist";
-"Create File" = "Create File";
-"Create Folder" = "Create Folder";
+"File does not exist" = "Il file non esiste";
+"Create File" = "Crea file";
+"Create Folder" = "Crea cartella";
 
-"(Some options will be applied after restart.)" = "(Some options will be applied after restart.)";
-"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut.";
-"Enable physics package" = "Enable physics package";
-"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics package will redefine some latex macros, such as \\div, \\Re, etc.";
+"(Some options will be applied after restart.)" = "(Alcune opzioni verranno applicate dopo il riavvio.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copia o taglia per intero le righe sulle quali ci sono i cursori, se niente è selezionato quando si copia / taglia.";
+"Enable physics package" = "Abilita il pacchetto Physics";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Il pacchetto Physics ridefinirà alcune macro LaTeX, come \\div, \\Re, ecc.";
 
-"Detail" = "Detail";
-"Use custom font size" = "Use custom font size";
-"Use theme font size" = "Use theme font size";
+"Detail" = "Dettagli";
+"Use custom font size" = "Usa dimensione dei caratteri personalizzata";
+"Use theme font size" = "Usa dimensione dei caratteri del tema";
 
-"You are using the Snap version, it may have limited access to your local executables." = "You are using the Snap version, it may have limited access to your local executables.";
+"You are using the Snap version, it may have limited access to your local executables." = "Stai utilizzando la versione Snap, che potrebbe avere accesso limitato ai tuoi eseguibili in locale.";
 
-"No local images found." = "No local images found.";
+"No local images found." = "Nessuna immagine locale trovata.";
 
-"File Format:" = "File Format:";
+"File Format:" = "Formato file:";
 
-"Images copied to %@." = "Images copied to %@.";
-"Images moved to %@." = "Images moved to %@.";
+"Images copied to %@." = "Immagini copiate in %@.";
+"Images moved to %@." = "Immagini spostate in %@.";
 
-"Custom Command" = "Custom Command";
+"Custom Command" = "Comando personalizzato";

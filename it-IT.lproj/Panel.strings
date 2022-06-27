@@ -64,8 +64,8 @@
 "Strict Mode" = "Modalità Strict";
 "(more strict to GFM spec)" = "(più conforme alle specifiche GFM)";
 "Heading Style" = "Stile dei titoli";
-"Ordered List" = "Elenco numerato";
 "Unordered List" = "Elenco puntato";
+"Ordered List" = "Elenco numerato";
 "Code Fences" = "Blocchi di codice";
 "Display line numbers for code fences" = "Mostra numero delle righe nei blocchi di codice";
 "Math Blocks" = "Blocchi Math";
@@ -129,7 +129,7 @@
 "In Selection" = "Selezionati";
 "Panel" = "Pannello";
 
-/* Windows Prefernce Panel*/
+/* Windows Prefernces Panel*/
 "Appearance" = "Aspetto";
 "System Native" = "Nativo di sistema";
 "Unibody" = "Unibody";
@@ -252,7 +252,7 @@
 "Cannot use root path." = "Impossibile utilizzare il percorso root.";
 
 "Get Themes" = "Ottieni temi";
-"File/directory alreay exists at target path." = "File/cartella già esistente nel percorso selezionato.";
+"File/directory already exists at target path." = "File/cartella già esistente nel percorso selezionato.";
 "Keep Both" = "Mantieni entrambi";
 "Are you sure you want to move %@?" = "Sei sicuro di voler spostare %@?";
 
@@ -364,11 +364,11 @@
 "Theme" = "Tema";
 "Light Theme" = "Tema Chiaro";
 "Dark Theme" = "Tema Scuro";
-"Use separate theme in dark mode" = "Usa temi separati con Aspetto Scuro";
+"Use separate theme in dark mode" = "Usa tema diverso in Modalità scura";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Supportato su macOS ≥ 10.15 o Windows 10 ≥ 1903";
 "Convert -- to – (en dash), and --- to — (em dash)" = "Converte -- in – (lineetta enne), e --- in — (lineetta emme)";
 "Convert -- and --- to — (em dash)" = "Converte -- e --- in — (lineetta emme)";
-"You could set patterns per citazione in  → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Puoi impostare pattern di citazione in Impostazioni → Tastiera → Testo. Necessita rivvio di Typora.";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Puoi impostare pattern di citazione in Impostazioni → Tastiera → Testo. Necessita rivvio di Typora.";
 
 
 "Paper Size" = "Dimensione Foglio";
@@ -386,7 +386,7 @@
 "Width" = "Larghezza";
 "Command" = "Comando";
 "Show Save File Dialog" = "Mostra dialogo di salvataggio";
-"File Extensions for Export" = "Estensioni file per l'esportazioni";
+"File Extensions for Export" = "Estensioni file per l'esportazione";
 "Arguments" = "Opzioni";
 "Extra Arguments" = "Opzioni Aggiuntive";
 "LaTeX Engine" = "LaTeX Engine";
@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Esporta e Sovrascrivi Precedenti\" sovrascrive il file %@, vuoi continuare?";
 "Command Arguments:" = "Opzioni Comandi";
-"This dev version of Typora is expired, please download and install a newer version." = "Questa versione Dev di Typora è scaduta, per favore scarica ed installa una versione più recente.";
+"This dev version of Typora is expired, please download and install a newer version." = "Questa versione di sviluppo di Typora è scaduta, per favore scarica ed installa una versione più recente.";
 "Current Theme" = "Tema Corrente";
 "After Export" = "Dopo l'Esportazione";
 "Run command" = "Esegui Comando";
@@ -466,3 +466,46 @@
 "End of current section" = "Fine selezione corrente";
 "Convert TeX formulas to web images" = "Converti formule TeX in immagini web";
 "Image Format" = "Formato Immagine";
+
+"Set Pandoc Path" = "Imposta percorso Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Applica interruzioni di riga quando trova \\ e &#92;newline";
+
+"Export operation succeeded with warnings." = "Operazione di esportazione completata con degli avvisi.";
+
+"Typora is now deactivated" = "Typora è ora disattivato";
+"This device has been deactivated" = "Questo dispostivo è stato disattivato";
+"UNREGISTERED" = "NON REGISTRATO";
+
+"Your Typora is not activated." = "Il tuo Typora non è attivato.";
+"Your Typora has been activated." = "Il tuo Typora è stato attivato.";
+"Typora activation is required to change this." = "Per cambiarlo è richiesta l'attivazione di Typora.";
+"You can reinstall the stable version and then disable this." = "Puoi reinstallare la versione stabile e quindi disabilitare questa.";
+"Update to dev version" = "Aggiorna alla versione di sviluppo";
+
+"Typora Server" = "Server Typora";
+"Use Typora Server in China" = "Usa il server Typora in Cina";
+
+"File does not exist" = "Il file non esiste";
+"Create File" = "Crea file";
+"Create Folder" = "Crea cartella";
+
+"(Some options will be applied after restart.)" = "(Alcune opzioni verranno applicate dopo il riavvio.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copia o taglia per intero le righe sulle quali ci sono i cursori, se niente è selezionato quando si copia / taglia.";
+"Enable physics package" = "Abilita il pacchetto Physics";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Il pacchetto Physics ridefinirà alcune macro LaTeX, come \\div, \\Re, ecc.";
+
+"Detail" = "Dettagli";
+"Use custom font size" = "Usa dimensione dei caratteri personalizzata";
+"Use theme font size" = "Usa dimensione dei caratteri del tema";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Stai utilizzando la versione Snap, che potrebbe avere accesso limitato ai tuoi eseguibili in locale.";
+
+"No local images found." = "Nessuna immagine locale trovata.";
+
+"File Format:" = "Formato file:";
+
+"Images copied to %@." = "Immagini copiate in %@.";
+"Images moved to %@." = "Immagini spostate in %@.";
+
+"Custom Command" = "Comando personalizzato";

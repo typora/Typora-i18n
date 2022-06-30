@@ -13,7 +13,7 @@
 "Close" = "Zapri";
 "Select" = "Izberi";
 "Continue" = "Nadaljuj";
-"Learn More…" = "Več informacij …";
+"Learn More…" = "Izvedi več …";
 "Untitled" = "Brez naslova";
 "Undo" = "Razveljavi";
 "Dismiss" = "Opusti";
@@ -120,7 +120,7 @@
 "Successfully uploaded {0} images." = "Uspešno naloženo {0} slik.";
 "Failed to upload image. Error Message:" = "Neuspešno nalaganje slik. Sporočilo napake:";
 "Failed to Copy Image to Target Folder." = "Neuspešno kopiranje slik v ciljno mapo.";
-"Select Container Folder" = "Izberite mapo z vsebnino";
+"Select Container Folder" = "Izberite vsebovano mapo";
 
 "Saved" = "Shranjeno";
 

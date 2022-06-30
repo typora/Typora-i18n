@@ -200,7 +200,7 @@
 "More Formats" = "Več oblik";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formati datotek v razdelkih 'Več formatov' potrebujejo nameščen <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Nekaj je narobe …";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine iz nekega razloga ni uspelo.<br/>Vsebino lahko kopirate v novo okno Typora in jo nato shranite. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Napako prijavite na naslovu </a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovitev izgubljene vsebine</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine iz nekega razloga ni uspelo.<br/>Vsebino lahko kopirate v novo okno in jo nato shranite. <br/>Več informacij:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Napako prijavite na naslovu </a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovitev izgubljene vsebine</a></li></ul>";
 "Copy Content" = "Kopiraj vsebino";
 
 
@@ -507,3 +507,5 @@
 
 "Images copied to %@." = "Slike kopirane v %@.";
 "Images moved to %@." = "Slike premaknjene v %@.";
+
+"Custom Command" = "Ukaz po meri";

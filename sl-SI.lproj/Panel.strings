@@ -507,3 +507,5 @@
 
 "Images copied to %@." = "Slike kopirane v %@.";
 "Images moved to %@." = "Slike premaknjene v %@.";
+
+"Custom Command" = "Ukaz po meri";

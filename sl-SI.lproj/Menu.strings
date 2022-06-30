@@ -333,7 +333,7 @@
 "Delete Image File" = "Izbriši slikovno datoteko";
 "Reload All Images" = "Ponovno naloži vse slike";
 
-"Save %@ As…" = "Shrani %@ kot …";
+"Save %@ As" = "Shrani %@ kot";
 
 "Copy All Images to" = "Kopiraj vse slike v";
 "Move All Images to" = "Premakni vse slike v";

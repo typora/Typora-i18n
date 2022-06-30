@@ -173,6 +173,24 @@
 
 "Failed to upload images:" = "Caricamento immagini non riuscito:";
 "Uploading in progress" = "Caricamento in corso";
-"Successfully uploaded {0} images, {1} failed." = "Sono state caricate {0} immagini, {1} non riuscito.";
+"Successfully uploaded {0} images, {1} failed." = "Sono state caricate {0} immagini, {1} non riuscito/i.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Puoi annullare questa operazione successivamente in `Modifica` → `Annulla`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Puoi premere <strong>⌘ + Click</strong> per aprire i <a href='#'>collegamenti</a> o saltare alla definizione della nota a pié di pagina.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Puoi premere <strong>CTRL + Click</strong> per aprire i <a href='#'>collegamenti</a> o saltare alla definizione della nota a pié di pagina.";
+
+"<strong>Unibody</strong> style has been turned on." = "Lo stile <strong>Unibody</strong> è stato abilitato.";
+"You can right click titlebar to popup application menu." = "Puoi premere il pulsante destro del mouse sulla barra del titolo per aprire il menu dell'applicazione.";
+
+"Support Document" = "Documentazione di Supporto";
+
+"You are not supposed to edit or save this file." = "Non dovresti modificare o salvare questo file.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "I file in questa posizione (%@) sono gestiti da Typora e possono essere eliminati automaticamente.<br/>Copia i contenuti in un nuovo file per fare ulteriori modifiche.";
+
+"File does not exist at path %@." = "Il file al percorso %@ non esiste.";
+"File does not exist at path %@, do you want to create one at that path?" = "Il file al percorso %@ non esiste, vuoi crearne uno a quel percorso?";
+
+"No Results" = "Nessun Risultato";
+"Too many matches" = "Troppe corrispondenze";
+"Regular Expression" = "Regular Expression";

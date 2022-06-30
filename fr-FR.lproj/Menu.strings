@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com and arnaud@ligny.org
+ by hi@typora.io, hello@mordinateur.com, naeiogalaxy@gmail.com, arnaud@ligny.org and nicolas@leperlier.co
 */
 
 /* Typora Menu */
@@ -325,3 +325,15 @@
 "Registration / Activation" = "Enregistrement / Activation";
 
 "Select Paragraph / Block" = "Sélectionner le paragraphe / bloc";
+
+"Delete Selected" = "Supprimer la sélection";
+"Move Image to" = "Déplacer l'image vers";
+"Move to %@…" = "Déplacer vers %@…";
+"Delete Image" = "Supprimer l'image";
+"Delete Image File" = "Supprimer le fichier image";
+"Reload All Images" = "Recharger toutes les images";
+
+"Save %@ As" = "Enregistrer %@ sous";
+
+"Copy All Images to" = "Copier toutes les images vers";
+"Move All Images to" = "Déplacer toutes les images vers";

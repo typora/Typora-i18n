@@ -148,8 +148,8 @@
 "View" = "Vista";
 "New Tab" = "Nuova scheda";
 "Source Code Mode" = "Codice sorgente";
-"Focus Mode" = "Modalità Focus";
-"Typewriter Mode" = "Modalità Typewriter";
+"Focus Mode" = "Modalità Messa a fuoco";
+"Typewriter Mode" = "Modalità Macchina da scrivere";
 "Toggle Sidebar" = "Mostra/nascondi barra laterale";
 "Outline" = "Struttura";
 "Articles" = "Articoli";
@@ -308,7 +308,32 @@
 "More Actions" = "Altre Azioni";
 "Get Info" = "Ottieni Informazioni";
 
-"Export with Previous" = "Esporta con Precedente";
-"Export and Overwrite with Previous" = "Esporta and Sovrascrivi with Precedente";
+"Export with Previous" = "Esporta come Precedente";
+"Export and Overwrite with Previous" = "Esporta come Precedente e Sovrascrivi";
 
 "Emoji and Symbols" = "Emoji e Simboli";
+
+"Insert Final New Line On Save" = "Inserisci invio finale al salvataggio";
+"Hyperlink Actions" = "Azioni su collegamenti";
+"Copy Link Address" = "Copia indirizzo collegamento";
+
+"Click" = "Click";
+
+"Export Setting" = "Esporta impostazioni";
+
+"My License" = "La mia licenza";
+"Registration / Activation" = "Registrazione / Attivazione";
+
+"Select Paragraph / Block" = "Seleziona paragrafo / blocco";
+
+"Delete Selected" = "Elimina selezione";
+"Move Image to" = "Sposta immagine in";
+"Move to %@…" = "Sposta in %@…";
+"Delete Image" = "Elimina immagine";
+"Delete Image File" = "Elimina file immagine";
+"Reload All Images" = "Ricarica tutte le immagini";
+
+"Save %@ As" = "Salva %@ come";
+
+"Copy All Images to" = "Copia tutte le immagini in";
+"Move All Images to" = "Sposta tutte le immagini in";

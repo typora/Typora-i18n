@@ -6,6 +6,15 @@ If you want to help translate Typora into other languages, we would very appreci
 
 - Just fork this project, change text resources and make a pull request
 
+#### Find missing text labels
+
+When we upgrade Typora, we could add new text labels for `.strings` files under ` Base.lproj`, to checkout missing text labels under your `{locale}.lproj`, you can try following commands (Thanks to [@BrainCrumbz](https://github.com/BrainCrumbz)), which takes `it-IT.lproj/Welcome.strings` as an example:
+
+```shell
+gawk 'BEGIN { FS=" = " } { print $1 }' Base.lproj/Welcome.strings > base-keys
+gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
+```
+
 ### Add a new language Interface
 
 1. Check our issue list to see if there are already someone else translating the text recourse to your language. If not, open an issue to tell others that you doing the translation, in order to avoid duplicate work.

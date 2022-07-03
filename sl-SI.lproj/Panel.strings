@@ -200,7 +200,7 @@
 "More Formats" = "Več oblik";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formati datotek v razdelkih 'Več formatov' potrebujejo nameščen <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Nekaj je narobe …";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine iz nekega razloga ni uspelo.<br/>Vsebino lahko kopirate v novo okno Typora in jo nato shranite. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Napako prijavite na naslovu </a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovitev izgubljene vsebine</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine iz nekega razloga ni uspelo.<br/>Vsebino lahko kopirate v novo okno in jo nato shranite. <br/>Več informacij:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Napako prijavite na naslovu </a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovitev izgubljene vsebine</a></li></ul>";
 "Copy Content" = "Kopiraj vsebino";
 
 
@@ -295,7 +295,7 @@
 "You are update to date!" = "Vse je posodobljeno!";
 "Latest version is $1, your version is $2" = "Zadnja različica je $1, vi imate $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Uredi → Presledki in prelomi vrstic\"";
-"Auto escape image URL when insert" = "Pri vstavljanju samodejni dokončaj URL slike";
+"Auto escape image URL when insert" = "Pri vstavljanju samodejno dokončaj URL slike";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Če vstavite sliko kot 'img/example file.png', bo postalo 'img/example%20file.png'. To omogočite za boljšo združljivost z ostalimi Markdown pogoni ali pa onemogočite za boljšo berljivost kode.";
 "Check updates automatically" = "Samodejno preveri za posodobitve";
 "Skip This Version" = "Preskoči to različico";
@@ -346,7 +346,7 @@
 "Agree and Download" = "Sprejmi in prenesi";
 "Download and Reinstall" = "Prenesi in ponovno namesti";
 "Loading PicGo-Core License" = "Preverjam PicGo-Core licenco";
-"Failed to get installed version of PicGo-Core (command line)" = "Ne morem preveriti različice namečene PicGo-Core (ukazna vrstica)";
+"Failed to get installed version of PicGo-Core (command line)" = "Ne morem preveriti različice namečene PicGo-Core (CLI)";
 "You have the latest PicGo-Core (CLI)" = "Nameščeno imate zadnjo različico PicGo-Core (CLI)";
 "Newer version is available" = "Na voljo je nova različia";
 
@@ -493,7 +493,7 @@
 "(Some options will be applied after restart.)" = "(Nekatere možnosti bodo uveljavljene po ponovnem zagonu.)";
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Če ob kopiranju/izrezovanju ni označenega besedila, kopiraj celotno vrstico besedila, nad katero je kazalec";
 "Enable physics package" = "Omogoči paket physics";
-"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Paket pyhsics bo ponastavil nekatere latex makroje, kot so \\div, \\Re, in podobno.";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Paket pyhsics bo ponastavil nekatere LaTeX makre, kot so \\div, \\Re, in podobno.";
 
 "Detail" = "Podrobnosti";
 "Use custom font size" = "Uporabi velikost pisave po meri";
@@ -507,3 +507,5 @@
 
 "Images copied to %@." = "Slike kopirane v %@.";
 "Images moved to %@." = "Slike premaknjene v %@.";
+
+"Custom Command" = "Ukaz po meri";

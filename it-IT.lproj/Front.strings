@@ -71,12 +71,12 @@
 "Refresh Folder" = "Aggiorna cartella";
 "Sort" = "Ordina";
 "Group By Folder" = "Raggruppa per cartella";
-"Sort Naturally (Ascending)" = "Ordina (Ascending)";
-"Sort Naturally (Descending)" = "Ordina (Descending)";
-"Sort by Name (Ascending)" = "Ordina per nome (Ascending)";
-"Sort by Modification Date (Ascending)" = "Ordina per data di modifica (Ascending)";
-"Sort by Name (Descending)" = "Ordina per nome (Descending)";
-"Sort by Modification Date (Descending)" = "Ordina per data di modifica (Descending)";
+"Sort Naturally (Ascending)" = "Ordina (Ascendente)";
+"Sort Naturally (Descending)" = "Ordina (Discendente)";
+"Sort by Name (Ascending)" = "Ordina per nome (Ascendente)";
+"Sort by Modification Date (Ascending)" = "Ordina per data di modifica (Ascendente)";
+"Sort by Name (Discendente)" = "Ordina per nome (Descending)";
+"Sort by Modification Date (Descending)" = "Ordina per data di modifica (Discendente)";
 "Location" = "Posizioni";
 "Switch File List/Tree View" = "Passa a vista Elenco/Albero";
 "No Files Available" = "Nessun file disponibile";
@@ -159,7 +159,7 @@
 "You could turn it off from `View` menu." = "Puoi disattivarlo dal menu `Vista`.";
 "The file is too large to render in Typora." = "Il file è troppo grande per essere visualizzato in Typora.";
 "Open in…" = "Apri in…";
-"Quick Look" = "Quick Look";
+"Quick Look" = "Sguardo Rapido";
 
 "Filter" = "Filtro";
 "No result found." = "Nessun risultato trovato.";

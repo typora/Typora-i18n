@@ -513,3 +513,6 @@
 "Images moved to %@." = "已将图片移动到了 %@。";
 
 "Custom Command" = "自定义命令";
+"No Automatic Equation Numbering" = "不启用公式的自动编号";
+"Use AMS Numbering Rules" = "根据 AMS 规则对公式使用自动编号";
+"Auto Numbering for All Math Equations" = "对所有公式使用自动编号";

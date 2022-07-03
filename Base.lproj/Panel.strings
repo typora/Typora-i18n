@@ -509,3 +509,6 @@
 "Images moved to %@." = "Images moved to %@.";
 
 "Custom Command" = "Custom Command";
+"No Automatic Equation Numbering" = "No Automatic Equation Numbering";
+"Use AMS Numbering Rules" = "Use AMS Numbering Rules";
+"Auto Numbering for All Math Equations" = "Auto Numbering for All Math Equations";

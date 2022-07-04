@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, vreality64, Third9, IdionKim, cog25, wookayin, seungjin, Corea
+ by ryush00, vreality64, Third9, IdionKim, cog25, wookayin, seungjin, Corea, LimeCake
 */
 
 /* Typora Menu */
@@ -267,15 +267,15 @@
 "Pause" = "Pause";
 
 /*
-"Spell Check" = "Spell Check";
-"Unlearn Spelling" = "Unlearn Spelling";
+"Spell Check" = "맞춤법 검사";
+"Unlearn Spelling" = "단어 학습 초기화";
 "*/
 "Properties" = "속성";
 
 "Search" = "검색";
 "Copy without Theme Styling" = "테마/스타일 없이 복사";
 "Recent Files" = "최근 파일";
-"File Results" = "File Results";
+"File Results" = "파일 결과";
 
 "Insert Table" = "표 삽입";
 "Insert Image" = "이미지 삽입";
@@ -298,14 +298,14 @@
 
 "HTML (without Styles)" = "HTML (without Styles)";
 
-"Highlight Current Header" = "Highlight Current Header";
+"Highlight Current Header" = "현재 헤더 하이라이트";
 "Expand All" = "전부 열기";
 "Collapse All" = "전부 닫기";
-"Collapsible Outline" = "Collapsible Outline";
-"Flat Outline" = "Flat Outline";
+"Collapsible Outline" = "개요 (접기 가능)";
+"Flat Outline" = "개요 (접기 없음)";
 "Articles (List View)" = "문서 간략보기로 나열 (리스트뷰))";
 "File Tree (Tree View)" = "파일이름 나열 (트리뷰)";
-"Filter" = "Filter";
+"Filter" = "필터";
 
 "Upload Image" = "이미지 업로드";
 "Upload All Local Images" = "모든 로컬 이미지 업로드";
@@ -315,8 +315,8 @@
 "More Actions" = "더 많은 동작";
 "Get Info" = "정보 가져오기";
 
-"Export with Previous" = "Export with Previous";
-"Export and Overwrite with Previous" = "Export and Overwrite with Previous";
+"Export with Previous" = "이전 설정으로 내보내기";
+"Export and Overwrite with Previous" = "이전 설정으로 내보내고 기존 파일을 덮어쓰기";
 
 "Emoji and Symbols" = "이모지 및 기호";
 

@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9, cozyplanes, cog25, wookayin, Corea
+ by ryush00, Third9, cozyplanes, cog25, wookayin, Corea, LimeCake
  */
 
 /* Preference Panel */
@@ -276,11 +276,11 @@
 "Operation Failed" = "작업 실패";
 "Failed to move target file or folder to trash" = "대상 파일 혹은 폴더를 휴지통으로 옮기는데 실패하였습니다";
 
-"Undo %@" = "Undo %@";
-"Rename %@" = "Rename %@";
-"Copy %@" = "Copy %@";
-"Move %@" = "Move %@";
-"Delete %@" = "Delete %@";
+"Undo %@" = "%@ 되돌리기";
+"Rename %@" = "%@ 이름 바꾸기";
+"Copy %@" = "%@ 복사";
+"Move %@" = "%@ 이동";
+"Delete %@" = "%@ 삭제";
 
 "Turn off Typewriter / Focus Mode" = "타자기 모드 / 포커스 모드 끄기";
 "Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다.";
@@ -294,8 +294,8 @@
 "240  words/minute (Medium)" = "240  단어/분 (중간 속도)";
 "382  words/minute (Fast)" = "382  단어/분 (빠름)";
 
-"Copy and update image source to…" = "Copy and update image source to…";
-"Updater" = "Updater";
+"Copy and update image source to…" = "이미지 소스를 복사하고 다음으로 업데이트하기…";
+"Updater" = "업데이터";
 "Install Updates ?" = "업데이트를 설치하겠습니까?";
 "Quit and Install" = "종료 및 설치";
 "Download failed" = "다운로드 실패";
@@ -351,22 +351,22 @@
 "PicGo Path" = "PicGo Path";
 "Path of PicGo binary" = "Path of PicGo binary";
 "Executable" = "Executable";
-"Checking" = "Checking";
-"Download" = "Download";
-"Agree and Download" = "Agree and Download";
-"Download and Reinstall" = "Download and Reinstall";
-"Loading PicGo-Core License" = "Loading PicGo-Core License";
-"Failed to get installed version of PicGo-Core (command line)" = "Failed to get installed version of PicGo-Core (command line)";
-"You have the latest PicGo-Core (CLI)" = "You have the latest PicGo-Core (CLI)";
-"Newer version is available" = "Newer version is available";
+"Checking" = "확인중";
+"Download" = "다운로드";
+"Agree and Download" = "동의 및 다운로드";
+"Download and Reinstall" = "다운로드 후 재설치";
+"Loading PicGo-Core License" = "PicGo-Core 라이선스를 가져오는 중";
+"Failed to get installed version of PicGo-Core (command line)" = "당신의 PicGo-Core (command line) 버전을 가져올 수 없습니다";
+"You have the latest PicGo-Core (CLI)" = "당신의 PicGo-Core (CLI) 는 최신 버전입니다";
+"Newer version is available" = "새 버전이 사용가능합니다";
 
-"Downloading…" = "Downloading…";
-"Unzipping…" = "Unzipping…";
-"Finished" = "Finished";
+"Downloading…" = "다운로드중…";
+"Unzipping…" = "압축 해제중…";
+"Finished" = "완료됨";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora는 로컬 이미지에 대해 서드파티 프로그램을 실행할 것입니다. 이미지 업로더와 클라우드 이미지 서비스가 당신의 로컬 이미지에 접근할 수 있게 됩니다. 정말로 진행할까요?";
 
-"Export operation finished successfully." = "Export operation finished successfully.";
+"Export operation finished successfully." = "내보내기 작업이 성공적으로 완료되었습니다.";
 
 "Shortcut Keys" = "단축키";
 "Custom Shortcut Keys" = "사용자 정의 단축키";
@@ -396,9 +396,9 @@
 "Width" = "Width";
 "Command" = "Command";
 "Show Save File Dialog" = "파일 저장 대화 상자 보기";
-"File Extensions for Export" = "File Extensions for Export";
-"Arguments" = "Arguments";
-"Extra Arguments" = "추가 Arguments";
+"File Extensions for Export" = "내보낼 파일 확장자";
+"Arguments" = "인자";
+"Extra Arguments" = "추가 인자";
 "LaTeX Engine" = "LaTeX Engine";
 "Template" = "템플릿";
 "Empty" = "Empty";
@@ -422,7 +422,7 @@
 "Margin Bottom" = "아래쪽 여백";
 "Width x Height" = "너비(Width) x 높이(Height)";
 "Add From a Template" = "템플릿을 사용하여 설정 추가";
-"Delete this export option ?" = "Delete this export option ?";
+"Delete this export option ?" = "이 내보내기 옵션을 삭제할까요?";
 "Add" = "추가";
 "Delete" = "삭제";
 "Rename" = "이름 변경";
@@ -430,7 +430,7 @@
 "Move Up" = "위로 이동";
 "Pandoc Path" = "Pandoc 경로";
 "Select" = "선택";
-"Target Format" = "Target Format";
+"Target Format" = "대상 형식";
 "auto detect based on target file path" = "auto detect based on target file path";
 "Target File Extensions (separate by whitespace)" = "Target File Extensions (separate by whitespace)";
 "e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
@@ -444,12 +444,12 @@
 "Show command output" = "Command output 보여주기";
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
-"Command Arguments:" = "Command Arguments:";
+"Command Arguments:" = "커맨드 인자:";
 "This dev version of Typora is expired, please download and install a newer version." = "현제 이 베타버젼은 만기 되었습니다. 새로운 버젼을 다운로드하셔서 설치하시기 바랍니다.";
 "Current Theme" = "현재 테마";
 "After Export" = "내보내기 이후 작업";
-"Run command" = "Command 실행";
-"Run command after export failed" = "Run command after export failed";
+"Run command" = "커맨드 실행";
+"Run command after export failed" = "내보내기 실패 후에 커맨드 실행하기";
 "Read and overwrite export settings from YAML front matters" = "YAML 머리말에서 설정을 읽어 덮어쓰기";
 "Append Extra Content (HTML)" = "추가할 내용 (HTML)";
 "Change this option to specify a separated theme for export." = "내보내기할 때 별도로 사용할 테마를 지정하세요.";
@@ -461,14 +461,14 @@
 "Line Wrap" = "Line Wrap";
 "Hard line wrap" = "Hard line wrap";
 "Text Column Width" = "Text Column Width";
-"Auto (based on current OS)" = "Auto (based on current OS)";
-"Indent" = "Indent";
+"Auto (based on current OS)" = "자동 (현재 OS에 따르기)";
+"Indent" = "들여쓰기";
 "Preserve tabs" = "탭 유지";
 "2 spaces per tab" = "탭을 공란 2칸으로";
 "3 spaces per tab" = "탭을 공란 3칸으로";
 "4 spaces per tab" = "탭을 공란 4칸으로";
-"Unicode Characters" = "Unicode Characters";
-"Use only ASCII characters in output" = "Use only ASCII characters in output";
+"Unicode Characters" = "유니코드 문자";
+"Use only ASCII characters in output" = "출력에 ASCII 문자만 사용하기";
 "Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
 "Footnotes and References Location" = "Footnotes and References Location";
 "End of document" = "End of document";

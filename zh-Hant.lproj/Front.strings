@@ -167,3 +167,29 @@
 
 "Learn Data Recovery" = "了解資料修復";
 "Auto refresh on Files Panel cannot be enabled." = "無法啟用檔案面板上的自動重新整理。";
+"Delete Permanently" = "永久刪除";
+
+
+"Failed to upload images:" = "上傳圖片失敗：";
+"Uploading in progress" = "正在上傳";
+"Successfully uploaded {0} images, {1} failed." = "成功上傳 {0} 張圖片, {1} 張失敗.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "你可以在之後通過 `編輯` → `復原` 撤銷該操作。";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "你可以按下 <strong>⌘ + 點擊</strong> 打開 <a href='#'>連接</a> 或者跳轉到註腳定義。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "你可以按下 <strong>CTRL + 點擊</strong> 打開 <a href='#'>連接</a> 或者跳轉到註腳定義。";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>一體化</strong> 風格已開啟。";
+"You can right click titlebar to popup application menu." = "你可以右擊標題欄以彈出應用程序菜單。";
+
+"Support Document" = "支持文件";
+
+"You are not supposed to edit or save this file." = "你不應該編輯或保存此檔案。";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "此處檔案 (%@) 由 Typora 進行管理, 它們可能會被自動刪除.<br/>如需更改請拷貝該內容到新的檔案後再編輯。";
+
+"File does not exist at path %@." = "檔案在路徑 %@ 下不存在。";
+"File does not exist at path %@, do you want to create one at that path?" = "檔案在路徑 %@ 下不存在，是否在此路徑下創建該檔案？";
+
+"No Results" = "無結果";
+"Too many matches" = "匹配結果過多";
+"Regular Expression" = "正則表達式";

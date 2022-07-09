@@ -505,6 +505,8 @@
 "Use custom font size" = "使用自定义的字体大小";
 "Use theme font size" = "使用主题的字体大小";
 
+"You are using the Snap version, it may have limited access to your local executables." = "您使用的是Snap版本，它对本地可执行文件的访问可能受限。";
+
 "No local images found." = "文档未包含本地图片。";
 
 "File Format:" = "文件格式";

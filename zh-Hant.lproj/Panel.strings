@@ -280,3 +280,237 @@
 "Reading Speed" = "朗讀速度";
 "Auto" = "自動";
 "words / min" = "字數 / 分";
+
+"Reset to Default" = "重置回預設";
+"120  words/minute (Slow)" = "120 詞每分鐘（慢速）";
+"240  words/minute (Medium)" = "240 詞每分鐘（中速）";
+"382  words/minute (Fast)" = "382 詞每分鐘（快速）";
+
+"Copy and update image source to…" = "複製並更新圖片源至…";
+"Updater" = "更新";
+"Install Updates ?" = "是否安裝更新?";
+"Quit and Install" = "退出並安裝";
+"Download failed" = "下載失敗";
+"Downloading Updates…" = "更新下載中…";
+"Checking Updates…" = "檢查更新…";
+"Check Update Failed" = "檢查更新失敗";
+"You're up to date!" = "當前已是最新！";
+"Latest version is $1, your version is $2" = "最新版本為 $1，當前版本為 $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下選項也可在菜單 \"編輯→空格和換行符號\"中修改";
+"Auto escape image URL when insert" = "插入圖片時自動轉義URL";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "例如，如果你在'img/example file.png'插入一個檔案，它將變為'img/example%20file.png'。啟用此選項可以更好地和其他的Markdown引擎兼容，或禁用此選項以提高可讀性。";
+"Check updates automatically" = "自動檢查更新";
+"Skip This Version" = "跳過該版本";
+"Remind Me Later" = "稍後提醒我";
+"Download Update" = "下載更新";
+"New version available." = "新版本可用。";
+
+"When copy / export as HTML (without style)" = "當複製或匯出為無格式HTML時";
+"Use Rendered SVG" = "使用SVG渲染";
+"Use LaTeX Source" = "使用LaTeX代碼";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>在匯出為無格式HTML、HTML代碼或複製為主題樣式時生效。<br/>當選擇 <strong>使用LaTeX代碼</strong> 時，Typora會使用LaTeX源代碼(e.g: $X^2$)，<br/>當選擇 <strong>U使用SVG渲染</strong>時，Typora會使用生成的SVG替換數學公式。</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "匯入功能和多種匯出格式需要安裝 Pandoc (≥%@)。";
+"Do not show this message again" = "不再顯示此消息";
+
+"Page Break Between Top Headings" = "按一級標題分頁";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "很抱歉，程序出錯，已經複製當前內容到剪貼板。你可以向 <hi@typora.io> 報告以幫助我們修復這一錯誤。";
+"Try Recovery" = "嘗試恢復";
+"Other Options for Data Recovery" = "其他數據恢複選項";
+
+"When Insert" = "插入圖片時";
+"Upload image" = "上傳圖片";
+"e.g: %@" = "例: %@";
+"Test Uploader" = "測試圖片上傳";
+"Validating" = "驗證圖片上傳中";
+"Validation Failed" = "驗證失敗";
+"Validation Succeed" = "驗證成功";
+"Testing image uploading using command:" = "使用以下命令測試圖片上傳選項：";
+"Running… Waiting for results." = "運行中... 請稍等。";
+"Output from the console:" = "程序輸出結果：";
+"Error from the console:" = "控制台輸出錯誤：";
+"Failed to fetch uploaded image from command output." = "無法從程序運行結果中獲取新的圖片路徑。";
+"Successfully get uploaded image url." = "成功上傳圖片並獲得url";
+"Image Uploader" = "圖片上傳";
+"Instructions" = "說明";
+"Download %@" = "下載 %@";
+"Image Upload Setting" = "圖片上傳設定";
+"Please set an image uploader in Preferences panel before using this function." = "請先在 偏好設定中設置一個圖片上傳功能。";
+"Download or Upgrade" = "下載或更新";
+"Open Config File" = "打開配置文件";
+"Command" = "自定義命令";
+"PicGo Path" = "PicGo 路徑";
+"Path of PicGo binary" = "PicGo 二進制檔案路徑";
+"Executable" = "可執行";
+"Checking" = "檢查中";
+"Download" = "下載";
+"Agree and Download" = "同意並下載";
+"Download and Reinstall" = "同意並重新安裝";
+"Loading PicGo-Core License" = "正在加載PicGo-Core許可證";
+"Failed to get installed version of PicGo-Core (command line)" = "獲取已安裝的PicGo-Core（命令行）版本失敗";
+"You have the latest PicGo-Core (CLI)" = "你已經安裝最新的PicGo-Core(CLI)";
+"Newer version is available" = "有新版本更新";
+
+"Downloading…" = "正在下載…";
+"Unzipping…" = "解壓中…";
+"Finished" = "完成";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora會調用第三方應用，其中包含本地圖片的路徑。鏡像上傳器和雲鏡像存儲將有權訪問你的本地圖片。是否繼續？";
+
+"Export operation finished successfully." = "匯出成功";
+
+"Shortcut Keys" = "快捷鍵";
+"Custom Shortcut Keys" = "自定義快捷鍵";
+
+"Theme" = "主題";
+"Light Theme" = "淺色主題";
+"Dark Theme" = "深色主題";
+"Use separate theme in dark mode" = "在深色模式下使用獨立主題";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或 Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "把 -- 轉化為 – (en dash), 把 --- 轉化為 — (em dash)";
+"Convert -- and --- to — (em dash)" = "把 -- 和 --- 轉化為 — (em dash)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "你可以在 系統偏好設定→鍵盤→文字 中設置引號格式。Typora會在重啟後應用新設定。";
+
+
+"Paper Size" = "頁麵大小";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "表格";
+"Page Break" = "分頁";
+"Page Break Between Top Headings" = "一級標題中分頁";
+"Header" = "頁首";
+"Footer" = "頁腳";
+"Author" = "作者";
+"Append in <head />" = "在 <head /> 中添加";
+"Append in <body />" = "在 <body /> 中添加";
+"Include Outline Sidebar" = "保留大綱側邊欄";
+"Width" = "寬度";
+"Command" = "命令";
+"Show Save File Dialog" = "顯示檔案保存對話框";
+"File Extensions for Export" = "匯出檔案可使用的擴展名";
+"Arguments" = "參數";
+"Extra Arguments" = "自定義參數";
+"LaTeX Engine" = "LaTeX 引擎";
+"Template" = "模板";
+"Empty" = "空";
+"Style Reference" = "樣式文件";
+"Custom CSS" = "自定義 CSS";
+"Chapter Level" = "章節層級";
+"Default Folder for Exported File" = "默認匯出資料夾";
+"Same folder with current file" = "和當前檔案同一目錄";
+"Custom location" = "自定義";
+"(Auto Detect)" = "(自動檢測)";
+"After Export" = "匯出後";
+"Open exported file location" = "打開會出檔案所在目錄";
+"Open exported file" = "打開匯出文件";
+"Custom" = "自定義";
+"None" = "無";
+"Default" = "默認";
+"Margin" = "頁邊距";
+"Margin Left" = "左側頁邊距";
+"Margin Right" = "右側頁邊距";
+"Margin Top" = "頂部頁邊距";
+"Margin Bottom" = "底部頁邊距";
+"Width x Height" = "寬 x 高";
+"Add From a Template" = "從模板中添加";
+"Delete this export option ?" = "刪除該匯出選項？";
+"Add" = "添加";
+"Delete" = "刪除";
+"Rename" = "重命名";
+"Move Down" = "下移";
+"Move Up" = "上移";
+"Pandoc Path" = "Pandoc 路徑";
+"Select" = "選擇";
+"Target Format" = "目標格式";
+"auto detect based on target file path" = "按照匯出檔案路徑自動判斷";
+"Target File Extensions (separate by whitespace)" = "目標檔案擴展名（用空格分開）";
+"e.g: .text .asciidoc or leave this empty" = "例: .text .asciidoc 或留空";
+"Raw Type" = "原生類型";
+"Auto" = "自動";
+"Show Save File Dialog" = "顯示檔案保存對話框";
+"Do not popup save file dialog" = "不彈出檔案保存對話框";
+"Select file path to save" = "選擇保存檔案路徑";
+"Select folder path to save" = "選擇保存資料夾路徑";
+"PDF Engine" = "PDF 引擎";
+"Show command output" = "顯示命令行輸出";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"匯出並覆蓋上一次的檔案\" 會覆蓋位於 %@ 的文件，是否繼續？";
+"Command Arguments:" = "命令行參數：";
+"This dev version of Typora is expired, please download and install a newer version." = "當前版本Typora已過期，請下載安裝新版本。";
+"Current Theme" = "當前主題";
+"After Export" = "匯出後";
+"Run command" = "運行自定義命令";
+"Run command after export failed" = "匯出後執行自定義命令失敗";
+"Read and overwrite export settings from YAML front matters" = "允許 YAML front matters 覆蓋當前設定";
+"Append Extra Content (HTML)" = "插入額外內容 (HTML)";
+"Change this option to specify a separated theme for export." = "更改此選項可為匯出指定單獨主題。";
+"Dark theme is not supported." = "不支持深色主題";
+
+"Markdown Variants" = "Markdown 變體";
+"Original Unextended Markdown" = "原始無擴展 Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark 包含 pandoc 擴展";
+"Line Wrap" = "換行";
+"Hard line wrap" = "限制每行字符數";
+"Text Column Width" = "每行字符數";
+"Auto (based on current OS)" = "自動 (基於當前系統)";
+"Indent" = "縮進";
+"Preserve tabs" = "使用 tabs";
+"2 spaces per tab" = "tab設定為 2 個空格";
+"3 spaces per tab" = "tab設定為 3 個空格";
+"4 spaces per tab" = "tab設定為 4 個空格";
+"Unicode Characters" = "Unicode 字符";
+"Use only ASCII characters in output" = "只使用 ASCII 字符作為輸出";
+"Use reference-style links rather than inline links" = "使用引用連接而非內聯連接";
+"Footnotes and References Location" = "註腳與連接引用位置";
+"End of document" = "文件末尾";
+"End of current (top-level) block" = "當前塊元素末尾";
+"End of current section" = "當前章節末尾";
+"Convert TeX formulas to web images" = "TeX公式轉化為網絡圖片";
+"Image Format" = "圖片格式";
+
+"Set Pandoc Path" = "設定 Pandoc 路徑";
+
+"Apply Line Break at \\ and &#92;newline" = "支持使用 \\ 和 &#92;newline 換行";
+
+"Export operation succeeded with warnings." = "匯出操作成功，但是包含警告。";
+
+"Typora is now deactivated" = "Typora 目前非激活";
+"This device has been deactivated" = "該設備的激活已取消";
+"UNREGISTERED" = "未激活";
+
+"Your Typora is not activated." = "你的Typora尚未激活。";
+"Your Typora has been activated." = "你的Typora已被激活。";
+"Typora activation is required to change this." = "需要激活Typora後才能更改該選項。";
+"You can reinstall the stable version and then disable this." = "你可以重新安裝穩定版本以取消該選項。";
+"Update to dev version" = "更新至開發版";
+
+"Typora Server" = "Typora 服務器";
+"Use Typora Server in China" = "使用 Typora 中國服務器";
+
+"File does not exist" = "檔案不存在";
+"Create File" = "創建檔案";
+"Create Folder" = "創建資料夾";
+
+"(Some options will be applied after restart.)" = "(一些選項需要重啟Typora後生效)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "複製或剪切時，若沒有文字被選中，則複製或剪切光標所在的一整行";
+"Enable physics package" = "啟用 physics 包";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics 包啟用後會重定義一切 LaTeX 宏，比如 \\div, \\Re 等";
+
+"Detail" = "詳情";
+"Use custom font size" = "使用自定義的字體大小";
+"Use theme font size" = "使用主題的字體大小";
+
+"You are using the Snap version, it may have limited access to your local executables." = "你使用的是Snap版本，它對本地可執行文件的訪問可能受限。";
+
+"No local images found." = "文檔未包含本地圖片";
+
+"File Format:" = "檔案格式:";
+
+"Images copied to %@." = "圖片複製至 %@.";
+"Images moved to %@." = "圖片移動至 %@.";
+
+"Custom Command" = "自定義命令";
+"No Automatic Equation Numbering" = "不啟用公式的自動編號;
+"Use AMS Numbering Rules" = "根據AMS規則對公式自動編號";
+"Auto Numbering for All Math Equations" = "對所有公式自動編號";

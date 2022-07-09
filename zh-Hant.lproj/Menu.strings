@@ -275,3 +275,68 @@
 
 "Insert Table" = "插入表格";
 "Insert Image" = "插入圖片";
+"Allow Magnification" = "允許放大";
+
+"Move Row Up" = "上移此行";
+"Move Row Down" = "下移此行";
+"Move Column Left" = "左移此行";
+"Move Column Right" = "右移此行";
+
+"Zoom Image" = "縮放圖片";
+"Zoom Image to %@" = "縮放圖片至 %@";
+
+"Copy as Plain Text" = "複製為純文字";
+
+"Selection" = "選擇";
+"Start Speaking" = "開始朗讀";
+"Stop Speaking" = "停止朗讀";
+"Check Updates" = "檢查更新";
+
+"HTML (without Styles)" = "HTML (無樣式)";
+
+"Highlight Current Header" = "高亮當前標題";
+"Expand All" = "全部展開";
+"Collapse All" = "全部折疊";
+"Collapsible Outline" = "大綱視圖（可折疊）";
+"Flat Outline" = "大綱視圖（無折疊）";
+"Articles (List View)" = "文章列表";
+"File Tree (Tree View)" = "檔案樹";
+"Filter" = "搜索";
+
+"Upload Image" = "上傳圖片";
+"Upload All Local Images" = "上傳所有本地圖片";
+"Open Image in Browser" = "在瀏覽器中打開圖片";
+"Copy Image Content" = "拷貝圖片內容";
+
+"More Actions" = "更多操作";
+"Get Info" = "獲取詳細信息";
+
+"Export with Previous" = "使用上一次設置匯出";
+"Export and Overwrite with Previous" = "匯出並覆蓋上一次匯出文件";
+
+"Emoji and Symbols" = "表情與符號";
+
+"Insert Final New Line On Save" = "保存時在底部插入空行";
+"Hyperlink Actions" = "超連接操作";
+"Copy Link Address" = "複製連接地址";
+
+"Click" = "點擊";
+
+"Export Setting" = "匯出設定";
+
+"My License" = "我的許可證";
+"Registration / Activation" = "註冊 / 激活";
+
+"Select Paragraph / Block" = "選擇段落或塊";
+
+"Delete Selected" = "刪除選中內容";
+"Move Image to" = "移動圖片至";
+"Move to %@…" = "移動至 %@…";
+"Delete Image" = "刪除圖片";
+"Delete Image File" = "刪除圖片檔案";
+"Reload All Images" = "重新加載所有圖片";
+
+"Save %@ As" = "將 %@ 另存為";
+
+"Copy All Images to" = "複製所有圖片至";
+"Move All Images to" = "移動所有圖片至";

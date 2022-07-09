@@ -5,7 +5,7 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9, cog25, Corea
+ by ryush00, Third9, cog25, Corea, LimeCake
 */
 
 /* Common */
@@ -136,3 +136,63 @@
 "input image URL" = "이미지 URL 입력";
 "Select image from local file" = "로컬 파일에서 이미지 선택";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "해당 위치를 찾을 수 없습니다. <code>$1</code>, 다음의 위치입니까? <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+
+"select a language" = "언어 선택";
+"Finish Editing" = "편집 완료하기";
+
+"Revert advanced setting file to default one ?" = "고급 설정을 기본값으로 되돌릴까요?";
+
+"Select Spell Check Language" = "맞춤법 교정 언어를 선택하세요";
+"Auto Detect Language" = "언어 자동 감지";
+"Disable Spell Check" = "맞춤법 교정 비활성화";
+"Global Setting…" = "전역 설정…";
+"Dictionary file is missing to enable spellcheck support for %@." = "%@에 대한 맞춤법 교정을 지원할 사전파일이 없습니다.";
+"Install Language Support" = "언어 지원 설치";
+"License Information" = "라이센스 정보";
+"Download" = "다운로드";
+"Install dictionary file only for Typora" = "사전파일만 설치하기";
+"Spell Check (%@ unavailable)" = "맞춤법 교정 (%@ 불가능)";
+"Spell Check (%@ downloading)" = "맞춤법 교정 (%@ 다운로드 중)";
+"Download dictionary file for %@" = "%@에 대한 사전파일 다운로드";
+"(Default spell check option)" = "(기본 맞춤법 교정 옵션)";
+"Failed to load spellcheck module" = "맞춤법 교정 모듈 불러오기 실패";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> 켜짐";
+"You could turn it off from `View` menu." = "`보기` 메뉴에서 끌 수 있습니다.";
+"The file is too large to render in Typora." = "Typora에서 렌더링하기엔 너무 큰 파일입니다.";
+"Open in…" = "다음에서 열기…";
+"Quick Look" = "미리 보기";
+
+"Filter" = "필터";
+"No result found." = "결과가 없습니다.";
+"Continue & Overwrite" = "계속 & 덮어쓰기";
+"The file is read-only, or you do not have right permissions to modify the file." = "이 파일은 읽기 전용이거나 파일을 수정할 권한이 없습니다.";
+
+"Learn Data Recovery" = "데이터 복구 학습";
+"Auto refresh on Files Panel cannot be enabled." = "파일 패널에서 자동 갱신을 사용할 수 없습니다.";
+"Delete Permanently" = "영구 삭제";
+
+
+"Failed to upload images:" = "이미지 업로드 실패:";
+"Uploading in progress" = "업로드 중";
+"Successfully uploaded {0} images, {1} failed." = "{0}개의 이미지 업로드 성공, {1}개 업로드 실패";
+
+"You could undo this operation later via `Edit` → `Undo`." = "`편집` → `실행취소`에서 이 작업을 취소할 수 있습니다.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>링크</a>를 열려면 <strong>⌘ + 클릭</strong>을 누르거나 주석 정의로 이동하세요.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>링크</a>를 열려면 <strong>CTRL + 클릭</strong>을 누르거나 주석 정의로 이동하세요.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> 스타일 켜짐.";
+"You can right click titlebar to popup application menu." = "제목 바에서 오른쪽 클릭으로 프로그램 메뉴를 표시합니다.";
+
+"Support Document" = "지원 문서";
+
+"You are not supposed to edit or save this file." = "이 파일을 수정하거나 저장하면 안됩니다.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "이 위치 (%@)에 있는 파일은 Typora가 관리하며 자동으로 삭제됩니다.<br/>추가적인 편집을 위해서는 내용을 복사하세요.";
+
+"File does not exist at path %@." = "경로 %@에 존재하지 않는 파일입니다.";
+"File does not exist at path %@, do you want to create one at that path?" = "경로 %@에 존재하지 않는 파일입니다. 그 경로에 파일을 생성할까요?";
+
+"No Results" = "결과 없음";
+"Too many matches" = "결과가 너무 많음";
+"Regular Expression" = "정규식";

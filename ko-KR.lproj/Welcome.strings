@@ -75,3 +75,15 @@
 "Unknown Error. Please contact hi@typora.io" = "알 수 없는 오류입니다. hi@typora.io 로 연락해 주시기 바랍니다.";
 "Failed to access the license server. Please check your network or try again later." = "라이선스 서버에 연결하지 못했습니다. 네트워크 연결 상태를 확인하거나 나중에 다시 시도하십시오.";
 
+"Enter a license code to support our development ❤" = "저희의 개발을 지원하시려면 라이선스 코드를 입력해주세요 ❤";
+"Re-enter Email" = "이메일 재입력";
+"Email address confirmation does not match." = "이메일 주소가 일치하지 않습니다";
+
+"Are you sure to deactivate Typora on this device?" = "정말로 Typora를 이 기기에서 등록 해제할까요?";
+
+"Offline Activation" = "오프라인 인증 활성화";
+"Back" = "뒤로";
+"Get Activation Token" = "활성화 토큰 받기";
+
+"Your activated devices have exceeded the maximum limits." = "활성화된 기기 수가 최대 제한을 초과했습니다.";
+

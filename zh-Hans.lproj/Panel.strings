@@ -518,3 +518,7 @@
 "No Automatic Equation Numbering" = "不启用公式的自动编号";
 "Use AMS Numbering Rules" = "根据 AMS 规则对公式使用自动编号";
 "Auto Numbering for All Math Equations" = "对所有公式使用自动编号";
+
+"Preferred Image Syntax" = "图片语法偏好";
+"Add ./ for relative path" = "为相对路径添加 ./";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "当开启时，Typora 会使用类似 ./assets/image.png 而非 assets/image.png 的方式表示插入的图片的相对路径";

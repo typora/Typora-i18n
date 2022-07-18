@@ -326,3 +326,17 @@
 "Registration / Activation" = "Đăng ký / Kích hoạt";
 
 "Select Paragraph / Block" = "Chọn Đoạn văn/Khối";
+
+"Delete Selected" = "Xoá đối tượng đã chọn";
+"Move Image to" = "Di chuyển hình ảnh đến";
+"Move to %@…" = "Di chuyển đến %@…";
+"Delete Image" = "Xoá hình ảnh";
+"Delete Image File" = "Xoá tập tin hình ảnh";
+"Reload All Images" = "Tải lại tất cả hình ảnh";
+
+"Save %@ As" = "Lưu %@ dưới dạng";
+
+"Copy All Images to" = "Sao chép tất cả hình ảnh đến";
+"Move All Images to" = "Di chuyển tất cả hình ảnh đến";
+
+"Copy as Image" = "Sao chép dưới dạng hình ảnh";

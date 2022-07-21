@@ -38,7 +38,7 @@
 "Duplicate" = "建立複本";
 "Rename" = "重新命名";
 "Move To" = "移動至";
-"Revert To" = "恢復至";
+"Revert To" = "復原至";
 "Browse All Versions" = "瀏覽所有版本";
 "Import" = "匯入";
 "Export" = "匯出";
@@ -57,14 +57,14 @@
 "Copy as HTML Code" = "複製為 HTML";
 "Paste as Plain Text" = "以純文字貼上";
 "Select All" = "全選";
-"Select Line / Sentence" = "選擇行/句子";
+"Select Line / Sentence" = "選擇行 / 句子";
 "Select Styled Scope" = "選擇具格式化的段落";
 "Select Word" = "選擇單字";
 "Delete" = "刪除";
 "Delete Range" = "刪除區段";
 "Delete Word" = "刪除單字";
 "Delete Styled Scope" = "刪除具格式化的段落";
-"Delete Line / Sentence" = "刪除行/句子";
+"Delete Line / Sentence" = "刪除行 / 句子";
 "Jump To" = "跳到";
 "Jump to Top" = "跳到最上方";
 "Jump to Selection" = "跳到所選處";
@@ -166,7 +166,7 @@
 "Switch Between Opened Documents" = "在已開啟的文件間切換";
 "Toggle DevTools" = "開啟/關閉開發者工具";
 "Allow Magnification" = "允許兩指縮放";
- 
+
 /* Themes Menu */
 "Themes" = "主題";
 
@@ -188,7 +188,7 @@
 /* Touchbar */
 "Block Styles" = "區塊樣式";
 "Inline Styles" = "行內樣式";
-"List Styles / Remove Block" = "清單樣式/移除區塊";
+"List Styles / Remove Block" = "清單樣式 / 移除區塊";
 "Exit Source Code Mode" = "離開原始碼模式";
 "Toggle Source Code Mode" = "進入/離開原始碼模式";
 
@@ -209,7 +209,7 @@
 "Copy as Tex" = "複製為 Tex";
 "Copy Math" = "複製數學式";
 "Reveal in Finder" = "在 Finder 中顯示";
-"Open Link" = "打開連結";
+"Open Link" = "開啟連結";
 "Reveal in Sidebar" = "在側邊欄顯示";
 "Open in New Window" = "在新視窗開啟";
 "Copy File Path" = "複製檔案路徑";
@@ -218,7 +218,7 @@
 "New Folder" = "新增資料夾";
 
 /* Electron */
-"Learn Spelling" = "學習拼寫";
+"Learn Spelling" = "學習拼字";
 "Copy / Paste As" = "複製並貼上為";
 "Math" = "數學式";
 "Insert" = "插入";
@@ -277,8 +277,8 @@
 "Insert Image" = "插入圖片";
 "Allow Magnification" = "允許放大";
 
-"Move Row Up" = "上移此行";
-"Move Row Down" = "下移此行";
+"Move Row Up" = "上移此列";
+"Move Row Down" = "下移此列";
 "Move Column Left" = "左移此行";
 "Move Column Right" = "右移此行";
 
@@ -294,47 +294,47 @@
 
 "HTML (without Styles)" = "HTML (無樣式)";
 
-"Highlight Current Header" = "高亮當前標題";
+"Highlight Current Header" = "高亮目前標題";
 "Expand All" = "全部展開";
 "Collapse All" = "全部折疊";
-"Collapsible Outline" = "大綱視圖（可折疊）";
-"Flat Outline" = "大綱視圖（無折疊）";
+"Collapsible Outline" = "大綱視圖 (可折疊)";
+"Flat Outline" = "大綱視圖 (無折疊)";
 "Articles (List View)" = "文章列表";
-"File Tree (Tree View)" = "檔案樹";
-"Filter" = "搜索";
+"File Tree (Tree View)" = "檔案樹狀目錄";
+"Filter" = "篩選";
 
 "Upload Image" = "上傳圖片";
-"Upload All Local Images" = "上傳所有本地圖片";
-"Open Image in Browser" = "在瀏覽器中打開圖片";
-"Copy Image Content" = "拷貝圖片內容";
+"Upload All Local Images" = "上傳所有本機圖片";
+"Open Image in Browser" = "在瀏覽器中開啟圖片";
+"Copy Image Content" = "複製圖片內容";
 
 "More Actions" = "更多操作";
-"Get Info" = "獲取詳細信息";
+"Get Info" = "取得資訊";
 
-"Export with Previous" = "使用上一次設置匯出";
-"Export and Overwrite with Previous" = "匯出並覆蓋上一次匯出文件";
+"Export with Previous" = "使用前次設定匯出";
+"Export and Overwrite with Previous" = "匯出並覆寫前次匯出的檔案";
 
 "Emoji and Symbols" = "表情與符號";
 
-"Insert Final New Line On Save" = "保存時在底部插入空行";
-"Hyperlink Actions" = "超連接操作";
-"Copy Link Address" = "複製連接地址";
+"Insert Final New Line On Save" = "儲存時在底部插入空行";
+"Hyperlink Actions" = "超連結操作";
+"Copy Link Address" = "複製超連結位址";
 
 "Click" = "點擊";
 
 "Export Setting" = "匯出設定";
 
-"My License" = "我的許可證";
-"Registration / Activation" = "註冊 / 激活";
+"My License" = "我的授權";
+"Registration / Activation" = "註冊 / 啟用";
 
-"Select Paragraph / Block" = "選擇段落或塊";
+"Select Paragraph / Block" = "選擇段落或區塊";
 
-"Delete Selected" = "刪除選中內容";
+"Delete Selected" = "刪除所選內容";
 "Move Image to" = "移動圖片至";
 "Move to %@…" = "移動至 %@…";
 "Delete Image" = "刪除圖片";
 "Delete Image File" = "刪除圖片檔案";
-"Reload All Images" = "重新加載所有圖片";
+"Reload All Images" = "重新載入所有圖片";
 
 "Save %@ As" = "將 %@ 另存為";
 

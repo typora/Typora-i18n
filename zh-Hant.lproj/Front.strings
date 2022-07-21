@@ -28,9 +28,9 @@
 "search text" = "搜尋字串";
 
 /* Quick Open */
-"Search by file name" = "依檔名搜尋";
-"Searching" = "搜尋中";
-"Gathering more results" = "收集更多結果";
+"Search by file name" = "依檔案名稱搜尋";
+"Searching" = "正在搜尋";
+"Gathering more results" = "正在收集更多結果";
 
 /* Tables */
 "Insert Table" = "插入表格";
@@ -43,12 +43,12 @@
 "Delete Table" = "刪除表格";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 <code id='image-create-folder-target'></code>。但是目標資料夾不存在，現在要新增它嗎？";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 <code id='image-create-folder-target'></code>。但是目標資料夾不存在，現在要新增它嗎?";
 "Create Folder" = "新增資料夾";
 
 /* Math */
 "Edit" = "編輯";
-"Delete Math" = "刪除數學算式";
+"Delete Math" = "刪除數學式";
 "Preview" = "預覽";
 
 /* Sidebar */
@@ -71,7 +71,8 @@
 "Refresh Folder" = "重新載入資料夾";
 "Sort" = "排序";
 "Group By Folder" = "依資料夾分組";
-"Sort Naturally" = "自然排序";
+"Sort Naturally (Ascending)" = "自然排序 (升冪)";
+"Sort Naturally (Descending)" = "自然排序 (降冪)";
 "Sort by Name (Ascending)" = "依名稱排序 (升冪)";
 "Sort by Modification Date (Ascending)" = "依修改日期排序 (升冪)";
 "Sort by Name (Descending)" = "依名稱排序 (降冪)";
@@ -106,18 +107,18 @@
 "Stop" = "停止";
 "back to document" = "回到文件";
 "Failed to load file" = "載入檔案失敗";
-"Save File Failed!" = "存檔失敗！";
+"Save File Failed!" = "檔案儲存失敗!";
 "Cannot open folder {0}" = "無法開啟資料夾 {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎？";
-"Should continue moving and overwrite existing file(s) ?" = "要繼續覆蓋現有檔案嗎？";
+"File content is changed by external applications. Reload content from disk ?" = "檔案內容被其他程式修改。要重新載入嗎?";
+"Should continue moving and overwrite existing file(s) ?" = "要繼續覆蓋現有檔案嗎?";
 
 "Rename to \"{0}\" ?" = "重新命名成 \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "重新命名自 \"{0}\" 成 \"{1}\" 失敗";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "已成功上傳 {0} 張圖片.";
-"Failed to upload image. Error Message:" = "上傳圖片失敗。錯誤訊息：:";
+"Failed to upload image. Error Message:" = "上傳圖片失敗。錯誤訊息:";
 "Failed to Copy Image to Target Folder." = "無法複製圖片至目標資料夾。";
 "Select Container Folder" = "選擇存放路徑";
 
@@ -132,12 +133,12 @@
 
 "input image URL" = "輸入圖片網址";
 "Select image from local file" = "選擇本機圖片";
-"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "無法開啟 <code>$1</code>，你指的是 <a href='$3' target='_blank' target='_blank'>$2</a> 嗎？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "無法開啟 <code>$1</code>，您指的是 <a href='$3' target='_blank' target='_blank'>$2</a> 嗎?";
 
 "select a language" = "選取一個語言";
 "Finish Editing" = "完成編輯";
 
-"Revert advanced setting file to default one ?" = "要將進階設定檔還原至預設檔嗎？";
+"Revert advanced setting file to default one ?" = "要將進階設定檔還原至預設值嗎?";
 
 "Select Spell Check Language" = "選擇拼字檢查的語言";
 "Auto Detect Language" = "自動偵測語言";
@@ -170,26 +171,26 @@
 "Delete Permanently" = "永久刪除";
 
 
-"Failed to upload images:" = "上傳圖片失敗：";
+"Failed to upload images:" = "上傳圖片失敗:";
 "Uploading in progress" = "正在上傳";
-"Successfully uploaded {0} images, {1} failed." = "成功上傳 {0} 張圖片, {1} 張失敗.";
+"Successfully uploaded {0} images, {1} failed." = "成功上傳 {0} 張圖片，{1} 張失敗。";
 
-"You could undo this operation later via `Edit` → `Undo`." = "你可以在之後通過 `編輯` → `復原` 撤銷該操作。";
+"You could undo this operation later via `Edit` → `Undo`." = "您可以在之後通過「編輯」→「復原」還原該操作。";
 
-"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "你可以按下 <strong>⌘ + 點擊</strong> 打開 <a href='#'>連接</a> 或者跳轉到註腳定義。";
-"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "你可以按下 <strong>CTRL + 點擊</strong> 打開 <a href='#'>連接</a> 或者跳轉到註腳定義。";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>⌘ + 點擊</strong> 打開 <a href='#'>連結</a> 或者跳轉到註腳定義。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>CTRL + 點擊</strong> 打開 <a href='#'>連結</a> 或者跳轉到註腳定義。";
 
 "<strong>Unibody</strong> style has been turned on." = "<strong>一體化</strong> 風格已開啟。";
-"You can right click titlebar to popup application menu." = "你可以右擊標題欄以彈出應用程序菜單。";
+"You can right click titlebar to popup application menu." = "您可以在標題列按右鍵以顯示應用程式選單。";
 
-"Support Document" = "支持文件";
+"Support Document" = "支援文件";
 
-"You are not supposed to edit or save this file." = "你不應該編輯或保存此檔案。";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "此處檔案 (%@) 由 Typora 進行管理, 它們可能會被自動刪除.<br/>如需更改請拷貝該內容到新的檔案後再編輯。";
+"You are not supposed to edit or save this file." = "您不應該編輯或儲存此檔案。";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "此處檔案 (%@) 由 Typora 進行管理，它們可能會被自動刪除。<br/>如需更改請複製該內容到新的檔案後再編輯。";
 
 "File does not exist at path %@." = "檔案在路徑 %@ 下不存在。";
-"File does not exist at path %@, do you want to create one at that path?" = "檔案在路徑 %@ 下不存在，是否在此路徑下創建該檔案？";
+"File does not exist at path %@, do you want to create one at that path?" = "檔案在路徑 %@ 下不存在，是否在此路徑下建立該檔案?";
 
-"No Results" = "無結果";
-"Too many matches" = "匹配結果過多";
-"Regular Expression" = "正則表達式";
+"No Results" = "沒有結果";
+"Too many matches" = "相符的項目過多";
+"Regular Expression" = "正規表達式";

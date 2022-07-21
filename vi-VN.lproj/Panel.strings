@@ -494,3 +494,25 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Tự động sao chép hoặc cắt nguyên dòng văn bản có đặt con trỏ chuột, trong trường hợp không tô chọn vùng trước khi thực hiện sao chép / cắt.";
 "Enable physics package" = "Bật gói lệnh vật lý";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Gói lệnh vật lý sẽ xác định lại các latex macros, cụ thể như \\div, \\Re, và nhiều nữa.";
+
+"Detail" = "Chi tiết";
+"Use custom font size" = "Dùng kích cỡ phông chữ tùy chỉnh";
+"Use theme font size" = "Dùng kích cỡ phông chữ theo chủ đề";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Bạn đang dùng phiên bản Snap, nó giới hạn quyền truy cập vào các tập tin thực thi nội bộ của bạn.";
+
+"No local images found." = "Không tìm thấy hình ảnh cục bộ.";
+
+"File Format:" = "Định dạng tập tin:";
+
+"Images copied to %@." = "Hình ảnh đã được sao chép đến %@.";
+"Images moved to %@." = "Hình ảnh đã được chuyển đến %@.";
+
+"Custom Command" = "Lệnh tuỳ chỉnh";
+"No Automatic Equation Numbering" = "Không tự động đánh số thứ tự biểu thức toán";
+"Use AMS Numbering Rules" = "Sử dụng quy tắc đánh số AMS";
+"Auto Numbering for All Math Equations" = "Tự động đánh số thứ tự cho tất cả các biểu thức toán";
+
+"Preferred Image Syntax" = "Cú pháp hình ảnh ưa thích";
+"Add ./ for relative path" = "Thêm ./ vào đường dẫn tương đối";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Khi được bật, Typora sẽ dử dụng kiểu đường dẫn ./assets/image.png thay vì kiểu assets/image.png khi khởi tạo đường dẫn tương đối cho các hình ảnh được chèn vào tài liệu.";

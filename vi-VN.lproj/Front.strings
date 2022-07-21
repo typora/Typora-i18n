@@ -191,3 +191,7 @@
 
 "File does not exist at path %@." = "Tập tin không tồn tại ở đường dẫn %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "Tập tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tập tin tại đường dẫn đó chứ?";
+
+"No Results" = "Không có kết quả";
+"Too many matches" = "Quá nhiều kết quả";
+"Regular Expression" = "Biểu hiện thông thường";

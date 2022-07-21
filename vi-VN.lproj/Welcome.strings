@@ -81,5 +81,8 @@
 
 "Are you sure to deactivate Typora on this device?" = "Bạn có chắc là muốn huỷ kích hoạt Typora trên thiết bị này?";
 
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Giấy phép của bạn vượt quá số thiết bị cho phép.\nNếu bạn chọn \"Tiếp tục kích hoạt\", thiết bị này sẽ được kích hoạt và thiết bị cũ nhất đã dùng giấy phép này sẽ tự động bị huỷ đăng ký.";
-"Continue Activation" = "Tiếp tục kích hoạt";
+"Offline Activation" = "Kích hoạt ngoại tuyến";
+"Back" = "Quay lại";
+"Get Activation Token" = "Lấy mã thông báo kích hoạt";
+
+"Your activated devices have exceeded the maximum limits." = "Số thiết bị được kích hoạt của bạn đã vượt quá giới hạn tối đa cho phép.";

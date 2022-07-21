@@ -509,3 +509,10 @@
 "Images moved to %@." = "Obrazy przeniesiono do %@.";
 
 "Custom Command" = "Własne polecenie";
+"No Automatic Equation Numbering" = "Bez automatycznego numerowania równań";
+"Use AMS Numbering Rules" = "Użyj zasad numerowania AMS";
+"Auto Numbering for All Math Equations" = "Automatyczne numerowanie wszystkich równań matematycznych";
+
+"Preferred Image Syntax" = "Preferowana składnia dla obrazu";
+"Add ./ for relative path" = "Dodaj ./ do ścieżek względnych";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Po włączeniu Typora będzie używać wzorca w rodzaju ./assets/image.png zamiast assets/image.png podczas generowania ścieżek względnych dla wstawionych obrazów.";

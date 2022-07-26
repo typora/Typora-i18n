@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by sadra@isapanah.com
+ by sadra@isapanah.com, mohammadamin@vahedinia.me
 */
 
 /* Common */
@@ -29,7 +29,7 @@
 
 /* Quick Open */
 "Search by file name" = "جستجو با نام فایل";
-"Searching" = "جستجو کردن";
+"Searching" = "در حال جستجو";
 "Gathering more results" = "جمع آوری نتایج بیشتر";
 
 /* Tables */
@@ -48,7 +48,7 @@
 
 /* Math */
 "Edit" = "ویرایش";
-"Delete Math" = "حذف ریاضی";
+"Delete Math" = "حذف فرمول ریاضی";
 "Preview" = "پیش‌ نمایش";
 
 /* Sidebar */
@@ -56,11 +56,11 @@
 "Outline" = "طرح کلی";
 "Files" = "فایل‌ها";
 "Switch to File List view" = "تغییر به فایل نمایه‌ی فهرست";
-"Switch to File Tree view" = "تغییر به فایل نمایه‌ی  درخت";
-"Switch to Outline view" = "تغییر به فایل نمایه‌ی  طرح کلی";
+"Switch to File Tree view" = "تغییر به فایل نمایه‌ی درخت";
+"Switch to Outline view" = "تغییر به فایل نمایه‌ی طرح کلی";
 "Close sidebar" = "بستن نوار کناری";
 "Loading" = "بارگذاری";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "پوشه انتخابی فایل‌های زیادی دارید. \nلطفا جهت افزایش کارایی به حالت <a id='switch-to-tree-on-oversize'>File Tree view</a> سوییچ کنید.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "پوشه انتخابی فایل‌های زیادی دارید. \nلطفا جهت افزایش کارایی به حالت <a id='switch-to-tree-on-oversize'>فایل نمایه‌ی درخت</a> سوییچ کنید.";
 "New File" = "فایل جدید";
 "Unpin Outline Panel" = "خروج از حالت ثابت طرح کلی پنل";
 "Open Folder..." = "بازکردن پوشه...";
@@ -71,13 +71,14 @@
 "Refresh Folder" = "تازه کردن پوشه";
 "Sort" = "مرتب کردن";
 "Group By Folder" = "گروه کردن با توجه به پوشه";
-"Sort Naturally" = "مرتب کردن طبیعی";
-"Sort by Name (Ascending)" = "مرتب کردن با توجه به نام (Ascending)";
-"Sort by Modification Date (Ascending)" = "مرتب کردن با توجه به تاریخ ویرایش (Ascending)";
-"Sort by Name (Descending)" = "مرتب کردن با توجه به نام (Descending)";
-"Sort by Modification Date (Descending)" = "مرتب کردن با توجه به تاریخ ویرایش (Descending)";
+"Sort Naturally (Ascending)" = "مرتب کردن طبیعی (افزایشی)";
+"Sort Naturally (Descending)" = "مرتب کردن طبیعی (کاهشی)";
+"Sort by Name (Ascending)" = "مرتب کردن با توجه به نام (افزایشی)";
+"Sort by Modification Date (Ascending)" = "مرتب کردن با توجه به تاریخ ویرایش (افزایشی)";
+"Sort by Name (Descending)" = "مرتب کردن با توجه به نام (کاهشی)";
+"Sort by Modification Date (Descending)" = "مرتب کردن با توجه به تاریخ ویرایش (کاهشی)";
 "Location" = "محل";
-"Switch File List/Tree View" = "سوییچ کرده به فهرست فایل/درخت";
+"Switch File List/Tree View" = "تغییر دادن نمایش به فهرست فایل/درخت";
 "No Files Available" = "هیچ فایلی در دسترس نیست";
 "No Folder is Opened." = "هیچ پوشه باز شده‌ای وجود ندارد.";
 "Outline is Empty." = "طرح کلی خالی است.";
@@ -87,9 +88,9 @@
 "Toggle Source Code Mode" = "تغییر وضعیت در حالت منبع کد";
 "Exit Source Code Mode" = "خروج از حالت منبع کد";
 
-"Table of Contents" = "جدول محتوا";
+"Table of Contents" = "فهرست مطالب";
 "Empty Diagram" = "دیاگرام خالی";
-"Input Math TeX here" = "متن ریاضی را در اینجا قرار دهید";
+"Input Math TeX here" = "متن فرمول ریاضی را در اینجا قرار دهید";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "نیاز است تا پانویس مرجع <b>{0}</b> با توجه به این استایل <a>[^{1}]: www.example.com تعریف کنید</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "نیاز است تا لینک مرجع <b>[{0}]</b> با توجه به این استایل <b>[{1}]: www.example.com</b> تعریف کنید";
@@ -132,7 +133,7 @@
 
 "input image URL" = "لینک تصویر ورودی";
 "Select image from local file" = "انتخاب تصویر از فایل محلی";
-"Cannot open location <code>$<$<$<$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"Cannot open location <code>$<$<$<$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "امکان باز کردن آدرس <code>$<$<$<$1</code> نیست، آیا منظورتان <a href='$3' target='_blank' target='_blank'>$2</a> است؟";
 
 "select a language" = "انتخاب یک زبان";
 "Finish Editing" = "پایان ویرایش";
@@ -166,4 +167,30 @@
 "The file is read-only, or you do not have right permissions to modify the file." = "فایل فقط قابل خواندن است، یا شما دسترسی کافی جهت ویرایش آن را ندارید..";
 
 "Learn Data Recovery" = "آموزش بازگردانی داده";
-"Auto refresh on Files Panel cannot be enabled." = "تازه‌سازی خودکار در پنل پوشه‌ها نمی‌تواند فعال شو..";
+"Auto refresh on Files Panel cannot be enabled." = "تازه‌سازی خودکار در پنل پوشه‌ها نمی‌تواند فعال شود..";
+"Delete Permanently" = "برای همیشه پاک شود.";
+
+
+"Failed to upload images:" = "عدم موفقیت در بارگذاری تصاویر:";
+"Uploading in progress" = "در حال بارگذاری";
+"Successfully uploaded {0} images, {1} failed." = "با موفقیت {0} تصویر بارگذاری شد؛ ولی بارگذاری {1} تصویر با مشکل مواجه شد.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "شما می‌توانید این عملیات را بعدا از طریق منوی `ویرایش` → `بازگرداندن` بازگردانی کنید.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "شما می‌توانید با فشردن ترکیب <strong>⌘ + Click</strong> اقدام به بازکردن <a href='#'>پیوندها</a> کرده یا به تعریف پانویس مراجعه کنید.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "شما می‌توانید با فشردن ترکیب <strong>CTRL + Click</strong> اقدام به بازکردن <a href='#'>پیوندها</a> کرده یا به تعریف پانویس مراجعه کنید.";
+
+"<strong>Unibody</strong> style has been turned on." = "استایل <strong>Unibody</strong> فعال شده است.";
+"You can right click titlebar to popup application menu." = "شما می‌توانید با راست کلیک بر روی عنوان پنجره، منوی اپلیکشین را باز نمایید.";
+
+"Support Document" = "پشتیبانی از سند";
+
+"You are not supposed to edit or save this file." = "شما قادر به ویرایش یا ذخیره‌سازی این فایل نیستید.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "فایل‌ها در این مسیر (%@) توسط Typora مدیریریت می‌شود و ممکن است که خودکار پاک شوند. <br/> لطفا محتویات را در فایلی جدید برای ویرایش‌های بیشتر منتقل کنید.";
+
+"File does not exist at path %@." = "فایل در مسیر %@ وجود ندارد.";
+"File does not exist at path %@, do you want to create one at that path?" = "فایل در مسیر %@ وجود ندارد، آیا مایل هستید که در همین مسیر فایل ساخته شود؟";
+
+"No Results" = "بدون نتیجه";
+"Too many matches" = "تعداد زیادی تطابق یافت شد";
+"Regular Expression" = "عبارات منظم";

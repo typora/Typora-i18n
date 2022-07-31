@@ -369,8 +369,8 @@
 "Dark Theme" = "深色主题";
 "Use separate theme in dark mode" = "在深色模式下使用独立的主题";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "支持 macOS ≥ 10.15 或者 Windows 10 ≥ 1903";
-"Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 将 – (en dash)， 将 ---  转化为 — (em dash)";
-"Convert -- and --- to — (em dash)" = "将 -- 和 --- 将 — (em dash)";
+"Convert -- to – (en dash), and --- to — (em dash)" = "将 -- 转化为 – (en dash)， 将 ---  转化为 — (em dash)";
+"Convert -- and --- to — (em dash)" = "将 -- 和 --- 转化为 — (em dash)";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "你可以在 系统偏好设置 → 键盘 → 文本 中设置引号格式。Typora 会在重启后应用新的设置。";
 
 

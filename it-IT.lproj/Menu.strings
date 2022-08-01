@@ -328,7 +328,7 @@
 
 "Delete Selected" = "Elimina selezione";
 "Move Image to" = "Sposta immagine in";
-"Move to %@…" = "Sposta in %@…";
+"Move to %@" = "Sposta in %@";
 "Delete Image" = "Elimina immagine";
 "Delete Image File" = "Elimina file immagine";
 "Reload All Images" = "Ricarica tutte le immagini";

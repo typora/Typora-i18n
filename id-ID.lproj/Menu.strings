@@ -345,7 +345,7 @@
 
 "Delete Selected" = "Hapus yang Dipilih";
 "Move Image to" = "Pindahkan Gambar ke";
-"Move to %@…" = "Pindahkan ke %@…";
+"Move to %@" = "Pindahkan ke %@";
 "Delete Image" = "Hapus Gambar";
 "Delete Image File" = "Hapus Fail Gambar";
 "Reload All Images" = "Kembali Muat Semua Gambar";

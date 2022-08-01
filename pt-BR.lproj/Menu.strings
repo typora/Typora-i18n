@@ -328,7 +328,7 @@
 
 "Delete Selected" = "Deletar Selecionado";
 "Move Image to" = "Mover Imagem para";
-"Move to %@…" = "Mover para %@…";
+"Move to %@" = "Mover para %@";
 "Delete Image" = "Deletar Imagem";
 "Delete Image File" = "Deletar Arquivo da Imagem";
 "Reload All Images" = "Recarregar Todas As Imagens";

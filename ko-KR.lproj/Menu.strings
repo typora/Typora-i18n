@@ -335,7 +335,7 @@
 
 "Delete Selected" = "선택한 항목 삭제";
 "Move Image to" = "이미지 이동";
-"Move to %@…" = "%@ 로 이동";
+"Move to %@" = "%@ 로 이동";
 "Delete Image" = "이미지 삭제";
 "Delete Image File" = "이미지 파일 삭제";
 "Reload All Images" = "모든 이미지 다시 불러오기";

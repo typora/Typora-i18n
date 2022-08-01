@@ -328,7 +328,7 @@
 
 "Delete Selected" = "Usuń zaznaczone";
 "Move Image to" = "Przenieś obraz do";
-"Move to %@…" = "Przenieś do %@…";
+"Move to %@" = "Przenieś do %@";
 "Delete Image" = "Usuń obraz";
 "Delete Image File" = "Usuń plik obrazu";
 "Reload All Images" = "Ponownie załaduj wszystkie obrazy";

@@ -511,6 +511,6 @@
 "Images moved to %@." = "圖片移動至 %@。";
 
 "Custom Command" = "自訂命令";
-"No Automatic Equation Numbering" = "不啟用公式的自動編號;
+"No Automatic Equation Numbering" = "不啟用公式的自動編號";
 "Use AMS Numbering Rules" = "根據 AMS 規則對公式自動編號";
 "Auto Numbering for All Math Equations" = "對所有公式自動編號";

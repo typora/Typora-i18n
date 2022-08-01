@@ -328,7 +328,7 @@
 
 "Delete Selected" = "Izbriši označeno";
 "Move Image to" = "Premakni sliko v";
-"Move to %@…" = "Premakni v %@…";
+"Move to %@" = "Premakni v %@";
 "Delete Image" = "Izbriši sliko";
 "Delete Image File" = "Izbriši slikovno datoteko";
 "Reload All Images" = "Ponovno naloži vse slike";

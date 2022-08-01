@@ -331,7 +331,7 @@
 
 "Delete Selected" = "刪除所選內容";
 "Move Image to" = "移動圖片至";
-"Move to %@…" = "移動至 %@…";
+"Move to %@" = "移動至 %@";
 "Delete Image" = "刪除圖片";
 "Delete Image File" = "刪除圖片檔案";
 "Reload All Images" = "重新載入所有圖片";

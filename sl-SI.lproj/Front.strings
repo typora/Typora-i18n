@@ -155,8 +155,8 @@
 "(Default spell check option)" = "(Privzeta možnost črkovalnika)";
 "Failed to load spellcheck module" = "Neuspešno nalaganje modula za preverjanje črkovanja";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> je bil izključen.";
-"You could turn it off from `View` menu." = "Vključite ga lahko v meniju `Pogled`.";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> je vključen.";
+"You could turn it off from `View` menu." = "Izključite ga lahko v meniju `Pogled`.";
 "The file is too large to render in Typora." = "Datoteka je prevelika za prikaz v Typori.";
 "Open in…" = "Odpri v …";
 "Quick Look" = "Hitri ogled";
@@ -194,3 +194,6 @@
 "No Results" = "Ni rezultatov";
 "Too many matches" = "Preveč ujemanj";
 "Regular Expression" = "Regularen izraz";
+
+"Sort by Creation Date (Ascending)" = "Razvrsti po datumu nastanka (naraščajoče)";
+"Sort by Creation Date (Descending)" = "Razvrsti po datumu nastanka (padajoče)";

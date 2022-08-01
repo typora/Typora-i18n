@@ -53,7 +53,7 @@
 "Copy" = "Kopiraj";
 "Paste" = "Prilepi";
 "Copy as Markdown" = "Kopiraj kot Markdown";
-"Copy as HTML Code" = "Kopiraj kot HTML kodo";
+"Copy as HTML Code" = "Kopiraj kot HTML";
 "Paste as Plain Text" = "Prilepi kot golo besedilo";
 "Select All" = "Izberi vse";
 "Select Line / Sentence" = "Izberi vrstico/stavek";
@@ -123,18 +123,18 @@
 "Indent" = "Povečaj zamik";
 "Outdent" = "Znanjšaj zamik";
 "Link Reference" = "Referenca povezave";
-"Footnotes" = "Sprotne opombe";
+"Footnotes" = "Sprotna opomba";
 "Horizontal Line" = "Vodoravna črta";
 "Table of Contents" = "Vsebina";
 "YAML Front Matter" = "YAML vzglavje";
 
 /* Format Menu */
-"Format" = "Format";
+"Format" = "Oblika";
 "Strong" = "Krepko";
 "Emphasis" = "Poševno";
 "Underline" = "Podčrtano";
 "Code" = "Koda";
-"Inline Math" = "Matematične formule v vrstici";
+"Inline Math" = "Matematična formula v vrstici";
 "Strike" = "Prečrtano";
 "Highlight" = "Povdarjeno";
 "Superscript" = "Nadpisano";
@@ -142,18 +142,18 @@
 "Comment" = "Komentar";
 "Hyperlink" = "Spletna povezava";
 "Image" = "Slika";
-"Clear Format" = "Počisti formatiranje";
+"Clear Format" = "Počisti oblikovanje";
 
 /* View Menu */
-"View" = "Prikaz";
+"View" = "Pogled";
 "New Tab" = "Nov zavihek";
 "Source Code Mode" = "Način pisanja kode";
-"Focus Mode" = "Način fokusa";
+"Focus Mode" = "Osredotočen način";
 "Typewriter Mode" = "Način pisalnega stroja";
 "Toggle Sidebar" = "Prikaži/skrij stransko vrstico";
 "Outline" = "Oris";
 "Articles" = "Članki";
-"File Tree" = "Drevesni prikaz datotek";
+"File Tree" = "Drevesni pogled datotek";
 "Always on Top" = "Vedno na vrhu";
 "Full Screen" = "Celozaslonski način";
 "Show Status Bar" = "Prikaži statusno vrstico";
@@ -314,7 +314,7 @@
 "Emoji and Symbols" = "Emodži in simboli";
 
 "Insert Final New Line On Save" = "Vstavi končno novo vrstico ob shranjevanju";
-"Hyperlink Actions" = "Dejanja hiperpovezav";
+"Hyperlink Actions" = "Dejanja spletnih povezav";
 "Copy Link Address" = "Kopiranje naslova povezave";
 
 "Click" = "Klik";
@@ -337,3 +337,5 @@
 
 "Copy All Images to" = "Kopiraj vse slike v";
 "Move All Images to" = "Premakni vse slike v";
+
+"Copy as Image" = "Kopiraj kot sliko";

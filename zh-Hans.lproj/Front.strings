@@ -192,3 +192,6 @@
 "No Results" = "无结果";
 "Too many matches" = "匹配结果过多";
 "Regular Expression" = "正则表达式";
+
+"Sort by Creation Date (Ascending)" = "按修改时间排序（升序）";
+"Sort by Creation Date (Descending)" = "按修改时间排序（降序）";

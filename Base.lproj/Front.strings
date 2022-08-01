@@ -194,3 +194,6 @@
 "No Results" = "No Results";
 "Too many matches" = "Too many matches";
 "Regular Expression" = "Regular Expression";
+
+"Sort by Creation Date (Ascending)" = "Sort by Creation Date (Ascending)";
+"Sort by Creation Date (Descending)" = "Sort by Creation Date (Descending)";

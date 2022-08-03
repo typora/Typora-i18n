@@ -217,7 +217,7 @@
 "No special action" = "Brez posebnega ukrepanja";
 "Copy image to current folder (./)" = "Kopiraj sliko v trenutno mapo (./)";
 "Copy image to ./assets" = "Kopiraj sliko v ./assets";
-"Copy image to ./${filename}.assets" = "Kopiraj sliko v ./${filename}.assets";
+"Copy image to ./${filename}.assets" = "Kopiraj sliko v ./${ime_datoteke}.assets";
 "Apply above rules to local images" = "Uveljavi zgornja pravila za lokalne slike";
 "Apply above rules to online images" = "Uveljavi zgornja pravila za slike na spletu";
 "Allow upload images automatically based on YAML settings" = "Omogočite samodejno nalaganje slik na podlagi nastavitev YAML";
@@ -509,3 +509,10 @@
 "Images moved to %@." = "Slike premaknjene v %@.";
 
 "Custom Command" = "Ukaz po meri";
+"No Automatic Equation Numbering" = "Brez samodejnega številčenja enačb";
+"Use AMS Numbering Rules" = "Uporabi pravila AMS za številčenje";
+"Auto Numbering for All Math Equations" = "Samodejno številčenje za vse matematične enačbe";
+
+"Preferred Image Syntax" = "Prednostna sintaksa za vstavljene slike";
+"Add ./ for relative path" = "Dodaj ./ za relativno pot";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Če je omogočeno, bo Typora pri ustvarjanju relativne poti za vstavljene slike uporabila vzorec, kot je ./assets/image.png namesto assets/image.png.";

@@ -194,3 +194,6 @@
 "No Results" = "Brak wyników";
 "Too many matches" = "Zbyt wiele wyników";
 "Regular Expression" = "Wyrażenie regularne";
+
+"Sort by Creation Date (Ascending)" = "Sortuj według daty utworzenia (rosnąco)";
+"Sort by Creation Date (Descending)" = "Sortuj według daty utworzenia (malejąco)";

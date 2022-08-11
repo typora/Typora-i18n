@@ -194,3 +194,6 @@
 "No Results" = "沒有結果";
 "Too many matches" = "相符的項目過多";
 "Regular Expression" = "正規表達式";
+
+"Sort by Creation Date (Ascending)" = "依建立日期排序 (升冪)";
+"Sort by Creation Date (Descending)" = "依建立日期排序 (降冪)";

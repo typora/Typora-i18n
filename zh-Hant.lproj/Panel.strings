@@ -23,10 +23,11 @@
 "Auto ( Recommended )" = "自動 (建議使用)";
 "Customized" = "自訂";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "若自行挑選字型大小，則實際字型大小將隨基礎字型大小及 CSS 樣式改變。";
- "Left Panel" = "側邊欄";
-"Show Outline Panel by Default" = "預設顯示大綱欄";
-"Collapsible Outline on Left Panel" = "左側欄可允許收放";
+"Left Panel" = "側邊欄";
+"Show Outline Panel by Default" = "預設顯示側邊欄大綱";
+"Collapsible Outline on Left Panel" = "允許展開/折疊側邊欄大綱";
 "Save without asking when\nswitch files on side panel" = "在側邊欄切換檔案時自動儲存無需詢問";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "在側邊欄切換檔案時，已編輯的檔案將會自動儲存。\n當取消勾選系統偏好設定中的「關閉文件時詢問保留更動」時將永遠啟用。";
 "Language" = "語言";
 "System Language" = "系統語言";
 
@@ -112,8 +113,6 @@
 "Converting file using Pandoc. This may take some time." = "正在使用 Pandoc 轉換檔案，這可能需要一些時間。";
 "Exporting file using Pandoc. This may take some time." = "正在使用 Pandoc 匯出檔案，這可能需要一些時間。";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "正在使用 iPic 上傳圖片...";
 "Uploading in progress…" = "正在上傳...";
 "Do not show this again" = "不再顯示";
 
@@ -134,7 +133,7 @@
 "Appearance" = "外觀";
 "System Native" = "系統原生";
 "Unibody" = "一體化";
-"(applied after restart)" = "(重新啟用後套用)";
+"(applied after restart)" = "(重新啟動後套用)";
 "Status Bar" = "狀態欄";
 "Show status bar" = "顯示狀態欄";
 "Save & Recover" = "儲存並復原";
@@ -164,11 +163,11 @@
 "This feature require macOS >= 10.11" = "此功能僅支援 macOS 10.11 及以上版本";
 "One More Step" = "下一步";
 "Notice" = "注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "這需要安裝 iPic，且指定圖片將上傳至 iPic 提供的雲端服務。請注意該雲端服務無法刪除已上傳的圖片。";
 
 "%d Images Failed to Upload." = "%d 張圖片上傳失敗";
 "%d Succeeded," = "%d 張成功，";
 "Enable this feature on preferences panel" = "在偏好設定中啟用此功能";
+"The option `%@` must be enabled first to automatically upload images." = "必須先啟用 `%@` 選項以自動上傳圖片。";
 "%@ is a file, not a directory" = "%@ 是檔案，並非資料夾";
 "Copy Images To…" = "複製圖片至...";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "根據您的 YAML Front Matter 和全域偏好設定，Typora 正在嘗試將新插入的圖片複製到資料夾 %@。但是目標資料夾不存在，現在要新增它嗎?";
@@ -219,7 +218,6 @@
 "Copy image to current folder (./)" = "複製圖片到目前資料夾 (./)";
 "Copy image to ./assets" = "複製圖片到資料夾 ./assets ";
 "Copy image to ./${filename}.assets" = "複製圖片到資料夾 ./${filename}.assets";
-"Upload image via iPic" = "透過 iPic 上傳圖片";
 "Apply above rules to local images" = "對本機上的圖片套用上述規則";
 "Apply above rules to online images" = "對雲端上的圖片套用上述規則";
 "Allow upload images automatically based on YAML settings" = "允許根據 YAML 的設定自動上傳圖片";
@@ -281,15 +279,15 @@
 "Auto" = "自動";
 "words / min" = "字數 / 分";
 
-"Reset to Default" = "重置回預設";
-"120  words/minute (Slow)" = "120 詞每分鐘 (慢速)";
-"240  words/minute (Medium)" = "240 詞每分鐘 (中速)";
-"382  words/minute (Fast)" = "382 詞每分鐘 (快速)";
+"Reset to Default" = "重設回預設值";
+"120  words/minute (Slow)" = "每分鐘 120 字 (慢速)";
+"240  words/minute (Medium)" = "每分鐘 240 字 (中速)";
+"382  words/minute (Fast)" = "每分鐘 382 字 (快速)";
 
 "Copy and update image source to…" = "複製並更新圖片來源至…";
 "Updater" = "更新";
 "Install Updates ?" = "是否安裝更新?";
-"Quit and Install" = "退出並安裝";
+"Quit and Install" = "結束並安裝";
 "Download failed" = "下載失敗";
 "Downloading Updates…" = "更新下載中…";
 "Checking Updates…" = "檢查更新…";
@@ -297,7 +295,7 @@
 "You're up to date!" = "目前已是最新版!";
 "Latest version is $1, your version is $2" = "最新版本為 $1，目前版本為 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下選項也可在菜單 \"編輯→空格和換行符號\"中修改";
-"Auto escape image URL when insert" = "插入圖片時自動轉義 URL";
+"Auto escape image URL when insert" = "插入圖片時自動轉譯 URL";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "例如，如果您在 'img/example file.png' 插入一個檔案，它將變為 'img/example%20file.png'。啟用此選項可以更好地和其他的 Markdown 引擎相容，或停用此選項以提高可讀性。";
 "Check updates automatically" = "自動檢查更新";
 "Skip This Version" = "跳過該版本";
@@ -331,7 +329,7 @@
 "Output from the console:" = "主控台輸出結果:";
 "Error from the console:" = "主控台輸出錯誤:";
 "Failed to fetch uploaded image from command output." = "無法從程式執行結果中取得新的圖片路徑。";
-"Successfully get uploaded image url." = "成功上傳圖片並取得 URL";
+"Successfully get uploaded image url." = "成功上傳圖片並取得 URL。";
 "Image Uploader" = "圖片上傳";
 "Instructions" = "說明";
 "Download %@" = "下載 %@";
@@ -378,7 +376,7 @@
 "US Legal" = "US Legal";
 "Tabloid" = "表格";
 "Page Break" = "分頁";
-"Page Break Between Top Headings" = "一級標題中分頁";
+"Page Break Between Top Headings" = "按一級標題分頁";
 "Header" = "頁首";
 "Footer" = "頁尾";
 "Author" = "作者";
@@ -452,7 +450,7 @@
 "CommonMark with many pandoc extensions" = "CommonMark 包含 pandoc 擴充功能";
 "Line Wrap" = "換行";
 "Hard line wrap" = "限制每行字元數";
-"Text Column Width" = "每行字元數";
+"Text Column Width" = "每欄字元數";
 "Auto (based on current OS)" = "自動 (基於目前作業系統)";
 "Indent" = "縮進";
 "Preserve tabs" = "使用 tabs";
@@ -475,12 +473,12 @@
 
 "Export operation succeeded with warnings." = "匯出操作成功，但是包含警告。";
 
-"Typora is now deactivated" = "Typora 目前已取消啟用";
-"This device has been deactivated" = "此裝置已取消啟用";
+"Typora is now deactivated" = "Typora 授權目前已停用";
+"This device has been deactivated" = "此裝置已停用";
 "UNREGISTERED" = "未啟用";
 
 "Your Typora is not activated." = "您的 Typora 尚未啟用。";
-"Your Typora has been activated." = "您的 Typora 已被啟用。";
+"Your Typora has been activated." = "您的 Typora 已啟用。";
 "Typora activation is required to change this." = "需要啟用 Typora 後才能變更該選項。";
 "You can reinstall the stable version and then disable this." = "您可以重新安裝穩定版本以停用該選項。";
 "Update to dev version" = "更新至開發版";
@@ -492,18 +490,18 @@
 "Create File" = "建立檔案";
 "Create Folder" = "建立資料夾";
 
-"(Some options will be applied after restart.)" = "(一些選項需要重啟Typora後生效)";
+"(Some options will be applied after restart.)" = "(一些選項需要重啟 Typora 後生效)";
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "複製或剪下時，若沒有文字被選取，則複製或剪下游標所在的一整行";
-"Enable physics package" = "啟用 physics 包";
-"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics 包啟用後會重定義一切 LaTeX 巨集，比如 \\div, \\Re 等";
+"Enable physics package" = "啟用 physics 套件";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics 套件啟用後會重新定義一切 LaTeX 巨集，比如 \\div, \\Re 等。";
 
 "Detail" = "詳細資訊";
-"Use custom font size" = "使用自訂的字體大小";
-"Use theme font size" = "使用主題的字體大小";
+"Use custom font size" = "使用自訂的字型大小";
+"Use theme font size" = "使用佈景主題的字型大小";
 
-"You are using the Snap version, it may have limited access to your local executables." = "您使用的是 Snap 版本，它對本機可執行文件的訪問可能受限。";
+"You are using the Snap version, it may have limited access to your local executables." = "您使用的是 Snap 版本，其對本機可執行檔的存取可能受限。";
 
-"No local images found." = "文檔未包含本機圖片";
+"No local images found." = "找不到本機圖片。";
 
 "File Format:" = "檔案格式:";
 
@@ -514,3 +512,7 @@
 "No Automatic Equation Numbering" = "不啟用公式的自動編號";
 "Use AMS Numbering Rules" = "根據 AMS 規則對公式自動編號";
 "Auto Numbering for All Math Equations" = "對所有公式自動編號";
+
+"Preferred Image Syntax" = "圖片語法偏好設定";
+"Add ./ for relative path" = "加入 ./ 至相對路徑";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "啟用時，Typora 在產生插入之圖片的相對路徑會使用 ./assets/image.png 而非 assets/image.png。";

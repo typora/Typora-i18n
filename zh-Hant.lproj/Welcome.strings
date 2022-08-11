@@ -40,10 +40,10 @@
 "Manage files in sidebar and search across files." = "在側邊欄管理檔案或進行全域搜尋。";
 "Customize" = "自訂";
 "Customize your writing experience from preferences panel." = "透過偏好設定自訂您的書寫體驗。";
-"Themes" = "主題";
-"Write in the theme you like, or make one by your own." = "使用您喜歡的主題，或者自己製作一個主題";
+"Themes" = "佈景主題";
+"Write in the theme you like, or make one by your own." = "使用您喜歡的佈景主題，或者自己製作一個主題。";
 "And more" = "更多";
-"Explore more topics at support.typora.io" = "從 support.typora.io 探索更多主題";
+"Explore more topics at support.typora.io" = "從 support.typora.io 探索更多主題。";
 
 "Quick Start" = "新手教學";
 "Markdown Reference" = "Markdown 說明";
@@ -75,3 +75,14 @@
 "Unknown Error. Please contact hi@typora.io" = "未知錯誤，請聯絡 hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "無法連線到伺服器，請檢查網路後重試";
 
+"Enter a license code to support our development ❤" = "輸入授權碼以支持我們的開發 ❤";
+"Re-enter Email" = "重新輸入電子郵件";
+"Email address confirmation does not match." = "電子郵件地址不相符。";
+
+"Are you sure to deactivate Typora on this device?" = "您確定要停用此裝置的 Typora 授權嗎?";
+
+"Offline Activation" = "離線啟用";
+"Back" = "返回";
+"Get Activation Token" = "取得啟用金鑰";
+
+"Your activated devices have exceeded the maximum limits." = "您啟用的裝置數量已超過上限。";

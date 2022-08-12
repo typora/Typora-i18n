@@ -12,66 +12,66 @@
 "Welcome to Typora" = "Welcome to Typora";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
 
-"Get Started" = "Get Started";
+"Get Started" = "Započni";
 "Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
 
-"Activate Typora" = "Activate Typora";
+"Activate Typora" = "Aktiviraj Typora";
 "Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
 
 "Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email Address" = "Email Adresa";
+"License Code" = "Kod licence";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Pomoć";
+"Find my License" = "Pronađi moju licencu";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
 
-"Live Preview" = "Live Preview";
+"Live Preview" = "Pregled uživo";
 "Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
+"Markdown Syntax" = "Markdown Sintaksa";
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
+"Import / Export" = "Uvezi / Izvezi";
 "Deliver your content in various formats." = "Deliver your content in various formats.";
 "Editing Experience" = "Editing Experience";
 "Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
 
-"Files" = "Files";
+"Files" = "Fajlovi";
 "Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
+"Customize" = "Prilagodi";
+"Customize your writing experience from preferences panel." = "Prilagodi svoje iskustvo pisanja kroz preference.";
+"Themes" = "Teme";
+"Write in the theme you like, or make one by your own." = "Piši koristeći temu koju želiš ili stvori svoju.";
+"And more" = "I više";
 "Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
 
-"Quick Start" = "Quick Start";
+"Quick Start" = "Brzi Početak";
 "Markdown Reference" = "Markdown Reference";
-"Explore Themes" = "Explore Themes";
+"Explore Themes" = "Pretraži Teme";
 "More Topics" = "More Topics";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora je aktivirana";
+"Thanks for your purchase." = "Hvala Vam na Vašoj kupnji.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Sljedeće";
+"Please accept license agreement first" = "Molimo prvo prihvatite uvjete licence";
+"Start %@ Days Trial" = "Započni testiranje od %@ dana";
+"Buy License" = "Kupi Licencu";
+"Activate" = "Aktiviraj";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Zatvori";
+"Deactivate" = "Deaktiviraj";
+"View License" = "Vidi Licencu";
+"Your Typora License" = "Tvoja Typora Licenca";
+"This copy of Typora is registered with license information below." = "Ova kopija programa Typora registrirana je sa licencom ispod.";
+"Your trial will be expired in %@ days." = "Tvoja testna verzija isteći će za %@ dana.";
+"Enter License" = "Unesi Licencu";
+"Not Now" = "Ne sada";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Molimo unesite valjanu email adresu";
+"Please input a valid license code"  = "Molimo unesite valjani licenčni kod";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Vaša licenca je iskorištena na više od maximalnog broja računala.\nPrvo registrirano računalo je automaski neregistrirano.";
+"This license code has been used with a different email address." =  "Ovaj kod licence je iskorišten sa drugom email adresom.";
+"Unknown Error. Please contact hi@typora.io" = "Nepoznata pogreška. Please contact hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Neuspjelo povezivanje sa serverom licence. Molimo provjerite svoju mrežu ili pokušajte ponovo kasnije.";
 

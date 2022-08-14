@@ -278,6 +278,7 @@
 "Reading Speed" = "Olvasási sebesség";
 "Auto" = "Automatikus";
 "words / min" = "szó/perc";
+
 "Reset to Default" = "Alapbeállítások";
 "120  words/minute (Slow)" = "120  szó/perc (lassú)";
 "240  words/minute (Medium)" = "240  szó/perc (közepes)";
@@ -434,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "Az \"Exportálás és felülírás a legutóbbival\" felül fogja írni a %@ fájlt. Folytatja?";
 "Command Arguments:" = "Parancs argumentumai:";
-"This dev version of Typora is expired, please download and install a newer version." = "A Typora ezen béta verziója lejárt. Töltsön le és telepítsen egy újabb verziót.";
+"This dev version of Typora is expired, please download and install a newer version." = "A Typora ezen fejlesztői verziója lejárt. Töltsön le és telepítsen egy újabb verziót.";
 "Current Theme" = "Jelenlegi téma";
 "After Export" = "Exportálás után";
 "Run command" = "Parancs futtatása";
@@ -493,3 +494,25 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Az egész sor kivágása vagy másolása, ha nincs kijelölve semmi.";
 "Enable physics package" = "A Physics makrócsomag engedélyezése";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "A Physics makrócsomag felülír néhány latex makrót, pl. \\div, \\Re, stb.";
+
+"Detail" = "Részletek";
+"Use custom font size" = "Egyéni betűméret használata";
+"Use theme font size" = "A téma betűméretének használata";
+
+"You are using the Snap version, it may have limited access to your local executables." = "A Snap verziót használja, aminek korlátozott lehet a hozzáférése a helyi végrehajtható fájlokhoz.";
+
+"No local images found." = "Nem találhatók helyi képek.";
+
+"File Format:" = "Fájlformátum:";
+
+"Images copied to %@." = "A képek %@ helyre másolása megtörtént.";
+"Images moved to %@." = "A képek %@ helyre mozgatása megtörtént.";
+
+"Custom Command" = "Egyéni parancs";
+"No Automatic Equation Numbering" = "Nincs automatikus képletszámozás";
+"Use AMS Numbering Rules" = "AMS számozási szabályok használata.";
+"Auto Numbering for All Math Equations" = "Minden képlet automatikus számozása";
+
+"Preferred Image Syntax" = "Előnyben részesített kép szintaxis";
+"Add ./ for relative path" = "Relatív útvonalnál ./ hozzáadása";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Ha be van kapcsolva, a beszúrt képekhez a Typora ./assets/image.png formájú relatív útvonalat fog generálni assets/image.png helyett.";

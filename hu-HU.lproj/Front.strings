@@ -190,3 +190,10 @@
 
 "File does not exist at path %@." = "A %@ útvonalon nincs fájl.";
 "File does not exist at path %@, do you want to create one at that path?" = "A %@ útvonalon nincs fájl. Szeretnél egy új fájlt létrehozni ott?";
+
+"No Results" = "Nincs találat";
+"Too many matches" = "Túl sok találat";
+"Regular Expression" = "Reguláris kifejezés";
+
+"Sort by Creation Date (Ascending)" = "Rendezés létrehozás dátuma szerint (növekvő)";
+"Sort by Creation Date (Descending)" = "Rendezés létrehozás dátuma szerint (csökkenő)";

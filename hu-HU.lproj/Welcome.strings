@@ -81,5 +81,8 @@
 
 "Are you sure to deactivate Typora on this device?" = "Biztosan deaktiválod a Typorát ezen az eszközön?";
 
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Ehhez a licenchez nem regisztrálható több eszköz.\nHa az \"Aktiválás folytatása\" gombra kattintasz, ez az eszköz regisztrálva lesz, a legrégebben regisztrált eszköz pedig automatikusan törölésre kerül.";
-"Continue Activation" = "Aktiválás folytatása";
+"Offline Activation" = "Offline aktiválás";
+"Back" = "Vissza";
+"Get Activation Token" = "Aktiváló token beszerzése";
+
+"Your activated devices have exceeded the maximum limits." = "Az aktivált eszközök száma meghaladja a korlátot.";

@@ -137,7 +137,6 @@
 "Select image from local file" = "选择本地图片";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank'>$2</a> ?" = "无法打开 <code>$1</code> ，您是想打开 <a href='$3' target='_blank'>$2</a> 么？";
 
-"select a language" = "选择语言";
 "Finish Editing" = "完成编辑";
 
 "Revert advanced setting file to default one ?" = "确认重置高级设置？";
@@ -195,3 +194,5 @@
 
 "Sort by Creation Date (Ascending)" = "按创建时间排序（升序）";
 "Sort by Creation Date (Descending)" = "按创建时间排序（降序）";
+
+"code language" = "代码语言";

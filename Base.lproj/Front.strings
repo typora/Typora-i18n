@@ -135,7 +135,6 @@
 "Select image from local file" = "Select image from local file";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "select a language";
 "Finish Editing" = "Finish Editing";
 
 "Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
@@ -197,3 +196,5 @@
 
 "Sort by Creation Date (Ascending)" = "Sort by Creation Date (Ascending)";
 "Sort by Creation Date (Descending)" = "Sort by Creation Date (Descending)";
+
+"code language" = "code language";

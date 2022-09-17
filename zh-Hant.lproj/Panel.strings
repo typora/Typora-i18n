@@ -384,7 +384,7 @@
 "Append in <body />" = "在 <body /> 中加入";
 "Include Outline Sidebar" = "保留大綱側邊欄";
 "Width" = "寬度";
-"Command" = "命令";
+"Command" = "自訂命令";
 "Show Save File Dialog" = "顯示檔案儲存對話框";
 "File Extensions for Export" = "匯出檔案可使用的副檔名";
 "Arguments" = "參數";

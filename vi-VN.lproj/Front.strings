@@ -195,3 +195,8 @@
 "No Results" = "Không có kết quả";
 "Too many matches" = "Quá nhiều kết quả";
 "Regular Expression" = "Biểu hiện thông thường";
+
+"Sort by Creation Date (Ascending)" = "Sắp xếp theo ngày khởi tạo (Tăng dần)";
+"Sort by Creation Date (Descending)" = "Sắp xếp theo ngày khởi tạo (Giảm dần)";
+
+"code language" = "ngôn ngữ lập trình";

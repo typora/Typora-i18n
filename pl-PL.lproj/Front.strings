@@ -135,7 +135,6 @@
 "Select image from local file" = "Wybierz obraz z pliku lokalnego";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nie mogę otworzyć adresu <code>$1</code>. Czy chodziło o <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
-"select a language" = "wybierz język";
 "Finish Editing" = "Zakończ edycję";
 
 "Revert advanced setting file to default one ?" = "Przywrócić plik ustawień zaawansowanych do wartości domyślnych?";
@@ -197,3 +196,5 @@
 
 "Sort by Creation Date (Ascending)" = "Sortuj według daty utworzenia (rosnąco)";
 "Sort by Creation Date (Descending)" = "Sortuj według daty utworzenia (malejąco)";
+
+"code language" = "język kodu";

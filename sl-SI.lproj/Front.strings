@@ -135,7 +135,6 @@
 "Select image from local file" = "Izberi sliko med lokalnimi datotekami";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne morem odpreti naslova <code>$1</code>, ste morda mislili <a href='https://$3'>https://$2</a> ?";
 
-"select a language" = "izberi jezik";
 "Finish Editing" = "Zaključi urejanje";
 
 "Revert advanced setting file to default one ?" = "Povrnem datoteko z naprednimi nastavitvami na prednastavljeno?";
@@ -197,3 +196,5 @@
 
 "Sort by Creation Date (Ascending)" = "Razvrsti po datumu nastanka (naraščajoče)";
 "Sort by Creation Date (Descending)" = "Razvrsti po datumu nastanka (padajoče)";
+
+"code language" = "programski jezik";

@@ -1,0 +1,199 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Avbryt";
+"Yes" = "Ja";
+"No" = "Nei";
+"Close" = "Lukk";
+"Select" = "Velg";
+"Continue" = "Fortsett";
+"Learn More…" = "Lær mer…";
+"Untitled" = "Uten navn";
+"Undo" = "Angre";
+"Dismiss" = "Dismiss";
+"Confirm" = "Avvis";
+"Error" = "Feil";
+
+/* Search Panel */
+"Search" = "Søk";
+"Replace" = "Erstatt";
+"All" = "Alt";
+"Search text not found in article" = "Fant ikke søkeord i artikkelen";
+"search text" = "søk tekst";
+
+/* Quick Open */
+"Search by file name" = "Søk etter filnavn";
+"Searching" = "Søker";
+"Gathering more results" = "Samler flere resultater";
+
+/* Tables */
+"Insert Table" = "Sett inn tabell";
+"Columns" = "Kolonner";
+"Rows" = "Rader";
+"Align Left" = "Juster til venstre";
+"Align Center" = "Juster til midten";
+"Align Right" = "Juster til høyre";
+"Resize Table" = "Endre tabellstørrelse";
+"Delete Table" = "Slett tabell";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver å kopiere nylig satt inn bilde til mappen<code id='image-create-folder-target'></code> etter dine YAML Front Matter innstillinger eller globale preferanser, men mappen eksisterer ikke. Vil du opprette mappen nå?";
+"Create Folder" = "Opprett mappe";
+
+/* Math */
+"Edit" = "Rediger";
+"Delete Math" = "Slett matte";
+"Preview" = "Forhåndsvis";
+
+/* Sidebar */
+"Articles" = "Artikkel";
+"Outline" = "Disposisjon";
+"Files" = "Filer";
+"Switch to File List view" = "Bytt til filliste-visnig";
+"Switch to File Tree view" = "Bytt til filtre-visning";
+"Switch to Outline view" = "Bytt til disposisjon-visning";
+"Close sidebar" = "Lukk sidemeny";
+"Loading" = "Laster inn";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Valgte mapper inneholder for mange filer. \nVenligst bytt til <a id='switch-to-tree-on-oversize'>filtre-visning</a> for bedre ytelse.";
+"New File" = "Ny fil";
+"Unpin Outline Panel" = "Løsne disposisjon-panel";
+"Open Folder..." = "Åpne mappe...";
+"Action" = "Handling";
+"Close Sidebar Menu" = "Lukk sidebaren";
+"Reveal in Finder" = "Vis i Finder";
+"Reveal in File Explorer" = "Vis i filutforskeren";
+"Refresh Folder" = "Oppdater mappe";
+"Sort" = "Sorter";
+"Group By Folder" = "Grupper etter mappa";
+"Sort Naturally (Ascending)" = "Sorter naturlig (Stigende)";
+"Sort Naturally (Descending)" = "Sorter naturlig (Synkende)";
+"Sort by Name (Ascending)" = "Sorter etter navn (A til Å)";
+"Sort by Modification Date (Ascending)" = "Sorter etter dato sist endret (Stigende)";
+"Sort by Name (Descending)" = "Sorter etter navn (Å til A)";
+"Sort by Modification Date (Descending)" = "Sorter etter dato sist endret (Synkende)";
+"Location" = "Lokasjon";
+"Switch File List/Tree View" = "Bytt mellom filliste/trevisning";
+"No Files Available" = "Ingen filer tilgjengelig";
+"No Folder is Opened." = "Ingen mapper er åpne..";
+"Outline is Empty." = "Disposisjon er tom.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Vis/skjul sidebaren";
+"Toggle Source Code Mode" = "Vis/skjul kildekode-modus";
+"Exit Source Code Mode" = "Lukk kildekode-modus";
+
+"Table of Contents" = "Innholdsfortegnelse";
+"Empty Diagram" = "Tomt diagram";
+"Input Math TeX here" = "Skriv inn Math TeX her";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Du må  definere fotnoten <b>{0}</b> med sytaks <a>[^{1}]: www.eksempel.no</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Du må definere lenken <b>[{0}]</b> med syntaks <b>[{1}]: www.eksempel.no</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Du må definere bilde referansen med \n[{0}]: http://eksempel.png";
+
+/* msg */
+"Failed to create file" = "Klarte ikke opprette ny fil";
+"Failed to create folder" = "Klarte ikke opprette ny mappe";
+"Failed to rename file" = "Klarte ikke bytte filnavn";
+"Folder does not exist at %@" = "Mappe finnes ikke på %@";
+"File with the same name already exists at target path" = "Fil med samme navn eksisterer allerede på målbanen";
+"Apply to All" = "Gjelder for alle";
+"Overwrite" = "Overskriv";
+"Stop" = "Stopp";
+"back to document" = "tilbake til dokumentet";
+"Failed to load file" = "Klarte ikke laste inn fil";
+"Save File Failed!" = "Lagre fil mislykkes!";
+"Cannot open folder {0}" = "Kan ikke åpne mappe {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "Filinnhold ble endret av et annet program. Vil du laste inn innhold på nytt fra disk?";
+"Should continue moving and overwrite existing file(s) ?" = "Fortsette med å flytte og overskrive fil(er)?";
+
+"Rename to \"{0}\" ?" = "Bytt navn til \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Klarte ikke bytte navn fra \"{0}\" til \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Lastet opp {0} bilder.";
+"Failed to upload image. Error Message:" = "Klarte ikke laste opp bilde. Feilmelding:";
+"Failed to Copy Image to Target Folder." = "Klarte ikke kopiere bilde til målmappe.";
+"Select Container Folder" = "Velg beholdermappe";
+
+"Saved" = "Lagret";
+
+/* place holder in find & replace input */
+"search text" = "søk tekst";
+"replace with" = "erstatt med";
+/* search option */
+"Case Sensitive" = "Skiller mellom store og små bokstaver";
+"Whole Word" = "Hele ord";
+
+"input image URL" = "Skriv inn bilde-URL";
+"Select image from local file" = "Velg bilde fra lokal fil";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Klarte ikke åpne fil på lokasjon <code>$1</code>, Mente du <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+
+"Finish Editing" = "Ferdig redigering";
+
+"Revert advanced setting file to default one ?" = "Tilbakestill avanserte innstillinger til standard innstillingene?";
+
+"Select Spell Check Language" = "Velg stavekontroll språk";
+"Auto Detect Language" = "Gjenkjenn språk";
+"Disable Spell Check" = "Skru av stavekontroll";
+"Global Setting…" = "Globale innstillinger…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Ordbok fil mangler og kan ikke skru på stavekontroll for %@.";
+"Install Language Support" = "Installer språk";
+"License Information" = "Lisensinformasjon";
+"Download" = "Last ned";
+"Install dictionary file only for Typora" = "Installer ordbok fil kun for Typora";
+"Spell Check (%@ unavailable)" = "Stavekontroll (%@ utilgjengelig)";
+"Spell Check (%@ downloading)" = "Stavekontroll (%@ laster ned)";
+"Download dictionary file for %@" = "Laster ned ordbok fil for %@";
+"(Default spell check option)" = "(Standard valg for stavekontroll)";
+"Failed to load spellcheck module" = "Klarte ikke sate inn stavekontroll modul";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> er skrudd på.";
+"You could turn it off from `View` menu." = "Du kan skru den av fra `Visning` menyen.";
+"The file is too large to render in Typora." = "Filen er for stor til å vises i Typora.";
+"Open in…" = "Åpne i…";
+"Quick Look" = "Hurtigvisning";
+
+"Filter" = "Filter";
+"No result found." = "Fant ingen resultater.";
+"Continue & Overwrite" = "Fortsett & overskriv";
+"The file is read-only, or you do not have right permissions to modify the file." = "Filen er skrivebeskyttet, eller så mangler du skriverettigheter.";
+
+"Learn Data Recovery" = "Lær datagjenoppretting";
+"Auto refresh on Files Panel cannot be enabled." = "Automatisk oppdatering i filpanelet er ikke skrudd på.";
+"Delete Permanently" = "Slett permanent";
+
+"Failed to upload images:" = "Opplasting av bilder mislyktes:";
+"Uploading in progress" = "Laster opp...";
+"Successfully uploaded {0} images, {1} failed." = "Lastet opp {0} bilder, {1} mislyktes.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Du kan andre denne handlingen senere via `Rediger` → `Angre`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan holde <strong>⌘-knappen</strong> nede og trykke på <a href='#'>lenker</a> for å åpne nettsider eller hoppe til fotnotene.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan holde <strong>CTRL-knappen</strong> nede og trykke på <a href='#'>lenker</a> for å åpne nettsider eller hoppe til fotnotene.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stil har blitt skrudd på.";
+"You can right click titlebar to popup application menu." = "Du kan høyreklikke tittelbaren for å åpne programvarevinduet";
+
+"Support Document" = "Håndbok";
+
+"You are not supposed to edit or save this file." = "Det er ikke meningen å endre eller lagre denne filen.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Filer på den lokasjonen (%@) blir administrert av Typora, og kan bli slettet automatisk.<br/>Venligst kopier innholdet til en ny fil for videre redigering.";
+
+"File does not exist at path %@." = "Filen eksisterer ikke på banen %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Filen eksisterer ikke på den banen %@, vil du lagre en fil på den lokasjonen?";
+
+"No Results" = "Ingen resultater";
+"Too many matches" = "For mange treff";
+"Regular Expression" = "Regulært uttrykk";
+
+"Sort by Creation Date (Ascending)" = "Sorter etter dato opprettet (Stigende)";
+"Sort by Creation Date (Descending)" = "Sorter etter dato opprettet (Synkende)";
+
+"code language" = "kodespråk";

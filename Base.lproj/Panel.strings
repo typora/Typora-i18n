@@ -516,3 +516,8 @@
 "Preferred Image Syntax" = "Preferred Image Syntax";
 "Add ./ for relative path" = "Add ./ for relative path";
 "When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images.";
+
+"Image Quality" = "Image Quality";
+"Medium" = "Medium";
+"High" = "High";
+"Best" = "Best";

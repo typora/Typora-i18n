@@ -198,3 +198,8 @@
 "Sort by Creation Date (Descending)" = "Sort by Creation Date (Descending)";
 
 "code language" = "code language";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead.";
+"Markdown file" = "Markdown file";
+"TextBundle file" = "TextBundle file";
+"Images saved to TextBundle" = "Images saved to TextBundle";

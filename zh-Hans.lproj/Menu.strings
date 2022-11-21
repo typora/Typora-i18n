@@ -341,3 +341,7 @@
 "Move All Images to" = "移动所有图片到";
 
 "Copy as Image" = "复制为图片";
+
+"Switch Image Syntax" = "转换图片语法";
+"Markdown Style" = "Markdown 格式";
+"HTML Style" = "HTML 格式";

@@ -196,3 +196,8 @@
 "Sort by Creation Date (Descending)" = "按创建时间排序（降序）";
 
 "code language" = "代码语言";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "无法重命名 $1 为 $2, 请使用 菜单 → \"文件\" → \"移动到…\"。";
+"Markdown file" = "Markdown 文件";
+"TextBundle file" = "TextBundle 文件";
+"Images saved to TextBundle" = "图片已存储到 TextBundle 文件中";

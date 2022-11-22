@@ -339,3 +339,7 @@
 "Move All Images to" = "Przenieś wszystkie obrazy do";
 
 "Copy as Image" = "Skopiuj jako obraz";
+
+"Switch Image Syntax" = "Przełącz składnię obrazu";
+"Markdown Style" = "Styl Markdown";
+"HTML Style" = "Styl HTML";

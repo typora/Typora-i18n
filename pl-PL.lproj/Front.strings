@@ -198,3 +198,8 @@
 "Sort by Creation Date (Descending)" = "Sortuj według daty utworzenia (malejąco)";
 
 "code language" = "język kodu";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nie mogę zmienić nazwy $1 na $2. Użyj polecenia \"Plik\" → \"Przenieś do…\" z paska menu.";
+"Markdown file" = "Plik Markdown";
+"TextBundle file" = "Plik TextBundle";
+"Images saved to TextBundle" = "Obrazy zapisane w pliku TextBundle";

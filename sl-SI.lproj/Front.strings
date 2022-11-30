@@ -198,3 +198,8 @@
 "Sort by Creation Date (Descending)" = "Razvrsti po datumu nastanka (padajoče)";
 
 "code language" = "programski jezik";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Ne morem preimenovati $1 v $2. Namesto tega uporabite ukaz \"Datoteka\" → \"Premakni v…\" iz menija.";
+"Markdown file" = "Markdown datoteka";
+"TextBundle file" = "TextBundle datoteka";
+"Images saved to TextBundle" = "Slike so shranjene v TextBundle datoteko";

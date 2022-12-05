@@ -135,7 +135,6 @@
 "Select image from local file" = "選擇本機圖片";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "無法開啟 <code>$1</code>，您指的是 <a href='$3' target='_blank' target='_blank'>$2</a> 嗎?";
 
-"select a language" = "選取一個語言";
 "Finish Editing" = "完成編輯";
 
 "Revert advanced setting file to default one ?" = "要將進階設定檔還原至預設值嗎?";
@@ -197,3 +196,10 @@
 
 "Sort by Creation Date (Ascending)" = "依建立日期排序 (升冪)";
 "Sort by Creation Date (Descending)" = "依建立日期排序 (降冪)";
+
+"code language" = "程式語言";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "無法重新命名檔案 $1 為 $2，請使用選單列中的「檔案」→「移至…」。";
+"Markdown file" = "Markdown 檔案";
+"TextBundle file" = "TextBundle 檔案";
+"Images saved to TextBundle" = "圖片已儲存至 TextBundle";

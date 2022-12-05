@@ -48,7 +48,7 @@
 /* Edit Menu */
 "Edit" = "編輯";
 "Undo" = "還原";
-"Redo" = "重作";
+"Redo" = "重做";
 "Cut" = "剪下";
 "Copy" = "複製";
 "Paste" = "貼上";
@@ -339,3 +339,7 @@
 "Move All Images to" = "移動所有圖片至";
 
 "Copy as Image" = "複製為圖片";
+
+"Switch Image Syntax" = "切換圖片語法";
+"Markdown Style" = "Markdown 樣式";
+"HTML Style" = "HTML 樣式";

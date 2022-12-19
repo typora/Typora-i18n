@@ -339,3 +339,7 @@
 "Move All Images to" = "Premakni vse slike v";
 
 "Copy as Image" = "Kopiraj kot sliko";
+
+"Switch Image Syntax" = "Zamenjaj sintakso slik";
+"Markdown Style" = "Markdown stil";
+"HTML Style" = "HTML stil";

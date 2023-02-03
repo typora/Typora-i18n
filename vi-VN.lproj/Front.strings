@@ -2,20 +2,23 @@
   Front.strings
   Typora
 
- by hi@typora.io
- Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+  by hi@typora.io
+  Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+  
+  Edits history:
+  > 25 Jan 2023 - improved terms translations and capitalizations by basonjui <basonjui@gmail.com>
 */
 
 /* Common */
 "OK" = "OK";
 "Cancel" = "Huỷ bỏ";
-"Yes" = "Đồng ý";
+"Yes" = "Có";
 "No" = "Không";
 "Close" = "Đóng";
 "Select" = "Chọn";
 "Continue" = "Tiếp tục";
-"Learn More…" = "Tìm hiểu thêm…";
-"Untitled" = "Chưa có tiêu đề";
+"Learn More…" = "Tìm hiểu Thêm…";
+"Untitled" = "Không Tiêu Đề";
 "Undo" = "Hoàn tác";
 "Dismiss" = "Bỏ qua";
 "Confirm" = "Xác nhận";
@@ -25,103 +28,103 @@
 "Search" = "Tìm kiếm";
 "Replace" = "Thay thế";
 "All" = "Tất cả";
-"Search text not found in article" = "Không tìm thấy đoạn văn bản trong bài viết";
-"search text" = "tìm kiếm đoạn văn";
+"Search text not found in article" = "Không tìm thấy đoạn văn trong bài viết";
+"search text" = "tìm đoạn văn";
 
 /* Quick Open */
 "Search by file name" = "Tìm theo tên tập tin";
 "Searching" = "Đang tìm kiếm";
-"Gathering more results" = "Thu thập nhiều kết quả hơn";
+"Gathering more results" = "Đang thu thập thêm kết quả";
 
 /* Tables */
-"Insert Table" = "Chèn bảng";
+"Insert Table" = "Chèn Bảng";
 "Columns" = "Cột";
 "Rows" = "Dòng";
-"Align Left" = "Căng lề trái";
-"Align Center" = "Căng giữa";
-"Align Right" = "Căng lề phải";
-"Resize Table" = "Chỉnh kích cỡ bảng";
-"Delete Table" = "Xoá bảng";
+"Align Left" = "Căn Trái";
+"Align Center" = "Căn Giữa";
+"Align Right" = "Căn Phải";
+"Resize Table" = "Chỉnh kích cỡ Bảng";
+"Delete Table" = "Xoá Bảng";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục <code id='image-create-folder-target'></code> dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh mặc định của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
-"Create Folder" = "Tạo thư mục";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora đang cố gắng sao chép hình ảnh vừa mới chèn vào thư mục <code id='image-create-folder-target'></code> dựa theo tuỳ chỉnh YAML Front Matter hoặc tuỳ chỉnh chung của bạn. Tuy nhiên thư mục đó không tồn tại, bạn có muốn tạo thư mục đó?";
+"Create Folder" = "Tạo Thư Mục";
 
 /* Math */
 "Edit" = "Chỉnh sửa";
-"Delete Math" = "Xoá công thức";
+"Delete Math" = "Xoá Công Thức";
 "Preview" = "Xem trước";
 
 /* Sidebar */
-"Articles" = "Bài viết";
-"Outline" = "Dàn bài";
-"Files" = "Tập tin";
-"Switch to File List view" = "Chuyển kiểu xem Danh sách tập tin";
-"Switch to File Tree view" = "Chuyển kiểu xem Cây tập tin";
-"Switch to Outline view" = "Chuyển kiểu xem Dàn bài";
+"Articles" = "Bài Viết";
+"Outline" = "Dàn Bài";
+"Files" = "Tập Tin";
+"Switch to File List view" = "Chuyển sang kiểu xem Danh Sách Tập Tin";
+"Switch to File Tree view" = "Chuyển sang kiểu xem Cây Tập Tin";
+"Switch to Outline view" = "Chuyển sang kiểu xem Dàn Bài";
 "Close sidebar" = "Đóng thanh bên";
 "Loading" = "Đang tải";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Thư mục được chọn chứa quá nhiều tập tin. \nVui lòng chuyển sang <a id='switch-to-tree-on-oversize'>kiểu xem Cây tập tin</a> để có trải nghiệm tốt hơn.";
-"New File" = "Tập tin mới";
-"Unpin Outline Panel" = "Bỏ ghim Bảng Dàn bài";
-"Open Folder..." = "Mở thư mục...";
+"New File" = "Tập Tin Mới";
+"Unpin Outline Panel" = "Bỏ ghim Bảng Dàn Bài";
+"Open Folder..." = "Mở Thư Mục...";
 "Action" = "Hành động";
-"Close Sidebar Menu" = "Đóng Menu thanh bên";
+"Close Sidebar Menu" = "Đóng Menu Thanh bên";
 "Reveal in Finder" = "Mở trong Finder";
 "Reveal in File Explorer" = "Mở trong File Explorer";
-"Refresh Folder" = "Làm mới thư mục";
+"Refresh Folder" = "Cập nhật Thư Mục";
 "Sort" = "Sắp xếp";
-"Group By Folder" = "Nhóm bởi thư mục";
-"Sort Naturally (Ascending)" = "Sắp xếp tự nhiên (Tăng dần)";
-"Sort Naturally (Descending)" = "Sắp xếp tự nhiên (Giảm dần)";
-"Sort by Name (Ascending)" = "Sắp xếp theo tên (Tăng dần)";
-"Sort by Modification Date (Ascending)" = "Sắp xếp theo ngày chỉnh sửa (Tăng dần)";
-"Sort by Name (Descending)" = "Sắp xếp theo tên (Giảm dần)";
-"Sort by Modification Date (Descending)" = "Sắp xếp theo ngày chỉnh sửa (Giảm dần)";
+"Group By Folder" = "Nhóm bởi Thư Mục";
+"Sort Naturally (Ascending)" = "Sắp xếp Tự Nhiên (Tăng dần)";
+"Sort Naturally (Descending)" = "Sắp xếp Tự Nhiên (Giảm dần)";
+"Sort by Name (Ascending)" = "Sắp xếp theo Tên (Tăng dần)";
+"Sort by Modification Date (Ascending)" = "Sắp xếp theo Ngày Chỉnh Sửa (Tăng dần)";
+"Sort by Name (Descending)" = "Sắp xếp theo Tên (Giảm dần)";
+"Sort by Modification Date (Descending)" = "Sắp xếp theo Ngày Chỉnh Sửa (Giảm dần)";
 "Location" = "Vị trí";
-"Switch File List/Tree View" = "Chuyển đổi kiểu xem Danh sách/Cây tập tin";
-"No Files Available" = "Không có tệp nào";
-"No Folder is Opened." = "Không có thư mục nào được mở.";
-"Outline is Empty." = "Dàn bài đang trống.";
+"Switch File List/Tree View" = "Chuyển sang kiểu xem Danh Sách/Cây Tập Tin";
+"No Files Available" = "Không có Tập Tin";
+"No Folder is Opened." = "Không có Thư Mục nào được Mở.";
+"Outline is Empty." = "Dàn bài đang Trống.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Chuyển đổi thanh bên";
-"Toggle Source Code Mode" = "Chuyển đổi chế độ mã nguồn";
-"Exit Source Code Mode" = "Thoát chế độ mã nguồn";
+"Toggle Sidebar" = "Bật/Tắt Thanh bên";
+"Toggle Source Code Mode" = "Bật/Tắt Chế Độ Mã Nguồn";
+"Exit Source Code Mode" = "Thoát Chế Độ Mã Nguồn";
 
-"Table of Contents" = "Mục lục";
-"Empty Diagram" = "Sơ đồ trống";
+"Table of Contents" = "Mục Lục";
+"Empty Diagram" = "Sơ đồ Trống";
 "Input Math TeX here" = "Chèn Math TeX vào đây";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Cần định nghĩa chú thích tham chiếu <b>{0}</b> với cú pháp <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Cần xác định liên kết tham chiếu <b>[{0}]</b> với cú pháp <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Vui lòng xác định hình ảnh tham chiếu bằng cách \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Cần định nghĩa chú thích tham chiếu chân trang <b>{0}</b> với cú pháp <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Cần định nghĩa liên kết tham chiếu <b>[{0}]</b> với cú pháp <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Vui lòng định nghĩa hình ảnh tham chiếu bằng cách \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Không thể tạo tập tin";
-"Failed to create folder" = "Không thể tạo thư mục";
-"Failed to rename file" = "Không thể đổi tên tập tin";
+"Failed to create file" = "Tạo tập tin không thành công";
+"Failed to create folder" = "Tạo thư mục không thành công";
+"Failed to rename file" = "Đổi tên tập tin không thành công";
 "Folder does not exist at %@" = "Thư mục không tồn tại ở %@";
-"File with the same name already exists at target path" = "Tập tin có tên trùng với tập đã có trước đó trong thư mục";
-"Apply to All" = "Áp dụng cho tất cả";
+"File with the same name already exists at target path" = "Tập tin với tên trùng đã tồn tại sẵn ở trong đường dẫn";
+"Apply to All" = "Áp dụng cho Tất Cả";
 "Overwrite" = "Ghi đè";
 "Stop" = "Dừng lại";
 "back to document" = "quay lại tài liệu";
-"Failed to load file" = "Không thể tải tập tin";
-"Save File Failed!" = "Lưu tệp không thành công!";
+"Failed to load file" = "Tải tập tin không thành công";
+"Save File Failed!" = "Lưu Tập Tin Không Thành công!";
 "Cannot open folder {0}" = "Không thể mở thư mục {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Nội dung tập tin đã thay đổi bởi các chương trình khác. Bạn có muốn tải lại tập tin từ đĩa ?";
-"Should continue moving and overwrite existing file(s) ?" = "Bạn sẽ tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
+"File content is changed by external applications. Reload content from disk ?" = "Nội dung tập tin đã bị thay đổi bởi các chương trình khác. Tải lại tập tin từ đĩa ?";
+"Should continue moving and overwrite existing file(s) ?" = "Tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
 
 "Rename to \"{0}\" ?" = "Đổi tên thành \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Không thể đổi tên từ \"{0}\" sang \"{1}\"";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Đổi tên từ \"{0}\" sang \"{1}\" không thành công";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Đã tải lên thành công {0} hình ảnh.";
-"Failed to upload image. Error Message:" = "Không thể tải lên hình ảnh. Thông báo lỗi:";
-"Failed to Copy Image to Target Folder." = "Không thể sao chép hình ảnh vào thư mục yêu cầu.";
-"Select Container Folder" = "Chọn thư mục chứa";
+"Failed to upload image. Error Message:" = "Tải hình ảnh lên không thành công. Thông Báo Lỗi:";
+"Failed to Copy Image to Target Folder." = "Sao chép Hình Ảnh vào Thư Mục Yêu Cầu không thành công.";
+"Select Container Folder" = "Chọn Thư Mục Chứa";
 
 "Saved" = "Đã lưu";
 
@@ -134,46 +137,46 @@
 
 "input image URL" = "chèn URL hình ảnh";
 "Select image from local file" = "Chọn hình ảnh từ tập tin trong máy";
-"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Không thể mở khu vực <code>$1</code>, ý bạn là <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Không thể mở vị trí <code>$1</code>, ý bạn là <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "chọn một ngôn ngữ";
-"Finish Editing" = "Kết thúc chỉnh sửa";
+"Finish Editing" = "Kết thúc Chỉnh Sửa";
 
 "Revert advanced setting file to default one ?" = "Phục hồi tập tin cài đặt nâng cao về mặc định ?";
 
-"Select Spell Check Language" = "Lựa chọn ngôn ngữ kiểm tra chính tả";
-"Auto Detect Language" = "Tự động phát hiện ngôn ngữ";
-"Disable Spell Check" = "Tắt kiểm tra chính tả";
-"Global Setting…" = "Cài đặt chung…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Tập tin từ điển đang bị thiếu để bật kiểm tra ngôn ngữ hỗ trợ cho %@.";
-"Install Language Support" = "Cài đặt hỗ trợ ngôn ngữ";
-"License Information" = "Thông tin bản quyền";
+"Select Spell Check Language" = "Lựa chọn Ngôn Ngữ Kiểm Tra Chính Tả";
+"Auto Detect Language" = "Tự Động Phát Hiện Ngôn Ngữ";
+"Disable Spell Check" = "Tắt Kiểm Tra Chính tả";
+"Global Setting…" = "Cài Đặt Chung…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Tập tin từ điển cần thiết đang bị thiếu để bật kiểm tra ngôn ngữ hỗ trợ cho %@.";
+"Install Language Support" = "Cài Đặt Hỗ Trợ Ngôn Ngữ";
+"License Information" = "Thông Tin Bản Quyền";
 "Download" = "Tải về";
-"Install dictionary file only for Typora" = "Chỉ cài đặt tập tin từ điển cho duy nhất Typora";
-"Spell Check (%@ unavailable)" = "Kiểm tra chính tả (%@ không khả dụng)";
-"Spell Check (%@ downloading)" = "Kiểm tra chính tả (%@ đang tải về)";
+"Install dictionary file only for Typora" = "Cài đặt tập tin từ điển dành cho duy nhất Typora";
+"Spell Check (%@ unavailable)" = "Kiểm Tra Chính Tả (%@ không khả dụng)";
+"Spell Check (%@ downloading)" = "Kiểm Tra Chính Tả (%@ đang tải về)";
 "Download dictionary file for %@" = "Tải tập tin từ điển cho %@";
 "(Default spell check option)" = "(Tuỳ chọn kiểm tra chính tả mặc định)";
-"Failed to load spellcheck module" = "Không thể tải module kiểm tra chính tả";
+"Failed to load spellcheck module" = "Tải mô-đun (module) kiểm tra chính tả không thành công";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> đã được bật.";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> đã được bật lên.";
 "You could turn it off from `View` menu." = "Bạn có thể tắt nó từ menu `Xem`.";
 "The file is too large to render in Typora." = "Tập tin quá lớn để hiển thị trong Typora.";
 "Open in…" = "Mở trong…";
-"Quick Look" = "Xem nhanh";
+"Quick Look" = "Xem Nhanh";
 
 "Filter" = "Lọc";
 "No result found." = "Không tìm thấy kết quả.";
-"Continue & Overwrite" = "Tiếp tục & ghi đè";
-"The file is read-only, or you do not have right permissions to modify the file." = "Tập tin ở chế độ chỉ đọc (read-only) hoặc bạn không có quyền truy cập để chỉnh sửa tập tin.";
+"Continue & Overwrite" = "Tiếp tục & Ghi đè";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tập tin ở chế độ chỉ đọc (read-only), hoặc bạn không có quyền truy cập để chỉnh sửa tập tin.";
 
-"Learn Data Recovery" = "Tìm hiểu về khôi phục dữ liệu";
-"Auto refresh on Files Panel cannot be enabled." = "Không thể bật tự động làm tươi trong danh sách tập tin";
-"Delete Permanently" = "Xoá vĩnh viễn";
+"Learn Data Recovery" = "Tìm hiểu về Khôi Phục Dữ Liệu";
+"Auto refresh on Files Panel cannot be enabled." = "Tính năng tự động cập nhật của Bảng Tập tin (Files Panel) không thể khởi động.";
+"Delete Permanently" = "Xoá Vĩnh Viễn";
 
 
 "Failed to upload images:" = "Không thể tải lên hình ảnh:";
-"Uploading in progress" = "Đang tải lên";
+"Uploading in progress" = "Đang trong quá trình tải lên";
 "Successfully uploaded {0} images, {1} failed." = "Đã tải lên {0} hình ảnh thành công, {1} thất bại.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Bạn có thể hoàn tác cho thao tác vừa rồi qua lệnh `Chỉnh sửa` → `Hoàn tác`.";
@@ -181,22 +184,22 @@
 "You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Bạn có thể nhấn <strong>⌘ + Click</strong> để mở <a href='#'>đường dẫn</a> hoặc nhảy đến phần định nghĩa chân trang.";
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Bạn có thể nhấn <strong>CTRL + Click</strong> để mở <a href='#'>đường dẫn</a> hoặc nhảy đến phần định nghĩa chân trang.";
 
-"<strong>Unibody</strong> style has been turned on." = "Chủ đề <strong>Unibody</strong> đã được bật.";
-"You can right click titlebar to popup application menu." = "Bạn có thể click chuột phải vào thanh tiêu đề để mở menu của chương trình.";
+"<strong>Unibody</strong> style has been turned on." = "Kiểu <strong>Unibody</strong> đã được bật lên.";
+"You can right click titlebar to popup application menu." = "Bạn có thể click chuột phải vào thanh tiêu đề để làm nổi lên menu của ứng dụng.";
 
-"Support Document" = "Tài liệu hỗ trợ";
+"Support Document" = "Tài Liệu Hỗ Trợ";
 
 "You are not supposed to edit or save this file." = "Bạn không được phép chỉnh sửa hoặc lưu tập tin này.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Các tập tin trong khu vực (%@) được quản lý bởi Typora, và có thể tự động bị xoá.<br/>Vui lòng sao chép nội dung sang một tập tin mới để tiếp tục chỉnh sửa.";
 
 "File does not exist at path %@." = "Tập tin không tồn tại ở đường dẫn %@.";
-"File does not exist at path %@, do you want to create one at that path?" = "Tập tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tập tin tại đường dẫn đó chứ?";
+"File does not exist at path %@, do you want to create one at that path?" = "Tập tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tập tin tại đường dẫn đó không?";
 
-"No Results" = "Không có kết quả";
-"Too many matches" = "Quá nhiều kết quả";
-"Regular Expression" = "Biểu hiện thông thường";
+"No Results" = "Không có Kết Quả";
+"Too many matches" = "Quá nhiều Kết quả";
+"Regular Expression" = "Biểu Thức Chính Quy (RegEx)";
 
-"Sort by Creation Date (Ascending)" = "Sắp xếp theo ngày khởi tạo (Tăng dần)";
-"Sort by Creation Date (Descending)" = "Sắp xếp theo ngày khởi tạo (Giảm dần)";
+"Sort by Creation Date (Ascending)" = "Sắp xếp theo Ngày Khởi Tạo (Tăng dần)";
+"Sort by Creation Date (Descending)" = "Sắp xếp theo Ngày Khởi Tạo (Giảm dần)";
 
 "code language" = "ngôn ngữ lập trình";

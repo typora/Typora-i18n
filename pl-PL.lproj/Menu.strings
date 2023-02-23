@@ -343,3 +343,8 @@
 "Switch Image Syntax" = "Przełącz składnię obrazu";
 "Markdown Style" = "Styl Markdown";
 "HTML Style" = "Styl HTML";
+
+"Code Tools" = "Narzędzia do kodu";
+"Copy Code Content" = "Skopiuj treść kodu";
+"Auto Indent Selected Code" = "Automatyczne wcięcie zaznaczonego kodu";
+"Auto Indent All Code" = "Automatyczne wcięcie całego kodu";

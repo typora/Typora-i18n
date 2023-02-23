@@ -343,3 +343,8 @@
 "Switch Image Syntax" = "Switch Image Syntax";
 "Markdown Style" = "Markdown Style";
 "HTML Style" = "HTML Style";
+
+"Code Tools" = "Code Tools";
+"Copy Code Content" = "Copy Code Content";
+"Auto Indent Selected Code" = "Auto Indent Selected Code";
+"Auto Indent All Code" = "Auto Indent All Code";

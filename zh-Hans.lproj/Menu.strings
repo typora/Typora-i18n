@@ -345,3 +345,8 @@
 "Switch Image Syntax" = "转换图片语法";
 "Markdown Style" = "Markdown 格式";
 "HTML Style" = "HTML 格式";
+
+"Code Tools" = "代码工具";
+"Copy Code Content" = "复制代码块内容";
+"Auto Indent Selected Code" = "为选中内容调整缩进";
+"Auto Indent All Code" = "为整个代码块调整缩进";

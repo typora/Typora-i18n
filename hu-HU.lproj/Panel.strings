@@ -516,3 +516,8 @@
 "Preferred Image Syntax" = "Előnyben részesített kép szintaxis";
 "Add ./ for relative path" = "Relatív útvonalnál ./ hozzáadása";
 "When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Ha be van kapcsolva, a beszúrt képekhez a Typora ./assets/image.png formájú relatív útvonalat fog generálni assets/image.png helyett.";
+
+"Image Quality" = "Képminőség";
+"Medium" = "Közepes";
+"High" = "Jó";
+"Best" = "Kiváló";

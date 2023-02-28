@@ -339,3 +339,12 @@
 "Move All Images to" = "Összes kép mozgatása ide";
 
 "Copy as Image" = "Kép másolása";
+
+"Switch Image Syntax" = "Kép szintaxis váltása";
+"Markdown Style" = "Markdown stílus";
+"HTML Style" = "HTML stílus";
+
+"Code Tools" = "Programkód eszközök";
+"Copy Code Content" = "Kód másolása";
+"Auto Indent Selected Code" = "Kiválasztás automatikus behúzása";
+"Auto Indent All Code" = "Összes kód automatikus behúzása";

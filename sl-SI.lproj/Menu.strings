@@ -343,3 +343,8 @@
 "Switch Image Syntax" = "Zamenjaj sintakso slik";
 "Markdown Style" = "Markdown stil";
 "HTML Style" = "HTML stil";
+
+"Code Tools" = "Orodja za delo s kodo";
+"Copy Code Content" = "Kopiraj vsebino kode";
+"Auto Indent Selected Code" = "Samodejno poravnaj označeno kodo";
+"Auto Indent All Code" = "Samodejno poravnaj vso kodo";

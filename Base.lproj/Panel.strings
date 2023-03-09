@@ -521,3 +521,6 @@
 "Medium" = "Medium";
 "High" = "High";
 "Best" = "Best";
+
+"Use Shift+Tab key to auto indent selected code" = "Use Shift+Tab key to auto indent selected code";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks.";

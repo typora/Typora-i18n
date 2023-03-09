@@ -527,3 +527,6 @@
 "Medium" = "中等";
 "High" = "高";
 "Best" = "极高";
+
+"Use Shift+Tab to auto indent selected code" = "使用 Shift+Tab 自动调整所选代码的缩进";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "当该选项未启用时，Shift+Tab 将减少所选内容的缩进。当该选项启用时，Shift+Tab 将自动调整所选代码的缩进。";

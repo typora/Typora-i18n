@@ -521,3 +521,6 @@
 "Medium" = "Średnia";
 "High" = "Wysoka";
 "Best" = "Najlepsza";
+
+"Use Shift+Tab key to auto indent selected code" = "Użyj skrótu Shift+Tab do automatycznego wcięcia zaznaczonego kodu";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Opcja wyłączona: Shift+Tab usuwa wcięcie zaznaczonego kodu bądź bieżącej linii. Opcja włączona: Shift+Tab stosuje automatyczne wcięcie zaznaczonego kodu bądź bieżącej linii w blokach kodu.";

@@ -343,3 +343,8 @@
 "Switch Image Syntax" = "切換圖片語法";
 "Markdown Style" = "Markdown 樣式";
 "HTML Style" = "HTML 樣式";
+
+"Code Tools" = "程式碼工具";
+"Copy Code Content" = "複製程式碼內容";
+"Auto Indent Selected Code" = "自動調整所選程式碼的縮排";
+"Auto Indent Whole Code" = "自動調整全部程式碼的縮排";

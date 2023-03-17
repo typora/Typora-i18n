@@ -521,3 +521,6 @@
 "Medium" = "中等";
 "High" = "高";
 "Best" = "最佳";
+
+"Use Shift+Tab key to auto indent selected code" = "使用 Shift+Tab 鍵自動調整所選程式碼的縮排";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "停用此選項時，按下 Shift+Tab 鍵會取消所選程式碼的縮排；啟用時，Shift+Tab 則會自動調整所選程式碼的縮排。";

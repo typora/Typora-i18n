@@ -524,3 +524,6 @@
 
 "Use Shift+Tab to auto indent selected code" = "Use Shift+Tab to auto indent selected code";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks.";
+
+"Auto Links (e.g: https://typroa.io)" = "Auto Links (e.g: https://typroa.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text.";

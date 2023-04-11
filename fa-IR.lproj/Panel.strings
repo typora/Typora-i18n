@@ -54,9 +54,9 @@
 "Markdown" = "مارک‌داون";
 "(Following preferences will be applied after restart.)" = "(تنظیمات زیر پس از اجرای مجدد برنامه اعمال خواهند شد.)";
 "Syntax Support" = "پشتیبانی سینتکس";
-"Inline Math  ( e.g: $\LaTeX$ )" = "فرمول ریاضی درون‌خطی  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "پایین نویس    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "بالا نویس ( e.g: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "فرمول ریاضی درون‌خطی  (e.g: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "پایین نویس    (e.g: H~2~O)";
+"Superscript (e.g: X^2^)" = "بالا نویس (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "برجسته     (e.g: ==key==)";
 "Diagrams" = "دیاگرام و نمودارها";
 "(Sequence, Flowchart and Mermaid)" = "(دنباله، فلوچارت و Mermaid )";

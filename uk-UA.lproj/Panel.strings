@@ -52,9 +52,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Наступні параметри будуть застосовані після перезапуску застосунку.)";
 "Syntax Support" = "Підтримка синтаксису";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Формули в рядку ( наприклад: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Підрядковий текст ( наприклад: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Надрядковий текст ( наприклад: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Формули в рядку ( наприклад: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Підрядковий текст ( наприклад: H~2~O)";
+"Superscript (e.g: X^2^)" = "Надрядковий текст ( наприклад: X^2^)";
 "Highlight     (e.g: ==key==)" = "Виділення     (наприклад: ==key==)";
 "Diagrams" = "Графіки";
 "(Sequence, Flowchart and Mermaid)" = "(Послідовностей, блок-схеми і Mermaid)";

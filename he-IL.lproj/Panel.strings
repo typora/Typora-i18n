@@ -54,9 +54,9 @@
 "Markdown" = "מארק־דאון (Markdown)";
 "(Following preferences will be applied after restart.)" = "(השינויים הבאים יתעדכנו רק לאחר אתחול.)";
 "Syntax Support" = "תמיכה בתחביר";
-"Inline Math  ( e.g: $\LaTeX$ )" = "מתמטיקה מוטמעת בתור השורה ( לדוגמא: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "טקסט תחתון ( לדוגמא: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "טקסט עליון ( לדוגמא: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "מתמטיקה מוטמעת בתור השורה ( לדוגמא: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "טקסט תחתון ( לדוגמא: H~2~O)";
+"Superscript (e.g: X^2^)" = "טקסט עליון ( לדוגמא: X^2^)";
 "Highlight     (e.g: ==key==)" = "הדגשה (לדוגמא: ==key==)";
 "Diagrams" = "דיאגרמות";
 "(Sequence, Flowchart and Mermaid)" = "(תרשים רצף, תרשים זרימה וכו')";

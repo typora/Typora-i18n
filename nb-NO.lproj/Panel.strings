@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Følgende innstillinger vil bli aktive etter omstart.)";
 "Syntax Support" = "Syntaksstøtte";
-"Inline Math  ( e.g: $\LaTeX$ )" = "På linje matte  ( f.eks: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Senket tekst (f.eks: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Hevet tekst (f.eks: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "På linje matte  ( f.eks: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Senket tekst (f.eks: H~2~O)";
+"Superscript (e.g: X^2^)" = "Hevet tekst (f.eks: X^2^)";
 "Highlight     (e.g: ==key==)" = "Fremhev tekst (f.eks: ==nøkkel==)";
 "Diagrams" = "Diagrammer";
 "(Sequence, Flowchart and Mermaid)" = "(Sekvens, Flyt og Mermaid)";

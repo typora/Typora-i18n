@@ -54,9 +54,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Nasledujúce nastavenia sa prejaví až po reštarte)";
 "Syntax Support" = "Podpora syntaxe";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Vnorená Matematika （ napr.：$\LaTeX$ ）";
-"Subscript    ( e.g: H~2~O )" = "Dolný index    （ napr.：H~2~O ";
-"Superscript ( e.g: X^2^ )" = "Horný index （ napr.：X^2^ ）";
+"Inline Math  (e.g: $\LaTeX$)" = "Vnorená Matematika （ napr.：$\LaTeX$ ）";
+"Subscript    (e.g: H~2~O)" = "Dolný index    （ napr.：H~2~O ";
+"Superscript (e.g: X^2^)" = "Horný index （ napr.：X^2^ ）";
 "Highlight     (e.g: ==key==)" = "Zvýraznenie     （napr.：==kľúč==）";
 "Diagrams" = "Diagramy";
 "(Sequence, Flowchart and Mermaid)" = "（Sekvencia, Vývojový diagram a Mermaid）";

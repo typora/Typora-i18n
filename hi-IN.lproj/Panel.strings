@@ -53,9 +53,9 @@
 /* Markdown Panel */
 "(Following preferences will be applied after restart.)" = "(पुनरारंभ करने के बाद निम्नलिखित प्राथमिकताएं लागू की जाएंगी।)";
 "Syntax Support" = "सिंटेक्स समर्थन";
-"Inline Math  ( e.g: $\LaTeX$ )" = "इनलाइन गणित (E.G: $ \ LATEX $)";
-"Subscript    ( e.g: H~2~O )" = "सबस्क्रिप्ट (उदा: एच ~ 2 ~ ओ)";
-"Superscript ( e.g: X^2^ )" = "सुपरस्क्रिप्ट (उदाहरण: x ^ 2 ^)";
+"Inline Math  (e.g: $\LaTeX$)" = "इनलाइन गणित (E.G: $ \ LATEX $)";
+"Subscript    (e.g: H~2~O)" = "सबस्क्रिप्ट (उदा: एच ~ 2 ~ ओ)";
+"Superscript (e.g: X^2^)" = "सुपरस्क्रिप्ट (उदाहरण: x ^ 2 ^)";
 "Highlight     (e.g: ==key==)" = "हाइलाइट (उदा: == कुंजी ==)";
 "Diagrams" = "चित्र";
 "(Sequence, Flowchart and Mermaid)" = "(अनुक्रम, फ्लोचार्ट और मरमेड)";

@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(poniższe ustawienia zostaną wdrożone po ponownym uruchomieniu aplikacji)";
 "Syntax Support" = "Obsługa składni";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Formuła Math (np. $\LaTeX$)";
-"Subscript    ( e.g: H~2~O )" = "Indeks dolny (np. H~2~O)";
-"Superscript ( e.g: X^2^ )" = "Indeks górny (np. X^2^)";
+"Inline Math  (e.g: $\LaTeX$)" = "Formuła Math (np. $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Indeks dolny (np. H~2~O)";
+"Superscript (e.g: X^2^)" = "Indeks górny (np. X^2^)";
 "Highlight     (e.g: ==key==)" = "Wyróżnienie (np. ==key==)";
 "Diagrams" = "Diagramy";
 "(Sequence, Flowchart and Mermaid)" = "(sekwencje, schematy blokowe i Mermaid)";
@@ -522,5 +522,5 @@
 "High" = "Wysoka";
 "Best" = "Najlepsza";
 
-"Use Shift+Tab key to auto indent selected code" = "Użyj skrótu Shift+Tab do automatycznego wcięcia zaznaczonego kodu";
+"Use Shift+Tab to auto indent selected code" = "Użyj skrótu Shift+Tab do automatycznego wcięcia zaznaczonego kodu";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Opcja wyłączona: Shift+Tab usuwa wcięcie zaznaczonego kodu bądź bieżącej linii. Opcja włączona: Shift+Tab stosuje automatyczne wcięcie zaznaczonego kodu bądź bieżącej linii w blokach kodu.";

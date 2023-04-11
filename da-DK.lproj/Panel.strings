@@ -54,9 +54,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(De følgende indstillinger anvendes først når Typora genstartes.)";
 "Syntax Support" = "Formater";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Indbyggede formler (f. eks.: $\LaTeX$)";
-"Subscript    ( e.g: H~2~O )" = "Sænket skrift      (f. eks.: H~2~O)";
-"Superscript ( e.g: X^2^ )" = "Hævet skrift    (f. eks.: X^2^)";
+"Inline Math  (e.g: $\LaTeX$)" = "Indbyggede formler (f. eks.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Sænket skrift      (f. eks.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Hævet skrift    (f. eks.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Markeret skrift    (f. eks.: ==key==)";
 "Diagrams" = "Diagrammer";
 "(Sequence, Flowchart and Mermaid)" = "(sekvens, rutediagram og Mermaid)";

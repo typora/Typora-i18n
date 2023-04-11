@@ -52,9 +52,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Följande inställningar kommer appliceras efter omstart.)";
 "Syntax Support" = "Syntaxstöd";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline matte ( t.ex: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Nedsänkt text   ( t.ex: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Upphöjd text    ( t.ex: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Inline matte ( t.ex: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Nedsänkt text   ( t.ex: H~2~O)";
+"Superscript (e.g: X^2^)" = "Upphöjd text    ( t.ex: X^2^)";
 "Highlight     (e.g: ==key==)" = "Markering       (t.ex: ==key==)";
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart och Mermaid)";

@@ -58,9 +58,9 @@
 "Markdown" = "마크다운";
 "(Following preferences will be applied after restart.)" = "(아래 설정값은 재시작시 적용됨.)";
 "Syntax Support" = "문법 강조 지원";
-"Inline Math  ( e.g: $\LaTeX$ )" = "인라인 수식  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "아래 첨자    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "위 첨자 ( e.g: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "인라인 수식  (e.g: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "아래 첨자    (e.g: H~2~O)";
+"Superscript (e.g: X^2^)" = "위 첨자 (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "강조     (e.g: ==key==)";
 "Diagrams" = "다이어그램";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart 및 Mermaid)";

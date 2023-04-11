@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Naslednje nastavitve bodo uveljavljene po ponovnem zagonu.)";
 "Syntax Support" = "Podpora za sintakso";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Enačbe v vrstici  ( n.pr.: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Nadpisano    ( n.pr.: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Podpisano ( n.pr.: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Enačbe v vrstici  ( n.pr.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Nadpisano    ( n.pr.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Podpisano ( n.pr.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Označeno     ( n.pr.: ==key== )";
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart in Mermaid)";
@@ -522,5 +522,5 @@
 "High" = "Visoka";
 "Best" = "Najboljša";
 
-"Use Shift+Tab key to auto indent selected code" = "Uporabite tipko Shift+Tab za samodejno poravnavo izbrane kode";
+"Use Shift+Tab to auto indent selected code" = "Uporabite tipko Shift+Tab za samodejno poravnavo izbrane kode";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Če je onemogočeno, bo Shift+Tab samodejno odstranil poravnavo izbrane kode ali trenutne vrstice. Če je omogočeno, bo Shift+Tab samodejno uveljavil poravnavo za izbrano kodo ali trenutno vrstico v blokih kode.";

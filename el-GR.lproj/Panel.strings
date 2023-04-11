@@ -55,9 +55,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Οι ακόλουθες προτιμήσεις θα εφαρμοστούν μετά την επανεκκίνηση.)";
 "Syntax Support" = "Υποστήριξη Σύνταξης";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Math Εντός γραμμής  ( π.χ: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Υποδείκτης    ( π.χ: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Υπερδείκτης ( π.χ: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Math Εντός γραμμής  ( π.χ: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Υποδείκτης    ( π.χ: H~2~O)";
+"Superscript (e.g: X^2^)" = "Υπερδείκτης ( π.χ: X^2^)";
 "Highlight     (e.g: ==key==)" = "Έμφαση     (π.χ: ==key==)";
 "Diagrams" = "Διαγράμματα";
 "(Sequence, Flowchart and Mermaid)" = "(Αλληλουχία, Διάγραμμα Ροής και Mermaid)";

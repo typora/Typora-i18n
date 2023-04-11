@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Следующие настройки будут применены после перезапуска.)";
 "Syntax Support" = "Поддержка синтаксиса";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Формула (например: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Подстрочный (например: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Надстрочный (например: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Формула (например: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Подстрочный (например: H~2~O)";
+"Superscript (e.g: X^2^)" = "Надстрочный (например: X^2^)";
 "Highlight     (e.g: ==key==)" = "Подсветка (например: ==key==)";
 "Diagrams" = "Диаграммы";
 "(Sequence, Flowchart and Mermaid)" = "интерактивные, диаграммы последовательностей и др.";

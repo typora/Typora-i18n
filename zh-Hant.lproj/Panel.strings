@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(以下偏好設定會在重新啟動 Typora 後套用)";
 "Syntax Support" = "Markdown 語法擴充支援";
-"Inline Math  ( e.g: $\LaTeX$ )" = "行內數學式  (如: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "下標    (如: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "上標 (如: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "行內數學式  (如: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "下標    (如: H~2~O)";
+"Superscript (e.g: X^2^)" = "上標 (如: X^2^)";
 "Highlight     (e.g: ==key==)" = "語法標示     (如: ==key==)";
 "Diagrams" = "圖表";
 "(Sequence, Flowchart and Mermaid)" = "(序列圖, 流程圖和 Mermaid)";
@@ -522,5 +522,5 @@
 "High" = "高";
 "Best" = "最佳";
 
-"Use Shift+Tab key to auto indent selected code" = "使用 Shift+Tab 鍵自動調整所選程式碼的縮排";
+"Use Shift+Tab to auto indent selected code" = "使用 Shift+Tab 鍵自動調整所選程式碼的縮排";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "停用此選項時，按下 Shift+Tab 鍵會取消所選程式碼的縮排；啟用時，Shift+Tab 則會自動調整所選程式碼的縮排。";

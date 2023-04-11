@@ -54,9 +54,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Preferințele următoare vor fi aplicate după repornire.)";
 "Syntax Support" = "Suport Sintaxă";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Matematică În Linie  ( de ex: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Indice    ( de ex: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Exponent ( de ex: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Matematică În Linie  ( de ex: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Indice    ( de ex: H~2~O)";
+"Superscript (e.g: X^2^)" = "Exponent ( de ex: X^2^)";
 "Highlight     (e.g: ==key==)" = "Evidențiere     (de ex: ==key==)";
 "Diagrams" = "Diagrame";
 "(Sequence, Flowchart and Mermaid)" = "(Secvenţă, Schemă Logică și Mermaid)";

@@ -55,9 +55,9 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(As seguintes preferências serão aplicadas após reiniciar.)";
 "Syntax Support" = "Suporte de Sintaxe";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Incorporar Equações ( ex.: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subescrito    ( ex.: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Sobescrito ( ex.: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Incorporar Equações ( ex.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subescrito    ( ex.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Sobescrito ( ex.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Realçar     (ex.: ==key==)";
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart e Mermaid)";

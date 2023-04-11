@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Following preferences will be applied after restart.)";
 "Syntax Support" = "Syntax Support";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Inline Math  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( e.g: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Inline Math  (e.g: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subscript    (e.g: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superscript (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "Highlight     (e.g: ==key==)";
 "Diagrams" = "Diagrams";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";
@@ -522,5 +522,5 @@
 "High" = "High";
 "Best" = "Best";
 
-"Use Shift+Tab key to auto indent selected code" = "Use Shift+Tab key to auto indent selected code";
+"Use Shift+Tab to auto indent selected code" = "Use Shift+Tab to auto indent selected code";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks.";

@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Az alábbi beállítások csak újraindítás után lépnek érvénybe.)";
 "Syntax Support" = "Szintaxis támogatása";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Beágyazott képletek ( pl.: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Alsó index    ( pl.: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Felső index ( pl.: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Beágyazott képletek ( pl.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Alsó index    ( pl.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Felső index ( pl.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Kiemelés     (pl.: ==key==)";
 "Diagrams" = "Diagramok";
 "(Sequence, Flowchart and Mermaid)" = "(Szekvenciadiagram, folyamatábra és Mermaid)";

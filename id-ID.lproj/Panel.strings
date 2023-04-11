@@ -67,9 +67,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Preferensi berikut akan diterapkan setelah kembali mulai.)";
 "Syntax Support" = "Bantuan Sintaksis";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Matematika Sebaris  ( contoh: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subskrip    ( contoh: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superskrip ( contoh: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Matematika Sebaris  ( contoh: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subskrip    ( contoh: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superskrip ( contoh: X^2^)";
 "Highlight     (e.g: ==key==)" = "Sorotan     (contoh: ==key==)";
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sekuens, Diagram Alir dan Mermaid)"; /* See <https://id.wikipedia.org/wiki/Diagram_alir> */

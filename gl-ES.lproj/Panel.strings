@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
   "(Following preferences will be applied after restart.)" = "(As seguintes preferencias aplicaranse despois do reinicio.)";
 "Syntax Support" = "Soporte de sintaxe";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Math En liña ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subíndice    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superíndice ( e.g: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Math En liña (e.g: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subíndice    (e.g: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superíndice (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "Resaltado    (e.g: ==key==)";
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart e Mermaid)";

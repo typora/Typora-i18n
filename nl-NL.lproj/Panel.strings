@@ -56,9 +56,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Onderstaande voorkeuren worden toegepast bij het opnieuw opstarten.)";
 "Syntax Support" = "Syntax Support";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Wiskunde in de lopende tekst  ( bv.: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    ( bv.: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript ( bv.: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Wiskunde in de lopende tekst  ( bv.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subscript    ( bv.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superscript ( bv.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Markeren     (bv.: ==key==)";
 "Diagrams" = "Diagrammen";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";

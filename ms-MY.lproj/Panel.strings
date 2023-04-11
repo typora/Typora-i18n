@@ -54,9 +54,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Pilihan berikut akan digunapakai selepas mula semua.)";
 "Syntax Support" = "Sokongan Sinteks";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Matematik Dalam Barisan  ( e.g: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subskrip    ( e.g: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superskrip ( e.g: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Matematik Dalam Barisan  (e.g: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subskrip    (e.g: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superskrip (e.g: X^2^)";
 "Highlight     (e.g: ==key==)" = "Tonjolan     (e.g: ==key==)";
 "Diagrams" = "Gambarajah";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart and Mermaid)";

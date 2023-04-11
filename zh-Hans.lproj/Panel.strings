@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "（下面选项将在 Typora 重启后生效）";
 "Syntax Support" = "Markdown 扩展语法";
-"Inline Math  ( e.g: $\LaTeX$ )" = "内联公式  （例： $\LaTeX$ ）";
-"Subscript    ( e.g: H~2~O )" = "下标      （例： H~2~O ）";
-"Superscript ( e.g: X^2^ )" = "上标       （例： X^2^ ）";
+"Inline Math  (e.g: $\LaTeX$)" = "内联公式  （例： $\LaTeX$ ）";
+"Subscript    (e.g: H~2~O)" = "下标      （例： H~2~O ）";
+"Superscript (e.g: X^2^)" = "上标       （例： X^2^ ）";
 "Highlight     (e.g: ==key==)" = "高亮       （例： ==key== ）";
 "Diagrams" = "图表";
 "(Sequence, Flowchart and Mermaid)" = "(序列图、流程图 和 Mermaid 图)";

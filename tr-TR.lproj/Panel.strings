@@ -52,9 +52,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Değiştirilmiş ayarlar yeniden başlatmanın ardından uygulanacaktır.)";
 "Syntax Support" = "Söz Dizimi Desteği";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Satıriçi Matematik  (örneğin: $\LaTeX$ )";
-"Subscript    ( e.g: H~2~O )" = "Subscript    (örneğin: H~2~O )";
-"Superscript ( e.g: X^2^ )" = "Superscript (örneğin: X^2^ )";
+"Inline Math  (e.g: $\LaTeX$)" = "Satıriçi Matematik  (örneğin: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subscript    (örneğin: H~2~O)";
+"Superscript (e.g: X^2^)" = "Superscript (örneğin: X^2^)";
 "Highlight     (e.g: ==key==)" = "Vurgu     (örneğin: ==key==)";
 "Diagrams" = "Diyagramlar";
 "(Sequence, Flowchart and Mermaid)" = "(Sıra numarası, Akış Şeması ve Mermaid)";

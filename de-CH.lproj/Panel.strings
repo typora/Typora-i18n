@@ -56,9 +56,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Die folgenden Einstellungen werden nach Neustart angewendet.)";
 "Syntax Support" = "Syntax Unterstützung";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Formeln innerhalb der Zeile (z.B: $\LaTeX$)";
-"Subscript    ( e.g: H~2~O )" = "Tiefstellen (z.B: H~2~O)";
-"Superscript ( e.g: X^2^ )" = "Hochstellen (z.B: X^2^)";
+"Inline Math  (e.g: $\LaTeX$)" = "Formeln innerhalb der Zeile (z.B: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Tiefstellen (z.B: H~2~O)";
+"Superscript (e.g: X^2^)" = "Hochstellen (z.B: X^2^)";
 "Highlight     (e.g: ==key==)" = "Hervorhebung     (z.B: ==key==)";
 "Diagrams" = "Diagramme";
 "(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flussdiagramm und Mermaid)";

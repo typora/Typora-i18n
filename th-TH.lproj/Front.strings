@@ -1,0 +1,210 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+Thai translated by
+ Thanachart Monpassorn <nunf_2539@hotmail.com>
+*/
+
+/* Common */
+"OK" = "โอเค";
+"Cancel" = "ยกเลิก";
+"Yes" = "ใช่";
+"No" = "ไม่";
+"Close" = "ปิด";
+"Select" = "เลือก";
+"Continue" = "ต่อไป";
+"Learn More…" = "เรียนรู้เพิ่มเติม…";
+"Untitled" = "ไม่มีชื่อ";
+"Undo" = "เลิกทำ";
+"Dismiss" = "ยกเลิก";
+"Confirm" = "ยืนยัน";
+"Error" = "ข้อผิดพลาด";
+
+/* Search Panel */
+"Search" = "ค้นหา";
+"Replace" = "แทนที่";
+"All" = "ทั้งหมด";
+"Search text not found in article" = "ไม่พบข้อความที่ค้นหาในบทความ";
+"search text" = "ค้นหาข้อความ";
+
+/* Quick Open */
+"Search by file name" = "ค้นหาตามชื่อไฟล์";
+"Searching" = "กำลังค้นหา";
+"Gathering more results" = "กำลังรวบรวมผลลัพธ์เพิ่มเติม";
+
+/* Tables */
+"Insert Table" = "แทรกตาราง";
+"Columns" = "คอลัมน์";
+"Rows" = "แถว";
+"Align Left" = "ชิดซ้าย";
+"Align Center" = "จัดกึ่งกลาง";
+"Align Right" = "ชิดขวา";
+"Resize Table" = "ปรับขนาดตาราง";
+"Delete Table" = "ลบตาราง";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora กำลังพยายามคัดลอกภาพที่แทรกใหม่ไปยังโฟลเดอร์ <code id='image-create-folder-target'></code> ตามการตั้งค่า YAML Front Matter หรือการตั้งค่าส่วนกลุ่ม แต่โฟลเดอร์เป้าหมายไม่มีอยู่ คุณต้องการสร้างหรือไม่?";
+"Create Folder" = "สร้างโฟลเดอร์";
+
+/* Math */
+"Edit" = "แก้ไข";
+"Delete Math" = "ลบสมการ";
+"Preview" = "ตัวอย่าง";
+
+/* Sidebar */
+"Articles" = "บทความ";
+"Outline" = "เค้าร่าง";
+"Files" = "ไฟล์";
+"Switch to File List view" = "เปลี่ยนเป็นมุมมองรายการไฟล์";
+"Switch to File Tree view" = "เปลี่ยนเป็นมุมมองโครงสร้างไฟล์";
+"Switch to Outline view" = "เปลี่ยนเป็นมุมมองเค้าร่าง";
+"Close sidebar" = "ปิดแถบด้านข้าง";
+"Loading" = "กำลังโหลด";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "โฟลเดอร์ที่เลือกมีไฟล์จำนวนมากเกินไป \nกรุณาเปลี่ยนเป็น <a id='switch-to-tree-on-oversize'>มุมมองโครงสร้างไฟล์</a> เพื่อประสิทธิภาพที่ดีขึ้น";
+"New File" = "ไฟล์ใหม่";
+"Unpin Outline Panel" = "ยกเลิกการยึดติดแผงเค้าร่าง";
+"Open Folder..." = "เปิดโฟลเดอร์...";
+"Action" = "การดำเนินการ";
+"Close Sidebar Menu" = "ปิดเมนูแถบด้านข้าง";
+"Reveal in Finder" = "แสดงใน Finder";
+"Reveal in File Explorer" = "แสดงใน File Explorer";
+"Refresh Folder" = "รีเฟรชโฟลเดอร์";
+"Sort" = "จัดเรียง";
+"Group By Folder" = "จัดกลุ่มตามโฟลเดอร์";
+"Sort Naturally (Ascending)" = "จัดเรียงตามธรรมชาติ (น้อยไปมาก)";
+"Sort Naturally (Descending)" = "จัดเรียงตามธรรมชาติ (มากไปน้อย)";
+"Sort by Name (Ascending)" = "จัดเรียงตามชื่อ (น้อยไปมาก)";
+"Sort by Modification Date (Ascending)" = "จัดเรียงตามวันที่แก้ไข (น้อยไปมาก)";
+"Sort by Name (Descending)" = "จัดเรียงตามชื่อ (มากไปน้อย)";
+"Sort by Modification Date (Descending)" = "จัดเรียงตามวันที่แก้ไข (มากไปน้อย)";
+"Location" = "ตำแหน่ง";
+"Switch File List/Tree View" = "สลับมุมมองรายการไฟล์/โครงสร้างไฟล์";
+"No Files Available" = "ไม่มีไฟล์ที่ใช้งานได้";
+"No Folder is Opened." = "ไม่มีโฟลเดอร์ที่เปิดอยู่";
+"Outline is Empty." = "เค้าร่างว่างเปล่า";
+
+/* Status Bar */
+"Toggle Sidebar" = "สลับแถบด้านข้าง";
+"Toggle Source Code Mode" = "สลับโหมดซอร์สโค้ด";
+"Exit Source Code Mode" = "ออกจากโหมดซอร์สโค้ด";
+
+"Table of Contents" = "สารบัญ";
+"Empty Diagram" = "แผนภูมิว่างเปล่า";
+"Input Math TeX here" = "ใส่สมการ Math TeX ที่นี่";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "ต้องการกำหนดคำอธิบายอ้างอิง <b>{0}</b> ด้วยไวยากรณ์ <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "ต้องการกำหนดลิงก์อ้างอิง <b>[{0}]</b> ด้วยไวยากรณ์ <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "กรุณากำหนดอ้างอิงภาพโดย \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "ไม่สามารถสร้างไฟล์";
+"Failed to create folder" = "ไม่สามารถสร้างโฟลเดอร์";
+"Failed to rename file" = "ไม่สามารถเปลี่ยนชื่อไฟล์";
+"Folder does not exist at %@" = "ไม่มีโฟลเดอร์ที่ %@";
+"File with the same name already exists at target path" = "มีไฟล์ที่มีชื่อเดียวกันอยู่แล้วในเส้นทางเป้าหมาย";
+"Apply to All" = "ใช้กับทั้งหมด";
+"Overwrite" = "เขียนทับ";
+"Stop" = "หยุด";
+"back to document" = "กลับไปยังเอกสาร";
+"Failed to load file" = "ไม่สามารถโหลดไฟล์";
+"Save File Failed!" = "บันทึกไฟล์ล้มเหลว!";
+"Cannot open folder {0}" = "ไม่สามารถเปิดโฟลเดอร์ {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "เนื้อหาของไฟล์ถูกเปลี่ยนแปลงโดยแอปพลิเคชันภายนอก โหลดเนื้อหาจากดิสก์ใหม่?";
+"Should continue moving and overwrite existing file(s) ?" = "ควรดำเนินการย้ายและเขียนทับไฟล์ที่มีอยู่หรือไม่?";
+
+"Rename to "{0}" ?" = "เปลี่ยนชื่อเป็น "{0}" ?";
+"Failed to rename from "{0}" to "{1}"" = "ไม่สามารถเปลี่ยนชื่อจาก "{0}" เป็น "{1}"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "อัพโหลดภาพ {0} ภาพสำเร็จ";
+"Failed to upload image. Error Message:" = "อัพโหลดภาพล้มเหลว ข้อความผิดพลาด:";
+"Failed to Copy Image to Target Folder." = "ไม่สามารถคัดลอกภาพไปยังโฟลเดอร์เป้าหมาย";
+"Select Container Folder" = "เลือกโฟลเดอร์ที่จะเก็บ";
+
+"Saved" = "บันทึกแล้ว";
+
+/* place holder in find & replace input */
+"search text" = "ค้นหาข้อความ";
+"replace with" = "แทนที่ด้วย";
+/* search option */
+"Case Sensitive" = "คำนึงถึงตัวพิมพ์ใหญ่-เล็ก";
+"Whole Word" = "คำเต็ม";
+
+"input image URL" = "ใส่ URL ของภาพ";
+"Select image from local file" = "เลือกภาพจากไฟล์ในเครื่อง";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "ไม่สามารถเปิดตำแหน่ง <code>$1</code>, คุณหมายถึง <a href='$3' target='_blank' target='_blank'>$2</a> หรือไม่?";
+
+"Finish Editing" = "เสร็จสิ้นการแก้ไข";
+
+"Revert advanced setting file to default one ?" = "ย้อนกลับไฟล์การตั้งค่าขั้นสูงเป็นค่าเริ่มต้นหรือไม่?";
+
+"Select Spell Check Language" = "เลือกภาษาตรวจสอบการสะกด";
+"Auto Detect Language" = "ตรวจจับภาษาอัตโนมัติ";
+"Disable Spell Check" = "ปิดใช้งานตรวจสอบการสะกด";
+"Global Setting…" = "การตั้งค่าทั่วไป...";
+"Dictionary file is missing to enable spellcheck support for %@." = "ไม่พบไฟล์พจนานุกรมสำหรับเปิดใช้งานการสนับสนุนตรวจสอบการสะกดสำหรับ %@.";
+"Install Language Support" = "ติดตั้งการสนับสนุนภาษา";
+"License Information" = "ข้อมูลใบอนุญาต";
+"Download" = "ดาวน์โหลด";
+"Install dictionary file only for Typora" = "ติดตั้งไฟล์พจนานุกรมเฉพาะสำหรับ Typora";
+"Spell Check (%@ unavailable)" = "ตรวจสอบการสะกด (%@ ไม่สามารถใช้งาน)";
+"Spell Check (%@ downloading)" = "ตรวจสอบการสะกด (%@ กำลังดาวน์โหลด)";
+"Download dictionary file for %@" = "ดาวน์โหลดไฟล์พจนานุกรมสำหรับ %@";
+"(Default spell check option)" = "(ตัวเลือกตรวจสอบการสะกดเริ่มต้น)";
+"Failed to load spellcheck module" = "ไม่สามารถโหลดโมดูลตรวจสอบการสะกด";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> ถูกเปิดใช้งาน";
+"You could turn it off from `View` menu." = "คุณสามารถปิดใช้งานจากเมนู `มุมมอง`";
+"The file is too large to render in Typora." = "ไฟล์ใหญ่เกินไป ไม่สามารถแสดงผลใน Typora";
+"Open in…" = "เปิดใน…";
+"Quick Look" = "แสดงตัวอย่าง";
+
+"Filter" = "กรอง";
+"No result found." = "ไม่พบผลลัพธ์";
+"Continue & Overwrite" = "ดำเนินการต่อและเขียนทับ";
+"The file is read-only, or you do not have right permissions to modify the file." = "ไฟล์นี้เป็นไฟล์อ่านอย่างเดียว หรือคุณไม่ได้รับสิทธิ์ในการแก้ไขไฟล์";
+
+"Learn Data Recovery" = "เรียนรู้การกู้คืนข้อมูล";
+"Auto refresh on Files Panel cannot be enabled." = "ไม่สามารถเปิดใช้งานการรีเฟรชอัตโนมัติในพาเนลไฟล์";
+"Delete Permanently" = "ลบถาวร";
+
+
+"Failed to upload images:" = "ไม่สามารถอัปโหลดรูปภาพ:";
+"Uploading in progress" = "กำลังอัปโหลด";
+"Successfully uploaded {0} images, {1} failed." = "อัปโหลดรูปภาพสำเร็จ {0} รูป, ไม่สำเร็จ {1} รูป";
+
+"You could undo this operation later via `Edit` → `Undo`." = "คุณสามารถยกเลิกการดำเนินการนี้ในภายหลังผ่านทาง `แก้ไข` → `เลิกทำ`";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "คุณสามารถกด <strong>⌘ + คลิก</strong> เพื่อเปิด <a href='#'>ลิงก์</a> หรือข้ามไปยังคำอธิบายเชิงอรรถ";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "คุณสามารถกด <strong>CTRL + คลิก</strong> เพื่อเปิด <a href='#'>ลิงก์</a> หรือข้ามไปยังคำอธิบายเชิงอรรถ";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> ได้เปิดใช้งานแล้ว";
+"You can right click titlebar to popup application menu." = "คุณสามารถคลิกขวาที่แถบชื่อเพื่อแสดงเมนูแอปพลิเคชัน";
+
+"Support Document" = "เอกสารสนับสนุน";
+
+"You are not supposed to edit or save this file." = "คุณไม่ควรแก้ไขหรือบันทึกไฟล์นี้";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "ไฟล์ในตำแหน่งนี้ (%@) ถูกจัดการโดย Typora และอาจถูกลบโดยอัตโนมัติ<br/>โปรดคัดลอกเนื้อหาไปยังไฟล์ใหม่เพื่อการแก้ไขต่อไป";
+
+"File does not exist at path %@." = "ไฟล์ไม่มีอยู่ในเส้นทาง %@";
+"File does not exist at path %@, do you want to create one at that path?" = "ไฟล์ไม่มีอยู่ในเส้นทาง %@ คุณต้องการสร้างไฟล์ในเส้นทางนั้นหรือไม่?";
+
+"No Results" = "ไม่พบผลลัพธ์";
+"Too many matches" = "ค้นหาตรงกันเยอะเกินไป";
+"Regular Expression" = "นิพจน์ปกติ";
+
+"Sort by Creation Date (Ascending)" = "เรียงลำดับตามวันที่สร้าง (จากน้อยไปมาก)";
+"Sort by Creation Date (Descending)" = "เรียงลำดับตามวันที่สร้าง (จากมากไปน้อย)";
+
+"code language" = "ภาษาโค้ด";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "ไม่สามารถเปลี่ยนชื่อจาก $1 เป็น $2 โปรดใช้ "File" → "Move To…" จากแถบเมนูแทน";
+"Markdown file" = "ไฟล์ Markdown";
+"TextBundle file" = "ไฟล์ TextBundle";
+"Images saved to TextBundle" = "รูปภาพที่บันทึกไว้ใน TextBundle";

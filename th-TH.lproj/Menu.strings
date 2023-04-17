@@ -1,0 +1,355 @@
+/* 
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+Thai translated by
+ Thanachart Monpassorn <nunf_2539@hotmail.com>
+*/
+
+/* Typora Menu */
+
+"About Typora" = "เกี่ยวกับ Typora";
+"Preferences" = "การตั้งค่า";
+"Check for Updates" = "ตรวจสอบการอัพเดต";
+"Services" = "บริการ";
+"Hide Typora" = "ซ่อน Typora";
+"Hide Others" = "ซ่อนอย่างอื่น";
+"Show All" = "แสดงทั้งหมด";
+"Quit Typora" = "ออกจาก Typora";
+
+/* File Menu */
+
+"File" = "ไฟล์";
+"New" = "ใหม่";
+"Open" = "เปิด";
+"Open Folder" = "เปิดโฟลเดอร์";
+"Reopen with Encoding" = "เปิดอีกครั้งด้วยการเข้ารหัส";
+"Auto" = "อัตโนมัติ";
+"Open Recent" = "เปิดไฟล์ล่าสุด";
+"Recent Locations" = "สถานที่ล่าสุด";
+"Clear Items" = "ล้างรายการ";
+"No Recent Files" = "ไม่มีไฟล์ล่าสุด";
+"Open Quickly" = "เปิดอย่างรวดเร็ว";
+"Open File Location" = "เปิดตำแหน่งไฟล์";
+"Reveal in Library" = "แสดงในคลังข้อมูล";
+"Reveal in File Tree" = "แสดงในโครงสร้างไฟล์";
+"Close" = "ปิด";
+"Save" = "บันทึก";
+"Save As" = "บันทึกเป็น";
+"Duplicate" = "ทำซ้ำ";
+"Rename" = "เปลี่ยนชื่อ";
+"Move To" = "ย้ายไปยัง";
+"Revert To" = "ย้อนกลับเป็น";
+"Browse All Versions" = "เรียกดูเวอร์ชันทั้งหมด";
+"Import" = "นำเข้า";
+"Export" = "ส่งออก";
+"Page Setup" = "ตั้งค่าหน้ากระดาษ";
+"Print" = "พิมพ์";
+
+/* Edit Menu */
+"Edit" = "แก้ไข";
+"Undo" = "เลิกทำ";
+"Redo" = "ทำซ้ำ";
+"Cut" = "ตัด";
+"Copy" = "คัดลอก";
+"Paste" = "วาง";
+"Copy as Markdown" = "คัดลอกเป็น Markdown";
+"Copy as HTML Code" = "คัดลอกเป็นโค้ด HTML";
+"Paste as Plain Text" = "วางเป็นข้อความธรรมดา";
+"Select All" = "เลือกทั้งหมด";
+"Select Line / Sentence" = "เลือกบรรทัด / ประโยค";
+"Select Styled Scope" = "เลือกขอบเขตที่มีสไตล์";
+"Select Word" = "เลือกคำ";
+"Delete" = "ลบ";
+"Delete Range" = "ลบช่วง";
+"Delete Word" = "ลบคำ";
+"Delete Styled Scope" = "ลบขอบเขตที่มีสไตล์";
+"Delete Line / Sentence" = "ลบบรรทัด / ประโยค";
+"Jump To" = "กระโดดไปยัง";
+"Jump to Top" = "กระโดดไปสู่ด้านบน";
+"Jump to Selection" = "กระโดดไปยังที่เลือก";
+"Jump to Bottom" = "กระโดดไปสู่ด้านล่าง";
+"Math Tools" = "เครื่องมือคณิตศาสตร์";
+"Refresh All Math Expressions" = "รีเฟรชนิพนธ์คณิตศาสตร์ทั้งหมด";
+"Image Tools" = "เครื่องมือรูปภาพ";
+"Insert Local Images" = "แทรกรูปภาพในเครื่อง";
+"Upload Local Images via iPic" = "อัปโหลดรูปภาพในเครื่องผ่าน iPic";
+"When Insert Local Image" = "เมื่อแทรกรูปภาพในเครื่อง";
+"Copy Image File to Folder" = "คัดลอกรูปภาพไปยังโฟลเดอร์";
+"Use Image Root Path" = "ใช้พาธรูปภาพหลัก";
+"Line Endings" = "การจบบรรทัด";
+"Windows Line Endings (CRLF)" = "การจบบรรทัดของ Windows (CRLF)";
+"Unix Line Endings (LF)" = "การจบบรรทัดของ Unix (LF)";
+"Find" = "ค้นหา";
+"Find Next" = "ค้นหาถัดไป";
+"Find Previous" = "ค้นหาก่อนหน้า";
+"Find and Replace" = "ค้นหาและแทนที่";
+"Replace" = "แทนที่";
+"Replace Next" = "แทนที่ถัดไป";
+"Spelling and Grammar" = "การสะกดคำและไวยากรณ์";
+"Check Document Now" = "ตรวจสอบเอกสารเดี๋ยวนี้";
+"Check Spelling While Typing" = "ตรวจสอบการสะกดคำขณะพิมพ์";
+"Check Grammar With Spelling" = "ตรวจสอบไวยากรณ์พร้อมการสะกดคำ";
+"Correct Spelling Automatically" = "แก้ไขการสะกดคำโดยอัตโนมัติ";
+"Substitutions" = "การแทนที่";
+"Smart Quotes" = "เครื่องหมายคำพูดอัจฉริยะ";
+"Smart Dashes" = "เส้นขีดอัจฉริยะ";
+"Text Replacement" = "การแทนที่ข้อความ";
+"Speech" = "การอ่านออกเสียง";
+"Start Speaking" = "เริ่มการอ่านออกเสียง";
+"Stop Speaking" = "หยุดการอ่านออกเสียง";
+
+/* Paragraph Menu */
+"Paragraph" = "ย่อหน้า";
+"Heading 1" = "หัวข้อ 1";
+"Heading 2" = "หัวข้อ 2";
+"Heading 3" = "หัวข้อ 3";
+"Heading 4" = "หัวข้อ 4";
+"Heading 5" = "หัวข้อ 5";
+"Heading 6" = "หัวข้อ 6";
+"Increase Heading Level" = "เพิ่มระดับหัวข้อ";
+"Decrease Heading Level" = "ลดระดับหัวข้อ";
+"Table" = "ตาราง";
+"Code Fences" = "ช่องโค้ด";
+"Math Block" = "บล็อกคณิตศาสตร์";
+"Quote" = "คำพูด";
+"Ordered List" = "รายการที่เรียงลำดับ";
+"Unordered List" = "รายการที่ไม่เรียงลำดับ";
+"Task List" = "รายการงาน";
+"Task Status" = "สถานะงาน";
+"Toggle Task Status" = "สลับสถานะงาน";
+"Mark as Complete" = "ทำเครื่องหมายว่าเสร็จสมบูรณ์";
+"Mark as Incomplete" = "ทำเครื่องหมายว่าไม่สมบูรณ์";
+"List Indentation" = "การเยื้องรายการ";
+"Indent" = "เยื้อง";
+"Outdent" = "ย่อหน้า";
+"Link Reference" = "อ้างอิงลิงก์";
+"Footnotes" = "อ้างอิงท้ายเรื่อง";
+"Horizontal Line" = "เส้นแนวนอน";
+"Table of Contents" = "สารบัญ";
+"YAML Front Matter" = "YAML ส่วนหน้า";
+
+/* Format Menu */
+"Format" = "รูปแบบ";
+"Strong" = "ตัวหนา";
+"Emphasis" = "ตัวเอียง";
+"Underline" = "ขีดเส้นใต้";
+"Code" = "โค้ด";
+"Inline Math" = "คณิตศาสตร์ในบรรทัด";
+"Strike" = "ขีดฆ่า";
+"Highlight" = "เน้น";
+"Superscript" = "ตัวยก";
+"Subscript" = "ตัวห้อย";
+"Comment" = "ความเห็น";
+"Hyperlink" = "ลิงก์";
+"Image" = "รูปภาพ";
+"Clear Format" = "ล้างรูปแบบ";
+
+/* View Menu */
+"View" = "มุมมอง";
+"New Tab" = "แท็บใหม่";
+"Source Code Mode" = "โหมดซอร์สโค้ด";
+"Focus Mode" = "โหมดโฟกัส";
+"Typewriter Mode" = "โหมดเครื่องพิมพ์ดีด";
+"Toggle Sidebar" = "สลับแถบข้าง";
+"Outline" = "เส้นกรอบ";
+"Articles" = "บทความ";
+"File Tree" = "โครงสร้างไฟล์";
+"Always on Top" = "อยู่บนสุดเสมอ";
+"Full Screen" = "เต็มหน้าจอ";
+"Show Status Bar" = "แสดงแถบสถานะ";
+"Toggle Fullscreen" = "สลับเต็มหน้าจอ";
+"Actual Size" = "ขนาดจริง";
+"Zoom In" = "ขยาย";
+"Zoom Out" = "ย่อ";
+"Switch Between Opened Documents" = "สลับระหว่างเอกสารที่เปิดอยู่";
+"Toggle DevTools" = "สลับเครื่องมือสำหรับนักพัฒนา";
+
+
+/* Themes Menu */
+"Themes" = "ธีม";
+
+/* Window Menu */
+"Window" = "หน้าต่าง";
+"Minimize" = "ย่อเล็ก";
+"Zoom" = "ซูม";
+"Bring All to Front" = "นำทั้งหมดมาข้างหน้า";
+
+/* Help Menu */
+"Help" = "วิธีใช้";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Credits" = "เครดิต";
+"Change Log" = "บันทึกการเปลี่ยนแปลง";
+"Website" = "เว็บไซต์";
+"Feedback" = "คำติชม";
+"About" = "เกี่ยวกับ";
+
+/* Touchbar */
+"Block Styles" = "รูปแบบบล็อก";
+"Inline Styles" = "รูปแบบในบรรทัด";
+"List Styles / Remove Block" = "รูปแบบรายการ / ลบบล็อก";
+"Exit Source Code Mode" = "ออกจากโหมดซอร์สโค้ด";
+"Toggle Source Code Mode" = "สลับโหมดซอร์สโค้ด";
+
+/* Extra Context Menu */
+"Table" = "ตาราง";
+"Add Row Above" = "เพิ่มแถวด้านบน";
+"Add Row Below" = "เพิ่มแถวด้านล่าง";
+"Delete Row" = "ลบแถว";
+"Add Column Before" = "เพิ่มคอลัมน์ด้านหน้า";
+"Add Column After" = "เพิ่มคอลัมน์ด้านหลัง";
+"Delete Column" = "ลบคอลัมน์";
+"Copy Table" = "คัดลอกตาราง";
+"Delete Table" = "ลบตาราง";
+"Insert Paragraph After" = "แทรกย่อหน้าหลัง";
+"Insert Paragraph Before" = "แทรกย่อหน้าก่อน";
+"Delete Code Block" = "ลบบล็อกโค้ด";
+"Copy as MathML" = "คัดลอกเป็น MathML";
+"Copy as Tex" = "คัดลอกเป็น Tex";
+"Copy Math" = "คัดลอกคณิตศาสตร์";
+"Reveal in Finder" = "แสดงใน Finder";
+"Open Link" = "เปิดลิงก์";
+"Reveal in Sidebar" = "แสดงในแถบข้าง";
+"Open in New Window" = "เปิดในหน้าต่างใหม่";
+"Copy File Path" = "คัดลอกเส้นทางไฟล์";
+"New File" = "ไฟล์ใหม่";
+"Rename" = "เปลี่ยนชื่อ";
+"New Folder" = "โฟลเดอร์ใหม่";
+
+/* Electron */
+"Learn Spelling" = "เรียนรู้การสะกด";
+"Copy / Paste As" = "คัดลอก / วางเป็น";
+"Math" = "คณิตศาสตร์";
+"Insert" = "แทรก";
+"Inspect Element" = "ตรวจสอบองค์ประกอบ";
+"Copy to MS Word" = "คัดลอกไปยัง MS Word";
+"Paragraph (before)" = "ย่อหน้า (ก่อน)";
+"Paragraph (after)" = "ย่อหน้า (หลัง)";
+
+"Search with Google" = "ค้นหาด้วย Google";
+"Search With…" = "ค้นหาด้วย…";
+
+/* Related Panel */
+"Open Failed" = "เปิดไม่สำเร็จ";
+"File or folder does not exist." = "ไฟล์หรือโฟลเดอร์ไม่มีอยู่";
+
+"Prettify Source Code" = "ปรับปรุงรหัสต้นฉบับ";
+"Copy '%@'" = "คัดลอก '%@'";
+"Copy to %@" = "คัดลอกไปยัง %@";
+"Copy Image to" = "คัดลอกภาพไปยัง";
+"Open Image Location" = "เปิดตำแหน่งภาพ";
+
+"Learn More" = "เรียนรู้เพิ่มเติม";
+"Whitespace and Line Breaks" = "ช่องว่างและการขึ้นบรรทัดใหม่";
+"Indent first line of paragraphs" = "เยื้องบรรทัดแรกของย่อหน้า";
+"Preserve single line break" = "เก็บการขึ้นบรรทัดใหม่เดี่ยว";
+"Visible <br/>" = "มองเห็น <br/>";
+
+"Save All" = "บันทึกทั้งหมด";
+"New Window" = "หน้าต่างใหม่";
+"Reopen Closed File" = "เปิดไฟล์ที่ปิดอีกครั้ง";
+
+"Global Image Settings" = "การตั้งค่าภาพส่วนกลุ่ม";
+"Smart Punctuation" = "เครื่องหมายวรรคฉลาด";
+"Convert on Input" = "แปลงเมื่อป้อน";
+"Convert on Rendering" = "แปลงเมื่อแสดงผล";
+"Remap Unicode Punctuation on Parse" = "แมปใหม่เครื่องหมายวรรค Unicode ในการวิเคราะห์";
+"More Options" = "ตัวเลือกเพิ่มเติม";
+
+"HTML Block" = "บล็อก HTML";
+"Delete Paragraph / Block" = "ลบย่อหน้า / บล็อก";
+"Delete %@" = "ลบ %@";
+"Play" = "เล่น";
+"Pause" = "หยุดชั่วคราว";
+
+"Spell Check" = "ตรวจสอบการสะกด";
+"Unlearn Spelling" = "ยกเลิกการเรียนรู้การสะกด";
+"Properties" = "คุณสมบัติ";
+
+"Search" = "ค้นหา";
+"Copy without Theme Styling" = "คัดลอกโดยไม่มีรูปแบบธีม";
+"Recent Files" = "ไฟล์ล่าสุด";
+"File Results" = "ผลลัพธ์ของไฟล์";
+
+"Insert Table" = "แทรกตาราง";
+"Insert Image" = "แทรกภาพ";
+"Allow Magnification" = "อนุญาตการขยาย";
+
+"Move Row Up" = "ย้ายแถวขึ้น";
+"Move Row Down" = "ย้ายแถวลง";
+"Move Column Left" = "ย้ายคอลัมน์ไปทางซ้าย";
+"Move Column Right" = "ย้ายคอลัมน์ไปทางขวา";
+
+"Zoom Image" = "ขยายภาพ";
+"Zoom Image to %@" = "ขยายภาพเป็น %@";
+
+"Copy as Plain Text" = "คัดลอกเป็นข้อความธรรมดา";
+
+"Selection" = "การเลือก";
+"Start Speaking" = "เริ่มพูด";
+"Stop Speaking" = "หยุดพูด";
+"Check Updates" = "ตรวจสอบการอัปเดต";
+
+"HTML (without Styles)" = "HTML (ไม่มีรูปแบบ)";
+
+"Highlight Current Header" = "เน้นหัวข้อปัจจุบัน";
+"Expand All" = "ขยายทั้งหมด";
+"Collapse All" = "ย่อทั้งหมด";
+"Collapsible Outline" = "โครงร่างที่พับได้";
+"Flat Outline" = "โครงร่างแบบแผ่น";
+"Articles (List View)" = "บทความ (มุมมองรายการ)";
+"File Tree (Tree View)" = "โครงสร้างไฟล์ (มุมมองต้นไม้)";
+"Filter" = "ตัวกรอง";
+
+"Upload Image" = "อัปโหลดภาพ";
+"Upload All Local Images" = "อัปโหลดรูปภาพในเครื่องทั้งหมด";
+"Open Image in Browser" = "เปิดภาพในเบราว์เซอร์";
+"Copy Image Content" = "คัดลอกเนื้อหาของภาพ";
+
+"More Actions" = "การกระทำเพิ่มเติม";
+"Get Info" = "รับข้อมูล";
+
+"Export with Previous" = "ส่งออกพร้อมกับข้อมูลก่อนหน้า";
+"Export and Overwrite with Previous" = "ส่งออกและเขียนทับกับข้อมูลก่อนหน้า";
+
+"Emoji and Symbols" = "อีโมจิและสัญลักษณ์";
+
+"Insert Final New Line On Save" = "แทรกบรรทัดใหม่สุดท้ายเมื่อบันทึก";
+"Hyperlink Actions" = "การกระทำของการเชื่อมโยง";
+"Copy Link Address" = "คัดลอกที่อยู่ลิงก์";
+
+"Click" = "คลิก";
+
+"Export Setting" = "การตั้งค่าการส่งออก";
+
+"My License" = "ใบอนุญาตของฉัน";
+"Registration / Activation" = "การลงทะเบียน / การเปิดใช้งาน";
+
+"Select Paragraph / Block" = "เลือกย่อหน้า / บล็อก";
+
+"Delete Selected" = "ลบที่เลือก";
+"Rename or Move Image to" = "เปลี่ยนชื่อหรือย้ายรูปภาพไปที่";
+"Move to %@" = "ย้ายไปที่ %@";
+"Delete Image" = "ลบรูปภาพ";
+"Delete Image File" = "ลบไฟล์รูปภาพ";
+"Reload All Images" = "โหลดรูปภาพทั้งหมดใหม่";
+
+"Save %@ As" = "บันทึก %@ เป็น";
+
+"Copy All Images to" = "คัดลอกรูปภาพทั้งหมดไปที่";
+"Move All Images to" = "ย้ายรูปภาพทั้งหมดไปที่";
+
+"Copy as Image" = "คัดลอกเป็นรูปภาพ";
+
+"Switch Image Syntax" = "เปลี่ยนไวยากรณ์รูปภาพ";
+"Markdown Style" = "รูปแบบ Markdown";
+"HTML Style" = "รูปแบบ HTML";
+
+"Code Tools" = "เครื่องมือโค้ด";
+"Copy Code Content" = "คัดลอกเนื้อหาของโค้ด";
+"Auto Indent Selected Code" = "เยื้องโค้ดที่เลือกอัตโนมัติ";
+"Auto Indent Whole Code" = "เยื้องโค้ดทั้งหมดอัตโนมัติ";

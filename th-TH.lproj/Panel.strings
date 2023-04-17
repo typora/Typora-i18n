@@ -1,0 +1,533 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+
+/*
+Thai translated by
+ Thanachart Monpassorn <nunf_2539@hotmail.com>
+*/
+
+/* Preference Panel */
+"Preferences" = "การตั้งค่า";
+
+/* General Panel */
+"General" = "ทั่วไป";
+"Window Style" = "รูปแบบหน้าต่าง";
+"Classic" = "คลาสสิก";
+"Seamless" = "ไม่มีรอยต่อ";
+"Seamless window only support OS X later than 10.10." = "หน้าต่างที่ไม่มีรอยต่อรองรับเฉพาะ OS X ที่สูงกว่า 10.10";
+"Themes" = "ธีม";
+"Open Theme Folder" = "เปิดโฟลเดอร์ธีม";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "โปรดตรวจสอบ `ช่วยเหลือ`->`เริ่มต้นอย่างรวดเร็ว` สำหรับคำอธิบายสั้น ๆ สามารถเยี่ยมชม http://theme.typora.io เพื่อรับธีมเพิ่มเติมหรือคำแนะนำ";
+"Word Count" = "นับคำ";
+"Always Show Word Count" = "แสดงจำนวนคำตลอดเวลา";
+"Font Size" = "ขนาดตัวอักษร";
+"Auto ( Recommended )" = "อัตโนมัติ (แนะนำ)";
+"Customized" = "ปรับแต่ง";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "หากใช้ขนาดตัวอักษรที่ปรับแต่ง ขนาดตัวอักษรที่แท้จริงจะขึ้นอยู่กับขนาดตัวอักษรพื้นฐานและรูปแบบ css";
+"Left Panel" = "แผงซ้าย";
+"Show Outline Panel by Default" = "แสดงแผงเส้นกระดาษเป็นค่าเริ่มต้น";
+"Collapsible Outline on Left Panel" = "แผงเส้นกระดาษที่สามารถยุบได้บนแผงซ้าย";
+"Save without asking when\nswitch files on side panel" = "บันทึกโดยไม่ถามเมื่อ\nสลับไฟล์บนแผงด้านข้าง";
+"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "ไฟล์ที่แก้ไขจะถูกบันทึกโดยไม่ถามเมื่อสลับไฟล์ในแผงซ้าย \nเมื่อ "ถามเพื่อเก็บการเปลี่ยนแปลงเมื่อปิดเอกสาร" ถูกปิดในการตั้งค่าระบบ ตัวเลือกนี้จะเปิดใช้งานตลอดเวลา";
+"Language" = "ภาษา";
+"System Language" = "ภาษาระบบ";
+
+/* Editor Panel */
+"Editor" = "ตัวแก้ไข";
+"Indent Size on Save" = "ขนาดเยื้องเมื่อบันทึก";
+"only apply to quotes and lists created from menu bar or hybrid view" = "ใช้เฉพาะกับคำพูดและรายการที่สร้างจากแถบเมนูหรือมุมมองผสม";
+"Trigger Autocomplete without ESC key for" = "เรียกใช้งานการค้นหาโดยไม่ต้องใช้ปุ่ม ESC สำหรับ";
+"Emoji (e.g. :smile:)" = "อีโมจิ (เช่น :smile:)";
+"Images Insert" = "แทรกรูปภาพ";
+"Use relative path if possible" = "ใช้เส้นทางสัมพันธ์หากเป็นไปได้";
+"Auto Pair" = "คู่อัตโนมัติ";
+"Auto pair brackets and quotes" = "จับคู่วงเล็บและเครื่องหมายคำพูดอัตโนมัติ";
+"Auto pair common Markdown syntax" = "จับคู่ไวยากรณ์ Markdown ทั่วไปอัตโนมัติ";
+"Live Rendering" = "การแสดงผลแบบสด";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "แสดงต้นทางสำหรับบล็อกง่าย\n(รวมถึงหัวข้อ ฯลฯ) เมื่อโฟกัส";
+"Default Copy Behavior" = "พฤติกรรมการคัดลอกเริ่มต้น";
+"Copy Markdown source as plain text" = "คัดลอกแหล่งที่มาของ Markdown เป็นข้อความธรรมดา";
+"Typewriter Mode" = "โหมดเครื่องพิมพ์ดีด";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "ให้คาเร็ตอยู่กลางหน้าจอเสมอ\nเมื่อเปิดใช้งานโหมดเครื่องพิมพ์ดีด";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(การตั้งค่าต่อไปนี้จะถูกใช้หลังจากเริ่มต้นใหม่)";
+"Syntax Support" = "การสนับสนุนไวยากรณ์";
+"Inline Math (e.g: $\LaTeX$)" = "คณิตศาสตร์แบบบรรทัด (เช่น: $\LaTeX$)";
+"Subscript (e.g: H2O)" = "ตัวห้อย (เช่น: H2O)";
+"Superscript (e.g: X^2^)" = "ตัวยก (เช่น: X^2^)";
+"Highlight (e.g: ==key==)" = "เน้นข้อความ (เช่น: ==key==)";
+"Diagrams" = "แผนภูมิ";
+"(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart และ Mermaid)";
+"Syntax Preference" = "การตั้งค่าไวยากรณ์";
+"(only applies to styles created from menubar or hybrid view)" = "(ใช้เฉพาะกับสไตล์ที่สร้างจากแถบเมนูหรือมุมมองผสม)";
+"Strict Mode" = "โหมดเข้มงวด";
+"(more strict to GFM spec)" = "(เข้มงวดมากขึ้นตามข้อกำหนด GFM)";
+"Heading Style" = "สไตล์หัวข้อ";
+"Unordered List" = "รายการที่ไม่มีลำดับ";
+"Ordered List" = "รายการที่มีลำดับ";
+"Code Fences" = "กล่องโค้ด";
+"Display line numbers for code fences" = "แสดงเลขบรรทัดสำหรับกล่องโค้ด";
+"Math Blocks" = "บล็อกคณิตศาสตร์";
+"Auto Numbering Math Equations" = "การกำหนดเลขที่อัตโนมัติสำหรับสมการคณิตศาสตร์";
+
+/* Security Panel */
+"Security" = "ความปลอดภัย";
+"Enable Debug" = "เปิดใช้งานโหมดดีบัก";
+"Send Anonymous Usage Info" = "ส่งข้อมูลการใช้งานแบบไม่ระบุชื่อ";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "ต้องใช้ Pandoc เพื่อดำเนินการต่อ...";
+"Follow instructions to install Pandoc" = "ปฏิบัติตามคำแนะนำเพื่อติดตั้ง Pandoc";
+"Cancel" = "ยกเลิก";
+
+/* Pandoc Import Panel */
+"Importing..." = "กำลังนำเข้า...";
+"Importing in progress..." = "กำลังนำเข้าอยู่...";
+"Converting file with Pandoc. This may take some time." = "กำลังแปลงไฟล์ด้วย Pandoc นี้อาจใช้เวลาสักครู่";
+"Abort" = "ยกเลิก";
+
+/* Pandoc Export Panel */
+"Exporting..." = "กำลังส่งออก...";
+"Exporting in progress..." = "กำลังส่งออกอยู่...";
+"Converting file with Pandoc. This may take some time." = "กำลังแปลงไฟล์ด้วย Pandoc นี้อาจใช้เวลาสักครู่";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "ต้องใช้ Pandoc ในการนำเข้ารูปแบบไฟล์เหล่านี้";
+"Check help->Install and use Pandoc from menubar for detail" = "ตรวจสอบ help->Install and use Pandoc จากแถบเมนูบาร์เพื่อดูรายละเอียด";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "การนำเข้าหรือบางฟีเจอร์การส่งออกต้องการ <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) ติดตั้งไว้";
+"Follow Instructions to Install/Update Pandoc" = "ปฏิบัติตามคำแนะนำเพื่อติดตั้ง/อัปเดต Pandoc";
+"Export Failed" = "การส่งออกล้มเหลว";
+"Import Failed" = "การนำเข้าล้มเหลว";
+"Generated Image too Large" = "ภาพที่สร้างมีขนาดใหญ่เกินไป";
+"Failed to export file to <em>{0}</em>" = "การส่งออกไฟล์ล้มเหลวไปยัง <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "การนำเข้าไฟล์ล้มเหลวจาก <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "ไม่มีไฟล์ที่อยู่ที่ <em>{0}</em>";
+"Export to..." = "ส่งออกไปยัง...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "คุณต้องการบันทึกการเปลี่ยนแปลงที่ทำกับเอกสารนี้หรือไม่?<br> การเปลี่ยนแปลงของคุณจะสูญหายหากคุณไม่บันทึก";
+"[Warning] Failed to attach bookmark for PDF file." = "[คำเตือน] ไม่สามารถแนบบุ๊กมาร์กไฟล์ PDF ได้";
+"Dark Theme not support" = "ไม่รองรับธีมมืด";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "ขออภัย รุ่นปัจจุบันของ Typora ไม่สามารถพิมพ์สีพื้นหลังในไฟล์ PDF ที่ส่งออกได้ ดังนั้นธีมมืดยังไม่รองรับสำหรับการส่งออกเป็นไฟล์ PDF \nโปรดเลือกธีมสว่างหรือคลิก \"พิมพ์ด้วยธีมเริ่มต้น\"";
+"Print with default theme" = "พิมพ์ด้วยธีมเริ่มต้น";
+"Export to PDF successfully." = "ส่งออกเป็นไฟล์ PDF สำเร็จ";
+"Converting file using Pandoc. This may take some time." = "กำลังแปลงไฟล์โดยใช้ Pandoc นี้อาจใช้เวลาสักครู่";
+"Exporting file using Pandoc. This may take some time." = "กำลังส่งออกไฟล์โดยใช้ Pandoc นี้อาจใช้เวลาสักครู่";
+
+"Uploading in progress…" = "กำลังอัปโหลด...";
+"Do not show this again" = "ไม่ต้องแสดงอีก";
+
+/* Word Count */
+"Minute" = "นาที";
+"Line" = "บรรทัด";
+"Word" = "คำ";
+"Character" = "อักขระ";
+
+"Minutes" = "นาที";
+"Lines" = "บรรทัด";
+"Words" = "คำ";
+"Characters" = "อักขระ";
+"In Selection" = "ในส่วนที่เลือก";
+"Panel" = "แผง";
+
+/* Windows Preferences Panel*/
+"Appearance" = "การแสดงผล";
+"System Native" = "ระบบ Native";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(ใช้งานหลังจากทำการรีสตาร์ท)";
+"Status Bar" = "แถบสถานะ";
+"Show status bar" = "แสดงแถบสถานะ";
+"Save & Recover" = "บันทึกและกู้คืน";
+"Auto Save" = "บันทึกอัตโนมัติ";
+"Recover Unsaved Drafts" = "กู้คืนแบบร่างที่ยังไม่ได้บันทึก";
+"Emoji Autocomplete" = "อัตโนมัติเติมอีโมจิ";
+"Trigger by ESC key" = "เรียกใช้ด้วยปุ่ม ESC";
+"Trigger automatically" = "เรียกใช้โดยอัตโนมัติ";
+"Default Line Ending" = "ตัวสิ้นสุดบรรทัดเริ่มต้น";
+"Line ending for new file" = "ตัวสิ้นสุดบรรทัดสำหรับไฟล์ใหม่";
+"Spell Check" = "ตรวจสอบการสะกดคำ";
+"Auto correct spelling" = "การแก้ไขการสะกดคำอัตโนมัติ";
+"System" = "ระบบ";
+"Privacy" = "ความเป็นส่วนตัว";
+"Developer" = "นักพัฒนา";
+"Update" = "อัปเดต";
+"Check Updates" = "ตรวจสอบการอัปเดต";
+"Check updates automatically" = "ตรวจสอบการอัปเดตโดยอัตโนมัติ";
+"Advanced Settings" = "การตั้งค่าขั้นสูง";
+"Open Advanced Settings" = "เปิดการตั้งค่าขั้นสูง";
+"Reset Advanced Settings" = "รีเซ็ตการตั้งค่าขั้นสูง";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "ฟังก์ชั่นนี้ต้องการติดตั้ง iPic เวอร์ชันล่าสุด";
+"Get iPic" = "รับ iPic";
+"Cannot Continue…" = "ไม่สามารถดำเนินการต่อได้...";
+"This feature require macOS >= 10.11" = "ฟีเจอร์นี้ต้องการ macOS เวอร์ชัน >= 10.11";
+"One More Step" = "ขั้นตอนถัดไป";
+"Notice" = "แจ้งให้ทราบ";
+
+"%d Images Failed to Upload." = "อัปโหลดรูปภาพ %d รูปล้มเหลว";
+"%d Succeeded," = "%d สำเร็จ, ";
+"Enable this feature on preferences panel" = "เปิดใช้งานฟีเจอร์นี้ในแผงการตั้งค่า";
+"The option %@ must be enabled first to automatically upload images." = "ตัวเลือก %@ ต้องเปิดใช้งานก่อนที่จะสามารถอัปโหลดรูปภาพโดยอัตโนมัติได้";
+"%@ is a file, not a directory" = "%@ เป็นไฟล์ไม่ใช่โฟลเดอร์";
+"Copy Images To…" = "คัดลอกรูปภาพไปยัง...";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora กำลังพยายามคัดลอกรูปภาพที่แทรกล่าสุดไปยังโฟลเดอร์ %@ ตามการตั้งค่า YAML Front Matter หรือการตั้งค่าโลกของคุณ แต่โฟลเดอร์เป้าหมายไม่มีอยู่ ต้องการสร้างเดี๋ยวนี้หรือไม่?";
+"Create Folder and Continue" = "สร้างโฟลเดอร์และดำเนินการต่อไป";
+"Document must be saved first" = "ต้องบันทึกเอกสารก่อน";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora จะคัดลอกรูปภาพที่แทรกใหม่ไปยังโฟลเดอร์ตามเส้นทางสัมพันธ์ที่เลือก ดังนั้นโปรดบันทึกไฟล์ก่อน";
+"Open Operation Failed" = "การดำเนินการเปิดล้มเหลว";
+
+"Support Documentation" = "เอกสารสนับสนุน";
+
+"Markdown File" = "ไฟล์ Markdown";
+"Plain Text File" = "ไฟล์ข้อความธรรมดา";
+"All Files" = "ไฟล์ทั้งหมด";
+"All Supported Formats" = "รูปแบบที่รองรับทั้งหมด";
+"Discard Changes" = "ละทิ้งการเปลี่ยนแปลง";
+"Discard" = "ละทิ้ง";
+
+"Menu" = "เมนู";
+"Back" = "กลับ";
+
+"Contact" = "ติดต่อเรา";
+"Open From..." = "เปิดจาก...";
+"Import..." = "นำเข้า...";
+"Recent Documents" = "เอกสารล่าสุด";
+"Search for" = "ค้นหา";
+"Clear Recent Documents" = "ลบเอกสารล่าสุด";
+"File Name" = "ชื่อไฟล์";
+"Path" = "พาธ";
+"Export As..." = "ส่งออกเป็นไฟล์...";
+"More Formats" = "รูปแบบอื่นๆ";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "รูปแบบไฟล์ในส่วน 'รูปแบบอื่นๆ' ต้องการ <a class='open-pandoc-guide'>ติดตั้ง Pandoc</a> ก่อน";
+"Something is Wrong…" = "มีบางอย่างผิดพลาด...";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>รายงานข้อบกพร่องให้เรา</a></li><li><a href='https://support.typora.io/Version-Control/'>กู้คืนเนื้อหาที่สูญหาย</a></li></ul>" = "บันทึกเนื้อหาล้มเหลวเนื่องจากสาเหตุใดสาเหตุหนึ่ง<br/>คุณสามารถคัดลอกเนื้อหาไปยังหน้าต่าง Typora ใหม่แล้วบันทึก<br/>เรียนรู้เพิ่มเติมเกี่ยวกับ:<ul><li><a href='https://support.typora.io/Report-Bugs/'>รายงานข้อบกพร่องให้เรา</a></li><li><a href='https://support.typora.io/Version-Control/'>กู้คืนเนื้อหาที่สูญหาย</a></li></ul>";
+"Copy Content" = "คัดลอกเนื้อหา";
+
+
+"Total" = "รวม";
+"Word count only support OS X later than 10.10." = "การนับคำเฉพาะรองรับ OS X รุ่นที่ 10.10 หรือใหม่กว่า";
+"Indent Size for Code" = "ขนาดการเยื้องสำหรับโค้ด";
+"Auto wrap long lines" = "ขึ้นบรรทัดใหม่โดยอัตโนมัติเมื่อมีบรรทัดยาว";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "ขออภัย เวอร์ชันปัจจุบันของ Typora ไม่สามารถพิมพ์สีพื้นหลังได้\nดังนั้นธีมสีเข้มยังไม่ได้รับการสนับสนุนในการพิมพ์\n\nโปรดเลือกธีมสีอ่อนหรือส่งออกเอกสารนี้เป็นไฟล์ PDF";
+"Export to PDF" = "ส่งออกเป็นไฟล์ PDF";
+"Pretty indentation" = "การเยื้องที่สวยงาม";
+"Update markdown reference for this image" = "อัปเดตการอ้างอิง markdown สำหรับภาพนี้";
+
+"No special action" = "ไม่มีการดำเนินการพิเศษ";
+"Copy image to current folder (./)" = "คัดลอกภาพไปยังโฟลเดอร์ปัจจุบัน (./)";
+"Copy image to ./assets" = "คัดลอกภาพไปยัง ./assets";
+"Copy image to ./${filename}.assets" = "คัดลอกภาพไปยัง ./${filename}.assets";
+"Apply above rules to local images" = "ใช้กฎดังกล่าวกับภาพที่อยู่ภายในเครื่อง";
+"Apply above rules to online images" = "ใช้กฎดังกล่าวกับภาพที่อยู่ออนไลน์";
+"Allow upload images automatically based on YAML settings" = "อนุญาตให้อัพโหลดภาพโดยอัตโนมัติตามการตั้งค่า YAML";
+
+"Learn More" = "เรียนรู้เพิ่มเติม";
+"Whitespace / Line Break" = "ช่องว่าง / ตัวขึ้นบรรทัดใหม่";
+"When Writing" = "เมื่อเขียน";
+"Export / Print" = "ส่งออก / พิมพ์";
+"Preserve sequential whitespace and single line break" = "เก็บรักษาช่องว่างติดต่อกันและตัวขึ้นบรรทัดใหม่เดียว";
+"Ignore sequential whitespace and single line break" = "ไม่สนใจช่องว่างติดต่อกันและตัวขึ้นบรรทัดใหม่เดียว";
+
+"Quit" = "ออก";
+"Quit Typora when last window is closed" = "ออกจาก Typora เมื่อหน้าต่างสุดท้ายถูกปิด";
+"On Launch" = "เมื่อเปิดโปรแกรม";
+"Open new file" = "เปิดไฟล์ใหม่";
+"Restore last closed folders" = "กู้คืนโฟลเดอร์ที่ปิดล่าสุด";
+"Restore last closed files and folders" = "กู้คืนไฟล์และโฟลเดอร์ที่ปิดล่าสุด";
+"Open custom folder" = "เปิดโฟลเดอร์ที่กำหนดเอง";
+"Select custom folder" = "เลือกโฟลเดอร์ที่กำหนดเอง";
+"This option may be overridden by "Close windows when quitting an application" in System Preferences" = "ตัวเลือกนี้อาจถูกข้ามไปด้วย "ปิดหน้าต่างเมื่อออกจากแอปพลิเคชัน" ในการตั้งค่าระบบ";
+
+"Ignore" = "ไม่สนใจ";
+"Choose Default Folder" = "เลือกโฟลเดอร์เริ่มต้น";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: ป้อนขีดล่างหรือเครื่องหมายคำพูด ASCII แล้วแปลงและบันทึกเป็นเครื่องหมายคำพูดโค้งหรือขีดล่าง Unicode <br/><strong>Convert on Rendering</strong>: ป้อนและบันทึกเป็นขีดล่างหรือเครื่องหมายคำพูด ASCII และแสดงผลเป็นเครื่องหมายคำพูดโค้งหรือขีดล่าง Unicode</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → link</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>รู้จักเครื่องหมายวรรคตอน Unicode เหมือนกับ ASCII เมื่อแยกวรรคตอน markdown เช่น:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → link</pre> ถ้าเปิดใช้งานการแปลงเครื่องหมายคำพูด/ขีดล่างอัจฉริยะเมื่อป้อน จะเปิดใช้งานโดยอัตโนมัติ<div>";
+
+"Copy image to custom folder" = "คัดลอกภาพไปยังโฟลเดอร์ที่กำหนดเอง";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (${filename} representing for currents filename.)" = "โปรดระบุพาธสัมพัทธ์ถึงโฟลเดอร์ปัจจุบันที่เริ่มต้นด้วย './' หรือ '../' หรือพาธแบบสมบูรณ์ (${filename} แทนชื่อไฟล์ปัจจุบัน)";
+"Restore to previous setting" = "คืนค่าก่อนหน้า";
+"Folder not exist at %@, please input another path." = "ไม่มีโฟลเดอร์ที่ %@, โปรดระบุพาธอื่น";
+"Please input a folder path." = "โปรดระบุพาธของโฟลเดอร์";
+"Cannot use root path." = "ไม่สามารถใช้พาธรากได้";
+
+"Get Themes" = "รับธีม";
+"File/directory already exists at target path." = "ไฟล์ / โฟลเดอร์มีอยู่แล้วในตำแหน่งเป้าหมาย";
+"Keep Both" = "เก็บทั้งสอง";
+"Are you sure you want to move %@?" = "คุณแน่ใจหรือว่าต้องการย้าย %@?";
+
+"Are you sure you want to delete %@?" = "คุณแน่ใจหรือว่าต้องการลบ %@?";
+"You can restore from the Trash." = "คุณสามารถกู้คืนได้จากถังขยะ";
+
+"Reset All Dialog Warnings" = "รีเซ็ตการเตือนกล่องโต้ตอบทั้งหมด";
+"Dialogs" = "กล่องโต้ตอบ";
+"Dialog warnings have been reset." = "รีเซ็ตการเตือนกล่องโต้ตอบเรียบร้อยแล้ว";
+
+"Operation Failed" = "ดำเนินการไม่สำเร็จ";
+"Failed to move target file or folder to trash" = "ไม่สามารถย้ายไฟล์หรือโฟลเดอร์เป้าหมายไปยังถังขยะได้";
+
+"Undo %@" = "ยกเลิกการทำ %@";
+"Rename %@" = "เปลี่ยนชื่อ %@";
+"Copy %@" = "คัดลอก %@";
+"Move %@" = "ย้าย %@";
+"Delete %@" = "ลบ %@";
+
+"Turn off Typewriter / Focus Mode" = "ปิดโหมดเครื่องพิมพ์ / โหมดโฟกัส";
+"Typewriter / Focus Mode have been turned off." = "โหมดเครื่องพิมพ์ / โหมดโฟกัสถูกปิดแล้ว";
+
+"Reading Speed" = "ความเร็วในการอ่าน";
+"Auto" = "อัตโนมัติ";
+"words / min" = "คำ / นาที";
+
+"Reset to Default" = "รีเซ็ตเป็นค่าเริ่มต้น";
+"120 words/minute (Slow)" = "120 คำ / นาที (ช้า)";
+"240 words/minute (Medium)" = "240 คำ / นาที (ปานกลาง)";
+"382 words/minute (Fast)" = "382 คำ / นาที (เร็ว)";
+
+"Copy and update image source to…" = "คัดลอกและอัปเดตต้นฉบับรูปภาพไปยัง...";
+"Updater" = "ตัวอัปเดต";
+"Install Updates ?" = "ติดตั้งการอัปเดต ?";
+"Quit and Install" = "ออกและติดตั้ง";
+"Download failed" = "ดาวน์โหลดไม่สำเร็จ";
+"Downloading Updates…" = "กำลังดาวน์โหลดการอัปเดต...";
+"Checking Updates…" = "กำลังตรวจสอบการอัปเดต...";
+"Check Update Failed" = "ตรวจสอบการอัปเดตไม่สำเร็จ";
+"You're up to date!" = "คุณมีเวอร์ชั่นล่าสุดแล้ว!";
+"Latest version is $1, your version is $2" = "เวอร์ชั่นล่าสุดคือ $1 และเวอร์ชั่นของคุณคือ $2";
+"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "ตัวเลือกเหล่านี้สามารถเปลี่ยนแปลงได้ภายใต้เมนู "Edit→Whitespace and Line Breaks"";
+"Auto escape image URL when insert" = "การหลีกเลี่ยง URL รูปภาพอัตโนมัติเมื่อแทรกรูปภาพ";
+"สำหรับตัวอย่าง หากคุณแทรกไฟล์ที่ 'img/example file.png' มันจะกลายเป็น 'img/example%20file.png' ให้เปิดใช้งานสำหรับความเข้ากันได้ดีกับเครื่องมือ Markdown อื่น ๆ หรือปิดใช้งานสำหรับความอ่านง่าย";
+"Check updates automatically" = "ตรวจสอบการอัปเดตอัตโนมัติ";
+"Skip This Version" = "ข้ามเวอร์ชันนี้";
+"Remind Me Later" = "เตือนฉันในภายหลัง";
+"Download Update" = "ดาวน์โหลดการอัปเดต";
+"New version available." = "มีเวอร์ชันใหม่ให้ใช้งาน";
+
+"When copy / export as HTML (without style)" = "เมื่อคัดลอก / ส่งออกเป็น HTML (โดยไม่มีสไตล์)";
+"Use Rendered SVG" = "ใช้ SVG ที่แสดงผล";
+"Use LaTeX Source" = "ใช้แหล่งที่มา LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>มีผลเมื่อส่งออกเป็น HTML (โดยไม่มีสไตล์) หรือคัดลอกเป็นรหัส HTML หรือคัดลอกโดยไม่มีสไตล์ธีม<br/>เมื่อเลือก<strong>ใช้แหล่งที่มา LaTeX</strong> Typora จะใส่แหล่งที่มา LaTeX ดิบ (เช่น $X^2$),<br/>เมื่อเลือก<strong>ใช้ SVG ที่แสดงผล</strong> SVG ที่แสดงผลจะถูกใช้ หากคุณวางลงในแอปอื่น SVG อาจไม่ได้รับการสนใจ</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "ฟังก์ชันนำเข้าและรูปแบบการส่งออกหลายรูปแบบต้องการให้ติดตั้ง Pandoc (≥%@)";
+"Do not show this message again" = "อย่าแสดงข้อความนี้อีกครั้ง";
+
+"Page Break Between Top Headings" = "ขั้นตอนการแบ่งหน้าระหว่างหัวเรื่องสูงสุด";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to hi@typora.io to help us fix this error." = "ขออภัย เกิดข้อผิดพลาดบางอย่าง ข้อความที่กำลังเขียนปัจจุบันถูกคัดลอกไปยังคลิปบอร์ด คุณสามารถรายงานสิ่งนี้ไปที่ hi@typora.io เพื่อช่วยให้เราแก้ไขข้อผิดพลาดนี้";
+"Try Recovery" = "ลองคืนค่า";
+"Other Options for Data Recovery" = "ตัวเลือกอื่น ๆ สำหรับการกู้คืนข้อมูล";
+
+"When Insert" = "เมื่อแทรก";
+"Upload image" = "อัปโหลดรูปภาพ";
+"e.g: %@" = "เช่น: %@";
+"Test Uploader" = "ทดสอบตัวอัปโหลด";
+"Validating" = "กำลังตรวจสอบ";
+"Validation Failed" = "ตรวจสอบไม่ผ่าน";
+"Validation Succeed" = "ตรวจสอบสำเร็จ";
+"Testing image uploading using command:" = "ทดสอบการอัปโหลดรูปภาพโดยใช้คำสั่ง:";
+"Running… Waiting for results." = "กำลังทำงาน… รอผลลัพธ์";
+"Output from the console:" = "ผลลัพธ์จากคอนโซล:";
+"Error from the console:" = "ข้อผิดพลาดจากคอนโซล:";
+"Failed to fetch uploaded image from command output." = "ไม่สามารถดึงรูปภาพที่อัปโหลดจากผลลัพธ์คำสั่ง";
+"Successfully get uploaded image url." = "สามารถรับ URL รูปภาพที่อัปโหลดสำเร็จ";
+"Image Uploader" = "ตัวอัปโหลดรูปภาพ";
+"Instructions" = "คำแนะนำ";
+"Download %@" = "ดาวน์โหลด %@";
+"Image Upload Setting" = "การตั้งค่าการอัปโหลดรูปภาพ";
+"Please set an image uploader in Preferences panel before using this function." = "โปรดตั้งค่าตัวอัปโหลดรูปภาพในพาเนล Preferences ก่อนใช้ฟังก์ชันนี้";
+"Download or Upgrade" = "ดาวน์โหลดหรืออัปเกรด";
+"Open Config File" = "เปิดไฟล์คอนฟิก";
+"Command" = "คำสั่ง";
+"PicGo Path" = "เส้นทาง PicGo";
+"Path of PicGo binary" = "เส้นทางของไบนารี PicGo";
+"Executable" = "สามารถประมวลผล";
+"Checking" = "กำลังตรวจสอบ";
+"Download" = "ดาวน์โหลด";
+"Agree and Download" = "ยอมรับและดาวน์โหลด";
+"Download and Reinstall"" = "ดาวน์โหลดและติดตั้งใหม่";
+"Loading PicGo-Core License" = "กำลังโหลดใบอนุญาต PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "ไม่สามารถรับเวอร์ชันที่ติดตั้งของ PicGo-Core (คำสั่ง) ";
+"You have the latest PicGo-Core (CLI)" = "คุณมี PicGo-Core (CLI) เวอร์ชันล่าสุด";
+"Newer version is available" = "มีเวอร์ชันใหม่";
+
+"Downloading…" = "กำลังดาวน์โหลด…";
+"Unzipping…" = "กำลังแตกไฟล์…";
+"Finished" = "เสร็จสิ้น";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora จะเปิดแอปของบุคคลที่สามพร้อมกับเส้นทางไฟล์ของภาพท้องถิ่นทั้งหมด ตัวอัปโหลดรูปภาพและพื้นที่เก็บรูปภาพในคลาวด์จะสามารถเข้าถึงภาพท้องถิ่นของคุณ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ";
+
+"Export operation finished successfully." = "การดำเนินการส่งออกเสร็จสมบูรณ์";
+
+"Shortcut Keys" = "คีย์ลัด";
+"Custom Shortcut Keys" = "คีย์ลัดที่กำหนดเอง";
+
+"Theme" = "ธีม";
+"Light Theme" = "ธีมสว่าง";
+"Dark Theme" = "ธีมมืด";
+"Use separate theme in dark mode" = "ใช้ธีมแยกในโหมดมืด";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "รองรับบน macOS ≥ 10.15 หรือ Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "แปลง -- เป็น – (ขีดกลางยาว) และ --- เป็น — (ขีดกลางยาว)";
+"Convert -- and --- to — (em dash)" = "แปลง -- และ --- เป็น — (ขีดกลางยาว)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "คุณสามารถตั้งค่ารูปแบบคำพูดได้ใน การตั้งค่าระบบ → คีย์บอร์ด → ข้อความ หากมีการเปลี่ยนแปลง Typora จะต้องรีสตาร์ทเพื่อใช้";
+
+
+"Paper Size" = "ขนาดกระดาษ";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "แท็บลอยด์";
+"Page Break" = "ตัวแบ่งหน้า";
+"Page Break Between Top Headings" = "ตัวแบ่งหน้าระหว่างหัวข้อระดับบน";
+"Header" = "ส่วนหัว";
+"Footer" = "ส่วนท้าย";
+"Author" = "ผู้เขียน";
+"Append in <head />" = "เพิ่มใน <head />";
+"Append in <body />" = "เพิ่มใน <body />";
+"Include Outline Sidebar" = "รวมแถบข้างของเส้นกระดูก";
+"Width" = "ความกว้าง";
+"Command" = "คำสั่ง";
+"Show Save File Dialog" = "แสดงกล่องโต้ตอบบันทึกไฟล์";
+"File Extensions for Export" = "นามสกุลไฟล์สำหรับส่งออก";
+"Arguments" = "อาร์กิวเมนต์";
+"Extra Arguments" = "อาร์กิวเมนต์เสริม";
+"LaTeX Engine" = "เครื่องยนต์ LaTeX";
+"Template" = "แม่แบบ";
+"Empty" = "ว่างเปล่า";
+"Style Reference" = "อ้างอิงสไตล์";
+"Custom CSS" = "CSS กำหนดเอง";
+"Chapter Level" = "ระดับบท";
+"Default Folder for Exported File" = "โฟลเดอร์เริ่มต้นสำหรับไฟล์ที่ส่งออก";
+"Same folder with current file" = "โฟลเดอร์เดียวกันกับไฟล์ปัจจุบัน";
+"Custom location" = "ตำแหน่งกำหนดเอง";
+"(Auto Detect)" = "(ตรวจจับอัตโนมัติ)";
+"After Export" = "หลังจากส่งออก";
+"Open exported file location" = "เปิดตำแหน่งไฟล์ที่ส่งออก";
+"Open exported file" = "เปิดไฟล์ที่ส่งออก";
+"Custom" = "กำหนดเอง";
+"None" = "ไม่มี";
+"Default" = "ค่าเริ่มต้น";
+"Margin" = "ริมขอบ";
+"Margin Left" = "ริมขอบซ้าย";
+"Margin Right" = "ริมขอบขวา";
+"Margin Top" = "ริมขอบบน";
+"Margin Bottom" = "ริมขอบล่าง";
+"Width x Height" = "ความกว้าง x ความสูง";
+"Add From a Template" = "เพิ่มจากแม่แบบ";
+"Delete this export option ?" = "ลบตัวเลือกการส่งออกนี้ ?";
+"Add" = "เพิ่ม";
+"Delete" = "ลบ";
+"Rename" = "เปลี่ยนชื่อ";
+"Move Down" = "ย้ายลง";
+"Move Up" = "ย้ายขึ้น";
+"Pandoc Path" = "เส้นทาง Pandoc";
+"Select" = "เลือก";
+"Target Format" = "รูปแบบเป้าหมาย";
+"auto detect based on target file path" = "ตรวจจับอัตโนมัติตามเส้นทางไฟล์เป้าหมาย";
+"Target File Extensions (separate by whitespace)" = "นามสกุลไฟล์เป้าหมาย (คั่นด้วยช่องว่าง)";
+"e.g: .text .asciidoc or leave this empty" = "เช่น .text .asciidoc หรือปล่อยให้ว่าง";
+"Raw Type" = "ประเภทดิบ";
+"Auto" = "อัตโนมัติ";
+"Show Save File Dialog" = "แสดงกล่องโต้ตอบบันทึกไฟล์";
+"Do not popup save file dialog" = "อย่าแสดงกล่องโต้ตอบบันทึกไฟล์";
+"Select file path to save" = "เลือกเส้นทางไฟล์เพื่อบันทึก";
+"Select folder path to save" = "เลือกเส้นทางโฟลเดอร์เพื่อบันทึก";
+"PDF Engine" = "เครื่องยนต์ PDF";
+"Show command output" = "แสดงผลลัพธ์คำสั่ง";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"ส่งออกและเขียนทับด้วยค่าก่อนหน้า\" จะเขียนทับไฟล์ที่ %@, คุณต้องการดำเนินการต่อหรือไม่?";
+"Command Arguments:" = "อาร์กิวเมนต์คำสั่ง:";
+"This dev version of Typora is expired, please download and install a newer version." = "เวอร์ชันพัฒนาของ Typora หมดอายุแล้ว โปรดดาวน์โหลดและติดตั้งเวอร์ชันใหม่";
+"Current Theme" = "ธีมปัจจุบัน";
+"After Export" = "หลังจากส่งออก";
+"Run command" = "เรียกใช้คำสั่ง";
+"Run command after export failed" = "เรียกใช้คำสั่งหลังจากส่งออกไม่สำเร็จ";
+"Read and overwrite export settings from YAML front matters" = "อ่านและเขียนทับการตั้งค่าการส่งออกจาก YAML ส่วนหน้า";
+"Append Extra Content (HTML)" = "เพิ่มเนื้อหาเสริม (HTML)";
+"Change this option to specify a separated theme for export." = "เปลี่ยนตัวเลือกนี้เพื่อระบุธีมแยกสำหรับการส่งออก";
+"Dark theme is not supported." = "ไม่รองรับธีมมืด";
+"Markdown Variants" = "ประเภท Markdown";
+"Original Unextended Markdown" = "Markdown ดั้งเดิมที่ไม่ขยาย";
+"CommonMark with many pandoc extensions" = "CommonMark พร้อมส่วนขยาย pandoc หลายรายการ";
+"Line Wrap" = "การขึ้นบรรทัดใหม่";
+"Hard line wrap" = "การขึ้นบรรทัดใหม่แบบแข็ง";
+"Text Column Width" = "ความกว้างคอลัมน์ข้อความ";
+"Auto (based on current OS)" = "อัตโนมัติ (ขึ้นอยู่กับระบบปฏิบัติการปัจจุบัน)";
+"Indent" = "การเยื้อง";
+"Preserve tabs" = "สงวนแท็บ";
+"2 spaces per tab" = "2 ช่องว่างต่อแท็บ";
+"3 spaces per tab" = "3 ช่องว่างต่อแท็บ";
+"4 spaces per tab" = "4 ช่องว่างต่อแท็บ";
+"Unicode Characters" = "ตัวอักษร Unicode";
+"Use only ASCII characters in output" = "ใช้ตัวอักษร ASCII เท่านั้นในผลลัพธ์";
+"Use reference-style links rather than inline links" = "ใช้ลิงก์แนวอ้างอิงแทนลิงก์แบบอินไลน์";
+"Footnotes and References Location" = "ตำแหน่งคำอ้างอิงและเชิงอรรถ";
+"End of document" = "จุดสิ้นสุดของเอกสาร";
+"End of current (top-level) block" = "จุดสิ้นสุดบล็อกปัจจุบัน (ระดับบนสุด)";
+"End of current section" = "จุดสิ้นสุดส่วนปัจจุบัน";
+"Convert TeX formulas to web images" = "แปลงสูตร TeX เป็นรูปภาพเว็บ";
+"Image Format" = "รูปแบบรูปภาพ";
+
+"Set Pandoc Path" = "ตั้งค่าเส้นทาง Pandoc";
+
+"Apply Line Break at \ and \newline" = "ใช้การขึ้นบรรทัดใหม่ที่ \ และ \newline";
+
+"Export operation succeeded with warnings." = "การดำเนินการส่งออกสำเร็จพร้อมคำเตือน";
+
+"Typora is now deactivated" = "Typora ถูกยกเลิกการใช้งานแล้ว";
+"This device has been deactivated" = "อุปกรณ์นี้ถูกยกเลิกการใช้งานแล้ว";
+"UNREGISTERED" = "ยังไม่ได้ลงทะเบียน";
+
+"Your Typora is not activated." = "Typora ของคุณยังไม่ได้เปิดใช้งาน";
+"Your Typora has been activated." = "Typora ของคุณได้รับการเปิดใช้งานแล้ว";
+"Typora activation is required to change this." = "ต้องเปิดใช้งาน Typora เพื่อเปลี่ยนสิ่งนี้";
+"You can reinstall the stable version and then disable this." = "คุณสามารถติดตั้งเวอร์ชันเสถียรใหม่แล้วปิดใช้งานสิ่งนี้";
+"Update to dev version" = "อัปเดตเป็นเวอร์ชันพัฒนา";
+
+"Typora Server" = "เซิร์ฟเวอร์ Typora";
+"Use Typora Server in China" = "ใช้เซิร์ฟเวอร์ Typora ในประเทศจีน";
+
+"File does not exist" = "ไม่มีไฟล์";
+"Create File" = "สร้างไฟล์";
+"Create Folder" = "สร้างโฟลเดอร์";
+
+"(Some options will be applied after restart.)" = "(การตั้งค่าบางอย่างจะถูกใช้หลังจากเริ่มต้นใหม่)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "คัดลอกหรือตัดบรรทัดทั้งหมดที่มีเคอร์เซอร์อยู่บนหากไม่มีการเลือกขณะทำการคัดลอกหรือตัด";
+"Enable physics package" = "เปิดใช้งานแพ็คเกจฟิสิกส์";
+"Physics package will redefine some latex macros, such as \div, \Re, etc." = "แพ็คเกจฟิสิกส์จะนิยามใหม่บางมาโครลาเท็กซ์ เช่น \div, \Re, ฯลฯ";
+
+"Detail" = "รายละเอียด";
+"Use custom font size" = "ใช้ขนาดตัวอักษรที่กำหนดเอง";
+"Use theme font size" = "ใช้ขนาดตัวอักษรของธีม";
+
+"You are using the Snap version, it may have limited access to your local executables." = "คุณกำลังใช้เวอร์ชัน Snap อาจมีการเข้าถึงที่จำกัดต่อโปรแกรมประยุกต์ของคุณ";
+
+"No local images found." = "ไม่พบรูปภาพที่อยู่ในเครื่อง";
+
+"File Format:" = "รูปแบบไฟล์:";
+
+"Images copied to %@." = "คัดลอกรูปภาพไปยัง %@.";
+"Images moved to %@." = "ย้ายรูปภาพไปยัง %@.";
+
+"Custom Command" = "คำสั่งที่กำหนดเอง";
+"No Automatic Equation Numbering" = "ไม่มีการกำหนดเลขที่สมการอัตโนมัติ";
+"Use AMS Numbering Rules" = "ใช้กฎการกำหนดเลขที่ของ AMS";
+"Auto Numbering for All Math Equations" = "กำหนดเลขที่อัตโนมัติสำหรับสมการคณิตศาสตร์ทั้งหมด";
+
+"Preferred Image Syntax" = "ไวยากรณ์รูปภาพที่ต้องการ";
+"Add ./ for relative path" = "เพิ่ม ./ สำหรับเส้นทางสัมพันธ์";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "เมื่อเปิดใช้งาน Typora จะใช้รูปแบบเช่น ./assets/image.png แทนที่จะเป็น assets/image.png เมื่อสร้างเส้นทางสัมพันธ์สำหรับรูปภาพที่แทรก";
+
+"Image Quality" = "คุณภาพรูปภาพ";
+"Medium" = "ปานกลาง";
+"High" = "สูง";
+"Best" = "ดีที่สุด";
+
+"Use Shift+Tab to auto indent selected code" = "ใช้ Shift+Tab เพื่อทำการเยื้องโค้ดที่เลือกอัตโนมัติ";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "เมื่อปิดใช้งาน Shift+Tab จะย้อนการเยื้องโค้ดที่เลือกหรือบรรทัดปัจจุบัน แต่เมื่อเปิดใช้งาน Shift+Tab จะใช้การเยื้องอัตโนมัติสำหรับโค้ดที่เลือกหรือบรรทัดปัจจุบันในบล็อกโค้ด";
+
+"Auto Links (e.g: https://typora.io)" = "ลิงก์อัตโนมัติ (เช่น: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "เมื่อเปิดใช้งาน Typora จะรู้จำและเน้น URL (เช่น: https://typora.io หรือ mailto:hi@typora.io) ในข้อความอัตโนมัติ";

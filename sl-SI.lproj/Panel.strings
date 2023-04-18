@@ -34,7 +34,7 @@
 /* Editor Panel */
 "Editor" = "Urejevalnik";
 "Indent Size on Save" = "Velikost zamika pri Shrani";
-"only apply to quotes and lists created from menu bar or hybrid view" = "velja le za citate in sezname, ustvarjene iz menijske vrstice ali hibridnega pogleda";
+"only apply to quotes and lists created from menu bar or hybrid view" = "Velja le za citate in sezname, ustvarjene iz menijske vrstice ali hibridnega pogleda";
 "Trigger Autocomplete without ESC key for" = "Sproži samodokončanje brez tipke ESC za";
 "Emoji (e.g. :smile:)" = "Emodži (n. pr. :smile:)";
 "Images Insert" = "Vstavi slike";
@@ -43,7 +43,7 @@
 "Auto pair brackets and quotes" = "Samodejno usklajevanje oklepajev in citatov";
 "Auto pair common Markdown syntax" = "Samodejno usklajevanje običajne Markdown sintakse";
 "Live Rendering" = "Predogled v živo";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Prikaz vira za preproste bloke\n(vključno z naslovi itd.) v fokusu";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Prikaz vira za preproste bloke\n(vključno z naslovi, itd.) v fokusu";
 "Default Copy Behavior" = "Privzeto obnašanje kopiranja";
 "Copy Markdown source as plain text" = "Kopiraj Markdown vir kot golo besedilo";
 "Typewriter Mode" = "Način pisalnega stroja";
@@ -53,10 +53,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Naslednje nastavitve bodo uveljavljene po ponovnem zagonu.)";
 "Syntax Support" = "Podpora za sintakso";
-"Inline Math  (e.g: $\LaTeX$)" = "Enačbe v vrstici  ( n.pr.: $\LaTeX$)";
-"Subscript    (e.g: H~2~O)" = "Nadpisano    ( n.pr.: H~2~O)";
-"Superscript (e.g: X^2^)" = "Podpisano ( n.pr.: X^2^)";
-"Highlight     (e.g: ==key==)" = "Označeno     ( n.pr.: ==key== )";
+"Inline Math  (e.g: $\LaTeX$)" = "Enačbe v vrstici  (primer: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Nadpisano    (primer: H~2~O)";
+"Superscript (e.g: X^2^)" = "Podpisano (primer: X^2^)";
+"Highlight     (e.g: ==key==)" = "Označeno     (primer: ==key== )";
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart in Mermaid)";
 "Syntax Preference" = "Nastavitve sintakse";
@@ -418,7 +418,7 @@
 "Rename" = "Preimenuj";
 "Move Down" = "Premakni navzdol";
 "Move Up" = "Premakni navzgor";
-"Pandoc Path" = "Pot do Pandoc";
+"Pandoc Path" = "Pot do programa Pandoc";
 "Select" = "Izberi";
 "Target Format" = "Ciljni format";
 "auto detect based on target file path" = "samodejno zaznavanje na podlagi poti ciljne datoteke";
@@ -480,7 +480,7 @@
 "Your Typora is not activated." = "Typora ni aktivirana.";
 "Your Typora has been activated." = "Typora je bila aktivirana.";
 "Typora activation is required to change this." = "Za spremembe je potrebno aktivirati Typoro.";
-"You can reinstall the stable version and then disable this." = "Če namestite stabilno različico lahko to onemogočite.";
+"You can reinstall the stable version and then disable this." = "Če namestite stabilno različico, lahko to onemogočite.";
 "Update to dev version" = "Nadgradnja na razvojno različico";
 
 "Typora Server" = "Typora strežnik";
@@ -522,5 +522,8 @@
 "High" = "Visoka";
 "Best" = "Najboljša";
 
-"Use Shift+Tab to auto indent selected code" = "Uporabite tipko Shift+Tab za samodejno poravnavo izbrane kode";
+"Use Shift+Tab to auto indent selected code" = "Uporabite kombinacijo Shift+Tab za samodejno poravnavo izbrane kode";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Če je onemogočeno, bo Shift+Tab samodejno odstranil poravnavo izbrane kode ali trenutne vrstice. Če je omogočeno, bo Shift+Tab samodejno uveljavil poravnavo za izbrano kodo ali trenutno vrstico v blokih kode.";
+
+"Auto Links (e.g: https://typora.io)" = "Samodejne spletne povezave (e.g: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Če je omogočeno, bo Typora v besedilu samodejno prepoznala in označila URL povezave (na primer: https://typora.io ali mailto:hi@typora.io).";

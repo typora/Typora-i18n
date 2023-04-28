@@ -536,6 +536,7 @@
 
 "Files" = "文件";
 "Default File Type / Extension" = "默认文件类型 / 扩展名";
+"Custom Extension:" = "请输入扩展名：";
 "Following extensions are supported: %@" = "支持以下文件扩展： %@";
 "e.g: %@" = "例如： %@";
 "When drop file / folder into Typora" = "当拖入文件/文件夹至 Typora 窗口时";

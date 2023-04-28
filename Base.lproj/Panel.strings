@@ -530,6 +530,7 @@
 
 "Files" = "Files";
 "Default File Type / Extension" = "Default File Type / Extension";
+"Custom Extension:" = "Custom Extension:";
 "Following extensions are supported: %@" = "Following extensions are supported: %@";
 "e.g: %@" = "e.g: %@";
 "When drop file / folder into Typora" = "When drop file / folder into Typora";

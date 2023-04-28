@@ -527,3 +527,16 @@
 
 "Auto Links (e.g: https://typora.io)" = "Auto Links (e.g: https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text.";
+
+"Files" = "Files";
+"Default File Type / Extension" = "Default File Type / Extension";
+"Following extensions are supported: %@" = "Following extensions are supported: %@";
+"e.g: %@" = "e.g: %@";
+"When drop file / folder into Typora" = "When drop file / folder into Typora";
+"When drop folder" = "When drop folder";
+"When drop markdown file" = "When drop markdown file";
+"When drop files that can be imported" = "When drop files that can be imported";
+"Open in Typora" = "Open in Typora";
+"Insert Folder Link" = "Insert Folder Link";
+"Insert File Link" ="Insert File Link";
+"Import File" = "Import File";

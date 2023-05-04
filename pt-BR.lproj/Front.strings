@@ -135,7 +135,6 @@
 "Select image from local file" = "Selecionar imagem de um arquivo local";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "A localização <code>$1</code> não pôde ser aberta, você quis dizer <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "selecionar um idioma";
 "Finish Editing" = "Concluir Edição";
 
 "Revert advanced setting file to default one ?" = "Reverter o arquivo de ajustes avançados para o padrão ?";
@@ -190,3 +189,17 @@
 
 "File does not exist at path %@." = "O arquivo não existe no caminho %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "O arquivo não existe no caminho %@, deseja cria-lo neste local?";
+
+"No Results" = "Sem Resultados";
+"Too many matches" = "Muitas correspondências";
+"Regular Expression" = "Expressão Regular";
+
+"Sort by Creation Date (Ascending)" = "Classificar por data de criação (Crescente)";
+"Sort by Creation Date (Descending)" = "Classificar por data de criação (Decrescente)";
+
+"code language" = "Linguagem de Código";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Não é possível renomear de $1 para $2, por favor, use \"Arquivo\" → \"Mover para...\" na barra de menu.";
+"Markdown file" = "Arquivo Markdown";
+"TextBundle file" = "Arquivo de Pacote de Texto (TextBundle)";
+"Images saved to TextBundle" = "Imagens Salvas no Pacote de Texto (TextBundle)";

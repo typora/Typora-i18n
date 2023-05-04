@@ -28,7 +28,7 @@
 "Recent Locations" = "Locais Recentes";
 "Clear Items" = "Limpar Itens";
 "No Recent Files" = "Nenhum Arquivo Recente";
-"Open Quickly" = "Abrir Depressa";
+"Open Quickly" = "Abrir Rápido";
 "Open File Location" = "Abrir Local do Arquivo";
 "Reveal in Library" = "Exibir na Biblioteca";
 "Reveal in File Tree" = "Exibir na Árvore de Arquivos";
@@ -74,7 +74,7 @@
 "Insert Local Images" = "Inserir Imagens Locais";
 "Upload Local Images via iPic" = "Carregar Imagens Locais via iPic";
 "When Insert Local Image" = "Quando Inserir Imagem Local";
-"Copy Image File to Folder" = "Copiar Arquivo de Imagem à Pasta";
+"Copy Image File to Folder" = "Copiar Arquivo de Imagem para a Pasta";
 "Use Image Root Path" = "Usar Local de Origem da Imagem";
 "Line Endings" = "Finais de Linha";
 "Windows Line Endings (CRLF)" = "Finais de Linha do Windows (CRLF)";
@@ -119,9 +119,9 @@
 "Toggle Task Status" = "Alternar Situação da Tarefa";
 "Mark as Complete" = "Marcar como Completa";
 "Mark as Incomplete" = "Marcar como Incompleta";
-"List Indentation" = "Indentação de Lista";
-"Indent" = "Indentar";
-"Outdent" = "Desindentar";
+"List Indentation" = "Identação de Lista";
+"Indent" = "Identar";
+"Outdent" = "Remover identação";
 "Link Reference" = "Vincular Referência";
 "Footnotes" = "Notas de Rodapé";
 "Horizontal Line" = "Linha Horizontal";
@@ -206,7 +206,7 @@
 "Copy as MathML" = "Copiar como MathML";
 "Copy as Tex" = "Copiar como TeX";
 "Copy Math" = "Copiar Equação";
-"Reveal in Finder" = "Exibir no Finder";
+"Reveal in Finder" = "Exibir no Explorador";
 "Open Link" = "Abrir Link";
 "Reveal in Sidebar" = "Exibir na Barra Lateral";
 "Open in New Window" = "Abrir em Nova Janela";
@@ -240,7 +240,7 @@
 
 "Learn More" = "Saiba Mais";
 "Whitespace and Line Breaks" = "Espaço em Branco e Quebras de Linha";
-"Indent first line of paragraphs" = "Indentar a primeira linha de parágrafos";
+"Indent first line of paragraphs" = "Identar a primeira linha de parágrafos";
 "Preserve single line break" = "Preservar quebra de linha única";
 "Visible <br/>" = "Visível <br/>";
 
@@ -297,7 +297,7 @@
 "Collapsible Outline" = "Índices Flexíveis";
 "Flat Outline" = "Índices Planos";
 "Articles (List View)" = "Artigos (Visualização em Lista)";
-"File Tree (Tree View)" = "File Tree (Visualização em Árvore)";
+"File Tree (Tree View)" = "Árvore de arquivos (Visualização em Árvore)";
 "Filter" = "Filtrar";
 
 "Upload Image" = "Carregar Imagem";
@@ -313,7 +313,7 @@
 
 "Emoji and Symbols" = "Emoji e Símbolos";
 
-"Insert Final New Line On Save" = "Inserir Última Nova Linha Ao Salvar";
+"Insert Final New Line On Save" = "Inserir Uma Nova Linha no Final Ao Salvar";
 "Hyperlink Actions" = "Ações de Hiperlink";
 "Copy Link Address" = "Copiar Endereço";
 
@@ -332,3 +332,19 @@
 "Delete Image" = "Deletar Imagem";
 "Delete Image File" = "Deletar Arquivo da Imagem";
 "Reload All Images" = "Recarregar Todas As Imagens";
+
+"Save %@ As" = "Salvar %@ como";
+
+"Copy All Images to" = "Copiar Todas as Imagens Para";
+"Move All Images to" = "Mover Todas as Imagens Para";
+
+"Copy as Image" = "Copiar como Imagem";
+
+"Switch Image Syntax" = "Alternar a Sintaxe de Imagem";
+"Markdown Style" = "Estilo do Markdown";
+"HTML Style" = "Estilo do HTML";
+
+"Code Tools" = "Ferramentas de Código";
+"Copy Code Content" = "Copiar Conteúdo do Código";
+"Auto Indent Selected Code" = "Identar Automaticamente o Código Selecionado";
+"Auto Indent Whole Code" = "Identar Automaticamente Todo o Código";

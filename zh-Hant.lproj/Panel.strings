@@ -527,3 +527,17 @@
 
 "Auto Links (e.g: https://typora.io)" = "自動辨識連結 (例如: https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "啟用時，Typora 會自動辨識並標示文字中的 URL 連結 (例如: https://typora.io 或 mailto:hi@typora.io)。";
+
+"Files" = "檔案";
+"Default File Type / Extension" = "預設檔案類型或副檔名";
+"Custom Extension:" = "自訂副檔名:";
+"Following extensions are supported: %@" = "支援下列副檔名: %@";
+"e.g: %@" = "例如: %@";
+"When drop file / folder into Typora" = "當拖放檔案或資料夾至 Typora 時";
+"When drop folder" = "當拖放資料夾時";
+"When drop markdown file" = "當拖放 Markdown 檔案時";
+"When drop files that can be imported" = "當拖放可匯入的檔案時";
+"Open in Typora" = "在 Typora 中開啟";
+"Insert Folder Link" = "插入資料夾連結";
+"Insert File Link" = "插入檔案連結";
+"Import File" = "匯入檔案";

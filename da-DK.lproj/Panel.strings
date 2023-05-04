@@ -203,7 +203,7 @@
 "More Formats" = "Flere formater";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformaterne under 'Flere formater' kræver at <a class='open-pandoc-guide'>Pandoc er installeret</a>.";
 "Something is Wrong…" = "Noget gik galt…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Forsøget på at gemme fejlede af en eller anden årsag.<br/>Du kan f. eks. kopiere indholdet ind i et nyt Typora vindue og så gemme det.<br/>Lær mere om:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Rapportér fejl til os</a></li><li><a href='http://support.typora.io/Version-Control//'>Gendanne mistet indhold</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Forsøget på at gemme fejlede af en eller anden årsag.<br/>Du kan f. eks. kopiere indholdet ind i et nyt Typora vindue og så gemme det.<br/>Lær mere om:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportér fejl til os</a></li><li><a href='https://support.typora.io/Version-Control//'>Gendanne mistet indhold</a></li></ul>";
 "Copy Content" = "Kopiér indhold";
 
 

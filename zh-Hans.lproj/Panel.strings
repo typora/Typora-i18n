@@ -547,3 +547,12 @@
 "Insert Folder Link" = "插入文件夹链接";
 "Insert File Link" ="插入文件链接";
 "Import File" = "导入文件";
+
+"Diagram Options" = "图表选项";
+"Default Code Language" = "默认的代码块语言";
+"(None)" = "(空)";
+"Last Used" = "上次使用的";
+"Apply Default Code Language When" = "以下情况自动添加代码块语言";
+"When add code fences via Markdown" = "当通过Markdown代码插入代码块";
+"When add code fences via Menubar" = "当通过菜单栏代码插入代码块";
+"Both" = "两者皆是";

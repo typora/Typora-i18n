@@ -541,3 +541,12 @@
 "Insert Folder Link" = "Insert Folder Link";
 "Insert File Link" ="Insert File Link";
 "Import File" = "Import File";
+
+"Diagram Options" = "Diagram Options";
+"Default Code Language" = "Default Code Language";
+"(None)" = "(None)";
+"Last Used" = "Last Used";
+"Apply Default Code Language When" = "Apply Default Code Language When";
+"When add code fences via Markdown" = "When add code fences via Markdown";
+"When add code fences via Menubar" = "When add code fences via Menubar";
+"Both" = "Both";

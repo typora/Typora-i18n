@@ -132,7 +132,7 @@
 /* Windows Preference Panel*/
 "Appearance" = "Aparência";
 "System Native" = "Nativo do Sistema";
-"Unibody" = "Unibody";
+"Unibody" = "Corpo Único";
 "(applied after restart)" = "(aplicada após reiniciar)";
 "Status Bar" = "Barra de Estado";
 "Show status bar" = "Exibir barra de estado";
@@ -373,7 +373,7 @@
 
 "Paper Size" = "Tamanho do papel";
 "US Letter" = "Carta (Estados Unidos)";
-"US Legal" = "US Legal";
+"US Legal" = "Jurídico (Estados Unidos)";
 "Tabloid" = "Tablóide";
 "Page Break" = "Quebra de Página";
 "Page Break Between Top Headings" = "Quebra de Página entre Títulos";
@@ -440,9 +440,9 @@
 "After Export" = "Após Exportar";
 "Run command" = "Executar comando";
 "Run command after export failed" = "A execução do comando após a exportação falhou";
-"Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
-"Append Extra Content (HTML)" = "Append Extra Content (HTML)";
-"Change this option to specify a separated theme for export." = "Change this option to specify a separated theme for export.";
+"Read and overwrite export settings from YAML front matters" = "Ler e sobrescrever as configurações de exportações iniciais do YAML";
+"Append Extra Content (HTML)" = "Anexar conteúdo extra (HTML)";
+"Change this option to specify a separated theme for export." = "Altere esta opção para especificar um tema separado para exportação.";
 "Dark theme is not supported." = "Tema escuro não é suportado.";
 
 "Markdown Variants" = "Variações do Markdown";
@@ -501,3 +501,43 @@
 
 "You are using the Snap version, it may have limited access to your local executables." = "Você está usando a versão Snap, ela pode ter acesso limitado aos executáveis locais.";
 
+"No local images found." = "Nenhuma imagem local encontrada.";
+
+"File Format:" = "Formato do Arquivo:";
+
+"Images copied to %@." = "Imagens Copiadas para %@.";
+"Images moved to %@." = "Imagens Movidas para %@.";
+
+"Custom Command" = "Comando Customizado";
+"No Automatic Equation Numbering" = "Sem Numeração Automática de Equações";
+"Use AMS Numbering Rules" = "Usar regras de numeração AMS";
+"Auto Numbering for All Math Equations" = "Numeração Automática para Todas as Equações Matemáticas";
+
+"Preferred Image Syntax" = "Preferência de Sintaxe de Imagem";
+"Add ./ for relative path" = "Adicione ./ para o caminho relativo";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Quando ativado, o Typora usará um padrão como ./assets/image.png em vez de assets/image.png ao gerar o caminho relativo para as imagens inseridas.";
+
+"Image Quality" = "Qualidade da Imagem";
+"Medium" = "Média";
+"High" = "Alta";
+"Best" = "Melhor";
+
+"Use Shift+Tab to auto indent selected code" = "Use Shift+Tab para identar automaticamente o código selecionado";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Quando desativado, Shift+Tab recuará o código selecionado ou a linha atual. Quando ativado, Shift+Tab aplicará automaticamente o recuo para o código selecionado ou a linha atual nos blocos de código.";
+
+"Auto Links (e.g: https://typora.io)" = "Links Automáticos (e.g: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Quando ativado, Typora reconhecerá automaticamente e destacará URLs (por exemplo: https://typora.io ou mailto:hi@typora.io) em texto.";
+
+"Files" = "Arquivos";
+"Default File Type / Extension" = "Tipo de Arquivo / Extensão Padrão";
+"Custom Extension:" = "Extensão Customizada:";
+"Following extensions are supported: %@" = "As seguintes extensões são suportadas: %@";
+"e.g: %@" = "e.g: %@";
+"When drop file / folder into Typora" = "Ao Soltar Arquivo / Pasta no Typora";
+"When drop folder" = "Ao Soltar a Pasta";
+"When drop markdown file" = "Ao Soltar o Arquivo Markdown";
+"When drop files that can be imported" = "Ao Soltar Arquivos Que Podem Ser Importados";
+"Open in Typora" = "Abrir no Typora";
+"Insert Folder Link" = "Inserir Link da Pasta";
+"Insert File Link" ="Inserir Link do Arquivo";
+"Import File" = "Importar Arquivo";

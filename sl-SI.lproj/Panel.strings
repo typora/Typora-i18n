@@ -205,7 +205,7 @@
 
 
 "Total" = "Skupaj";
-"Word count only support OS X later than 10.10." = "Podpora samo za štetje besed je prisotna le na OS X, novejši od 10.10.";
+"Word count only support OS X later than 10.10." = "Podpora samo za štetje besed je prisotna le v OS X, novejši od 10.10.";
 "Indent Size for Code" = "Velikost odmika za kodo";
 "Auto wrap long lines" = "Samodejni prelom dolgih vrstic";
 
@@ -527,3 +527,17 @@
 
 "Auto Links (e.g: https://typora.io)" = "Samodejne spletne povezave (e.g: https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Če je omogočeno, bo Typora v besedilu samodejno prepoznala in označila URL povezave (na primer: https://typora.io ali mailto:hi@typora.io).";
+
+"Files" = "Datoteke";
+"Default File Type / Extension" = "Privzet tip datoteke / razširitev";
+"Custom Extension:" = "Končnica po meri:";
+"Following extensions are supported: %@" = "Following extensions are supported: %@";
+"e.g: %@" = "e.g: %@";
+"When drop file / folder into Typora" = "When drop file / folder into Typora";
+"When drop folder" = "When drop folder";
+"When drop markdown file" = "When drop markdown file";
+"When drop files that can be imported" = "When drop files that can be imported";
+"Open in Typora" = "Odpri s Typoro";
+"Insert Folder Link" = "Vnesi povezavo do mape";
+"Insert File Link" ="Vnesi povezavo do datoteke";
+"Import File" = "Uvozi datoteko";

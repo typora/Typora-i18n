@@ -527,3 +527,17 @@
 
 "Auto Links (e.g: https://typora.io)" = "Automatyczne łącza (np. https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Po włączeniu Typora będzie automatycznie rozpoznawać i wyróżniać w tekście łącza URL (np. https://typora.io czy mailto:hi@typora.io).";
+
+"Files" = "Pliki";
+"Default File Type / Extension" = "Domyślny typ/rozszerzenie pliku";
+"Custom Extension:" = "Własne rozszerzenie:";
+"Following extensions are supported: %@" = "Obsługiwane są następujące rozszerzenia: %@";
+"e.g: %@" = "np.: %@";
+"When drop file / folder into Typora" = "Gdy upuścisz plik/folder na Typorę";
+"When drop folder" = "Gdy upuścisz folder";
+"When drop markdown file" = "Gdy upuścisz plik Markdown";
+"When drop files that can be imported" = "Gdy upuścisz pliki, które można zaimportować";
+"Open in Typora" = "Otwórz w Typorze";
+"Insert Folder Link" = "Wstaw łącze do folderu";
+"Insert File Link" ="Wstaw łącze do pliku";
+"Import File" = "Zaimportuj plik";

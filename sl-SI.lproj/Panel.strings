@@ -529,15 +529,24 @@
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Če je omogočeno, bo Typora v besedilu samodejno prepoznala in označila URL povezave (na primer: https://typora.io ali mailto:hi@typora.io).";
 
 "Files" = "Datoteke";
-"Default File Type / Extension" = "Privzet tip datoteke / razširitev";
-"Custom Extension:" = "Končnica po meri:";
-"Following extensions are supported: %@" = "Following extensions are supported: %@";
-"e.g: %@" = "e.g: %@";
-"When drop file / folder into Typora" = "When drop file / folder into Typora";
-"When drop folder" = "When drop folder";
-"When drop markdown file" = "When drop markdown file";
-"When drop files that can be imported" = "When drop files that can be imported";
+"Default File Type / Extension" = "Privzeti tip datoteke/razširitev";
+"Custom Extension:" = "Razširitve po meri:";
+"Following extensions are supported: %@" = "Podprte so naslednje razširitve: %@";
+"e.g: %@" = "n.pr: %@";
+"When drop file / folder into Typora" = "Ko spustiš datoteko/mapo v Typoro";
+"When drop folder" = "Ko spustiš mapo";
+"When drop markdown file" = "Ko spustiš markdown datoteko";
+"When drop files that can be imported" = "Ko spustiš datoteke, katere je možno uvoziti";
 "Open in Typora" = "Odpri s Typoro";
 "Insert Folder Link" = "Vnesi povezavo do mape";
 "Insert File Link" ="Vnesi povezavo do datoteke";
 "Import File" = "Uvozi datoteko";
+
+"Diagram Options" = "Možnosti diagramov";
+"Default Code Language" = "Privzet jezik kode";
+"(None)" = "(Nič)";
+"Last Used" = "Zadnje uporabljeno";
+"Apply Default Code Language When" = "Uporabi privzeti jezik kode, ko";
+"When add code fences via Markdown" = "Ko dodajate kodo neposredno v Markdown";
+"When add code fences via Menubar" = "Ko dodajate kodo prek menujev";
+"Both" = "Oboje";

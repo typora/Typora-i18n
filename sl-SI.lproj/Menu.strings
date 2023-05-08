@@ -296,7 +296,7 @@
 "Collapse All" = "Skrči vse";
 "Collapsible Outline" = "Skrčljiv oris";
 "Flat Outline" = "Enoten oris";
-"Articles (List View)" = "Članki (pogled seznama)";
+"Articles (List View)" = "Dokumenti (pogled seznama)";
 "File Tree (Tree View)" = "Drevo datotek (drevesni pogled)";
 "Filter" = "Filter";
 
@@ -308,12 +308,12 @@
 "More Actions" = "Več dejanj";
 "Get Info" = "Pridobite informacije";
 
-"Export with Previous" = "Izvozi s predhodnim";
-"Export and Overwrite with Previous" = "Izvozi in prepiši s predhodnim";
+"Export with Previous" = "Ponovno uporabi zadnji format";
+"Export and Overwrite with Previous" = "Ponovno uporabi zadnji format in prepiši datoteko";
 
 "Emoji and Symbols" = "Emodži in simboli";
 
-"Insert Final New Line On Save" = "Vstavi končno novo vrstico ob shranjevanju";
+"Insert Final New Line On Save" = "Ob shranjevanju vstavi novo zaključno vrstico";
 "Hyperlink Actions" = "Dejanja spletnih povezav";
 "Copy Link Address" = "Kopiranje naslova povezave";
 

@@ -32,7 +32,7 @@ Thai translated by
 "Show Outline Panel by Default" = "แสดงแผงเส้นกระดาษเป็นค่าเริ่มต้น";
 "Collapsible Outline on Left Panel" = "แผงเส้นกระดาษที่สามารถยุบได้บนแผงซ้าย";
 "Save without asking when\nswitch files on side panel" = "บันทึกโดยไม่ถามเมื่อ\nสลับไฟล์บนแผงด้านข้าง";
-"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "ไฟล์ที่แก้ไขจะถูกบันทึกโดยไม่ถามเมื่อสลับไฟล์ในแผงซ้าย \nเมื่อ "ถามเพื่อเก็บการเปลี่ยนแปลงเมื่อปิดเอกสาร" ถูกปิดในการตั้งค่าระบบ ตัวเลือกนี้จะเปิดใช้งานตลอดเวลา";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "ไฟล์ที่แก้ไขจะถูกบันทึกโดยไม่ถามเมื่อสลับไฟล์ในแผงซ้าย \nเมื่อ \"ถามเพื่อเก็บการเปลี่ยนแปลงเมื่อปิดเอกสาร\" ถูกปิดในการตั้งค่าระบบ ตัวเลือกนี้จะเปิดใช้งานตลอดเวลา";
 "Language" = "ภาษา";
 "System Language" = "ภาษาระบบ";
 
@@ -242,7 +242,7 @@ Thai translated by
 "Restore last closed files and folders" = "กู้คืนไฟล์และโฟลเดอร์ที่ปิดล่าสุด";
 "Open custom folder" = "เปิดโฟลเดอร์ที่กำหนดเอง";
 "Select custom folder" = "เลือกโฟลเดอร์ที่กำหนดเอง";
-"This option may be overridden by "Close windows when quitting an application" in System Preferences" = "ตัวเลือกนี้อาจถูกข้ามไปด้วย "ปิดหน้าต่างเมื่อออกจากแอปพลิเคชัน" ในการตั้งค่าระบบ";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "ตัวเลือกนี้อาจถูกข้ามไปด้วย \"ปิดหน้าต่างเมื่อออกจากแอปพลิเคชัน\" ในการตั้งค่าระบบ";
 
 "Ignore" = "ไม่สนใจ";
 "Choose Default Folder" = "เลือกโฟลเดอร์เริ่มต้น";
@@ -299,7 +299,7 @@ Thai translated by
 "Check Update Failed" = "ตรวจสอบการอัปเดตไม่สำเร็จ";
 "You're up to date!" = "คุณมีเวอร์ชั่นล่าสุดแล้ว!";
 "Latest version is $1, your version is $2" = "เวอร์ชั่นล่าสุดคือ $1 และเวอร์ชั่นของคุณคือ $2";
-"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "ตัวเลือกเหล่านี้สามารถเปลี่ยนแปลงได้ภายใต้เมนู "Edit→Whitespace and Line Breaks"";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "ตัวเลือกเหล่านี้สามารถเปลี่ยนแปลงได้ภายใต้เมนู \"Edit→Whitespace and Line Breaks\"";
 "Auto escape image URL when insert" = "การหลีกเลี่ยง URL รูปภาพอัตโนมัติเมื่อแทรกรูปภาพ";
 "สำหรับตัวอย่าง หากคุณแทรกไฟล์ที่ 'img/example file.png' มันจะกลายเป็น 'img/example%20file.png' ให้เปิดใช้งานสำหรับความเข้ากันได้ดีกับเครื่องมือ Markdown อื่น ๆ หรือปิดใช้งานสำหรับความอ่านง่าย";
 "Check updates automatically" = "ตรวจสอบการอัปเดตอัตโนมัติ";
@@ -349,7 +349,7 @@ Thai translated by
 "Checking" = "กำลังตรวจสอบ";
 "Download" = "ดาวน์โหลด";
 "Agree and Download" = "ยอมรับและดาวน์โหลด";
-"Download and Reinstall"" = "ดาวน์โหลดและติดตั้งใหม่";
+"Download and Reinstall" = "ดาวน์โหลดและติดตั้งใหม่";
 "Loading PicGo-Core License" = "กำลังโหลดใบอนุญาต PicGo-Core";
 "Failed to get installed version of PicGo-Core (command line)" = "ไม่สามารถรับเวอร์ชันที่ติดตั้งของ PicGo-Core (คำสั่ง) ";
 "You have the latest PicGo-Core (CLI)" = "คุณมี PicGo-Core (CLI) เวอร์ชันล่าสุด";

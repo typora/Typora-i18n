@@ -118,8 +118,8 @@ Thai translated by
 "File content is changed by external applications. Reload content from disk ?" = "เนื้อหาของไฟล์ถูกเปลี่ยนแปลงโดยแอปพลิเคชันภายนอก โหลดเนื้อหาจากดิสก์ใหม่?";
 "Should continue moving and overwrite existing file(s) ?" = "ควรดำเนินการย้ายและเขียนทับไฟล์ที่มีอยู่หรือไม่?";
 
-"Rename to "{0}" ?" = "เปลี่ยนชื่อเป็น "{0}" ?";
-"Failed to rename from "{0}" to "{1}"" = "ไม่สามารถเปลี่ยนชื่อจาก "{0}" เป็น "{1}"";
+"Rename to \"{0}\" ?" = "เปลี่ยนชื่อเป็น \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "ไม่สามารถเปลี่ยนชื่อจาก \"{0}\" เป็น \"{1}\"";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "อัพโหลดภาพ {0} ภาพสำเร็จ";
@@ -204,7 +204,7 @@ Thai translated by
 
 "code language" = "ภาษาโค้ด";
 
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "ไม่สามารถเปลี่ยนชื่อจาก $1 เป็น $2 โปรดใช้ "File" → "Move To…" จากแถบเมนูแทน";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "ไม่สามารถเปลี่ยนชื่อจาก $1 เป็น $2 โปรดใช้ \"File\" → \"Move To…\" จากแถบเมนูแทน";
 "Markdown file" = "ไฟล์ Markdown";
 "TextBundle file" = "ไฟล์ TextBundle";
 "Images saved to TextBundle" = "รูปภาพที่บันทึกไว้ใน TextBundle";

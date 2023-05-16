@@ -541,3 +541,12 @@
 "Insert Folder Link" = "插入資料夾連結";
 "Insert File Link" = "插入檔案連結";
 "Import File" = "匯入檔案";
+
+"Diagram Options" = "圖表選項";
+"Default Code Language" = "程式碼區塊預設語言";
+"(None)" = "(無)";
+"Last Used" = "前次使用的";
+"Apply Default Code Language When" = "自動套用預設程式語言";
+"When add code fences via Markdown" = "當透過 Markdown 插入程式碼區塊時";
+"When add code fences via Menubar" = "當透過選單列插入程式碼區塊時";
+"Both" = "兩者皆是";

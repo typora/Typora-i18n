@@ -81,7 +81,6 @@ Japanese translated by
 "Upload Local Images via iPic" = "iPic経由でローカル画像をアップ";
 "When Insert Local Image" = "ローカル画像を挿入時の挙動";
 "Copy Image File to Folder" = "画像をフォルダにコピー";
-"Upload Image via iPic" = "iPic経由で画像をアップ";
 "Use Image Root Path" = "絶対パスで画像を指定";
 "Line Endings" = "改行コード";
 "Windows Line Endings (CRLF)" = "Windows改行 (CRLF)";
@@ -243,7 +242,6 @@ Japanese translated by
 "Copy '%@'" = "'%@' をコピー";
 "Copy to %@" = "%@ にコピー";
 "Copy Image to" = "画像をコピー";
-"Upload via iPic" = "iPic経由でアップロード";
 "Open Image Location" = "画像の場所を開く";
 
 "Learn More" = "詳細を見る";
@@ -296,6 +294,64 @@ Japanese translated by
 "Start Speaking" = "読み上げを開始";
 "Stop Speaking" = "読み上げを停止";
 "Check Updates" = "更新を確認";
+
+"HTML (without Styles)" = "HTML (スタイル無し)";
+
 "Highlight Current Header" = "現在のヘッダーを強調表示";
 "Expand All" = "すべて展開する";
 "Collapse All" = "すべて折り畳む";
+"Collapsible Outline" = "概要を折り畳む";
+"Flat Outline" = "Flat Outline";
+"Articles (List View)" = "記事 (リスト表示)";
+"File Tree (Tree View)" = "ファイルツリー (ツリー表示)";
+"Filter" = "フィルター";
+
+"Upload Image" = "画像をアップロード";
+"Upload All Local Images" = "全てのローカルの画像をアップロード";
+"Open Image in Browser" = "画像をブラウザで開く";
+"Copy Image Content" = "画像をコピー";
+
+"More Actions" = "その他の操作";
+"Get Info" = "情報を入手";
+
+"Export with Previous" = "前回と一緒にエクスポート";
+"Export and Overwrite with Previous" = "エクスポートして以前のものに上書きする";
+
+"Emoji and Symbols" = "絵文字とシンボルマーク";
+
+"Insert Final New Line On Save" = "新しい行を保存時に自動で挿入する";
+"Hyperlink Actions" = "ハイパーリンク アクション";
+"Copy Link Address" = "リンクアドレスをコピー";
+
+"Click" = "クリック";
+
+"Export Setting" = "設定をエクスポート";
+
+"My License" = "私のライセンス";
+"Registration / Activation" = "登録 / 有効化";
+
+"Select Paragraph / Block" = "文章/ブロックを選択";
+
+"Delete Selected" = "選択されたものを削除";
+"Rename or Move Image to" = "画像を次に移動";
+"Move to %@" = "%@ に移動";
+"Delete Image" = "画像を削除";
+"Delete Image File" = "画像ファイルを削除";
+"Reload All Images" = "すべての画像を再読み込み";
+
+"Save %@ As" = "%@ を名前をつけて保存";
+
+"Copy All Images to" = "全ての画像を次にコピー";
+"Move All Images to" = "全ての画像を次に移動";
+
+"Copy as Image" = "画像としてコピー";
+
+"Switch Image Syntax" = "画像挿入の文法";
+"Markdown Style" = "マークダウン方式";
+"HTML Style" = "HTML方式";
+
+"Code Tools" = "コードツール";
+"Copy Code Content" = "コードの内容をコピー";
+"Auto Indent Selected Code" = "選択されたコードを自動でインデント";
+"Auto Indent Whole Code" = "全てのコードを自動でインデント";
+

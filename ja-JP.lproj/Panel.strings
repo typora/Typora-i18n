@@ -282,7 +282,7 @@ Japanese translated by
 "Turn off Typewriter / Focus Mode" = "タイプライター/フォーカスモードをオフにする";
 "Typewriter / Focus Mode have been turned off." = "タイプライター/フォーカスモードがオフになっています。";
 
-"Reading Speed" = "Reading Speed";
+"Reading Speed" = "リーディング速度";
 "Auto" = "自動";
 "words / min" = "単語 / 分";
 
@@ -292,7 +292,7 @@ Japanese translated by
 "382  words/minute (Fast)" = "382 単語/分 (高速)";
 
 "Copy and update image source to…" = "画像のソースをコピーして更新…";
-"Updater" = "Updater";
+"Updater" = "アップデーター";
 "Install Updates ?" = "更新をインストールしますか？";
 "Quit and Install" = "終了してインストール";
 "Download failed" = "ダウンロードに失敗しました";
@@ -310,7 +310,7 @@ Japanese translated by
 "Download Update" = "更新をダウンロード";
 "New version available." = "新しいバージョンが利用可能です。";
 
-"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"When copy / export as HTML (without style)" = "(スタイル無しで)HTMLとしてコピー / エクスポートしたとき";
 "Use Rendered SVG" = "レンダリングにSVGを使用";
 "Use LaTeX Source" = "LaTeXのソースを使用";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
@@ -375,7 +375,7 @@ Japanese translated by
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 か Windows 10 ≥ 1903 でサポートされています。";
 "Convert -- to – (en dash), and --- to — (em dash)" = "-- を – (en ダッシュ)、 --- を — (em ダッシュ)に変換";
 "Convert -- and --- to — (em dash)" = "-- と --- を — (em ダッシュ)に変換";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it.";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "クォートパターンをSystem Preferences → Keyboard → Textで設定可能です。変更された場合、適用するためにTyporaを再起動する必要があります。";
 
 
 "Paper Size" = "紙のサイズ";
@@ -430,7 +430,7 @@ Japanese translated by
 "Target Format" = "対象のフォーマット";
 "auto detect based on target file path" = "対象のファイパスから自動検出する";
 "Target File Extensions (separate by whitespace)" = "対象のファイル拡張子(スペース区切り)";
-"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc または 空";
 "Raw Type" = "Raw タイプ";
 "Auto" = "自動";
 "Show Save File Dialog" = "ファイルを保存ダイアログを表示";
@@ -456,11 +456,8 @@ Japanese translated by
 "Original Unextended Markdown" = "拡張なしのオリジナルのマークダウン";
 "CommonMark with many pandoc extensions" = "CommonMarkと多くのPandoc拡張構文";
 "Line Wrap" = "行の折り返し";
-"Hard line wrap" = "Hard line wrap";
-"Text Column Width" = "Text Column Width";
 "Auto (based on current OS)" = "自動 (現在のOSに従う)";
 "Indent" = "インデント";
-"Preserve tabs" = "Preserve tabs";
 "2 spaces per tab" = "タブごとに2つのスペース";
 "3 spaces per tab" = "タブごとに3つのスペース";
 "4 spaces per tab" = "タブごとに4つのスペース";
@@ -476,7 +473,7 @@ Japanese translated by
 
 "Set Pandoc Path" = "Pandoc のパスを設定";
 
-"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
+
 
 "Export operation succeeded with warnings." = "エクスポートは成功しましたが警告があります。";
 
@@ -498,7 +495,6 @@ Japanese translated by
 "Create Folder" = "フォルダを作成";
 
 "(Some options will be applied after restart.)" = "(いくつかのオプションは再起動後に反映されます。)";
-"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut.";
 "Enable physics package" = "physics パッケージを有効化";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics パッケージは \\div や \\Re などのいくつかのLatexマクロを再定義します。"
 

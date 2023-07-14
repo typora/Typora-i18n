@@ -541,3 +541,12 @@
 "Insert Folder Link" = "Wstaw łącze do folderu";
 "Insert File Link" ="Wstaw łącze do pliku";
 "Import File" = "Zaimportuj plik";
+
+"Diagram Options" = "Opcje diagramu";
+"Default Code Language" = "Domyślny język kodu";
+"(None)" = "(brak)";
+"Last Used" = "ostatnio użyty";
+"Apply Default Code Language When" = "Zastosuj domyślny język kodu, gdy";
+"When add code fences via Markdown" = "dodajesz blok kodu, pisząc w Markdown";
+"When add code fences via Menubar" = "dodajesz blok kodu z poziomu menu";
+"Both" = "w obu przypadkach";

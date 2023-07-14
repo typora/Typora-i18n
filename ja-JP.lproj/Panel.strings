@@ -9,6 +9,7 @@ Japanese translated by
  @gageas <gageas@gageas.com>
  @shuuji3 / TAKAHASHI Shuuji <shuuji3@gmail.com>
  @ScratchBuild <foobarbuzz@gmail.com>
+ @Hayao0819 / Yamada Hayao <hayao@fascode.net>
 */
 
 /* Preference Panel */
@@ -33,6 +34,7 @@ Japanese translated by
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
 "Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
 "Save without asking when\nswitch files on side panel" = "サイドパネルでファイルの切り替え時に自動保存";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "左のパネルでファイルを切り替えた際、自動で変更が保存されるようになりました。\nこれは、"文書を閉じたとき変更を維持するか尋ねる"がシステム設定で無効化されている場合、自動で有効化されます。";
 "Language" = "言語";
 "System Language" = "システム言語";
 
@@ -118,8 +120,6 @@ Japanese translated by
 "Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";
 "Exporting file using Pandoc. This may take some time." = "Pandocを使ってエクスポートしています。時間がかかることがあります";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "iPic経由で画像をアップロードしています...";
 "Uploading in progress…" = "アップロード中...";
 "Do not show this again" = "次回から表示しない";
 
@@ -170,11 +170,11 @@ Japanese translated by
 "This feature require macOS >= 10.11" = "macOS 10.11以上のバージョンが必要です";
 "One More Step" = "あと一歩";
 "Notice" = "注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "この機能には、iPicのインストールが必要です。画像はiPic経由でクラウドにアップロードされます。画像の削除はできないことにご注意ください";
 
 "%d Images Failed to Upload." = "%d個のファイルのアップロードに失敗しました";
 "%d Succeeded," = "%d個は成功しました, ";
 "Enable this feature on preferences panel" = "設定画面でこの機能を有効にする";
+"The option `%@` must be enabled first to automatically upload images." = "自動で画像をアップロードするには、まずこのオプション `%@`を有効化する必要があります。";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしました。しかし、フォルダが存在しません。今作成しますか？";
@@ -207,7 +207,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "コンテンツの保存に失敗しました。<br/>新しいウィンドウを開いてコピーして保存してみてください。<br/>もっと知るには：<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告</a></li><li><a href='https://support.typora.io/Version-Control/'>失われたコンテンツを回復する</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 
@@ -225,7 +225,6 @@ Japanese translated by
 "Copy image to current folder (./)" = "画像を現在のフォルダに保存する (./)";
 "Copy image to ./assets" = "画像を ./assets に保存する";
 "Copy image to ./${filename}.assets" = "画像を ./${filename}.assets に保存する";
-"Upload image via iPic" = "画像をiPic経由でアップロード";
 "Apply above rules to local images" = "上記のルールをローカルの画像に適用";
 "Apply above rules to online images" = "上記のルールをオンラインの画像に適用";
 "Allow upload images automatically based on YAML settings" = "YAMLの設定を元に画像を自動的にアップロード";
@@ -283,18 +282,17 @@ Japanese translated by
 "Turn off Typewriter / Focus Mode" = "タイプライター/フォーカスモードをオフにする";
 "Typewriter / Focus Mode have been turned off." = "タイプライター/フォーカスモードがオフになっています。";
 
-"Reading Speed" = "Reading Speed";
+"Reading Speed" = "リーディング速度";
 "Auto" = "自動";
 "words / min" = "単語 / 分";
 
 "Reset to Default" = "デフォルトにリセット";
-"Select custom folder" = "カスタムフォルダを選択";
 "120  words/minute (Slow)" = "120 単語/分 (低速)";
 "240  words/minute (Medium)" = "240 単語/分 (標準)";
 "382  words/minute (Fast)" = "382 単語/分 (高速)";
 
 "Copy and update image source to…" = "画像のソースをコピーして更新…";
-"Updater" = "Updater";
+"Updater" = "アップデーター";
 "Install Updates ?" = "更新をインストールしますか？";
 "Quit and Install" = "終了してインストール";
 "Download failed" = "ダウンロードに失敗しました";
@@ -312,7 +310,7 @@ Japanese translated by
 "Download Update" = "更新をダウンロード";
 "New version available." = "新しいバージョンが利用可能です。";
 
-"When copy / export as HTML (without style)" = "When copy / export as HTML (without style)";
+"When copy / export as HTML (without style)" = "(スタイル無しで)HTMLとしてコピー / エクスポートしたとき";
 "Use Rendered SVG" = "レンダリングにSVGを使用";
 "Use LaTeX Source" = "LaTeXのソースを使用";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
@@ -320,6 +318,238 @@ Japanese translated by
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "インポート機能といくつかのフォーマット形式によるエクスポートには、Pandoc (≥%@) のインストールが必要です。";
 "Do not show this message again" = "このメッセージを次回から表示しない";
 
+"Page Break Between Top Headings" = "見出し間での改ページ";
+
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "エラーが発生しました、現在の入力内容がクリップボードにコピーされています。<hi@typora.io> 宛に報告を頂けると、この問題の解決に役立てることができます。";
 "Try Recovery" = "復旧を試みる";
 "Other Options for Data Recovery" = "データ復旧のための他のオプション";
+
+"When Insert" = "インサート時";
+"Upload image" = "画像をアップロード";
+"e.g: %@" = "e.g: %@";
+"Test Uploader" = "アップローダーをテスト";
+"Validating" = "Validating Image Uploader 画像のアップローダーを検証中";
+"Validation Failed" = "検証に失敗しました";
+"Validation Succeed" = "検証は成功しました";
+"Testing image uploading using command:" = "コマンドで画像アップローダーをテスト:";
+"Running… Waiting for results." = "実行中… 結果をお待ちください。";
+"Output from the console:" = "コンソールからの出力:";
+"Error from the console:" = "コンソールからのエラー:";
+"Failed to fetch uploaded image from command output." = "コマンドの出力から、アップロードされた画像を取得できませんでした。";
+"Successfully get uploaded image url." = "アップロードされた画像のアドレスを正常に取得しました。";
+"Image Uploader" = "画像アップローダー";
+"Instructions" = "使い方";
+"Download %@" = "%@ をダウンロード";
+"Image Upload Setting" = "画像アップロードの設定";
+"Please set an image uploader in Preferences panel before using this function." = "この機能を使う前に、設定パネルで画像アップローダーを設定してください。";
+"Download or Upgrade" = "ダウンロード or アップグレード";
+"Open Config File" = 設定ファイルを開く";
+"Command" = "コマンド";
+"PicGo Path" = "PicGoのパス";
+"Path of PicGo binary" = "PicGo 実行ファイルへのパス";
+"Executable" = "実行可能";
+"Checking" = "確認中";
+"Download" = "ダウンロード";
+"Agree and Download" = "同意してダウンロード";
+"Download and Reinstall" = "ダウンロードと再インストール";
+"Loading PicGo-Core License" = "PicGo-Core ライセンスを読み込み中";
+"Failed to get installed version of PicGo-Core (command line)" = "インストールされているPicGo-Core (コマンドライン)のバージョンの取得に失敗しました";
+"You have the latest PicGo-Core (CLI)" = "最新のPicGo-Core (CLI)を使用中です";
+"Newer version is available" = "新しいバージョンが利用可能です";
+
+"Downloading…" = "ダウンロード中…";
+"Unzipping…" = "アーカイブを展開中…";
+"Finished" = "完了";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typoraは全てのローカルの画像のパスとともにサードパーティ製のアプリを実行します。画像アップローダーとクラウドストレージはローカルの画像へのアクセス権を持つことになります。続行しますか？";
+
+"Export operation finished successfully." = "エクスポートは正常に終了しました。";
+
+"Shortcut Keys" = "ショートカットキー";
+"Custom Shortcut Keys" = "カスタムショートカットキー";
+
+"Theme" = "テーマ";
+"Light Theme" = "ライトテーマ";
+"Dark Theme" = "ダークテーマ";
+"Use separate theme in dark mode" = "ダークモードで分割されたテーマを使う";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 か Windows 10 ≥ 1903 でサポートされています。";
+"Convert -- to – (en dash), and --- to — (em dash)" = "-- を – (en ダッシュ)、 --- を — (em ダッシュ)に変換";
+"Convert -- and --- to — (em dash)" = "-- と --- を — (em ダッシュ)に変換";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "クォートパターンをSystem Preferences → Keyboard → Textで設定可能です。変更された場合、適用するためにTyporaを再起動する必要があります。";
+
+
+"Paper Size" = "紙のサイズ";
+"US Letter" = "US レター";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "改ページ;
+"Page Break Between Top Headings" = "トップ見出し間の改ページ";
+"Header" = "ヘッダー";
+"Footer" = "フッター";
+"Author" = "作者";
+"Append in <head />" = "<head />"内に追加;
+"Append in <body />" = "<body />内に追加";
+"Include Outline Sidebar" = "アウトラインサイドバーを含める";
+"Width" = "幅";
+"Command" = "コマンド";
+"Show Save File Dialog" = "ファイルを保存ダイアログを表示";
+"File Extensions for Export" = "エクスポート時のファイル拡張子";
+"Arguments" = "引数";
+"Extra Arguments" = "追加の引数";
+"LaTeX Engine" = "LaTeX エンジン ";
+"Template" = "テンプレート";
+"Empty" = "空";
+"Style Reference" = "Style Reference";
+"Custom CSS" = "カスタム CSS";
+"Chapter Level" = "チャプターレベル";
+"Default Folder for Exported File" = "エクスポートされたファイルのデフォルトのフォルダ";
+"Same folder with current file" = "現在のファイルと同じフォルダ";
+"Custom location" = "その他の場所";
+"(Auto Detect)" = "(自動検出)";
+"After Export" = "エクスポート後";
+"Open exported file location" = "エクスポートされたファイルの場所を開く";
+"Open exported file" = "エクスポートされたファイルを開く";
+"Custom" = "カスタム";
+"None" = "無し";
+"Default" = "デフォルト";
+"Margin" = "マージン";
+"Margin Left" = "左マージン";
+"Margin Right" = "右マージン";
+"Margin Top" = "上マージン";
+"Margin Bottom" = "下マージン";
+"Width x Height" = "幅 x 高さ";
+"Add From a Template" = "テンプレートから追加";
+"Delete this export option ?" = "このエクスポートオプションを削除しますか ?";
+"Add" = "追加";
+"Delete" = "削除";
+"Rename" = "名前を変更";
+"Move Down" = "下に移動";
+"Move Up" = "上に移動";
+"Pandoc Path" = "Pandoc パス";
+"Select" = "選択";
+"Target Format" = "対象のフォーマット";
+"auto detect based on target file path" = "対象のファイパスから自動検出する";
+"Target File Extensions (separate by whitespace)" = "対象のファイル拡張子(スペース区切り)";
+"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc または 空";
+"Raw Type" = "Raw タイプ";
+"Auto" = "自動";
+"Show Save File Dialog" = "ファイルを保存ダイアログを表示";
+"Do not popup save file dialog" = "ファイルを保存ダイアログを表示しない";
+"Select file path to save" = "保存先のファイルパスを選択";
+"Select folder path to save" = "保存先のフォルダパスを選択";
+"PDF Engine" = "PDF エンジン";
+"Show command output" = "コマンドの出力を表示";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"エクスポートして以前のものに上書き\" は %@ を上書きします。続行しますか？";
+"Command Arguments:" = "コマンドの引数:";
+"This dev version of Typora is expired, please download and install a newer version." = "この開発版は期限切れです。より新しいバージョンをインストールしてください。";
+"Current Theme" = "現在のテーマ";
+"After Export" = "エクスポート後";
+"Run command" = "コマンドを実行";
+"Run command after export failed" = "エクスポートに失敗した際にコマンドを実行";
+"Read and overwrite export settings from YAML front matters" = "YAMLフロントマターから、エクスポートに関する設定を読み込んで上書きする";
+"Append Extra Content (HTML)" = "末尾にコンテンツを追加 (HTML)";
+"Change this option to specify a separated theme for export." = "エクスポート用の分割テーマを指定するにはこのオプションを変更してください。";
+"Dark theme is not supported." = "ダークテーマはサポートされていません。";
+
+"Markdown Variants" = "マークダウンの種類";
+"Original Unextended Markdown" = "拡張なしのオリジナルのマークダウン";
+"CommonMark with many pandoc extensions" = "CommonMarkと多くのPandoc拡張構文";
+"Line Wrap" = "行の折り返し";
+"Auto (based on current OS)" = "自動 (現在のOSに従う)";
+"Indent" = "インデント";
+"2 spaces per tab" = "タブごとに2つのスペース";
+"3 spaces per tab" = "タブごとに3つのスペース";
+"4 spaces per tab" = "タブごとに4つのスペース";
+"Unicode Characters" = "Unicode文字";
+"Use only ASCII characters in output" = "出力にASCII文字のみを使用する";
+"Use reference-style links rather than inline links" = "インラインリンクではなく、リファレンススタイルのリンクを使用する";
+"Footnotes and References Location" = "脚注とリファレンスを挿入する位置";
+"End of document" = "文書の末尾";
+"End of current (top-level) block" = "現在の(トップレベルの)ブロックの末尾";
+"End of current section" = "現在のセクションの末尾";
+"Convert TeX formulas to web images" = "TeX の式をウェブイメージに変換する";
+"Image Format" = "画像フォーマット";
+
+"Set Pandoc Path" = "Pandoc のパスを設定";
+
+
+
+"Export operation succeeded with warnings." = "エクスポートは成功しましたが警告があります。";
+
+"Typora is now deactivated" = "Typoraのアクティベートが解除されました";
+"This device has been deactivated" = "このデバイスのアクティベートは解除されました";
+"UNREGISTERED" = "未登録";
+
+"Your Typora is not activated." = "Typoraはアクティベートされていません。";
+"Your Typora has been activated." = "Typoraはアクティベートされました。";
+"Typora activation is required to change this." = "これを変更するにはTyporaのアクティベートが必要です。";
+"You can reinstall the stable version and then disable this." = "安定版を再インストールするとこれを無効化できます。";
+"Update to dev version" = "開発バージョンにアップデート";
+
+"Typora Server" = "Typora サーバー";
+"Use Typora Server in China" = "Typoraのサーバーを中国で使う";
+
+"File does not exist" = "ファイルが存在しません";
+"Create File" = "ファイルを作成";
+"Create Folder" = "フォルダを作成";
+
+"(Some options will be applied after restart.)" = "(いくつかのオプションは再起動後に反映されます。)";
+"Enable physics package" = "physics パッケージを有効化";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics パッケージは \\div や \\Re などのいくつかのLatexマクロを再定義します。"
+
+"Detail" = "詳細";
+"Use custom font size" = "カスタムフォントサイズを使う";
+"Use theme font size" = "テーマのフォントサイズを使う";
+
+"You are using the Snap version, it may have limited access to your local executables." = "現在Snap版を使用中のため。ローカルへのアクセスが制限される可能性があります。";
+
+"No local images found." = "ローカルに画像が見つかりませんでした。No local images found.";
+
+"File Format:" = "ファイルフォーマット:";
+
+"Images copied to %@." = "%@ に画像をコピーしました。";
+"Images moved to %@." = "%@ に画像を移動しました。";
+
+"Custom Command" = "カスタムコマンド";
+"No Automatic Equation Numbering" = "式を自動でナンバリングしない";
+"Use AMS Numbering Rules" = "AMSのナンバリングルールを使う";
+"Auto Numbering for All Math Equations" = "全ての式に自動でナンバリング";
+
+"Preferred Image Syntax" = "優先する画像の構文";
+"Add ./ for relative path" = "相対パスに./を追加";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "有効化されると、Typoraは相対パスの生成時に assets/image.png ではなく ./assets/image.png のような形式を使用します。";
+
+"Image Quality" = "画像の品質";
+"Medium" = "中";
+"High" = "高";
+"Best" = "最適";
+
+"Use Shift+Tab to auto indent selected code" = "Shift+Tab で選択されたコードをインデント";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "無効化されると、Shit+Tabは選択されたコードや現在の行のインデントを解除します。有効化されると、Shift+Tabは選択されたコードや現在のコードブロックに自動でインデントを追加します。";
+
+"Auto Links (e.g: https://typora.io)" = "自動リンク (e.g: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "有効化されると、Typoraはテキスト内のURLを自動で認識してハイライトします。(e.g: https://typora.io or mailto:hi@typora.io)";
+
+"Files" = "ファイル";
+"Default File Type / Extension" = "デフォルトのファイルタイプ / 拡張子";
+"Custom Extension:" = "任意の拡張子:";
+"Following extensions are supported: %@" = "以下の拡張子がサポートされています: %@";
+"e.g: %@" = "e.g: %@";
+"When drop file / folder into Typora" = "Typoraにファイル / フォルダをドロップしたとき";
+"When drop folder" = "フォルダをドロップしたとき";
+"When drop markdown file" = "マークダウンファイルをドロップしたとき";
+"When drop files that can be imported" = "インポート可能なファイルをドロップしたとき";
+"Open in Typora" = "Typoraで開く";
+"Insert Folder Link" = "フォルダへのリンクを挿入";
+"Insert File Link" ="ファイルへのリンクを挿入";
+"Import File" = "ファイルをインポート";
+
+"Diagram Options" = "図のオプション";
+"Default Code Language" = "デフォルトのプログラミング言語";
+"(None)" = "(None)";
+"Last Used" = "最後に使ったもの";
+"Apply Default Code Language When" = "デフォルトのコード言語が適用される場合";
+"When add code fences via Markdown" = "Markdownでフェンスされたコードブロックを追加する場合";
+"When add code fences via Menubar" = "メニューバーからフェンスされたコードブロックを追加する場合";
+"Both" = "両方";

@@ -6,6 +6,7 @@
 
 Japanese translated by
  @Yukinosuke-Takada / Yukinosuke Takada <yukinosuke.tokyo@gmail.com>
+ @Hayao0819 / Yamada Hayao <hayao@fascode.net>
 */
 
 /*
@@ -78,3 +79,16 @@ Japanese translated by
 "This license code has been used with a different email address." =  "このライセンスは別のメールアドレスで使用されています。";
 "Unknown Error. Please contact hi@typora.io" = "不明なエラー。hi@typora.ioにご連絡ください。";
 "Failed to access the license server. Please check your network or try again later." = "ライセンスサーバーへのアクセスに失敗しました。あなたのネットワークを確認するか、時間をあけてもう一度お試しください。 ";
+
+"Enter a license code to support our development ❤" = "ライセンスコードを入力して開発を支援してください ❤";
+"Re-enter Email" = "メールアドレスを再入力";
+"Email address confirmation does not match." = "メールアドレスの確認が一致しませんでした。";
+
+"Are you sure to deactivate Typora on this device?" = "このデバイスでTyporaを非アクティブ化してもよろしいですか？";
+
+"Offline Activation" = "オフライン アクティベーション";
+"Back" = "戻る";
+"Get Activation Token" = "アクティベーショントークンを取得する";
+
+"Your activated devices have exceeded the maximum limits." = "アクティベートされているデバイス数が最大に達しました。";
+

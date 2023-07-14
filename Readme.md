@@ -15,6 +15,10 @@ gawk 'BEGIN { FS=" = " } { print $1 }' Base.lproj/Welcome.strings > base-keys
 gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
 ```
 
+#### Find translation progress and all missing labels
+
+[@Hayao081](https://github.com/Hayao0819) also made a script <https://github.com/typora/Typora-i18n/blob/master/tools.sh> to quickly find untranslated labels and translation process of given languages. You can refer to #382 for more details.
+
 ### Add a new language Interface
 
 1. Check our issue list to see if there are already someone else translating the text recourse to your language. If not, open an issue to tell others that you doing the translation, in order to avoid duplicate work.

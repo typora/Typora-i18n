@@ -348,3 +348,8 @@
 "Copy Code Content" = "Copy Code Content";
 "Auto Indent Selected Code" = "Auto Indent Selected Code";
 "Auto Indent Whole Code" = "Auto Indent Whole Code";
+
+"Jump to Line Start" = "Jump to Line Start";
+"Jump to Line End" = "Jump to Line End";
+"Toggle Word Count Popover" = "Toggle Word Count Popover";
+"Toggle Outline Popover" = "Toggle Outline Popover";

@@ -34,7 +34,7 @@ Japanese translated by
 "Show Outline Panel by Default" = "標準でアウトラインパネルを表示";
 "Collapsible Outline on Left Panel" = "左パネルに折り畳みアウトラインを表示";
 "Save without asking when\nswitch files on side panel" = "サイドパネルでファイルの切り替え時に自動保存";
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "左のパネルでファイルを切り替えた際、自動で変更が保存されるようになりました。\nこれは、"文書を閉じたとき変更を維持するか尋ねる"がシステム設定で無効化されている場合、自動で有効化されます。";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "左のパネルでファイルを切り替えた際、自動で変更が保存されるようになりました。\nこれは、\"文書を閉じたとき変更を維持するか尋ねる\"がシステム設定で無効化されている場合、自動で有効化されます。";
 "Language" = "言語";
 "System Language" = "システム言語";
 
@@ -343,7 +343,7 @@ Japanese translated by
 "Image Upload Setting" = "画像アップロードの設定";
 "Please set an image uploader in Preferences panel before using this function." = "この機能を使う前に、設定パネルで画像アップローダーを設定してください。";
 "Download or Upgrade" = "ダウンロード or アップグレード";
-"Open Config File" = 設定ファイルを開く";
+"Open Config File" = "設定ファイルを開く";
 "Command" = "コマンド";
 "PicGo Path" = "PicGoのパス";
 "Path of PicGo binary" = "PicGo 実行ファイルへのパス";
@@ -382,12 +382,12 @@ Japanese translated by
 "US Letter" = "US レター";
 "US Legal" = "US Legal";
 "Tabloid" = "Tabloid";
-"Page Break" = "改ページ;
+"Page Break" = "改ページ";
 "Page Break Between Top Headings" = "トップ見出し間の改ページ";
 "Header" = "ヘッダー";
 "Footer" = "フッター";
 "Author" = "作者";
-"Append in <head />" = "<head />"内に追加;
+"Append in <head />" = "<head />内に追加";
 "Append in <body />" = "<body />内に追加";
 "Include Outline Sidebar" = "アウトラインサイドバーを含める";
 "Width" = "幅";
@@ -473,7 +473,7 @@ Japanese translated by
 
 "Set Pandoc Path" = "Pandoc のパスを設定";
 
-
+"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
 
 "Export operation succeeded with warnings." = "エクスポートは成功しましたが警告があります。";
 
@@ -496,7 +496,7 @@ Japanese translated by
 
 "(Some options will be applied after restart.)" = "(いくつかのオプションは再起動後に反映されます。)";
 "Enable physics package" = "physics パッケージを有効化";
-"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics パッケージは \\div や \\Re などのいくつかのLatexマクロを再定義します。"
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics パッケージは \\div や \\Re などのいくつかのLatexマクロを再定義します。";
 
 "Detail" = "詳細";
 "Use custom font size" = "カスタムフォントサイズを使う";

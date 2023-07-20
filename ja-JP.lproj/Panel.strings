@@ -456,6 +456,7 @@ Japanese translated by
 "Original Unextended Markdown" = "拡張なしのオリジナルのマークダウン";
 "CommonMark with many pandoc extensions" = "CommonMarkと多くのPandoc拡張構文";
 "Line Wrap" = "行の折り返し";
+"Text Column Width" = "テキストカラムの幅";
 "Auto (based on current OS)" = "自動 (現在のOSに従う)";
 "Indent" = "インデント";
 "2 spaces per tab" = "タブごとに2つのスペース";
@@ -553,3 +554,14 @@ Japanese translated by
 "When add code fences via Markdown" = "Markdownでフェンスされたコードブロックを追加する場合";
 "When add code fences via Menubar" = "メニューバーからフェンスされたコードブロックを追加する場合";
 "Both" = "両方";
+
+"Pinned and Recent Locations" = "ピン留めされた最近の場所";
+"Operation Succeeded" = "操作は成功しました";
+"Clear Recent Folders and Files" = "最近のフォルダとファイルを削除";
+"Clear Recent Folders / Files Only" = "最近のフォルダ / ファイルのみを削除";
+"Clear Recent and Pinned Folders / Files" = "最近のピン留めされたフォルダ / ファイルを削除";
+"Also clear pinned folders" = "ピン留めされたフォルダも削除";
+"Pin" = "ピン留め";
+"Unpin" = "ピン留めを解除";
+"Remove from List" = "リストから削除";
+"Record recent files and folders" = "最近のファイルとフォルダを記録";

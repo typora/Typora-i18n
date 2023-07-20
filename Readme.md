@@ -64,7 +64,7 @@ Feel free to contact us via <hi@typora.io>
 - Spanish by  [thepiratejester](https://github.com/thepiratejester), [rgomez90](https://github.com/rgomez90), [iiiGerardoiii](https://github.com/iiiGerardoiii)
 - French by [MOrdinateur](https://github.com/MOrdinateur), [cnovel](https://github.com/cnovel), [m0wh](https://github.com/m0wh), [Arnaud Ligny](https://github.com/ArnaudLigny)
 - Russian by [Bugo](https://github.com/dragomano)
-- Japanese by [tomochan001](https://github.com/tomochan001), [gageas](https://github.com/gageas), [7ma7X](https://github.com/7ma7X), [shuuji3](https://github.com/shuuji3), [ScratchBuild](https://github.com/ScratchBuild)
+- Japanese by [tomochan001](https://github.com/tomochan001), [gageas](https://github.com/gageas), [7ma7X](https://github.com/7ma7X), [shuuji3](https://github.com/shuuji3), [ScratchBuild](https://github.com/ScratchBuild), [Hayao0819](https://github.com/Hayao0819)
 - Portuguese (Brazil) by [teuscard](https://github.com/teuscard) [akz92](https://github.com/akz92), [dgsnunes](https://github.com/dgsnunes)
 - German by [rcvd](https://github.com/rcvd), Gert Massheimer, [Indeximal](https://github.com/Indeximal), [tobiasvonarx](https://github.com/tobiasvonarx), [jheschl17](https://github.com/Jheschl17/)
 - German (Switzerland) by [Indeximal](https://github.com/Indeximal)

@@ -17,8 +17,8 @@ Command:
     missing LANG       Show a sorted key list that is not translated.
     old LANG           Show a sorted key list that have been changed and are not currently in use.
     diff LANG          Show differences between Base and the specified language
-    parsent LANG       Show the percentage that has been translated.
-    all-parsent        Show the percentage of all languages translated.
+    percent LANG       Show the percentage that has been translated.
+    all-percent        Show the percentage of all languages translated.
     translated LANG    Show the translated text.
     help               Show this help message.
 
@@ -169,7 +169,7 @@ diff_command(){
 }
 
 # Show the percentage that has been translated
-parsent_command(){
+percent_command(){
     # Check lang name
     check_lang "${1-""}"
 
@@ -189,7 +189,7 @@ parsent_command(){
 }
 
 # Show the progress of all language
-all_parsent_command(){
+all_percent_command(){
     for lang in ./*.lproj; do
         lang="${lang%".lproj"}"
         lang="${lang#"./"}"
@@ -198,7 +198,7 @@ all_parsent_command(){
             continue
         fi
 
-        echo "$lang: $(parsent_command "$lang")"
+        echo "$lang: $(percent_command "$lang")"
     done
 
     # Remove temp files
@@ -247,14 +247,14 @@ case "${command}" in
     "missing")
         missing_command "$@" 
         ;;
-    "parsent")
-        parsent_command "$@"
+    "percent")
+        percent_command "$@"
         ;;
     "old")
         old_command "$@"
         ;;
-    "all-parsent")
-        all_parsent_command "$@"
+    "all-percent")
+        all_percent_command "$@"
         ;;
     "diff")
         diff_command "$@"

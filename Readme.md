@@ -17,7 +17,7 @@ gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
 
 #### Find translation progress and all missing labels
 
-[@Hayao0819](https://github.com/Hayao0819) also made a script <https://github.com/typora/Typora-i18n/blob/master/tools.sh> to quickly find untranslated labels and translation process of given languages. You can refer to #382 for more details.
+[@Hayao0819](https://github.com/Hayao0819) also made a script <https://github.com/typora/Typora-i18n/blob/master/tools.sh> to quickly find untranslated labels and translation process of given languages. You can refer to [#382](https://github.com/typora/Typora-i18n/issues/382) for more details.
 
 ### Add a new language Interface
 

@@ -48,6 +48,11 @@ make_keyslist(){
     # make temp dir for each lang
     mkdir -p "./keys-$1"
 
+    # remove file when script exists due to something wrong
+    if [ "${TYPORA_I18N_NOCLEAN-""}" != true ]; then
+        trap clean_all_keyslist 1 2 3 15
+    fi
+
     # run make_keys and write it to each files
     for _f in ."/${1}.lproj/"*.strings; do
         make_keys "$_f" > "./keys-$1/$(basename "$_f")"
@@ -71,7 +76,7 @@ make_sorted_keyslist(){
     done
 }
 
-clean_keyslist(){
+clean_all_keyslist(){
     # clean up
     [ "${TYPORA_I18N_NOCLEAN-""}" = true ] && return 0
     rm -rf "./keys-"*
@@ -129,7 +134,7 @@ compare_lang(){
         fi
     done
 
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show a key list that is not translated
@@ -165,7 +170,7 @@ diff_command(){
         fi
     done
 
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show the percentage that has been translated
@@ -185,7 +190,7 @@ percent_command(){
     awk "BEGIN{ printf \"%.2f%%\n\", (100 - $_missing_lines * 100 / $_base_lines) }"
 
     # Remove used files
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show the progress of all language
@@ -202,7 +207,7 @@ all_percent_command(){
     done
 
     # Remove temp files
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show a key list to stdout
@@ -230,6 +235,7 @@ translated_command(){
 }
 
 # Parse options
+TYPORA_I18N_NOCLEAN="${TYPORA_I18N_NOCLEAN-""}"
 if [ "$1" = "--noclean" ];then
     TYPORA_I18N_NOCLEAN=true
     shift 1

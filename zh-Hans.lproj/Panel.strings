@@ -556,3 +556,14 @@
 "When add code fences via Markdown" = "当通过Markdown代码插入代码块";
 "When add code fences via Menubar" = "当通过菜单栏代码插入代码块";
 "Both" = "两者皆是";
+
+"Pinned and Recent Locations" = "固定的 / 最近的位置";
+"Operation Succeeded" = "操作成功";
+"Clear Recent Folders and Files" = "清除历史文件记录";
+"Clear Recent Folders / Files Only" = "只清除历史文件和文件夹";
+"Clear Recent and Pinned Folders / Files" = "清除历史和固定的文件和文件夹";
+"Also clear pinned folders" = "同时清除固定的文件夹";
+"Pin" = "固定";
+"Unpin" = "取消固定";
+"Remove from List" = "从列表中删除";
+"Record recent files and folders" = "记录历史文件和文件夹";

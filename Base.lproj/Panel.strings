@@ -550,3 +550,14 @@
 "When add code fences via Markdown" = "When add code fences via Markdown";
 "When add code fences via Menubar" = "When add code fences via Menubar";
 "Both" = "Both";
+
+"Pinned and Recent Locations" = "Pinned and Recent Locations";
+"Operation Succeeded" = "Operation Succeeded";
+"Clear Recent Folders and Files" = "Clear Recent Folders and Files";
+"Clear Recent Folders / Files Only" = "Clear Recent Folders / Files Only";
+"Clear Recent and Pinned Folders / Files" = "Clear Recent and Pinned Folders / Files";
+"Also clear pinned folders" = "Also clear pinned folders";
+"Pin" = "Pin";
+"Unpin" = "Unpin";
+"Remove from List" = "Remove from List";
+"Record recent files and folders" = "Record recent files and folders";

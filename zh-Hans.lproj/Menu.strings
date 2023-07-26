@@ -350,3 +350,8 @@
 "Copy Code Content" = "复制代码块内容";
 "Auto Indent Selected Code" = "为选中内容调整缩进";
 "Auto Indent Whole Code" = "为整个代码块调整缩进";
+
+"Jump to Line Start" = "跳转到行首";
+"Jump to Line End" = "跳转到行尾";
+"Toggle Word Count Popover" = "字数统计窗口";
+"Toggle Outline Popover" = "大纲窗口";

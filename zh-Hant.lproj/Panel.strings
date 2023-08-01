@@ -550,3 +550,14 @@
 "When add code fences via Markdown" = "當透過 Markdown 插入程式碼區塊時";
 "When add code fences via Menubar" = "當透過選單列插入程式碼區塊時";
 "Both" = "兩者皆是";
+
+"Pinned and Recent Locations" = "已釘選 / 最近位置";
+"Operation Succeeded" = "操作成功";
+"Clear Recent Folders and Files" = "清除最近使用的資料夾與檔案";
+"Clear Recent Folders / Files Only" = "僅清除最近使用的資料夾與檔案";
+"Clear Recent and Pinned Folders / Files" = "清除最近使用和已釘選的資料夾與檔案";
+"Also clear pinned folders" = "同時清除已釘選的資料夾";
+"Pin" = "釘選";
+"Unpin" = "取消釘選";
+"Remove from List" = "從列表中移除";
+"Record recent files and folders" = "記錄最近使用的檔案與資料夾";

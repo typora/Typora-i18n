@@ -550,3 +550,14 @@
 "When add code fences via Markdown" = "dodajesz blok kodu, pisząc w Markdown";
 "When add code fences via Menubar" = "dodajesz blok kodu z poziomu menu";
 "Both" = "w obu przypadkach";
+
+"Pinned and Recent Locations" = "Przypięte i ostatnio używane miejsca";
+"Operation Succeeded" = "Operacja zakończona powodzeniem";
+"Clear Recent Folders and Files" = "Wyczyść listę ostatnio używanych folderów i plików";
+"Clear Recent Folders / Files Only" = "Wyczyść tylko listę ostatnio używanych folderów lub plików";
+"Clear Recent and Pinned Folders / Files" = "Wyczyść listę ostatnio używanych oraz przypiętych folderów lub plików";
+"Also clear pinned folders" = "Wyczyść także przypięte foldery";
+"Pin" = "Przypnij";
+"Unpin" = "Odepnij";
+"Remove from List" = "Usuń z listy";
+"Record recent files and folders" = "Zapamiętaj ostatnie pliki i foldery";

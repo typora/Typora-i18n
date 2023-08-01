@@ -17,8 +17,8 @@ Command:
     missing LANG       Show a sorted key list that is not translated.
     old LANG           Show a sorted key list that have been changed and are not currently in use.
     diff LANG          Show differences between Base and the specified language
-    parsent LANG       Show the percentage that has been translated.
-    all-parsent        Show the percentage of all languages translated.
+    percent LANG       Show the percentage that has been translated.
+    all-percent        Show the percentage of all languages translated.
     translated LANG    Show the translated text.
     help               Show this help message.
 
@@ -48,6 +48,11 @@ make_keyslist(){
     # make temp dir for each lang
     mkdir -p "./keys-$1"
 
+    # remove file when script exists due to something wrong
+    if [ "${TYPORA_I18N_NOCLEAN-""}" != true ]; then
+        trap clean_all_keyslist 1 2 3 15
+    fi
+
     # run make_keys and write it to each files
     for _f in ."/${1}.lproj/"*.strings; do
         make_keys "$_f" > "./keys-$1/$(basename "$_f")"
@@ -71,7 +76,7 @@ make_sorted_keyslist(){
     done
 }
 
-clean_keyslist(){
+clean_all_keyslist(){
     # clean up
     [ "${TYPORA_I18N_NOCLEAN-""}" = true ] && return 0
     rm -rf "./keys-"*
@@ -129,7 +134,7 @@ compare_lang(){
         fi
     done
 
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show a key list that is not translated
@@ -165,11 +170,11 @@ diff_command(){
         fi
     done
 
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show the percentage that has been translated
-parsent_command(){
+percent_command(){
     # Check lang name
     check_lang "${1-""}"
 
@@ -185,11 +190,11 @@ parsent_command(){
     awk "BEGIN{ printf \"%.2f%%\n\", (100 - $_missing_lines * 100 / $_base_lines) }"
 
     # Remove used files
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show the progress of all language
-all_parsent_command(){
+all_percent_command(){
     for lang in ./*.lproj; do
         lang="${lang%".lproj"}"
         lang="${lang#"./"}"
@@ -198,11 +203,11 @@ all_parsent_command(){
             continue
         fi
 
-        echo "$lang: $(parsent_command "$lang")"
+        echo "$lang: $(percent_command "$lang")"
     done
 
     # Remove temp files
-    clean_keyslist
+    clean_all_keyslist
 }
 
 # Show a key list to stdout
@@ -230,6 +235,7 @@ translated_command(){
 }
 
 # Parse options
+TYPORA_I18N_NOCLEAN="${TYPORA_I18N_NOCLEAN-""}"
 if [ "$1" = "--noclean" ];then
     TYPORA_I18N_NOCLEAN=true
     shift 1
@@ -247,14 +253,14 @@ case "${command}" in
     "missing")
         missing_command "$@" 
         ;;
-    "parsent")
-        parsent_command "$@"
+    "percent")
+        percent_command "$@"
         ;;
     "old")
         old_command "$@"
         ;;
-    "all-parsent")
-        all_parsent_command "$@"
+    "all-percent")
+        all_percent_command "$@"
         ;;
     "diff")
         diff_command "$@"

@@ -207,7 +207,7 @@ Japanese translated by
 "More Formats" = "他のフォーマット";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "「他のフォーマット」に挙げられているフォーマットの処理には、<a class='open-pandoc-guide'>Pandocのインストールが必要です</a>.";
 "Something is Wrong…" = "問題が生じました";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "何らかの理由でコンテンツの保存に失敗しました。<br/>新しいTyporaウィンドウに内容をコピーして、保存してください。 <br/>詳細はこちら:<ul><li><a href='https://support.typora.io/Report-Bugs/'>バグを報告する</a></li><li><a href='https://support.typora.io/Version-Control/'>失われたコンテンツを復元する</a></li></ul>";
 "Copy Content" = "コンテンツをコピー";
 
 
@@ -313,7 +313,7 @@ Japanese translated by
 "When copy / export as HTML (without style)" = "(スタイル無しで)HTMLとしてコピー / エクスポートしたとき";
 "Use Rendered SVG" = "レンダリングにSVGを使用";
 "Use LaTeX Source" = "LaTeXのソースを使用";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>HTMLとしてエクスポートするとき(スタイルなし)、HTMLコードとしてコピーするとき、またはテーマスタイルなしでコピーするときに効果を発揮します。<br/> <strong>LaTeXのソースを使用</strong> が選択されている場合、Typora は生のLaTeXソース (e.g: $X^2$),<br/> <strong>レンダリングにSVGを使用</strong> が選択されている場合、レンダリングされたSVGが使用されます。</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "インポート機能といくつかのフォーマット形式によるエクスポートには、Pandoc (≥%@) のインストールが必要です。";
 "Do not show this message again" = "このメッセージを次回から表示しない";

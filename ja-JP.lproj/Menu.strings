@@ -356,3 +356,7 @@ Japanese translated by
 "Auto Indent Selected Code" = "選択されたコードを自動でインデント";
 "Auto Indent Whole Code" = "全てのコードを自動でインデント";
 
+"Jump to Line Start" = "行頭に移動";
+"Jump to Line End" = "行末に移動";
+"Toggle Word Count Popover" = "単語数カウントのポップオーバーを切り替え";
+"Toggle Outline Popover" = "アウトラインのポップオーバーを切り替え";

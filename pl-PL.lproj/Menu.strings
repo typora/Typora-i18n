@@ -348,3 +348,8 @@
 "Copy Code Content" = "Skopiuj treść kodu";
 "Auto Indent Selected Code" = "Automatyczne wcięcie zaznaczonego kodu";
 "Auto Indent Whole Code" = "Automatyczne wcięcie całego kodu";
+
+"Jump to Line Start" = "Skocz do początku wiersza";
+"Jump to Line End" = "Skocz do końca wiersza";
+"Toggle Word Count Popover" = "Włącz/wyłącz okienko licznika słów";
+"Toggle Outline Popover" = "Włącz/wyłącz okienko konspektu";

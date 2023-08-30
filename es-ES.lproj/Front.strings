@@ -92,7 +92,7 @@
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Se necesita definir la referencia de la nota al pie <b>{0}</b> con sintaxis <a>[^{1}]: www.ejemplo.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Se necesita definir la referencia del enlace <b>[{0}]</b> con sintaxis <b>[{1}]: www.ejemplo.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Por favor define la referencia de la imagen como \n[{0}]: http://ejemplo.png";
+"Please define image reference by \n[{0}]: http://example.png" = "Por favor defina la referencia de la imagen como \n[{0}]: http://ejemplo.png";
 
 /* msg */
 "Failed to create file" = "Error al crear el archivo";

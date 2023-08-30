@@ -24,13 +24,13 @@
 "Search" = "Buscar";
 "Replace" = "Reemplazar";
 "All" = "Todo";
-"Search text not found in article" = "El texto a buscar no se ha encontrado en el artículo";
+"Search text not found in article" = "El texto para buscar no se ha encontrado en el artículo";
 "search text" = "buscar texto";
 
 /* Quick Open */
 "Search by file name" = "Buscar por nombre de archivo";
 "Searching" = "Buscando";
-"Gathering more results" = "Reuniendo más resultados";
+"Gathering more results" = "Recopilando más resultados";
 
 /* Tables */
 "Insert Table" = "Insertar tabla";
@@ -71,10 +71,10 @@
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por carpeta";
 "Sort Naturally" = "Ordenar naturalmente";
-"Sort by Name (Ascending)" = "Ordenar por nombre (ascendetemente)";
-"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (ascendetemente)";
-"Sort by Name (Descending)" = "Ordenar por nombre (descendentemente)";
-"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (descendentemente)";
+"Sort by Name (Ascending)" = "Ordenar por nombre (ascendiente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por fecha de modificación (ascendiente)";
+"Sort by Name (Descending)" = "Ordenar por nombre (descendiente)";
+"Sort by Modification Date (Descending)" = "Ordenar por fecha de modificación (descendiente)";
 "Location" = "Ubicación"; 
 "Switch File List/Tree View" = "Cambiar entre vista de lista/árbol de archivos";
 "No Files Available" = "No hay archivos disponibles";
@@ -95,9 +95,9 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Por favor define la referencia de la imagen como \n[{0}]: http://ejemplo.png";
 
 /* msg */
-"Failed to create file" = "Error al crear archivo";
-"Failed to create folder" = "Error al crear carpeta";
-"Failed to rename file" = "Error al renombrar archivo";
+"Failed to create file" = "Error al crear el archivo";
+"Failed to create folder" = "Error al crear la carpeta";
+"Failed to rename file" = "Error al renombrar el archivo";
 "Folder does not exist at %@" = "La carpeta no existe en %@";
 "File with the same name already exists at target path" = "Un archivo con el mismo nombre ya existe en la ruta de destino";
 "Apply to All" = "Aplicar a todo";

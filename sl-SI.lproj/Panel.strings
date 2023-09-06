@@ -549,4 +549,15 @@
 "Apply Default Code Language When" = "Uporabi privzeti jezik kode, ko ...";
 "When add code fences via Markdown" = "dodajate kodo neposredno v Markdown";
 "When add code fences via Menubar" = "dodajate kodo prek menijev";
-"Both" = "Oboje";
+"Both" = "v obeh primerih";
+
+"Pinned and Recent Locations" = "Pripete in nedavne lokacije";
+"Operation Succeeded" = "Dejanje je uspelo";
+"Clear Recent Folders and Files" = "Počisti nedavne mape in datoteke";
+"Clear Recent Folders / Files Only" = "Počisti nedavne mape / samo datoteke";
+"Clear Recent and Pinned Folders / Files" = "Počisti nedavne in pripete mape / datoteke";
+"Also clear pinned folders" = "Počisti tudi pripete mape";
+"Pin" = "Pripni";
+"Unpin" = "Odpni";
+"Remove from List" = "Odstrani s seznama";
+"Record recent files and folders" = "Beleženje nedavnih map in datotek";

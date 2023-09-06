@@ -348,3 +348,8 @@
 "Copy Code Content" = "Kopiraj vsebino kode";
 "Auto Indent Selected Code" = "Samodejno poravnaj označeno kodo";
 "Auto Indent Whole Code" = "Samodejno poravnaj celotno kodo";
+
+"Jump to Line Start" = "Pojdi na začetek vrstice";
+"Jump to Line End" = "Pojdi na konec vrstice";
+"Toggle Word Count Popover" = "Prikaži/skrij štetje besed";
+"Toggle Outline Popover" = "Prikaži/skrij oris";

@@ -205,7 +205,7 @@
 
 
 "Total" = "Skupaj";
-"Word count only support OS X later than 10.10." = "Podpora samo za štetje besed je prisotna le na OS X, novejši od 10.10.";
+"Word count only support OS X later than 10.10." = "Podpora samo za štetje besed je prisotna le v OS X, novejši od 10.10.";
 "Indent Size for Code" = "Velikost odmika za kodo";
 "Auto wrap long lines" = "Samodejni prelom dolgih vrstic";
 
@@ -527,3 +527,37 @@
 
 "Auto Links (e.g: https://typora.io)" = "Samodejne spletne povezave (e.g: https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Če je omogočeno, bo Typora v besedilu samodejno prepoznala in označila URL povezave (na primer: https://typora.io ali mailto:hi@typora.io).";
+
+"Files" = "Datoteke";
+"Default File Type / Extension" = "Privzeti tip datoteke/pripona";
+"Custom Extension:" = "Razširitve po meri:";
+"Following extensions are supported: %@" = "Podprte so naslednje razširitve: %@";
+"e.g: %@" = "n.pr: %@";
+"When drop file / folder into Typora" = "Ko povlečeš datoteko/mapo v Typoro";
+"When drop folder" = "Ko povlečeš mapo";
+"When drop markdown file" = "Ko povlečeš markdown datoteko";
+"When drop files that can be imported" = "Ko povlečeš datoteke, katere je možno uvoziti";
+"Open in Typora" = "Odpri s Typoro";
+"Insert Folder Link" = "Vnesi povezavo do mape";
+"Insert File Link" ="Vnesi povezavo do datoteke";
+"Import File" = "Uvozi datoteko";
+
+"Diagram Options" = "Možnosti diagramov";
+"Default Code Language" = "Privzet jezik kode";
+"(None)" = "(Nič)";
+"Last Used" = "Zadnje uporabljeno";
+"Apply Default Code Language When" = "Uporabi privzeti jezik kode, ko ...";
+"When add code fences via Markdown" = "dodajate kodo neposredno v Markdown";
+"When add code fences via Menubar" = "dodajate kodo prek menijev";
+"Both" = "v obeh primerih";
+
+"Pinned and Recent Locations" = "Pripete in nedavne lokacije";
+"Operation Succeeded" = "Dejanje je uspelo";
+"Clear Recent Folders and Files" = "Počisti nedavne mape in datoteke";
+"Clear Recent Folders / Files Only" = "Počisti nedavne mape / samo datoteke";
+"Clear Recent and Pinned Folders / Files" = "Počisti nedavne in pripete mape / datoteke";
+"Also clear pinned folders" = "Počisti tudi pripete mape";
+"Pin" = "Pripni";
+"Unpin" = "Odpni";
+"Remove from List" = "Odstrani s seznama";
+"Record recent files and folders" = "Beleženje nedavnih map in datotek";

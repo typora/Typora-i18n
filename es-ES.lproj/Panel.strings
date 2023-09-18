@@ -16,7 +16,7 @@
 "Seamless window only support OS X later than 10.10." = "La ventana sin marco solo está soportada por OS X 10.10 o superiores.";
 "Themes" = "Temas";
 "Open Theme Folder" = "Abrir carpeta de temas";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor revista `Ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Por favor revise `Ayuda`->`Inicio rápido` para una breve introducción. Visita http://theme.typora.io para obtener más temas o instrucciones.";
 "Word Count" = "Conteo de palabras";
 "Always Show Word Count" = "Mostrar siempre el conteo de palabras";
 "Font Size" = "Tamaño de fuente";
@@ -32,22 +32,22 @@
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Tamaño indentación al guardar";
-"only apply to quotes and lists created from menu bar or hybrid view" = "aplica solamente para citaciones y listas creadas de la barra de menús o desde la vista híbrida";
+"Indent Size on Save" = "Tamaño de la sangría al guardar";
+"only apply to quotes and lists created from menu bar or hybrid view" = "Se aplica solamente para citas y listas creadas desde la barra de menús o desde la vista híbrida";
 "Trigger Autocomplete without ESC key for" = "Activar autocompletado sin tecla ESC para";
 "Emoji (e.g. :smile:)" = "Emoji (ej. :smile:)";
-"Images Insert" = "Insertado imágenes";
+"Images Insert" = "Insertado de imágenes";
 "Use relative path if possible" = "Usar ruta relativa si es posible";
-"Allow copy images to given folder" = "Permitir copiar imágenes a cierta carpeta";
-"Allow upload to given server" = "Permitir carga a cierto servidor";
+"Allow copy images to given folder" = "Permitir la copia de imágenes a una carpeta seleccionada";
+"Allow upload to given server" = "Permitir la carga a un servidor seleccionado";
 "Auto Pair" = "Cerrado automático";
 "Auto pair brackets and quotes" = "Cerrar pares de comillas y signos de\nagrupación";
-"Auto pair common Markdown syntax" = "Cerrar pares de sintaxis comúnes de Markdown";
+"Auto pair common Markdown syntax" = "Cerrar pares de sintaxis comunes de Markdown";
 "Live Rendering" = "Renderizado en vivo";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Mostrar código fuente para bloques\n simples al estar en el foco";
 "Default Copy Behavior" = "Comportamiento de\ncopiado predeterminado";
 "(⌘ + c)" = "(⌘ + c)";
-"Copy Markdown source as plain text" = "Copiar código Markdown como texto plano";
+"Copy Markdown source as plain text" = "Copiar código Markdown como texto sin formato";
 "Typewriter Mode" = "Modo Máquina de\nEscribir";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Mostrar siempre el carrete en medio de la\npantalla cuando el modo máquina de escribir está activado";
 
@@ -62,7 +62,7 @@
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Secuencia, Diagrama de flujo y Mermaid)";
 "Syntax Preference" = "Preferencia de sintaxis";
-"(only applies to styles created from menubar or hybrid view)" = "(sólo aplica para estilos creados desde la barra de menús o vista híbrida)";
+"(only applies to styles created from menubar or hybrid view)" = "(sólo se aplica para estilos creados desde la barra de menús o desde la vista híbrida)";
 "Strict Mode" = "Modo estricto";
 "(more strict to GFM spec)" = "(más estricto que la especificación GFM)";
 "Heading Style" = "Estilo de encabezados";
@@ -96,18 +96,18 @@
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Se necesita Pandoc para importar estos formatos de archivos";
-"Check help->Install and use Pandoc from menubar for detail" = "Revisar ayuda->Instalar y usar Pandoc desde la barra de menús para detalles";
+"Check help->Install and use Pandoc from menubar for detail" = "Revise ayuda->Instalar y usar Pandoc desde la barra de menús para más detalles";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Las características de importación o exportación requieren que <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) esté instalado.";
 "Follow Instructions to Install/Update Pandoc" = "Seguir instrucciones para instalar/actualizar Pandoc";
 "Export Failed" = "Error al exportar";
 "Import Failed" = "Error al importar";
-"Generated Image too Large" = "Imagen generada demasiado larga";
+"Generated Image too Large" = "Imagen generada demasiado grande";
 "Failed to export file to <em>{0}</em>" = "Error al exportar el archivo a <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "Error al importar el archivo desde <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "El archivo no existe en <em>{0}</em>";
 "Export to..." = "Exportar a...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "¿Deseas guardar los cambios hechos a éste documento?<br> Se perderán todos los cambios si no se guardan.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Advertencia] Error al adjuntar marcadador al archivo PDF.";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "¿Desea guardar los cambios hechos a este documento?<br> Se perderán todos los cambios si no se guardan.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Advertencia] Error al adjuntar marcador al archivo PDF.";
 "Dark Theme not support" = "Tema oscuro no soportado";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Lo sentimos, la versión actual de Typora no imprimirá en color de fondo en el PDF exportado, por lo que el tema oscuro aún no está soportado para exportar PDFs. \nConsidera escoger un tema claro o haz clic en \"Imprimir con el tema predeterminado\"";
 "Print with default theme" = "Imprimir con el tema predeterminado";
@@ -133,7 +133,7 @@
 "In Selection" = "En selección";
 "Panel" = "Panel";
 
-/* Windows Prefernce Panel*/
+/* Windows Preference Panel*/
 "Appearance" = "Apariencia";
 "System Native" = "Nativa del sistema";
 "Unibody" = "Unibody";
@@ -171,20 +171,20 @@
 "Notice" = "Aviso";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Esto requiere que iPic esté instalado, y las imágenes referidas serán cargadas a servicios en la nube vía iPic. Nótese también que el servicio en la nube predeterminado no permite eliminar imágenes cargadas.";
 
-"%d Images Failed to Upload." = "%d imágenes fallaron al cargarse.";
-"%d Succeeded," = "%d tuvieron éxito,";
-"Enable this feature on preferences panel" = "Activa esta característica en el panel de preferencias";
+"%d Images Failed to Upload." = "%d imágenes han fallado al cargarse.";
+"%d Succeeded," = "%d han tenido éxito,";
+"Enable this feature on preferences panel" = "Active esta característica en el panel de preferencias";
 "%@ is a file, not a directory" = "%@ es un archivo, no un directorio";
 "Copy Images To…" = "Copiar imágenes a…";
 "Create Folder and Continue" = "Crear carpeta y continuar";
 "Document must be saved first" = "El documento debe guardarse primero";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará la nueva imagen insertada a la carpeta fijada en la ruta relativa, así que por favor, guarda primero el archivo.";
-"Open Operation Failed" = "Operación abrir falló";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará la nueva imagen insertada a la carpeta fijada en la ruta relativa, así que por favor, guarde primero el archivo.";
+"Open Operation Failed" = "La operación de abrir ha fallado";
 
 "Support Documentation" = "Documentación de soporte";
 
 "Markdown File" = "Archivo Markdown";
-"Plain Text File" = "Archivo de texto plano";
+"Plain Text File" = "Archivo de texto sin formato";
 "All Files" = "Todos los archivos";
 "All Supported Formats" = "Todos los formatos soportados";
 "Discard Changes" = "Descartar cambios";
@@ -203,8 +203,8 @@
 "Path" = "Ruta";
 "Export As..." = "Exportar como...";
 "More Formats" = "Más formatos";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Los formatos de archivo bajo la selección 'Más formatos' necesitan que <a class='open-pandoc-guide'>Pandoc esté instalado</a>.";
-"Something is Wrong…" = "Algo salió mal…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "Hubo un error al guardar el contenido por alguna razón.<br/>Puedes copiar el contenido en una nueva ventana de Typora y luego guardarlo. <br/>Aprende más sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportarnos bugs</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar contenidos perdidos</a></li></ul>";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Los formatos de archivo bajo la sección 'Más formatos' necesitan que <a class='open-pandoc-guide'>Pandoc esté instalado</a>.";
+"Something is Wrong…" = "Algo ha salido mal…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "Ha habido un error al guardar el contenido por alguna razón.<br/>Puedes copiar el contenido en una nueva ventana de Typora y luego guardarlo. <br/>Descubre más sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Informar de errores</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar contenidos perdidos</a></li></ul>";
 "Copy Content" = "Copiar contenido";
 

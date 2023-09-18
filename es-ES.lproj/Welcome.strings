@@ -16,11 +16,11 @@
 "Check following links if you're new to Markdown or Typora." = "Revise los siguientes enlaces si no está familiarizado con Markdown o Typora.";
 
 "Activate Typora" = "Activar Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "¿Ya posee una licencia? Llene el formulario y active Typora inmediatamente.";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "¿Ya posee una licencia? Rellene el formulario y active Typora inmediatamente.";
 
-"Email" = "Email";
-"Email Address" = "Dirección de Email";
-"License Code" = "Código de la licencia";
+"Email" = "Correo electrónico";
+"Email Address" = "Dirección de correo electrónico";
+"License Code" = "Código de licencia";
 
 "Help" = "Ayuda";
 "Find my License" = "Buscar mi licencia";
@@ -30,11 +30,11 @@
 "Live Preview" = "Visualización inmediata";
 "Write and read rendered output instantly." = "Escriba y lea el resultado inmediatamente.";
 "Markdown Syntax" = "Sintaxis de Markdown";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Bloques de código, YAML, tareas, notas al pie de página, tablas, equaciones, diagramas";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Bloques de código, YAML, tareas, notas al pie de página, tablas, ecuaciones, diagramas";
 "Import / Export" = "Importar / Exportar";
 "Deliver your content in various formats." = "Distribuya su contenido en distintos formatos.";
 "Editing Experience" = "Experiencia de edición";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Índice / Conteo de palabras / Modo de enfoque / Modo máquina de escribir";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Índice / Conteo de palabras / Modo sin distracciones / Modo máquina de escribir";
 
 "Files" = "Archivos";
 "Manage files in sidebar and search across files." = "Maneje sus archivos en la barra lateral y realice búsquedas a través de ellos.";
@@ -68,10 +68,10 @@
 "Enter License" = "Ingrese su licencia";
 "Not Now" = "Ahora no";
 
-"Please input a valid email address" = "Por favor ingrese un email válido";
-"Please input a valid license code"  = "Por favor ingrese un código de licencia válido";
+"Please input a valid email address" = "Por favor introduzca un correo electrónico válido";
+"Please input a valid license code"  = "Por favor introduzca un código de licencia válido";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Su licencia ha excedido el número máximo de dispositivos.\nEl dispositivo más antiguo ha sido desactivado automáticamente.";
-"This license code has been used with a different email address." =  "Este código de licencia ha sido usado con otro email anteriormente.";
-"Unknown Error. Please contact hi@typora.io" = "Error desconocido, por favor contacte hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Ocurrió un fallo intentando acceder al servidor de licencias. Verifique su conexión a internet o intente de nuevo.";
+"This license code has been used with a different email address." =  "Este código de licencia ha sido usado con otro correo electrónico anteriormente.";
+"Unknown Error. Please contact hi@typora.io" = "Error desconocido, por favor contacte con hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Ha ocurrido un fallo al intentar acceder al servidor de licencias. Verifique su conexión a internet o inténtelo de nuevo.";
 

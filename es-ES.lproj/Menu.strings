@@ -13,7 +13,7 @@
 "Services" = "Servicios";
 "Hide Typora" = "Ocultar Typora";
 "Hide Others" = "Ocultar otros";
-"Show All" = "Mostar todo";
+"Show All" = "Mostrar todo";
 "Quit Typora" = "Salir de Typora";
 
 /* File Menu */
@@ -30,8 +30,8 @@
 "No Recent Files" = "No hay archivos recientes";
 "Open Quickly" = "Abrir rápidamente";
 "Open File Location" = "Abrir ubicación del archivo";
-"Reveal in Library" = "Mostrar como librería"; /* Needs context */
-"Reveal in File Tree" = "Mostrar como árbol de archivos";
+"Reveal in Library" = "Mostrar en la biblioteca"; /* Needs context */
+"Reveal in File Tree" = "Mostrar en el árbol de archivos";
 "Close" = "Cerrar";
 "Save" = "Guardar";
 "Save As" = "Guardar como";
@@ -54,7 +54,7 @@
 "Paste" = "Pegar";
 "Copy as Markdown" = "Copiar como Markdown";
 "Copy as HTML Code" = "Copiar como código HTML";
-"Paste as Plain Text" = "Pegar como texto plano";
+"Paste as Plain Text" = "Pegar como texto sin formato";
 "Select All" = "Seleccionar todo";
 "Select Line / Sentence" = "Seleccionar línea/frase";
 "Select Styled Scope" = "Selecionar rango con ese estilo";
@@ -73,7 +73,7 @@
 "Image Tools" = "Herramientas de imagen";
 "Insert Local Images" = "Insertar imágenes locales";
 "Upload Local Images via iPic" = "Cargar imágenes vía iPic";
-"When Insert Local Image" = "Cuando insertar una imagen local";
+"When Insert Local Image" = "Cuando se inserta una imagen local";
 "Copy Image File to Folder" = "Copiar archivo de imagen a carpeta";
 "Upload Image via iPic" = "Cargar imagen vía iPic";
 "Use Image Root Path" = "Usar ruta principal de la imagen";
@@ -188,7 +188,7 @@
 "Inline Styles" = "Estilos de línea";
 "List Styles / Remove Block" = "Lista de estilos / Eliminar bloque";
 "Exit Source Code Mode" = "Salir de modo código fuente";
-"Toggle Source Code Mode" = "Altenar modo código fuente";
+"Toggle Source Code Mode" = "Alternar modo código fuente";
 
 /* Extra Context Menu */
 "Table" = "Tabla";
@@ -230,11 +230,11 @@
 
 /* Related Panel */
 "Open Failed" = "Error al abrir";
-"File or folder does not exist." = "Archivo o carpeta no existe.";
+"File or folder does not exist." = "El archivo o carpeta no existe.";
 
 "Search" = "Buscar";
 
 "Insert Table" = "Insertar tabla";
-"Insert Image" = "Insert Image";
+"Insert Image" = "Insertar imagen";
 
 "Copy Image to" = "Copiar imagen a";

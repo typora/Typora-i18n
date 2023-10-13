@@ -71,7 +71,8 @@
 "Refresh Folder" = "Actualizar o cartafol";
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar por cartafol";
-"Sort Naturally" = "Ordenar naturalmente";
+"Sort Naturally (Ascending)" = "Orde natural (Ascendente)";
+"Sort Naturally (Descending)" = "Orde natural (Descendente)";
 "Sort by Name (Ascending)" = "Ordenar por nome (Ascendente)";
 "Sort by Modification Date (Ascending)" = "Ordenar por data de modificación (Ascendente)";
 "Sort by Name (Descending)" = "Ordenar por nome (Descendente)";
@@ -89,11 +90,11 @@
 
 "Table of Contents" = "Táboa de contidos";
 "Empty Diagram" = "Diagrama baleiro";
-  "Input Math TeX here" = "Introducir Math TeX aquí";
+"Input Math TeX here" = "Introducir Math TeX aquí";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Necesita definir a nota de referencia ó pé <b>{0}</b> coa sintaxe <a>[^{1}]:www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Necesita definir a ligazón de referencia <b>[{0}]</b> con sintaxe <b>[{1}]:www.example.com</b> ";
-"Please define image reference by \n[{0}]: http://example.png" = "Defina a referencia de imaxe por \n[{0}]:http://example.png";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Necesita definir a ligazón de referencia <b>[{0}]</b> con sintaxe <b>[{1}]:www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Define a referencia de imaxe por \n[{0}]:http://example.png";
 
 /* msg */
 "Failed to create file" = "Fallo ao crear arquivo";
@@ -110,9 +111,8 @@
 "Cannot open folder {0}" = "Non se pode abrir o cartafol {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "O contido do arquivo modificouse con aplicacións externas. Recargares o contido do disco?";
-"Should continue moving and overwrite existing file(s) ?" = "Desexa continuar a mover e sobrescribir os arquivos existentes?";
+"Should continue moving and overwrite existing file(s) ?" = "Desexas continuar a mover e sobrescribir o(s) arquivo(s) existente(s)?";
 
-"Rename Failed" = "Renomear fallou";
 "Rename to \"{0}\" ?" = "Renomear como \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Fallou renomear de \"{0}\" a \"{1}\"";
 
@@ -120,7 +120,7 @@
 "Successfully uploaded {0} images." = "Cargou con éxito {0} imaxes.";
 "Failed to upload image. Error Message:" = "Erro ao cargar a imaxe. Mensaxe de erro:";
 "Failed to Copy Image to Target Folder." = "Fallo ao copiar a imaxe ao cartafol obxectivo.";
-"Select Container Folder" = "Seleccione o cartafol contedor";
+"Select Container Folder" = "Selecciona o cartafol contedor";
 
 "Saved" = "Gardado";
 
@@ -135,7 +135,6 @@
 "Select image from local file" = "Seleccionar imaxe dende arquivo local";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Non se pode abrir a localización <code>$1</code>, quere dicir <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
-"select a language" = "escoller un idioma";
 "Finish Editing" = "Rematar edición";
 
 "Revert advanced setting file to default one ?" = "Reverter o arquivo de configuración avanzada ao predeterminado?";
@@ -157,7 +156,50 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> activouse.";
 "You could turn it off from `View` menu." = "Podes desactivalo desde o menú `Ver`.";
-"Never show this again." = "Non amosar isto de novo.";
 "The file is too large to render in Typora." = "O arquivo é demasiado grande para renderizar en Typora.";
 "Open in…" = "Abrir en…";
 "Quick Look" = "Ollada rápida";
+
+"Filter" = "Filtro";
+"No result found." = "Sen resultados.";
+"Continue & Overwrite" = "Continuar & Sobreescribir";
+"The file is read-only, or you do not have right permissions to modify the file." = "O arquivo é de só lectura ou non tes os permisos correctos para modificar o arquivo.";
+
+"Learn Data Recovery" = "Aprende a recuperación de datos";
+"Auto refresh on Files Panel cannot be enabled." = "Non se pode activar a actualización automática no Panel de arquivos.";
+"Delete Permanently" = "Eliminar permanentemente";
+
+
+"Failed to upload images:" = "Fallo ao subir imaxes:";
+"Uploading in progress" = "Carga en curso";
+"Successfully uploaded {0} images, {1} failed." = "Imaxes cargadas correctamente {0}, erros  {1}.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Podes desfacer esta operación máis tarde mediante `Editar` → `Desfacer`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Podes premer <strong>⌘ + Click</strong> para abrir as <a href='#'>ligazóns</a> ou ir á definición da nota ao pé.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Podes premer <strong>CTRL + clic</strong> para abrir <a href='#'>ligazóns</a> ou ir á definición da nota ao pé.";
+
+"<strong>Unibody</strong> style has been turned on." = "Activouse o estilo <strong>Unibody</strong>.";
+"You can right click titlebar to popup application menu." = "Se pode facer clic co botón dereito na barra de título para abrir o menú emerxente da aplicación.";
+
+"Support Document" = "Documento de soporte";
+
+"You are not supposed to edit or save this file." = "Non debes editar nin gardar este arquivo.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Os arquivos desta localización (%@) son xestionados por Typora e poden ser eliminados automaticamente.<br/>Copia o contido nun arquivo novo para a súa posterior edición.";
+
+"File does not exist at path %@." = "O arquivo non existe na ruta %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "O arquivo non existe na ruta %@, queres crear un nese camiño?";
+
+"No Results" = "Sen resultados";
+"Too many matches" = "Demasiadas coincidenciass";
+"Regular Expression" = "Expresión regular";
+
+"Sort by Creation Date (Ascending)" = "Ordear por data de creación (Ascendente)";
+"Sort by Creation Date (Descending)" = "Ordear por data de creación (Descendente)";
+
+"code language" = "Linguaxe do códigoe";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Non se pode cambiar o nome de $1 a $2, usa \"Arquivo\" → \"Mover a...\" na barra de menú..";
+"Markdown file" = "Arquivo Markdown";
+"TextBundle file" = "Arquivo TextBundle";
+"Images saved to TextBundle" = "Imaxes gardadas en TextBundle";

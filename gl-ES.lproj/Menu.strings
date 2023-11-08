@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Suba imaxes locais vía iPic";
 "When Insert Local Image" = "Cando insirir a imaxe local";
 "Copy Image File to Folder" = "Copiar arquivo de imaxe ao cartafol";
-"Upload Image via iPic" = "Subir imaxe vía iPic";
 "Use Image Root Path" = "Usar camiño raíz da imaxe";
 "Line Endings" = "Terminacións de liña";
 "Windows Line Endings (CRLF)" = "Terminacións de liña Windows (CRLF)";
@@ -237,7 +236,6 @@
 "Copy '%@'" = "Copiar '%@'";
 "Copy to %@" = "Copiar a %@";
 "Copy Image to" = "Copiar Imaxe a";
-"Upload via iPic" = "Cargar a través de iPic";
 "Open Image Location" = "Abrir a localización da imaxe";
 
 "Learn More" = "Saber Máis";
@@ -269,3 +267,92 @@
 
 "Insert Table" = "Inserir Táboa";
 "Insert Image" = "Inserir Imaxe";
+
+"Search" = "Buscar";
+"Copy without Theme Styling" = "Copiar sen o estilo do tema";
+"Recent Files" = "Arquivos recentes";
+"File Results" = "Resultados do arquivo";
+
+"Insert Table" = "Inserir táboa";
+"Insert Image" = "Inserir imaxe";
+"Allow Magnification" = "Permitir ampliación";
+
+"Move Row Up" = "Mover fila cara arriba";
+"Move Row Down" = "Mover fila cara abaixo";
+"Move Column Left" = "Mover a columna á esquerda";
+"Move Column Right" = "Mover a columna á dereita";
+
+"Zoom Image" = "Ampliar imaxe";
+"Zoom Image to %@" = "Ampliar imaxe a %@";
+
+"Copy as Plain Text" = "Copiar como texto plano";
+
+"Selection" = "Selección";
+"Start Speaking" = "Comezar a falar";
+"Stop Speaking" = "Deixar de falar";
+"Check Updates" = "Comprobar actualizacións";
+
+"HTML (without Styles)" = "HTML (sen estilos)";
+
+"Highlight Current Header" = "Destacar a cabeceira actual";
+"Expand All" = "Expander todo";
+"Collapse All" = "Contraer todo";
+"Collapsible Outline" = "Esquema pregable";
+"Flat Outline" = "Contorno plano";
+"Articles (List View)" = "Artigos (vista de lista)";
+"File Tree (Tree View)" = "Árbore de arquivos (vista en árbore)";
+"Filter" = "Filtro";
+
+"Upload Image" = "Cargar imaxe";
+"Upload All Local Images" = "Cargar todas as imaxes locais";
+"Open Image in Browser" = "Abrir imaxe no navegador";
+"Copy Image Content" = "Copiar o contido da imaxe";
+
+"More Actions" = "Máis accións";
+"Get Info" = "Obter información";
+
+"Export with Previous" = "Exportar con Previous";
+"Export and Overwrite with Previous" = "Exportar e sobrescribir con Previous";
+
+"Emoji and Symbols" = "Emoji e símbolos";
+
+"Insert Final New Line On Save" = "Inserir unha nova liña final ao gardar";
+"Hyperlink Actions" = "Accións de hiperligazón";
+"Copy Link Address" = "Copiar o enderezo da ligazón";
+
+"Click" = "Facer Clic";
+
+"Export Setting" = "Exportar configuración";
+
+"My License" = "A miña licenza";
+"Registration / Activation" = "Rexistro/Activación";
+
+"Select Paragraph / Block" = "Seleccionar parágrafo / bloque";
+
+"Delete Selected" = "Eliminar o seleccionado";
+"Rename or Move Image to" = "Renomear ou mover a imaxe a";
+"Move to %@" = "Mover a %@";
+"Delete Image" = "Eliminar imaxe";
+"Delete Image File" = "Eliminar o arquivo de imaxe";
+"Reload All Images" = "Recargar todas as imaxes";
+
+"Save %@ As" = "Gardar %@ como";
+
+"Copy All Images to" = "Copiar tódalas imaxes a";
+"Move All Images to" = "Mover tódalas imaxes a";
+
+"Copy as Image" = "Copiar como imaxe";
+
+"Switch Image Syntax" = "Cambiar a sintaxe da imaxe";
+"Markdown Style" = "Estilo Markdown";
+"HTML Style" = "Estilo HTML";
+
+"Code Tools" = "Ferramentas de código";
+"Copy Code Content" = "Copiar o contido do código";
+"Auto Indent Selected Code" = "Sangría automática do código seleccionado";
+"Auto Indent Whole Code" = "Auto sangría do código enteiro";
+
+"Jump to Line Start" = "Ir ao inicio da liña";
+"Jump to Line End" = "Ir ao final da liña";
+"Toggle Word Count Popover" = "Alterar o popover do reconto de palabras";
+"Toggle Outline Popover" = "Activar e desactivar o popover de esquema";

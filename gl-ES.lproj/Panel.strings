@@ -1,9 +1,8 @@
-
 /*
  Panel.strings
  translations for preference panel and other dialogs
-
- by hi@typora.io
+  
+ by hi@typora.io 
  */
 
 /* Preference Panel */
@@ -28,6 +27,7 @@
 "Show Outline Panel by Default" = "Amosar panel de esquema por defecto";
 "Collapsible Outline on Left Panel" = "Esquema plegable no panel esquerdo";
 "Save without asking when\nswitch files on side panel" = "Gardar sen preguntar ao \ncambiar os arquivos no panel lateral";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Os arquivos editados gardaranse sen preguntar cando cambia os arquivos no panel esquerdo. \nCando \"Pedir que se manteñan os cambios ao pechar documentos\" está desactivado nas Preferencias do Sistema, isto sempre está activado.";
 "Language" = "Idioma";
 "System Language" = "Idioma do sistema";
 
@@ -51,7 +51,7 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-  "(Following preferences will be applied after restart.)" = "(As seguintes preferencias aplicaranse despois do reinicio.)";
+"(Following preferences will be applied after restart.)" = "(As seguintes preferencias aplicaranse despois do reinicio.)";
 "Syntax Support" = "Soporte de sintaxe";
 "Inline Math  (e.g: $\LaTeX$)" = "Math En liña (e.g: $\LaTeX$)";
 "Subscript    (e.g: H~2~O)" = "Subíndice    (e.g: H~2~O)";
@@ -113,13 +113,15 @@
 "Converting file using Pandoc. This may take some time." = "Converter arquivos usando Pandoc. Isto pode levar moito tempo.";
 "Exporting file using Pandoc. This may take some time." = "Exportar arquivos usando Pandoc. Isto pode levar moito tempo.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Cargar imaxes vía iPic...";
 "Uploading in progress…" = "Carga en progreso...";
 "Do not show this again" = "Non amosar isto de novo";
 
 /* Word Count */
-"%d Words" = "%d Palabras";
+"Minute" = "Minuto";
+"Line" = "Liña";
+"Word" = "Palabra";
+"Character" = "Caracter";
+
 "Minutes" = "Minutos";
 "Lines" = "Liñas";
 "Words" = "Palabras";
@@ -161,17 +163,18 @@
 "This feature require macOS >= 10.11" = "Esta función require macOS >= 10.11";
 "One More Step" = "Un paso máis";
 "Notice" = "Aviso";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Isto require que se instale iPic e os ficheiros de imaxe referidos serán subidos a servizos de nube a través de iPic. Teña en conta que o servizo de nube predeterminado non admite borrar a imaxe cargada.";
+/* "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Isto require que se instale iPic e os arquivos de imaxe referidos serán subidos a servizos de nube a través de iPic. Teña en conta que o servizo de nube predeterminado non admite borrar a imaxe cargada."; */
 
 "%d Images Failed to Upload." = "%d Non se puideron cargar as imaxes.";
 "%d Succeeded," = "%d deu resultado,";
 "Enable this feature on preferences panel" = "Activa esta característica no panel de preferencias";
+"The option `%@` must be enabled first to automatically upload images." = "A opción `%@` debe estar activada primeiro para cargar imaxes automaticamente.";
 "%@ is a file, not a directory" = "%@ é un arquivo, non un cartafol";
 "Copy Images To…" = "Copiar Imaxes A…";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imaxe recentemente inserida no cartafol %@ de acordo coa súa configuración de YAML Front Matter -tema frontal YAML- ou as preferencias globais. Pero o cartafol de destino non existe, creálo agora?";
 "Create Folder and Continue" = "Crear Cartafol e Continuar";
 "Document must be saved first" = "Gardar o documento primeiro";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará a imaxe recentemente inserida nun cartafol cun camiño relativo seleccionado, daquela garde primeiro o ficheiro.";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará a imaxe recentemente inserida nun cartafol cunha ruta relativa seleccionado, daquela garde primeiro o arquivo.";
 "Open Operation Failed" = "A operación Abrir, fallou";
 
 "Support Documentation" = "Documentación de soporte";
@@ -216,7 +219,6 @@
 "Copy image to current folder (./)" = "Copiar a imaxe no cartafol actual (./)";
 "Copy image to ./assets" = "Copiar a imaxe a ./assets";
 "Copy image to ./${filename}.assets" = "Copiar a imaxe a ./${filename}.assets";
-"Upload image via iPic" = "Cargar a imaxe mediante iPic";
 "Apply above rules to local images" = "Aplicar as regras anteriores ás imaxes locais";
 "Apply above rules to online images" = "Aplicar as regras anteriores ás imaxes en liña";
 "Allow upload images automatically based on YAML settings" = "Permitir subir imaxes automaticamente en función da configuración de YAML";
@@ -249,3 +251,314 @@
 "Folder not exist at %@, please input another path." = "Non existe cartafol no %@, introduza outra ruta.";
 "Please input a folder path." = "Introduza unha ruta de cartafol.";
 "Cannot use root path." = "Non se pode usar a ruta raíz.";
+
+"Get Themes" = "Obter temas";
+"File/directory already exists at target path." = "Arquivo/cartafol xa existe na ruta de destino.";
+"Keep Both" = "Manter os dous";
+"Are you sure you want to move %@?" = "Seguro que queres mover %@?";
+
+"Are you sure you want to delete %@?" = "Seguro que queres eliminar %@?";
+"You can restore from the Trash." = "Podes restauralo desde o lixo.";
+
+"Reset All Dialog Warnings" = "Restablecer todos os diálogos de aviso";
+"Dialogs" = "Diálogos";
+"Dialog warnings have been reset." = "Restablecéronse os diálogos de aviso.";
+
+"Operation Failed" = "Fallou a operación";
+"Failed to move target file or folder to trash" = "Produciuse un erro ao mover o arquivo ou cartafol de destino á papeleira";
+
+"Undo %@" = "Desfacer %@";
+"Rename %@" = "Renomear %@";
+"Copy %@" = "Copiar %@";
+"Move %@" = "Mover %@";
+"Delete %@" = "Eliminar %@";
+
+"Turn off Typewriter / Focus Mode" = "Desactivar o modo Máquina de escribir/Enfoque";
+"Typewriter / Focus Mode have been turned off." = "Desactiváronse o modo de Máquina de escribir/Enfoque.";
+
+"Reading Speed" = "Velocidade de lectura";
+"Auto" = "Auto";
+"words / min" = "palabras / min";
+
+"Reset to Default" = "Restablecer valores predeterminados";
+"120  words/minute (Slow)" = "120  palabras/minuto (Lento)";
+"240  words/minute (Medium)" = "240  palabras/minuto (Medio)";
+"382  words/minute (Fast)" = "382  palabras/minuto (Rápido)";
+
+"Copy and update image source to…" = "Copiar e actualizar a fonte da imaxe a...";
+"Updater" = "Actualizador";
+"Install Updates ?" = "Instalar actualizacións?";
+"Quit and Install" = "Saír e instalar";
+"Download failed" = "Fallou a descarga";
+"Downloading Updates…" = "Descargando actualizacións...";
+"Checking Updates…" = "Comprobando actualizacións...";
+"Check Update Failed" = "Fallou a verificación da actualización";
+"You're up to date!" = "Estás ao día!";
+"Latest version is $1, your version is $2" = "A última versión é $1, a túa versión é $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Estas opcións tamén se poden cambiar no menú \"Editar→Espazos en branco e saltos de liña\.";
+"Auto escape image URL when insert" = "Auto escapar a URL da imaxe ao inserir";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Por exemplo, se insires un arquivo en 'img/example file.png', converterase en 'img/example%20file.png'. Habilita isto para unha mellor compatibilidade con outros motores de Markdown ou desactívao para unha mellor lexibilidade.";
+"Check updates automatically" = "Comproba as actualizacións automaticamente";
+"Skip This Version" = "Omita esta versión";
+"Remind Me Later" = "Lémbramo despois";
+"Download Update" = "Descargar actualización";
+"New version available." = "Nova versión dispoñible.";
+
+"When copy / export as HTML (without style)" = "Cando se copia/exporta como HTML (sen estilo)";
+"Use Rendered SVG" = "Usar SVG renderizado";
+"Use LaTeX Source" = "Usar a fonte LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Obter efectos ao exportar como HTML (sen estilos) ou copiar como código HTML ou copiar sen estilo de tema.<br/>Cando se selecciona <strong>Usar fonte LaTeX</strong>, Typora colocará a fonte LaTeX en bruto (por exemplo: $X^2$),<br/>Cando se selecciona <strong>Usar SVG renderizado</strong>, utilizarase o SVG renderizado; se o pegas noutra aplicación, é posible que o SVG se ignore.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "A función de importación e varios formatos de exportación requiren a instalación de Pandoc (≥%@).";
+"Do not show this message again" = "Non volver amosar esta mensaxe";
+
+"Page Break Between Top Headings" = "Salto de páxina entre os títulos principais";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Produciuse un erro, o contido de escritura actual copiouse no portapapeis. Podes informar disto a <hi@typora.io> para axudarnos a solucionar este erro.";
+"Try Recovery" = "Proba a recuperación";
+"Other Options for Data Recovery" = "Outras opcións para a recuperación de datos";
+
+"When Insert" = "Cando insira";
+"Upload image" = "Cargar imaxe";
+"e.g: %@" = "p.ex.: %@";
+"Test Uploader" = "Cargador de proba";
+"Validating" = "Validando o cargador de imaxes";
+"Validation Failed" = "Fallou a validación";
+"Validation Succeed" = "Validación exitosa";
+"Testing image uploading using command:" = "Probando a carga de imaxes usando o comando:";
+"Running… Waiting for results." = "Executándose... Agardando resultados.";
+"Output from the console:" = "Saída da consola:";
+"Error from the console:" = "Erro na consola:";
+"Failed to fetch uploaded image from command output." = "Fallo ao recuperar a imaxe cargada desde a saída do comando.";
+"Successfully get uploaded image url." = "Obtida con exito a URL da imaxe subida.";
+"Image Uploader" = "Cargador de imaxes";
+"Instructions" = "Instrucións";
+"Download %@" = "Descargar %@";
+"Image Upload Setting" = "Configurar a carga de imaxes";
+"Please set an image uploader in Preferences panel before using this function." = "Establece un cargador de imaxes no panel de Preferencias antes de usar esta función.";
+"Download or Upgrade" = "Descargar ou actualizar";
+"Open Config File" = "Abrir arquivo de configuración";
+"Command" = "Comando";
+"PicGo Path" = "Ruta PicGo";
+"Path of PicGo binary" = "Ruta do binario PicGo";
+"Executable" = "Executábel";
+"Checking" = "Comprobación";
+"Download" = "Descargar";
+"Agree and Download" = "Aceptar e descargar";
+"Download and Reinstall" = "Descargar e reinstalar";
+"Loading PicGo-Core License" = "Cargando licenza PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Produciuse un erro ao instalar a versión de PicGo-Core (liña de comandos)";
+"You have the latest PicGo-Core (CLI)" = "Tes o último PicGo-Core (CLI)";
+"Newer version is available" = "Nova versión dispoñible";
+
+"Downloading…" = "Descargando…";
+"Unzipping…" = "Descomprimindo…";
+"Finished" = "Rematou";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora lanzará unha aplicación de terceiros con rutas de arquivo de todas as imaxes locais. O cargador de imaxes e o almacenamento de imaxes na nube terán acceso ás túas imaxes locais. Estás seguro de continuar?";
+
+"Export operation finished successfully." = "A exportación rematou correctamente.";
+
+"Shortcut Keys" = "Teclas de atallo";
+"Custom Shortcut Keys" = "Teclas de atallo personalizadas";
+
+"Theme" = "Tema";
+"Light Theme" = "Tema claro";
+"Dark Theme" = "Tema escuro";
+"Use separate theme in dark mode" = "Usar tema separado no modo escuro";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Compatible con macOS ≥ 10.15 ou Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Converter -- en – (en trazo) e --- en — (en trazo longo)";
+"Convert -- and --- to — (em dash)" = "Converter -- e --- en — (en trazo longo)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Podes establecer patróns de comiñas en Preferencias do Sistema → Teclado → Texto. Se se cambia, Typora necesitará un reinicio para aplicalo.";
+
+
+"Paper Size" = "Tamaño do papel";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloide";
+"Page Break" = "Salto de páxina";
+"Page Break Between Top Headings" = "Salto de páxina entre os títulos principais";
+"Header" = "Cabeceira";
+"Footer" = "Pé de paxina";
+"Author" = "Autor";
+"Append in <head />" = "Engadir en <head />";
+"Append in <body />" = "Engadir en <body />";
+"Include Outline Sidebar" = "Inclúe a barra lateral de esquema";
+"Width" = "Ancho";
+"Command" = "Comando";
+"Show Save File Dialog" = "Amosar diálogo Gardar arquivo";
+"File Extensions for Export" = "Extensións de arquivos para exportar";
+"Arguments" = "Argumentos";
+"Extra Arguments" = "Argumentos extra";
+"LaTeX Engine" = "Motor LaTeX";
+"Template" = "Modelo";
+"Empty" = "Baleiro";
+"Style Reference" = "Referencia de estilo";
+"Custom CSS" = "CSS personalizado";
+"Chapter Level" = "Nivel de capítulo";
+"Default Folder for Exported File" = "Cartafol predeterminado para exportar o arquivo";
+"Same folder with current file" = "Mesmo cartafol co arquivo actual";
+"Custom location" = "Localización personalizada";
+"(Auto Detect)" = "(Auto detección)";
+"After Export" = "Despois de exportar";
+"Open exported file location" = "Abrir localización do arquivo exportado";
+"Open exported file" = "Abrir arquivo exportado";
+"Custom" = "Personalizar";
+"None" = "Ningún";
+"Default" = "Por defecto";
+"Margin" = "Marxe";
+"Margin Left" = "Marxe esquerdo";
+"Margin Right" = "Marxe dereito";
+"Margin Top" = "Marxe arriba";
+"Margin Bottom" = "Marxe abaixo";
+"Width x Height" = "Ancho x Alto";
+"Add From a Template" = "Engadir desde un modelo";
+"Delete this export option ?" = "Eliminar esta opción de exportación?";
+"Add" = "Engadir";
+"Delete" = "Eliminar";
+"Rename" = "Renomear";
+"Move Down" = "Mover abaixo";
+"Move Up" = "Mover arriba";
+"Pandoc Path" = "Ruta de Pandoc";
+"Select" = "Seleccionar";
+"Target Format" = "Formato de destino";
+"auto detect based on target file path" = "auto detectar baseándose na ruta do arquivo de destino";
+"Target File Extensions (separate by whitespace)" = "Extensións do arquivo de destino (separadas por espazos en branco)";
+"e.g: .text .asciidoc or leave this empty" = "p.ex.: .text .asciidoc ou deixa isto baleiro";
+"Raw Type" = "Tipo cru (Raw)";
+"Auto" = "Auto";
+"Show Save File Dialog" = "Amosar diálogo Gardar arquivo";
+"Do not popup save file dialog" = "Non abrir diálogo emerxente Gardar arquivo";
+"Select file path to save" = "Seleccionar ruta para gardar o arquivo";
+"Select folder path to save" = "Seleccionar ruta do cartafol para gardar";
+"PDF Engine" = "Motor PDF";
+"Show command output" = "Amosar saída do comando";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportar e sobrescribir co anterior\" sobrescribirá o arquivo en %@, queres continuar?";
+"Command Arguments:" = "Argumentos do comando:";
+"This dev version of Typora is expired, please download and install a newer version." = "Esta versión de desenvolvemento de Typora caducou, descarga e instala unha versión máis recente.";
+"Current Theme" = "Tema actual";
+"After Export" = "Despois de exportar";
+"Run command" = "Executar comando";
+"Run command after export failed" = "Executar comando despois de que a exportación falle";
+"Read and overwrite export settings from YAML front matters" = "Le e sobrescribe a configuración de exportación de YAML front matters";
+"Append Extra Content (HTML)" = "Engadir contido extra (HTML)";
+"Change this option to specify a separated theme for export." = "Cambiar esta opción para especificar un tema separado para exportar.";
+"Dark theme is not supported." = "Non se admite o tema escuro.";
+
+"Markdown Variants" = "Variantes Markdown";
+"Original Unextended Markdown" = "Markdown orixinal non extendido";
+"CommonMark with many pandoc extensions" = "CommonMark con moitas extensións Pandoc";
+"Line Wrap" = "Axuste de liña";
+"Hard line wrap" = "Axuste duro de liña";
+"Text Column Width" = "Ancho de columna de texto";
+"Auto (based on current OS)" = "Auto (baseado no actual OS)";
+"Indent" = "Sangrado";
+"Preserve tabs" = "Conservar pestanas";
+"2 spaces per tab" = "2 espazos por tabulador";
+"3 spaces per tab" = "3 espazos por tabulador";
+"4 spaces per tab" = "4 espazos por tabulador";
+"Unicode Characters" = "Caracteres Unicode";
+"Use only ASCII characters in output" = "Usar só caracteres ASCII na saída";
+"Use reference-style links rather than inline links" = "Usar ligazóns de estilo de referencia en vez de ligazóns en liña";
+"Footnotes and References Location" = "Localización de notas ao pé e referencias";
+"End of document" = "Fin do documento";
+"End of current (top-level) block" = "Fin do bloque actual (nivel superior)";
+"End of current section" = "Fin da sección actual";
+"Convert TeX formulas to web images" = "Converte fórmulas TeX en imaxes web";
+"Image Format" = "Formato de imaxe";
+
+"Set Pandoc Path" = "Establecer ruta Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Aplicar salto de liña en \\ e &#92;nova liña";
+
+"Export operation succeeded with warnings." = "A exportación realizouse con advertencias.";
+
+"Typora is now deactivated" = "Typora ahora está desactivado";
+"This device has been deactivated" = "Este dispositivo foi desactivado";
+"UNREGISTERED" = "SEN REXISTRO";
+
+"Your Typora is not activated." = "Teu Typora non está activado.";
+"Your Typora has been activated." = "Teu Typora foi activado.";
+"Typora activation is required to change this." = "É necesario activar Typora para cambiar isto.";
+"You can reinstall the stable version and then disable this." = "Podes reinstalar a versión estable e despois desactivar isto.";
+"Update to dev version" = "Actualizar á versión de desenvolvemento";
+
+"Typora Server" = "Servidor Typora";
+"Use Typora Server in China" = "Usar o Servidor Typora en China";
+
+"File does not exist" = "O arquivo non existe";
+"Create File" = "Crear arquivo";
+"Create Folder" = "Crear cartafol";
+
+"(Some options will be applied after restart.)" = "(Algunhas opcións aplicaranse despois do reinicio).";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copia ou corta as liñas enteiras que teñen os cursores nelas, se non hai selección ao facer copiar/cortar.";
+"Enable physics package" = "Activar o paquete physics";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "O paquete Physics redefinirá algunhas macros de látex, como \\div, \\Re, etc.";
+
+"Detail" = "Detalle";
+"Use custom font size" = "Usar tamaño de letra personalizado";
+"Use theme font size" = "Usar o tamaño de letra do tema";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Estás a usar a versión Snap, é posible que teña acceso limitado aos executables locais.";
+
+"No local images found." = "Non se atoparon imaxes locais.";
+
+"File Format:" = "Formato de arquivo:";
+
+"Images copied to %@." = "Imaxes copiadas a %@.";
+"Images moved to %@." = "Imaxes movidas a %@.";
+
+"Custom Command" = "Comando personalizado";
+"No Automatic Equation Numbering" = "Sen numeración automática de ecuacións";
+"Use AMS Numbering Rules" = "Usar regras de numeración AMS";
+"Auto Numbering for All Math Equations" = "Numeración automática para todas as ecuacións matemáticas";
+
+"Preferred Image Syntax" = "Sintaxe da imaxe preferida";
+"Add ./ for relative path" = "Engadir ./ para ruta relativo";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Cando estea activado, Typora usará un patrón como ./assets/image.png en vez de assets/image.png ao xerar a ruta relativa para as imaxes inseridas.";
+
+"Image Quality" = "Calidade da imaxe";
+"Medium" = "Media";
+"High" = "Alta";
+"Best" = "Mellor";
+
+"Use Shift+Tab to auto indent selected code" = "Usar Shift+Tab para sangrar automáticamente o código seleccionado";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Cando estea desactivado, Shift+Tab eliminará o código seleccionado ou a liña actual. Cando estea activado, Shift+Tab aplicará automáticamente a sangría para o código seleccionado ou a liña actual nos bloques de código.";
+
+"Auto Links (e.g: https://typora.io)" = "Ligazóns automáticas (e.g: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (p.ex: https://typora.io or mailto:hi@typora.io) in text." = "Cando estea activado, Typora recoñecerá e resaltará automaticamente as URL (p.ex: https://typora.io ou mailto:hi@typora.io) no texto.";
+
+"Files" = "Arquivos";
+"Default File Type / Extension" = "Tipo de arquivo / extensión predeterminada";
+"Custom Extension:" = "Extensión personalizada:";
+"Following extensions are supported: %@" = "Admítense as seguintes extensións: %@";
+"e.g: %@" = "p.ex: %@";
+"When drop file / folder into Typora" = "Cando se solta o arquivo / cartafol en Typora";
+"When drop folder" = "Cando se solta o cartafol";
+"When drop markdown file" = "Cando se solta o arquivo markdown";
+"When drop files that can be imported" = "Cando se soltan arquivos que se poden importar";
+"Open in Typora" = "Abrir en Typora";
+"Insert Folder Link" = "Inserir ligazón ao cartafol";
+"Insert File Link" ="Inserir ligazón ao arquivo";
+"Import File" = "Importar arquivo";
+
+"Diagram Options" = "Opcións do diagrama";
+"Default Code Language" = "Linguaxe de código predeterminada";
+"(None)" = "(Ningún)";
+"Last Used" = "Último usado";
+"Apply Default Code Language When" = "Aplicar linguaxe predeterminada de código cando";
+"When add code fences via Markdown" = "Cando se engaden marcas de código con Markdown";
+"When add code fences via Menubar" = "Cando se engaden marcas de código a través da barra de menú";
+"Both" = "Ambos";
+
+"Pinned and Recent Locations" = "Localizacións fixadas e recentes";
+"Operation Succeeded" = "Operación exitosa";
+"Clear Recent Folders and Files" = "Limpar cartafoles e arquivos recentes";
+"Clear Recent Folders / Files Only" = "Limpar só os cartafoles / arquivos recentes";
+"Clear Recent and Pinned Folders / Files" = "Limpar cartafoles / arquivos recentes e fixados";
+"Also clear pinned folders" = "Limpar tamén os cartafoles fixados";
+"Pin" = "Fixar";
+"Unpin" = "Soltar";
+"Remove from List" = "Quitar da lista";
+"Record recent files and folders" = "Gravar arquivos e cartafoles recentes";

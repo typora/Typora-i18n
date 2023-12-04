@@ -12,7 +12,7 @@
 "Check for Updates" = "Comprobar actualizacións";
 "Services" = "Servizos";
 "Hide Typora" = "Agochar Typora";
-"Hide Others" = "Agochar Outros";
+"Hide Others" = "Agochar outros";
 "Show All" = "Amosar todo";
 "Quit Typora" = "Pechar Typora";
 
@@ -265,9 +265,6 @@
 "Unlearn Spelling" = "Desaprender ortografía";
 "Properties" = "Propiedades";
 
-"Insert Table" = "Inserir Táboa";
-"Insert Image" = "Inserir Imaxe";
-
 "Search" = "Buscar";
 "Copy without Theme Styling" = "Copiar sen o estilo do tema";
 "Recent Files" = "Arquivos recentes";
@@ -354,5 +351,5 @@
 
 "Jump to Line Start" = "Ir ao inicio da liña";
 "Jump to Line End" = "Ir ao final da liña";
-"Toggle Word Count Popover" = "Alterar o popover do reconto de palabras";
-"Toggle Outline Popover" = "Activar e desactivar o popover de esquema";
+"Toggle Word Count Popover" = "Alternar o popover do reconto de palabras";
+"Toggle Outline Popover" = "Alternar o popover de esquema";

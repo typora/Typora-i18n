@@ -276,8 +276,8 @@
 
 "Move Row Up" = "Déplacer la ligne vers le Haut";
 "Move Row Down" = "Déplacer la ligne vers le Bas";
-"Move Column Left" = "Déplacer la ligne vers la Gauche";
-"Move Column Right" = "Déplacer la ligne vers la Droite";
+"Move Column Left" = "Déplacer la colonne vers la Gauche";
+"Move Column Right" = "Déplacer la colonne vers la Droite";
 
 "Zoom Image" = "Agrandir l’image";
 "Zoom Image to %@" = "Agrandir l’image jusqu’à %@";

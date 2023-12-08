@@ -10,15 +10,15 @@
 */
 
 /* Common */
-"OK" = "OK";
-"Cancel" = "Huỷ bỏ";
+"OK" = "Đồng ý";
+"Cancel" = "Hủy bỏ";
 "Yes" = "Có";
 "No" = "Không";
 "Close" = "Đóng";
 "Select" = "Chọn";
 "Continue" = "Tiếp tục";
-"Learn More…" = "Tìm hiểu Thêm…";
-"Untitled" = "Không Tiêu Đề";
+"Learn More…" = "Tìm hiểu thêm…";
+"Untitled" = "Không có tiêu đề";
 "Undo" = "Hoàn tác";
 "Dismiss" = "Bỏ qua";
 "Confirm" = "Xác nhận";
@@ -28,11 +28,11 @@
 "Search" = "Tìm kiếm";
 "Replace" = "Thay thế";
 "All" = "Tất cả";
-"Search text not found in article" = "Không tìm thấy đoạn văn trong bài viết";
-"search text" = "tìm đoạn văn";
+"Search text not found in article" = "Không tìm thấy đoạn văn bản trong bài viết";
+"search text" = "tìm đoạn văn bản";
 
 /* Quick Open */
-"Search by file name" = "Tìm theo tên tập tin";
+"Search by file name" = "Tìm theo tên tệp tin";
 "Searching" = "Đang tìm kiếm";
 "Gathering more results" = "Đang thu thập thêm kết quả";
 
@@ -43,7 +43,7 @@
 "Align Left" = "Căn Trái";
 "Align Center" = "Căn Giữa";
 "Align Right" = "Căn Phải";
-"Resize Table" = "Chỉnh kích cỡ Bảng";
+"Resize Table" = "Chỉnh Kích Cỡ Bảng";
 "Delete Table" = "Xoá Bảng";
 
 /* Images */
@@ -52,29 +52,29 @@
 
 /* Math */
 "Edit" = "Chỉnh sửa";
-"Delete Math" = "Xoá Công Thức";
+"Delete Math" = "Xoá công thức Toán";
 "Preview" = "Xem trước";
 
 /* Sidebar */
 "Articles" = "Bài Viết";
 "Outline" = "Dàn Bài";
-"Files" = "Tập Tin";
-"Switch to File List view" = "Chuyển sang kiểu xem Danh Sách Tập Tin";
-"Switch to File Tree view" = "Chuyển sang kiểu xem Cây Tập Tin";
+"Files" = "Tệp Tin";
+"Switch to File List view" = "Chuyển sang kiểu xem Danh Sách Tệp Tin";
+"Switch to File Tree view" = "Chuyển sang kiểu xem Cây Tệp Tin";
 "Switch to Outline view" = "Chuyển sang kiểu xem Dàn Bài";
 "Close sidebar" = "Đóng thanh bên";
 "Loading" = "Đang tải";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Thư mục được chọn chứa quá nhiều tập tin. \nVui lòng chuyển sang <a id='switch-to-tree-on-oversize'>kiểu xem Cây tập tin</a> để có trải nghiệm tốt hơn.";
-"New File" = "Tập Tin Mới";
-"Unpin Outline Panel" = "Bỏ ghim Bảng Dàn Bài";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Thư mục được chọn chứa quá nhiều tệp tin. \nVui lòng chuyển sang <a id='switch-to-tree-on-oversize'>Kiểu xem Cây Tệp Tin</a> để có trải nghiệm tốt hơn.";
+"New File" = "Tệp Tin Mới";
+"Unpin Outline Panel" = "Bỏ Ghim Bảng Dàn Bài";
 "Open Folder..." = "Mở Thư Mục...";
-"Action" = "Hành động";
-"Close Sidebar Menu" = "Đóng Menu Thanh bên";
+"Action" = "Thao Tác";
+"Close Sidebar Menu" = "Đóng Menu Thanh Bên";
 "Reveal in Finder" = "Mở trong Finder";
 "Reveal in File Explorer" = "Mở trong File Explorer";
 "Refresh Folder" = "Cập nhật Thư Mục";
-"Sort" = "Sắp xếp";
-"Group By Folder" = "Nhóm bởi Thư Mục";
+"Sort" = "Sắp Xếp";
+"Group By Folder" = "Nhóm Bởi Thư Mục";
 "Sort Naturally (Ascending)" = "Sắp xếp Tự Nhiên (Tăng dần)";
 "Sort Naturally (Descending)" = "Sắp xếp Tự Nhiên (Giảm dần)";
 "Sort by Name (Ascending)" = "Sắp xếp theo Tên (Tăng dần)";
@@ -82,18 +82,18 @@
 "Sort by Name (Descending)" = "Sắp xếp theo Tên (Giảm dần)";
 "Sort by Modification Date (Descending)" = "Sắp xếp theo Ngày Chỉnh Sửa (Giảm dần)";
 "Location" = "Vị trí";
-"Switch File List/Tree View" = "Chuyển sang kiểu xem Danh Sách/Cây Tập Tin";
-"No Files Available" = "Không có Tập Tin";
+"Switch File List/Tree View" = "Chuyển kiểu xem Danh Sách/Cây Tệp Tin";
+"No Files Available" = "Không có Tệp Tin";
 "No Folder is Opened." = "Không có Thư Mục nào được Mở.";
 "Outline is Empty." = "Dàn bài đang Trống.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Bật/Tắt Thanh bên";
+"Toggle Sidebar" = "Bật/Tắt Thanh Bên";
 "Toggle Source Code Mode" = "Bật/Tắt Chế Độ Mã Nguồn";
 "Exit Source Code Mode" = "Thoát Chế Độ Mã Nguồn";
 
 "Table of Contents" = "Mục Lục";
-"Empty Diagram" = "Sơ đồ Trống";
+"Empty Diagram" = "Diagram Trống";
 "Input Math TeX here" = "Chèn Math TeX vào đây";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Cần định nghĩa chú thích tham chiếu chân trang <b>{0}</b> với cú pháp <a>[^{1}]: www.example.com</a>";
@@ -101,21 +101,21 @@
 "Please define image reference by \n[{0}]: http://example.png" = "Vui lòng định nghĩa hình ảnh tham chiếu bằng cách \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Tạo tập tin không thành công";
+"Failed to create file" = "Tạo tệp tin không thành công";
 "Failed to create folder" = "Tạo thư mục không thành công";
-"Failed to rename file" = "Đổi tên tập tin không thành công";
+"Failed to rename file" = "Đổi tên tệp tin không thành công";
 "Folder does not exist at %@" = "Thư mục không tồn tại ở %@";
-"File with the same name already exists at target path" = "Tập tin với tên trùng đã tồn tại sẵn ở trong đường dẫn";
+"File with the same name already exists at target path" = "Tệp tin với tên trùng đã tồn tại sẵn ở trong đường dẫn";
 "Apply to All" = "Áp dụng cho Tất Cả";
 "Overwrite" = "Ghi đè";
 "Stop" = "Dừng lại";
 "back to document" = "quay lại tài liệu";
-"Failed to load file" = "Tải tập tin không thành công";
-"Save File Failed!" = "Lưu Tập Tin Không Thành công!";
+"Failed to load file" = "Tải tệp tin không thành công";
+"Save File Failed!" = "Lưu Tệp Tin Không Thành Công!";
 "Cannot open folder {0}" = "Không thể mở thư mục {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Nội dung tập tin đã bị thay đổi bởi các chương trình khác. Tải lại tập tin từ đĩa ?";
-"Should continue moving and overwrite existing file(s) ?" = "Tiếp tục di chuyển và ghi đè các tập tin có sẵn ?";
+"File content is changed by external applications. Reload content from disk ?" = "Nội dung tệp tin đã bị thay đổi bởi các chương trình khác. Tải lại tệp tin từ đĩa ?";
+"Should continue moving and overwrite existing file(s) ?" = "Tiếp tục di chuyển và ghi đè các tệp tin có sẵn ?";
 
 "Rename to \"{0}\" ?" = "Đổi tên thành \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Đổi tên từ \"{0}\" sang \"{1}\" không thành công";
@@ -133,45 +133,45 @@
 "replace with" = "thay thế bằng";
 /* search option */
 "Case Sensitive" = "Phân biệt HOA-thường";
-"Whole Word" = "Tìm trọn cả từ";
+"Whole Word" = "Tìm Trọn Cả Từ";
 
 "input image URL" = "chèn URL hình ảnh";
-"Select image from local file" = "Chọn hình ảnh từ tập tin trong máy";
+"Select image from local file" = "Chọn hình ảnh từ tệp tin trong máy";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Không thể mở vị trí <code>$1</code>, ý bạn là <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "chọn một ngôn ngữ";
-"Finish Editing" = "Kết thúc Chỉnh Sửa";
+"Finish Editing" = "Kết thúc Chỉnh sửa";
 
-"Revert advanced setting file to default one ?" = "Phục hồi tập tin cài đặt nâng cao về mặc định ?";
+"Revert advanced setting file to default one ?" = "Phục hồi tệp tin cài đặt nâng cao về mặc định ?";
 
 "Select Spell Check Language" = "Lựa chọn Ngôn Ngữ Kiểm Tra Chính Tả";
 "Auto Detect Language" = "Tự Động Phát Hiện Ngôn Ngữ";
 "Disable Spell Check" = "Tắt Kiểm Tra Chính tả";
 "Global Setting…" = "Cài Đặt Chung…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Tập tin từ điển cần thiết đang bị thiếu để bật kiểm tra ngôn ngữ hỗ trợ cho %@.";
+"Dictionary file is missing to enable spellcheck support for %@." = "Tệp tin từ điển cần thiết đang bị thiếu để bật kiểm tra ngôn ngữ hỗ trợ cho %@.";
 "Install Language Support" = "Cài Đặt Hỗ Trợ Ngôn Ngữ";
 "License Information" = "Thông Tin Bản Quyền";
 "Download" = "Tải về";
-"Install dictionary file only for Typora" = "Cài đặt tập tin từ điển dành cho duy nhất Typora";
+"Install dictionary file only for Typora" = "Cài đặt tệp tin từ điển dành cho duy nhất Typora";
 "Spell Check (%@ unavailable)" = "Kiểm Tra Chính Tả (%@ không khả dụng)";
 "Spell Check (%@ downloading)" = "Kiểm Tra Chính Tả (%@ đang tải về)";
-"Download dictionary file for %@" = "Tải tập tin từ điển cho %@";
+"Download dictionary file for %@" = "Tải tệp tin từ điển cho %@";
 "(Default spell check option)" = "(Tuỳ chọn kiểm tra chính tả mặc định)";
 "Failed to load spellcheck module" = "Tải mô-đun (module) kiểm tra chính tả không thành công";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> đã được bật lên.";
 "You could turn it off from `View` menu." = "Bạn có thể tắt nó từ menu `Xem`.";
-"The file is too large to render in Typora." = "Tập tin quá lớn để hiển thị trong Typora.";
+"The file is too large to render in Typora." = "Tệp tin quá lớn để hiển thị trong Typora.";
 "Open in…" = "Mở trong…";
 "Quick Look" = "Xem Nhanh";
 
 "Filter" = "Lọc";
 "No result found." = "Không tìm thấy kết quả.";
 "Continue & Overwrite" = "Tiếp tục & Ghi đè";
-"The file is read-only, or you do not have right permissions to modify the file." = "Tập tin ở chế độ chỉ đọc (read-only), hoặc bạn không có quyền truy cập để chỉnh sửa tập tin.";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tệp tin ở chế độ chỉ đọc (read-only), hoặc bạn không có quyền truy cập để chỉnh sửa tệp tin.";
 
 "Learn Data Recovery" = "Tìm hiểu về Khôi Phục Dữ Liệu";
-"Auto refresh on Files Panel cannot be enabled." = "Tính năng tự động cập nhật của Bảng Tập tin (Files Panel) không thể khởi động.";
+"Auto refresh on Files Panel cannot be enabled." = "Tính năng tự động cập nhật của Bảng Tệp tin (Files Panel) không thể kích hoạt.";
 "Delete Permanently" = "Xoá Vĩnh Viễn";
 
 
@@ -189,17 +189,17 @@
 
 "Support Document" = "Tài Liệu Hỗ Trợ";
 
-"You are not supposed to edit or save this file." = "Bạn không được phép chỉnh sửa hoặc lưu tập tin này.";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Các tập tin trong khu vực (%@) được quản lý bởi Typora, và có thể tự động bị xoá.<br/>Vui lòng sao chép nội dung sang một tập tin mới để tiếp tục chỉnh sửa.";
+"You are not supposed to edit or save this file." = "Bạn không được phép chỉnh sửa hoặc lưu tệp tin này.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Các tệp tin trong vị trí (%@) được quản lý bởi Typora, và có thể tự động bị xoá.<br/>Vui lòng sao chép nội dung sang một tệp tin mới để tiếp tục chỉnh sửa.";
 
-"File does not exist at path %@." = "Tập tin không tồn tại ở đường dẫn %@.";
-"File does not exist at path %@, do you want to create one at that path?" = "Tập tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tập tin tại đường dẫn đó không?";
+"File does not exist at path %@." = "Tệp tin không tồn tại ở đường dẫn %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Tệp tin không tồn tại ở đường dẫn %@, bạn có muốn tạo mới một tệp tin tại đường dẫn đó không?";
 
-"No Results" = "Không có Kết Quả";
-"Too many matches" = "Quá nhiều Kết quả";
+"No Results" = "Không Có Kết Quả";
+"Too many matches" = "Quá nhiều kết quả";
 "Regular Expression" = "Biểu Thức Chính Quy (RegEx)";
 
-"Sort by Creation Date (Ascending)" = "Sắp xếp theo Ngày Khởi Tạo (Tăng dần)";
-"Sort by Creation Date (Descending)" = "Sắp xếp theo Ngày Khởi Tạo (Giảm dần)";
+"Sort by Creation Date (Ascending)" = "Sắp Xếp theo Ngày Khởi Tạo (Tăng dần)";
+"Sort by Creation Date (Descending)" = "Sắp Xếp theo Ngày Khởi Tạo (Giảm dần)";
 
 "code language" = "ngôn ngữ lập trình";

@@ -561,3 +561,11 @@
 "Unpin" = "Unpin";
 "Remove from List" = "Remove from List";
 "Record recent files and folders" = "Record recent files and folders";
+
+"System Integration" = "System Integration";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Add \"Markdown\" to \"New\" context menu in Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Delete items from \"New\" context menu in Windows Explorer";
+"Please try sign out Windows to take effect." = "Please try sign out Windows to take effect.";
+"Github Style Alert" = "Github Style Alert";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom when using mouse wheel and holding %@ key";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Current document contains unsaved changes. Do you want to switch to newly duplicated file?";

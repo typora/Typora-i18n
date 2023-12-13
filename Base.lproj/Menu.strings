@@ -353,3 +353,10 @@
 "Jump to Line End" = "Jump to Line End";
 "Toggle Word Count Popover" = "Toggle Word Count Popover";
 "Toggle Outline Popover" = "Toggle Outline Popover";
+
+"Alert" = "Alert";
+"Note Block" = "Note Block";
+"Tip Block" = "Tip Block";
+"Important Block" = "Important Block";
+"Warning Block" = "Warning Block";
+"Caution Block" = "Caution Block";

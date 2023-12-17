@@ -136,7 +136,7 @@
 "Code" = "程式碼";
 "Inline Math" = "行內數學式";
 "Strike" = "刪除線";
-"Highlight" = "標示";
+"Highlight" = "醒目標示";
 "Superscript" = "上標";
 "Subscript" = "下標";
 "Comment" = "註解";
@@ -291,7 +291,7 @@
 
 "HTML (without Styles)" = "HTML (無樣式)";
 
-"Highlight Current Header" = "高亮目前標題";
+"Highlight Current Header" = "醒目標示目前標題";
 "Expand All" = "全部展開";
 "Collapse All" = "全部折疊";
 "Collapsible Outline" = "大綱視圖 (可折疊)";
@@ -353,3 +353,10 @@
 "Jump to Line End" = "跳至行尾";
 "Toggle Word Count Popover" = "字數統計快顯視窗";
 "Toggle Outline Popover" = "大綱快顯視窗";
+
+"Alert" = "提醒";
+"Note Block" = "備註區塊";
+"Tip Block" = "提示區塊";
+"Important Block" = "重要區塊";
+"Warning Block" = "注意區塊";
+"Caution Block" = "警告區塊";

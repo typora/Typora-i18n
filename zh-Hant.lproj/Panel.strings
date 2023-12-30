@@ -53,12 +53,12 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(以下偏好設定會在重新啟動 Typora 後套用)";
 "Syntax Support" = "Markdown 語法擴充支援";
-"Inline Math  (e.g: $\LaTeX$)" = "行內數學式  (如: $\LaTeX$)";
-"Subscript    (e.g: H~2~O)" = "下標    (如: H~2~O)";
+"Inline Math  (e.g: $\LaTeX$)" = "行內數學式 (如: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "下標 (如: H~2~O)";
 "Superscript (e.g: X^2^)" = "上標 (如: X^2^)";
-"Highlight     (e.g: ==key==)" = "語法標示     (如: ==key==)";
+"Highlight     (e.g: ==key==)" = "醒目標示 (如: ==key==)";
 "Diagrams" = "圖表";
-"(Sequence, Flowchart and Mermaid)" = "(序列圖, 流程圖和 Mermaid)";
+"(Sequence, Flowchart and Mermaid)" = "(序列圖、流程圖和 Mermaid)";
 "Syntax Preference" = "Markdown 語法偏好設定";
 "(only applies to styles created from menubar or hybrid view)" = "(僅套用產生自選單或快速鍵所產生的樣式)";
 "Strict Mode" = "嚴格模式";
@@ -67,7 +67,7 @@
 "Unordered List" = "無次序清單";
 "Ordered List" = "有次序清單";
 "Code Fences" = "程式碼區塊";
-"Display line numbers for code fences" = "為程式碼區塊顯示行號";
+"Display line numbers for code fences" = "顯示程式碼行號";
 "Math Blocks" = "數學式區塊";
 "Auto Numbering Math Equations" = "自動編號數學式";
 
@@ -296,7 +296,7 @@
 "Latest version is $1, your version is $2" = "最新版本為 $1，目前版本為 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下選項也可在選單列的「編輯」→「空格和換行符號」中修改";
 "Auto escape image URL when insert" = "插入圖片時自動轉譯 URL";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "例如，若您插入一個檔案 'img/example file.png'，其將轉為 'img/example%20file.png'。啟用此選項可以增進與其他 Markdown 引擎的相容性，或停用此選項以提高可讀性。";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "例如，若您插入一個檔案 'img/example file.png'，其將轉譯為 'img/example%20file.png'。啟用此選項可以增進與其他 Markdown 引擎的相容性，或停用此選項以提高可讀性。";
 "Check updates automatically" = "自動檢查更新";
 "Skip This Version" = "跳過該版本";
 "Remind Me Later" = "稍後提醒我";
@@ -561,3 +561,11 @@
 "Unpin" = "取消釘選";
 "Remove from List" = "從列表中移除";
 "Record recent files and folders" = "記錄最近使用的檔案與資料夾";
+
+"System Integration" = "系統整合";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "在檔案總管選單的 [新增] 中加入 [Markdown] 選項";
+"Delete items from \"New\" context menu in Windows Explorer" = "在檔案總管選單的 [新增] 中移除 [Markdown] 選項";
+"Please try sign out Windows to take effect." = "請嘗試重新登入 Windows 以套用。";
+"Github Style Alert" = "GitHub 風格提醒區塊";
+"Zoom when using mouse wheel and holding %@ key" = "按住 %@ 鍵並使用滑鼠滾輪進行縮放";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "目前文件包含未儲存的變更。您想切換到新建立的副本嗎?";

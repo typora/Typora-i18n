@@ -357,3 +357,10 @@
 "Jump to Line End" = "跳转到行尾";
 "Toggle Word Count Popover" = "字数统计窗口";
 "Toggle Outline Popover" = "大纲窗口";
+
+"Alert" = "警告框";
+"Note Block" = "提醒内容";
+"Tip Block" = "建议内容";
+"Important Block" = "重要内容";
+"Warning Block" = "警告内容";
+"Caution Block" = "注意内容";

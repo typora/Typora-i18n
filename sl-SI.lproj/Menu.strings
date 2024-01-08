@@ -353,3 +353,10 @@
 "Jump to Line End" = "Pojdi na konec vrstice";
 "Toggle Word Count Popover" = "Prikaži/skrij štetje besed";
 "Toggle Outline Popover" = "Prikaži/skrij oris";
+
+"Alert" = "Opozorilo";
+"Note Block" = "Blok za opombe";
+"Tip Block" = "Blok za nasvete";
+"Important Block" = "Blok z oznako pomembno";
+"Warning Block" = "Blok za opozorila";
+"Caution Block" = "Blok za previdnost";

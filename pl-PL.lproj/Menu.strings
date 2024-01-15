@@ -353,3 +353,10 @@
 "Jump to Line End" = "Skocz do końca wiersza";
 "Toggle Word Count Popover" = "Włącz/wyłącz okienko licznika słów";
 "Toggle Outline Popover" = "Włącz/wyłącz okienko konspektu";
+
+"Alert" = "Alert";
+"Note Block" = "Blok przypisu";
+"Tip Block" = "Blok wskazówki";
+"Important Block" = "Blok ważnych informacji";
+"Warning Block" = "Blok ostrzeżenia";
+"Caution Block" = "Blok uwagi";

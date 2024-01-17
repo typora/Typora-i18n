@@ -1,0 +1,518 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+
+ by sjurnm@mac.com
+ */
+
+/* Preference Panel */
+"Preferences" = "Innstillingar";
+
+/* General Panel */
+"General" = "Allment";
+"Window Style" = "Vindaugsstil";
+"Classic" = "Klassisk";
+"Seamless" = "Saumlaus";
+"Seamless window only support OS X later than 10.10." = "Saumlaus vindaugsstil er berre støtta av OS X 10.10. eller nyare";
+"Themes" = "Tema";
+"Open Theme Folder" = "Opne tema-mappa";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Ver greid og sjekk `hjelp`->`hurtigstart` for stutte instruksjonar. Sjå http://theme.typora.io for fleire tema og instruksjonar.";
+"Word Count" = "Tal på ord";
+"Always Show Word Count" = "Vis alltid tal på ord";
+"Font Size" = "Skriftstorleik";
+"Auto ( Recommended )" = "Auto ( tilrådd )";
+"Customized" = "Eigentilpassa";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Om eigne skrifttypar er nytta, vil faktisk skriftstorleik vera avhengig av standard skriftstorleik og css-stilen.";
+"Left Panel" = "Venstre panel";
+"Show Outline Panel by Default" = "Vis disposisjonspanel som standard";
+"Collapsible Outline on Left Panel" = "Gjer disposisjon i venstre panel samanslagbar";
+"Save without asking when\nswitch files on side panel" = "Lagre utan å spørja når\nbyt filer i sidepanel";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Redigerte filer vil bli lagra utan å spørja når ein byter filer i venstre panel. \nNår \"Spør om å ta vare på endringar når dokumenta blir latne att\" er av i systeminnstillingar, er dette alltid på.";
+"Language" = "Språk";
+"System Language" = "Systemspråk";
+
+/* Editor Panel */
+"Editor" = "Redigerer";
+"Indent Size on Save" = "Storleik på innrykk ved lagring";
+"only apply to quotes and lists created from menu bar or hybrid view" = "gjeld berre ved sitat og lister laga med menyen eller i hybridvising";
+"Trigger Autocomplete without ESC key for" = "Utløs autofullføring utan ESC-tasten for";
+"Emoji (e.g. :smile:)" = "Emoji (t.d. :smile:)";
+"Images Insert" = "Biletinnlegg";
+"Use relative path if possible" = "Bruk relativ sti der det er mulig";
+"Auto Pair" = "Automatisk paring";
+"Auto pair brackets and quotes" = "Automatisk paring for parantesar og hermeteikn";
+"Auto pair common Markdown syntax" = "Automatisk paring for vanleg Markdown-syntaks";
+"Live Rendering" = "Direkteformattering";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Vis kjelde for enkle  blokker\n(som overskrifter, osb.) i fokusmodus";
+"Default Copy Behavior" = "Standard kopieringsoppførsel";
+"Copy Markdown source as plain text" = "Kopier Markdown-kjelde som rein tekst";
+"Typewriter Mode" = "Skrivemaskinmodus";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Hald alltid skrivemerket midt på skjermen\nnår skrivemaskinmodus er på";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Endringar i desse innstillingane gjeld etter omstart.)";
+"Syntax Support" = "Syntaksstøtte";
+"Inline Math  (e.g: $\LaTeX$)" = "Matte i tekst (t.d.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Senka tekst (t.d.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Heva tekst (t.d.: X^2^)";
+"Highlight     (e.g: ==key==)" = "Utheva tekst (t.d.: ==nøkkel==)";
+"Diagrams" = "Diagram";
+"(Sequence, Flowchart and Mermaid)" = "(Sekvens, Flyt og Mermaid)";
+"Syntax Preference" = "Syntaksinnstillingar";
+"(only applies to styles created from menubar or hybrid view)" = "(gjeld berre for stiler laga med menyane eller i hybridvising)";
+"Strict Mode" = "Strikt modus";
+"(more strict to GFM spec)" = "(meir streng i fylgje GFM-spesifikasjonane)";
+"Heading Style" = "Overskriftsstil";
+"Unordered List" = "Punktliste";
+"Ordered List" = "Nummerert liste";
+"Code Fences" = "Kodeblokker";
+"Display line numbers for code fences" = "Vis linenummer for kodeblokker";
+"Math Blocks" = "Matteblokker";
+"Auto Numbering Math Equations" = "Autonummerer mattelikningar";
+
+/* Security Panel */
+"Security" = "Tryggleik";
+"Enable Debug" = "Aktiver avlusing";
+"Send Anonymous Usage Info" = "Send anonyme bruksdata";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Krev Pandoc for å halda fram...";
+"Follow instructions to install Pandoc" = "Følg instruksjonane for å installera Pandoc";
+"Cancel" = "Avbryt";
+
+/* Pandoc Import Panel */
+"Importing..." = "Importerer...";
+"Importing in progress..." = "Importering pågår...";
+"Converting file with Pandoc. This may take some time." = "Konverterer fil med Pandoc. Dette kan ta litt tid.";
+"Abort" = "Avbryt";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Eksporterer...";
+"Exporting in progress..." = "Eksportering pågår...";
+"Converting file with Pandoc. This may take some time." = "Konverterer fil med Pandoc. Dette kan ta litt tid.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Pandoc trengst for å importera desse filformata";
+"Check help->Install and use Pandoc from menubar for detail" = "Sjekk Hjelp->Innstaller og bruk Pandoc i menyen for meir informasjon";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Import og somme eksportfunksjonar krev at <a href='http://pandoc.org/' target='_blank'>Pandoc</a> v2.0 eller nyare er installert.";
+"Follow Instructions to Install/Update Pandoc" = "Følg instruksjonane for å innstalera/oppdatera Pandoc";
+"Export Failed" = "Eksportering feila";
+"Import Failed" = "Importering feila";
+"Generated Image too Large" = "Generert bilete er for stort";
+"Failed to export file to <em>{0}</em>" = "Eksportering av fil til  <em>{0}</em> mislyktest";
+"Failed to import file from <em>{0}</em>" = "Importering av fil fra <em>{0}</em> mislyktest";
+"File does not exist at <em>{0}</em>" = "Fila finst ikkje på <em>{0}</em>";
+"Export to..." = "Eksporter til...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Ynskjer du å lagra endringane du har gjort i dette dokumentet?<br> Endringane dine vil gå tapt om du ikkje lagrar dei.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Åtvaring] Klarte ikkje å leggja til bokmerke til PDF-fila.";
+"Dark Theme not support" = "Temaet støttar ikkje mørk modus";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Orsak, men noverande utgåve av Typora kan ikkje skriva ut bakgrunnsfarge på eksporterte PDF-ar, så mørk modus er ikkje støttea enno for PDF-eksport . \nVenlegst vel eit tema med ljos modus eller klikk \"Skriv ut med standardtema\"";
+"Print with default theme" = "Skriv ut med standardtema";
+"Export to PDF successfully." = "Eksportering til PDF gjekk bra.";
+"Converting file using Pandoc. This may take some time." = "Konverterer fil med Pandoc. Dette kan ta litt tid.";
+"Exporting file using Pandoc. This may take some time." = "Eksporterer fil med Pandoc. Dette kan ta litt tid.";
+
+"Uploading in progress…" = "Opplasting pågår…";
+"Do not show this again" = "Ikkje vis dette igjen";
+
+/* Word Count */
+"Minute" = "Minutt";
+"Line" = "Line";
+"Word" = "Ord";
+"Character" = "Teikn";
+
+"Minutes" = "Minutt";
+"Lines" = "Liner";
+"Words" = "Ord";
+"Characters" = "Teikn";
+"In Selection" = "I markering";
+"Panel" = "Panel";
+
+/* Windows Preferences Panel*/
+"Appearance" = "Utsjånad";
+"System Native" = "Systemstandard";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(gjeld etter omstart)";
+"Status Bar" = "Statusmeny";
+"Show status bar" = "Vis statusmeny";
+"Save & Recover" = "Lagre og gjenopprett";
+"Auto Save" = "Lagre automatisk";
+"Recover Unsaved Drafts" = "Gjenopprett ulagra utkast";
+"Emoji Autocomplete" = "Emoji autofullføring";
+"Trigger by ESC key" = "Vel med ESC-tasten";
+"Trigger automatically" = "Fullfør automatisk";
+"Default Line Ending" = "Standard lineskift";
+"Line ending for new file" = "Lineskift for ny fil";
+"Spell Check" = "Stavekontroll";
+"Auto correct spelling" = "Autokorrektur";
+"System" = "System";
+"Privacy" = "Personvern";
+"Developer" = "Utviklar";
+"Update" = "Oppdater";
+"Check Updates" = "Sjå etter oppdateringar";
+"Check updates automatically" = "Sjå etter oppdateringar automatisk";
+"Advanced Settings" = "Avanserte innstillingar";
+"Open Advanced Settings" = "Opne avanserte innstillingar";
+"Reset Advanced Settings" = "Gjenopprett avanserte innstillingar";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Denne funksjonen krev at siste versjon av iPic er innstallert.";
+"Get iPic" = "Gå til iPic";
+"Cannot Continue…" = "Kan ikkje gå vidare…";
+"This feature require macOS >= 10.11" = "Denne funksjonen krev macOS 10.11 eller nyare";
+"One More Step" = "Eit steg til";
+"Notice" = "Legg merke til";
+
+"%d Images Failed to Upload." = "%d bilete vart ikkje lasta opp pga en feil.";
+"%d Succeeded," = "%d gjekk bra, ";
+"Enable this feature on preferences panel" = "Aktiver denne funksjonen i innstillingane";
+"The option `%@` must be enabled first to automatically upload images." = "Alternativet `%@` må vera aktivert for å lasta opp bilete automatisk.";
+"%@ is a file, not a directory" = "%@ er ei fil, ikkje ei mappe";
+"Copy Images To…" = "Kopier bilete til…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver å kopiere nyleg innsette bilete til mappa %@ du definerte i YAML-innleiinga eller globale innstillingar, men mappa finst ikkje. Vil du laga mappa no?";
+"Create Folder and Continue" = "Lag mappa og gå vidare";
+"Document must be saved first" = "Dokumentet må lagrast fyrst";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vil kopiera innsette bilete til mappa vald med relativ sti, så du må lagra fila fyrst.";
+"Open Operation Failed" = "Eg kunne ikkje opna";
+
+"Support Documentation" = "Brukarhandbok";
+
+"Markdown File" = "Markdown-fil";
+"Plain Text File" = "Rein tekstfil";
+"All Files" = "Alle filer";
+"All Supported Formats" = "Alle støtta format";
+"Discard Changes" = "Forkast endringar";
+"Discard" = "Forkast";
+
+"Menu" = "Meny";
+"Back" = "Attende";
+
+"Contact" = "Kontakt";
+"Open From..." = "Opne frå...";
+"Import..." = "Importer...";
+"Recent Documents" = "Nylege dokument";
+"Search for" = "Finn";
+"Clear Recent Documents" = "Tøm lista med nylege dokument";
+"File Name" = "Filnamn";
+"Path" = "Sti";
+"Export As..." = "Eksporter som...";
+"More Formats" = "Fleire format";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformat under 'Fleire format' krev at  <a class='open-pandoc-guide'>Pandoc er innstallert</a>.";
+"Something is Wrong…" = "Noko gjekk gale…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Eg kunne ikkje lagra innhaldet.<br/>Du kan kopiera innhaldet over til eit nytt Typora-vindauge, og så lagra det. <br/>Lær meir om å:<ul><li><a href='https://support.typora.io/Report-Bugs/'>melda feil til oss</a></li><li><a href='https://support.typora.io/Version-Control/'>finna tapt innhald</a></li></ul>";
+"Copy Content" = "Kopier innhald";
+
+
+"Total" = "I alt";
+"Word count only support OS X later than 10.10." = "Ordteljinga fungerer berre med macOS nyare enn 10.10.";
+"Indent Size for Code" = "Storleik på innrykk for kode";
+"Auto wrap long lines" = "Bryt liner automatisk";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Orsak, men denne versjonen av Typora skriv ikkje ut bakgrunnsfarge.\nDet tyder at mørke tema ikkje blir støtta ved utskrift. \n\nVel eit ljost tema eller eksporter dokumentet til PDF.";
+"Export to PDF" = "Eksporter til PDF";
+"Pretty indentation" = "Pene innrykk";
+"Update markdown reference for this image" = "Oppdater Markdown-referansen for dette biletet";
+
+"No special action" = "Ingen ekstra handlingar";
+"Copy image to current folder (./)" = "Kopier bilete til gjeldande mappe (./)";
+"Copy image to ./assets" = "Kopier bilete til ./assets";
+"Copy image to ./${filename}.assets" = "Kopier bilete til ./${filename}.assets";
+"Apply above rules to local images" = "Reglane over gjeld bilete på datamaskina";
+"Apply above rules to online images" = "Reglane over gjeld bilete på nettet";
+"Allow upload images automatically based on YAML settings" = "Tillat automatisk opplasting av bilete basert på YAML-innleiinga";
+
+"Learn More" = "Lær meir";
+"Whitespace / Line Break" = "Blankteikn / lineskift";
+"When Writing" = "medan ein skriv";
+"Export / Print" = "Eksport / Utskrift";
+"Preserve sequential whitespace and single line break" = "Ta vare på blankteikn og enkle lineskift";
+"Ignore sequential whitespace and single line break" = "Ignorer blankteikn og enkle lineskift";
+
+"Quit" = "Avslutt";
+"Quit Typora when last window is closed" = "Avslutt Typora når det siste vindauget blir late att";
+"On Launch" = "Ved oppstart";
+"Open new file" = "Opne ny fil";
+"Restore last closed folders" = "Gjenskap sist attlatne mapper";
+"Restore last closed files and folders" = "Gjenskap sist attlatne filer og mapper";
+"Open custom folder" = "Opne tilpassa mappe";
+"Select custom folder" = "Vel tilpassa mappe";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Denne innstillinga kan bli overkøyrd av \"Steng vindauge når eit program blir avslutta\" i Systeminnstillingane";
+
+"Ignore" = "Ignorer";
+"Choose Default Folder" = "Vel standardmappe";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Konverter ved skriving</strong>: Skriv vanlege bindestrekar og hermeteikn, og dei blir konverterte og lagra som runde hermeteikn og Unicode-strekar.<br/><strong>Konverter ved vising</strong>: Skriv og lagre vanlege bindestrekar og hermeteikn, mem dei blr viste som runde hermeteikn og Unicode-strekar.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Kjenn att Unicode-teiknsetjing som tilsvarande ASCII når ein tolkar Markdown, t.d.:<br/> <pre> 》 blokksitat → > blokksitat <br/> [link](src ’title’) → [link](src 'title')</pre>Dette blir slått på automatisk om smarte hermeteikn og bindestrekar blir konverterte ved skriving.<div>";
+
+"Copy image to custom folder" = "Kopier bilete til sjølvvald mappe";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Relative stiar i høve til gjeldande mappe må byrja med './' or '../', elles blir stien tolka absolutt. (`${filename}` står for gjeldande filnamn.)";
+"Restore to previous setting" = "Tilbakestill til førre innstilling";
+"Folder not exist at %@, please input another path." = "Mappa finst ikkje ved %@, spesifiser ein annan sti.";
+"Please input a folder path." = "Spesifiser ein sti til ei mappe.";
+"Cannot use root path." = "Kan ikkje nytta rotsti.";
+
+"Get Themes" = "Skaff tema";
+"File/directory already exists at target path." = "Fila/mappa finst allereie.";
+"Keep Both" = "Ta vare på begge";
+"Are you sure you want to move %@?" = "Er du viss på at du vil flytta %@?";
+
+"Are you sure you want to delete %@?" = "Er du viss på at du vil sletta %@?";
+"You can restore from the Trash." = "Du finn fila i søppelbøtta om du angrar deg.";
+
+"Reset All Dialog Warnings" = "Nullstill alle åtvaringar";
+"Dialogs" = "Dialogar";
+"Dialog warnings have been reset." = "Åtvaringane har vorte nullstilt.";
+
+"Operation Failed" = "Handlinga feila";
+"Failed to move target file or folder to trash" = "Kunne ikkje flytta fila eller mappa til søppelbøtta";
+
+"Undo %@" = "Angra %@";
+"Rename %@" = "Gje nytt namn %@";
+"Copy %@" = "Kopier %@";
+"Move %@" = "Flytt %@";
+"Delete %@" = "Slett %@";
+
+"Turn off Typewriter / Focus Mode" = "Slå av Skrivemaskin- / Fokusmodus";
+"Typewriter / Focus Mode have been turned off." = "Skrivemaskin- / Fokusmodus har vorte slått av.";
+
+"Reading Speed" = "Lesefart";
+"Auto" = "Automatisk";
+"words / min" = "ord / min";
+
+"Reset to Default" = "Attende til standard";
+"120  words/minute (Slow)" = "120  ord/minutt (langsam)";
+"240  words/minute (Medium)" = "240  ord/minutt (middels)";
+"382  words/minute (Fast)" = "382  ord/minutt (rask)";
+
+"Copy and update image source to…" = "Kopier og oppdater biletkjelde til…";
+"Updater" = "Oppdater";
+"Install Updates ?" = "Installer oppdatering?";
+"Quit and Install" = "Avslutt og installer";
+"Download failed" = "Nedlasting feila";
+"Downloading Updates…" = "Lastar ned oppdatering…";
+"Checking Updates…" = "Ser etter oppdatering…";
+"Check Update Failed" = "Kunne ikkje sjå etter oppdatering";
+"You're up to date!" = "Du er oppdatert!";
+"Latest version is $1, your version is $2" = "Nyaste versjon er $1, versjonen din er $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Desse innstillingane kan òg bli endra i menyen \"Rediger→Blankteikn og lineskift\"";
+"Auto escape image URL when insert" = "Skjerm automatisk bilet-URL-ar når ein set inn";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Til dømes: om du set inn eit bilete 'img/example file.png', så vil URL-en bli 'img/example%20file.png'. Slå på dette for betre samsvar med andre Markdown-motorar, eller slå av for å lesa URL-en betre.";
+"Check updates automatically" = "Sjå etter oppdateringar automatisk";
+"Skip This Version" = "Hopp over denne versjonen";
+"Remind Me Later" = "Minn meg på det seinare";
+"Download Update" = "Last ned oppdatering";
+"New version available." = "Ny versjon tilgjengeleg.";
+
+"When copy / export as HTML (without style)" = "Når ein kopierer / eksporterer som HTML (utan stil)";
+"Use Rendered SVG" = "Bruk generert SVG";
+"Use LaTeX Source" = "Bruk LaTeX-kjelde";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Gjeld når ein eksporterer som HTML (utan stil) eller kopierer som HTML-kode, eller kopierer utan temastilar.<br/>Når <strong>Bruk LaTeX-kjelde</strong> er vald vil Typora gje den råe LaTeX-kjeldekoden (t.d.: $X^2$),<br/>Når <strong>Bruk generert SVG</strong> er vald blir den genererte SVG bli brukt. Om du limer inn i ein annan app kan det henda at SVG-koden blir ignorert.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importfunksjonen og fleire eksportformat krev at Pandoc (≥%@) er installert.";
+"Do not show this message again" = "Ikkje vis denne meldinga att";
+
+"Page Break Between Top Headings" = "Sideskift mellom hovudoverskrifter";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Orsak, det hende ein feil. All tekst har vorte kopiert til utklyppet. Fint om du melder dette til <hi@typora.io>, så hjelper du oss å fiksa feilen.";
+"Try Recovery" = "Prøv gjenskaping";
+"Other Options for Data Recovery" = "Andre alternativ for datagjenskaping";
+
+"When Insert" = "Når ein set inn";
+"Upload image" = "Last opp bilete";
+"e.g: %@" = "t.d.: %@";
+"Test Uploader" = "Test opplasting";
+"Validating" = "Kvalitetssikrar biletopplastinga";
+"Validation Failed" = "Kvalitetssikringa feila";
+"Validation Succeed" = "Kvalitetssikringa gjekk bra";
+"Testing image uploading using command:" = "Testar biletopplasting med kmmandoen:";
+"Running… Waiting for results." = "Køyrer… Ventar på resultat.";
+"Output from the console:" = "Tekst frå terminalen:";
+"Error from the console:" = "Feil frå terminalen:";
+"Failed to fetch uploaded image from command output." = "Kunne ikkje henta opplasta bilete basert på kommandoutdata.";
+"Successfully get uploaded image url." = "Klarte å få tak i URL-en til biletet.";
+"Image Uploader" = "Biletopplastar";
+"Instructions" = "Instruksjopnar";
+"Download %@" = "Last ned %@";
+"Image Upload Setting" = "Biletopplastarinnstillingar";
+"Please set an image uploader in Preferences panel before using this function." = "Vel ein biletopplastar i innstillingane før du nyttar denne funksjonen.";
+"Download or Upgrade" = "Last ned eller oppgrader";
+"Open Config File" = "Opne konfigurasjonsfil";
+"Command" = "Kommando";
+"PicGo Path" = "PicGo-sti";
+"Path of PicGo binary" = "Sti til PicGo-binærfil";
+"Executable" = "Køyrbar fil";
+"Checking" = "Sjekkar";
+"Download" = "Last ned";
+"Agree and Download" = "Ver samd og last ned";
+"Download and Reinstall" = "Last ned og installer på nytt";
+"Loading PicGo-Core License" = "Hentar inn PicGo-Core-lisens";
+"Failed to get installed version of PicGo-Core (command line)" = "Kunne ikkje finna installeert versjon av PicGo-Core (kommandolina)";
+"You have the latest PicGo-Core (CLI)" = "Du har nyaste PicGo-Core (CLI)";
+"Newer version is available" = "Det finst ein nyare versjon";
+
+"Downloading…" = "Lastar ned…";
+"Unzipping…" = "Pakkar opp…";
+"Finished" = "Ferdig";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora startar tredjepartsappar med sti- og filnamn for alle lokale bilete. Biletopplastaren og nettlageret for bilete vil difor ha tilgang til alle lokale bilete. Vil du gå vidare?";
+
+"Export operation finished successfully." = "Eksporten gjekk bra.";
+
+"Shortcut Keys" = "Tastesnarvegar";
+"Custom Shortcut Keys" = "Eigne tastesnarvegar";
+
+"Theme" = "Tema";
+"Light Theme" = "Ljost tema";
+"Dark Theme" = "Mørkt tema";
+"Use separate theme in dark mode" = "Bruk eige tema for mørk modus";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Støtta på macOS ≥ 10.15 eller Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Konverter -- til – (en-strek), og --- til — (em-strek)";
+"Convert -- and --- to — (em dash)" = "konverter -- og --- til — (em-strek)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kan leggja til mønster for hermeteikn i Systeminnstillingane → Tastatur → Tekst. Om du endrar der, må du starta Typora på nytt for at dei skal bli brukte.";
+
+
+"Paper Size" = "Arkstorleik";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Sideskift";
+"Page Break Between Top Headings" = "Sideskift mellom hovudoverskrifter";
+"Header" = "Topptekst";
+"Footer" = "Botntekst";
+"Author" = "Forfattar";
+"Append in <head />" = "Legg til i <head />";
+"Append in <body />" = "Legg til i <body />";
+"Include Outline Sidebar" = "Ta med disposisjonssidepanel";
+"Width" = "Breidde";
+"Command" = "Kommando";
+"Show Save File Dialog" = "Vis dialog for å lagra fil";
+"File Extensions for Export" = "Filsuffiks for eksport";
+"Arguments" = "Argument";
+"Extra Arguments" = "Ekstraargument";
+"LaTeX Engine" = "LaTeX-motor";
+"Template" = "Templat";
+"Empty" = "Tom";
+"Style Reference" = "Stilreferanse";
+"Custom CSS" = "Tilpassa CSS";
+"Chapter Level" = "Kapittelnivå";
+"Default Folder for Exported File" = "Standardmappe for eksportert fil";
+"Same folder with current file" = "same mappe som noverande fil";
+"Custom location" = "Tilpassa stad";
+"(Auto Detect)" = "(oppdag automatisk)";
+"After Export" = "Etter eksport";
+"Open exported file location" = "Opne mappa med eksportert fil";
+"Open exported file" = "Opne eksporter fil";
+"Custom" = "Tilpassa";
+"None" = "Inkje";
+"Default" = "Stadard";
+"Margin" = "Marg";
+"Margin Left" = "Venstremarg";
+"Margin Right" = "Høgremarg";
+"Margin Top" = "Toppmarg";
+"Margin Bottom" = "Botnmark";
+"Width x Height" = "Breidde x høgde";
+"Add From a Template" = "Legg til frå templat";
+"Delete this export option ?" = "Slett dette eksportalternativet?";
+"Add" = "Legg til";
+"Delete" = "Slett";
+"Rename" = "Døyp om";
+"Move Down" = "Flytt ned";
+"Move Up" = "Flytt opp";
+"Pandoc Path" = "Pandoc-sti";
+"Select" = "Vel";
+"Target Format" = "Målformat";
+"auto detect based on target file path" = "gjett automatisk basert på filstien";
+"Target File Extensions (separate by whitespace)" = "Suffiks for målfiler (skil dei med mellomrom)";
+"e.g: .text .asciidoc or leave this empty" = "t.d.: .text .asciidoc eller la feltet vera tomt";
+"Raw Type" = "Rå type";
+"Auto" = "Automatisk";
+"Show Save File Dialog" = "Vis dialog for å lagra fil";
+"Do not popup save file dialog" = "Ikkje vis dialog for å lagra fil";
+"Select file path to save" = "Vel fil og sti for å lagra";
+"Select folder path to save" = "Vel mappe for å lagra";
+"PDF Engine" = "PDF-motor";
+"Show command output" = "Vis kommandoutdata";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksporter og overskriv førre\" overskriv fila %@. Vil du gå vidare?";
+"Command Arguments:" = "Kommandoargument:";
+"This dev version of Typora is expired, please download and install a newer version." = "Denne dev-versjonen av Typora har gått ut, last ned og installer ein nyare versjon.";
+"Current Theme" = "Noverande tema";
+"After Export" = "Etter eksport";
+"Run command" = "Køyr kommando";
+"Run command after export failed" = "Køyr kommando etter at eksport har feila";
+"Read and overwrite export settings from YAML front matters" = "Overkøyr eksportinnstillingane med YAML-innleiinga";
+"Append Extra Content (HTML)" = "Legg til ekstra innhald (HTML)";
+"Change this option to specify a separated theme for export." = "Endre denne innstillinga for å velja eit eige tema for eksport.";
+"Dark theme is not supported." = "Mørkt tema er ikkje støtta.";
+
+"Markdown Variants" = "Markdown-variantar";
+"Original Unextended Markdown" = "Originale Markdown utan tillegg";
+"CommonMark with many pandoc extensions" = "CommonMark med mange pandoc-tillegg";
+"Line Wrap" = "Linebryting";
+"Hard line wrap" = "Hardt lineskift";
+"Text Column Width" = "Breidde på tekstkolonne";
+"Auto (based on current OS)" = "Automatisk (basert på OS)";
+"Indent" = "Innrykk";
+"Preserve tabs" = "Ta vare på tabulatorar";
+"2 spaces per tab" = "2 mellomrom per tabulator";
+"3 spaces per tab" = "3 mellomrom per tabulator";
+"4 spaces per tab" = "4 mellomrom per tabulator";
+"Unicode Characters" = "Unicode-teikn";
+"Use only ASCII characters in output" = "Bruk berre ASCII-teikn i utdata";
+"Use reference-style links rather than inline links" = "Bruk referanselenkar i staden for lenkar rett i teksten";
+"Footnotes and References Location" = "Plassering av fotnotar og referansar";
+"End of document" = "Slutten av dokumentet";
+"End of current (top-level) block" = "Slutten av gjeldande (toppnivå-) blokk";
+"End of current section" = "Slutten av gjeldande seksjon";
+"Convert TeX formulas to web images" = "konverter TeX-formlar til nettbilete";
+"Image Format" = "Biletformat";
+
+"Set Pandoc Path" = "Set Pandoc-sti";
+
+"Apply Line Break at \\ and &#92;newline" = "Set inn lineskift ved \\ og &#92;newline";
+
+"Export operation succeeded with warnings." = "Eksporten gjekk gjennom med åtvaringar.";
+
+"Typora is now deactivated" = "Typora har no vorte avaktivert";
+"This device has been deactivated" = "Denne eininga har vorte avaktivert";
+"UNREGISTERED" = "UREGISTRERT";
+
+"Your Typora is not activated." = "Typora-en din er ikke aktivert.";
+"Your Typora has been activated." = "Typora-en din har vorte aktivert.";
+"Typora activation is required to change this." = "Typora-aktivering trengst for å endra dette.";
+"You can reinstall the stable version and then disable this." = "Du kan installera den stabile versjonen og så slå av dette..";
+"Update to dev version" = "Oppdater til dev-versjonen";
+
+"Typora Server" = "Typora-server";
+"Use Typora Server in China" = "Bruk Typora-server i Kina";
+
+"File does not exist" = "Fila finst ikkje";
+"Create File" = "Lag fil";
+"Create Folder" = "Lag mappe";
+
+"(Some options will be applied after restart.)" = "(Somme innstillingar gjeld fyrst etter omstart.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Kopier eller klypp ut heile liner som har skrivemerke i seg, dersom det ikkje finst ei markering å kopiera eller klyppa ut.";
+"Enable physics package" = "Slå på fysikkpakka";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Fysikkpakka vil omdefinera sume LaTeX-makroar, slik som \\div, \\Re, osb.";
+
+"Detail" = "Detalj";
+"Use custom font size" = "Bruk tilpassa fontstorleik";
+"Use theme font size" = "Bruk temafontstorleik";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Du bruker Snap-versjonen. Han kan ha avgrensa tilgang til lokale, køyrbare filer.";
+
+"No local images found." = "Fann ingen lokale bilete.";
+
+"File Format:" = "Filformat:";
+
+"Images copied to %@." = "Bilete kopierte til %@.";
+"Images moved to %@." = "ImagesBilete flytta til %@.";
+
+"Custom Command" = "Tilpassa kommando";
+"No Automatic Equation Numbering" = "Inga automatisk nummerering av likningar";
+"Use AMS Numbering Rules" = "Bruk nummereringsrelgar etter AMS";
+"Auto Numbering for All Math Equations" = "Automatisk nummerering for alle matteuttrykk";
+
+"Preferred Image Syntax" = "Føretrukke biletsyntaks";
+"Add ./ for relative path" = "Legg til ./ for relativ sti";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Når dette er slått på vil Typora bruka mønster som ./assets/image.png i staden for assets/image.png når det lagar relative stiar for innsette bilete.";

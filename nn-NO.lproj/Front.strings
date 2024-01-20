@@ -169,6 +169,7 @@
 "Auto refresh on Files Panel cannot be enabled." = "Automatisk oppdatering i filpanelet har ikkje vorte skrudd på.";
 "Delete Permanently" = "Slett for evig";
 
+
 "Failed to upload images:" = "Opplasting av bilete mislyktest:";
 "Uploading in progress" = "Lastar opp...";
 "Successfully uploaded {0} images, {1} failed." = "Lasta opp {0} bilete, {1} mislyktest.";
@@ -197,3 +198,8 @@
 "Sort by Creation Date (Descending)" = "Sorter etter dato oppretta (fallande)";
 
 "code language" = "kodespråk";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan ikkje endra namn frå $1 til $2, bruk \"Fil\" → \"Flytt til…\" i menyen i staden.";
+"Markdown file" = "Markdown-fil";
+"TextBundle file" = "TextBundle-fil";
+"Images saved to TextBundle" = "Bilete lagra i TextBundle";

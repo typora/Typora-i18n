@@ -164,6 +164,7 @@
 "Switch Between Opened Documents" = "Veksle mellom opne dokument";
 "Toggle DevTools" = "Vis/gøym utviklarverktøy";
 
+
 /* Themes Menu */
 "Themes" = "Tema";
 
@@ -260,8 +261,8 @@
 "Play" = "Spel av";
 "Pause" = "Pause";
 
-"Spell Check" = "Skrivekontroll";
-"Unlearn Spelling" = "Gløym staving";
+"Spell Check" = "Stavekontroll";
+"Unlearn Spelling" = "Gløym ord";
 "Properties" = "Eigenskapar";
 
 "Search" = "Finn";
@@ -338,3 +339,24 @@
 "Move All Images to" = "Flytt alle bilete til";
 
 "Copy as Image" = "Kopier som bilete";
+
+"Switch Image Syntax" = "Byt biletsyntaks";
+"Markdown Style" = "Markdown-stil";
+"HTML Style" = "HTML-stil";
+
+"Code Tools" = "Kodeverktøy";
+"Copy Code Content" = "Kopier kodeinnhald";
+"Auto Indent Selected Code" = "Automatisk innrykk for vald kode";
+"Auto Indent Whole Code" = "Automatisk innrykk for all koden";
+
+"Jump to Line Start" = "Gå til starten av lina";
+"Jump to Line End" = "Gå til slutten av lina";
+"Toggle Word Count Popover" = "Slå av/på ordteljarboble";
+"Toggle Outline Popover" = "Slå av/på disposisjonsboble";
+
+"Alert" = "Meldingsboks";
+"Note Block" = "Blokk for merknad";
+"Tip Block" = "Blokk for tips";
+"Important Block" = "Blokk for viktig";
+"Warning Block" = "Blokk for åtvaring";
+"Caution Block" = "Blokk for forsiktig";

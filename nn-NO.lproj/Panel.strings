@@ -516,3 +516,56 @@
 "Preferred Image Syntax" = "Føretrukke biletsyntaks";
 "Add ./ for relative path" = "Legg til ./ for relativ sti";
 "When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Når dette er slått på vil Typora bruka mønster som ./assets/image.png i staden for assets/image.png når det lagar relative stiar for innsette bilete.";
+
+"Image Quality" = "Biletkvalitet";
+"Medium" = "Middels";
+"High" = "Høg";
+"Best" = "Best";
+
+"Use Shift+Tab to auto indent selected code" = "Nytt Skift+Tab for å rykka inn vald kode";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Når slått av vil Skift+Tab rykkja ut vald kode eller lina med skrivemerket i. Når slått på vil Skift+Tab rykkja inn vald kode eller lina med skrivemerket i i kodeblokker.";
+
+"Auto Links (e.g: https://typora.io)" = "Automatiske lenkjer (e.g: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Når slått på vil Typora automatisk kjenna att og framheva URL-ar (t.d.: https://typora.io or mailto:hi@typora.io) i tekst.";
+
+"Files" = "Filer";
+"Default File Type / Extension" = "Standard filtype/suffiks";
+"Custom Extension:" = "Tilpassa suffiks:";
+"Following extensions are supported: %@" = "Dei fylgjande suffiksa er støtta: %@";
+"e.g: %@" = "t.d.: %@";
+"When drop file / folder into Typora" = "Når ein dreg ei fil / mappe på Typora";
+"When drop folder" = "Når ein dreg ei mappe";
+"When drop markdown file" = "Når ein dreg ei markdown-fil";
+"When drop files that can be imported" = "Når ein dreg ei fil som kan bli importert";
+"Open in Typora" = "Opne i Typora";
+"Insert Folder Link" = "Set inn mappelenkje";
+"Insert File Link" ="Set inn fillenkje";
+"Import File" = "Importer fil";
+
+"Diagram Options" = "Diagraminnstillingar";
+"Default Code Language" = "Standard programmeringsspråk";
+"(None)" = "(Ingen)";
+"Last Used" = "Sist nytta";
+"Apply Default Code Language When" = "Bruk standard programmeringsspråk når";
+"When add code fences via Markdown" = "når ein legg til kodeblokk via Markdown";
+"When add code fences via Menubar" = "når ein legg til kodeblokk via menyen";
+"Both" = "Begge";
+
+"Pinned and Recent Locations" = "Festa og sist brukte stader";
+"Operation Succeeded" = "Handlinga var vellukka";
+"Clear Recent Folders and Files" = "Tøm sist bruke mapper og filer";
+"Clear Recent Folders / Files Only" = "Tøm berre sist brukte mapper / filer";
+"Clear Recent and Pinned Folders / Files" = "Tøm sist brukte og festa mapper / filer";
+"Also clear pinned folders" = "Tøm òg festa mapper";
+"Pin" = "Fest";
+"Unpin" = "Slepp laus";
+"Remove from List" = "Fjern frå lista";
+"Record recent files and folders" = "Spar sist brukte filer og mapper";
+
+"System Integration" = "Systemintegrering";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Legg til \"Markdown\" i \"New\"-kontekstmenyen i Windows-utforskaren";
+"Delete items from \"New\" context menu in Windows Explorer" = "Slett filer frå \"New\"-kontekstmenyen i Windows-utforskaren";
+"Please try sign out Windows to take effect." = "Prøv å logga deg ut av Windows for at det skal fungera.";
+"Github Style Alert" = "Meldingsboks i Github-stil";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom med musehjul og %@-tast";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Dokumentet ditt inneheld ulagra endringar. Vil du byta til fila som det akkurat vart laga ein kopi av?";

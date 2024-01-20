@@ -40,8 +40,8 @@
 "Move To" = "Flytt til";
 "Revert To" = "Tilbakestill til";
 "Browse All Versions" = "Sjå gjennom alle versjonane";
-"Import" = "Importer";
-"Export" = "Eksporter";
+"Import" = "Import";
+"Export" = "Eksport";
 "Page Setup" = "Sideoppsett";
 "Print" = "Skriv ut";
 
@@ -238,7 +238,7 @@
 "Open Image Location" = "Opne stad for bilete";
 
 "Learn More" = "Lær meir";
-"Whitespace and Line Breaks" = "Mellomrom og lineskift";
+"Whitespace and Line Breaks" = "Blankteikn og lineskift";
 "Indent first line of paragraphs" = "Innrykk for fyrste line i avsnitt";
 "Preserve single line break" = "Ta vare på enkelt lineskift";
 "Visible <br/>" = "Synleg <br/>";
@@ -318,7 +318,7 @@
 
 "Click" = "Klikk";
 
-"Export Setting" = "Eksporter innstillingar";
+"Export Setting" = "Innstillingar for eksport";
 
 "My License" = "Lisensen min";
 "Registration / Activation" = "Registrering / aktivering";

@@ -20,19 +20,19 @@
 "Word Count" = "Tal på ord";
 "Always Show Word Count" = "Vis alltid tal på ord";
 "Font Size" = "Skriftstorleik";
-"Auto ( Recommended )" = "Auto ( tilrådd )";
+"Auto ( Recommended )" = "Automatisk (tilrådd)";
 "Customized" = "Eigentilpassa";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Om eigne skrifttypar er nytta, vil faktisk skriftstorleik vera avhengig av standard skriftstorleik og css-stilen.";
 "Left Panel" = "Venstre panel";
 "Show Outline Panel by Default" = "Vis disposisjonspanel som standard";
 "Collapsible Outline on Left Panel" = "Gjer disposisjon i venstre panel samanslagbar";
-"Save without asking when\nswitch files on side panel" = "Lagre utan å spørja når\nbyt filer i sidepanel";
+"Save without asking when\nswitch files on side panel" = "Lagre utan å spørja når\nein byter filer i sidepanel";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Redigerte filer vil bli lagra utan å spørja når ein byter filer i venstre panel. \nNår \"Spør om å ta vare på endringar når dokumenta blir latne att\" er av i systeminnstillingar, er dette alltid på.";
 "Language" = "Språk";
 "System Language" = "Systemspråk";
 
 /* Editor Panel */
-"Editor" = "Redigerer";
+"Editor" = "Redigering";
 "Indent Size on Save" = "Storleik på innrykk ved lagring";
 "only apply to quotes and lists created from menu bar or hybrid view" = "gjeld berre ved sitat og lister laga med menyen eller i hybridvising";
 "Trigger Autocomplete without ESC key for" = "Utløs autofullføring utan ESC-tasten for";
@@ -224,7 +224,7 @@
 
 "Learn More" = "Lær meir";
 "Whitespace / Line Break" = "Blankteikn / lineskift";
-"When Writing" = "medan ein skriv";
+"When Writing" = "Medan ein skriv";
 "Export / Print" = "Eksport / Utskrift";
 "Preserve sequential whitespace and single line break" = "Ta vare på blankteikn og enkle lineskift";
 "Ignore sequential whitespace and single line break" = "Ignorer blankteikn og enkle lineskift";
@@ -306,7 +306,7 @@
 "When copy / export as HTML (without style)" = "Når ein kopierer / eksporterer som HTML (utan stil)";
 "Use Rendered SVG" = "Bruk generert SVG";
 "Use LaTeX Source" = "Bruk LaTeX-kjelde";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Gjeld når ein eksporterer som HTML (utan stil) eller kopierer som HTML-kode, eller kopierer utan temastilar.<br/>Når <strong>Bruk LaTeX-kjelde</strong> er vald vil Typora gje den råe LaTeX-kjeldekoden (t.d.: $X^2$),<br/>Når <strong>Bruk generert SVG</strong> er vald blir den genererte SVG bli brukt. Om du limer inn i ein annan app kan det henda at SVG-koden blir ignorert.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Gjeld når ein eksporterer som HTML (utan stil) eller kopierer som HTML-kode, eller kopierer utan temastilar.<br/>Når <strong>Bruk LaTeX-kjelde</strong> er vald vil Typora gje den råe LaTeX-kjeldekoden (t.d.: $X^2$),<br/>Når <strong>Bruk generert SVG</strong> er vald vil den genererte SVG-koden bli brukt. Om du limer inn i ein annan app kan det henda at SVG-koden blir ignorert.</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importfunksjonen og fleire eksportformat krev at Pandoc (≥%@) er installert.";
 "Do not show this message again" = "Ikkje vis denne meldinga att";
@@ -403,7 +403,7 @@
 "Open exported file location" = "Opne mappa med eksportert fil";
 "Open exported file" = "Opne eksporter fil";
 "Custom" = "Tilpassa";
-"None" = "Inkje";
+"None" = "Ingen";
 "Default" = "Stadard";
 "Margin" = "Marg";
 "Margin Left" = "Venstremarg";

@@ -40,8 +40,8 @@
 "Move To" = "Flytt til";
 "Revert To" = "Tilbakestill til";
 "Browse All Versions" = "Sjå gjennom alle versjonane";
-"Import" = "Importer";
-"Export" = "Eksporter";
+"Import" = "Import";
+"Export" = "Eksport";
 "Page Setup" = "Sideoppsett";
 "Print" = "Skriv ut";
 
@@ -164,6 +164,7 @@
 "Switch Between Opened Documents" = "Veksle mellom opne dokument";
 "Toggle DevTools" = "Vis/gøym utviklarverktøy";
 
+
 /* Themes Menu */
 "Themes" = "Tema";
 
@@ -238,7 +239,7 @@
 "Open Image Location" = "Opne stad for bilete";
 
 "Learn More" = "Lær meir";
-"Whitespace and Line Breaks" = "Mellomrom og lineskift";
+"Whitespace and Line Breaks" = "Blankteikn og lineskift";
 "Indent first line of paragraphs" = "Innrykk for fyrste line i avsnitt";
 "Preserve single line break" = "Ta vare på enkelt lineskift";
 "Visible <br/>" = "Synleg <br/>";
@@ -260,8 +261,8 @@
 "Play" = "Spel av";
 "Pause" = "Pause";
 
-"Spell Check" = "Skrivekontroll";
-"Unlearn Spelling" = "Gløym staving";
+"Spell Check" = "Stavekontroll";
+"Unlearn Spelling" = "Gløym ord";
 "Properties" = "Eigenskapar";
 
 "Search" = "Finn";
@@ -318,7 +319,7 @@
 
 "Click" = "Klikk";
 
-"Export Setting" = "Eksporter innstillingar";
+"Export Setting" = "Innstillingar for eksport";
 
 "My License" = "Lisensen min";
 "Registration / Activation" = "Registrering / aktivering";
@@ -338,3 +339,24 @@
 "Move All Images to" = "Flytt alle bilete til";
 
 "Copy as Image" = "Kopier som bilete";
+
+"Switch Image Syntax" = "Byt biletsyntaks";
+"Markdown Style" = "Markdown-stil";
+"HTML Style" = "HTML-stil";
+
+"Code Tools" = "Kodeverktøy";
+"Copy Code Content" = "Kopier kodeinnhald";
+"Auto Indent Selected Code" = "Automatisk innrykk for vald kode";
+"Auto Indent Whole Code" = "Automatisk innrykk for all koden";
+
+"Jump to Line Start" = "Gå til starten av lina";
+"Jump to Line End" = "Gå til slutten av lina";
+"Toggle Word Count Popover" = "Slå av/på ordteljarboble";
+"Toggle Outline Popover" = "Slå av/på disposisjonsboble";
+
+"Alert" = "Meldingsboks";
+"Note Block" = "Blokk for merknad";
+"Tip Block" = "Blokk for tips";
+"Important Block" = "Blokk for viktig";
+"Warning Block" = "Blokk for åtvaring";
+"Caution Block" = "Blokk for forsiktig";

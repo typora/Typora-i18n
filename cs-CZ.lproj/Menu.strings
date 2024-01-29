@@ -9,6 +9,8 @@
  davidek251@seznam.cz
  by Petr Šimáček
  petr.simacek@gmail.com
+ by Svatopluk Vít
+ svatopluk.vit@gmail.com
 
 */
 
@@ -129,7 +131,7 @@
 "Mark as Incomplete" = "Označit za nedokončené";
 "List Indentation" = "Odsazení seznamu";
 "Indent" = "Odsazení";
-"Outdent" = "Odrážka vlevo od okraje";
+"Outdent" = "Předsazení";
 "Link Reference" = "Doporučený odkaz";
 "Footnotes" = "Poznámky pod čarou";
 "Horizontal Line" = "Vodorovná čára";
@@ -142,7 +144,7 @@
 "Emphasis" = "Kurzíva";
 "Underline" = "Podtržené";
 "Code" = "Kód";
-"Inline Math" = "Inline Math";
+"Inline Math" = "Matematické výrazy v řádku";
 "Strike" = "Přeškrtnout";
 "Highlight" = "Zvýraznit";
 "Superscript" = "Horní index";
@@ -179,7 +181,7 @@
 /* Window Menu */
 "Window" = "Okno";
 "Minimize" = "Minimalizovat";
-"Zoom" = "Zoom";
+"Zoom" = "Zvětšit";
 "Bring All to Front" = "Přenést vše do popředí";
 
 /* Help Menu */
@@ -191,8 +193,8 @@
 "About" = "O Typoře";
 
 /* Touchbar */
-"Block Styles" = "Blokovat styly";
-"Inline Styles" = "Inline Styly";
+"Block Styles" = "Styly bloku";
+"Inline Styles" = "Řádkové styly";
 "List Styles / Remove Block" = "Procházet styly / Odstranit blokované";
 "Exit Source Code Mode" = "Opustit režim zdrojového kódu";
 "Toggle Source Code Mode" = "Přepnout mód zdrojového kódu";
@@ -213,7 +215,7 @@
 "Copy as MathML" = "Kopírovat jako MathML";
 "Copy as Tex" = "Kopírovat jako Tex";
 "Copy Math" = "Kopírovat Math";
-"Reveal in Finder" = "Zobrazit ve Finderu";
+"Reveal in Finder" = "Zobrazit ve Vyhledávači";
 "Open Link" = "Otevřít odkaz";
 "Reveal in Sidebar" = "Zobrazit v bočním panelu";
 "Open in New Window" = "Otevřít v novém okně";
@@ -225,10 +227,10 @@
 /* Electron */
 "Learn Spelling" = "Naučit se pravopis";
 "Copy / Paste As" = "Kopírovat / Vložit jako";
-"Math" = "Math";
+"Math" = "Výraz";
 "Insert" = "Vložit";
 "Inspect Element" = "Zkontrolovat prvek";
-"Copy to MS Word" = "Kopírovat do Wordu";
+"Copy to MS Word" = "Kopírovat do MS Wordu";
 "Paragraph (before)" = "Odstavec (před)";
 "Paragraph (after)" = "Odstavec (za)";
 
@@ -257,14 +259,14 @@
 "Reopen Closed File" = "Znovuoteřít zavřený soubor";
 
 "Global Image Settings" = "Globální nastavení obrázků";
-"Smart Punctuation" = "Chytré uvozovky";
+"Smart Punctuation" = "Chytrá interpunkce";
 "Convert on Input" = "Převést na vstupu";
-"Convert on Rendering" = "Převést na zobrazování";
-"Remap Unicode Punctuation on Parse" = "Znovu namapovat znaky Unicode během prasování";
+"Convert on Rendering" = "Převést při zobrazování";
+"Remap Unicode Punctuation on Parse" = "Znovu namapovat znaky Unicode během parsování";
 "More Options" = "Více nastavení";
 
 "HTML Block" = "Blok HTML";
-"Delete Paragraph / Block" = "Smazat Blok";
+"Delete Paragraph / Block" = "Smazat odstavec/blok";
 "Delete %@" = "Smazat %@";
 "Play" = "Přehrát";
 "Pause" = "Pozastavit";

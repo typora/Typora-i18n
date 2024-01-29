@@ -9,7 +9,8 @@
  davidek251@seznam.cz
  by Petr Šimáček
  petr.simacek@gmail.com
-
+ by Svatopluk Vít
+ svatopluk.vit@gmail.com
 */
 
 /* Common */
@@ -31,12 +32,12 @@
 "Search" = "Hledat";
 "Replace" = "Nahradit";
 "All" = "Vše";
-"Search text not found in article" = "Vyhledávaný text nebyl v článku nalezen";
+"Search text not found in article" = "Hledaný text nebyl nalezen";
 "search text" = "Hledat text";
 
 /* Quick Open */
 "Search by file name" = "Hledat podle názvu souboru";
-"Searching" = "Hledá se";
+"Searching" = "Vyhledávání";
 "Gathering more results" = "Shromažďují se další výsledky";
 
 /* Tables */
@@ -54,7 +55,7 @@
 
 /* Math */
 "Edit" = "Upravit";
-"Delete Math" = "Vymazat Math";
+"Delete Math" = "Vymazat vzorec";
 "Preview" = "Náhled";
 
 /* Sidebar */
@@ -72,16 +73,16 @@
 "Open Folder..." = "Otevřít složku...";
 "Action" = "Akce";
 "Close Sidebar Menu" = "Zavřít menu bočního panelu";
-"Reveal in Finder" = "Ukázat ve Finderu";
+"Reveal in Finder" = "Ukázat ve Vyhledávači";
 "Reveal in File Explorer" = "Ukázat ve Správci Souborů";
 "Refresh Folder" = "Obnovit složku";
 "Sort" = "Seřadit";
 "Group By Folder" = "Seskupit podle složky";
 "Sort Naturally" = "Seřadit přirozeně";
-"Sort by Name (Ascending)" = "Seřadit podle jména (Ascending)";
-"Sort by Modification Date (Ascending)" = "Seřadit podle data změny (Ascending)";
-"Sort by Name (Descending)" = "Seřadit podle jména (Descending)";
-"Sort by Modification Date (Descending)" = "Seřadit podle data změny (Descending)";
+"Sort by Name (Ascending)" = "Seřadit podle jména (Vzestupně)";
+"Sort by Modification Date (Ascending)" = "Seřadit podle data změny (Vzestupně)";
+"Sort by Name (Descending)" = "Seřadit podle jména (Sestupně)";
+"Sort by Modification Date (Descending)" = "Seřadit podle data změny (Sestupně)";
 "Location" = "Umístění";
 "Switch File List/Tree View" = "Přepnout do pohledu Seznamu/Stromu";
 "No Files Available" = "Žádné dostupné soubory";
@@ -95,7 +96,7 @@
 
 "Table of Contents" = "Obsah";
 "Empty Diagram" = "Prázdný diagram";
-"Input Math TeX here" = "Vložte Math TeX zde";
+"Input Math TeX here" = "Vložte matematický vzorec TeX zde";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Je potřeba definovat referenční poznámku pod čarou<b>{0}</b> se syntaxí <a>[^{1}]: www.ukázka.cz</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Je potřeba definovat referenční odkaz<b>[{0}]</b> se syntaxí <b>[{1}]: www.ukázka.cz</b>";
@@ -106,51 +107,51 @@
 "Failed to create folder" = "Nepodařilo se vytvořit složku";
 "Failed to rename file" = "Nepodařilo se přejmenovat soubor";
 "Folder does not exist at %@" = "Složka neexistuje v %@";
-"File with the same name already exists at target path" = "Stejnojmenný soubor už v cílové složce existuje";
+"File with the same name already exists at target path" = "Soubor stejného jména už v cílové složce existuje";
 "Apply to All" = "Použít na vše";
 "Overwrite" = "Přepsat";
-"Stop" = "Stop";
+"Stop" = "Zastavit";
 "back to document" = "Zpět do dokumentu";
 "Failed to load file" = "Soubor nelze načíst";
 "Save File Failed!" = "Soubor nelze uložit!";
 "Cannot open folder {0}" = "Složku nelze otevřít {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Obsah souboru byl změněn externí aplikací. Chcete načíst obsah z disku?";
-"Should continue moving and overwrite existing file(s) ?" = "Má se pokračovat v přesouvání a přepsat soubor(y) ?";
+"Should continue moving and overwrite existing file(s) ?" = "Má se pokračovat v přesouvání a přepisu existujícího?";
 
 "Rename Failed" = "Přejmenování selhalo";
 "Rename to \"{0}\" ?" = "Přejmenovat na \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Přejmenování z \"{0}\" na \"{1}\"se nezdařilo";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Bylo úspěšně nahráno {0} obrázků";
+"Successfully uploaded {0} images." = "Bylo úspěšně nahráno obrázků: {0}";
 "Failed to upload image. Error Message:" = "Nepovedlo se nahrát obrázek. Chybový kód:";
 "Failed to Copy Image to Target Folder." = "Nepovedlo se zkopírovat obrázky do cílové složky.";
-"Select Container Folder" = "Vybratt kontejnerovou složku";
+"Select Container Folder" = "Vybrat kontejnerovou složku";
 
 "Saved" = "Uloženo";
 
 /* place holder in find & replace input */
 "search text" = "Hledat text";
-"replace with" = "Nahradit velikost";
+"replace with" = "Nahradit s";
 /* search option */
 "Case Sensitive" = "Citlivost na malá a velká písmena";
 "Whole Word" = "Celé slovo";
 
 "input image URL" = "Vložit URL obrázku";
-"Select image from local file" = "Vybrat obrázek z mísního uložiště";
+"Select image from local file" = "Vybrat obrázek z místního úložiště";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nelze otevřít umístění <code>$1</code>, neměli jste na mysli <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
 "select a language" = "Vybrat jazyk";
 "Finish Editing" = "Dokončit úpravy";
 
-"Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
+"Revert advanced setting file to default one ?" = "Přepsat soubor pokročilých nastavení výchozím?";
 
-"Select Spell Check Language" = "Vyberte jazyk kontroli pravopisu";
-"Auto Detect Language" = "Automaticky poznat jazyk";
+"Select Spell Check Language" = "Vyberte jazyk kontroly pravopisu";
+"Auto Detect Language" = "Automaticky rozpoznat jazyk";
 "Disable Spell Check" = "Vypnout kontrolu pravopisu";
 "Global Setting…" = "Globální nastavení…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Chybí soubor slovníku pro podporu %@.";
+"Dictionary file is missing to enable spellcheck support for %@." = "Chybí soubor slovníku pro podporu jazyka %@.";
 "Install Language Support" = "Nainstalovat podporu jazyka";
 "License Information" = "Informace o licenci";
 "Download" = "Stáhnout";
@@ -158,18 +159,18 @@
 "Spell Check (%@ unavailable)" = "Kontrola pravopisu (%@ nedostupné)";
 "Spell Check (%@ downloading)" = "Kontrola pravopisu (%@ stahuji)";
 "Download dictionary file for %@" = "Stáhnout soubor slovníku pro %@";
-"(Default spell check option)" = "(Původní nastavení kontroly)";
-"Failed to load spellcheck module" = "Nepovedlo se načíst modul kontroli pravopisu";
+"(Default spell check option)" = "(Výchozí nastavení kontroly)";
+"Failed to load spellcheck module" = "Nepovedlo se načíst modul kontroly pravopisu";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> bylo zapnuto.";
-"You could turn it off from `View` menu." = "Měli by jste to vypnout z menu `Zobrazení`.";
-"The file is too large to render in Typora." = "Tenhle soubor je příliš veliký pro zobrazení v Typoře.";
+"You could turn it off from `View` menu." = "Mělo by být vypnuto z nabídky `Zobrazení`.";
+"The file is too large to render in Typora." = "Tento soubor je příliš veliký pro zobrazení v Typoře.";
 "Open in…" = "Otevřít v…";
-"Quick Look" = "Náhled";
+"Quick Look" = "Rychlý náhled";
 
 "Filter" = "Filtr";
-"No result found." = "Žádné výsledky.";
+"No result found." = "Nebylo nic nalezeno.";
 "Continue & Overwrite" = "Pokračovat a Přepsat";
-"The file is read-only, or you do not have right permissions to modify the file." = "Tenhle soubor je pouze pro čtení nebo nemáte dostatečná práva pro jeho úpravu.";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tento soubor je pouze pro čtení nebo nemáte dostatečná práva pro jeho úpravu.";
 
 "Learn Data Recovery" = "Naučit se obnovu dat";

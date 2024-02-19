@@ -9,30 +9,32 @@
  davidek251@seznam.cz
  Petr Šimáček
  petr.simacek@gmail.com
+ by Svatopluk Vít
+ svatopluk.vit@gmail.com
 
 */
 
 /* Preference Panel */
-"Preferences" = "Preference";
+"Preferences" = "Nastavení";
 
 /* General Panel */
 "General" = "Všeobecné";
 "Window Style" = "Styl okna";
 "Classic" = "Klasický";
 "Seamless" = "Bezešvý";
-"Seamless window only support OS X later than 10.10." = "Bezešvé okno je podporováno jen u OS X novějších než 10.10.";
-"Themes" = "Témata";
+"Seamless window only support OS X later than 10.10." = "Bezešvé okno je podporováno jen v OS X novějších než 10.10.";
+"Themes" = "Témata vzhledu";
 "Open Theme Folder" = "Otevřít složku s tématy";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Prosím koukněte se na `Pomoc`->`Rychlý start` pro krátké instrukce. Navštivte http://theme.typora.io k získání většího množství instrukcí a témat.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Prosím podívejte se na `Pomoc`->`Rychlý start` pro krátké instrukce. Navštivte http://theme.typora.io k získání většího množství instrukcí a témat vzhledu.";
 "Word Count" = "Počet slov";
 "Always Show Word Count" = "Vždy zobrazovat počet slov";
-"Font Size" = "Velikost textu";
+"Font Size" = "Velikost písma";
 "Auto ( Recommended )" = "Automaticky （ Doporučeno ）";
 "Customized" = "Přizpůsobené";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "Pokud je použita vlastní velikost textu, tak velikost textu bude záviset na velikosti textu a stylu CSS.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Pokud je použita vlastní velikost textu, bude velikost textu odvozena z CSS stylu.";
  "Left Panel" = "Levý panel";
 "Show Outline Panel by Default" = "Zobrazovat panel přehledu";
-"Collapsible Outline on Left Panel" = "Skládací přehled na levém panelu.";
+"Collapsible Outline on Left Panel" = "Rozbalovací přehled na levém panelu.";
 "Save without asking when\nswitch files on side panel" = "Uložit bez dotazu, když\nse přepnou soubory na bočním panelu";
 "Language" = "Jazyk";
 "System Language" = "Systémový jazyk";
@@ -41,43 +43,43 @@
 "Editor" = "Editor";
 "Indent Size on Save" = "Velikost odsazení při ukládání";
 "only apply to quotes and lists created from menu bar or hybrid view" = "Aplikovat pouze na citace a seznamy vytvořené z menu nebo hybridního zobrazení";
-"Trigger Autocomplete without ESC key for" = "Spustit automatické dokončení bez tlačítka ESC pro";
+"Trigger Autocomplete without ESC key for" = "Spustit automatické dokončení bez klávesy Escape pro";
 "Emoji (e.g. :smile:)" = "Emoji (např. :smile:)";
 "Images Insert" = "Vložit obrázky";
-"Use relative path if possible" = "Použít relativní cestu pokud je to možné";
+"Use relative path if possible" = "Použít relativní cestu, pokud je to možné";
 "Allow copy images to given folder" = "Povolit kopírování obrázků do dané složky";
-"Allow upload to given server" = "Povolit nahrávání na daný serveru";
+"Allow upload to given server" = "Povolit nahrávání na daný server";
 "Auto Pair" = "Automatické párování";
 "Auto pair brackets and quotes" = "Automaticky párovat závorky a uvozovky";
-"Auto pair common Markdown syntax" = "Automaticky párovat častou syntaxi Markdown";
+"Auto pair common Markdown syntax" = "Automaticky párovat obecnou syntaxi Markdown";
 "Live Rendering" = "Živé zobrazení";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Zobrazit zdroj pro jednoduché bloky\n(včetně hlaviček, atd.) při najetí myši";
 "Default Copy Behavior" = "Standardní chování při kopírování";
-"Copy Markdown source as plain text" = "Kopírovat markdown jako prostý text";
+"Copy Markdown source as plain text" = "Kopírovat Markdown jako prostý text";
 "Typewriter Mode" = "Mód psacího stroje";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Vždy udržovat ukazatel uprostřed obrazovky\nKdyž je zapnut mód psacího stroje";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Vždy udržovat kurzor uprostřed obrazovky\nkdyž je zapnut mód psacího stroje";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Následující předvolby se projeví až po restartu)";
 "Syntax Support" = "Podpora syntaxe";
-"Inline Math  (e.g: $\LaTeX$)" = "Inline matematika（např：$\LaTeX$）";
+"Inline Math  (e.g: $\LaTeX$)" = "Řádkové matematické výrazy（např：$\LaTeX$）";
 "Subscript    (e.g: H~2~O)" = "Dolní index（např.：H~2~O）";
 "Superscript (e.g: X^2^)" = "Horní index（např.：X^2^）";
 "Highlight     (e.g: ==key==)" = "Zvýraznění（např.：==key==）";
 "Diagrams" = "Diagramy";
-"(Sequence, Flowchart and Mermaid)" = "（Sekvence, vývojový graf a mermaid）";
+"(Sequence, Flowchart and Mermaid)" = "（Sekvence, vývojový graf a Mermaid）";
 "Syntax Preference" = "Předvolba syntaxe";
-"(only applies to styles created from menubar or hybrid view)" = "(pouze aplikovat pro styly vytvořené z menu nebo hybridního zobrazení)";
+"(only applies to styles created from menubar or hybrid view)" = "(týká  se pouze stylů aplikovaných z menu nebo hybridního zobrazení)";
 "Strict Mode" = "Striktní mód";
-"(more strict to GFM spec)" = "(striktnější k GFM specifikacím)";
+"(more strict to GFM spec)" = "(striktnější ke GFM specifikacím)";
 "Heading Style" = "Styl nadpisu";
 "Ordered List" = "Seřazený seznam";
 "Unordered List" = "Neseřazený seznam";
 "Code Fences" = "Ohraničení kódu";
 "Display line numbers for code fences" = "Zobrazovat čísla řádků pro ohraničený kód";
 "Math Blocks" = "Matematické bloky";
-"Auto Numbering Math Equations" = "Automatické číslování matematických rovnic";
+"Auto Numbering Math Equations" = "Automatické číslování matematických výrazů";
 
 /* Security Panel */
 "Security" = "Bezpečnost";
@@ -110,21 +112,21 @@
 "Generated Image too Large" = "Vytvořený obrázek je příliš veliký";
 "Failed to export file to <em>{0}</em>" = "Nepovedlo se exportovat soubor do <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "Nepovedlo se importovat soubor z <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "Soubor neexistuje na <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Soubor v <em>{0}</em>" neexistuje.";
 "Export to..." = "Exportovat do...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, jestli je neuložíte.";
-"[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připevnit záložku pro PDF soubor.";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, pokud je neuložíte.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připojit záložku pro PDF soubor.";
 "Dark Theme not support" = "Tmavé téma není podporováno";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí na exportovaném PDF, takže tmavé téma ještě není podporované pro export jako PDF. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Omlouváme se, současné verze Typory nevytiskne barvu pozadí do exportovaného PDF, tmavé téma není v PDF exportu podporováno. \nProsím vyberte světlé téma nebo \"Tisknout s původním tématem\"";
 "Print with default theme" = "Tisknout s původním tématem";
-"Export to PDF successfully." = "PDF bylo vyexportováno úspěšně.";
+"Export to PDF successfully." = "Export do PDF byl úspěšný.";
 "Converting file using Pandoc. This may take some time." = "Probíhá převod souboru pomocí Pandocu. Může to chvíli trvat.";
 "Exporting file using Pandoc. This may take some time." = "Probíhá export souboru pomocí Pandocu. Může to chvíli trvat.";
 
 /* Upload via iPic */
 "Uploading Images via iPic..." = "Nahrávají se obrázky přes iPic...";
 "Uploading in progress…" = "Probíhá nahrávání...";
-"Do not show this again" = "Toto znovu nezobrazovat";
+"Do not show this again" = "Znovu nezobrazovat";
 
 /* Word Count */
 "Minute" = "Minut";
@@ -146,7 +148,7 @@
 "(applied after restart)" = "(aplikováno po restartu)";
 "Status Bar" = "Stavový řádek";
 "Show status bar" = "Zobrazit stavový řádek";
-"Save & Recover" = "Uložit & obnovit";
+"Save & Recover" = "Uložit a obnovit";
 "Auto Save" = "Automatické ukládání";
 "Recover Unsaved Drafts" = "Obnovit neuložené návrhy";
 "Emoji Autocomplete" = "Automatické dokončování emoji";
@@ -162,34 +164,34 @@
 "Privacy" = "Soukromí";
 "Developer" = "Vývojář";
 "Update" = "Aktualizace";
-"Check Updates" = "Zkontrolovat Aktualizace";
-"Check updates automatically" = "Kontrolovat aktualizace automaticky";
-"Advanced Settings" = "Pokročilé nastavení";
-"Open Advanced Settings" = "Otevřít pokročilé nastavení";
-"Reset Advanced Settings" = "Resetovat pokročilé nastavení";
+"Check Updates" = "Zkontrolovat aktualizace";
+"Check updates automatically" = "Kontrolovat aktualizací automaticky";
+"Advanced Settings" = "Pokročilá nastavení";
+"Open Advanced Settings" = "Otevřít pokročilá nastavení";
+"Reset Advanced Settings" = "Přenastavit pokročilá nastavení";
 
 /* Image relates on macOS */
-"This function requires latest version of iPic to be installed." = "Tato fukce vyžaduje nejnovější verze iPic.";
+"This function requires latest version of iPic to be installed." = "Tato funkce vyžaduje nejnovější verzi iPic.";
 "Get iPic" = "Získat iPic";
 "Cannot Continue…" = "Nelze pokračovat…";
-"This feature require macOS >= 10.11" = "Tato fukce vyžaduje MacOS >= 10.11";
+"This feature require macOS >= 10.11" = "Tato fukce vyžaduje macOS >= 10.11";
 "One More Step" = "Ještě jeden krok";
-"Notice" = "Oznámit";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Tahle funkce vyžaduje iPic a odkázaní obrázky budou nahrány do cloudu přes iPic. Prosím dále si všimněte, že původní služba cloudu neumožňuje smazání obrázku po nahrání.";
+"Notice" = "Poznámka";
+"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Tahle funkce vyžaduje iPic a vybrané obrázky budou nahrány do cloudu přes iPic. Veďte také v patrnosti, že služba cloudu neumožňuje po nahrání smazání obrázku.";
 
-"%d Images Failed to Upload." = "%d obrázky se nepodařilo nahrát.";
-"%d Succeeded," = "%d uspěl,";
+"%d Images Failed to Upload." = "Nepodařilo se nahrát obrázky v počtu %d.";
+"%d Succeeded," = "ˇUspěšně nahráno obrázků : %d,";
 "Enable this feature on preferences panel" = "Zapněte tuto funkci na panelu předvoleb";
 "%@ is a file, not a directory" = "%@ je soubor, ne složka";
 "Copy Images To…" = "Kopírovat obrázky do …";
 "Create Folder and Continue" = "Vytvořit složku a pokračovat";
 "Document must be saved first" = "Dokument musí být nejprve uložen";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora zkopíruje nově vložené obrázky do složky vybrané podle relativní cesty, takže prosím nejprve uložte soubor.";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora zkopíruje nově vložené obrázky do složky vybrané podle relativní cesty, nejprve proto uložte soubor.";
 "Open Operation Failed" = "Operace Otevřít selhala";
 
-"Support Documentation" = "Dokumentace podpory";
+"Support Documentation" = "Podpůrná dokumentace";
 
-"Markdown File" = "Markdown soubor";
+"Markdown File" = "Soubor Markdown";
 "Plain Text File" = "Soubor prostého textu";
 "All Files" = "Všechny soubory";
 "All Supported Formats" = "Všechny podporované formáty";
@@ -209,21 +211,21 @@
 "Path" = "Cesta";
 "Export As..." = "Exportovat jako...";
 "More Formats" = "Další formáty";
-"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Souborové formáty pod sekcí 'Další formáty' vyžadují <a class='open-pandoc-guide'>Instalaci Pandocu</a>.";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Souborové formáty pod sekcí 'Další formáty' vyžadují <a class='open-pandoc-guide'>instalaci Pandocu</a>.";
 "Something is Wrong…" = "Něco je špatně…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "Uložení obsahu se nepovedlo z neznámého důvodu.<br/>Mohli byste zkopírovat obsah do nového okna Typory a potom uložit. <br/>Zjisti více o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Nahlašte nám chyby</a></li><li><a href='https://support.typora.io/Version-Control/'>Obnovit ztracený obsah</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contens</a></li></ul>" = "Uložení obsahu se nepovedlo z neznámého důvodu.<br/>Mohli byste zkopírovat obsah do nového okna Typory a potom uložit. <br/>Zjistit více o:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Nahlašte nám chyby</a></li><li><a href='https://support.typora.io/Version-Control/'>Obnovit ztracený obsah</a></li></ul>";
 "Copy Content" = "Kopírovat obsah";
 
 
 "Total" = "Celkem";
 "Word count only support OS X later than 10.10." = "Počítání slov podporuje pouze OS X novější než 10.10";
 "Indent Size for Code" = "Velikost odsazení kódu";
-"Auto wrap long lines" = "Automaticky vzít dlouhé řádky";
+"Auto wrap long lines" = "Automaticky zalomit dlouhé řádky";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Omlouváme se, ale současná verze Typory nepodporu barevné pozadí pro tisk.\nSo dark theme is not yet supported for printing. \n\nProsím vyberte si světlé téma nebo exportujete do PDF.";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Omlouváme se, ale současná verze Typory nepodporu barevné pozadí pro tisk.\nTmavé téma není pro tisk podporováno. \n\nProsím vyberte si světlé téma nebo exportujete do PDF.";
 "Export to PDF" = "Exportovat do PDF";
-"Pretty indentation" = "Hezká indentakce";
-"Update markdown reference for this image" = "Aktualizujte markdown reference pro tento obrázek";
+"Pretty indentation" = "Hezká odsazení";
+"Update markdown reference for this image" = "Aktualizovat markdown odkazy na tento obrázek";
 
 "No special action" = "Žádná speciální akce";
 "Copy image to current folder (./)" = "Kopírovat obrázek do současné složky (./)";
@@ -238,33 +240,33 @@
 "Whitespace / Line Break" = "Mezera / Konec řádku";
 "When Writing" = "Během psaní";
 "Export / Print" = "Exportovat / Tisknout";
-"Preserve sequential whitespace and single line break" = "Zabránit dvojitým mezerám na jednom řádku";
-"Ignore sequential whitespace and single line break" = "Ignorovat dvojité mezery a jednoduché ukončení řádků";
+"Preserve sequential whitespace and single line break" = "Zabránit vícenásobným mezerám a jednomu zalomení řádku";
+"Ignore sequential whitespace and single line break" = "Ignorovat vícenásobné mezery a jedno zalomení řádku";
 
 "Quit" = "Ukončit";
-"Quit Typora when last window is closed" = "Ukončit Typoru když je poslední okno zavřeno";
-"On Launch" = "Na startu";
+"Quit Typora when last window is closed" = "Ukončit Typoru, když je poslední okno uzavřeno";
+"On Launch" = "Po startu";
 "Open new file" = "Otevřít nový soubor";
 "Restore last closed folders" = "Obnovit poslední zavřené složky";
 "Restore last closed files and folders" = "Obnovit poslední zavřené soubory a složky";
 "Open custom folder" = "Otevřít volitelnou složku";
 "Select custom folder" = "Vybrat volitelnou složku";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Tohle nastavení může být přebito nastavením \"Zavřít okna behěm zavírání aplikace\" v systémových nastaveních";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Toto nastavení může být přepsáno nastavením \"Zavřít okna behěm zavírání aplikace\" v systémových nastaveních";
 
 "Ignore" = "Ignorovat";
-"Choose Default Folder" = "Vybrat původní složku";
+"Choose Default Folder" = "Vybrat výchozí složku";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Převést při vstupu</strong>: Vložit ASCII lomítka nebo uvozovky, konvertované a uložené jako vlnovité uvozovky nebo unicode lomítka.<br/><strong>Převést při zobrazování</strong>: Vstup a uložení jako ASCII uvozovky a lomítka, zobrazit jako vlnovité uvozovky a lomítka.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozponat unicode punktaci jako ASCII, př.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Bude to zapnuto automatickypokud chytré uvozovky/lomítka budou převedeny na vstupu.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozponat unicode zápis jako ASCII, př.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Bude to zapnuto automaticky pokud chytré uvozovky/lomítka budou převedeny na vstupu.<div>";
 
 "Copy image to custom folder" = "Kopírovat obrázek do vlastní složky";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Prosím specifikujte relativní cestu k současné složce, která začíná './' nebo '../', nebo absolutní cestu. (`${filename}` představující název souboru.)";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Specifikujte relativní cestu k současné složce, která začíná './' nebo '../', nebo absolutní cestu. (`${filename}` představující název souboru.)";
 "Restore to previous setting" = "Obnovit do předchozího nastavení";
 "Folder not exist at %@, please input another path." = "Složka %@ neexistuje, prosím vyberte jinou.";
 "Please input a folder path." = "Prosím zadejte cestu k složce.";
 "Cannot use root path." = "Nelze použít kořenový adresář.";
 
 "Get Themes" = "Získat témata vzhledu";
-"File/directory already exists at target path." = "Složka/soubor již existuje na cilové cestě.";
+"File/directory already exists at target path." = "Složka/soubor již existuje v zadané cestě.";
 "Keep Both" = "Zachovat obojí";
 "Are you sure you want to move %@?" = "Jste si jistí, že chcete přesunout %@?";
 
@@ -273,7 +275,7 @@
 
 "Reset All Dialog Warnings" = "Resetovat všechny varovací dialogy";
 "Dialogs" = "Dialogy";
-"Dialog warnings have been reset." = "Varovací dialogy byly resetovány.";
+"Dialog warnings have been reset." = "Varovací dialogy byly přenastaveny.";
 
 "Operation Failed" = "Operace se nezdařila";
 "Failed to move target file or folder to trash" = "Nepovedlo se přesunout cílovou složku nebo soubor do koše";

@@ -1,0 +1,88 @@
+/* 
+  Front.strings
+  Typora
+
+ by sjurnm@mac.com
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Velkomen til Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Takk for at du bruker Typora 👋. Typora er ein minimalistisk markdown-editor og markdown-lesar, som gjev deg ein saumlaus overgang mellom innhald med rik formattering og den underliggjande kjeldekoden.";
+
+"Get Started" = "Kom i gong";
+"Check following links if you're new to Markdown or Typora." = "Sjekk desse lenkjene om Markdown eller Typora er nytt for deg.";
+
+"Activate Typora" = "Aktiver Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Har du allereie kjøpt ein lisens? Fyll i skjemaet nedanfor, og aktiver Typora med ein gong.";
+
+"Email" = "E-post";
+"Email Address" = "E-postadresse";
+"License Code" = "Lisensnøkkel";
+
+"Help" = "Hjelp";
+"Find my License" = "Finn lisensen min";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Godkjenn <a href='https://support.typora.io/License-Agreement/'>lisensavtalen</a> og <a href='https://support.typora.io/Privacy-Policy/'>personvernsretningslinene</a>.";
+
+"Live Preview" = "Levande førehandsvising";
+"Write and read rendered output instantly." = "Skriv og les formattert tekst med ein gong.";
+"Markdown Syntax" = "Markdown-syntaks";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Kodeblokker, YAML, oppgåver, fotnoter, tabellar, matte, diagram";
+"Import / Export" = "Import / Eksport";
+"Deliver your content in various formats." = "Lever innhaldet ditt i ulike format.";
+"Editing Experience" = "Redigeringsoppleving";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Disposisjon / Ordteljing / Fokusmodus / Skrivemaskinmodus";
+
+"Files" = "Filer";
+"Manage files in sidebar and search across files." = "Handter filer i sidepanelet, og søk i mange filer.";
+"Customize" = "Tilpass";
+"Customize your writing experience from preferences panel." = "Tilpass skrivemiljøet ditt i innstillingane.";
+"Themes" = "Tema";
+"Write in the theme you like, or make one by your own." = "Skriv med det temaet du liker, eller lag deg ditt eige.";
+"And more" = "Og meir";
+"Explore more topics at support.typora.io" = "Les meir på support.typora.io";
+
+"Quick Start" = "Hurtigstart";
+"Markdown Reference" = "Markdown-referanse";
+"Explore Themes" = "Utforsk tema";
+"More Topics" = "Fleire emne";
+
+"Typora Activated" = "Typora er aktivert";
+"Thanks for your purchase." = "Takk for handelen.";
+
+"Next" = "Neste";
+"Please accept license agreement first" = "Du må godkjenna lisensen fyrst";
+"Start %@ Days Trial" = "Start %@-dagars test";
+"Buy License" = "Kjøp lisens";
+"Activate" = "Aktiver";
+
+"Close" = "Lat att";
+"Deactivate" = "Avaktiver";
+"View License" = "Sjå lisensen";
+"Your Typora License" = "Typora-lisensen din";
+"This copy of Typora is registered with license information below." = "Denne kopien av Typora er registrert med lisensinformasjonen nedanfor.";
+"Your trial will be expired in %@ days." = "Testperioden din går ut om %@ dag(ar).";
+"Enter License" = "Skriv inn lisens";
+"Not Now" = "Ikkje no";
+
+"Please input a valid email address" = "Skriv ei gyldig e-postadresse her";
+"Please input a valid license code"  = "Skriv inn ein gyldig lisensnøkkel her";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Lisensen din har brukt opp mengda maskiner du kan ha Typora på.\nDen eldste maskina vart automatisk avregistrert.";
+"This license code has been used with a different email address." =  "Denne lisensnøkkelen har vorte brukt med ei anna e-postadresse.";
+"Unknown Error. Please contact hi@typora.io" = "Ukjent feil. Ta kontakt med hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Kunne ikkje nå lisensserveren. Sjekk nettverket ditt, eller prøv på nytt seinare.";
+
+"Enter a license code to support our development ❤" = "Skriv inn ein lisensnøkkel for å støtta arbeidet vårt ❤";
+"Re-enter Email" = "Skriv e-postadressa på nytt";
+"Email address confirmation does not match." = "E-postadressesjekken stemmer ikkje.";
+
+"Are you sure to deactivate Typora on this device?" = "Vil du avaktivera Typora på denne maskina?";
+
+"Offline Activation" = "Aktivering avnettes";
+"Back" = "Tilbake";
+"Get Activation Token" = "Få aktiveringsmerke";
+
+"Your activated devices have exceeded the maximum limits." = "Mengda aktiverte maskiner har gått over maksgrensa.";

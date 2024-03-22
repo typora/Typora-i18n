@@ -355,8 +355,8 @@
 "Toggle Outline Popover" = "Prikaži/skrij oris";
 
 "Alert" = "Opozorilo";
-"Note Block" = "Blok za opombe";
-"Tip Block" = "Blok za nasvete";
+"Note Block" = "Blok z oznako opomba";
+"Tip Block" = "Blok z oznako nasvet";
 "Important Block" = "Blok z oznako pomembno";
-"Warning Block" = "Blok za opozorila";
-"Caution Block" = "Blok za previdnost";
+"Warning Block" = "Blok z oznako opozorilo";
+"Caution Block" = "Blok z oznako previdno";

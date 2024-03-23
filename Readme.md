@@ -33,7 +33,7 @@ gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
 
 - Translations in `Menu.strings` should follow <https://github.com/martnst/localize-mainmenu>.
 - If translation in <https://github.com/martnst/localize-mainmenu> is not proper on Windows/Linux, add the proper one in `Menu-electron.strings`. (see zh-Hans.lproj as one example).
-  - To search the translation of terms for Windows machines you can use Microsoft's Terminology Search at <https://www.microsoft.com/en-us/language>. Other useful resources can be found at the Microsoft Language Toolbox at <https://www.microsoft.com/en-us/language/Toolbox>.
+  - To search the translation of terms for Windows machines you can use Microsoft's Terminology Search at <[https://www.microsoft.com/en-us/language](https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology)>. Other useful resources can be found at the Microsoft Language Toolbox at <https://www.microsoft.com/en-us/language/Toolbox>.
 - Comment style `/* some words */` is supported, `// comment` is **NOT** supported.
 
 ## FAQ
@@ -49,7 +49,7 @@ Feel free to contact us via <hi@typora.io>
 ## Reference
 
 - Menu items on macOS → https://github.com/martnst/localize-mainmenu
-- Terminology for Windows → https://www.microsoft.com/en-us/language/
+- Terminology for Windows → https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology
 
 ## Other Language
 [简体中文](Readme-zh.md)

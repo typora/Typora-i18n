@@ -198,7 +198,7 @@
 "Add Column Before" = "Dodaj stolpec pred";
 "Add Column After" = "Dodaj stolpec za";
 "Delete Column" = "Izbriši stolpec";
-"Copy Table" = "kopiraj tabelo";
+"Copy Table" = "Kopiraj tabelo";
 "Delete Table" = "Izbriši tabelo";
 "Insert Paragraph After" = "Vstavi odstavek za";
 "Insert Paragraph Before" = "Vstavi odstavek pred";
@@ -353,3 +353,10 @@
 "Jump to Line End" = "Pojdi na konec vrstice";
 "Toggle Word Count Popover" = "Prikaži/skrij štetje besed";
 "Toggle Outline Popover" = "Prikaži/skrij oris";
+
+"Alert" = "Opozorilo";
+"Note Block" = "Blok z oznako opomba";
+"Tip Block" = "Blok z oznako nasvet";
+"Important Block" = "Blok z oznako pomembno";
+"Warning Block" = "Blok z oznako opozorilo";
+"Caution Block" = "Blok z oznako previdno";

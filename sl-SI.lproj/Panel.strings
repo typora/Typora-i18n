@@ -53,10 +53,10 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Naslednje nastavitve bodo uveljavljene po ponovnem zagonu.)";
 "Syntax Support" = "Podpora za sintakso";
-"Inline Math  (e.g: $\LaTeX$)" = "Enačbe v vrstici  (primer: $\LaTeX$)";
-"Subscript    (e.g: H~2~O)" = "Nadpisano    (primer: H~2~O)";
-"Superscript (e.g: X^2^)" = "Podpisano (primer: X^2^)";
-"Highlight     (e.g: ==key==)" = "Označeno     (primer: ==key== )";
+"Inline Math  (e.g: $\LaTeX$)" = "Enačbe v vrstici ( $\LaTeX$ )";
+"Subscript    (e.g: H~2~O)" = "Podpisano ( H~2~O )";
+"Superscript (e.g: X^2^)" = "Nadpisano ( X^2 )";
+"Highlight     (e.g: ==key==)" = "Označeno ( ==key== )";
 "Diagrams" = "Diagrami";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart in Mermaid)";
 "Syntax Preference" = "Nastavitve sintakse";
@@ -561,3 +561,11 @@
 "Unpin" = "Odpni";
 "Remove from List" = "Odstrani s seznama";
 "Record recent files and folders" = "Beleženje nedavnih map in datotek";
+
+"System Integration" = "Integracija s sistemom";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Dodaj \"Markdown\" v kontekstni meni \"Novo\" v Raziskovalcu Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Izbriši elemente iz kontekstnega menija \"Novo\" v Raziskovalcu Windows";
+"Please try sign out Windows to take effect." = "Za uveljavitev sprememb je potrebna odjava ter vnovična prijava.";
+"Github Style Alert" = "Github stil opozoril";
+"Zoom when using mouse wheel and holding %@ key" = "Zumiraj z uporabi kolesa na miški ter tipko %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Trenutni dokument vsebuje neshranjene spremembe. Ali želite preklopiti na novo podvojeno datoteko?";

@@ -183,7 +183,7 @@ percent_command(){
     make_keyslist "Base"
 
     _base_lines=$(cat ./keys-Base/*.strings | wc -l )  # Base line number
-    _missing_lines=$(missing_command "$1" | grep -c "    ") # Count keys which has not been translated yet
+    _missing_lines=$(missing_command "$1" | grep -c "    " || true) # Count keys which has not been translated yet
 
     # calculate
     #echo "$(( 100 - _missing_lines * 100 / _base_lines ))%"

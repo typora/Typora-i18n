@@ -112,7 +112,7 @@
 "Generated Image too Large" = "Vytvořený obrázek je příliš veliký";
 "Failed to export file to <em>{0}</em>" = "Nepovedlo se exportovat soubor do <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "Nepovedlo se importovat soubor z <em>{0}</em>";
-"File does not exist at <em>{0}</em>" = "Soubor v <em>{0}</em>" neexistuje.";
+"File does not exist at <em>{0}</em>" = "Soubor v <em>{0}</em> neexistuje.";
 "Export to..." = "Exportovat do...";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Přejete si uložit změny v tomto souboru?<br> Vaše změny budou ztraceny, pokud je neuložíte.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Varování] Nepovedlo se připojit záložku pro PDF soubor.";

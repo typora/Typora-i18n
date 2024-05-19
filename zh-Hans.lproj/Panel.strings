@@ -576,3 +576,8 @@
 "Github Style Alert" = "Github 风格警报框";
 "Zoom when using mouse wheel and holding %@ key" = "按住 %@ 时使用鼠标滑轮缩放";
 "Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "当前文件包含未保存的更改，是否需要前往新创建的副本？";
+
+
+"Chapter Level in Outline" = "目录显示的标题层数";
+"Enable inline math or code block math" = "开启内联公式和代码块公式";
+"Code Block Math  (```math code block)" = "Code Block Math  (```math 代码块)";

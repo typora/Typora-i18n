@@ -73,7 +73,8 @@
 "Refresh Folder" = "Opdatér mappe";
 "Sort" = "Sortér";
 "Group By Folder" = "Gruppér efter mappe";
-"Sort Naturally" = "Sortér naturligt";
+"Sort Naturally (Ascending)" = "Sortér naturligt (stigende)";
+"Sort Naturally (Descending)" = "Sortér naturligt (aftagende)";
 "Sort by Name (Ascending)" = "Sortér efter navn (stigende)";
 "Sort by Modification Date (Ascending)" = "Sort efter ændringsdato (stigende)";
 "Sort by Name (Descending)" = "Sortér efter navn (faldende)";
@@ -183,3 +184,25 @@
 
 "<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stil er blevet aktiveret.";
 "You can right click titlebar to popup application menu." = "Du kan højreklikke på titelbjælken for at åbne applikationsmenuen.";
+
+"Support Document" = "Support dokument";
+
+"You are not supposed to edit or save this file." = "Det er ikke meningen at du retter eller gemmer denne fil.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Filer i denne folder (%@) styres af Typora kan blive slettet automatisk.<br/>Kopier venligst indholdet til en ny fil for at rette det.";
+
+"File does not exist at path %@." = "Filen findes ikke på stien %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Filen findes ikke på stien %@, ønsker du at lave en der?";
+
+"No Results" = "Ingen resultater";
+"Too many matches" = "For mange resultater";
+"Regular Expression" = "Regulært udtryk";
+
+"Sort by Creation Date (Ascending)" = "Sortér efter oprettelsesdato (stigende)";
+"Sort by Creation Date (Descending)" = "Sortér efter oprettelsesdato (aftagende)";
+
+"code language" = "kodesprog";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan ikke omdøbe fra $1 til $2, brug venligst \"Fil\" → \"Flyt til…\" fra menuen i stedet for.";
+"Markdown file" = "Markdown fil";
+"TextBundle file" = "TextBundle fil";
+"Images saved to TextBundle" = "Billeder gemt i TextBundle";

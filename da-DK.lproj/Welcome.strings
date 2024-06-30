@@ -76,3 +76,14 @@
 "Unknown Error. Please contact hi@typora.io" = "Ukendt fejl.  Kontakt venligst hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Kunne ikke kontakte licensserveren. Tjek venligst din internetforbindelse eller prøv igen senere.";
 
+"Enter a license code to support our development ❤" = "Indtast en licensnøgle for at støtte vores udvikling ❤";
+"Re-enter Email" = "Genindtast mail";
+"Email address confirmation does not match." = "Mailadresse bekræftelse passer ikke.";
+
+"Are you sure to deactivate Typora on this device?" = "Er du sikker på, at du ønsker at deaktivere Typora på denne enhed?";
+
+"Offline Activation" = "Off-line aktivering";
+"Back" = "Tilbage";
+"Get Activation Token" = "Hent aktiveringsbrik";
+
+"Your activated devices have exceeded the maximum limits." = "Du har aktiveret Typora det maksimale antal gange.";

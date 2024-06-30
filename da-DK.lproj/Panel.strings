@@ -29,6 +29,7 @@
 "Show Outline Panel by Default" = "Vis sidepanel ved opstart";
 "Collapsible Outline on Left Panel" = "Disposition i sidepanel der kan skjules";
 "Save without asking when\nswitch files on side panel" = "Gem automatisk uden at bekræfte når\nder vælges en anden fil i sidepanelet";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Rettede filer vil blive gemt uden bekræftelse når du skifter filer i panelet til venstre. \nNår \"Bekræft gemning af ændringer ved lukning af dokumenter\" er deaktiveret i systemindstillingerne, er dette altid være aktiveret.";
 "Language" = "Sprog";
 "System Language" = "Systemsprog";
 
@@ -61,7 +62,7 @@
 "Diagrams" = "Diagrammer";
 "(Sequence, Flowchart and Mermaid)" = "(sekvens, rutediagram og Mermaid)";
 "Syntax Preference" = "Indstillinger for formater";
-"(only apply for styles created from menubar or hybrid view)" = "(anvendes kun for typografier der er oprettet ved hjælp af menuen eller i blandet visning)";
+"(only applies to styles created from menubar or hybrid view)" = "(anvendes kun for typografier der er oprettet ved hjælp af menuen eller i blandet visning)";
 "Strict Mode" = "Krævende tilstand";
 "(more strict to GFM spec)" = "(mere krævende end GFM standard)";
 "Heading Style" = "Overskriftstypografi";
@@ -171,9 +172,10 @@
 "%d Images Failed to Upload." = "%d billeder kunne ikke uploades.";
 "%d Succeeded," = "%d lykkedes, ";
 "Enable this feature on preferences panel" = "Aktivér denne funktion i indstillingerne";
+"The option `%@` must be enabled first to automatically upload images." = "Indstillingen `%@` skal aktiveres før for at automatisk uploade billeder.";
 "%@ is a file, not a directory" = "%@ er en fil, ikke en mappe";
 "Copy Images To…" = "Kopiér billeder til…";
-"Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML-fortekst indstilling, men mappen findes ikke - opret den nu?";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora prøver at kopiere det netop indsatte billede til mappen %@ i henhold til din YAML-fortekst indstilling eller globale indstillinger, men mappen findes ikke - opret den nu?";
 "Create Folder and Continue" = "Opret folder og fortsæt";
 "Document must be saved first" = "Dokumentet skal først gemmes";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora vil kopiere det seneste indsatte billede til mappen angivet med en relativ sti, så gem venligst filen først.";
@@ -203,7 +205,7 @@
 "More Formats" = "Flere formater";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Filformaterne under 'Flere formater' kræver at <a class='open-pandoc-guide'>Pandoc er installeret</a>.";
 "Something is Wrong…" = "Noget gik galt…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Forsøget på at gemme fejlede af en eller anden årsag.<br/>Du kan f. eks. kopiere indholdet ind i et nyt Typora vindue og så gemme det.<br/>Lær mere om:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportér fejl til os</a></li><li><a href='https://support.typora.io/Version-Control//'>Gendanne mistet indhold</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Forsøget på at gemme fejlede af en eller anden årsag.<br/>Du kan f. eks. kopiere indholdet ind i et nyt Typora vindue og så gemme det.<br/>Lær mere om:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportér fejl til os</a></li><li><a href='https://support.typora.io/Version-Control/'>Gendanne mistet indhold</a></li></ul>";
 "Copy Content" = "Kopiér indhold";
 
 
@@ -359,7 +361,7 @@
 "Unzipping…" = "Udpakker…";
 "Finished" = "Færdig";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora vil starte tredjepartsprogram med stier til alle lokale billeder. Billeduploaderen og billedplads i skyen vil så have adgang til dine lokale billeder. Ønsker du at fortsætte?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora vil starte tredjepartsprogram med stier til alle lokale billeder. Billeduploaderen og billedplads i skyen vil så have adgang til dine lokale billeder. Ønsker du at fortsætte?";
 
 "Export operation finished successfully." = "Eksport afsluttet uden problemer.";
 
@@ -425,5 +427,156 @@
 "Move Up" = "Flyt op";
 "Pandoc Path" = "Pandoc sti";
 "Select" = "Vælg";
+"Target Format" = "Uddataformat";
+"auto detect based on target file path" = "Opdag automatisk ud fra uddatafilens sti";
+"Target File Extensions (separate by whitespace)" = "Uddatafil formater (adskil af mellemrum)";
+"e.g: .text .asciidoc or leave this empty" = "f. eks.: .text .asciidoc eller lad dette felt være tomt";
+"Raw Type" = "Raw type";
+"Auto" = "Automatisk";
+"Show Save File Dialog" = "Vis 'Gem fil' dialog";
+"Do not popup save file dialog" = "Vis ikke 'Gem fil' dialog";
+"Select file path to save" = "Vælg filsti at gemme til";
+"Select folder path to save" = "Vælg foldersti at gemme til";
+"PDF Engine" = "PDF-motor";
+"Show command output" = "Vis kommandoens uddata";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Eksportér og overskriv med forrige\" vil overskrive filen %@, vil du fortsætte?";
+"Command Arguments:" = "Kommandoargumenter:";
+"This dev version of Typora is expired, please download and install a newer version." = "Denne udviklingsudgave af Typora er forældet, hent venligst en nyere udgave og installér den.";
+"Current Theme" = "Nuværende tema";
+"After Export" = "Efter eksport";
+"Run command" = "Kør kommando";
+"Run command after export failed" = "Kør kommando efter eksport fejlede";
+"Read and overwrite export settings from YAML front matters" = "Læs og overskriv indstillinger for eksport fra YAML forsideoplysninger";
+"Append Extra Content (HTML)" = "Tilføj ekstra indhold (HTML)";
+"Change this option to specify a separated theme for export." = "Ændre denne indstilling for at angive et separat tema til eksportering.";
+"Dark theme is not supported." = "Mørkt tema understøttes ikke.";
+
+"Markdown Variants" = "Markdown varianter";
+"Original Unextended Markdown" = "Oprindelig, ikke-udvidet Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark med mange Pandoc udvidelser";
+"Line Wrap" = "Linjebrydning";
+"Hard line wrap" = "Hård linjebrydning";
+"Text Column Width" = "Kolonnebredde";
+"Auto (based on current OS)" = "Automatisk (baseret på nuværende OS)";
+"Indent" = "Indryk";
+"Preserve tabs" = "Bevar tab karakterer";
+"2 spaces per tab" = "2 mellemrum pr. tab";
+"3 spaces per tab" = "3 mellemrum pr. tab";
+"4 spaces per tab" = "4 mellemrum pr. tab";
+"Unicode Characters" = "Unicodetegn";
+"Use only ASCII characters in output" = "Brug kun ASCII tegn i uddatafilen";
+"Use reference-style links rather than inline links" = "Brug links med henvisninger i stedet for indlejrede links";
+"Footnotes and References Location" = "Placering af fodnoter og henvisninger";
+"End of document" = "Slut på dokument";
+"End of current (top-level) block" = "Slut på nuværende (øverste niveau) blok";
+"End of current section" = "Slut på nuværende afsnit";
+"Convert TeX formulas to web images" = "Konvert TeX formularer til billeder";
+"Image Format" = "Billedformat";
+
+"Set Pandoc Path" = "Sæt sti til Pandoc";
 
 "Apply Line Break at \\ and &#92;newline" = "Anvend linjeskift ved \\ og &#92;newline";
+
+"Export operation succeeded with warnings." = "Eksport operation lykkedes med advarsler.";
+
+"Typora is now deactivated" = "Typora er nu deaktiveret";
+"This device has been deactivated" = "Denne enhed er blevet deaktiveret";
+"UNREGISTERED" = "UREGISTRERET";
+
+"Your Typora is not activated." = "Din Typora er ikke aktiveret.";
+"Your Typora has been activated." = "Din Typora er blevet aktiveret.";
+"Typora activation is required to change this." = "Typora skal aktiveret for at ændre dette.";
+"You can reinstall the stable version and then disable this." = "Du kan geninstallere den stabile udgave og så frakoble dette.";
+"Update to dev version" = "Opdatér til udviklingsversion";
+
+"Typora Server" = "Typora server";
+"Use Typora Server in China" = "Brug Typora server i Kina";
+
+"File does not exist" = "Filen findes ikke";
+"Create File" = "Opret fil";
+"Create Folder" = "Opret folder";
+
+"(Some options will be applied after restart.)" = "(Nogle indstillinger vil først blive anvendt efter genstart.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Kopiér eller klip hele linjer der har markører på dem, hvis der ikke er valgt noget når kopiér / klip udføres.";
+"Enable physics package" = "Aktivér fysikpakke";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Fysikpakke vil omdefinere nogle LaTeX macro såsom \\div, \\Re, osv.";
+
+"Detail" = "Detaljer";
+"Use custom font size" = "Brug tilpasset fontstørrelse";
+"Use theme font size" = "Brug fonstørrelse fra tema";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Du bruger Snap udgaven, den kan have begrænset adgang til dine lokale programmer.";
+
+"No local images found." = "Ingen lokale billeder fundet.";
+
+"File Format:" = "Filformat:";
+
+"Images copied to %@." = "Billeder kopieret til %@.";
+"Images moved to %@." = "Billeder flyttet til %@.";
+
+"Custom Command" = "Tilpasset kommando";
+"No Automatic Equation Numbering" = "Ingen automatisk nummerering af ligninger";
+"Use AMS Numbering Rules" = "Brug AMS regler for nummerering";
+"Auto Numbering for All Math Equations" = "Automatisk nummerering af alle matematiske ligninger";
+
+"Preferred Image Syntax" = "Foretrukken billede syntaks";
+"Add ./ for relative path" = "Tilføj ./ for relativ sti";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Når aktivteret, vil Typora bruge stier som ./assets/image.png i stedet for assets/image.png når der dannes relative stier for indsatte billeder.";
+
+"Image Quality" = "Billedkvalitet";
+"Medium" = "Medium";
+"High" = "Høj";
+"Best" = "Bedst";
+
+"Use Shift+Tab to auto indent selected code" = "Brug Shift+Tab til at automatisk indrykke valgt kode";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Når deaktiveret, så vil Shift-Tab rykke valgt kode eller den nuværende linje ud.  Når aktiveret, så vil Shift+Tab automatisk indrykke valgt kode eller den nuværende linje i kode blokke.";
+
+"Auto Links (e.g: https://typora.io)" = "Automatiske links (f. eks.: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Når aktiveret, vil Typora automatisk genkennde og fremhæve URL'er (f. eks.: https://typora.io eller mailto:hi@typora.io) i tekst.";
+
+"Files" = "Filer";
+"Default File Type / Extension" = "Standard filtype / udvidelse";
+"Custom Extension:" = "Tilpasset udvidelse:";
+"Following extensions are supported: %@" = "Følgende udvidelser understøttes: %@";
+"e.g: %@" = "f. eks.: %@";
+"When drop file / folder into Typora" = "Når fil eller folder droppes i Typora";
+"When drop folder" = "Når folder droppes";
+"When drop markdown file" = "Når markdown fil droppes";
+"When drop files that can be imported" = "Når fil der kan importeres droppes";
+"Open in Typora" = "Åbn i Typora";
+"Insert Folder Link" = "Indsæt link til folder";
+"Insert File Link" ="Indsæt link til fil";
+"Import File" = "Importér fil";
+
+"Diagram Options" = "Diagramindstillinger";
+"Default Code Language" = "Standard kodesprog";
+"(None)" = "(intet)";
+"Last Used" = "Sidst anvendte";
+"Apply Default Code Language When" = "Anvend standard kodesprog når";
+"When add code fences via Markdown" = "Når kode tilføjes vha. Markdown";
+"When add code fences via Menubar" = "Når kode tilføjes vha. menu";
+"Both" = "Begge";
+
+"Pinned and Recent Locations" = "Fastgjorte og huskede placeringer";
+"Operation Succeeded" = "Operationen lykkedes";
+"Clear Recent Folders and Files" = "Glem huskede filer og foldere";
+"Clear Recent Folders / Files Only" = "Glem kun huskede filer og foldere";
+"Clear Recent and Pinned Folders / Files" = "Glem huskede og fastgjorte foldere og filer";
+"Also clear pinned folders" = "Glem også fastgjorde foldere";
+"Pin" = "Fastgør";
+"Unpin" = "Frigør";
+"Remove from List" = "Fjern fra liste";
+"Record recent files and folders" = "Husk nye filer og foldere";
+
+"System Integration" = "Systemintegration";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Tilføj \"Markdown\" til \"Ny\" kontekstmenu i Windows Stifinder";
+"Delete items from \"New\" context menu in Windows Explorer" = "Slet \"Markdown\" fra \"Ny\" kontekstmenu i Windows Stifinder";
+"Please try sign out Windows to take effect." = "Log venligst ud og ind igen af Windows for at ændringen kan ses.";
+"Github Style Alert" = "Github-stil adversel";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom når du holder %@ tasten og drejer musehjulet";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Det åbne dokument indeholder ændringer som ikke er gemte. Ønsker du at skifte til den nye kopi af dokumentet?";
+
+"Chapter Level in Outline" = "Kapitelniveau i oversigt";
+"Enable inline math or code block math" = "Aktivér indlejret matematik- eller kodeblok matematik";
+"Code Block Math  (```math code block)" = "Kodeblok matematisk (```math kodeblok)";

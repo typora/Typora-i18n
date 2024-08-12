@@ -4,6 +4,9 @@
 
  by hi@typora.io
  Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+
+ Edits history:
+  > 25 Jan 2023 - improved terms translations and capitalizations by basonjui <basonjui@gmail.com>
 */
 
 /* Typora Menu */
@@ -340,3 +343,24 @@
 "Move All Images to" = "Di Chuyển Tất Cả Hình Ảnh đến ";
 
 "Copy as Image" = "Sao Chép Dưới Dạng Hình Ảnh";
+
+"Switch Image Syntax" = "Chuyển Đổi Cú Pháp Hình Ảnh";
+"Markdown Style" = "Phong Cách Markdown";
+"HTML Style" = "Phong Cách HTML";
+
+"Code Tools" = "Công Cụ Code";
+"Copy Code Content" = "Copy Nội Dung Code";
+"Auto Indent Selected Code" = "Tự Động Canh Dòng Phần Code Đã Chọn";
+"Auto Indent Whole Code" = "Tự Động Canh Dòng Toàn Bộ Code";
+
+"Jump to Line Start" = "Nhảy tới Đầu Dòng";
+"Jump to Line End" = "Nhảy tới Cuối Dòng";
+"Toggle Word Count Popover" = "Bật/Tắt Cửa Sổ Đếm Từ";
+"Toggle Outline Popover" = "Bật/Tắt Viền Cửa Sổ";
+
+"Alert" = "Báo Động";
+"Note Block" = "Khối Ghi Chú";
+"Tip Block" = "Khối Mẹo";
+"Important Block" = "Khối Quan Trọng";
+"Warning Block" = "Khối Cảnh Báo";
+"Caution Block" = "Khối Thận Trọng";

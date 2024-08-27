@@ -1,8 +1,12 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
+
  by hi@typora.io 
  Vietnamese translated by mwolfinspace < 1234hdpa@gmail.com >
+
+ Edits history:
+  > 12 Aug 2024 - update more translation by HUNG-rushb
  */
 
 /* Preference Panel */
@@ -422,7 +426,7 @@
 "Select" = "Chọn";
 "Target Format" = "Định dạng mục tiêu";
 "auto detect based on target file path" = "tự động phát hiện dựa trên đường dẫn tệp tin mục tiêu";
-"Target File Extensions (separate by whitespace)" = "Mục tiêu phần mở rộng Tệp Tin (ngăn cách bằng khoảng trắng)";
+"Target File Extensions (separate by whitespace)" = "Phần mở rộng Tệp Tin Mục tiêu (ngăn cách bằng khoảng trắng)";
 "e.g: .text .asciidoc or leave this empty" = "ví dụ: .text .asciidoc hoặc để trống";
 "Raw Type" = "Loại thô";
 "Auto" = "Tự động";
@@ -516,3 +520,49 @@
 "Preferred Image Syntax" = "Cú pháp hình ảnh ưa thích";
 "Add ./ for relative path" = "Thêm ./ vào đường dẫn tương đối";
 "When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Khi được bật, Typora sẽ dử dụng kiểu đường dẫn ./assets/image.png thay vì kiểu assets/image.png khi khởi tạo đường dẫn tương đối cho các hình ảnh được chèn vào tài liệu.";
+
+"Files" = "Các Tệp Tin";
+"Default File Type / Extension" = "Loại Tệp Tin / Phần Mở Rộng Mặc Định";
+"Custom Extension:" = "Phần Mở Rộng Tùy Chỉnh:";
+"Following extensions are supported: %@" = "Các phần mở rộng sau đây được hỗ trợ: %@";
+"e.g: %@" = "ví dụ: %@";
+"When drop file / folder into Typora" = "Khi thả tệp tin / thư mục vào Typora";
+"When drop folder" = "Khi thả thư mục";
+"When drop markdown file" = "Khi thả tệp tin markdown";
+"When drop files that can be imported" = "Khi thả tệp tin có thể được nhập";
+"Open in Typora" = "Mở bằng Typora";
+"Insert Folder Link" = "Nhập Đường Dẫn Thư Mục";
+"Insert File Link" ="Nhập Đường Dẫn Tệp Tin";
+"Import File" = "Nhập Tệp Tin";
+
+"Diagram Options" = "Các Lựa Chọn Biểu Đồ";
+"Default Code Language" = "Ngôn Ngữ Lập Trình Mặc Định";
+"(None)" = "(Không)";
+"Last Used" = "Lần Cuối Sử Dụng";
+"Apply Default Code Language When" = "Áp Dụng Ngôn Ngữ Lập Trình Mặc Định Khi";
+"When add code fences via Markdown" = "Khi thêm hàng rào code thông qua Markdown";
+"When add code fences via Menubar" = "Khi thêm hàng rào code thông qua thanh Menu";
+"Both" = "Cả Hai";
+
+"Pinned and Recent Locations" = "Đã Ghim và Các Vị Trí Gần Đây";
+"Operation Succeeded" = "Thực Thi Thành Công";
+"Clear Recent Folders and Files" = "Dọn Sạch Các Thư Mục và Tệp Tin Gần Đây";
+"Clear Recent Folders / Files Only" = "Chỉ Dọn Sạch Các Thư Mục / Tệp Tin Gần Đây";
+"Clear Recent and Pinned Folders / Files" = "Dọn Sạch Các Thư Mục Gần Đây và Đã Ghim";
+"Also clear pinned folders" = "Đồng thời xóa các thư mục đã ghim";
+"Pin" = "Ghim";
+"Unpin" = "Bỏ ghim";
+"Remove from List" = "Xóa khỏi danh sách";
+"Record recent files and folders" = "Bản ghi các tệp tin và thư mục gần đây";
+
+"System Integration" = "Tích Hợp Hệ Thống";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Têm \"Markdown\" vào \"Mới\" menu ngữ cảnh trong Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Xóa các đối tưỡng từ \"Mới\" menu ngữ cảnh trong Windows Explorer";
+"Please try sign out Windows to take effect." = "Xin hãy thử đăng xuất Windows để áp dụng hiệu lực.";
+"Github Style Alert" = "Phong Cách Cảnh Báo Github";
+"Zoom when using mouse wheel and holding %@ key" = "Phóng to khi sử dụng con lăn chuột và giữ phím %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Tài liệu hiện tại có những thay đổi chưa được lưu. Bạn có muốn chuyển sang tập tin mới được sao chép??";
+
+"Chapter Level in Outline" = "Cấp Chương trong Dàn Ý";
+"Enable inline math or code block math" = "Bật toán học trên dòng hoặc khối code toán học";
+"Code Block Math  (```math code block)" = "Code Khối Toán Học  (```khối code toán học)";

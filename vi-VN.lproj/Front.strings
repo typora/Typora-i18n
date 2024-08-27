@@ -7,6 +7,7 @@
   
   Edits history:
   > 25 Jan 2023 - improved terms translations and capitalizations by basonjui <basonjui@gmail.com>
+  > 12 Aug 2024 - update more translation by HUNG-rushb
 */
 
 /* Common */
@@ -203,3 +204,8 @@
 "Sort by Creation Date (Descending)" = "Sắp Xếp theo Ngày Khởi Tạo (Giảm dần)";
 
 "code language" = "ngôn ngữ lập trình";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Không thể đổi tên từ $1 sang $2, xin hãy vào \"Tệp tin\" → \"Di chuyển tới…\" từ thanh menu.";
+"Markdown file" = "Tệp tin Markdown";
+"TextBundle file" = "Tệp tin TextBundle";
+"Images saved to TextBundle" = "Hinh TextBundle";

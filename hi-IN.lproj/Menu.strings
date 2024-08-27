@@ -11,7 +11,7 @@
 "Preferences" = "पसंद";
 "Check for Updates" = "अद्यतन के लिए जाँच";
 "Services" = "सेवाएं";
-"Hide Typora" = "टाइपोरा छुपाएं";
+"Hide Typora" = "Typora छुपाएं";
 "Hide Others" = "दूसरों को छुपाएं";
 "Show All" = "सब दिखाओ";
 "Quit Typora" = "टिनोरा छोड़ो";
@@ -56,14 +56,14 @@
 "Copy as HTML Code" = "HTML कोड के रूप में कॉपी करें";
 "Paste as Plain Text" = "सादे पाठ के रूप मे पेस्ट करें";
 "Select All" = "सबका चयन करें";
-"Select Line/Sentence" = "लाइन / वाक्य का चयन करें";
+"Select Line / Sentence" = "लाइन / वाक्य का चयन करें";
 "Select Styled Scope" = "स्टाइल स्कोप का चयन करें";
 "Select Word" = "शब्द का चयन करें";
 "Delete" = "हटाएं";
 "Delete Range" = "रेंज हटाएं";
 "Delete Word" = "शब्द हटाएं";
 "Delete Styled Scope" = "स्टाइल स्कोप हटाएं";
-"Delete Line/Sentence" = "लाइन / वाक्य हटाएं";
+"Delete Line / Sentence" = "लाइन / वाक्य हटाएं";
 "Jump To" = "करने के लिए कूद";
 "Jump to Top" = "शीर्ष पर जाएं";
 "Jump to Selection" = "चयन करने के लिए कूदो";
@@ -256,7 +256,7 @@
 "More Options" = "अधिक विकल्प";
 
 "HTML Block" = "एचटीएमएल ब्लॉक";
-"Delete Block" = "ब्लॉक हटाएं";
+"Delete Paragraph / Block" = "पैराग्राफ़ / ब्लॉक हटाएं";
 "Delete %@" = "% @ हटाएं";
 "Play" = "खेल";
 "Pause" = "ठहराव";
@@ -303,7 +303,7 @@
 "Upload Image" = "तस्वीर डालिये";
 "Upload All Local Images" = "सभी स्थानीय छवियों को अपलोड करें";
 "Open Image in Browser" = "ब्राउज़र में खुली छवि";
-"Copy Image" = "नकल छवि";
+"Copy Image Content" = "छवि सामग्री कॉपी करें";
 
 "More Actions" = "अधिक कार्रवाई";
 "Get Info" = "जानकारी मिलना";
@@ -324,4 +324,39 @@
 "My License" = "मेरा लाइसेंस";
 "Registration / Activation" = "पंजीकरण और सक्रियण";
 
-"Select Paragraph/Block" = "अनुच्छेद / ब्लॉक का चयन करें";
+"Select Paragraph / Block" = "अनुच्छेद / ब्लॉक का चयन करें";
+
+"Delete Selected" = "चयनित को हटाओ";
+"Rename or Move Image to" = "छवि का नाम बदलें या उसे स्थानांतरित करें";
+"Move to %@" = "%@ पर ले जाएं";
+"Delete Image" = "छवि हटाएं";
+"Delete Image File" = "छवि फ़ाइल हटाएँ";
+"Reload All Images" = "सभी छवियाँ पुनः लोड करें";
+
+"Save %@ As" = "%@ को इस रूप में सहेजें";
+
+"Copy All Images to" = "सभी छवियों को कॉपी करें";
+"Move All Images to" = "सभी छवियाँ यहाँ ले जाएँ";
+
+"Copy as Image" = "छवि के रूप में कॉपी करें";
+
+"Switch Image Syntax" = "छवि सिंटैक्स बदले";
+"Markdown Style" = "मार्कडाउन शैली";
+"HTML Style" = "HTML शैली";
+
+"Code Tools" = "कोड उपकरण";
+"Copy Code Content" = "कोड सामग्री कॉपी करें";
+"Auto Indent Selected Code" = "ऑटो इंडेंट चयनित कोड";
+"Auto Indent Whole Code" = "ऑटो इंडेंट संपूर्ण कोड";
+
+"Jump to Line Start" = "लाइन प्रारंभ पर जाएं";
+"Jump to Line End" = "लाइन के अंत पर जाएं";
+"Toggle Word Count Popover" = "शब्द गणना पॉपओवर टॉगल करें";
+"Toggle Outline Popover" = "आउटलाइन पॉपओवर टॉगल करें";
+
+"Alert" = "चेतावनी";
+"Note Block" = "नोट ब्लॉक";
+"Tip Block" = "टिप ब्लॉक";
+"Important Block" = "महत्वपूर्ण ब्लॉक";
+"Warning Block" = "चेतावनी ब्लॉक";
+"Caution Block" = "सावधानी ब्लॉक";

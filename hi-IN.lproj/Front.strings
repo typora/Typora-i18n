@@ -43,7 +43,7 @@
 "Delete Table" = "तालिका हटाएं";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "टाइपोरा आपके यामल फ्रंट मैटर सेटिंग या वैश्विक वरीयताओं के अनुसार फ़ोल्डर <कोड आईडी = 'छवि-निर्माण-फ़ोल्डर-लक्ष्य'> </ code> पर नई डाली गई छवि को कॉपी करने की कोशिश कर रहा है। लेकिन लक्ष्य फ़ोल्डर मौजूद नहीं है, इसे अभी बनाएं?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora आपके यामल फ्रंट मैटर सेटिंग या वैश्विक वरीयताओं के अनुसार फ़ोल्डर <कोड आईडी = 'छवि-निर्माण-फ़ोल्डर-लक्ष्य'> </ code> पर नई डाली गई छवि को कॉपी करने की कोशिश कर रहा है। लेकिन लक्ष्य फ़ोल्डर मौजूद नहीं है, इसे अभी बनाएं?";
 "Create Folder" = "फोल्डर बनाएं";
 
 /* Math */
@@ -113,8 +113,8 @@
 "File content is changed by external applications. Reload content from disk ?" = "फ़ाइल सामग्री बाहरी अनुप्रयोगों द्वारा बदल दी जाती है। डिस्क से सामग्री को पुनः लोड करें?";
 "Should continue moving and overwrite existing file(s) ?" = "जारी रखना जारी रखना चाहिए और मौजूदा फ़ाइल को ओवरराइट करना चाहिए?";
 
-"Rename to \"{0}\"नाम बदलें" = "Rename to \"{0}\" ?";
-"Failed to rename from \"{0}\"से नाम बदलने में विफल\"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+"Rename to \"{0}\" ?" = "नाम बदलकर \"{0}\" करें?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\" से \"{1}\" में नाम बदलने में विफल";
 
 "Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
 "Successfully uploaded {0} images." = "सफलतापूर्वक {0} छवियों को अपलोड किया गया।";
@@ -133,9 +133,8 @@
 
 "input image URL" = "इनपुट छवि यूआरएल";
 "Select image from local file" = "स्थानीय फ़ाइल से छवि का चयन करें";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "स्थान <कोड> $ 1 </ code> नहीं खोल सकता, क्या आपका मतलब है <a href='https://$3'> https: // $ 2 </a>?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "स्थान <code>$1</code> नहीं खोला जा सकता, क्या आपका मतलब <a href='$3' target='_blank' target='_blank'>$2</a> है?";
 
-"select a language" = "भाषा चुनें";
 "Finish Editing" = "संपादन समाप्त करें";
 
 "Revert advanced setting file to default one ?" = "डिफ़ॉल्ट सेटिंग फ़ाइल को डिफ़ॉल्ट पर वापस लाएं?";
@@ -148,7 +147,7 @@
 "Install Language Support" = "भाषा समर्थन स्थापित करें";
 "License Information" = "लाइसेंस जानकारी";
 "Download" = "डाउनलोड";
-"Install dictionary file only for Typora" = "केवल टाइपोरा के लिए शब्दकोश फ़ाइल स्थापित करें";
+"Install dictionary file only for Typora" = "केवल Typora के लिए शब्दकोश फ़ाइल स्थापित करें";
 "Spell Check (%@ unavailable)" = "वर्तनी जाँच (% @ अनुपलब्ध)";
 "Spell Check (%@ downloading)" = "वर्तनी जांच (% @ डाउनलोडिंग)";
 "Download dictionary file for %@" = "% @ के लिए शब्दकोश फ़ाइल डाउनलोड करें";
@@ -157,7 +156,7 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>% @ </ strong> चालू किया गया है।";
 "You could turn it off from `View` menu." = "आप इसे 'व्यू` मेनू से बंद कर सकते हैं।";
-"The file is too large to render in Typora." = "टाइपोरा में प्रस्तुत करने के लिए फ़ाइल बहुत बड़ी है।";
+"The file is too large to render in Typora." = "Typora में प्रस्तुत करने के लिए फ़ाइल बहुत बड़ी है।";
 "Open in…" = "में खुलेगा…";
 "Quick Look" = "त्वरित देखो";
 
@@ -175,9 +174,9 @@
 "Uploading in progress" = "प्रगति पर अपलोड करना";
 "Successfully uploaded {0} images, {1} failed." = "सफलतापूर्वक {0} छवियों को अपलोड किया गया, {1} विफल।";
 
-"You could undo this operation later via `Edit` â†’ `Undo`." = "आप बाद में `संपादन '†'` पूर्ववत 'के माध्यम से इस ऑपरेशन को पूर्ववत कर सकते हैं।";
+"You could undo this operation later via `Edit` → `Undo`." = "आप बाद में `संपादन` → `पूर्ववत करें` के माध्यम से इस ऑपरेशन को पूर्ववत कर सकते हैं।";
 
-"You can press <strong>âŒ˜ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'> लिंक </a> खोलने के लिए आप <strong> œœ + क्लिक </ strong> दबा सकते हैं या फुटनोट परिभाषा पर कूद सकते हैं।";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "आप <a href='#'>लिंक</a> खोलने या फ़ुटनोट परिभाषा पर जाने के लिए <strong>⌘ + क्लिक</strong> दबा सकते हैं।";
 "You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'> लिंक </a> खोलने के लिए आप <strong> Ctrl + क्लिक </ strong> दबा सकते हैं या फुटनोट परिभाषा पर कूद सकते हैं।";
 
 "<strong>Unibody</strong> style has been turned on." = "<strong> यूनिबॉडी </ strong> शैली चालू कर दी गई है।";
@@ -186,4 +185,21 @@
 "Support Document" = "समर्थन दस्तावेज़";
 
 "You are not supposed to edit or save this file." = "आपको इस फ़ाइल को संपादित या सहेजना नहीं है।";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "इस स्थान (% @) में फ़ाइलें टाइपोरा द्वारा प्रबंधित की जाती हैं, और स्वचालित रूप से हटा दी जा सकती हैं। <br/> कृपया सामग्री को एक नई फ़ाइल में आगे संपादन के लिए कॉपी करें।";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "इस स्थान (% @) में फ़ाइलें Typora द्वारा प्रबंधित की जाती हैं, और स्वचालित रूप से हटा दी जा सकती हैं। <br/> कृपया सामग्री को एक नई फ़ाइल में आगे संपादन के लिए कॉपी करें।";
+
+"File does not exist at path %@." = "%@ पथ पर फ़ाइल मौजूद नहीं है।";
+"File does not exist at path %@, do you want to create one at that path?" = "%@ पथ पर फ़ाइल मौजूद नहीं है, क्या आप उस पथ पर एक फ़ाइल बनाना चाहते हैं?";
+
+"No Results" = "कोई परिणाम नहीं";
+"Too many matches" = "बहुत सारे मिलान";
+"Regular Expression" = "रेगुलर एक्सप्रेशन";
+
+"Sort by Creation Date (Ascending)" = "निर्माण तिथि के अनुसार क्रमबद्ध करें (आरोही क्रम में)";
+"Sort by Creation Date (Descending)" = "निर्माण तिथि के अनुसार क्रमबद्ध करें (अवरोही क्रम में)";
+
+"code language" = "कोड भाषा";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1 से $2 नाम नहीं बदला जा सकता, कृपया इसके बजाय मेनूबार से \"फ़ाइल\" → \"यहां ले जाएँ…\" का उपयोग करें।";
+"Markdown file" = "मार्कडाउन फ़ाइल";
+"TextBundle file" = "टेक्स्टबंडल फ़ाइल";
+"Images saved to TextBundle" = "टेक्स्टबंडल में सहेजी गई छवियाँ";

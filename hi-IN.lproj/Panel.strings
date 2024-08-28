@@ -200,7 +200,7 @@
 "More Formats" = "अधिक प्रारूप";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "'अधिक प्रारूपों' अनुभागों के तहत फ़ाइल स्वरूपों को <a class='Open-Pandoc-Guide' 'Pandoc स्थापित करने की आवश्यकता है </a>।";
 "Something is Wrong…" = "कुछ गलत है …";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "कुछ कारणों से सामग्री को सहेजें। <br/> आप सामग्री को एक नई Typora विंडो में कॉपी कर सकते हैं, और फिर इसे सहेज सकते हैं। <br/> इसके बारे में और जानें: <ul> <li> <a href='https://support.typora.io/report-bugs/'> रिपोर्ट बग्स हमें हमें </a> </ li> <li> <a href='https://support.typora.io/version-control//'> पुनर्प्राप्त खोया सामग्री </a> </ li> </ ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "किसी कारण से सामग्री सहेजना विफल रहा।<br/>आप सामग्री को एक नई Typora विंडो में कॉपी कर सकते हैं, और फिर उसे सहेज सकते हैं। <br/>इसके बारे में और जानें:<ul><li><a href='https://support.typora.io/Report-Bugs/'>हमें बग की रिपोर्ट करें</a></li><li><a href='https://support.typora.io/Version-Control/'>खोई हुई सामग्री पुनर्प्राप्त करें</a></li></ul>";
 "Copy Content" = "प्रतिलिपि सामग्री";
 
 
@@ -242,7 +242,7 @@
 "Ignore" = "ध्यान न देना";
 "Choose Default Folder" = "डिफ़ॉल्ट फ़ोल्डर चुनें";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div> <strong> इनपुट पर कनवर्ट </ strong>: इनपुट ASCII डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में परिवर्तित और सहेजा गया। <br/> <strong> प्रतिपादन पर कनवर्ट करें </ strong>: इनपुट और ASCII के रूप में सहेजा गया डैश या उद्धरण, घुंघराले उद्धरण या यूनिकोड डैश के रूप में प्रस्तुत करते हैं। </div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div> ASCII के रूप में यूनिकोड विरामियों को पहचानें जब पार्स मार्कडाउन, उदाहरण: <br/> <pre> 》 blockquote → > blockquote <br/> [लिंक] (src ’शीर्षक’) → [लिंक] (एसआरसी 'शीर्षक') </pre> यह स्वचालित रूप से चालू हो जाएगा यदि स्मार्ट उद्धरण / डैश इनपुट पर परिवर्तित किया जाएगा। <div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>मार्कडाउन पार्स करते समय यूनिकोड विराम चिह्नों को ASCII के रूप में पहचानें, उदाहरण के लिए:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>यदि इनपुट पर स्मार्ट उद्धरण/डैश परिवर्तित हो जाएंगे तो यह स्वचालित रूप से चालू हो जाएगा।<div>";
 
 "Copy image to custom folder" = "कस्टम फ़ोल्डर में छवि कॉपी करें";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "कृपया वर्तमान फ़ोल्डर के लिए एक सापेक्ष पथ निर्दिष्ट करें जो './' या '.. /', या एक पूर्ण फ़ोल्डर पथ से शुरू होता है। (`$ {फ़ाइल नाम}` currents फ़ाइल नाम के लिए प्रतिनिधित्व।)";
@@ -282,7 +282,7 @@
 "Reset to Default" = "वितथ पर ले जाएं";
 "120  words/minute (Slow)" = "120 शब्द / मिनट (धीमा)";
 "240  words/minute (Medium)" = "240 शब्द / मिनट (मध्यम)";
-"382  words/minute (Fast)" = "382 शब्द / मिनट (फास्ट)";
+"382  words/minute (Fast)" = "382 शब्द / मिनट (तेज़)";
 
 "Copy and update image source to…" = "छवि स्रोत को कॉपी और अपडेट करें …";
 "Updater" = "अपडेटर";
@@ -300,7 +300,7 @@
 "Check updates automatically" = "स्वचालित रूप से अपडेट की जाँच करें";
 "Skip This Version" = "इस संस्करण को छोड़ दें";
 "Remind Me Later" = "मुझे बाद में याद दिलाना";
-"Download Update" = "अद्यतन डाउनलोड करे";
+"Download Update" = "अद्यतन डाउनलोड करें";
 
 "New version available." = "नया संस्करण उपलब्ध है।";
 "When copy / export as HTML (without style)" = "जब एचटीएमएल के रूप में कॉपी / निर्यात (शैली के बिना)";
@@ -314,7 +314,7 @@
 "Page Break Between Top Headings" = "शीर्ष शीर्षकों के बीच पेज ब्रेक";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "क्षमा करें, कुछ त्रुटि हुई, वर्तमान लेखन सामग्री को क्लिपबोर्ड पर कॉपी किया गया है। आप इस त्रुटि को ठीक करने में हमारी सहायता के लिए <hi@typora.io> पर रिपोर्ट कर सकते हैं।";
-"Try Recovery" = "वसूली का प्रयास करें";
+"Try Recovery" = "पुनर्प्राप्ति का प्रयास करें";
 "Other Options for Data Recovery" = "डेटा रिकवरी के लिए अन्य विकल्प";
 
 "When Insert" = "जब सम्मिलित करें";
@@ -366,7 +366,7 @@
 "Dark Theme" = "अंधेरा विषय";
 "Use separate theme in dark mode" = "डार्क मोड में अलग थीम का उपयोग करें";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 या Windows 10 ≥ 1903 पर समर्थित";
-"Convert -- to -“ (en dash), and --- to — (em dash)" = "कन्वर्ट -- से - (en डैश), और --- से — (em डैश)";
+"Convert -- to – (en dash), and --- to — (em dash)" = "-- को – (en डैश) में, तथा --- को — (em डैश) में परिवर्तित करें";
 "Convert -- and --- to — (em dash)" = "कन्वर्ट -- और --- से — (ईएम डैश)";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "आप सिस्टम प्राथमिकताओं में उद्धरण पैटर्न सेट कर सकते हैं â 'कीबोर्ड â' टेक्स्ट। यदि यह बदलता है, तो Typora को इसे लागू करने के लिए पुनरारंभ करने की आवश्यकता होगी।";
 
@@ -435,7 +435,7 @@
 
 "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
 "Command Arguments:" = "कमांड तर्क:";
-"This beta version of Typora is expired, please download and install a newer version." = "Typora का यह बीटा संस्करण समाप्त हो गया है, कृपया एक नया संस्करण डाउनलोड और स्थापित करें।";
+"This dev version of Typora is expired, please download and install a newer version." = "टाइपोरा का यह डेवलपर संस्करण समाप्त हो चुका है, कृपया नया संस्करण डाउनलोड करके इंस्टॉल करें।";
 "Current Theme" = "वर्तमान विषय";
 "After Export" = "निर्यात के बाद";
 "Run command" = "चलाने के आदेश";
@@ -477,11 +477,99 @@
 "This device has been deactivated" = "यह डिवाइस निष्क्रिय कर दिया गया है";
 "UNREGISTERED" = "अपंजीकृत";
 
-"Allow physics package to redefine existing TeX commands" = "भौतिकी पैकेज को मौजूदा टेक्स कमांड को फिर से परिभाषित करने की अनुमति दें";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "सक्षम होने पर, \\ div जैसे कमांड, \\ फिर भौतिकी पैकेज द्वारा फिर से परिभाषित किया जाएगा।";
-
 "Your Typora is not activated." = "आपका Typora सक्रिय नहीं है।";
 "Your Typora has been activated." = "आपका Typora सक्रिय कर दिया गया है।";
 "Typora activation is required to change this." = "इसे बदलने के लिए Typora सक्रियण की आवश्यकता है।";
 "You can reinstall the stable version and then disable this." = "आप स्थिर संस्करण को पुनर्स्थापित कर सकते हैं और फिर इसे अक्षम कर सकते हैं।";
 "Update to dev version" = "देव संस्करण के लिए अद्यतन";
+
+"Typora Server" = "Typora सर्वर";
+"Use Typora Server in China" = "चीन में Typora सर्वर का उपयोग करें";
+
+"File does not exist" = "फ़ाइल मौजूद नहीं है";
+"Create File" = "फ़ाइल बनाएँ";
+"Create Folder" = "फ़ोल्डर बनाएँ";
+
+"(Some options will be applied after restart.)" = "(कुछ विकल्प पुनः आरंभ करने के बाद लागू होंगे।)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "यदि कॉपी/कट करते समय कोई चयन नहीं होता है, तो उन संपूर्ण पंक्तियों को कॉपी या कट करें जिन पर कर्सर है।";
+"Enable physics package" = "भौतिकी पैकेज सक्षम करें";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "भौतिकी पैकेज कुछ लेटेक्स मैक्रोज़ को पुनः परिभाषित करेगा, जैसे \\div, \\Re, आदि।";
+
+"Detail" = "विवरण";
+"Use custom font size" = "कस्टम फ़ॉन्ट आकार का उपयोग करें";
+"Use theme font size" = "थीम फ़ॉन्ट आकार का उपयोग करें";
+
+"You are using the Snap version, it may have limited access to your local executables." = "आप स्नैप संस्करण का उपयोग कर रहे हैं, हो सकता है कि इसकी आपके स्थानीय निष्पादनयोग्य फ़ाइलों तक पहुंच सीमित हो।";
+
+"No local images found." = "कोई स्थानीय छवि नहीं मिली।";
+
+"File Format:" = "File Format:";
+
+"Images copied to %@." = "Images copied to %@.";
+"Images moved to %@." = "Images moved to %@.";
+
+"Custom Command" = "कस्टम कमांड";
+"No Automatic Equation Numbering" = "कोई स्वचालित समीकरण क्रमांकन नहीं";
+"Use AMS Numbering Rules" = "AMS नंबरिंग नियमों का उपयोग करें";
+"Auto Numbering for All Math Equations" = "सभी गणितीय समीकरणों के लिए स्वचालित क्रमांकन";
+
+"Preferred Image Syntax" = "पसंदीदा छवि सिंटैक्स";
+"Add ./ for relative path" = "सापेक्ष पथ के लिए ./ जोड़ें";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "सक्षम होने पर, सम्मिलित छवियों के लिए सापेक्ष पथ उत्पन्न करते समय Typora assets/image.png के स्थान पर ./assets/image.png जैसे पैटर्न का उपयोग करेगा।";
+
+"Image Quality" = "छवि की गुणवत्ता";
+"Medium" = "मध्यम";
+"High" = "उच्च";
+"Best" = "श्रेष्ठ";
+
+"Use Shift+Tab to auto indent selected code" = "चयनित कोड को स्वचालित रूप से इंडेंट करने के लिए Shift+Tab का उपयोग करें";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "अक्षम होने पर, Shift+Tab चयनित कोड या वर्तमान पंक्ति के लिए इंडेंटेशन को बाहर कर देगा। सक्षम होने पर, Shift+Tab कोड ब्लॉक में चयनित कोड या वर्तमान पंक्ति के लिए इंडेंटेशन को स्वचालित रूप से लागू करेगा।";
+
+"Auto Links (e.g: https://typora.io)" = "ऑटो लिंक (उदाहरण: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "सक्षम होने पर, Typora स्वचालित रूप से URL को पहचान लेगा और पाठ में हाइलाइट कर देगा (उदाहरण: https://typora.io या mailto:hi@typora.io)।";
+
+"Files" = "फ़ाइलें";
+"Default File Type / Extension" = "डिफ़ॉल्ट फ़ाइल प्रकार / एक्सटेंशन";
+"Custom Extension:" = "कस्टम एक्सटेंशन:";
+"Following extensions are supported: %@" = "निम्नलिखित एक्सटेंशन समर्थित हैं: %@";
+"e.g: %@" = "उदाहरण: %@";
+"When drop file / folder into Typora" = "जब फ़ाइल / फ़ोल्डर को Typora में ड्रॉप करें";
+"When drop folder" = "जब फ़ोल्डर ड्रॉप करें";
+"When drop markdown file" = "जब मार्कडाउन फ़ाइल ड्रॉप करें";
+"When drop files that can be imported" = "जब आयात की जा सकने वाली फ़ाइलें ड्रॉप करें";
+"Open in Typora" = "Typora में खोलें";
+"Insert Folder Link" = "फ़ोल्डर लिंक डालें";
+"Insert File Link" ="फ़ाइल लिंक डालें";
+"Import File" = "फ़ाइल आयात करें";
+
+"Diagram Options" = "आरेख विकल्प";
+"Default Code Language" = "डिफ़ॉल्ट कोड भाषा";
+"(None)" = "(कोई नहीं)";
+"Last Used" = "अंतिम समय प्रयोग हुआ";
+"Apply Default Code Language When" = "डिफ़ॉल्ट कोड भाषा कब लागू करें";
+"When add code fences via Markdown" = "जब मार्कडाउन के माध्यम से कोड बाड़ जोड़ें";
+"When add code fences via Menubar" = "जब मेनूबार के माध्यम से कोड बाड़ जोड़ें";
+"Both" = "दोनों";
+
+"Pinned and Recent Locations" = "पिन किए गए और हाल के स्थान";
+"Operation Succeeded" = "ऑपरेशन सफल हुआ";
+"Clear Recent Folders and Files" = "हाल के फ़ोल्डर और फ़ाइलें साफ़ करें";
+"Clear Recent Folders / Files Only" = "केवल हाल के फ़ोल्डर/फ़ाइलें साफ़ करें";
+"Clear Recent and Pinned Folders / Files" = "हाल ही के और पिन किए गए फ़ोल्डर/फ़ाइलें साफ़ करें";
+"Also clear pinned folders" = "पिन किए गए फ़ोल्डर भी साफ़ करें";
+"Pin" = "पिन";
+"Unpin" = "अनपिन";
+"Remove from List" = "सूची से हटाएँ";
+"Record recent files and folders" = "हाल की फ़ाइलें और फ़ोल्डर रिकॉर्ड करें";
+
+"System Integration" = "सिस्टम एकीकरण";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Windows Explorer में \"नया\" संदर्भ मेनू में \"मार्कडाउन\" जोड़ें";
+"Delete items from \"New\" context menu in Windows Explorer" = "Windows Explorer में \"नया\" संदर्भ मेनू से आइटम हटाएं";
+"Please try sign out Windows to take effect." = "कृपया प्रभावी होने के लिए विंडोज़ से साइन आउट करने का प्रयास करें।";
+"Github Style Alert" = "गिटहब स्टाइल अलर्ट";
+"Zoom when using mouse wheel and holding %@ key" = "माउस व्हील का उपयोग करते हुए और %@ कुंजी दबाकर ज़ूम करें";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "वर्तमान दस्तावेज़ में बिना सहेजे गए परिवर्तन हैं। क्या आप नई डुप्लिकेट फ़ाइल पर स्विच करना चाहते हैं?";
+
+"Chapter Level in Outline" = "अध्याय स्तर रूपरेखा में";
+"Enable inline math or code block math" = "इनलाइन गणित या कोड ब्लॉक गणित सक्षम करें";
+"Code Block Math  (```math code block)" = "कोड ब्लॉक गणित (```गणित कोड ब्लॉक)";

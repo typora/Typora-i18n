@@ -28,7 +28,7 @@ Japanese translated by
 "License Code" = "ライセンスコード";
 
 "Help" = "ヘルプ";
-"Find my License" = "自分のライセンスを見つける";
+"Find my License" = "自分のライセンスを探す";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>ライセンス契約</a> と <a href='https://support.typora.io/Privacy-Policy/'>プライバシーポリシー</a>に同意する。";
 
@@ -37,29 +37,29 @@ Japanese translated by
 "Markdown Syntax" = "Markdown記法";
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "コードブロック, YAML, タスク, 脚注, テーブル, 数式, 図表";
 "Import / Export" = "インポート / エクスポート";
-"Deliver your content in various formats." = "様々なフォーマットであなたのコンテンツを提供する。";
+"Deliver your content in various formats." = "様々なフォーマットであなたのコンテンツを作成。";
 "Editing Experience" = "編集体験";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "アウトライン / 単語数 / フォーカスモード / タイプライターモード";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "アウトライン / 語数カウント / フォーカスモード / タイプライターモード";
 
 "Files" = "ファイル";
 "Manage files in sidebar and search across files." = "サイドバーでファイルを管理し、ファイル全体から検索をする。";
 "Customize" = "カスタマイズ";
 "Customize your writing experience from preferences panel." = "設定パネルから書く体験をカスタマイズする。";
 "Themes" = "テーマ";
-"Write in the theme you like, or make one by your own." = "好きなテーマまたは、自分で作成したテーマで書く。";
+"Write in the theme you like, or make one by your own." = "お好みのテーマ, オリジナルのテーマでカスタマイズする。";
 "And more" = "その他いろいろ";
-"Explore more topics at support.typora.io" = "support.typora.ioでさらにトピックを探す。";
+"Explore more topics at support.typora.io" = "support.typora.io でさらにトピックを探す。";
 
 "Quick Start" = "クイックスタート";
 "Markdown Reference" = "Markdownレファレンス";
 "Explore Themes" = "テーマを探す";
 "More Topics" = "その他のトピック";
 
-"Typora Activated" = "Typoraが有効になりました";
+"Typora Activated" = "Typoraがアクティベートされました。";
 "Thanks for your purchase." = "ご購入いただき、ありがとうございます。";
 
 "Next" = "次へ";
-"Please accept license agreement first" = "先に進むには、ライセンス契約に同意をしてください";
+"Please accept license agreement first" = "ライセンス契約に同意してください";
 "Start %@ Days Trial" = "%@日間のトライアルを始める";
 "Buy License" = "ライセンスを購入";
 "Activate" = "有効にする";

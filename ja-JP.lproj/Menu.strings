@@ -35,7 +35,7 @@ Japanese translated by
 "Recent Locations" = "最近開いた場所";
 "Clear Items" = "履歴を消去";
 "No Recent Files" = "履歴なし";
-"Open Quickly" = "すぐに開く";
+"Open Quickly" = "クイックアクセス";
 "Open File Location" = "ファイルのある場所を開く";
 "Reveal in Library" = "ライブラリに表示する";
 "Reveal in File Tree" = "ファイルツリーに表示";
@@ -360,3 +360,10 @@ Japanese translated by
 "Jump to Line End" = "行末に移動";
 "Toggle Word Count Popover" = "単語数カウントのポップオーバーを切り替え";
 "Toggle Outline Popover" = "アウトラインのポップオーバーを切り替え";
+
+"Alert" = "Alert";
+"Note Block" = "Note ブロック";
+"Tip Block" = "Tip ブロック";
+"Important Block" = "Important ブロック";
+"Warning Block" = "Warning ブロック";
+"Caution Block" = "Caution ブロック";

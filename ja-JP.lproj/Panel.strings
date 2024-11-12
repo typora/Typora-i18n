@@ -23,7 +23,7 @@ Japanese translated by
 "Seamless window only support OS X later than 10.10." = "シームレスはmacOS 10.10以降のみでサポートされます";
 "Themes" = "テーマ";
 "Open Theme Folder" = "テーマフォルダを開く";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡潔な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.ioでご覧になれます";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡単な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.io を参照してください。";
 "Word Count" = "単語数を表示";
 "Always Show Word Count" = "常に単語数を表示";
 "Font Size" = "フォントサイズ";
@@ -117,8 +117,8 @@ Japanese translated by
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
 "Print with default theme" = "デフォルトのテーマで印刷";
 "Export to PDF successfully." = "PDFの出力に成功しました";
-"Converting file using Pandoc. This may take some time." = "Pandocを使って変換しています。時間がかかることがあります";
-"Exporting file using Pandoc. This may take some time." = "Pandocを使ってエクスポートしています。時間がかかることがあります";
+"Converting file using Pandoc. This may take some time." = "Pandocでファイルを変換しています. この作業には時間がかかることがあります.";
+"Exporting file using Pandoc. This may take some time." = "Pandocでファイルをエクスポートしています. この作業には時間がかかることがあります.";
 
 "Uploading in progress…" = "アップロード中...";
 "Do not show this again" = "次回から表示しない";
@@ -177,10 +177,10 @@ Japanese translated by
 "The option `%@` must be enabled first to automatically upload images." = "自動で画像をアップロードするには、まずこのオプション `%@`を有効化する必要があります。";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしました。しかし、フォルダが存在しません。今作成しますか？";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしましたがフォルダが存在しません. 作成しますか？";
 "Create Folder and Continue" = "フォルダを作成して続ける";
 "Document must be saved first" = "最初に文書を保存してください";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typoraは新規画像を相対パスで保存します。そのため最初に文書を保存してください";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typoraは新規画像を相対パスで保存するため, 最初に文書をを保存する必要があります";
 "Open Operation Failed" = "開くことができませんでした";
 
 "Support Documentation" = "サポート文書";
@@ -366,7 +366,7 @@ Japanese translated by
 "Export operation finished successfully." = "エクスポートは正常に終了しました。";
 
 "Shortcut Keys" = "ショートカットキー";
-"Custom Shortcut Keys" = "カスタムショートカットキー";
+"Custom Shortcut Keys" = "ショートカットキーをカスタマイズ";
 
 "Theme" = "テーマ";
 "Light Theme" = "ライトテーマ";
@@ -402,7 +402,7 @@ Japanese translated by
 "Style Reference" = "Style Reference";
 "Custom CSS" = "カスタム CSS";
 "Chapter Level" = "チャプターレベル";
-"Default Folder for Exported File" = "エクスポートされたファイルのデフォルトのフォルダ";
+"Default Folder for Exported File" = "エクスポートされたファイルの規定の保存先";
 "Same folder with current file" = "現在のファイルと同じフォルダ";
 "Custom location" = "その他の場所";
 "(Auto Detect)" = "(自動検出)";
@@ -425,7 +425,7 @@ Japanese translated by
 "Rename" = "名前を変更";
 "Move Down" = "下に移動";
 "Move Up" = "上に移動";
-"Pandoc Path" = "Pandoc パス";
+"Pandoc Path" = "Pandocへのパス";
 "Select" = "選択";
 "Target Format" = "対象のフォーマット";
 "auto detect based on target file path" = "対象のファイパスから自動検出する";
@@ -496,6 +496,7 @@ Japanese translated by
 "Create Folder" = "フォルダを作成";
 
 "(Some options will be applied after restart.)" = "(いくつかのオプションは再起動後に反映されます。)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "コピーや切り取りを行うときに選択範囲がない場合, カーソルが置かれている行全体をコピーまたは切り取る.
 "Enable physics package" = "physics パッケージを有効化";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics パッケージは \\div や \\Re などのいくつかのLatexマクロを再定義します。";
 
@@ -565,3 +566,16 @@ Japanese translated by
 "Unpin" = "ピン留めを解除";
 "Remove from List" = "リストから削除";
 "Record recent files and folders" = "最近のファイルとフォルダを記録";
+
+/* TODO: 翻訳する */
+"System Integration" = "System Integration";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Add \"Markdown\" to \"New\" context menu in Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Delete items from \"New\" context menu in Windows Explorer";
+"Please try sign out Windows to take effect." = "Please try sign out Windows to take effect.";
+"Github Style Alert" = "Github Style Alert";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom when using mouse wheel and holding %@ key";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Current document contains unsaved changes. Do you want to switch to newly duplicated file?";
+
+"Chapter Level in Outline" = "Chapter Level in Outline";
+"Enable inline math or code block math" = "Enable inline math or code block math";
+"Code Block Math  (```math code block)" = "Code Block Math  (```math code block)";

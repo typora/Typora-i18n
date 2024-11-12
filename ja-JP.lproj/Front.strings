@@ -50,7 +50,7 @@ Japanese translated by
 "Delete Table" = "表の削除";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typoraは、YAMLフロントマターの設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ <code id='image-create-folder-target'></code> に保存してようとしています。しかし、対象のフォルダが存在しません。今作成しますか？";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typoraは、YAMLフロントマターの設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ <code id='image-create-folder-target'></code> に保存してようとしていますが対象のフォルダが存在しません. 作成しますか?";
 "Create Folder" = "フォルダを作成";
 
 /* Math */
@@ -67,7 +67,7 @@ Japanese translated by
 "Switch to Outline view" = "アウトライン表示に切替";
 "Close sidebar" = "サイドバーを閉じる";
 "Loading" = "読み込み中";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "選択されたフォルダには多数のファイルがあります。 \n<a id='switch-to-tree-on-oversize'>ツリー表示</a>に切り替えると速度が向上します。";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "選択されたフォルダには多くのファイルがあります.\n<a id='switch-to-tree-on-oversize'>ツリー表示</a>に切り替えると速度が向上します.";
 "New File" = "新規ファイル";
 "Unpin Outline Panel" = "アウトラインパネルの固定を解除";
 "Open Folder..." = "フォルダを開く";

@@ -54,6 +54,7 @@ Feel free to contact us via <hi@typora.io>
 ## Other Language
 
 [简体中文](Readme-zh.md)
+[日本語](Readme-ja.md)
 
 ## Credits
 

@@ -41,6 +41,7 @@
 ## 其他语言
 
 [English](Readme.md)
+[日本語](Readme-ja.md)
 
 ## 贡献者
 

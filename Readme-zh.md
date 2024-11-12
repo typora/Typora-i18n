@@ -35,10 +35,11 @@
 
 ## 参考
 
-- macOS上的菜单项 → https://github.com/martnst/localize-mainmenu
-- Windows术语 → https://www.microsoft.com/en-us/language/
+- macOS上的菜单项 → <https://github.com/martnst/localize-mainmenu>
+- Windows术语 → <https://www.microsoft.com/en-us/language/>
 
 ## 其他语言
+
 [English](Readme.md)
 
 ## 贡献者

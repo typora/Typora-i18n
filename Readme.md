@@ -8,7 +8,7 @@ If you want to help translate Typora into other languages, we would very appreci
 
 #### Find missing text labels
 
-When we upgrade Typora, we could add new text labels for `.strings` files under ` Base.lproj`, to checkout missing text labels under your `{locale}.lproj`, you can try following commands (Thanks to [@BrainCrumbz](https://github.com/BrainCrumbz)), which takes `it-IT.lproj/Welcome.strings` as an example:
+When we upgrade Typora, we could add new text labels for `.strings` files under `Base.lproj`, to checkout missing text labels under your `{locale}.lproj`, you can try following commands (Thanks to [@BrainCrumbz](https://github.com/BrainCrumbz)), which takes `it-IT.lproj/Welcome.strings` as an example:
 
 ```shell
 gawk 'BEGIN { FS=" = " } { print $1 }' Base.lproj/Welcome.strings > base-keys
@@ -48,10 +48,11 @@ Feel free to contact us via <hi@typora.io>
 
 ## Reference
 
-- Menu items on macOS → https://github.com/martnst/localize-mainmenu
-- Terminology for Windows → https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology
+- Menu items on macOS → <https://github.com/martnst/localize-mainmenu>
+- Terminology for Windows → <https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology>
 
 ## Other Language
+
 [简体中文](Readme-zh.md)
 
 ## Credits

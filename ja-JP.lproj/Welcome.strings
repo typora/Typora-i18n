@@ -75,16 +75,16 @@ Japanese translated by
 
 "Please input a valid email address" = "有効なメールアドレスを入力してください";
 "Please input a valid license code"  = "有効なライセンスコードを入力してください";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "あなたのライセンスが最大デバイス数を超えました。\n最も古いデバイスが自動的に解除されました。";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "ライセンスを使用できる最大デバイス数を超過したため\n最も古いデバイスが自動的に解除されました。";
 "This license code has been used with a different email address." =  "このライセンスは別のメールアドレスで使用されています。";
-"Unknown Error. Please contact hi@typora.io" = "不明なエラー。hi@typora.ioにご連絡ください。";
-"Failed to access the license server. Please check your network or try again later." = "ライセンスサーバーへのアクセスに失敗しました。あなたのネットワークを確認するか、時間をあけてもう一度お試しください。 ";
+"Unknown Error. Please contact hi@typora.io" = "不明なエラーです。hi@typora.ioにご連絡ください。";
+"Failed to access the license server. Please check your network or try again later." = "ライセンスサーバーへのアクセスに失敗しました。ネットワーク接続を確認するか、少し時間をあけてからもう一度お試しください。";
 
 "Enter a license code to support our development ❤" = "ライセンスコードを入力して開発を支援してください ❤";
 "Re-enter Email" = "メールアドレスを再入力";
 "Email address confirmation does not match." = "メールアドレスの確認が一致しませんでした。";
 
-"Are you sure to deactivate Typora on this device?" = "このデバイスでTyporaを非アクティブ化してもよろしいですか？";
+"Are you sure to deactivate Typora on this device?" = "このデバイスでTyporaを非アクティブ化してもよろしいですか?";
 
 "Offline Activation" = "オフライン アクティベーション";
 "Back" = "戻る";

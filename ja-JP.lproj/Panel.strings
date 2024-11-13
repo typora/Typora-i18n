@@ -20,7 +20,7 @@ Japanese translated by
 "Window Style" = "ウィンドウのスタイル";
 "Classic" = "クラシック";
 "Seamless" = "シームレス";
-"Seamless window only support OS X later than 10.10." = "シームレスはmacOS 10.10以降のみでサポートされます";
+"Seamless window only support OS X later than 10.10." = "シームレスウィンドウはmacOS 10.10以降のみでサポートされます";
 "Themes" = "テーマ";
 "Open Theme Folder" = "テーマフォルダを開く";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "ヘルプ -> クイックスタートで簡単な紹介をご覧ください。追加のテーマやガイドは、http://theme.typora.io を参照してください。";
@@ -111,7 +111,7 @@ Japanese translated by
 "Failed to import file from <em>{0}</em>" = "<em>{0}</em>からのインポートに失敗しました";
 "File does not exist at <em>{0}</em>" = "<em>{0}</em>にファイルがありません";
 "Export to..." = "～にエクスポート";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか？<br>保存しないと変更は失われます";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "この文書の変更を保存しますか?<br>保存しないと変更は失われます";
 "[Warning] Failed to attach bookmark for PDF file." = "【警告】PDFファイルへのブックマークに失敗しました";
 "Dark Theme not support" = "ダークテーマはサポートされていません";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "現行バージョンでは配色付きPDFを出力できないため、ダークテーマはサポートされていません。\nライトテーマを選ぶか、「デフォルトのテーマで印刷」を選んでください";
@@ -177,7 +177,7 @@ Japanese translated by
 "The option `%@` must be enabled first to automatically upload images." = "自動で画像をアップロードするには、まずこのオプション `%@`を有効化する必要があります。";
 "%@ is a file, not a directory" = "%@はファイルであり、ディレクトリではありません";
 "Copy Images To…" = "画像を~へコピー";
-"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしましたがフォルダが存在しません. 作成しますか？";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "TyporaはYAMLフロントマター設定またはグローバル設定にしたがって、新しく挿入された画像をフォルダ %@ に保存しようとしましたがフォルダが存在しません. 作成しますか?";
 "Create Folder and Continue" = "フォルダを作成して続ける";
 "Document must be saved first" = "最初に文書を保存してください";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typoraは新規画像を相対パスで保存するため, 最初に文書をを保存する必要があります";
@@ -261,9 +261,9 @@ Japanese translated by
 "Get Themes" = "テーマを取得";
 "File/directory already exists at target path." = "指定したパスにファイル/ディレクトリがすでに存在します。";
 "Keep Both" = "両方とも保存する";
-"Are you sure you want to move %@?" = "本当に %@ を移動しますか？";
+"Are you sure you want to move %@?" = "本当に %@ を移動しますか?";
 
-"Are you sure you want to delete %@?" = "%@ をごみ箱に移動しますか？";
+"Are you sure you want to delete %@?" = "%@ をごみ箱に移動しますか?";
 "You can restore from the Trash." = "ごみ箱から復元することができます。";
 
 "Reset All Dialog Warnings" = "すべての警告ダイアログをリセット";
@@ -293,7 +293,7 @@ Japanese translated by
 
 "Copy and update image source to…" = "画像のソースをコピーして更新…";
 "Updater" = "アップデーター";
-"Install Updates ?" = "更新をインストールしますか？";
+"Install Updates ?" = "更新をインストールしますか?";
 "Quit and Install" = "終了してインストール";
 "Download failed" = "ダウンロードに失敗しました";
 "Downloading Updates…" = "更新をダウンロード中…";
@@ -361,7 +361,7 @@ Japanese translated by
 "Unzipping…" = "アーカイブを展開中…";
 "Finished" = "完了";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typoraは全てのローカルの画像のパスとともにサードパーティ製のアプリを実行します。画像アップローダーとクラウドストレージはローカルの画像へのアクセス権を持つことになります。続行しますか？";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typoraは全てのローカルの画像のパスとともにサードパーティ製のアプリを実行します。画像アップローダーとクラウドストレージはローカルの画像へのアクセス権を持つことになります。続行しますか?";
 
 "Export operation finished successfully." = "エクスポートは正常に終了しました。";
 
@@ -440,7 +440,7 @@ Japanese translated by
 "PDF Engine" = "PDF エンジン";
 "Show command output" = "コマンドの出力を表示";
 
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"エクスポートして以前のものに上書き\" は %@ を上書きします。続行しますか？";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"エクスポートして以前のものに上書き\" は %@ を上書きします。続行しますか?";
 "Command Arguments:" = "コマンドの引数:";
 "This dev version of Typora is expired, please download and install a newer version." = "この開発版は期限切れです。より新しいバージョンをインストールしてください。";
 "Current Theme" = "現在のテーマ";
@@ -568,13 +568,13 @@ Japanese translated by
 "Record recent files and folders" = "最近のファイルとフォルダを記録";
 
 /* TODO: 翻訳する */
-"System Integration" = "System Integration";
-"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Add \"Markdown\" to \"New\" context menu in Windows Explorer";
-"Delete items from \"New\" context menu in Windows Explorer" = "Delete items from \"New\" context menu in Windows Explorer";
-"Please try sign out Windows to take effect." = "Please try sign out Windows to take effect.";
-"Github Style Alert" = "Github Style Alert";
-"Zoom when using mouse wheel and holding %@ key" = "Zoom when using mouse wheel and holding %@ key";
-"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Current document contains unsaved changes. Do you want to switch to newly duplicated file?";
+"System Integration" = "システムとの統合";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "エクスプローラーの\"新規作成\"メニューに\"Markdown\"を追加";
+"Delete items from \"New\" context menu in Windows Explorer" = "エクスプローラーの\"新規作成\"メニューからアイテムを削除";
+"Please try sign out Windows to take effect." = "変更を反映するにはWindowsからサインアウトしてください";
+"Github Style Alert" = "GithubスタイルのAlert";
+"Zoom when using mouse wheel and holding %@ key" = "%@ キーを押しながらマウスホイールでズームする";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "現在の文書には保存されていない変更があります。新規に複製されたファイルに移動しますか?";
 
 "Chapter Level in Outline" = "Chapter Level in Outline";
 "Enable inline math or code block math" = "Enable inline math or code block math";

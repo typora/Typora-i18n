@@ -117,10 +117,10 @@ Japanese translated by
 "Save File Failed!" = "ファイル保存に失敗！";
 "Cannot open folder {0}" = "ファイルを開けませんでした {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか？";
-"Should continue moving and overwrite existing file(s) ?" = "既存のファイルを上書きして移動を続けますか？";
+"File content is changed by external applications. Reload content from disk ?" = "ファイルの中身が他のアプリで変更されています。再読み込みしますか?";
+"Should continue moving and overwrite existing file(s) ?" = "既存のファイルを上書きして移動を続けますか?";
 
-"Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか？";
+"Rename to \"{0}\" ?" = "\"{0}\"に名称変更しますか?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"から\"{1}\"への名称変更に失敗しました";
 
 /* Image upload & move */
@@ -140,11 +140,11 @@ Japanese translated by
 
 "input image URL" = "画像のURLを入力";
 "Select image from local file" = "ローカルファイルから画像を選択";
-"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='$3' target='_blank' target='_blank'>$2</a> で正しいですか？";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> が開けませんでした。開こうとしていたのは <a href='$3' target='_blank' target='_blank'>$2</a> で正しいですか?";
 
 "Finish Editing" = "編集を完了";
 
-"Revert advanced setting file to default one ?" = "高度な設定ファイルをデフォルトのものに復元しますか？";
+"Revert advanced setting file to default one ?" = "高度な設定ファイルをデフォルトのものに復元しますか?";
 
 "Select Spell Check Language" = "スペルチェックの言語を選択";
 "Auto Detect Language" = "言語を自動検出";
@@ -194,7 +194,7 @@ Japanese translated by
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "この場所 (%@) のファイルはTyporaによって管理されており、 自動で削除された可能性があります。<br/>さらに編集するには、内容を新しいファイルにコピーしてください。";
 
 "File does not exist at path %@." = "%@にファイルが存在しません。";
-"File does not exist at path %@, do you want to create one at that path?" = "%@にファイルが存在しません。この場所にファイルを作成しますか？";
+"File does not exist at path %@, do you want to create one at that path?" = "%@にファイルが存在しません。この場所にファイルを作成しますか?";
 
 "No Results" = "結果はありません。";
 "Too many matches" = "大量の一致";

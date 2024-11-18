@@ -1,7 +1,7 @@
 #!/bin/sh
 ### Typora i18n development tool
-# 
-# Created by 
+#
+# Created by
 #  @Hayao0819 / Yamada Hayao <hayao@fascode.net>
 #
 
@@ -9,7 +9,7 @@ set -e -u
 
 # Show help message if command is help or empty.
 if [ -z "$*" ] || [ "$1" = "help" ]; then
-    cat << EOF
+    cat <<EOF
 Usage: $0 COMMAND ARGS
 
 Command:
@@ -28,19 +28,18 @@ EOF
     exit 0
 fi
 
-
 # internal function
 # This function makes keys list from strings file.
 # Usage: make_key <path to .strings file>
-make_keys(){
-    #grep "=" < "$1" | cut -d "=" -f 1 | sed -e 's/^ *//' -e 's/ *$//' | sort 
-    grep "=" < "$1" | awk -F "\" *= *\"" '{print $1}' | grep -xv "^$" | sed "s/^\"//g"
+make_keys() {
+    #grep "=" < "$1" | cut -d "=" -f 1 | sed -e 's/^ *//' -e 's/ *$//' | sort
+    grep "=" <"$1" | awk -F "\" *= *\"" '{print $1}' | grep -xv "^$" | sed "s/^\"//g"
 }
 
 # internal function
 # This function will make ./keys-* dir and store key list to each files
 # Usage: make_keyslist <lang>
-make_keyslist(){
+make_keyslist() {
     if [ -e "./keys-$1/" ]; then
         return 0
     fi
@@ -55,14 +54,14 @@ make_keyslist(){
 
     # run make_keys and write it to each files
     for _f in ."/${1}.lproj/"*.strings; do
-        make_keys "$_f" > "./keys-$1/$(basename "$_f")"
+        make_keys "$_f" >"./keys-$1/$(basename "$_f")"
     done
 }
 
 # internal function
 # This function will make ./keys-* dir and store sorted key list to each files
 # Usage: make_keyslist <lang>
-make_sorted_keyslist(){
+make_sorted_keyslist() {
     if [ -e "./keys-$1/" ]; then
         return 0
     fi
@@ -72,11 +71,11 @@ make_sorted_keyslist(){
 
     # run make_keys and write it to each files
     for _f in ."/${1}.lproj/"*.strings; do
-        make_keys "$_f" | sort  > "./keys-$1/$(basename "$_f")"
+        make_keys "$_f" | sort >"./keys-$1/$(basename "$_f")"
     done
 }
 
-clean_all_keyslist(){
+clean_all_keyslist() {
     # clean up
     [ "${TYPORA_I18N_NOCLEAN-""}" = true ] && return 0
     rm -rf "./keys-"*
@@ -84,7 +83,7 @@ clean_all_keyslist(){
 
 # Check lang
 # Usage: check_lang <lang>
-check_lang(){
+check_lang() {
     # Empty stirng
     [ -n "${1-""}" ] || {
         echo "Missing argument" >&2
@@ -102,7 +101,7 @@ check_lang(){
 # This function has two command functions: old and missing
 # Usage: compare_lang <command(old or missing)> <lang> [filename]
 # If filename is specified, only show the file
-compare_lang(){
+compare_lang() {
     check_lang "${2-""}"
 
     # make key list
@@ -124,12 +123,12 @@ compare_lang(){
                 # Keys present in translation but not in Base
                 #grep -xv -f "$_file" "./keys-$2/$(basename "$_file")" | sed "s/^/    /g"
                 #join -v 2 "$_file" "./keys-$2/$(basename "$_file")" | sed "s/^/    /g"
-                diff  "./keys-$2/$(basename "$_file")" "$_file" | grep "^<" | sed "s/^</    /g"
+                diff "./keys-$2/$(basename "$_file")" "$_file" | grep "^<" | sed "s/^</    /g"
             elif [ "$1" = "missing" ]; then
                 # Keys that exist in Base but have not yet been translated
-                #grep -xv -f "./keys-$2/$(basename "$_file")" "$_file" | sed "s/^/    /g" 
+                #grep -xv -f "./keys-$2/$(basename "$_file")" "$_file" | sed "s/^/    /g"
                 #join -v 1 "$_file" "./keys-$2/$(basename "$_file")" | sed "s/^/    /g"
-                diff  "./keys-$2/$(basename "$_file")" "$_file" | grep "^>" | sed "s/^>/    /g"
+                diff "./keys-$2/$(basename "$_file")" "$_file" | grep "^>" | sed "s/^>/    /g"
             fi
         fi
     done
@@ -138,17 +137,17 @@ compare_lang(){
 }
 
 # Show a key list that is not translated
-missing_command(){
+missing_command() {
     compare_lang "missing" "$@"
 }
 
 # Show a key list that there is not in Base
-old_command(){
+old_command() {
     compare_lang "old" "$@"
 }
 
 # Show the defference between Base and specified lang
-diff_command(){
+diff_command() {
     check_lang "${1-""}"
 
     # make key list
@@ -166,7 +165,7 @@ diff_command(){
             continue
         else
             echo "In $(basename "$_file")"
-            diff  "./keys-$1/$(basename "$_file")" "$_file" | sed "s/^/    /g"
+            diff "./keys-$1/$(basename "$_file")" "$_file" | sed "s/^/    /g"
         fi
     done
 
@@ -174,7 +173,7 @@ diff_command(){
 }
 
 # Show the percentage that has been translated
-percent_command(){
+percent_command() {
     # Check lang name
     check_lang "${1-""}"
 
@@ -182,7 +181,7 @@ percent_command(){
     make_keyslist "$1"
     make_keyslist "Base"
 
-    _base_lines=$(cat ./keys-Base/*.strings | wc -l )  # Base line number
+    _base_lines=$(cat ./keys-Base/*.strings | wc -l)                # Base line number
     _missing_lines=$(missing_command "$1" | grep -c "    " || true) # Count keys which has not been translated yet
 
     # calculate
@@ -194,12 +193,12 @@ percent_command(){
 }
 
 # Show the progress of all language
-all_percent_command(){
+all_percent_command() {
     for lang in ./*.lproj; do
         lang="${lang%".lproj"}"
         lang="${lang#"./"}"
 
-        if [ "$lang" = "." ] ||  [ "$lang" = "Base" ]; then
+        if [ "$lang" = "." ] || [ "$lang" = "Base" ]; then
             continue
         fi
 
@@ -212,7 +211,7 @@ all_percent_command(){
 
 # Show a key list to stdout
 # Usage: keys_command <lang>
-keys_command(){
+keys_command() {
     check_lang "$@"
     # Run make_keys with all files and print key list
     for file in "./$1.lproj/"*.strings; do
@@ -221,22 +220,21 @@ keys_command(){
     unset file
 }
 
-translated_command(){
+translated_command() {
     check_lang "${1-""}"
-
 
     # run make_keys and write it to each files
     for _f in ."/${1}.lproj/"*.strings; do
         if [ -n "${2-""}" ] && ! [ "$(basename "$_f")" = "${2-""}" ]; then
             continue
         fi
-        grep "=" < "$_f" | awk -F "\" *= *\"" '{print $2}' | grep -xv "^$" | sed -e "s/^\"//g" -e "s/\" *;$//g"
+        grep "=" <"$_f" | awk -F "\" *= *\"" '{print $2}' | grep -xv "^$" | sed -e "s/^\"//g" -e "s/\" *;$//g"
     done
 }
 
 # Parse options
 TYPORA_I18N_NOCLEAN="${TYPORA_I18N_NOCLEAN-""}"
-if [ "$1" = "--noclean" ];then
+if [ "$1" = "--noclean" ]; then
     TYPORA_I18N_NOCLEAN=true
     shift 1
 fi
@@ -247,30 +245,30 @@ shift 1 || true
 
 # Run each command
 case "${command}" in
-    "keys")
-        keys_command "$@"
-        ;;
-    "missing")
-        missing_command "$@" 
-        ;;
-    "percent")
-        percent_command "$@"
-        ;;
-    "old")
-        old_command "$@"
-        ;;
-    "all-percent")
-        all_percent_command "$@"
-        ;;
-    "diff")
-        diff_command "$@"
-        ;;
-    "translated")
-        translated_command "$@"
-        ;;
-    *)
-        echo "Undefined command: $command" >&2
-        echo "Run help command to show usage." >&2
-        exit 1
-        ;;
+"keys")
+    keys_command "$@"
+    ;;
+"missing")
+    missing_command "$@"
+    ;;
+"percent")
+    percent_command "$@"
+    ;;
+"old")
+    old_command "$@"
+    ;;
+"all-percent")
+    all_percent_command "$@"
+    ;;
+"diff")
+    diff_command "$@"
+    ;;
+"translated")
+    translated_command "$@"
+    ;;
+*)
+    echo "Undefined command: $command" >&2
+    echo "Run help command to show usage." >&2
+    exit 1
+    ;;
 esac

@@ -35,7 +35,7 @@ Japanese translated by
 "Recent Locations" = "最近開いた場所";
 "Clear Items" = "履歴を消去";
 "No Recent Files" = "履歴なし";
-"Open Quickly" = "すぐに開く";
+"Open Quickly" = "クイックアクセス";
 "Open File Location" = "ファイルのある場所を開く";
 "Reveal in Library" = "ライブラリに表示する";
 "Reveal in File Tree" = "ファイルツリーに表示";
@@ -165,7 +165,7 @@ Japanese translated by
 "Full Screen" = "フルスクリーン";
 "Show Status Bar" = "ステータスバーを表示";
 "Toggle Fullscreen" = "フルスクリーン表示切替";
-"Actual Size" = "実寸";
+"Actual Size" = "等倍";
 "Zoom In" = "ズームイン";
 "Zoom Out" = "ズームアウト";
 "Switch Between Opened Documents" = "ファイルを切り替える";
@@ -348,8 +348,8 @@ Japanese translated by
 "Copy as Image" = "画像としてコピー";
 
 "Switch Image Syntax" = "画像挿入の文法";
-"Markdown Style" = "マークダウン方式";
-"HTML Style" = "HTML方式";
+"Markdown Style" = "マークダウン形式";
+"HTML Style" = "HTML形式";
 
 "Code Tools" = "コードツール";
 "Copy Code Content" = "コードの内容をコピー";
@@ -360,3 +360,10 @@ Japanese translated by
 "Jump to Line End" = "行末に移動";
 "Toggle Word Count Popover" = "単語数カウントのポップオーバーを切り替え";
 "Toggle Outline Popover" = "アウトラインのポップオーバーを切り替え";
+
+"Alert" = "Alert";
+"Note Block" = "Note ブロック";
+"Tip Block" = "Tip ブロック";
+"Important Block" = "Important ブロック";
+"Warning Block" = "Warning ブロック";
+"Caution Block" = "Caution ブロック";

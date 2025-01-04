@@ -581,3 +581,4 @@
 "Chapter Level in Outline" = "目录显示的标题层数";
 "Enable inline math or code block math" = "开启内联公式和代码块公式";
 "Code Block Math  (```math code block)" = "Code Block Math  (```math 代码块)";
+"PicList Path" = "PicList 路径";

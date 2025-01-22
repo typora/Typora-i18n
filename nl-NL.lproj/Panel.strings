@@ -43,7 +43,7 @@
 "Images Insert" = "Afbeeldingen invoegen";
 "Use relative path if possible" = "Gebruik relatieve paden wanneer mogelijk";
 "Auto Pair" = "Automatisch koppelen";
-"Auto pair brackets and quotes" = "Koppel haken and quotes automatisch";
+"Auto pair brackets and quotes" = "Koppel haken en quotes automatisch";
 "Auto pair common Markdown syntax" = "Koppel veelgebruikte Markdown syntax automatisch";
 "Live Rendering" = "Live-weergave";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Geef de bron weer voor eenvoudige blokken\n(inclusief koppen, etc.) in focus";

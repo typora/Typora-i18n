@@ -573,3 +573,4 @@
 "Chapter Level in Outline" = "Poziom rozdziału w widoku konspektu";
 "Enable inline math or code block math" = "Włącz równania matematyczne w wierszu albo w bloku kodu";
 "Code Block Math  (```math code block)" = "Blok kodu (```blok kodu matematycznego)";
+"PicList Path" = "Ścieżka do PicList";

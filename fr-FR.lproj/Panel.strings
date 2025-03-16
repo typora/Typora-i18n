@@ -366,7 +366,7 @@
 "Dark Theme" = "Thème somble";
 "Use separate theme in dark mode" = "Utiliser un thème différent en mode sombre";
 "Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Pris en charge sur macOS ≥ 10.15 our sur Windows 10 ≥ 1903";
-"Convert -- to – (en dash), and --- to — (em dash)" = "Covertir -- en – (tiret), et --- en — (tiret)";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Convertir -- en – (tiret), et --- en — (tiret)";
 "Convert -- and --- to — (em dash)" = "Convertir -- et --- en — (tiret)";
 "You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Vous pouvez définir des modèles de citation dans Préférences système → Clavier → Texte. En cas de modification Typora nécessitera un redémarrage pour l’appliquer.";
 

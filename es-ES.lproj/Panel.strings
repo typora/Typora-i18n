@@ -1,8 +1,8 @@
 /*
  Panel.strings
  translations for preference panel and other dialogs
- 
- by hi@typora.io 
+
+ by hi@typora.io, @jlimadev
  */
 
 /* Preference Panel */
@@ -58,7 +58,7 @@
 "Inline Math  (e.g: $\LaTeX$)" = "Ecuación en línea  ( ej.: $\LaTeX$)";
 "Subscript    (e.g: H~2~O)" = "Subíndice    ( ej.: H~2~O)";
 "Superscript (e.g: X^2^)" = "Superíndice ( ej.: X^2^)";
-"Highlight     (e.g: ==key==)" = "Subrayado     (e.g: ==key==)";
+"Highlight     (e.g: ==key==)" = "Subrayado     (ej.: ==key==)";
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Secuencia, Diagrama de flujo y Mermaid)";
 "Syntax Preference" = "Preferencia de sintaxis";

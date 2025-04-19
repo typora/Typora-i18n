@@ -1,8 +1,8 @@
-/* 
+/*
   Front.strings
   Typora
 
- by @laazv
+ by @laazv, @jlimadev
 */
 
 /*
@@ -70,7 +70,7 @@
 
 "Please input a valid email address" = "Por favor preencha com um endereço de e-mail válido";
 "Please input a valid license code"  = "Por favor preencha com um código de licença válido";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Seu código de licença ultrapassou o número máximo de dispostivos.\nO dispositivo registrado mais antigo foi removido automaticamente.";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Seu código de licença ultrapassou o número máximo de dispositivos.\nO dispositivo registrado mais antigo foi removido automaticamente.";
 "This license code has been used with a different email address." =  "Este código de licença foi usado com um endereço de e-mail diferente.";
 "Unknown Error. Please contact hi@typora.io" = "Erro desconhecido. Por favor entre em contato com hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Falha ao conectar com o servidor de licenças. Por favor cheque sua conexão com a internet ou tente novamente mais tarde.";
@@ -79,7 +79,7 @@
 "Re-enter Email" = "Re-insira seu e-mail";
 "Email address confirmation does not match." = "O E-mail de confirmação não é igual.";
 
-"Are you sure to deactivate Typora on this device?" = "Tem certeza que deseja desativar o Typora nesse dispostivo?";
+"Are you sure to deactivate Typora on this device?" = "Tem certeza que deseja desativar o Typora nesse dispositivo?";
 
 "Offline Activation" = "Ativação Offline";
 "Back" = "Voltar";

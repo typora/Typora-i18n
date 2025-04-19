@@ -356,7 +356,7 @@
 "Unzipping…" = "جار فك الضغط...";
 "Finished" = "انتهى";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "سيطلق Typora برنامجًا تابعًا لجهة خارجية مشاركًا مسارات جميع الصور المحلية. سيتمكن برنامج تحميل الصور وتخزين الصور السحابية من الوصول إلى صورك المحلية. هل أنت متأكد من المتابعة؟";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "سيطلق Typora برنامجًا تابعًا لجهة خارجية مشاركًا مسارات جميع الصور المحلية. سيتمكن برنامج تحميل الصور وتخزين الصور السحابية من الوصول إلى صورك المحلية. هل أنت متأكد من المتابعة؟";
 
 "Export operation finished successfully." = "انتهى التصدير بنجاح.";
 

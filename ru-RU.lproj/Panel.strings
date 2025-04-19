@@ -354,7 +354,7 @@
 "Unzipping…" = "Распаковка…";
 "Finished" = "Завершено";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora запустит стороннее приложение с путями к файлам всех локальных изображений. Загрузчик изображений и облачное хранилище получат доступ к вашим локальным изображениям. Хотите продолжить?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora запустит стороннее приложение с путями к файлам всех локальных изображений. Загрузчик изображений и облачное хранилище получат доступ к вашим локальным изображениям. Хотите продолжить?";
 
 "Export operation finished successfully." = "Экспорт успешно завершен.";
 

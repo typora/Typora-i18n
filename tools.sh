@@ -4,6 +4,8 @@
 # Created by
 #  @Hayao0819 / Yamada Hayao <hayao@fascode.net>
 #
+# Updated by
+#  @jlimadev
 
 set -e -u
 
@@ -84,7 +86,7 @@ clean_all_keyslist() {
 # Check lang
 # Usage: check_lang <lang>
 check_lang() {
-    # Empty stirng
+    # Empty string
     [ -n "${1-""}" ] || {
         echo "Missing argument" >&2
         exit 1
@@ -146,7 +148,7 @@ old_command() {
     compare_lang "old" "$@"
 }
 
-# Show the defference between Base and specified lang
+# Show the difference between Base and specified lang
 diff_command() {
     check_lang "${1-""}"
 

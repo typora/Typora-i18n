@@ -355,7 +355,7 @@
 "Unzipping…" = "Se Dezarhivează…";
 "Finished" = "Terminat";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora vă lansa aplicații de terță parte cu caile tuturor imaginilor locale. Uploader-ul de imagini si servici-ul de stocare în cloud vor avea acces imaginilor tale locale. Ești sigur că vrei sa continui?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora vă lansa aplicații de terță parte cu caile tuturor imaginilor locale. Uploader-ul de imagini si servici-ul de stocare în cloud vor avea acces imaginilor tale locale. Ești sigur că vrei sa continui?";
 
 "Export operation finished successfully." = "Operația de export s-a finalizat cu succes.";
 

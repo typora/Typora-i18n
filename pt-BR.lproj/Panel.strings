@@ -2,7 +2,7 @@
  Panel.strings
  translations for preference panel and other dialogs
 
- by aride.moulin@gmail.com, @teuscard, @laazv
+ by aride.moulin@gmail.com, @teuscard, @laazv, @jlimadev
  */
 
 /* Preference Panel */
@@ -53,9 +53,9 @@
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(As seguintes preferências serão aplicadas após reiniciar.)";
 "Syntax Support" = "Suporte a Sintaxe";
-"Inline Math  (e.g: $\LaTeX$)" = "Incorporar Equações ( ex.: $\LaTeX$)";
-"Subscript    (e.g: H~2~O)" = "Subscrito    ( ex.: H~2~O)";
-"Superscript (e.g: X^2^)" = "Sobrescrito( ex.: X^2^)";
+"Inline Math  (e.g: $\LaTeX$)" = "Incorporar Equações (ex.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Subscrito    (ex.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Sobrescrito (ex.: X^2^)";
 "Highlight     (e.g: ==key==)" = "Realçar     (ex.: ==key==)";
 "Diagrams" = "Diagramas";
 "(Sequence, Flowchart and Mermaid)" = "(Sequência, Fluxograma e Mermaid)";
@@ -200,7 +200,7 @@
 "More Formats" = "Mais Formatos";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formatos de arquivo em 'Mais Formatos' precisam que o <a class='open-pandoc-guide'>Pandoc esteja instalado</a>.";
 "Something is Wrong…" = "Algo está Errado…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Houve um erro ao salvar o conteúdo por alguma razão.<br/>Você pode copiar o conteúdo para uma nova janeja Typora e salvá-lo. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar conteúdos perdidos</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Houve um erro ao salvar o conteúdo por alguma razão.<br/>Você pode copiar o conteúdo para uma nova janela Typora e salvá-lo. <br/>Saiba mais sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Reportar erros</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar conteúdos perdidos</a></li></ul>";
 "Copy Content" = "Copiar Conteúdo";
 
 
@@ -241,8 +241,8 @@
 
 "Ignore" = "Ignorar";
 "Choose Default Folder" = "Escolher Pasta Padrão";
-"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Converter na Entrada</strong>: Entrada de hífens ou aspas em ASCII, convertidas e salvas como aspas onduladas ou traços unicode.<br/><strong>Converter na Renderização</strong>: Entrada salva como hífens ou aspas em ASCII, renderizada como aspas onduladas ou traços unicode.</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconhece pontuações unicode como ASCII quando analisada em Markdown, ex.:<br/> <pre> 》 bloco de citação → > bloco de citação <br/> [link](src ’título’) → [link](src 'título')</pre>Isso será habilitado automaticamente se aspas/hífens inteligentes forem convertidas na entrada.<div>";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Converter na Entrada</strong>: Entrada de hifens ou aspas em ASCII, convertidas e salvas como aspas onduladas ou traços unicode.<br/><strong>Converter na Renderização</strong>: Entrada salva como hifens ou aspas em ASCII, renderizada como aspas onduladas ou traços unicode.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconhece pontuações unicode como ASCII quando analisada em Markdown, ex.:<br/> <pre> 》 bloco de citação → > bloco de citação <br/> [link](src ’título’) → [link](src 'título')</pre>Isso será habilitado automaticamente se aspas/hifens inteligentes forem convertidas na entrada.<div>";
 
 "Copy image to custom folder" = "Copiar imagem para pasta personalizada";
 "Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Por favor, especifique um caminho relativo para a pasta atual que comece com './' ou '../', ou um caminho de pasta absoluto. (`${filename}` representando o nome do arquivo atual.)";
@@ -306,7 +306,7 @@
 "When copy / export as HTML (without style)" = "Ao copiar / exportar como HTML (sem estilo)";
 "Use Rendered SVG" = "Usar SVG Renderizada";
 "Use LaTeX Source" = "Usar Fonte LaTeX";
-"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ocorre ao exportar como HTML (sem estilos) ou ao copiar como código HTML, ou ao copiar sem estilo de tema.<br/>Quando <strong>Usar Fonte LaTeX</strong> está selecionada, o Typora usará a fonte bruta de LaTeX (e.g: $X^2$),<br/>Quando <strong>Usar SVG Renderizado</strong> está selecionado, o SVG renderizado será utilizado, se você colocar em outro aplicativo, o SVG pode ser ignorado.</div>";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ocorre ao exportar como HTML (sem estilos) ou ao copiar como código HTML, ou ao copiar sem estilo de tema.<br/>Quando <strong>Usar Fonte LaTeX</strong> está selecionada, o Typora usará a fonte bruta de LaTeX (ex.: $X^2$),<br/>Quando <strong>Usar SVG Renderizado</strong> está selecionado, o SVG renderizado será utilizado, se você colocar em outro aplicativo, o SVG pode ser ignorado.</div>";
 
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Função de importação e diversos formatos de exportação requerem que o Pandoc (≥%@) esteja instalado.";
 "Do not show this message again" = "Não mostrar essa mensagem de novo";
@@ -354,7 +354,7 @@
 "Unzipping…" = "Descompactando";
 "Finished" = "Concluído";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora abrirá um aplicativo de terceiro com caminhos de arquivo de todas as imagens locais. O carregador de imagem e o armazenamento em nuvem terão acesso as imagens locais. Tem certeza que deseja continuar?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora abrirá um aplicativo de terceiro com caminhos de arquivo de todas as imagens locais. O carregador de imagem e o armazenamento em nuvem terão acesso as imagens locais. Tem certeza que deseja continuar?";
 
 "Export operation finished successfully." = "Exportação concluída com sucesso.";
 
@@ -374,7 +374,7 @@
 "Paper Size" = "Tamanho do papel";
 "US Letter" = "Carta (Estados Unidos)";
 "US Legal" = "Jurídico (Estados Unidos)";
-"Tabloid" = "Tablóide";
+"Tabloid" = "Tabloide";
 "Page Break" = "Quebra de Página";
 "Page Break Between Top Headings" = "Quebra de Página entre Títulos";
 "Header" = "Cabeçalho";
@@ -423,7 +423,7 @@
 "Target Format" = "Formato de Destino";
 "auto detect based on target file path" = "detectar automaticamente baseado no caminho do arquivo de destino";
 "Target File Extensions (separate by whitespace)" = "Extensões de Arquivo de Destino (separados por um espaço)";
-"e.g: .text .asciidoc or leave this empty" = "ex: .text .asciidoc ou deixe este campo vazio";
+"e.g: .text .asciidoc or leave this empty" = "ex.: .text .asciidoc ou deixe este campo vazio";
 "Raw Type" = "Tipo Raw";
 "Auto" = "Automático";
 "Show Save File Dialog" = "Exibir Caixa de Diálogo de Salvamento";
@@ -522,17 +522,17 @@
 "High" = "Alta";
 "Best" = "Melhor";
 
-"Use Shift+Tab to auto indent selected code" = "Use Shift+Tab para identar automaticamente o código selecionado";
+"Use Shift+Tab to auto indent selected code" = "Use Shift+Tab para indentar automaticamente o código selecionado";
 "When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Quando desativado, Shift+Tab recuará o código selecionado ou a linha atual. Quando ativado, Shift+Tab aplicará automaticamente o recuo para o código selecionado ou a linha atual nos blocos de código.";
 
-"Auto Links (e.g: https://typora.io)" = "Links Automáticos (e.g: https://typora.io)";
-"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Quando ativado, Typora reconhecerá automaticamente e destacará URLs (por exemplo: https://typora.io ou mailto:hi@typora.io) em texto.";
+"Auto Links (e.g: https://typora.io)" = "Links Automáticos (ex.: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Quando ativado, Typora reconhecerá automaticamente e destacará URLs (ex.: https://typora.io ou mailto:hi@typora.io) em texto.";
 
 "Files" = "Arquivos";
 "Default File Type / Extension" = "Tipo de Arquivo / Extensão Padrão";
 "Custom Extension:" = "Extensão Customizada:";
 "Following extensions are supported: %@" = "As seguintes extensões são suportadas: %@";
-"e.g: %@" = "e.g: %@";
+"e.g: %@" = "ex.: %@";
 "When drop file / folder into Typora" = "Ao Soltar Arquivo / Pasta no Typora";
 "When drop folder" = "Ao Soltar a Pasta";
 "When drop markdown file" = "Ao Soltar o Arquivo Markdown";
@@ -541,3 +541,35 @@
 "Insert Folder Link" = "Inserir Link da Pasta";
 "Insert File Link" ="Inserir Link do Arquivo";
 "Import File" = "Importar Arquivo";
+
+"(None)" = "(Nenhum)"
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Adicionar \"Markdown\" a opção \"Novo\" no menu de contexto do Windows Explorer"
+"Also clear pinned folders" = "Também limpar pastas fixadas"
+"Apply Default Code Language When" = "Aplicar linguagem de código padrão quando"
+"Both" = "Ambos"
+"Chapter Level in Outline" = "Nível de Capítulo no Esboço"
+"Clear Recent and Pinned Folders / Files" = "Limpar Recente e Pastas Fixadas"
+"Clear Recent Folders / Files Only" = "Limpar Pastas Recentes / Somente os Arquivos"
+"Clear Recent Folders and Files" = "Limpar Pastas e Arquivos Recentes"
+"Code Block Math  (```math code block)" = "Bloco de Código Matemático (```bloco de código matemático)"
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "O documento atual contém alterações não salvas. Deseja alternar para o arquivo recém-duplicado?"
+"Default Code Language" = "Linguagem de Código Padrão"
+"Delete items from \"New\" context menu in Windows Explorer" = "Excluir itens do menu de contexto \"Novo\" no Windows Explorer"
+"Diagram Options" = "Opções de Diagrama"
+"Enable inline math or code block math" = "Ativar matemática inline ou bloco de código"
+"Github Style Alert" = "Alerta ao Estilo do Github"
+"Last Used" = "Último Usado"
+"Operation Succeeded" = "Operação Concluída com Sucesso"
+"PicList Path" = "Caminho PicList"
+"Pin" = "Fixar"
+"Pinned and Recent Locations" = "Localizações Fixadas e Recentes"
+"Please try sign out Windows to take effect." = "Por favor, faça logoff do Windows para que a alteração tenha efeito."
+"Record recent files and folders" = "Registrar arquivos e pastas recentes"
+"Remove from List" = "Remover da Lista"
+"System Integration" = "Integração do Sistema"
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imagem recém-inserida para a pasta %@, conforme a configuração do seu YAML Front Matter ou preferências globais. Contudo, a pasta de destino não existe. Deseja criá-la agora?"
+"Unpin" = "Desafixar"
+"When add code fences via Markdown" = "Ao adicionar delimitadores de código via Markdown"
+"When add code fences via Menubar" = "Ao adicionar delimitadores de código via barra de menus"
+"Zoom when using mouse wheel and holding %@ key" = "Zoom ao usar a roda do mouse enquanto mantém pressionada a tecla %@"
+"In Welcome.strings" = "Em Welcome.strings"

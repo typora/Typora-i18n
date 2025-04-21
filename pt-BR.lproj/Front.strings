@@ -2,7 +2,7 @@
   Front.strings
   Typora
 
- by aride.moulin@gmail.com, @teuscard, @laazv
+ by aride.moulin@gmail.com, @teuscard, @laazv, @jlimadev
 */
 
 /* Common */
@@ -145,7 +145,7 @@
 "Global Setting…" = "Ajuste Global...";
 "Dictionary file is missing to enable spellcheck support for %@." = "Arquivo de dicionário ausente para habilitar suporte à verificação ortográfica para %@.";
 "Install Language Support" = "Instalar Suporte ao Idioma";
-"License Information" = "Informação de Licensa";
+"License Information" = "Informação de Licença";
 "Download" = "Baixar";
 "Install dictionary file only for Typora" = "Instalar arquivo de dicionário somente para o Typora";
 "Spell Check (%@ unavailable)" = "Verificação Ortográfica (%@ indisponível)";
@@ -182,7 +182,7 @@
 "<strong>Unibody</strong> style has been turned on." = "O estilo <strong>Unibody</strong> foi ativado.";
 "You can right click titlebar to popup application menu." = "Você pode clicar com o botão direito na barra de titulo para exibir o menu do aplicativo.";
 
-"Support Document" = "Documento de Supporte";
+"Support Document" = "Documento de Suporte";
 
 "You are not supposed to edit or save this file." = "Você não pode editar ou salvar este arquivo.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Arquivos neste local (%@) são gerenciados pelo Typora, e podem ser deletados automaticamente.<br/>Por favor copie o conteúdo para um novo arquivo para continuar editando.";

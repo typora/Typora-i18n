@@ -355,7 +355,7 @@
 "Unzipping…" = "Sedang Unzip…";
 "Finished" = "Selesai";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora akan melancarkan aplikasi pihak ketiga dengan laluan fail semua imej tempatan. Pemuat naik imej dan pengstoran imej awanan akan memiliki akses kepada imej tempatan. Adakah anda pasti untuk teruskan?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora akan melancarkan aplikasi pihak ketiga dengan laluan fail semua imej tempatan. Pemuat naik imej dan pengstoran imej awanan akan memiliki akses kepada imej tempatan. Adakah anda pasti untuk teruskan?";
 
 "Export operation finished successfully." = "Operasi pengeksportan selesai dengan jayanya.";
 

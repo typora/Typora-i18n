@@ -355,7 +355,7 @@
 "Unzipping…" = "פותח משאבים (Unzip)...";
 "Finished" = "נגמר";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora תשתמש בתוכנת צד שלישי עם כל הכתובות לתמונות המאוחסנות. למעלה התמונות ולאחסון בענן תיהיה גישה לתמונות אלו. האם אתה בטוח שברצונך להמשיך?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora תשתמש בתוכנת צד שלישי עם כל הכתובות לתמונות המאוחסנות. למעלה התמונות ולאחסון בענן תיהיה גישה לתמונות אלו. האם אתה בטוח שברצונך להמשיך?";
 
 "Export operation finished successfully." = "פעולת הייצוא הסתיימה בהצלחה.";
 

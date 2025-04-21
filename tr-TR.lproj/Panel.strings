@@ -356,6 +356,6 @@
 "Unzipping…" = "Sıkıştırılmış Dosya Açılıyor…";
 "Finished" = "Tamamlandı";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora tüm yerel resimlerin dosya konumlarıyla üçüncü parti uygulamasını çalıştıracak. Resim yükleyici ve bulut resim depolaması yerel dosyalarınıza erişebilecek. Devam etmek istediğinize emin misiniz?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora tüm yerel resimlerin dosya konumlarıyla üçüncü parti uygulamasını çalıştıracak. Resim yükleyici ve bulut resim depolaması yerel dosyalarınıza erişebilecek. Devam etmek istediğinize emin misiniz?";
 
 "Export operation finished successfully." = "Dışa aktarma işlemi başarıyla sonlandırıldı.";

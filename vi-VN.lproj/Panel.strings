@@ -358,7 +358,7 @@
 "Unzipping…" = "Đang giải nén…";
 "Finished" = "Đã hoàn tất";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to confinue?" = "Typora sẽ chạy ứng dụng bên thứ ba với đường dẫn tệp tin đến các hình ảnh nội bộ. Công cụ tải ảnh lên và bộ nhớ ảnh trên mây sẽ có quyền truy cập đến các ảnh nội bộ của bạn. Bạn có muốn tiếp tục?";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora sẽ chạy ứng dụng bên thứ ba với đường dẫn tệp tin đến các hình ảnh nội bộ. Công cụ tải ảnh lên và bộ nhớ ảnh trên mây sẽ có quyền truy cập đến các ảnh nội bộ của bạn. Bạn có muốn tiếp tục?";
 
 "Export operation finished successfully." = "Quá trình xuất kết thúc thành công.";
 

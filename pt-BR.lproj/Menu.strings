@@ -2,7 +2,7 @@
   Menu.strings
   Typora
 
- by aride.moulin@gmail.com, @teuscard, @laazv
+ by aride.moulin@gmail.com, @teuscard, @laazv, @jlimadev
 */
 
 /* Typora Menu */
@@ -119,9 +119,9 @@
 "Toggle Task Status" = "Alternar Situação da Tarefa";
 "Mark as Complete" = "Marcar como Completa";
 "Mark as Incomplete" = "Marcar como Incompleta";
-"List Indentation" = "Identação de Lista";
-"Indent" = "Identar";
-"Outdent" = "Remover identação";
+"List Indentation" = "Indentação de Lista";
+"Indent" = "Indentar";
+"Outdent" = "Remover indentação";
 "Link Reference" = "Vincular Referência";
 "Footnotes" = "Notas de Rodapé";
 "Horizontal Line" = "Linha Horizontal";
@@ -240,7 +240,7 @@
 
 "Learn More" = "Saiba Mais";
 "Whitespace and Line Breaks" = "Espaço em Branco e Quebras de Linha";
-"Indent first line of paragraphs" = "Identar a primeira linha de parágrafos";
+"Indent first line of paragraphs" = "Indentar a primeira linha de parágrafos";
 "Preserve single line break" = "Preservar quebra de linha única";
 "Visible <br/>" = "Visível <br/>";
 
@@ -346,5 +346,17 @@
 
 "Code Tools" = "Ferramentas de Código";
 "Copy Code Content" = "Copiar Conteúdo do Código";
-"Auto Indent Selected Code" = "Identar Automaticamente o Código Selecionado";
-"Auto Indent Whole Code" = "Identar Automaticamente Todo o Código";
+"Auto Indent Selected Code" = "Indentar Automaticamente o Código Selecionado";
+"Auto Indent Whole Code" = "Indentar Automaticamente Todo o Código";
+
+"Alert" = "Alerta"
+"Caution Block" = "Bloco de Cuidado"
+"Important Block" = "Bloco Importante"
+"Jump to Line End" = "Ir para o Final da Linha"
+"Jump to Line Start" = "Ir para o Início da Linha"
+"Note Block" = "Bloco de Nota"
+"Rename or Move Image to" = "Renomear ou Mover Imagem para"
+"Tip Block" = "Bloco de Dica"
+"Toggle Outline Popover" = "Alternar Popover do Esboço"
+"Toggle Word Count Popover" = "Alternar Popover da Contagem de Palavras"
+"Warning Block" = "Bloco de Aviso"

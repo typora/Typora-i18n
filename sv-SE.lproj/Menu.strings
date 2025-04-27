@@ -3,6 +3,12 @@
   Typora
 
  by hi@typora.io
+
+ Swedish translation by:
+  - 2018 FelixZY
+  - 2020 Sandskär
+  - 2022 obslsessed
+  - 2025 Morgan Antonsson <morgan.antonsson@gmail.com>
 */
 
 /* Typora Menu */
@@ -22,8 +28,8 @@
 "New" = "Ny";
 "Open" = "Öppna";
 "Open Folder" = "Öppna mapp";
-"Reopen with Encoding" = "Ladda om med kodning";
-"Auto" = "Auto";
+"Reopen with Encoding" = "Öppna igen med kodning";
+"Auto" = "Automatisk";
 "Open Recent" = "Öppna tidigare";
 "Recent Locations" = "Tidigare platser";
 "Clear Items" = "Rensa historiken";
@@ -56,30 +62,29 @@
 "Copy as HTML Code" = "Kopiera som HTML";
 "Paste as Plain Text" = "Klistra in utan formatering";
 "Select All" = "Markera allt";
-"Select Line / Sentence" = "Markera rad/mening";
+"Select Line / Sentence" = "Markera rad / mening";
 "Select Styled Scope" = "Markera formaterat område";
 "Select Word" = "Markera ord";
 "Delete" = "Radera";
 "Delete Range" = "Radera intervall";
 "Delete Word" = "Radera ord";
 "Delete Styled Scope" = "Radera formaterat område";
-"Delete Line / Sentence" = "Radera rad/mening";
+"Delete Line / Sentence" = "Radera rad / mening";
 "Jump To" = "Gå till";
 "Jump to Top" = "Gå till toppen";
 "Jump to Selection" = "Gå till markering";
 "Jump to Bottom" = "Gå till botten";
-"Math Tools" = "Matteverktyg";
-"Refresh All Math Expressions" = "Ladda om alla matteuttryck";
+"Math Tools" = "Matematikverktyg";
+"Refresh All Math Expressions" = "Uppdatera alla matematiska uttryck";
 "Image Tools" = "Bildverktyg";
 "Insert Local Images" = "Infoga lokala bilder";
 "Upload Local Images via iPic" = "Ladda upp lokala bilder via iPic";
 "When Insert Local Image" = "När en lokal bild infogas";
 "Copy Image File to Folder" = "Kopiera bildfil till mapp";
-"Upload Image via iPic" = "Ladda upp bild via iPic";
 "Use Image Root Path" = "Mapp för bilder";
-"Line Endings" = "Radbryt";
-"Windows Line Endings (CRLF)" = "Windows radbryt (CRLF)";
-"Unix Line Endings (LF)" = "Unix radbryt (LF)";
+"Line Endings" = "Radslut";
+"Windows Line Endings (CRLF)" = "Windows-radslut (CRLF)";
+"Unix Line Endings (LF)" = "Unix-radslut (LF)";
 "Find" = "Sök";
 "Find Next" = "Sök nästa";
 "Find Previous" = "Sök föregående";
@@ -87,7 +92,7 @@
 "Replace" = "Ersätt";
 "Replace Next" = "Ersätt nästa";
 "Spelling and Grammar" = "Stavning och grammatik";
-"Check Document Now" = "Kontrollera dokument nu";
+"Check Document Now" = "Kontrollera dokumentet nu";
 "Check Spelling While Typing" = "Kontrollera stavning medan jag skriver";
 "Check Grammar With Spelling" = "Kontrollera grammatik tillsammans med stavning";
 "Correct Spelling Automatically" = "Rätta stavning automatiskt";
@@ -111,7 +116,7 @@
 "Decrease Heading Level" = "Minska rubriknivå";
 "Table" = "Tabell";
 "Code Fences" = "Kodblock";
-"Math Block" = "Matteblock";
+"Math Block" = "Matematikblock";
 "Quote" = "Citat";
 "Ordered List" = "Ordnad lista";
 "Unordered List" = "Oordnad lista";
@@ -127,7 +132,7 @@
 "Footnotes" = "Fotnoter";
 "Horizontal Line" = "Horisontell linje";
 "Table of Contents" = "Innehållsförteckning";
-"YAML Front Matter" = "YAML-metadata";
+"YAML Front Matter" = "YAML frontmatter";
 
 /* Format Menu */
 "Format" = "Format";
@@ -151,20 +156,19 @@
 "Source Code Mode" = "Källkodsläge";
 "Focus Mode" = "Fokusläge";
 "Typewriter Mode" = "Skrivmaskinsläge";
-"Toggle Sidebar" = "Växla sidomeny";
+"Toggle Sidebar" = "Växla sidofält";
 "Outline" = "Översikt";
 "Articles" = "Artiklar";
 "File Tree" = "Filträd";
 "Always on Top" = "Alltid överst";
 "Full Screen" = "Fullskärm";
 "Show Status Bar" = "Visa statusraden";
-"Toggle Fullscreen" = "Växla Fullskärm";
+"Toggle Fullscreen" = "Växla fullskärm";
 "Actual Size" = "Verklig storlek";
 "Zoom In" = "Zooma in";
 "Zoom Out" = "Zooma ut";
 "Switch Between Opened Documents" = "Växla mellan öppna dokument";
 "Toggle DevTools" = "Växla utvecklingsverktyg";
-
 
 /* Themes Menu */
 "Themes" = "Teman";
@@ -181,7 +185,7 @@
 "Credits" = "Credits";
 "Change Log" = "Ändringslogg";
 "Website" = "Hemsida";
-"Feedback" = "Feedback";
+"Feedback" = "Återkoppling";
 "About" = "Om";
 
 /* Touchbar */
@@ -206,7 +210,7 @@
 "Delete Code Block" = "Radera kodblock";
 "Copy as MathML" = "Kopiera som MathML";
 "Copy as Tex" = "Kopiera som Tex";
-"Copy Math" = "Kopiera matte";
+"Copy Math" = "Kopiera matematik";
 "Reveal in Finder" = "Visa i Finder";
 "Open Link" = "Öppna länk";
 "Reveal in Sidebar" = "Visa i sidopanel";
@@ -219,7 +223,7 @@
 /* Electron */
 "Learn Spelling" = "Lägg till i ordlista";
 "Copy / Paste As" = "Kopiera / Klistra in som";
-"Math" = "Matte";
+"Math" = "Matematik";
 "Insert" = "Infoga";
 "Inspect Element" = "Inspektera element";
 "Copy to MS Word" = "Kopiera till MS Word";
@@ -237,14 +241,13 @@
 "Copy '%@'" = "Kopiera '%@'";
 "Copy to %@" = "Kopiera till %@";
 "Copy Image to" = "Kopiera bild till";
-"Upload via iPic" = "Ladda upp via iPic";
 "Open Image Location" = "Öppna bildmapp";
 
 "Learn More" = "Läs mer";
-"Whitespace and Line Breaks" = "Whitespace och radbryt";
+"Whitespace and Line Breaks" = "Blanksteg och radbrytningar";
 "Indent first line of paragraphs" = "Öka första radens indrag i nya stycken";
-"Visible <br/>" = "Synliga <br/> och markdown radbryt";
-"Preserve sequential whitespace and single line break" = "Bevara sekventiell whitespace och enkla radbryt";
+"Preserve single line break" = "Behåll enkla radbrytningar";
+"Visible <br/>" = "Synliga <br/>";
 
 "Save All" = "Spara alla";
 "New Window" = "Nytt fönster";
@@ -255,16 +258,16 @@
 "Convert on Input" = "Omvandla vid skrift";
 "Convert on Rendering" = "Omvandla vid rendering";
 "Remap Unicode Punctuation on Parse" = "Aktivera stöd för unicode-skiljetecken";
-"More Options" = "Fler Val";
+"More Options" = "Fler val";
 
-"HTML Block" = "HTML Block";
-"Delete Paragraph / Block" = "Ta bort Block";
+"HTML Block" = "HTML-block";
+"Delete Paragraph / Block" = "Ta bort stycke / block";
 "Delete %@" = "Ta bort %@";
 "Play" = "Spela";
 "Pause" = "Pausa";
 
 "Spell Check" = "Rättstavningskontroll";
-"Unlearn Spelling" = "Glöm Stavning";
+"Unlearn Spelling" = "Glöm stavning";
 "Properties" = "Inställningar";
 
 "Search" = "Sök";
@@ -272,17 +275,17 @@
 "Recent Files" = "Senaste filerna";
 "File Results" = "Fliresultat";
 
-"Insert Table" = "Infoga Tabell";
-"Insert Image" = "Infoga Bild";
-"Allow Magnification" = "Tillåt Förstoring";
+"Insert Table" = "Infoga tabell";
+"Insert Image" = "Infoga bild";
+"Allow Magnification" = "Tillåt förstoring";
 
-"Move Row Up" = "Flytta Rad Upp";
-"Move Row Down" = "Flytta Rad Ner";
-"Move Column Left" = "Flytta Kolumn Vänster";
-"Move Column Right" = "Flytta Kolumn Höger";
+"Move Row Up" = "Flytta upp rad";
+"Move Row Down" = "Flytta ner rad";
+"Move Column Left" = "Flytta kolumn åt vänster";
+"Move Column Right" = "Flytta kolumn åt höger";
 
-"Zoom Image" = "Zooma Bild";
-"Zoom Image to %@" = "Zooma Bild till %@";
+"Zoom Image" = "Zooma bild";
+"Zoom Image to %@" = "Zooma bild till %@";
 
 "Copy as Plain Text" = "Kopiera som ren text";
 
@@ -291,13 +294,74 @@
 "Stop Speaking" = "Sluta tala";
 "Check Updates" = "Kontrollera ändringar";
 
-"HTML (without Styles)" = "HTML (utan Stilar)";
+"HTML (without Styles)" = "HTML (utan stilmallar)";
 
-"Highlight Current Header" = "Markera Nuvarande Rubrik";
-"Expand All" = "Expandera Alla";
-"Collapse All" = "Minimera Alla";
-"Collapsible Outline" = "Dispossitionsträdvy";
-"Flat Outline" = "Dispossitionslista";
-"Articles (List View)" = "Artiklar (List Vy)";
-"File Tree (Tree View)" = "Filträd (Tree Vy)";
+"Highlight Current Header" = "Markera nuvarande rubrik";
+"Expand All" = "Expandera alla";
+"Collapse All" = "Minimera alla";
+"Collapsible Outline" = "Översiktsträdvy";
+"Flat Outline" = "Översiktslista";
+"Articles (List View)" = "Artiklar (listvy)";
+"File Tree (Tree View)" = "Filträd (trädvy)";
 "Filter" = "Filter";
+
+"Upload Image" = "Ladda upp bild";
+"Upload All Local Images" = "Ladda upp alla lokala bilder";
+"Open Image in Browser" = "Öppna bilden i webbläsaren";
+"Copy Image Content" = "Kopiera bildinnehåll";
+
+"More Actions" = "Fler åtgärder";
+"Get Info" = "Hämta information";
+
+"Export with Previous" = "Exportera med föregående";
+"Export and Overwrite with Previous" = "Exportera och skriv över med föregående";
+
+"Emoji and Symbols" = "Emojier och symboler";
+
+"Insert Final New Line On Save" = "Infoga radbrytning i slutet vid sparning";
+"Hyperlink Actions" = "Hyperlänksåtgärder";
+"Copy Link Address" = "Kopiera länkadress";
+
+"Click" = "Klick";
+
+"Export Setting" = "Exportinställningar";
+
+"My License" = "Min licens";
+"Registration / Activation" = "Registrering / aktivering";
+
+"Select Paragraph / Block" = "Välj stycke / block";
+
+"Delete Selected" = "Ta bort markerade";
+"Rename or Move Image to" = "Byt namn på eller flytta bild till";
+"Move to %@" = "Flytta till %@";
+"Delete Image" = "Ta bort bild";
+"Delete Image File" = "Ta bort bildfil";
+"Reload All Images" = "Ladda om alla bilder";
+
+"Save %@ As" = "Spara %@ som";
+
+"Copy All Images to" = "Kopiera alla bilder till";
+"Move All Images to" = "Flytta alla bilder till";
+
+"Copy as Image" = "Kopiera som bild";
+
+"Switch Image Syntax" = "Byt bildsyntax";
+"Markdown Style" = "Markdown-stil";
+"HTML Style" = "HTML-stil";
+
+"Code Tools" = "Kodverktyg";
+"Copy Code Content" = "Kopiera kodinnehåll";
+"Auto Indent Selected Code" = "Automatiskt indrag av vald kod";
+"Auto Indent Whole Code" = "Automatiskt indrag av hela koden";
+
+"Jump to Line Start" = "Hoppa till radstart";
+"Jump to Line End" = "Hoppa till radslut";
+"Toggle Word Count Popover" = "Växla popup-fönstret för ordräkning";
+"Toggle Outline Popover" = "Växla popup-fönstret för översikt";
+
+"Alert" = "Meddelanderuta";
+"Note Block" = "Block för noter";
+"Tip Block" = "Block för tips";
+"Important Block" = "Block för viktigt";
+"Warning Block" = "Block för varning";
+"Caution Block" = "Block för försiktigt";

@@ -3,6 +3,12 @@
  translations for preference panel and other dialogs
  
  by hi@typora.io 
+
+ Swedish translation by:
+  - 2018 FelixZY
+  - 2020 Sandskär
+  - 2022 obslsessed
+  - 2025 Morgan Antonsson <morgan.antonsson@gmail.com>
  */
 
 /* Preference Panel */
@@ -25,24 +31,25 @@
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Om en anpassad teckenstorlek används kommer den faktiska storleken bero på teckensnittets grundstorlek och den css-styling som används.";
 "Left Panel" = "Vänster panel";
 "Show Outline Panel by Default" = "Visa översiktspanelen som standard";
-"Collapsible Outline on Left Panel" = "Hopfällbar översikt på vänsterpanelen";
+"Collapsible Outline on Left Panel" = "Översiktsträdvy i vänsterpanelen";
 "Save without asking when\nswitch files on side panel" = "Spara utan att fråga\nvid filbyte i sidopanelen";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Redigerade filer sparas utan att du blir tillfrågad när du byter fil i den vänstra panelen. \nNär \"Fråga om att spara ändringar när dokument stängs\" är inaktiverat i Systeminställningar är detta alltid aktiverat.";
 "Language" = "Språk";
 "System Language" = "Systemspråk";
 
 /* Editor Panel */
 "Editor" = "Editor";
-"Indent Size on Save" = "Indragsstorlek";
+"Indent Size on Save" = "Indragsstorlek vid sparning";
 "only apply to quotes and lists created from menu bar or hybrid view" = "använd bara för citat och listor skpade från menyraden eller hybridvyn";
 "Trigger Autocomplete without ESC key for" = "Aktivera automatisk komplettering utan ESC för";
 "Emoji (e.g. :smile:)" = "Emoji (t.ex. :smile:)";
-"Images Insert" = "Insättning av bilder";
+"Images Insert" = "Infogning av bilder";
 "Use relative path if possible" = "Använd relativa sökvägar om möjligt";
 "Auto Pair" = "Automatisk matchning";
-"Auto pair brackets and quotes" = "Matcha automatiskt paranteser och citattecken";
+"Auto pair brackets and quotes" = "Matcha automatiskt parenteser och citattecken";
 "Auto pair common Markdown syntax" = "Matcha automatiskt vanlig Markdown syntax";
-"Live Rendering" = "Liverendering";
-"Display source for simple blocks\n(including headings, etc.) on focus" = "Visa källa för enkla block\n(inklusive rubriker, etc.) vid fokus";
+"Live Rendering" = "Live-rendering";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Visa källa för enkla block\n(inklusive rubriker, etc.) i fokus";
 "Default Copy Behavior" = "Kopieringsbeteende";
 "Copy Markdown source as plain text" = "Kopiera markdownkällor som oformaterad text";
 "Typewriter Mode" = "Skrivmaskinsläge";
@@ -50,12 +57,12 @@
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Följande inställningar kommer appliceras efter omstart.)";
+"(Following preferences will be applied after restart.)" = "(Följande inställningar kommer tillämpas efter omstart.)";
 "Syntax Support" = "Syntaxstöd";
-"Inline Math  (e.g: $\LaTeX$)" = "Inline matte ( t.ex: $\LaTeX$)";
-"Subscript    (e.g: H~2~O)" = "Nedsänkt text   ( t.ex: H~2~O)";
-"Superscript (e.g: X^2^)" = "Upphöjd text    ( t.ex: X^2^)";
-"Highlight     (e.g: ==key==)" = "Markering       (t.ex: ==key==)";
+"Inline Math  (e.g: $\LaTeX$)" = "Inline-matematik ( t.ex: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)"    = "Nedsänkt text    ( t.ex: H~2~O)";
+"Superscript (e.g: X^2^)"      = "Upphöjd text     ( t.ex: X^2^)";
+"Highlight     (e.g: ==key==)" = "Markering        (t.ex: ==key==)";
 "Diagrams" = "Diagram";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart och Mermaid)";
 "Syntax Preference" = "Syntaxinställning";
@@ -67,7 +74,7 @@
 "Ordered List" = "Ordnad lista";
 "Code Fences" = "Kodblock";
 "Display line numbers for code fences" = "Visa radnummer för kodblock";
-"Math Blocks" = "Matteblock";
+"Math Blocks" = "Matematikblock";
 "Auto Numbering Math Equations" = "Numrera ekvationer automatiskt";
 
 /* Security Panel */
@@ -112,8 +119,6 @@
 "Converting file using Pandoc. This may take some time." = "Konverterar filen med Pandoc. Detta kan ta lite tid.";
 "Exporting file using Pandoc. This may take some time." = "Exporterar filen med Pandoc. Detta kan ta lite tid.";
 
-/* Upload via iPic */
-"Uploading Images via iPic..." = "Laddar upp bilder via iPic...";
 "Uploading in progress…" = "Uppladdning pågår...";
 "Do not show this again" = "Visa inte detta igen";
 
@@ -130,7 +135,7 @@
 "In Selection" = "Markerade";
 "Panel" = "Panel";
 
-/* Windows Prefernce Panel*/
+/* Windows Preferences Panel*/
 "Appearance" = "Utseende";
 "System Native" = "System";
 "Unibody" = "Unibody";
@@ -143,11 +148,9 @@
 "Emoji Autocomplete" = "Autokomplettering av emoji";
 "Trigger by ESC key" = "Vid tryck på ESC";
 "Trigger automatically" = "Automatiskt";
-"Default Line Ending" = "Radbryt";
-"Line ending for new file" = "Radbryt för nya filer";
+"Default Line Ending" = "Standardradslut";
+"Line ending for new file" = "Radslut för nya filer";
 "Spell Check" = "Stavningskontroll";
-"(support US English only)" = "(endast stöd för amerikansk engelska)";
-"Enable spell check" = "Aktivera stavningskontroll";
 "Auto correct spelling" = "Korrigera stavning automatiskt";
 "System" = "System";
 "Privacy" = "Integritet";
@@ -166,13 +169,14 @@
 "This feature require macOS >= 10.11" = "Denna funktion kräver macOS >= 10.11";
 "One More Step" = "Ett steg till";
 "Notice" = "Varning";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Detta kräver att iPic installeras. Bildfilerna kommer laddas upp till molntjänster via iPic. Notera att molntjänsten inte stödjer borttagning av en uppladdad bild.";
 
 "%d Images Failed to Upload." = "%d bilder kunde inte laddas upp.";
 "%d Succeeded," = "%d lyckades,";
 "Enable this feature on preferences panel" = "Aktivera denna funktion i inställningspanelen";
+"The option `%@` must be enabled first to automatically upload images." = "Alternativet `%@` måste först aktiveras för att bilder ska laddas upp automatiskt.";
 "%@ is a file, not a directory" = "%@ är en fil, inte en mapp";
 "Copy Images To…" = "Kopiera bilder till…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora försöker kopiera den nyligen infogade bilden till mappen %@ enligt dina YAML frontmatter-inställningar eller globala inställningar, men mappen finns inte. Vill du skapa den nu?";
 "Create Folder and Continue" = "Skapa mapp och fortsätt";
 "Document must be saved first" = "Dokumentet måste sparas först";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora kommer kopiera den infogade bilden till den valda relativa sökvägen. Vänligen spara filen först.";
@@ -183,9 +187,9 @@
 "Markdown File" = "Markdownfil";
 "Plain Text File" = "Textfil";
 "All Files" = "Alla filer";
-"All Supported Formats" = "Alla stödda format";
+"All Supported Formats" = "Alla format som stöds";
 "Discard Changes" = "Ignorera ändringar";
-"Discard" = "Ignorera ändringar";
+"Discard" = "Ignorera";
 
 "Menu" = "Meny";
 "Back" = "Tillbaka";
@@ -205,7 +209,6 @@
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Av någon anledning kunde inte innehållet sparas.<br/>Du kan prova att kopiera innehållet till ett nytt Typora-fönster och spara där. <br/>Läs mer:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Rapportera problem till oss</a></li><li><a href='https://support.typora.io/Version-Control/'>Återställ förlorat innehåll</a></li></ul>";
 "Copy Content" = "Kopiera innehåll";
 
-
 "Total" = "Total";
 "Word count only support OS X later than 10.10." = "Ordräkning stöds endast av OS X nyare än 10.10.";
 "Indent Size for Code" = "Storlek på indrag för kod";
@@ -220,17 +223,16 @@
 "Copy image to current folder (./)" = "Kopiera bild till nuvarande mapp (./)";
 "Copy image to ./assets" = "Kopiera bild till ./assets";
 "Copy image to ./${filename}.assets" = "Kopiera bild till ./${filename}.assets";
-"Upload image via iPic" = "Ladda upp bild via iPic";
 "Apply above rules to local images" = "Använd ovanstående regler för lokala bilder";
 "Apply above rules to online images" = "Använd ovanstående regler för onlinebilder";
 "Allow upload images automatically based on YAML settings" = "Tillåt automatisk uppladdning av bilder baserat på YAML inställningar";
 
 "Learn More" = "Läs mer";
-"Whitespace / Line Break" = "Whitespace / Radbryt";
+"Whitespace / Line Break" = "Blanksteg / radbrytning";
 "When Writing" = "Vid skrift";
 "Export / Print" = "Exportera / Skriv ut";
-"Preserve sequential whitespace and single line break" = "Bevara whitespace och enkla radbryt";
-"Ignore sequential whitespace and single line break" = "Ignorera whitespace och enkla radbryt";
+"Preserve sequential whitespace and single line break" = "Bevara blanksteg och enkla radbrytningar";
+"Ignore sequential whitespace and single line break" = "Ignorera blanksteg och enkla radbrytningar";
 
 "Quit" = "Avsluta";
 "Quit Typora when last window is closed" = "Avsluta Typora när det sista fönstret stängts";
@@ -275,15 +277,14 @@
 "Move %@" = "Flytta på %@";
 "Delete %@" = "Radera %@";
 
-"Turn off Typewriter / Focus Mode" = "Stäng av skrivmaskin / Fokusläge";
-"Typewriter / Focus Mode have been turned off." = "Skrivmaskin / Fokusläge har stängts av.";
+"Turn off Typewriter / Focus Mode" = "Stäng av skrivmaskin / fokusläge";
+"Typewriter / Focus Mode have been turned off." = "Skrivmaskin / fokusläge har stängts av.";
 
 "Reading Speed" = "Läsfart";
 "Auto" = "Auto";
 "words / min" = "ord / min";
 
 "Reset to Default" = "Återställ till standard";
-"Select custom folder" = "Välj anpassad mapp";
 "120  words/minute (Slow)" = "120  ord/minut (Långsam)";
 "240  words/minute (Medium)" = "240  ord/minut (Mellan)";
 "382  words/minute (Fast)" = "382  ord/minut (Snabb)";
@@ -298,16 +299,16 @@
 "Check Update Failed" = "Letandet efter uppdateringar misslyckades";
 "You're up to date!" = "Du är redan fullt uppdaterad!";
 "Latest version is $1, your version is $2" = "Den senaste versionen är $1, din version är $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Dessa val kan även ändras under \"Redigera→Whitespace och raadbryt\" menyn";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Dessa val kan även ändras under \"Redigera→Blanksteg och radbrytningar\" menyn";
 "Auto escape image URL when insert" = "Bryt automatiskt ut bild-URL när infogad";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Till exempel, om du infogar en fil vid 'img/example file.png' så kommer den att bli 'img/example%20file.png'. Aktivera detta för bättre kompatibilitet med andra Markdown-redigerare, eller stäng av för bättre läsbarhet.";
 "Check updates automatically" = "Leta efter uppdateringar automatiskt";
-"Skip This Version" = "Skippa den här versionen";
+"Skip This Version" = "Hoppa över den här versionen";
 "Remind Me Later" = "Påminn mig senare";
 "Download Update" = "Ladda ner uppdatering";
 "New version available." = "Ny version tillgänglig.";
 
-"When copy / export as HTML (without style)" = "När kopiera / exportera som HTML (utan style)";
+"When copy / export as HTML (without style)" = "Vid kopiering / exportering som HTML (utan stilmall)";
 "Use Rendered SVG" = "Använd renderad SVG";
 "Use LaTeX Source" = "Använd LaTeX-källa";
 "<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Ta effekter när den exporteras som HTML (utan styler) eller kopiera som HTML-kod, eller kopiera utan temstyla.<br/>När <strong>Använd LaTeX-källa</strong> är vald, så kommer Typora använda den råa LaTeX-källan (t.ex: $X^2$),<br/>När <strong>Använd renderad SVG</strong> är vald, så kommer den renderade SVG:n användas, ifall du klistrar in i en annan app så kanske SVG:n ignoreras.</div>";
@@ -316,8 +317,264 @@
 "Do not show this message again" = "Visa inte det här meddelandet igen";
 
 "Page Break Between Top Headings" = "Sidbrytning mellan huvudrubriker";
-"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kan ställa in citatmönster i Systeminställningar → Tangentbord → Text. Detta kräver att Typora startas om för att tillämpas.";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Tyvärr så uppstod det ett fel, det nuvarande skrivinnehållet har kopierats till urklippet. Du kan anmäla detta till <hi@typora.io> för att hjälpa oss fixa detta.";
 "Try Recovery" = "Försök att återhämta";
 "Other Options for Data Recovery" = "Andra val för dataåterhämtning";
+
+"When Insert" = "När infogad";
+"Upload image" = "Ladda upp bild";
+"e.g: %@" = "t.ex.: %@";
+"Test Uploader" = "Testa uppladdning";
+"Validating" = "Validerar";
+"Validation Failed" = "Validering misslyckades";
+"Validation Succeed" = "Validering lyckades";
+"Testing image uploading using command:" = "Testar bilduppladdning med kommandot:";
+"Running… Waiting for results." = "Kör… Väntar på resultat.";
+"Output from the console:" = "Utdata från konsolen:";
+"Error from the console:" = "Fel från konsolen:";
+"Failed to fetch uploaded image from command output." = "Misslyckades med att hämta den uppladdade bilden från kommandoutdata.";
+"Successfully get uploaded image url." = "Lyckades hämta URL för uppladdadad bild.";
+"Image Uploader" = "Bilduppladdare";
+"Instructions" = "Instruktioner";
+"Download %@" = "Ladda ner %@";
+"Image Upload Setting" = "Inställningar för bilduppladdning";
+"Please set an image uploader in Preferences panel before using this function." = "Välj en bilduppladdare i inställningarna innan du använder den här funktionen.";
+"Download or Upgrade" = "Ladda ner eller uppgradera";
+"Open Config File" = "Öppna konfigurationsfil";
+"Command" = "Kommando";
+"PicGo Path" = "PicGo-sökväg";
+"Path of PicGo binary" = "Sökväg för PicGo-binärfil";
+"Executable" = "Körbar fil";
+"Checking" = "Kontrollerar";
+"Download" = "Ladda ner";
+"Agree and Download" = "Godkänn och ladda ner";
+"Download and Reinstall" = "Ladda ner och installera om";
+"Loading PicGo-Core License" = "Laddar PicGo-Core-licens";
+"Failed to get installed version of PicGo-Core (command line)" = "Misslyckades med att hämta installerad version av PicGo-Core (kommandorad)";
+"You have the latest PicGo-Core (CLI)" = "Du har den senaste PicGo-Core (CLI)";
+"Newer version is available" = "En nyare version finns tillgänglig";
+
+"Downloading…" = "Laddar ner…";
+"Unzipping…" = "Packar upp…";
+"Finished" = "Färdig";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora kommer att starta en tredjepartsapplikation med sökvägar till alla lokala bilder. Bildöverföraren och molnbildlagringen kommer då att få tillgång till dina lokala bilder. Är du säker på att du vill fortsätta?";
+
+"Export operation finished successfully." = "Exporteringen slutfördes utan problem.";
+
+"Shortcut Keys" = "Kortkommandon";
+"Custom Shortcut Keys" = "Anpassade kortkommandon";
+
+"Theme" = "Tema";
+"Light Theme" = "Ljust tema";
+"Dark Theme" = "Mörkt tema";
+"Use separate theme in dark mode" = "Använd separat tema i mörkt läge";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Stöds på macOS ≥ 10.15 eller Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Konvertera -- till – (tankstreck) och --- till — (långt tankstreck)";
+"Convert -- and --- to — (em dash)" = "Konvertera -- och --- till — (långt tankstreck)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "Du kan ställa in citatmönster i Systeminställningar → Tangentbord → Text. För att detta ska kunna tillämpas behöver Typora startas om.";
+
+"Paper Size" = "Pappersstorlek";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "Sidbrytning";
+"Page Break Between Top Headings" = "Sidbrytning mellan huvudrubriker";
+"Header" = "Sidhuvud";
+"Footer" = "Sidfot";
+"Author" = "Författare";
+"Append in <head />" = "Lägg till i <head />";
+"Append in <body />" = "Lägg till i <body />";
+"Include Outline Sidebar" = "Visa översikt i sidofältet";
+"Width" = "Bredd";
+"Command" = "Kommando";
+"Show Save File Dialog" = "Visa dialogruta för att spara fil";
+"File Extensions for Export" = "Filändelser för export";
+"Arguments" = "Argument";
+"Extra Arguments" = "Extra argument";
+"LaTeX Engine" = "LaTeX-motor";
+"Template" = "Mall";
+"Empty" = "Tom";
+"Style Reference" = "Stilreferens";
+"Custom CSS" = "Anpassad CSS";
+"Chapter Level" = "Kapitelnivå";
+"Default Folder for Exported File" = "Standardmapp för exporterad fil";
+"Same folder with current file" = "Samma mapp som aktuell fil";
+"Custom location" = "Anpassad plats";
+"(Auto Detect)" = "(Autodetektera)";
+"After Export" = "Efter export";
+"Open exported file location" = "Öppna platsen för den exporterade filen";
+"Open exported file" = "Öppna exporterad fil";
+"Custom" = "Anpassad";
+"None" = "Ingen";
+"Default" = "Standard";
+"Margin" = "Marginal";
+"Margin Left" = "Vänster marginal";
+"Margin Right" = "Höger marginal";
+"Margin Top" = "Övre marginal";
+"Margin Bottom" = "Nedre marginal";
+"Width x Height" = "Bredd x höjd";
+"Add From a Template" = "Lägg till från en mall";
+"Delete this export option ?" = "Radera detta exportalternativ?";
+"Add" = "Lägg till";
+"Delete" = "Radera";
+"Rename" = "Byt namn";
+"Move Down" = "Flytta ner";
+"Move Up" = "Flytta upp";
+"Pandoc Path" = "Sökväg till Pandoc";
+"Select" = "Välj";
+"Target Format" = "Målformat";
+"auto detect based on target file path" = "autodetektera baserat på målsökväg";
+"Target File Extensions (separate by whitespace)" = "Målfiländelser (separera med blanksteg)";
+"e.g: .text .asciidoc or leave this empty" = "t.ex: .text .asciidoc eller lämna fältet tomt";
+"Raw Type" = "Rå typ";
+"Auto" = "Automatisk";
+"Show Save File Dialog" = "Visa dialogruta för att spara fil";
+"Do not popup save file dialog" = "Visa inte dialogruta för att spara fil";
+"Select file path to save" = "Välj sökväg till fil att spara";
+"Select folder path to save" = "Välj sökväg till mapp att spara";
+"PDF Engine" = "PDF-motor";
+"Show command output" = "Visa kommandoutdata";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportera och skriv över med föregående\" kommer att skriva över filen %@, vill du fortsätta?";
+"Command Arguments:" = "Kommandoradsargument:";
+"This dev version of Typora is expired, please download and install a newer version." = "Denna utvecklarversion av Typora har löpt ut. Ladda ner och installera en nyare version.";
+"Current Theme" = "Aktuellt tema";
+"After Export" = "Efter export";
+"Run command" = "Kör kommando";
+"Run command after export failed" = "Kör kommando om exporten misslyckades";
+"Read and overwrite export settings from YAML front matters" = "Läs och skriv över exportinställningar från YAML frontmatter";
+"Append Extra Content (HTML)" = "Lägg till extra innehåll (HTML)";
+"Change this option to specify a separated theme for export." = "Ändra detta alternativ för att ange ett separat tema för export.";
+"Dark theme is not supported." = "Mörkt tema stöds inte.";
+
+"Markdown Variants" = "Markdown-varianter";
+"Original Unextended Markdown" = "Original omodifierad Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark med många Pandoc-tillägg";
+"Line Wrap" = "Radbrytning";
+"Hard line wrap" = "Hård radbrytning";
+"Text Column Width" = "Textkolumnbredd";
+"Auto (based on current OS)" = "Auto (baserat på aktuellt OS)";
+"Indent" = "Indrag";
+"Preserve tabs" = "Behåll tabbar";
+"2 spaces per tab" = "2 mellanslag per tabb";
+"3 spaces per tab" = "3 mellanslag per tabb";
+"4 spaces per tab" = "4 mellanslag per tabb";
+"Unicode Characters" = "Unicode-tecken";
+"Use only ASCII characters in output" = "Använd endast ASCII-tecken i utdata";
+"Use reference-style links rather than inline links" = "Använd referenslänkar istället för inbäddade länkar";
+"Footnotes and References Location" = "Placering av fotnoter och referenser";
+"End of document" = "Slutet av dokumentet";
+"End of current (top-level) block" = "Slutet av aktuellt (toppnivå-) block";
+"End of current section" = "Slutet av aktuellt avsnitt";
+"Convert TeX formulas to web images" = "Konvertera TeX-formler till webbilder";
+"Image Format" = "Bildformat";
+
+"Set Pandoc Path" = "Ange sökväg till Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Tillämpa radbrytning vid \\ och &#92;newline";
+
+"Export operation succeeded with warnings." = "Exporteringen slutfördes med varningar.";
+
+"Typora is now deactivated" = "Typora är nu avaktiverat";
+"This device has been deactivated" = "Denna enhet har avaktiverats";
+"UNREGISTERED" = "OREGISTRERAD";
+
+"Your Typora is not activated." = "Din Typora är inte aktiverad.";
+"Your Typora has been activated." = "Din Typora har aktiverats.";
+"Typora activation is required to change this." = "Typora-aktivering krävs för att ändra detta.";
+"You can reinstall the stable version and then disable this." = "Du kan installera den stabila versionen och därefter inaktivera detta.";
+"Update to dev version" = "Uppdatera till utvecklarversion";
+
+"Typora Server" = "Typora-server";
+"Use Typora Server in China" = "Använd Typora-server i Kina";
+
+"File does not exist" = "Filen existerar inte";
+"Create File" = "Skapa fil";
+"Create Folder" = "Skapa mapp";
+
+"(Some options will be applied after restart.)" = "(Vissa inställningar kommer att tillämpas efter omstart.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Kopiera eller klipp ut hela rader som har markörer på sig, om inget är markerat vid kopiering/utklippning.";
+"Enable physics package" = "Aktivera fysikpaket";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Fysikpaketet kommer att omdefiniera vissa LaTeX-makron, såsom \\div, \\Re, osv.";
+
+"Detail" = "Detalj";
+"Use custom font size" = "Använd anpassad teckenstorlek";
+"Use theme font size" = "Använd temats teckenstorlek";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Du använder Snap-versionen. Den kan ha begränsad tillgång till dina lokala körbara filer.";
+
+"No local images found." = "Inga lokala bilder hittades.";
+
+"File Format:" = "Filformat:";
+
+"Images copied to %@." = "Bilderna kopierades till %@.";
+"Images moved to %@." = "Bilderna flyttades till %@.";
+
+"Custom Command" = "Anpassat kommando";
+"No Automatic Equation Numbering" = "Ingen automatisk numrering av ekvationer";
+"Use AMS Numbering Rules" = "Använd AMS-numreringsregler";
+"Auto Numbering for All Math Equations" = "Automatisk numrering för alla matematiska ekvationer";
+
+"Preferred Image Syntax" = "Föredragen bildsyntax";
+"Add ./ for relative path" = "Lägg till ./ för relativ sökväg";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "När aktiverat kommer Typora att använda formatet ./assets/image.png istället för assets/image.png när relativa sökvägar genereras för infogade bilder.";
+
+"Image Quality" = "Bildkvalitet";
+"Medium" = "Mellan";
+"High" = "Hög";
+"Best" = "Bäst";
+
+"Use Shift+Tab to auto indent selected code" = "Använd Shift+Tab för att automatiskt indentera markerad kod";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "När inaktiverat kommer Shift+Tab att dra ut markerad kod eller aktuell rad. När aktiverat kommer Shift+Tab automatiskt att indentera markerad kod eller aktuell rad i kodblock.";
+
+"Auto Links (e.g: https://typora.io)" = "Automatiska länkar (t.ex: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "När aktiverat kommer Typora automatiskt att känna igen och markera URL:er (t.ex: https://typora.io eller mailto:hi@typora.io) i text.";
+
+"Files" = "Filer";
+"Default File Type / Extension" = "Standardfiltyp/-ändelse";
+"Custom Extension:" = "Anpassad ändelse:";
+"Following extensions are supported: %@" = "Följande filändelser stöds: %@";
+"e.g: %@" = "t.ex: %@";
+"When drop file / folder into Typora" = "När fil/mapp släpps i Typora";
+"When drop folder" = "När mapp släpps";
+"When drop markdown file" = "När markdown-fil släpps";
+"When drop files that can be imported" = "När filer som kan importeras släpps";
+"Open in Typora" = "Öppna i Typora";
+"Insert Folder Link" = "Infoga mapplänk";
+"Insert File Link" = "Infoga fillänk";
+"Import File" = "Importera fil";
+
+"Diagram Options" = "Diagramalternativ";
+"Default Code Language" = "Standardkodspråk";
+"(None)" = "(Inget)";
+"Last Used" = "Senast använt";
+"Apply Default Code Language When" = "Tillämpa standardkodspråk när";
+"When add code fences via Markdown" = "Vid tillägg av kodblock via Markdown";
+"When add code fences via Menubar" = "Vid tillägg av kodblock via menyn";
+"Both" = "Båda";
+
+"Pinned and Recent Locations" = "Fästa och senaste platser";
+"Operation Succeeded" = "Åtgärden lyckades";
+"Clear Recent Folders and Files" = "Rensa senaste mappar och filer";
+"Clear Recent Folders / Files Only" = "Rensa endast senaste mappar/filer";
+"Clear Recent and Pinned Folders / Files" = "Rensa senaste och fästa mappar/filer";
+"Also clear pinned folders" = "Rensa även fästa mappar";
+"Pin" = "Fäst";
+"Unpin" = "Lös upp fästning";
+"Remove from List" = "Ta bort från listan";
+"Record recent files and folders" = "Registrera senaste filer och mappar";
+
+"System Integration" = "Systemintegration";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Lägg till \"Markdown\" i \"Ny\"-kontextmenyn i Utforskaren";
+"Delete items from \"New\" context menu in Windows Explorer" = "Ta bort objekt från \"Ny\"-kontextmenyn i Utforskaren";
+"Please try sign out Windows to take effect." = "Vänligen logga ut från Windows för att ändringen ska träda i kraft.";
+"Github Style Alert" = "Meddelanderuta i Github-stil";
+"Zoom when using mouse wheel and holding %@ key" = "Zooma med mushjulet när %@-tangenten hålls ner";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Aktuellt dokument innehåller osparade ändringar. Vill du byta till den nyligen duplicerade filen?";
+
+"Chapter Level in Outline" = "Kapitelnivå i översikt";
+"Enable inline math or code block math" = "Aktivera inbäddad matematik eller kodblock med matematik";
+"Code Block Math  (```math code block)" = "Kodblock med matematik (```math kodblock)";
+"PicList Path" = "Sökväg till PicList";

@@ -1,8 +1,14 @@
 /* 
-  Front.strings
+  Welcome.strings
   Typora
 
  by hi@typora.io
+
+ Swedish translation by:
+  - 2018 FelixZY
+  - 2020 Sandskär
+  - 2022 obslsessed
+  - 2025 Morgan Antonsson <morgan.antonsson@gmail.com>
 */
 
 /*
@@ -10,31 +16,31 @@
  */
 
 "Welcome to Typora" = "Välkommen till Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Tack för att du använder Typora 👋. Typora är en minimal markdown-redigerare and markdown-läsare, som ger dig en sömlös upplevelse mellan renderade rika stilinnehåll och dess källkod.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Tack för att du använder Typora 👋. Typora är en minimalistisk markdown-redigerare och markdown-läsare som ger dig en sömlös upplevelse mellan renderat innehåll med rikt format och dess källkod.";
 
 "Get Started" = "Kom igång";
-"Check following links if you're new to Markdown or Typora." = "Kolla in de följande länkarna ifall du är ny till Markdown eller Typora.";
+"Check following links if you're new to Markdown or Typora." = "Kolla följande länkar om du inte har använt Markdown eller Typora tidigare.";
 
 "Activate Typora" = "Aktivera Typora";
 "Already purchased a license? Fill the form below and activate Typora instantly." = "Har du redan köpt en licens? Fyll i formuläret nedanför och aktivera Typora direkt.";
 
 "Email" = "E-post";
 "Email Address" = "E-postadress";
-"License Code" = "Licenskod";
+"License Code" = "Licensnyckel";
 
 "Help" = "Hjälp";
 "Find my License" = "Hitta min licens";
 
 "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Acceptera <a href='https://support.typora.io/License-Agreement/'>licensavtalet</a> och <a href='https://support.typora.io/Privacy-Policy/'>integritetspolicyn</a>.";
 
-"Live Preview" = "Live förhandsvisning";
+"Live Preview" = "Live-förhandsvisning";
 "Write and read rendered output instantly." = "Skriv och läs renderad utdata direkt.";
 "Markdown Syntax" = "Markdown-syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Kodblock, YAML, arbeten, fotnoter, tabeller, matte, diagram";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Leverera ditt innehåll i flera format.";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Kodblock, YAML, checklistor, fotnoter, tabeller, matematik, diagram";
+"Import / Export" = "Import / export";
+"Deliver your content in various formats." = "Leverera ditt innehåll i olika format.";
 "Editing Experience" = "Redigeringsupplevelse";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Översikt / Antal ord / Fokusläge / Skrivmaskinsläge";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Översikt / ordräkning / fokusläge / skrivmaskinsläge";
 
 "Files" = "Filer";
 "Manage files in sidebar and search across files." = "Hantera filer i sidofältet och sök bland filer.";
@@ -43,7 +49,7 @@
 "Themes" = "Teman";
 "Write in the theme you like, or make one by your own." = "Skriv i temat du tycker om, eller skapa ett själv.";
 "And more" = "Och mer";
-"Explore more topics at support.typora.io" = "Utforska mer ämnen vid support.typora.io";
+"Explore more topics at support.typora.io" = "Utforska fler ämnen på support.typora.io";
 
 "Quick Start" = "Snabbstart";
 "Markdown Reference" = "Markdown-referens";
@@ -54,7 +60,7 @@
 "Thanks for your purchase." = "Tack för ditt köp.";
 
 "Next" = "Nästa";
-"Please accept license agreement first" = "Vänligen acceptera licensavtalet först.";
+"Please accept license agreement first" = "Vänligen acceptera licensavtalet först";
 "Start %@ Days Trial" = "Starta %@ dagars testperiod";
 "Buy License" = "Köp licens";
 "Activate" = "Aktivera";
@@ -62,16 +68,27 @@
 "Close" = "Stäng ner";
 "Deactivate" = "Avaktivera";
 "View License" = "Visa licens";
-"Your Typora License" = "Din Typora licens";
+"Your Typora License" = "Din Typora-licens";
 "This copy of Typora is registered with license information below." = "Denna kopia av Typora är registrerad med licensinformationen nedanför.";
 "Your trial will be expired in %@ days." = "Din testperiod kommer gå ut om %@ dagar.";
-"Enter License" = "Skriv in licens";
+"Enter License" = "Ange licens";
 "Not Now" = "Inte nu";
 
 "Please input a valid email address" = "Vänligen skriv in en giltig e-postaddress";
-"Please input a valid license code"  = "Vänligen skriv in en giltig licenskod";
+"Please input a valid license code" = "Vänligen skriv in en giltig licensnyckel";
 "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Din licens har gått över antalet max enheter.\nDen äldsta enheten har automatiskt oregistrerats.";
-"This license code has been used with a different email address." =  "Denna licenskod har redan blivit använd med en annan e-postaddress.";
+"This license code has been used with a different email address." = "Denna licensnyckel har redan använts med en annan e-postaddress.";
 "Unknown Error. Please contact hi@typora.io" = "Okänt fel. Vänligen kontakta hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Misslyckades med att komma åt licensservern. Vänligen kontrollera din internetuppkoppling eller pröva igen senare.";
 
+"Enter a license code to support our development ❤" = "Ange en licensnyckel för att stödja vår utveckling ❤";
+"Re-enter Email" = "Ange e-postadressen igen";
+"Email address confirmation does not match." = "Den bekräftade e-postadressen matchar inte.";
+
+"Are you sure to deactivate Typora on this device?" = "Är du säker på att du vill inaktivera Typora på den här enheten?";
+
+"Offline Activation" = "Offlineaktivering";
+"Back" = "Tillbaka";
+"Get Activation Token" = "Hämta aktiveringstoken";
+
+"Your activated devices have exceeded the maximum limits." = "Dina aktiverade enheter har överskridit maxgränsen.";

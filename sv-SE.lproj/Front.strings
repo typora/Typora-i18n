@@ -3,6 +3,12 @@
   Typora
 
  by hi@typora.io
+
+ Swedish translation by:
+  - 2018 FelixZY
+  - 2020 Sandskär
+  - 2022 obslsessed
+  - 2025 Morgan Antonsson <morgan.antonsson@gmail.com>
 */
 
 /* Common */
@@ -43,12 +49,12 @@
 "Delete Table" = "Radera tabell";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora försöker kopiera den nyligen infogade bilden till mappen <code id='image-create-folder-target'></code> enligt din YAML Front Matter inställning eller dina globala inställningar. Målmappen finns inte dock, skapa den nu?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora försöker kopiera den nyligen infogade bilden till mappen <code id='image-create-folder-target'></code> enligt din YAML frontmatter-inställning eller dina globala inställningar. Målmappen finns inte dock, skapa den nu?";
 "Create Folder" = "Skapa mapp";
 
 /* Math */
 "Edit" = "Redigera";
-"Delete Math" = "Radera matte";
+"Delete Math" = "Radera matematik";
 "Preview" = "Förhandsvisa";
 
 /* Sidebar */
@@ -61,21 +67,22 @@
 "Close sidebar" = "Stäng sidopanel";
 "Loading" = "Laddar";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Valda mappar innehåller för många filer. \nVänligen byt till <a id='switch-to-tree-on-oversize'>trädvy</a> för bättre prestanda.";
-"New File" = "Ny Fil";
+"New File" = "Ny fil";
 "Unpin Outline Panel" = "Lossa översiktspanel";
 "Open Folder..." = "Öppna mapp...";
 "Action" = "Handling";
-"Close Sidebar Menu" = "Stäng sidomeny";
+"Close Sidebar Menu" = "Stäng sidofält";
 "Reveal in Finder" = "Öppna i Finder";
 "Reveal in File Explorer" = "Öppna i filutforskaren";
 "Refresh Folder" = "Uppdatera mapp";
 "Sort" = "Sortera";
 "Group By Folder" = "Gruppera efter mapp";
-"Sort Naturally" = "Sortera naturligt";
-"Sort by Name (Ascending)" = "Sortera efter namn (Stigande)";
-"Sort by Modification Date (Ascending)" = "Sortera efter modifieringsdatum (Stigande)";
-"Sort by Name (Descending)" = "Sortera efter namn (Minskande)";
-"Sort by Modification Date (Descending)" = "Sortera efter modifieringsdatum (Minskande)";
+"Sort Naturally (Ascending)" = "Sortera naturligt (stigande)";
+"Sort Naturally (Descending)" = "Sortera naturligt (fallande)";
+"Sort by Name (Ascending)" = "Sortera efter namn (stigande)";
+"Sort by Modification Date (Ascending)" = "Sortera efter modifieringsdatum (stigande)";
+"Sort by Name (Descending)" = "Sortera efter namn (fallande)";
+"Sort by Modification Date (Descending)" = "Sortera efter modifieringsdatum (fallande)";
 "Location" = "Plats";
 "Switch File List/Tree View" = "Växla listvy/trädvy";
 "No Files Available" = "Inga tillgängliga filer";
@@ -83,13 +90,13 @@
 "Outline is Empty." = "Översikten är tom.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Växla sidomeny";
+"Toggle Sidebar" = "Växla sidofält";
 "Toggle Source Code Mode" = "Växla källkodsläge";
 "Exit Source Code Mode" = "Lämna källkodsläge";
 
 "Table of Contents" = "Innehållsförteckning";
 "Empty Diagram" = "Tomt diagram";
-"Input Math TeX here" = "Fyll i matte TeX här";
+"Input Math TeX here" = "Mata in TeX-matematik här";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Fotnoten <b>{0}</b> behöver definieras med följande syntax: <a>[^{1}]: www.example.com</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Länkreferensen <b>[{0}]</b> behöver definieras med följande syntax: <b>[{1}]: www.example.com</b>";
@@ -112,7 +119,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Filen har ändrats utanför Typora. Vill du läsa in filen på nytt ?";
 "Should continue moving and overwrite existing file(s) ?" = "Vill du fortsätta flytta och skriva över existerande fil(er) ?";
 
-"Rename Failed" = "Kunde inte byta namn";
 "Rename to \"{0}\" ?" = "Byt namn till \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Kunde inte byta namn från \"{0}\" till \"{1}\"";
 
@@ -135,10 +141,9 @@
 "Select image from local file" = "Välj bild från lokal fil";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Kan inte öppna <code>$1</code>, menar du <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "välj ett språk";
 "Finish Editing" = "Avsluta redigering";
 
-"Revert advanced setting file to default one ?" = "Återställ inställningarna  ?";
+"Revert advanced setting file to default one ?" = "Återställ inställningarna?";
 
 "Select Spell Check Language" = "Välj språk för stavningskontroll";
 "Auto Detect Language" = "Välj språk automatiskt";
@@ -156,7 +161,7 @@
 "Failed to load spellcheck module" = "Misslyckades att ladda modul för stavningskontroll";
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> är aktiverat.";
-"You could turn it off from `View` menu." = "Du kan stänga av det från `Innehåll` menyn.";
+"You could turn it off from `View` menu." = "Du kan stänga av det från menyn `Innehåll`.";
 "The file is too large to render in Typora." = "Filen är för stor för att rendera i Typora.";
 "Open in…" = "Öppna i…";
 "Quick Look" = "Snabbtitt";
@@ -166,6 +171,40 @@
 "Continue & Overwrite" = "Fortsätt & skriv över";
 "The file is read-only, or you do not have right permissions to modify the file." = "Filen är skrivskyddad eller så har du inte rätt rättigheter för att ändra filen.";
 
-"Learn Data Recovery" = "Läs om dataåterhämtning";
+"Learn Data Recovery" = "Läs om dataåterställning";
 "Auto refresh on Files Panel cannot be enabled." = "Automatisk uppdatering av filpanelen kan inte bli aktiverad.";
 "Delete Permanently" = "Ta bort permanent";
+
+"Failed to upload images:" = "Misslyckades med att ladda upp bilder:";
+"Uploading in progress" = "Uppladdning pågår";
+"Successfully uploaded {0} images, {1} failed." = "{0} bilder har laddats upp, {1} misslyckades.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "Du kan ångra den här åtgärden senare via `Redigera` → `Ångra`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan hålla ned <strong>⌘-tangenten</strong> och klicka på <a href='#'>länkar</a> för att öppna dem eller hoppa till fotnoterna.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Du kan hålla ned <strong>CTRL-tangenten</strong> och klicka på <a href='#'>länkar</a> för att öppna dem eller hoppa till fotnoterna.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong>-stilen har aktiverats.";
+"You can right click titlebar to popup application menu." = "Du kan högerklicka på titellisten för att öppna applikationsmenyn.";
+
+"Support Document" = "Dokumentation";
+
+"You are not supposed to edit or save this file." = "Du får inte redigera eller spara den här filen.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Filer på den här platsen (%@) hanteras av Typora och kan komma att raderas automatiskt.<br/>Kopiera innehållet till en ny fil för vidare redigering.";
+
+"File does not exist at path %@." = "Filen finns inte på sökvägen %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Filen finns inte på sökvägen %@, vill du skapa en på den sökvägen?";
+
+"No Results" = "Inga resultat";
+"Too many matches" = "För många matchningar";
+"Regular Expression" = "Reguljärt uttryck";
+
+"Sort by Creation Date (Ascending)" = "Sortera efter skapandedatum (stigande)";
+"Sort by Creation Date (Descending)" = "Sortera efter skapandedatum (fallande)";
+
+"code language" = "kodspråk";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Det går inte att byta namn från $1 till $2, använd istället \"Arkiv\" → \"Flytta till…\" från menyraden.";
+"Markdown file" = "Markdown-fil";
+"TextBundle file" = "TextBundle-fil";
+"Images saved to TextBundle" = "Bilder sparade i TextBundle";

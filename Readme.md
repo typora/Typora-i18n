@@ -76,7 +76,7 @@ Feel free to contact us via <hi@typora.io>
 - Galician by [nunhes](https://github.com/nunhes)
 - Indonesia by [snatalius](https://github.com/snatalius)
 - Vietnamese by [mwolfinspace](https://github.com/mwolfinspace)
-- Swedish by [Sandskär](https://github.com/passar), [FelixZY](https://github.com/FelixZY)
+- Swedish by [Sandskär](https://github.com/passar), [FelixZY](https://github.com/FelixZY), [MorganAntonsson](https://github.com/MorganAntonsson)
 - Catalan by [jmigual](https://github.com/jmigual)
 - Danish by [archfrog](https://github.com/archfrog)
 - Persian by [sadra](https://github.com/sadra)

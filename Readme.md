@@ -8,11 +8,29 @@ If you want to help translate Typora into other languages, we would very appreci
 
 #### Find missing text labels
 
-When we upgrade Typora, we could add new text labels for `.strings` files under ` Base.lproj`, to checkout missing text labels under your `{locale}.lproj`, you can try following commands (Thanks to [@BrainCrumbz](https://github.com/BrainCrumbz)), which takes `it-IT.lproj/Welcome.strings` as an example:
+When we upgrade Typora, we could add new text labels for `.strings` files under `Base.lproj`, to checkout missing text labels under your `{locale}.lproj`, you can try following commands (Thanks to [@BrainCrumbz](https://github.com/BrainCrumbz)), which takes `it-IT.lproj/Welcome.strings` as an example:
 
 ```shell
 gawk 'BEGIN { FS=" = " } { print $1 }' Base.lproj/Welcome.strings > base-keys
 gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
+```
+
+#### Automatically update text labels
+
+The script [update-translation.py](update-translation.py) can be used to automatically add missing text labels to the `.strings` files. The translated strings will be empty and have to be edited manually. Removed strings will be commented out and moved to the end of the file.
+
+**Note:** All comments, except for the top one and the ones at the bottom of each file **will be removed**. 
+
+```
+usage: update-translation.py [-h] LOCALE
+
+Update translation strings to match base. Removed strings are commented out and moved to the end of the file.
+
+positional arguments:
+  LOCALE      locale identifier (e.g. es-ES)
+
+options:
+  -h, --help  show this help message and exit
 ```
 
 #### Find translation progress and all missing labels

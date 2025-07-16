@@ -364,3 +364,8 @@
 "Important Block" = "重要内容";
 "Warning Block" = "警告内容";
 "Caution Block" = "注意内容";
+
+"Move Table Row Up" = "向上移动表格行";
+"Move Table Row Down" = "向下移动表格行";
+"Move Table Column Left" = "向左移动表格列";
+"Move Table Column Right" = "向右移动表格列";

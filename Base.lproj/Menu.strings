@@ -360,3 +360,8 @@
 "Important Block" = "Important Block";
 "Warning Block" = "Warning Block";
 "Caution Block" = "Caution Block";
+
+"Move Table Row Up" = "Move Table Row Up";
+"Move Table Row Down" = "Move Row Table Down";
+"Move Table Column Left" = "Move Table Column Left";
+"Move Table Column Right" = "Move Table Column Right";

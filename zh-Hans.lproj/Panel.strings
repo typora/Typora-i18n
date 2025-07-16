@@ -296,7 +296,7 @@
 "Downloading Updates…" = "下载中…";
 "Checking Updates…" = "检查中…";
 "Check Update Failed" = "检查更新失败";
-"You're up to date!" = "当前已是最新！";
+"You're up to date!" = "当前已是最新!";
 "Latest version is $1, your version is $2" = "最新版本为 $1，当前版本为 $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "以下选项也可在菜单中的 \"编辑→空格与换行\" 中更改";
 "Auto escape image URL when insert" = "插入时自动转义图片 URL";
@@ -582,3 +582,6 @@
 "Enable inline math or code block math" = "开启内联公式和代码块公式";
 "Code Block Math  (```math code block)" = "Code Block Math  (```math 代码块)";
 "PicList Path" = "PicList 路径";
+
+"Auto Complete" = "自动补全";
+"Enable autocomplete for Emojis" = "开启 Emoji 自动补全";

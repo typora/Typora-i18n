@@ -120,7 +120,7 @@
 /* Word Count */
 "Minute" = "分钟";
 "Line" = "行";
-"Word" = "词";
+"Word" = "字";
 "Character" = "字符";
 
 "Minutes" = "分钟";

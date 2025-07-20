@@ -343,20 +343,19 @@
 "Switch Image Syntax" = "Alternar a Sintaxe de Imagem";
 "Markdown Style" = "Estilo do Markdown";
 "HTML Style" = "Estilo do HTML";
-
 "Code Tools" = "Ferramentas de Código";
 "Copy Code Content" = "Copiar Conteúdo do Código";
 "Auto Indent Selected Code" = "Indentar Automaticamente o Código Selecionado";
 "Auto Indent Whole Code" = "Indentar Automaticamente Todo o Código";
 
-"Alert" = "Alerta"
-"Caution Block" = "Bloco de Cuidado"
-"Important Block" = "Bloco Importante"
-"Jump to Line End" = "Ir para o Final da Linha"
-"Jump to Line Start" = "Ir para o Início da Linha"
-"Note Block" = "Bloco de Nota"
-"Rename or Move Image to" = "Renomear ou Mover Imagem para"
-"Tip Block" = "Bloco de Dica"
-"Toggle Outline Popover" = "Alternar Popover do Esboço"
-"Toggle Word Count Popover" = "Alternar Popover da Contagem de Palavras"
-"Warning Block" = "Bloco de Aviso"
+"Alert" = "Alerta";
+"Caution Block" = "Bloco de Cuidado";
+"Important Block" = "Bloco Importante";
+"Jump to Line End" = "Ir para o Final da Linha";
+"Jump to Line Start" = "Ir para o Início da Linha";
+"Note Block" = "Bloco de Nota";
+"Rename or Move Image to" = "Renomear ou Mover Imagem para";
+"Tip Block" = "Bloco de Dica";
+"Toggle Outline Popover" = "Alternar Popover do Esboço";
+"Toggle Word Count Popover" = "Alternar Popover da Contagem de Palavras";
+"Warning Block" = "Bloco de Aviso";

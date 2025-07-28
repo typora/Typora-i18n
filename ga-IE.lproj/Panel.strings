@@ -1,0 +1,579 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+ 
+ by hi@typora.io 
+ */
+
+/* Preference Panel */
+"Preferences" = "Roghanna";
+
+/* General Panel */
+"General" = "Ginearálta";
+"Window Style" = "Stíl Fuinneoige";
+"Classic" = "Clasaiceach";
+"Seamless" = "Gan uaim";
+"Seamless window only support OS X later than 10.10." = "Ní thacaíonn fuinneog gan uaim ach le OS X níos déanaí ná 10.10.";
+"Themes" = "Téamaí";
+"Open Theme Folder" = "Oscail Fillteán Téama";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Seiceáil `cabhair`->`Tús Tapa` le haghaidh réamhrá gairid. Tabhair cuairt ar http://theme.typora.io chun tuilleadh téamaí nó treoracha a fháil.";
+"Word Count" = "Líon na bhFocal";
+"Always Show Word Count" = "Taispeáin Líon na bhFocal i gCónaí";
+"Font Size" = "Méid Cló";
+"Auto ( Recommended )" = "Uathoibríoch (Molta)";
+"Customized" = "Saincheaptha";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Má úsáidtear méid cló saincheaptha, beidh an méid cló iarbhír ag brath ar mhéid an chló bhunúsaigh agus ar an stíl css.";
+"Left Panel" = "Painéal Clé";
+"Show Outline Panel by Default" = "Taispeáin an Painéal Imlíne de réir Réamhshocraithe";
+"Collapsible Outline on Left Panel" = "Imlíne Infhillte ar an bPainéal Clé";
+"Save without asking when\nswitch files on side panel" = "Sábháil gan fiafraí nuair a\nathraítear comhaid ar an bpainéal taobh";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Sábhálfar comhaid eagraithe gan iarraidh nuair a athraítear comhaid sa phainéal clé. \nNuair a bhíonn \"Iarr athruithe a choinneáil agus doiciméid á ndúnadh\" díchumasaithe i Rogha an Chórais, bíonn sé seo cumasaithe i gcónaí.";
+"Language" = "Language";
+"System Language" = "Teanga an Chórais";
+
+/* Editor Panel */
+"Editor" = "Eagarthóir";
+"Indent Size on Save" = "Méid an Eangaigh ar Shábháil";
+"only apply to quotes and lists created from menu bar or hybrid view" = "ní bhaineann sé ach le luachana agus liostaí a cruthaíodh ón mbarra roghchláir nó ón radharc hibrideach";
+"Trigger Autocomplete without ESC key for" = "Spreag Uathchríochnú gan eochair ESC le haghaidh";
+"Emoji (e.g. :smile:)" = "Emoji (m.sh. :aoibh gháire:)";
+"Images Insert" = "Íomhánna a Ionsáigh";
+"Use relative path if possible" = "Bain úsáid as cosán coibhneasta más féidir";
+"Auto Pair" = "Péireáil Uathoibríoch";
+"Auto pair brackets and quotes" = "Péireáil uathoibríoch lúibíní agus comharthaí athfhriotail";
+"Auto pair common Markdown syntax" = "Comhréir choitianta Markdown péireála uathoibríoch";
+"Live Rendering" = "Rindreáil Bheo";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "Foinse taispeána do bhloic shimplí (lena n-áirítear ceannteidil, srl.) ar fhócas";
+"Default Copy Behavior" = "Iompar Cóipeála Réamhshocraithe";
+"Copy Markdown source as plain text" = "Cóipeáil foinse Markdown mar théacs simplí";
+"Typewriter Mode" = "Mód Clóscríbhneora";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Coinnigh an cairpéad i lár an scáileáin i gcónaí nuair a bhíonn mód clóscríbhneora cumasaithe";
+
+/* Markdown Panel */
+"Markdown" = "Markdown";
+"(Following preferences will be applied after restart.)" = "(Cuirfear na roghanna seo a leanas i bhfeidhm tar éis atosaithe.)";
+"Syntax Support" = "Tacaíocht Chomhréire";
+"Inline Math  (e.g: $\LaTeX$)" = "Matamaitic Inlíne (m.sh.: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Fo-scríbhinn (m.sh.: H~2~O)";
+"Superscript (e.g: X^2^)" = "Forscríbhinn (m.sh.: X^2^)";
+"Highlight     (e.g: ==key==)" = "Aibhsigh (m.sh.: ==eochair==)";
+"Diagrams" = "Léaráidí";
+"(Sequence, Flowchart and Mermaid)" = "(Seicheamh, Cairt Shreabhadh agus Maighdean Mhara)";
+"Syntax Preference" = "Rogha Comhréire";
+"(only applies to styles created from menubar or hybrid view)" = "(ní bhaineann sé ach le stíleanna a cruthaíodh ón mbarra roghchláir nó ón radharc hibrideach)";
+"Strict Mode" = "Mód Dian";
+"(more strict to GFM spec)" = "(níos déine i gcomhréir le sonraíocht GFM)";
+"Heading Style" = "Stíl Ceannteidil";
+"Unordered List" = "Liosta Gan Ordú";
+"Ordered List" = "Liosta Ordaithe";
+"Code Fences" = "Fálta Cód";
+"Display line numbers for code fences" = "Taispeáin uimhreacha líne le haghaidh fálta cóid";
+"Math Blocks" = "Bloic Matamaitice";
+"Auto Numbering Math Equations" = "Cothromóidí Matamaitice Uimhrithe Uathoibríoch";
+
+/* Security Panel */
+"Security" = "Slándáil";
+"Enable Debug" = "Cumasaigh Dífhabhtú";
+"Send Anonymous Usage Info" = "Seol Eolas Úsáide Gan Ainm";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "Éiligh ar Pandoc leanúint ar aghaidh...";
+"Follow instructions to install Pandoc" = "Lean na treoracha chun Pandoc a shuiteáil";
+"Cancel" = "Cealaigh";
+
+/* Pandoc Import Panel */
+"Importing..." = "Á iompórtáil...";
+"Importing in progress..." = "Iompórtáil ar siúl...";
+"Converting file with Pandoc. This may take some time." = "Ag tiontú comhaid le Pandoc. D’fhéadfadh sé seo roinnt ama a thógáil.";
+"Abort" = "Tobscoir";
+
+/* Pandoc Export Panel */
+"Exporting..." = "Ag easpórtáil...";
+"Exporting in progress..." = "Easpórtáil ar siúl...";
+"Converting file with Pandoc. This may take some time." = "Ag tiontú comhaid le Pandoc. D’fhéadfadh sé seo roinnt ama a thógáil.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "Tá Pandoc ag teastáil chun na formáidí comhaid seo a allmhairiú";
+"Check help->Install and use Pandoc from menubar for detail" = "Seiceáil cabhair->Suiteáil agus úsáid Pandoc ón mbarra roghchláir le haghaidh sonraí";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Éilíonn roinnt gnéithe allmhairithe nó easpórtála <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) a bheith suiteáilte.";
+"Follow Instructions to Install/Update Pandoc" = "Lean na Treoracha chun Pandoc a Shuiteáil/a Nuashonrú";
+"Export Failed" = "Theip ar an Easpórtáil";
+"Import Failed" = "Theip ar an allmhairiú";
+"Generated Image too Large" = "Íomhá Ginithe ró-mhór";
+"Failed to export file to <em>{0}</em>" = "Theip ar easpórtáil an chomhaid chuig <em>{0}</em>";
+"Failed to import file from <em>{0}</em>" = "Theip ar chomhad a iompórtáil ó <em>{0}</em>";
+"File does not exist at <em>{0}</em>" = "Níl an comhad ann ag <em>{0}</em>";
+"Export to..." = "Easpórtáil chuig...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Ar mhaith leat na hathruithe a rinneadh ar an doiciméad seo a shábháil?<br> Caillfear do chuid athruithe mura sábhálann tú iad.";
+"[Warning] Failed to attach bookmark for PDF file." = "[Rabhadh] Theip ar leabharmharc a cheangal le haghaidh comhad PDF.";
+"Dark Theme not support" = "Ní thacaítear le Téama Dorcha";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Tá brón orm, ní phriontálann an leagan reatha de Typora dath cúlra ar PDF easpórtáilte, mar sin níl tacaíocht ann don téama dorcha fós le haghaidh easpórtáil PDF. \nRoghnaigh téama éadrom nó cliceáil \"Priontáil leis an téama réamhshocraithe\"";
+"Print with default theme" = "Priontáil leis an téama réamhshocraithe";
+"Export to PDF successfully." = "Easpórtáil go PDF go rathúil.";
+"Converting file using Pandoc. This may take some time." = "Ag tiontú comhaid ag baint úsáide as Pandoc. D’fhéadfadh sé seo roinnt ama a thógáil.";
+"Exporting file using Pandoc. This may take some time." = "Ag easpórtáil comhaid ag baint úsáide as Pandoc. D’fhéadfadh sé seo roinnt ama a thógáil.";
+
+"Uploading in progress…" = "Ag uaslódáil ar siúl…";
+"Do not show this again" = "Ná taispeáin seo arís";
+
+/* Word Count */
+"Minute" = "Nóiméad";
+"Line" = "Líne";
+"Word" = "Focal";
+"Character" = "Carachtar";
+
+"Minutes" = "Nóiméid";
+"Lines" = "Línte";
+"Words" = "Focail";
+"Characters" = "Carachtair";
+"In Selection" = "Sa Roghnú";
+"Panel" = "Painéal";
+
+/* Windows Preferences Panel*/
+"Appearance" = "Dealramh";
+"System Native" = "Córas Dúchasach";
+"Unibody" = "Aonchorp";
+"(applied after restart)" = "(curtha i bhfeidhm tar éis atosaithe)";
+"Status Bar" = "Barra Stádais";
+"Show status bar" = "Taispeáin barra stádais";
+"Save & Recover" = "Sábháil & Aisghabháil";
+"Auto Save" = "Sábháil Uathoibríoch";
+"Recover Unsaved Drafts" = "Aisghabháil Dréachtaí Gan Sábháil";
+"Emoji Autocomplete" = "Uathchríochnú Emoji";
+"Trigger by ESC key" = "Truicear le eochair ESC";
+"Trigger automatically" = "Truicear go huathoibríoch";
+"Default Line Ending" = "Deireadh Líne Réamhshocraithe";
+"Line ending for new file" = "Deireadh líne le haghaidh comhad nua";
+"Spell Check" = "Seiceáil Litrithe";
+"Auto correct spelling" = "Litriú uathoibríoch ceartúcháin";
+"System" = "Córas";
+"Privacy" = "Príobháideacht";
+"Developer" = "Forbróir";
+"Update" = "Nuashonrú";
+"Check Updates" = "Seiceáil Nuashonruithe";
+"Check updates automatically" = "Seiceáil nuashonruithe go huathoibríoch";
+"Advanced Settings" = "Socruithe Ardleibhéil";
+"Open Advanced Settings" = "Oscail Socruithe Ardleibhéil";
+"Reset Advanced Settings" = "Athshocraigh Socruithe Ardleibhéil";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "Éilíonn an fheidhm seo an leagan is déanaí de iPic a shuiteáil.";
+"Get iPic" = "Faigh iPic";
+"Cannot Continue…" = "Ní féidir leanúint ar aghaidh…";
+"This feature require macOS >= 10.11" = "Éilíonn an ghné seo macOS >= 10.11";
+"One More Step" = "Céim amháin eile";
+"Notice" = "Fógra";
+
+"%d Images Failed to Upload." = "Theip ar %d Íomhá a Uaslódáil.";
+"%d Succeeded," = "%d D'éirigh leis, ";
+"Enable this feature on preferences panel" = "Cumasaigh an ghné seo ar an bpainéal roghanna";
+"The option `%@` must be enabled first to automatically upload images." = "Ní mór an rogha `%@` a chumasú ar dtús chun íomhánna a uaslódáil go huathoibríoch.";
+"%@ is a file, not a directory" = "Is comhad é %@, ní eolaire";
+"Copy Images To…" = "Cóipeáil Íomhánna Chuig…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Tá Typora ag iarraidh an íomhá nua-churtha isteach a chóipeáil chuig an bhfillteán %@ de réir do shocruithe YAML Front Matter nó do chuid sainroghanna domhanda. Ach níl an fillteán sprice ann, cruthaigh é anois?";
+"Create Folder and Continue" = "Cruthaigh Fillteán agus Lean ar aghaidh";
+"Document must be saved first" = "Ní mór an doiciméad a shábháil ar dtús";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Déanfaidh Typora an íomhá nua-churtha isteach a chóipeáil chuig an bhfillteán tríd an gcosán coibhneasta roghnaithe, mar sin sábháil an comhad ar dtús le do thoil.";
+"Open Operation Failed" = "Theip ar an Oibríocht Oscailte";
+
+"Support Documentation" = "Doiciméadacht Tacaíochta";
+
+"Markdown File" = "Comhad Markdown";
+"Plain Text File" = "Comhad Téacs Gnáth";
+"All Files" = "Gach Comhad";
+"All Supported Formats" = "Gach Formáid Tacaithe";
+"Discard Changes" = "Scrios Athruithe";
+"Discard" = "Caith uait";
+
+"Menu" = "Roghchlár";
+"Back" = "Ar ais";
+
+"Contact" = "Teagmháil";
+"Open From..." = "Oscailte Ó...";
+"Import..." = "Iompórtáil...";
+"Recent Documents" = "Doiciméid Le Déanaí";
+"Search for" = "Cuardaigh";
+"Clear Recent Documents" = "Glan Doiciméid Le Déanaí";
+"File Name" = "Ainm Comhaid";
+"Path" = "Cosán";
+"Export As..." = "Easpórtáil Mar...";
+"More Formats" = "Tuilleadh Formáidí";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Ní mór <a class='open-pandoc-guide'>Pandoc a shuiteáil</a> le haghaidh formáidí comhaid faoi na rannóga 'Tuilleadh Formáidí'.";
+"Something is Wrong…" = "Tá rud éigin mícheart…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Theip ar ábhar a shábháil ar chúis éigin.<br/>D’fhéadfá an t-ábhar a chóipeáil isteach i bhfuinneog nua Typora, agus ansin é a shábháil. <br/>Faigh tuilleadh eolais faoi:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Tuairiscigh fabhtanna dúinn</a></li><li><a href='https://support.typora.io/Version-Control/'>Aisghabháil ábhar caillte</a></li></ul>";
+"Copy Content" = "Cóipeáil Ábhar";
+
+
+"Total" = "Iomlán";
+"Word count only support OS X later than 10.10." = "Ní thacaíonn comhaireamh focal ach le OS X níos déanaí ná 10.10.";
+"Indent Size for Code" = "Méid Eangaithe don Chód";
+"Auto wrap long lines" = "Línte fada fillte go huathoibríoch";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Tá brón orm, ní phriontálann an leagan reatha de Typora dath cúlra. \nMar sin, níl tacaíocht ann don téama dorcha le haghaidh priontála go fóill.  \n\nRoghnaigh téama éadrom nó easpórtáil an doiciméad seo go PDF le do thoil.";
+"Export to PDF" = "Easpórtáil go PDF";
+"Pretty indentation" = "Eangú deas";
+"Update markdown reference for this image" = "Nuashonraigh tagairt marcála síos don íomhá seo";
+
+"No special action" = "Gan aon ghníomh speisialta";
+"Copy image to current folder (./)" = "Cóipeáil íomhá chuig an bhfillteán reatha (./)";
+"Copy image to ./assets" = "Cóipeáil íomhá chuig ./assets";
+"Copy image to ./${filename}.assets" = "Cóipeáil íomhá chuig ./${filename}.assets";
+"Apply above rules to local images" = "Cuir na rialacha thuas i bhfeidhm ar íomhánna áitiúla";
+"Apply above rules to online images" = "Cuir na rialacha thuas i bhfeidhm ar íomhánna ar líne";
+"Allow upload images automatically based on YAML settings" = "Ceadaigh íomhánna a uaslódáil go huathoibríoch bunaithe ar shocruithe YAML";
+
+"Learn More" = "Foghlaim Tuilleadh";
+"Whitespace / Line Break" = "Spás Bán / Briseadh Líne";
+"When Writing" = "Agus tú ag Scríobh";
+"Export / Print" = "Easpórtáil / Priontáil";
+"Preserve sequential whitespace and single line break" = "Coinnigh spás bán agus sos líne aonair";
+"Ignore sequential whitespace and single line break" = "Déan neamhaird de spás bán agus briseadh líne aonair";
+
+"Quit" = "Scoir";
+"Quit Typora when last window is closed" = "Scoir Typora nuair a bhíonn an fhuinneog dheireanach dúnta";
+"On Launch" = "Ar an Seoladh";
+"Open new file" = "Oscail comhad nua";
+"Restore last closed folders" = "Athchóirigh na fillteáin dheireanacha a dúnadh";
+"Restore last closed files and folders" = "Athchóirigh na comhaid agus na fillteáin dheireanacha a dúnadh";
+"Open custom folder" = "Oscail fillteán saincheaptha";
+"Select custom folder" = "Roghnaigh fillteán saincheaptha";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Féadfar an rogha seo a shárú le \"Dún fuinneoga agus feidhmchlár á scor\" i Roghanna an Chórais";
+
+"Ignore" = "Déan neamhaird de";
+"Choose Default Folder" = "Roghnaigh Fillteán Réamhshocraithe";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Tiontaigh ar Ionchur</strong>: Cuir isteach fleascáin nó comharthaí athfhriotail ASCII, tiontaithe agus sábháilte mar chomharthaí athfhriotail chatacha nó fleascáin unicode.<br/><strong>Tiontaigh ar Rindreáil</strong>: Cuir isteach agus sábháil mar fhleascáin nó comharthaí athfhriotail ASCII, rindreáil mar chomharthaí athfhriotail chatacha nó fleascáin unicode.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Aithnigh poncaíochtaí unicode mar poncaíochtaí ASCII agus marcáil síos á pharsáil, m.sh.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src ’title’)</pre>Cuirfear ar siúl é go huathoibríoch má dhéantar comharthaí athfhriotail/fleascáin chliste a thiontú ar ionchur.<div>";
+
+"Copy image to custom folder" = "Cóipeáil íomhá chuig fillteán saincheaptha";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Sonraigh cosán coibhneasta chuig an bhfillteán reatha a thosaíonn le './' nó '../', nó cosán absalóideach fillteáin. (`${filename}` a léiríonn ainm comhaid reatha.)";
+"Restore to previous setting" = "Athchóirigh chuig an socrú roimhe seo";
+"Folder not exist at %@, please input another path." = "Níl an fillteán ann ag %@, cuir isteach cosán eile le do thoil.";
+"Please input a folder path." = "Cuir isteach cosán fillteáin le do thoil.";
+"Cannot use root path." = "Ní féidir an cosán fréimhe a úsáid.";
+
+"Get Themes" = "Faigh Téamaí";
+"File/directory already exists at target path." = "Tá comhad/eolaire ann cheana féin ag an gcosán sprice.";
+"Keep Both" = "Coinnigh an dá cheann";
+"Are you sure you want to move %@?" = "An bhfuil tú cinnte gur mian leat %@ a bhogadh?";
+
+"Are you sure you want to delete %@?" = "An bhfuil tú cinnte gur mian leat %@ a scriosadh?";
+"You can restore from the Trash." = "Is féidir leat é a athchóiriú ón mBruscar.";
+
+"Reset All Dialog Warnings" = "Athshocraigh Gach Rabhadh Dialóige";
+"Dialogs" = "Dialóga";
+"Dialog warnings have been reset." = "Tá rabhaidh dialóige athshocraithe.";
+
+"Operation Failed" = "Theip ar an Oibríocht";
+"Failed to move target file or folder to trash" = "Theip ar an gcomhad nó an fillteán sprice a bhogadh chuig an mbruscar";
+
+"Undo %@" = "Cuir ar ceal %@";
+"Rename %@" = "Rename %@";
+"Copy %@" = "Cóipeáil %@";
+"Move %@" = "Bog %@";
+"Delete %@" = "Scrios %@";
+
+"Turn off Typewriter / Focus Mode" = "Múch Mód Clóscríbhneora / Fócais";
+"Typewriter / Focus Mode have been turned off." = "Tá Mód Clóscríbhneora / Fócais múchta.";
+
+"Reading Speed" = "Luas Léitheoireachta";
+"Auto" = "Uathoibríoch";
+"words / min" = "focail / nóiméad";
+
+"Reset to Default" = "Athshocraigh go Réamhshocrú";
+"120  words/minute (Slow)" = "120 focal/nóiméad (Mall)";
+"240  words/minute (Medium)" = "240 focal/nóiméad (Meánach)";
+"382  words/minute (Fast)" = "382 focal/nóiméad (Gasta)";
+
+"Copy and update image source to…" = "Cóipeáil agus nuashonraigh foinse na híomhá chuig…";
+"Updater" = "Nuashonraitheoir";
+"Install Updates ?" = "Nuashonruithe a shuiteáil?";
+"Quit and Install" = "Scoir agus Suiteáil";
+"Download failed" = "Theip ar an íoslódáil";
+"Downloading Updates…" = "Nuashonruithe á n-íoslódáil…";
+"Checking Updates…" = "Ag Seiceáil Nuashonruithe…";
+"Check Update Failed" = "Theip ar an Nuashonrú Seiceála";
+"You're up to date!" = "Tá tú suas chun dáta!";
+"Latest version is $1, your version is $2" = "Is é $1 an leagan is déanaí, is é $2 do leagan féin";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Is féidir na roghanna seo a athrú freisin faoin roghchlár \"Eagar→Spás Bán agus Briseadh Líne\"";
+"Auto escape image URL when insert" = "URL íomhá uathoibríoch éalaithe nuair a chuirtear isteach é";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Mar shampla, má chuireann tú comhad isteach ag 'img/example file.png', beidh sé ina 'img/example%20file.png'. Cumasaigh é seo le haghaidh comhoiriúnachta níos fearr le hinnill Markdown eile, nó díchumasaigh é seo le haghaidh inléiteachta níos fearr.";
+"Check updates automatically" = "Seiceáil nuashonruithe go huathoibríoch";
+"Skip This Version" = "Scipeáil ar an Leagan Seo";
+"Remind Me Later" = "Cuir i gcuimhne dom níos déanaí";
+"Download Update" = "Íoslódáil Nuashonrú";
+"New version available." = "Leagan nua ar fáil.";
+
+"When copy / export as HTML (without style)" = "Nuair a chóipeáiltear/a easpórtáiltear mar HTML (gan stíl)";
+"Use Rendered SVG" = "Úsáid SVG Rindreáilte";
+"Use LaTeX Source" = "Úsáid Foinse LaTeX";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>Glac éifeachtaí nuair a dhéantar onnmhairiú mar HTML (gan stíleanna) nó cóipeáil mar chód HTML, nó cóipeáil gan stíl téama.<br/>Nuair a roghnaítear <strong>Úsáid Foinse LaTeX</strong>, cuirfidh Typora an fhoinse LaTeX amh (m.sh.: $X^2$) i bhfeidhm.<br/>Nuair a roghnaítear <strong>Úsáid SVG Rindreáilte</strong>, úsáidfear an SVG rindreáilte. Má ghreamaíonn tú chuig aip eile, d'fhéadfaí neamhaird a dhéanamh de SVG.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "Éilíonn feidhm allmhairithe agus roinnt formáidí easpórtála go mbeidh Pandoc (≥%@) suiteáilte.";
+"Do not show this message again" = "Ná taispeáin an teachtaireacht seo arís";
+
+"Page Break Between Top Headings" = "Briseadh Leathanaigh Idir na Ceannteidil is Fearr";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Tá brón orm, tharla earráid éigin, tá an t-ábhar scríbhneoireachta reatha cóipeáilte chuig an ghearrthaisce. Is féidir leat é seo a thuairisciú do <hi@typora.io> chun cabhrú linn an earráid seo a shocrú.";
+"Try Recovery" = "Bain triail as Aisghabháil";
+"Other Options for Data Recovery" = "Roghanna Eile le haghaidh Aisghabhála Sonraí";
+
+"When Insert" = "Nuair a Ionsáigh";
+"Upload image" = "Uaslódáil íomhá";
+"e.g: %@" = "m.sh.: %@";
+"Test Uploader" = "Uaslódálaí Tástála";
+"Validating" = "Ag bailíochtú uaslódálaí íomhánna";
+"Validation Failed" = "Theip ar an mBailíochtú";
+"Validation Succeed" = "Bailíochtú Rathúil";
+"Testing image uploading using command:" = "Tástáil uaslódáil íomhá ag baint úsáide as an ordú:";
+"Running… Waiting for results." = "Ag rith… Ag fanacht le torthaí.";
+"Output from the console:" = "Aschur ón gconsól:";
+"Error from the console:" = "Earráid ón gconsól:";
+"Failed to fetch uploaded image from command output." = "Theip ar íomhá uaslódáilte a fháil ó aschur an ordaithe.";
+"Successfully get uploaded image url." = "Uaslódáileadh url na híomhá go rathúil.";
+"Image Uploader" = "Uaslódálaí Íomhá";
+"Instructions" = "Treoracha";
+"Download %@" = "Íoslódáil %@";
+"Image Upload Setting" = "Socrú Uaslódála Íomhá";
+"Please set an image uploader in Preferences panel before using this function." = "Socraigh uaslódálaí íomhá sa phainéal Roghanna sula n-úsáideann tú an fheidhm seo.";
+"Download or Upgrade" = "Íoslódáil nó Uasghrádú";
+"Open Config File" = "Oscail Comhad Cumraíochta";
+"Command" = "Ordú";
+"PicGo Path" = "Cosán PicGo";
+"Path of PicGo binary" = "Cosán dénártha PicGo";
+"Executable" = "Inrite";
+"Checking" = "Ag seiceáil";
+"Download" = "Íoslódáil";
+"Agree and Download" = "Aontaigh agus Íoslódáil";
+"Download and Reinstall" = "Íoslódáil agus Athshuiteáil";
+"Loading PicGo-Core License" = "Ag luchtú Ceadúnas PicGo-Core";
+"Failed to get installed version of PicGo-Core (command line)" = "Theip ar leagan suiteáilte de PicGo-Core (líne ordaithe) a fháil";
+"You have the latest PicGo-Core (CLI)" = "Tá an leagan is déanaí de PicGo-Core (CLI) agat";
+"Newer version is available" = "Tá leagan níos nuaí ar fáil";
+
+"Downloading…" = "Ag íoslódáil…";
+"Unzipping…" = "Ag dízipeáil…";
+"Finished" = "Críochnaithe";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Seolfaidh Typora aip tríú páirtí le cosáin chomhaid na n-íomhánna áitiúla go léir. Beidh rochtain ag an uaslódálaí íomhánna agus ag an stóras íomhánna scamall ar d’íomhánna áitiúla ansin. An bhfuil tú cinnte leanúint ar aghaidh?";
+
+"Export operation finished successfully." = "Críochnaíodh an oibríocht easpórtála go rathúil.";
+
+"Shortcut Keys" = "Eochracha Aicearra";
+"Custom Shortcut Keys" = "Eochracha Aicearra Saincheaptha";
+
+"Theme" = "Téama";
+"Light Theme" = "Téama Éadrom";
+"Dark Theme" = "Téama Dorcha";
+"Use separate theme in dark mode" = "Úsáid téama ar leithligh i mód dorcha";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "Tacaithe ar macOS ≥ 10.15 nó Windows 10 ≥ 1903";
+"Convert -- to – (en dash), and --- to — (em dash)" = "Tiontaigh -- go – (fleascán en), agus --- go — (fleascán em)";
+"Convert -- and --- to — (em dash)" = "Tiontaigh -- agus --- go — (fleasc em)";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "D’fhéadfá patrúin athfhriotail a shocrú i Roghanna Córais → Méarchlár → Téacs. Má athraítear é, beidh atosú ag teastáil ó Typora chun é a chur i bhfeidhm.";
+
+
+"Paper Size" = "Méid Páipéir";
+"US Letter" = "Litir SAM";
+"US Legal" = "Dlí SAM";
+"Tabloid" = "Tablóid";
+"Page Break" = "Briseadh Leathanaigh";
+"Page Break Between Top Headings" = "Briseadh Leathanaigh Idir na Ceannteidil is Fearr";
+"Header" = "Ceanntásc";
+"Footer" = "Buntásc";
+"Author" = "Údar";
+"Append in <head />" = "Cuir i <head />";
+"Append in <body />" = "Cuir i <body />";
+"Include Outline Sidebar" = "Cuir Barra Taobh Imlíne san áireamh";
+"Width" = "Leithead";
+"Command" = "Ordú";
+"Show Save File Dialog" = "Taispeáin an Dialóg Sábháil Comhad";
+"File Extensions for Export" = "Síneadh Comhad le haghaidh Easpórtála";
+"Arguments" = "Argóintí";
+"Extra Arguments" = "Argóintí Breise";
+"LaTeX Engine" = "Inneall LaTeX";
+"Template" = "Teimpléad";
+"Empty" = "Folamh";
+"Style Reference" = "Tagairt Stíle";
+"Custom CSS" = "CSS saincheaptha";
+"Chapter Level" = "Leibhéal Caibidle";
+"Default Folder for Exported File" = "Fillteán Réamhshocraithe le haghaidh Comhad Easpórtáilte";
+"Same folder with current file" = "Fillteán céanna leis an gcomhad reatha";
+"Custom location" = "Suíomh saincheaptha";
+"(Auto Detect)" = "(Braith Uathoibríoch)";
+"After Export" = "Tar éis Easpórtála";
+"Open exported file location" = "Oscail suíomh an chomhaid onnmhairithe";
+"Open exported file" = "Oscail an comhad easpórtáilte";
+"Custom" = "Saincheaptha";
+"None" = "Dada";
+"Default" = "Réamhshocrú";
+"Margin" = "Corrlach";
+"Margin Left" = "Corrlach Clé";
+"Margin Right" = "Corrlach Dheis";
+"Margin Top" = "Corrlach Barr";
+"Margin Bottom" = "Corrlach Bun";
+"Width x Height" = "Leithead x Airde";
+"Add From a Template" = "Cuir leis ó Theimpléad";
+"Delete this export option ?" = "Scrios an rogha easpórtála seo?";
+"Add" = "Cuir leis";
+"Delete" = "Scrios";
+"Rename" = "Athainmnigh";
+"Move Down" = "Bog Síos";
+"Move Up" = "Bog Suas";
+"Pandoc Path" = "Cosán Pandoc";
+"Select" = "Roghnaigh";
+"Target Format" = "Formáid Sprioc";
+"auto detect based on target file path" = "braiteadh uathoibríoch bunaithe ar chonair chomhaid sprice";
+"Target File Extensions (separate by whitespace)" = "Síneadh Comhad Spriocdhírithe (scartha le spás bán)";
+"e.g: .text .asciidoc or leave this empty" = "m.sh.: .text .asciidoc nó fág folamh é seo";
+"Raw Type" = "Cineál Amh";
+"Auto" = "Uathoibríoch";
+"Show Save File Dialog" = "Taispeáin an Dialóg Sábháil Comhad";
+"Do not popup save file dialog" = "Ná cuir aníos an dialóg sábháil comhaid";
+"Select file path to save" = "Roghnaigh cosán comhaid le sábháil";
+"Select folder path to save" = "Roghnaigh cosán fillteáin le sábháil";
+"PDF Engine" = "Inneall PDF";
+"Show command output" = "Taispeáin aschur an ordaithe";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "Scríobhfaidh \"Easpórtáil agus Forscríobh leis an Roimhe Seo\" an comhad ag %@, an leanfá ar aghaidh?";
+"Command Arguments:" = "Argóintí Ordaithe:";
+"This dev version of Typora is expired, please download and install a newer version." = "Tá an leagan forbartha seo de Typora imithe in éag, íoslódáil agus suiteáil leagan níos nuaí le do thoil.";
+"Current Theme" = "Téama Reatha";
+"After Export" = "Tar éis Easpórtála";
+"Run command" = "Rith an t-ordú";
+"Run command after export failed" = "Rith ordú tar éis theip ar an easpórtáil";
+"Read and overwrite export settings from YAML front matters" = "Léigh agus athscríobh socruithe easpórtála ó chúrsaí tosaigh YAML";
+"Append Extra Content (HTML)" = "Cuir Ábhar Breise (HTML) leis";
+"Change this option to specify a separated theme for export." = "Athraigh an rogha seo chun téama scartha a shonrú le haghaidh easpórtála.";
+"Dark theme is not supported." = "Ní thacaítear leis an téama dorcha.";
+
+"Markdown Variants" = "Malartacha Lascaine";
+"Original Unextended Markdown" = "Marcáil Anuas Gan Leathnú Bunaidh";
+"CommonMark with many pandoc extensions" = "CommonMark le go leor síntí pandoc";
+"Line Wrap" = "Fillteán Líne";
+"Hard line wrap" = "Timfhilleadh líne chrua";
+"Text Column Width" = "Leithead Colún Téacs";
+"Auto (based on current OS)" = "Uathoibríoch (bunaithe ar an gcóras oibriúcháin reatha)";
+"Indent" = "Eangaigh";
+"Preserve tabs" = "Caomhnaigh na cluaisíní";
+"2 spaces per tab" = "2 spás in aghaidh an chluaisín";
+"3 spaces per tab" = "3 spás in aghaidh an chluaisín";
+"4 spaces per tab" = "4 spás in aghaidh an chluaisín";
+"Unicode Characters" = "Carachtair Unicode";
+"Use only ASCII characters in output" = "Ná húsáid ach carachtair ASCII san aschur";
+"Use reference-style links rather than inline links" = "Bain úsáid as naisc i stíl tagartha seachas naisc inlíne";
+"Footnotes and References Location" = "Nótaí Cos agus Tagairtí Suíomh";
+"End of document" = "Deireadh an doiciméid";
+"End of current (top-level) block" = "Deireadh an bhloic reatha (barr-leibhéal)";
+"End of current section" = "Deireadh na coda reatha";
+"Convert TeX formulas to web images" = "Tiontaigh foirmlí TeX go híomhánna gréasáin";
+"Image Format" = "Formáid Íomhá";
+
+"Set Pandoc Path" = "Socraigh Cosán Pandoc";
+
+"Apply Line Break at \\ and &#92;newline" = "Cuir Briseadh Líne i bhfeidhm ag \\ agus &#92;líne nua";
+
+"Export operation succeeded with warnings." = "D’éirigh leis an oibríocht easpórtála ach tugadh rabhaidh.";
+
+"Typora is now deactivated" = "Tá Typora díghníomhachtaithe anois";
+"This device has been deactivated" = "Tá an gléas seo díghníomhachtaithe";
+"UNREGISTERED" = "NEAMHCHLÁRAITHE";
+
+"Your Typora is not activated." = "Níl do Typora gníomhachtaithe.";
+"Your Typora has been activated." = "Tá do Typora gníomhachtaithe.";
+"Typora activation is required to change this." = "Tá gníomhachtú Typora ag teastáil chun seo a athrú.";
+"You can reinstall the stable version and then disable this." = "Is féidir leat an leagan cobhsaí a athshuiteáil agus ansin é seo a dhíchumasú.";
+"Update to dev version" = "Nuashonrú chuig leagan an fhorbróra";
+
+"Typora Server" = "Freastalaí Typora";
+"Use Typora Server in China" = "Bain úsáid as Freastalaí Typora sa tSín";
+
+"File does not exist" = "Níl an comhad ann";
+"Create File" = "Cruthaigh Comhad";
+"Create Folder" = "Cruthaigh Fillteán";
+
+"(Some options will be applied after restart.)" = "(Cuirfear roinnt roghanna i bhfeidhm tar éis atosaithe.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Cóipeáil nó gearr na línte iomlána a bhfuil cúrsóirí orthu, mura bhfuil aon rogha ann agus cóipeáil/gearradh á dhéanamh.";
+"Enable physics package" = "Cumasaigh pacáiste fisice";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Athshaineoidh an pacáiste fisice roinnt macraí laitéis, amhail \\div, \\Re, srl.";
+
+"Detail" = "Sonra";
+"Use custom font size" = "Úsáid méid cló saincheaptha";
+"Use theme font size" = "Úsáid méid cló an téama";
+
+"You are using the Snap version, it may have limited access to your local executables." = "Tá tú ag úsáid an leagan Snap, d'fhéadfadh rochtain theoranta a bheith aige ar do chomhaid inrite áitiúla.";
+
+"No local images found." = "Níor aimsíodh aon íomhánna áitiúla.";
+
+"File Format:" = "Formáid Comhaid:";
+
+"Images copied to %@." = "Íomhánna cóipeáilte chuig %@.";
+"Images moved to %@." = "Íomhánna bogtha go %@.";
+
+"Custom Command" = "Ordú Saincheaptha";
+"No Automatic Equation Numbering" = "Gan Uimhriú Cothromóidí Uathoibríoch";
+"Use AMS Numbering Rules" = "Úsáid Rialacha Uimhrithe AMS";
+"Auto Numbering for All Math Equations" = "Uimhriú Uathoibríoch do Gach Cothromóid Matamaitice";
+
+"Preferred Image Syntax" = "Comhréir Íomhá is Fearr";
+"Add ./ for relative path" = "Cuir ./ leis le haghaidh cosáin choibhneasta";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Nuair a bheidh sé cumasaithe, úsáidfidh Typora patrún cosúil le ./assets/image.png in ionad assets/image.png agus cosán coibhneasta á ghiniúint le haghaidh íomhánna a cuireadh isteach.";
+
+"Image Quality" = "Cáilíocht Íomhá";
+"Medium" = "Meánach";
+"High" = "Ard";
+"Best" = "Is Fearr";
+
+"Use Shift+Tab to auto indent selected code" = "Úsáid Shift+Tab chun an cód roghnaithe a ionchorprú go huathoibríoch";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Nuair a bhíonn sé díchumasaithe, cuirfidh Shift+Tab eangú i bhfeidhm go huathoibríoch ar an gcód roghnaithe nó ar an líne reatha i mbloic chóid.";
+
+"Auto Links (e.g: https://typora.io)" = "Naisc Uathoibríocha (m.sh.: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Nuair a bheidh sé cumasaithe, aithneoidh agus airdeoidh Typora URLanna go huathoibríoch (e.g.: https://typora.io nó mailto:hi@typora.io) sa téacs.";
+
+"Files" = "Comhaid";
+"Default File Type / Extension" = "Cineál Comhaid Réamhshocraithe / Síneadh";
+"Custom Extension:" = "Síneadh Saincheaptha:";
+"Following extensions are supported: %@" = "Tacaítear leis na síntí seo a leanas: %@";
+"e.g: %@" = "m.sh.: %@";
+"When drop file / folder into Typora" = "Nuair a scaoileann tú comhad / fillteán isteach i Typora";
+"When drop folder" = "Nuair a scaoileann tú fillteán";
+"When drop markdown file" = "Nuair a scaoileann tú comhad marcála síos";
+"When drop files that can be imported" = "Nuair a scaoileann tú comhaid is féidir a allmhairiú";
+"Open in Typora" = "Oscailte i Typora";
+"Insert Folder Link" = "Cuir Nasc Fillteáin Isteach";
+"Insert File Link" ="Cuir Nasc Comhaid isteach";
+"Import File" = "Iompórtáil Comhad";
+
+"Diagram Options" = "Roghanna Léaráide";
+"Default Code Language" = "Teanga Cód Réamhshocraithe";
+"(None)" = "(Dada)";
+"Last Used" = "Úsáidte Deiridh";
+"Apply Default Code Language When" = "Cuir Teanga Cód Réamhshocraithe i bhFeidhm Nuair";
+"When add code fences via Markdown" = "Nuair a chuirtear fálta cóid leis trí Markdown";
+"When add code fences via Menubar" = "Nuair a chuirtear fálta cóid leis tríd an mBarra Roghchláir";
+"Both" = "An dá cheann";
+
+"Pinned and Recent Locations" = "Pionnáilte agus Suímh le Déanaí";
+"Operation Succeeded" = "D'éirigh leis an Oibríocht";
+"Clear Recent Folders and Files" = "Glan Fillteáin agus Comhaid Le Déanaí";
+"Clear Recent Folders / Files Only" = "Glan Fillteáin/Comhaid Le Déanaí Amháin";
+"Clear Recent and Pinned Folders / Files" = "Glan Fillteáin/Comhaid Le Déanaí agus Priontáilte";
+"Also clear pinned folders" = "Glan an fillteán bioráilte freisins";
+"Pin" = "Pionnaigh";
+"Unpin" = "Díphionnaigh";
+"Remove from List" = "Bain den Liosta";
+"Record recent files and folders" = "Taifead comhaid agus fillteáin le déanaí";
+
+"System Integration" = "Comhtháthú Córais";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Cuir "Markdown" leis an roghchlár comhthéacs "Nua" in Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Scrios míreanna ón roghchlár comhthéacs "Nua" in Windows Explorer";
+"Please try sign out Windows to take effect." = "Déan iarracht logáil amach as Windows le go dtiocfaidh sé i bhfeidhm.";
+"Github Style Alert" = "Foláireamh Stíle Github";
+"Zoom when using mouse wheel and holding %@ key" = "Zúmáil agus roth na luiche á úsáid agus an eochair %@ á coinneáil síos";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Tá athruithe neamhshábháilte sa cháipéis reatha. Ar mhaith leat aistriú go dtí an comhad atá dúblaithe le déanaí?";
+
+"Chapter Level in Outline" = "Leibhéal Caibidle in Achoimre";
+"Enable inline math or code block math" = "Cumasaigh matamaitic inlíne nó matamaitic bhloc cóid";
+"Code Block Math  (```math code block)" = "Matamaitic Bloc Cód (```matamaitic bloc cód)";
+"PicList Path" = "Cosán PicList";
+
+"Auto Complete" = "Comhlánaigh Uathoibríoch";
+"Enable autocomplete for Emojis" = "Cumasaigh uathchríochnú le haghaidh Emojis";

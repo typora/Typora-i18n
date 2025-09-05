@@ -1,0 +1,205 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "Ceart go leor";
+"Cancel" = "Cealaigh";
+"Yes" = "Tá";
+"No" = "Níl";
+"Close" = "Dún";
+"Select" = "Roghnaigh";
+"Continue" = "Lean ar aghaidh";
+"Learn More…" = "Foghlaim Tuilleadh…";
+"Untitled" = "Gan Teideal";
+"Undo" = "Cuir ar ceal";
+"Dismiss" = "Díbhe";
+"Confirm" = "Deimhnigh";
+"Error" = "Earráid";
+
+/* Search Panel */
+"Search" = "Cuardaigh";
+"Replace" = "Athsholáthair";
+"All" = "Gach";
+"Search text not found in article" = "Níor aimsíodh téacs cuardaigh san alt";
+"search text" = "téacs cuardaigh";
+
+/* Quick Open */
+"Search by file name" = "Cuardaigh de réir ainm comhaid";
+"Searching" = "Ag cuardach";
+"Gathering more results" = "Tuilleadh torthaí a bhailiú";
+
+/* Tables */
+"Insert Table" = "Cuir Tábla isteach";
+"Columns" = "Colúin";
+"Rows" = "Rónna";
+"Align Left" = "Ailínigh ar Chlé";
+"Align Center" = "Ailínigh Lár";
+"Align Right" = "Ailínigh ar Dheis";
+"Resize Table" = "Athraigh Méid an Tábla";
+"Delete Table" = "Scrios Tábla";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Tá Typora ag iarraidh an íomhá nua-churtha isteach a chóipeáil chuig an bhfillteán <code id='image-create-folder-target'></code> de réir do shocruithe YAML Front Matter nó do chuid sainroghanna domhanda. Ach níl an fillteán sprice ann, cruthaigh é anois?";
+"Create Folder" = "Cruthaigh Fillteán";
+
+/* Math */
+"Edit" = "Cuir in Eagar";
+"Delete Math" = "Scrios Matamaitic";
+"Preview" = "Réamhamharc";
+
+/* Sidebar */
+"Articles" = "Airteagail";
+"Outline" = "Imlíne";
+"Files" = "Comhaid";
+"Switch to File List view" = "Athraigh go dtí an radharc Liosta Comhad";
+"Switch to File Tree view" = "Athraigh go dtí an radharc Crann Comhad";
+"Switch to Outline view" = "Athraigh go dtí an radharc Imlíne";
+"Close sidebar" = "Dún an barra taoibh";
+"Loading" = "Ag luchtú";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Tá an iomarca comhad sna fillteáin roghnaithe. \nAthraigh go <a id='switch-to-tree-on-oversize'>radharc crann comhaid</a> le haghaidh feidhmíocht níos fearr.";
+"New File" = "Comhad Nua";
+"Unpin Outline Panel" = "Díphionáil an Painéal Imlíne";
+"Open Folder..." = "Oscail Fillteán...";
+"Action" = "Gníomh";
+"Close Sidebar Menu" = "Dún an Roghchlár Barra Taoibh";
+"Reveal in Finder" = "Nochtadh san Aimsitheoir";
+"Reveal in File Explorer" = "Nochtadh i dTaiscéalaí Comhad";
+"Refresh Folder" = "Athnuachan Fillteán";
+"Sort" = "Sórtáil";
+"Group By Folder" = "Grúpáil de réir Fillteáin";
+"Sort Naturally (Ascending)" = "Sórtáil go Nádúrtha (Ardú)";
+"Sort Naturally (Descending)" = "Sórtáil go Nádúrtha (Íslitheach)";
+"Sort by Name (Ascending)" = "Sórtáil de réir Ainm (Ardú)";
+"Sort by Modification Date (Ascending)" = "Sórtáil de réir Dáta an Mhodhnaithe (Ardú)";
+"Sort by Name (Descending)" = "Sórtáil de réir Ainm (Íslitheach)";
+"Sort by Modification Date (Descending)" = "Sórtáil de réir Dáta an Athraithe (Íslitheach)";
+"Location" = "Suíomh";
+"Switch File List/Tree View" = "Athraigh Liosta Comhad/Radharc Crann";
+"No Files Available" = "Gan Comhaid Ar Fáil";
+"No Folder is Opened." = "Níl aon fhillteán oscailte.";
+"Outline is Empty." = "Tá an imlíne folamh.";
+
+/* Status Bar */
+"Toggle Sidebar" = "Barra Taobh a Athraigh";
+"Toggle Source Code Mode" = "Mód an Chóid Foinse a Athrú";
+"Exit Source Code Mode" = "Scoir Mód an Chóid Foinse";
+
+"Table of Contents" = "Clár Ábhair";
+"Empty Diagram" = "Léaráid Folamh";
+"Input Math TeX here" = "Iontráil Math TeX anseo";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Ní mór an fonóta tagartha <b>{0}</b> a shainiú le comhréir <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Ní mór an nasc tagartha <b>[{0}]</b> a shainiú le comhréir <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Sainmhínigh tagairt íomhá le do thoil le \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Theip ar chomhad a chruthú";
+"Failed to create folder" = "Theip ar fhillteán a chruthú";
+"Failed to rename file" = "Theip ar an gcomhad a athainmniú";
+"Folder does not exist at %@" = "Níl an fillteán ann ag %@";
+"File with the same name already exists at target path" = "Tá comhad leis an ainm céanna ann cheana féin ag an gcosán sprice";
+"Apply to All" = "Cuir i bhFeidhm ar Gach Duine";
+"Overwrite" = "Forscríobh";
+"Stop" = "Stad";
+"back to document" = "ar ais chuig an doiciméad";
+"Failed to load file" = "Theip ar an gcomhad a luchtú";
+"Save File Failed!" = "Theip ar an gComhad a Shábháil!";
+"Cannot open folder {0}" = "Ní féidir fillteán {0} a oscailt";
+
+"File content is changed by external applications. Reload content from disk ?" = "Athraíonn feidhmchláir sheachtracha ábhar an chomhaid. Athlódáil an t-ábhar ón diosca?";
+"Should continue moving and overwrite existing file(s) ?" = "Ar cheart leanúint ar aghaidh ag bogadh agus ag athscríobh an chomhaid/na gcomhad(anna) atá ann cheana?";
+
+"Rename to \"{0}\" ?" = "Athainmnigh go \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Theip ar athainmniú ó \"{0}\" go \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Uaslódáileadh {0} íomhá go rathúil.";
+"Failed to upload image. Error Message:" = "Theip ar an íomhá a uaslódáil. Teachtaireacht Earráide:";
+"Failed to Copy Image to Target Folder." = "Theip ar an íomhá a chóipeáil chuig an bhfillteán sprice.";
+"Select Container Folder" = "Roghnaigh Fillteán Coimeádáin";
+
+"Saved" = "Sábháilte";
+
+/* place holder in find & replace input */
+"search text" = "téacs cuardaigh";
+"replace with" = "cuir ina áit le";
+/* search option */
+"Case Sensitive" = "Cás-íogair";
+"Whole Word" = "Focal Iomlán";
+
+"input image URL" = "URL íomhá ionchuir";
+"Select image from local file" = "Roghnaigh íomhá ó chomhad áitiúil";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Ní féidir suíomh <code>$1</code> a oscailt, an bhfuil tú ag tagairt do <a href='$3' target='_blank' target='_blank'>$2</a>?";
+
+"Finish Editing" = "Críochnaigh an Eagarthóireacht";
+
+"Revert advanced setting file to default one ?" = "An comhad socruithe ardleibhéil a chur ar ais go dtí an ceann réamhshocraithe?";
+
+"Select Spell Check Language" = "Roghnaigh Teanga an tSeiceálaí Litrithe";
+"Auto Detect Language" = "Teanga a Bhraith go hUathoibríoch";
+"Disable Spell Check" = "Díchumasaigh Seiceáil Litrithe";
+"Global Setting…" = "Socrú Domhanda…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Tá comhad foclóra ar iarraidh chun tacaíocht litrithe a chumasú do %@.";
+"Install Language Support" = "Suiteáil Tacaíocht Teanga";
+"License Information" = "Faisnéis Ceadúnais";
+"Download" = "Íoslódáil";
+"Install dictionary file only for Typora" = "Suiteáil comhad foclóra le haghaidh Typora amháin";
+"Spell Check (%@ unavailable)" = "Seiceáil Litrithe (%@ ar fáil)";
+"Spell Check (%@ downloading)" = "Seiceáil Litrithe (%@ ag íoslódáil)";
+"Download dictionary file for %@" = "Íoslódáil comhad foclóra le haghaidh %@";
+"(Default spell check option)" = "(Rogha réamhshocraithe seiceála litrithe)";
+"Failed to load spellcheck module" = "Theip ar an modúl litrithe a luchtú";
+
+"<strong>%@</strong> has been turned on." = "Tá <strong>%@</strong> casta air.";
+"You could turn it off from `View` menu." = "D’fhéadfá é a mhúchadh ón roghchlár ‘Amharc’.";
+"The file is too large to render in Typora." = "Tá an comhad rómhór le rindreáil in Typora.";
+"Open in…" = "Oscail i…";
+"Quick Look" = "Amharc Tapa";
+
+"Filter" = "Scagaire";
+"No result found." = "Níor aimsíodh aon toradh.";
+"Continue & Overwrite" = "Lean ar aghaidh & Forscríobh";
+"The file is read-only, or you do not have right permissions to modify the file." = "Tá an comhad inléite amháin, nó níl na ceadanna cearta agat chun an comhad a mhodhnú.";
+
+"Learn Data Recovery" = "Foghlaim Aisghabháil Sonraí";
+"Auto refresh on Files Panel cannot be enabled." = "Ní féidir athnuachan uathoibríoch ar an bPainéal Comhad a chumasú.";
+"Delete Permanently" = "Scrios go Buan";
+
+
+"Failed to upload images:" = "Theip ar íomhánna a uaslódáil:";
+"Uploading in progress" = "Ag uaslódáil ar siúl";
+"Successfully uploaded {0} images, {1} failed." = "Uaslódáileadh {0} íomhá go rathúil, theip ar {1}.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "D’fhéadfá an oibríocht seo a chealú níos déanaí trí `Eagar` → `Cuir ar ceal`.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Is féidir leat brú a chur ar <strong>⌘ + Cliceáil</strong> chun <a href='#'>naisc</a> a oscailt nó léim go dtí sainmhíniú an nóta.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Is féidir leat brú a chur ar <strong>CTRL + Cliceáil</strong> chun <a href='#'>naisc</a> a oscailt nó léim go dtí sainmhíniú an nóta.";
+
+"<strong>Unibody</strong> style has been turned on." = "Tá stíl <strong>Unibody</strong> casta air.";
+"You can right click titlebar to popup application menu." = "Is féidir leat cliceáil ar dheis ar an mbarra teidil chun roghchlár an fheidhmchláir a fheiceáil.";
+
+"Support Document" = "Doiciméad Tacaíochta";
+
+"You are not supposed to edit or save this file." = "Ní cheart duit an comhad seo a chur in eagar ná a shábháil.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Déanann Typora bainistíocht ar na comhaid sa suíomh seo (%@), agus féadfar iad a scriosadh go huathoibríoch.<br/>Cóipeáil an t-ábhar chuig comhad nua le haghaidh eagarthóireachta breise.";
+
+"File does not exist at path %@." = "Níl an comhad ann ag an gcosán %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Níl an comhad ann ag an gcosán %@, ar mhaith leat ceann a chruthú ag an gcosán sin?";
+
+"No Results" = "Gan Torthaí";
+"Too many matches" = "An iomarca cluichí";
+"Regular Expression" = "Léiriú Rialta";
+
+"Sort by Creation Date (Ascending)" = "Sórtáil de réir Dáta Cruthaithe (Ardú)";
+"Sort by Creation Date (Descending)" = "Sórtáil de réir Dáta Cruthaithe (Íslitheach)";
+
+"code language" = "teanga chód";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Ní féidir an t-ainm a athrú ó $1 go $2, bain úsáid as \"Comhad\" → \"Bog Chuig…\" ón mbarra roghchláir ina ionad.";
+"Markdown file" = "Comhad Markdown";
+"TextBundle file" = "Comhad TextBundle";
+"Images saved to TextBundle" = "Íomhánna sábháilte chuig TextBundle";

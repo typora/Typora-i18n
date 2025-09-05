@@ -1,0 +1,367 @@
+/*
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Maidir le Typora";
+"Preferences" = "Roghanna";
+"Check for Updates" = "Seiceáil le haghaidh Nuashonruithe";
+"Services" = "Seirbhísí";
+"Hide Typora" = "Folaigh Typora";
+"Hide Others" = "Folaigh Eile";
+"Show All" = "Taispeáin Gach Rud";
+"Quit Typora" = "Scoir de Typora";
+
+/* File Menu */
+
+"File" = "Comhad";
+"New" = "Nua";
+"Open" = "Oscail";
+"Open Folder" = "Oscail Fillteán";
+"Reopen with Encoding" = "Athoscail le hIonchódú";
+"Auto" = "Uathoibríoch";
+"Open Recent" = "Oscail Le Déanaí";
+"Recent Locations" = "Suíomhanna Le Déanaí";
+"Clear Items" = "Glan Míreanna";
+"No Recent Files" = "Gan Comhaid Le Déanaí";
+"Open Quickly" = "Oscail go Tapaidh";
+"Open File Location" = "Oscail Suíomh an Chomhaid";
+"Reveal in Library" = "Nochtadh sa Leabharlann";
+"Reveal in File Tree" = "Nochtadh sa Chrann Comhad";
+"Close" = "Dún";
+"Save" = "Sábháil";
+"Save As" = "Sábháil Mar";
+"Duplicate" = "Dúblach";
+"Rename" = "Athainmnigh";
+"Move To" = "Bog Go";
+"Revert To" = "Fill ar";
+"Browse All Versions" = "Brabhsáil Gach Leagan";
+"Import" = "Iompórtáil";
+"Export" = "Easpórtáil";
+"Page Setup" = "Socrú Leathanaigh";
+"Print" = "Priontáil";
+
+/* Edit Menu */
+"Edit" = "Cuir in Eagar";
+"Undo" = "Cuir ar ceal";
+"Redo" = "Déan arís";
+"Cut" = "Gearr";
+"Copy" = "Cóipeáil";
+"Paste" = "Greamaigh";
+"Copy as Markdown" = "Cóipeáil mar Markdown";
+"Copy as HTML Code" = "Cóipeáil mar Chód HTML";
+"Paste as Plain Text" = "Greamaigh mar Théacs Gnáth";
+"Select All" = "Roghnaigh Uile";
+"Select Line / Sentence" = "Roghnaigh Líne / Abairt";
+"Select Styled Scope" = "Roghnaigh Raon Feidhme Stíleáilte";
+"Select Word" = "Roghnaigh Focal";
+"Delete" = "Scrios";
+"Delete Range" = "Scrios Raon";
+"Delete Word" = "Scrios Focal";
+"Delete Styled Scope" = "Scrios Raon Feidhme Stíleáilte";
+"Delete Line / Sentence" = "Delete Line / Sentence";
+"Jump To" = "Léim go";
+"Jump to Top" = "Léim go Barr";
+"Jump to Selection" = "Léim go dtí an Roghnú";
+"Jump to Bottom" = "Léim go Bun";
+"Math Tools" = "Uirlisí Matamaitice";
+"Refresh All Math Expressions" = "Athnuaigh Gach Sloinnt Matamaitice";
+"Image Tools" = "Uirlisí Íomhá";
+"Insert Local Images" = "Ionsáigh Íomhánna áitiúla";
+"Upload Local Images via iPic" = "Uaslódáil Íomhánna Áitiúla trí iPic";
+"When Insert Local Image" = "Nuair a chuirtear Íomhá Áitiúil Isteach";
+"Copy Image File to Folder" = "Cóipeáil Comhad Íomhá chuig Fillteán";
+"Use Image Root Path" = "Úsáid Cosán Fréamh Íomhá";
+"Line Endings" = "Deireadh Líne";
+"Windows Line Endings (CRLF)" = "Deireadh Líne Windows (CRLF)";
+"Unix Line Endings (LF)" = "Deireadh Líne Unix (LF)";
+"Find" = "Aimsigh";
+"Find Next" = "Aimsigh Ar Aghaidh";
+"Find Previous" = "Aimsigh Roimhe Seo";
+"Find and Replace" = "Aimsigh agus Ionadaigh";
+"Replace" = "Ionadaigh";
+"Replace Next" = "Ionadaigh Ar Aghaidh";
+"Spelling and Grammar" = "Litriú agus Gramadach";
+"Check Document Now" = "Seiceáil an Doiciméad Anois";
+"Check Spelling While Typing" = "Seiceáil Litriú agus Clóscríobh";
+"Check Grammar With Spelling" = "Seiceáil Gramadach le Litriú";
+"Correct Spelling Automatically" = "Ceartú Litrithe go hUathoibríoch";
+"Substitutions" = "Ionadaithe";
+"Smart Quotes" = "Sleachta Cliste";
+"Smart Dashes" = "Dashes Cliste";
+"Text Replacement" = "Athsholáthar Téacs";
+"Speech" = "Óráid";
+"Start Speaking" = "Tosaigh Urlabhra";
+"Stop Speaking" = "Stop Urlabhra";
+
+/* Paragraph Menu */
+"Paragraph" = "Paragraf";
+"Heading 1" = "Ceannteideal 1";
+"Heading 2" = "Ceannteideal 2";
+"Heading 3" = "Ceannteideal 3";
+"Heading 4" = "Ceannteideal 4";
+"Heading 5" = "Ceannteideal 5";
+"Heading 6" = "Ceannteideal 6";
+"Increase Heading Level" = "Méadaigh Leibhéal an Cheannteidil";
+"Decrease Heading Level" = "Laghdaigh Leibhéal Ceannteidil";
+"Table" = "Tábla";
+"Code Fences" = "Fálta Cód";
+"Math Block" = "Bloc Matamaitice";
+"Quote" = "Luachan";
+"Ordered List" = "Liosta Ordaithe";
+"Unordered List" = "Liosta Gan Ordú";
+"Task List" = "Liosta Tascanna";
+"Task Status" = "Stádas na Tascanna";
+"Toggle Task Status" = "Stádas na Tascanna a Athrú";
+"Mark as Complete" = "Marcáil mar Chríochnaithe";
+"Mark as Incomplete" = "Marcáil mar Neamhchríochnaithe";
+"List Indentation" = "Intéadú Liosta";
+"Indent" = "Eangaigh";
+"Outdent" = "Dí-eangaigh";
+"Link Reference" = "Tagairt Nasc";
+"Footnotes" = "Nótaí Cos";
+"Horizontal Line" = "Líne Chothrománach";
+"Table of Contents" = "Clár na nÁbhar";
+"YAML Front Matter" = "Ábhar Tosaigh YAML";
+
+/* Format Menu */
+"Format" = "Formáid";
+"Strong" = "Láidir";
+"Emphasis" = "Béim";
+"Underline" = "Folínigh";
+"Code" = "Cód";
+"Inline Math" = "Matamaitic Inlíne";
+"Strike" = "Stailc";
+"Highlight" = "Aibhsigh";
+"Superscript" = "Forscríbhinn";
+"Subscript" = "Fo-scríbhinn";
+"Comment" = "Trácht";
+"Hyperlink" = "Hipirnasc";
+"Image" = "Íomhá";
+"Clear Format" = "Formáid Glan";
+
+/* View Menu */
+"View" = "Amharc";
+"New Tab" = "Cluaisín Nua";
+"Source Code Mode" = "Mód Cód Foinse";
+"Focus Mode" = "Mód Fócais";
+"Typewriter Mode" = "Mód Clóscríbhneora";
+"Toggle Sidebar" = "Scoránaigh Barra Taoibh";
+"Outline" = "Imlíne";
+"Articles" = "Airteagail";
+"File Tree" = "Crann Comhad";
+"Always on Top" = "I gcónaí ar a Bharr";
+"Full Screen" = "Lánscáileán";
+"Show Status Bar" = "Taispeáin Barra Stádais";
+"Toggle Fullscreen" = "Lánscáileán a Athsholáthar";
+"Actual Size" = "Méid iarbhír";
+"Zoom In" = "Zúmáil Isteach";
+"Zoom Out" = "Zúmáil Amach";
+"Switch Between Opened Documents" = "Athraigh Idir Doiciméid Oscailte";
+"Toggle DevTools" = "Uirlisí Forbróra a Athrú";
+
+
+/* Themes Menu */
+"Themes" = "Téamaí";
+
+/* Window Menu */
+"Window" = "Fuinneog";
+"Minimize" = "Íoslaghdaigh";
+"Zoom" = "Zúmáil";
+"Bring All to Front" = "Tabhair Gach Rud chun Tosaigh";
+
+/* Help Menu */
+"Help" = "Cabhair";
+"Privacy Policy" = "Polasaí Príobháideachais";
+"Credits" = "Creidmheasanna";
+"Change Log" = "Log Athraithe";
+"Website" = "Suíomh Gréasáin";
+"Feedback" = "Aiseolas";
+"About" = "Maidir";
+
+/* Touchbar */
+"Block Styles" = "Stíleanna Bloc";
+"Inline Styles" = "Stíleanna Inlíne";
+"List Styles / Remove Block" = "Stíleanna Liosta / Bain Bloc";
+"Exit Source Code Mode" = "Scoir Mód an Chóid Foinse";
+"Toggle Source Code Mode" = "Mód an Chóid Foinse a Athrú";
+
+/* Extra Context Menu */
+"Table" = "Tábla";
+"Add Row Above" = "Cuir Ró Thuas";
+"Add Row Below" = "Cuir Ró Faoi";
+"Delete Row" = "Scrios an Ró";
+"Add Column Before" = "Cuir Colún Roimhe";
+"Add Column After" = "Cuir Colún leis ina dhiaidh";
+"Delete Column" = "Scrios Colún";
+"Copy Table" = "Cóipeáil Tábla";
+"Delete Table" = "Scrios Tábla";
+"Insert Paragraph After" = "Ionsáigh Paragraf ina dhiaidh";
+"Insert Paragraph Before" = "Ionsáigh Paragraf Roimhe";
+"Delete Code Block" = "Scrios Bloc Cód";
+"Copy as MathML" = "Cóipeáil mar MathML";
+"Copy as Tex" = "Cóipeáil mar Tex";
+"Copy Math" = "Cóipeáil Matamaitice";
+"Reveal in Finder" = "Nochtadh san Aimsitheoir";
+"Open Link" = "Oscail an Nasc";
+"Reveal in Sidebar" = "Nochtadh sa Bharra Taobh";
+"Open in New Window" = "Oscail i bhFuinneog Nua";
+"Copy File Path" = "Cóipeáil Cosán Comhaid";
+"New File" = "Comhad Nua";
+"Rename" = "Athainmnigh";
+"New Folder" = "Fillteán Nua";
+
+/* Electron */
+"Learn Spelling" = "Foghlaim Litriú";
+"Copy / Paste As" = "Cóipeáil / Greamaigh Mar";
+"Math" = "Matamaitic";
+"Insert" = "Ionsáigh";
+"Inspect Element" = "Iniúchadh a dhéanamh ar an Eilimint";
+"Copy to MS Word" = "Cóipeáil chuig MS Word";
+"Paragraph (before)" = "Paragraf (roimh)";
+"Paragraph (after)" = "Paragraf (i ndiaidh)";
+
+"Search with Google" = "Cuardaigh le Google";
+"Search With…" = "Cuardaigh Le…";
+
+/* Related Panel */
+"Open Failed" = "Theip ar Oscailt";
+"File or folder does not exist." = "Níl an comhad ná an fillteán ann.";
+
+"Prettify Source Code" = "Áilleacht an Chóid Foinse";
+"Copy '%@'" = "Cóipeáil '%@'";
+"Copy to %@" = "Cóipeáil go %@";
+"Copy Image to" = "Cóipeáil Íomhá chuig";
+"Open Image Location" = "Oscail Suíomh na hÍomhá";
+
+"Learn More" = "Foghlaim Tuilleadh";
+"Whitespace and Line Breaks" = "Spás Bán agus Briseadh Líne";
+"Indent first line of paragraphs" = "Cuir isteach an chéad líne de pharagraif";
+"Preserve single line break" = "Coimeád briseadh líne aonair";
+"Visible <br/>" = "Infheicthe <br/>";
+
+"Save All" = "Sábháil Uile";
+"New Window" = "Fuinneog Nua";
+"Reopen Closed File" = "Athoscail an Comhad Dúnta";
+
+"Global Image Settings" = "Socruithe Íomhá Domhanda";
+"Smart Punctuation" = "Poncaíocht Chliste";
+"Convert on Input" = "Tiontaigh ar Ionchur";
+"Convert on Rendering" = "Tiontaigh ar Rindreáil";
+"Remap Unicode Punctuation on Parse" = "Athmhapáil Poncaíocht Unicode ar Pharsáil";
+"More Options" = "Tuilleadh Roghanna";
+
+"HTML Block" = "Bloc HTML";
+"Delete Paragraph / Block" = "Scrios Paragraf / Bloc";
+"Delete %@" = "Scrios %@";
+"Play" = "Seinn";
+"Pause" = "Sos";
+
+"Spell Check" = "Seiceáil Litrithe";
+"Unlearn Spelling" = "Dífhoghlaim Litriú";
+"Properties" = "Airíonna";
+
+"Search" = "Cuardaigh";
+"Copy without Theme Styling" = "Cóipeáil gan Stíl Téama";
+"Recent Files" = "Comhaid Le Déanaí";
+"File Results" = "Torthaí Comhaid";
+
+"Insert Table" = "Cuir Tábla isteach";
+"Insert Image" = "Cuir Íomhá isteach";
+"Allow Magnification" = "Ceadaigh Formhéadú";
+
+"Move Row Up" = "Bog Ró Suas";
+"Move Row Down" = "Bog Ró Síos";
+"Move Column Left" = "Bog an Colún ar Chlé";
+"Move Column Right" = "Bog an Colún ar Dheis";
+
+"Zoom Image" = "Íomhá Zúmáil";
+"Zoom Image to %@" = "Zúmáil Íomhá go %@";
+
+"Copy as Plain Text" = "Cóipeáil mar Gnáththéacs";
+
+"Selection" = "Roghnú";
+"Start Speaking" = "Tosaigh ag Labhairt";
+"Stop Speaking" = "Stop ag Labhairt";
+"Check Updates" = "Seiceáil Nuashonruithe";
+
+"HTML (without Styles)" = "HTML (gan Stíleanna)";
+
+"Highlight Current Header" = "Aibhsigh an Ceanntásc Reatha";
+"Expand All" = "Leathnaigh Uile";
+"Collapse All" = "Laghdaigh Gach Rud";
+"Collapsible Outline" = "Imlíne Infhillte";
+"Flat Outline" = "Imlíne Chomhréidh";
+"Articles (List View)" = "Ailt (Radharc Liosta)";
+"File Tree (Tree View)" = "Crann Comhad (Radharc Crann)";
+"Filter" = "Scagaire";
+
+"Upload Image" = "Uaslódáil Íomhá";
+"Upload All Local Images" = "Uaslódáil Gach Íomhá Áitiúil";
+"Open Image in Browser" = "Oscail Íomhá sa Bhrabhsálaí";
+"Copy Image Content" = "Cóipeáil Ábhar Íomhá";
+
+"More Actions" = "Tuilleadh Gníomhartha";
+"Get Info" = "Faigh Eolas";
+
+"Export with Previous" = "Easpórtáil leis an Roimhe Seo";
+"Export and Overwrite with Previous" = "Easpórtáil agus Forscríobh leis an Roimhe Seo";
+
+"Emoji and Symbols" = "Emoji agus Siombailí";
+
+"Insert Final New Line On Save" = "Cuir Líne Nua Deiridh isteach ar Shábháil";
+"Hyperlink Actions" = "Gníomhartha Hipirnaisc";
+"Copy Link Address" = "Cóipeáil Seoladh an Naisc";
+
+"Click" = "Cliceáil";
+
+"Export Setting" = "Socrú Easpórtála";
+
+"My License" = "Mo Cheadúnas";
+"Registration / Activation" = "Clárú / Gníomhachtú";
+
+"Select Paragraph / Block" = "Roghnaigh Paragraf / Bloc";
+
+"Delete Selected" = "Scrios Roghnaithe";
+"Rename or Move Image to" = "Athainmnigh nó Bog Íomhá go";
+"Move to %@" = "Bog go %@";
+"Delete Image" = "Scrios Íomhá";
+"Delete Image File" = "Scrios Comhad Íomhá";
+"Reload All Images" = "Athlódáil na hÍomháigh Uile";
+
+"Save %@ As" = "Sábháil %@ Mar";
+
+"Copy All Images to" = "Cóipeáil Gach Íomhá chuig";
+"Move All Images to" = "Bog Gach Íomhá go";
+
+"Copy as Image" = "Cóipeáil mar Íomhá";
+
+"Switch Image Syntax" = "Athraigh Comhréir Íomhá";
+"Markdown Style" = "Stíl Markdown";
+"HTML Style" = "Stíl HTML";
+
+"Code Tools" = "Uirlisí Cóid";
+"Copy Code Content" = "Cóipeáil Ábhar an Chóid";
+"Auto Indent Selected Code" = "Uath-Indentáil Cód Roghnaithe";
+"Auto Indent Whole Code" = "Uath-Indentáil an Chóid Iomlán";
+
+"Jump to Line Start" = "Léim go dtí Tús na Líne";
+"Jump to Line End" = "Léim go dtí Deireadh na Líne";
+"Toggle Word Count Popover" = "Scoránaigh Comhaireamh Focal";
+"Toggle Outline Popover" = "Scoránaigh Imlíne Popover";
+
+"Alert" = "Airdeall";
+"Note Block" = "Bloc Nótaí";
+"Tip Block" = "Bloc Leid";
+"Important Block" = "Bloc Tábhachtach";
+"Warning Block" = "Bloc Rabhaidh";
+"Caution Block" = "Bloc Faichill";
+
+"Move Table Row Up" = "Bog Ró Tábla Suas";
+"Move Table Row Down" = "Bog Tábla na Ró Síos";
+"Move Table Column Left" = "Bog Colún an Tábla ar Chlé";
+"Move Table Column Right" = "Bog Colún Tábla ar Dheis";

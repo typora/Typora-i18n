@@ -1,0 +1,88 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Fáilte go dtí Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Go raibh maith agat as Typora 👋 a úsáid. Is eagarthóir agus léitheoir marcála síos íosta é Typora, a thugann eispéireas gan uaim duit idir ábhar stíl shaibhir rindreáilte agus a chód foinse.";
+
+"Get Started" = "Faigh Tosaigh";
+"Check following links if you're new to Markdown or Typora." = "Seiceáil na naisc seo a leanas más rud é gur nua duit Markdown nó Typora.";
+
+"Activate Typora" = "Gníomhachtaigh Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "An bhfuil ceadúnas ceannaithe agat cheana féin? Líon isteach an fhoirm thíos agus gníomhaigh Typora láithreach.";
+
+"Email" = "Ríomhphost";
+"Email Address" = "Seoladh Ríomhphoist";
+"License Code" = "Cód Ceadúnais";
+
+"Help" = "Cabhair";
+"Find my License" = "Aimsigh mo Cheadúnas";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Glac leis an <a href='https://support.typora.io/License-Agreement/'>gComhaontú Ceadúnais</a> agus leis an <a href='https://support.typora.io/Privacy-Policy/'>Polasaí Príobháideachais</a>.";
+
+"Live Preview" = "Réamhamharc Beo";
+"Write and read rendered output instantly." = "Scríobh agus léigh aschur rindreáilte láithreach.";
+"Markdown Syntax" = "Comhréir Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Bloic chóid, YAML, tascanna, nótaí coise, táblaí, matamaitic, léaráidí";
+"Import / Export" = "Iompórtáil / Easpórtáil";
+"Deliver your content in various formats." = "Seachad do chuid ábhair i bhformáidí éagsúla.";
+"Editing Experience" = "Taithí Eagarthóireachta";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Mód Imlíne / Líon Focal / Mód Fócais / Mód Clóscríbhneora";
+
+"Files" = "Comhaid";
+"Manage files in sidebar and search across files." = "Bainistigh comhaid sa bharra taoibh agus déan cuardach trasna comhad.";
+"Customize" = "Saincheap";
+"Customize your writing experience from preferences panel." = "Saincheap do thaithí scríbhneoireachta ón bpainéal roghanna.";
+"Themes" = "Téamaí";
+"Write in the theme you like, or make one by your own." = "Scríobh isteach an téama is maith leat, nó cruthaigh ceann duit féin.";
+"And more" = "Agus níos mó";
+"Explore more topics at support.typora.io" = "Fiosraigh tuilleadh topaicí ag support.typora.io";
+
+"Quick Start" = "Tús Tapa";
+"Markdown Reference" = "Tagairt Markdown";
+"Explore Themes" = "Taiscéal Téamaí";
+"More Topics" = "Tuilleadh Topaicí";
+
+"Typora Activated" = "Typora Gníomhachtaithe";
+"Thanks for your purchase." = "Go raibh maith agat as do cheannach.";
+
+"Next" = "Ar Aghaidh";
+"Please accept license agreement first" = "Glac leis an gcomhaontú ceadúnais ar dtús";
+"Start %@ Days Trial" = "Tosaigh Triail %@ Laethanta";
+"Buy License" = "Ceannaigh Ceadúnas";
+"Activate" = "Gníomhachtaigh";
+
+"Close" = "Dún";
+"Deactivate" = "Díghníomhachtaigh";
+"View License" = "Féach ar an gCeadúnas";
+"Your Typora License" = "Do Cheadúnas Typora";
+"This copy of Typora is registered with license information below." = "Tá an chóip seo de Typora cláraithe leis an bhfaisnéis cheadúnais thíos.";
+"Your trial will be expired in %@ days." = "Beidh do thriail imithe in éag i %@ lá.";
+"Enter License" = "Cuir Ceadúnas Isteach";
+"Not Now" = "Ní Anois";
+
+"Please input a valid email address" = "Cuir isteach seoladh ríomhphoist bailí le do thoil";
+"Please input a valid license code" = "Cuir isteach cód ceadúnais bailí le do thoil";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Tá do cheadúnas tar éis an líon uasta gléasanna a shárú.\nDíchláraíodh an gléas is sine go huathoibríoch";
+"This license code has been used with a different email address." = "Úsáideadh an cód ceadúnais seo le seoladh ríomhphoist difriúil.";
+"Unknown Error. Please contact hi@typora.io" = "Earráid anaithnid. Téigh i dteagmháil le hi@typora.io le do thoil.";
+"Failed to access the license server. Please check your network or try again later." = "Theip ar rochtain a fháil ar an bhfreastalaí ceadúnais. Seiceáil do líonra nó déan iarracht arís ar ball.";
+
+"Enter a license code to support our development ❤" = "Cuir isteach cód ceadúnais chun tacú lenár bhforbairt ❤";
+"Re-enter Email" = "Ath-iontráil Ríomhphost";
+"Email address confirmation does not match." = "Ní hionann dearbhú an seoladh ríomhphoist.";
+
+"Are you sure to deactivate Typora on this device?" = "An bhfuil tú cinnte go ndíghníomhachtóidh tú Typora ar an ngléas seo?";
+
+"Offline Activation" = "Gníomhachtú As Líne";
+"Back" = "Ar ais";
+"Get Activation Token" = "Faigh Comhartha Gníomhachtaithe";
+
+"Your activated devices have exceeded the maximum limits." = "Tá na huasteorainneacha sáraithe ag do ghléasanna gníomhachtaithe.";

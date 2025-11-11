@@ -574,3 +574,6 @@
 "Enable inline math or code block math" = "Włącz równania matematyczne w wierszu albo w bloku kodu";
 "Code Block Math  (```math code block)" = "Blok kodu (```blok kodu matematycznego)";
 "PicList Path" = "Ścieżka do PicList";
+
+"Auto Complete" = "Autouzupełnianie";
+"Enable autocomplete for Emojis" = "Włącz autouzupełnianie emoji";

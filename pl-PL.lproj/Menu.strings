@@ -360,3 +360,8 @@
 "Important Block" = "Blok ważnych informacji";
 "Warning Block" = "Blok ostrzeżenia";
 "Caution Block" = "Blok uwagi";
+
+"Move Table Row Up" = "Przenieś wiersz tabeli wyżej";
+"Move Table Row Down" = "Przenieś wiersz tabeli niżej";
+"Move Table Column Left" = "Przenieś kolumnę tabeli w lewo";
+"Move Table Column Right" = "Przenieś kolumnę tabeli w prawo";

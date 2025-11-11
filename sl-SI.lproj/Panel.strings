@@ -35,7 +35,7 @@
 "Editor" = "Urejevalnik";
 "Indent Size on Save" = "Velikost zamika pri Shrani";
 "only apply to quotes and lists created from menu bar or hybrid view" = "Velja le za citate in sezname, ustvarjene iz menijske vrstice ali hibridnega pogleda";
-"Trigger Autocomplete without ESC key for" = "Sproži samodokončanje brez tipke ESC za";
+"Trigger Autocomplete without ESC key for" = "Sproži samodejno dokončanje brez tipke ESC za";
 "Emoji (e.g. :smile:)" = "Emodži (n. pr. :smile:)";
 "Images Insert" = "Vstavi slike";
 "Use relative path if possible" = "Če je možno, uporabi relativno pot";
@@ -139,7 +139,7 @@
 "Save & Recover" = "Shrani & Obnovi";
 "Auto Save" = "Samodejno shranjevanje";
 "Recover Unsaved Drafts" = "Obnovi neshranjene osnutke";
-"Emoji Autocomplete" = "Samodejno dokončanje Emojijev";
+"Emoji Autocomplete" = "Samodejno dokončanje emodžijev";
 "Trigger by ESC key" = "Sproži s tipko ESC";
 "Trigger automatically" = "Sproži samodejno";
 "Default Line Ending" = "Privzeto zaključevanje vrstic";
@@ -574,3 +574,6 @@
 "Enable inline math or code block math" = "Omogočanje matematike v vrstici ali v bloku kode";
 "Code Block Math  (```math code block)" = "Matematika v bloku kode  (```blok z matematično kodo)";
 "PicList Path" = "Pot do PicList";
+
+"Auto Complete" = "Samodejno dokončanje";
+"Enable autocomplete for Emojis" = "Omogoči samodejno dokončanje za emodžije";

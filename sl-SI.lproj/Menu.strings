@@ -360,3 +360,8 @@
 "Important Block" = "Blok z oznako pomembno";
 "Warning Block" = "Blok z oznako opozorilo";
 "Caution Block" = "Blok z oznako previdno";
+
+"Move Table Row Up" = "Premakni vrstico tabele navzgor";
+"Move Table Row Down" = "Premakni vrstico tabele navzdol";
+"Move Table Column Left" = "Premakni stolpec tabele levo";
+"Move Table Column Right" = "Premakni stolpec tabele desno";

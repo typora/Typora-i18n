@@ -574,3 +574,6 @@
 "Enable inline math or code block math" = "啟用行內數學式或程式碼區塊數學式";
 "Code Block Math  (```math code block)" = "程式碼區塊數學式 (```math 程式碼區塊)";
 "PicList Path" = "PicList 路徑";
+
+"Auto Complete" = "自動完成";
+"Enable autocomplete for Emojis" = "啟用顏文字自動完成";

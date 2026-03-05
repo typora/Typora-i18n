@@ -577,3 +577,6 @@
 
 "Auto Complete" = "Auto Complete";
 "Enable autocomplete for Emojis" = "Enable autocomplete for Emojis";
+
+"Some settings will only apply after a reload" = "Some settings will only apply after a reload";
+"Reload" = "Reload";

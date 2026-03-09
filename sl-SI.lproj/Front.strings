@@ -43,7 +43,7 @@
 "Delete Table" = "Izbriši tabelo";
 
 /* Images */
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora poskuša kopirati novo vstavljeno sliko v mapo <code id='image-create-folder-target'></code> glede na vaše nastavitve YAML oziroma na globalne nastavitve. Ciljna mapa ne obstaja, jo ustvarite zdaj?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora poskuša kopirati novo vstavljeno sliko v mapo <code id='image-create-folder-target'></code> glede na vaše nastavitve YAML oziroma na globalne nastavitve. Ciljna mapa ne obstaja, jo želite ustvariti zdaj?";
 "Create Folder" = "Ustvari mapo";
 
 /* Math */

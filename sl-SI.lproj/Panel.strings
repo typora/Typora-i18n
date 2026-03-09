@@ -66,8 +66,8 @@
 "Heading Style" = "Slog naslova";
 "Unordered List" = "Neurejen seznam";
 "Ordered List" = "Urejen seznam";
-"Code Fences" = "Code Fences";
-"Display line numbers for code fences" = "Prikaži številke vrstic za code fences";
+"Code Fences" = "Blok s kodo (Code Fences)";
+"Display line numbers for code fences" = "Prikaži številke vrstic v bloku s kodo (code fences)";
 "Math Blocks" = "Matematični bloki";
 "Auto Numbering Math Equations" = "Samodejno številčenje matematičnih formul";
 
@@ -313,7 +313,7 @@
 
 "Page Break Between Top Headings" = "Prelom strani med zgornjimi naslovi";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Žal je prišlo do napake, trenutna vsebina pisanja je bila kopirana v odložišče. To lahko sporočite na <hi@typora.io> in nam pomagate odpraviti napako.";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Žal je prišlo do napake, trenutna vsebina je bila kopirana v odložišče. Napako lahko sporočite na <hi@typora.io> in nam pomagate odpraviti težavo.";
 "Try Recovery" = "Poskusite obnoviti podatke";
 "Other options for Data Recovery" = "Druge možnosti za obnovitev podatkov";
 

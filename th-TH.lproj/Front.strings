@@ -30,7 +30,6 @@ Thai translated by
 "Replace" = "แทนที่";
 "All" = "ทั้งหมด";
 "Search text not found in article" = "ไม่พบข้อความที่ค้นหาในบทความ";
-"search text" = "ค้นหาข้อความ";
 
 /* Quick Open */
 "Search by file name" = "ค้นหาตามชื่อไฟล์";

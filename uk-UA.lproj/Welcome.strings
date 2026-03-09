@@ -75,3 +75,11 @@
 "Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
 
+"Enter a license code to support our development ❤" = "Введіть код ліцензії, щоб підтримати нашу розробку ❤";
+"Re-enter Email" = "Повторно введіть електронну пошту";
+"Email address confirmation does not match." = "Підтвердження адреси електронної пошти не збігається.";
+"Are you sure to deactivate Typora on this device?" = "Ви впевнені, що хочете деактивувати Typora на цьому пристрої?";
+"Offline Activation" = "Офлайн-активація";
+"Back" = "Назад";
+"Get Activation Token" = "Отримати токен активації";
+"Your activated devices have exceeded the maximum limits." = "Кількість ваших активованих пристроїв перевищила максимальну межу.";

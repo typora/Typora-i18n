@@ -13,7 +13,6 @@
 "Welcome to Typora" = "Selamat Datang ke Typora";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Terima kasih kerana menggunakan Typora 👋. Typora ialah penyunting dan pembaca markdown yang ringkas, ia memberikan anda pengalaman yang pantas antara kandungan ter-render dan kod sumber.";
 
-"Get Start" = "Mula";
 "Check following links if you're new to Markdown or Typora." = "Periksa pautan berikut sekiranya anda baru kepada Markdown atau Typora.";
 
 "Activate Typora" = "Aktifkan Typora";
@@ -81,6 +80,8 @@
 "Email address confirmation does not match." = "Alamat emel pengesahan tidak padan.";
 
 "Are you sure to deactivate Typora on this device?" = "Adakah anda pasti untuk menyah daftar Typora atas peranti ini?";
-
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Lesen anda telah melebihi had maksima bilangan peranti.\nJika anda klik \"Teruskan Pengaktifan\", peranti ini akan didaftarkan dan peranti terawal akan dinyah daftar secara automatik.";
-"Continue Activation" = "Teruskan Pengaktifan";
+"Get Started" = "Mulakan";
+"Offline Activation" = "Pengaktifan Luar Talian";
+"Back" = "Kembali";
+"Get Activation Token" = "Dapatkan Token Pengaktifan";
+"Your activated devices have exceeded the maximum limits." = "Peranti anda yang telah diaktifkan melebihi had maksimum.";

@@ -27,13 +27,13 @@
 "Help" = "Help";
 "Find my License" = "Vind mijn licentie";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accepteer de <a href='https://support.typora.io/License-Agreement/'>Licentieovereenkomst</a> en het <a href='https://support.typora.io/Privacy-Policy/'>Privacybeleid</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
+"Live Preview" = "Live voorbeeld";
+"Write and read rendered output instantly." = "Schrijf en lees gerenderde uitvoer direct.";
+"Markdown Syntax" = "Markdown-syntax";
 "Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Codeblokken, YAML, taken, voetnoten, tabellen, wiskunde, diagrammen";
-"Import / Export" = "Import / Export";
+"Import / Export" = "Importeren / Exporteren";
 "Deliver your content in various formats." = "Lever je inhoud in verschillende formaten.";
 "Editing Experience" = "Bewerkingservaring";
 "Outline / Word Count / Focus Mode / Typewriter Mode" = "Overzicht / Aantal woorden / Focus modus / Typemachine modus";
@@ -42,7 +42,7 @@
 "Manage files in sidebar and search across files." = "Beheer bestanden in de zijbalk en zoek doorheen bestanden.";
 "Customize" = "Aanpassen";
 "Customize your writing experience from preferences panel." = "Pas je schrijfinstellingen aan in het voorkeurenpaneel.";
-"Themes" = "Themes";
+"Themes" = "Thema's";
 "Write in the theme you like, or make one by your own." = "Schrijf in een thema dat je leuk vindt, of maak er zelf één.";
 "And more" = "En meer";
 "Explore more topics at support.typora.io" = "Ontdek meer onderwerpen op support.typora.io";
@@ -83,5 +83,7 @@
 
 "Are you sure to deactivate Typora on this device?" = "Weet u zeker dat u Typora wilt deactiveren op dit apparaat?";
 
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Uw licentie heeft het maximum aantal apparaten in gebruik.\nAls u up \"Alsnog activeren\" klikt, zal dit apparaat geactiveerd worden en het oudste apparaat gedeactiveerd.";
-"Continue Activation" = "Alsnog activeren";
+"Offline Activation" = "Offline activering";
+"Back" = "Terug";
+"Get Activation Token" = "Activeringstoken ophalen";
+"Your activated devices have exceeded the maximum limits." = "Uw geactiveerde apparaten hebben het maximale aantal overschreden.";

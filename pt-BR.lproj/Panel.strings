@@ -170,7 +170,6 @@
 "The option `%@` must be enabled first to automatically upload images." = "A opção `%@` deve estar habilitada para carregar imagens automaticamente.";
 "%@ is a file, not a directory" = "%@ é um arquivo, não uma pasta";
 "Copy Images To…" = "Copiar Imagens Para...";
-"Typora are trying copy the newly inserted image to folder according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está tentando copiar a imagem recém inserida para a pasta de acordo com seu ajuste de YAML Front Matter ou suas preferências globais. No entanto, a pasta de destino não existe, criar agora?";
 "Create Folder and Continue" = "Criar Pasta e Continuar";
 "Document must be saved first" = "O documento precisa ser salvo primeiro";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora copiará novas imagens para a pasta pelo caminho relativo selecionado, então por favor salve o arquivo primeiro.";
@@ -572,4 +571,7 @@
 "When add code fences via Markdown" = "Ao adicionar delimitadores de código via Markdown";
 "When add code fences via Menubar" = "Ao adicionar delimitadores de código via barra de menus";
 "Zoom when using mouse wheel and holding %@ key" = "Zoom ao usar a roda do mouse enquanto mantém pressionada a tecla %@";
-"In Welcome.strings" = "Em Welcome.strings";
+"Auto Complete" = "Autocompletar";
+"Enable autocomplete for Emojis" = "Ativar autocompletar para Emojis";
+"Some settings will only apply after a reload" = "Algumas configurações só serão aplicadas após recarregar";
+"Reload" = "Recarregar";

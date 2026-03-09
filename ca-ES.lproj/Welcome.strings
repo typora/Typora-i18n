@@ -75,3 +75,11 @@
 "Unknown Error. Please contact hi@typora.io" = "Error desconegut. Poseu-vos en contacte amb hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "No s'ha pogut accedir al servidor de llicències. Comproveu la vostra xarxa o torneu-ho a provar més tard.";
 
+"Enter a license code to support our development ❤" = "Introduïu un codi de llicència per donar suport al nostre desenvolupament ❤";
+"Re-enter Email" = "Torneu a introduir el correu electrònic";
+"Email address confirmation does not match." = "La confirmació de l'adreça de correu electrònic no coincideix.";
+"Are you sure to deactivate Typora on this device?" = "Esteu segurs de voler desactivar el Typora en aquest dispositiu?";
+"Offline Activation" = "Activació fora de línia";
+"Back" = "Enrere";
+"Get Activation Token" = "Obteniu el testimoni d'activació";
+"Your activated devices have exceeded the maximum limits." = "Els vostres dispositius activats han superat el límit màxim.";

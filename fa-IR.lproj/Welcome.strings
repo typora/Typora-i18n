@@ -11,45 +11,45 @@
  */
 
 "Welcome to Typora" = "به Typora خوش آمدید";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "از استفاده شما از Typora سپاسگزاریم 👋. Typora یک ویرایشگر و خواننده مینیمال Markdown است که تجربه‌ای بدون وقفه بین محتوای غنی رندر شده و کد منبع آن ارائه می‌دهد.";
 
 "Get Started" = "شروع کنیم";
 "Check following links if you're new to Markdown or Typora." = "اگر با مارک‌داون یا Typora آشنا نیستید می‌توانید از لینک های زیر استفاده نمایید.";
 
 "Activate Typora" = "فعال‌سازی Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "قبلاً گواهینامه خریداری کرده‌اید؟ فرم زیر را پر کنید و Typora را فوراً فعال کنید.";
 
 "Email" = "ایمیل";
 "Email Address" = "آدرس ایمیل";
 "License Code" = "کد لایسنس";
 
 "Help" = "کمک";
-"Find my License" = "Find my License";
+"Find my License" = "پیدا کردن گواهینامه من";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "پذیرش <a href='https://support.typora.io/License-Agreement/'>توافق‌نامه مجوز</a> و <a href='https://support.typora.io/Privacy-Policy/'>سیاست حفظ حریم خصوصی</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "پیش‌نمایش زنده";
+"Write and read rendered output instantly." = "نوشتن و خواندن خروجی رندر شده به صورت آنی.";
+"Markdown Syntax" = "سینتکس Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "بلاک‌های کد، YAML، وظایف، پانویس‌ها، جداول، ریاضی، دیاگرام‌ها";
+"Import / Export" = "وارد کردن / خارج کردن";
+"Deliver your content in various formats." = "محتوای خود را در فرمت‌های مختلف ارائه دهید.";
+"Editing Experience" = "تجربه ویرایش";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "طرح کلی / شمارش کلمات / حالت تمرکز / حالت ماشین تحریر";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
+"Files" = "فایل‌ها";
+"Manage files in sidebar and search across files." = "مدیریت فایل‌ها در نوار کناری و جستجو در فایل‌ها.";
+"Customize" = "سفارشی‌سازی";
+"Customize your writing experience from preferences panel." = "تجربه نوشتن خود را از پنل تنظیمات سفارشی کنید.";
+"Themes" = "پوسته‌ها";
+"Write in the theme you like, or make one by your own." = "با پوسته مورد علاقه خود بنویسید، یا خودتان یکی بسازید.";
+"And more" = "و بیشتر";
+"Explore more topics at support.typora.io" = "موضوعات بیشتر را در support.typora.io کاوش کنید";
 
 "Quick Start" = "شروع سریع";
-"Markdown Reference" = "Markdown Reference";
-"Explore Themes" = "Explore Themes";
-"More Topics" = "More Topics";
+"Markdown Reference" = "مرجع Markdown";
+"Explore Themes" = "کاوش پوسته‌ها";
+"More Topics" = "موضوعات بیشتر";
 
 "Typora Activated" = "Typora فعال شد";
 "Thanks for your purchase." = "از خرید شما متشکریم.";
@@ -64,15 +64,25 @@
 "Deactivate" = "غیر فعال‌سازی";
 "View License" = "نمایش لایسنس";
 "Your Typora License" = "لایسنس Typora شما";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
+"This copy of Typora is registered with license information below." = "این نسخه از Typora با اطلاعات گواهینامه زیر ثبت شده است.";
 "Your trial will be expired in %@ days." = "دوره آزمایشی %@ روز دیگر منقضی می‌شود.";
 "Enter License" = "لایسنس را وارد نمایید";
 "Not Now" = "فعلا نه";
 
 "Please input a valid email address" = "لطفا یک ایمیل معتبر وارد نمایید";
 "Please input a valid license code"  = "لطفا یک لایسنس معتبر وارد نمایید.";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "مجوز شما از حداکثر تعداد دستگاه‌ها فراتر رفته است.\nقدیمی‌ترین دستگاه به‌طور خودکار لغو ثبت شد.";
+"This license code has been used with a different email address." = "این کد گواهینامه با آدرس ایمیل دیگری استفاده شده است.";
 "Unknown Error. Please contact hi@typora.io" = "خطای ناشناخته! لطفا با hi@typora.io تماس بگیرید.";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
-
+"Failed to access the license server. Please check your network or try again later." = "دسترسی به سرور گواهینامه ناموفق بود. لطفاً اتصال شبکه خود را بررسی کنید یا بعداً دوباره تلاش کنید.";
+"Your license has exceeded the max devices numbers.
+The oldest device was unregistered automatically." = "گواهینامه شما از حداکثر تعداد دستگاه‌ها فراتر رفته است.
+قدیمی‌ترین دستگاه به صورت خودکار لغو ثبت شد.";
+"Enter a license code to support our development ❤" = "کد گواهینامه‌ای وارد کنید تا از توسعه ما حمایت کنید ❤";
+"Re-enter Email" = "ایمیل را دوباره وارد کنید";
+"Email address confirmation does not match." = "تأیید آدرس ایمیل مطابقت ندارد.";
+"Are you sure to deactivate Typora on this device?" = "آیا از غیرفعال‌سازی Typora در این دستگاه اطمینان دارید؟";
+"Offline Activation" = "فعال‌سازی آفلاین";
+"Back" = "بازگشت";
+"Get Activation Token" = "دریافت توکن فعال‌سازی";
+"Your activated devices have exceeded the maximum limits." = "دستگاه‌های فعال شده شما از حداکثر تعداد مجاز فراتر رفته‌اند.";

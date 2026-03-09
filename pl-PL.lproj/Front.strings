@@ -203,3 +203,5 @@
 "Markdown file" = "Plik Markdown";
 "TextBundle file" = "Plik TextBundle";
 "Images saved to TextBundle" = "Obrazy zapisane w pliku TextBundle";
+"Rename to \"{0}\" ?" = "Zmienić nazwę na \"{0}\"?";
+"File does not exist at path %@, do you want to create one at that path?" = "Plik nie istnieje w lokalizacji %@. Czy chcesz go utworzyć?";

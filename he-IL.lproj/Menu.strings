@@ -215,7 +215,6 @@
 "New File" = "קובץ חדש";
 "Rename" = "שנה שם";
 "New Folder" = "תיקייה חדשה";
-"Move to Trash" = "העבר לאשפה";
 
 /* Electron */
 "Learn Spelling" = "למד לאיית";
@@ -308,3 +307,47 @@
 "Copy Image Content" = "העתק תמונה";
 
 "More Actions" = "פעולות נוספות";
+
+"Get Info" = "Get Info";
+"Export with Previous" = "Export with Previous";
+"Export and Overwrite with Previous" = "Export and Overwrite with Previous";
+"Emoji and Symbols" = "Emoji and Symbols";
+"Insert Final New Line On Save" = "Insert Final New Line On Save";
+"Hyperlink Actions" = "Hyperlink Actions";
+"Copy Link Address" = "Copy Link Address";
+"Click" = "Click";
+"Export Setting" = "Export Setting";
+"My License" = "My License";
+"Registration / Activation" = "Registration / Activation";
+"Select Paragraph / Block" = "Select Paragraph / Block";
+"Delete Selected" = "Delete Selected";
+"Rename or Move Image to" = "Rename or Move Image to";
+"Move to %@" = "Move to %@";
+"Delete Image" = "Delete Image";
+"Delete Image File" = "Delete Image File";
+"Reload All Images" = "Reload All Images";
+"Save %@ As" = "Save %@ As";
+"Copy All Images to" = "Copy All Images to";
+"Move All Images to" = "Move All Images to";
+"Copy as Image" = "Copy as Image";
+"Switch Image Syntax" = "Switch Image Syntax";
+"Markdown Style" = "Markdown Style";
+"HTML Style" = "HTML Style";
+"Code Tools" = "Code Tools";
+"Copy Code Content" = "Copy Code Content";
+"Auto Indent Selected Code" = "Auto Indent Selected Code";
+"Auto Indent Whole Code" = "Auto Indent Whole Code";
+"Jump to Line Start" = "Jump to Line Start";
+"Jump to Line End" = "Jump to Line End";
+"Toggle Word Count Popover" = "Toggle Word Count Popover";
+"Toggle Outline Popover" = "Toggle Outline Popover";
+"Alert" = "Alert";
+"Note Block" = "Note Block";
+"Tip Block" = "Tip Block";
+"Important Block" = "Important Block";
+"Warning Block" = "Warning Block";
+"Caution Block" = "Caution Block";
+"Move Table Row Up" = "Move Table Row Up";
+"Move Table Row Down" = "Move Row Table Down";
+"Move Table Column Left" = "Move Table Column Left";
+"Move Table Column Right" = "Move Table Column Right";

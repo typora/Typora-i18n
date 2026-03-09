@@ -574,3 +574,7 @@
 "Enable inline math or code block math" = "Slå på matte i tekst eller som blokk";
 "Code Block Math  (```math code block)" = "Mattekodeblokk  (```math kodeblokk)";
 "PicList Path" = "PicList-sti";
+"Auto Complete" = "Autofullfør";
+"Enable autocomplete for Emojis" = "Slå på autofullføring for emojiar";
+"Some settings will only apply after a reload" = "Nokre innstillingar vil først gjelde etter ei omlasting";
+"Reload" = "Last på nytt";

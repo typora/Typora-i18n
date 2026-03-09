@@ -578,3 +578,7 @@
 "Enable inline math or code block math" = "Aktivera inbäddad matematik eller kodblock med matematik";
 "Code Block Math  (```math code block)" = "Kodblock med matematik (```math kodblock)";
 "PicList Path" = "Sökväg till PicList";
+"Auto Complete" = "Autokomplettering";
+"Enable autocomplete for Emojis" = "Aktivera autokomplettering för emojis";
+"Some settings will only apply after a reload" = "Vissa inställningar tillämpas först efter omladdning";
+"Reload" = "Ladda om";

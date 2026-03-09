@@ -84,7 +84,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Importation...";
 "Importing in progress..." = "Importation en cours...";
-"Converting file with Pandoc. This may take some time." = "Conversion du fichier avec Pandoc. Cela peut prendre un peu de temps.";
 "Abort" = "Annuler";
 
 /* Pandoc Export Panel */
@@ -104,7 +103,6 @@
 "Failed to import file from <em>{0}</em>" = "Échec de l’importation du fichier depuis <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "Le fichier n’existe pas à <em>{0}</em>";
 "Export to..." = "Exporter vers...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don’t save them." = "Souhaitez-vous enregistrer les modifications apportés à ce document ?<br> Vos modifications seront perdues si vous ne les enregistrez pas.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Attention] Impossible d’ajouter le marque-page au fichier PDF.";
 "Dark Theme not support" = "Thème sombre non pris en charge";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Désolé, la version actuelle de Typora ne peut pas imprimer la couleur d’arrière-plan dans les PDF exportés, Ainsi le thème sombre n’est pas encore pris en charge pour l’exportation PDF \nVeuillez choisir un thème clair ou cliquer sur \"Imprimer avec le thème par défaut\"";
@@ -151,7 +149,6 @@
 "Developer" = "Développeur";
 "Update" = "Mise à jour";
 "Check Updates" = "Vérifier les mises à jour";
-"Check updates automatically" = "Vérifier automatiquement les mises à jour";
 "Advanced Settings" = "Paramètres avancés";
 "Open Advanced Settings" = "Ouvrir les paramètres avancés";
 "Reset Advanced Settings" = "Réinitialiser les paramètres avancés";
@@ -276,7 +273,6 @@
 "Typewriter / Focus Mode have been turned off." = "Le mode Machine à écrire / le mode Focus ont été désactivés.";
 
 "Reading Speed" = "Vitesse de lecture";
-"Auto" = "Auto";
 "words / min" = "mots / min";
 
 "Reset to Default" = "Réinitialiser par défaut";
@@ -311,7 +307,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "La fonction d’import et de nombreux formats d’export nécessitent que Pandoc (≥%@) soit installé.";
 "Do not show this message again" = "Ne plus afficher ce message à l’avenir";
 
-"Page Break Between Top Headings" = "Saut de page entre les titres";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Désolé, une erreur est survenue, le contenu rédigé jusqu’à maintenant à été copié dans le presse-papier. Vous pouvez faire un rapport à <hi@typora.io> afin de nous aider à corriger cette erreur.";
 "Try Recovery" = "Tenter une récupéreration";
@@ -337,7 +332,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Veuillez définir un outil d’envoi d’image dans l’écran des préférences avant d’utiliser cette fonctionnalité.";
 "Download or Upgrade" = "Télécharger ou mettre à jour";
 "Open Config File" = "Ouvrir le fichier de configuration";
-"Command" = "Commande";
 "PicGo Path" = "Chemin vers PicGo";
 "Path of PicGo binary" = "Chemin vers le binaire de PicGo";
 "Executable" = "Exécutable";
@@ -385,7 +379,6 @@
 "Include Outline Sidebar" = "Inclure le contour de la barre latérale";
 "Width" = "Largeur";
 "Command" = "Commande";
-"Show Save File Dialog" = "Montrer la fenêtre d’enregistrement";
 "File Extensions for Export" = "Extensions de fichier pour l’export";
 "Arguments" = "Arguments";
 "Extra Arguments" = "Arguments complémentaires";
@@ -437,7 +430,6 @@
 "Command Arguments:" = "Command Arguments:";
 "This dev version of Typora is expired, please download and install a newer version." = "This dev version of Typora is expired, please download and install a newer version.";
 "Current Theme" = "Current Theme";
-"After Export" = "After Export";
 "Run command" = "Run command";
 "Run command after export failed" = "Run command after export failed";
 "Read and overwrite export settings from YAML front matters" = "Read and overwrite export settings from YAML front matters";
@@ -477,8 +469,6 @@
 "This device has been deactivated" = "Cet appareil à été désactivé";
 "UNREGISTERED" = "NON ENREGISTRÉ";
 
-"Allow physics package to redefine existing TeX commands" = "Autoriser le package des physiques à redéfinir les commandes TeX existantes";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Si activé, les commandes telles que \\div, \\Re seront redéfinis avec le package des physiques.";
 
 "Your Typora is not activated." = "Votre Typora n’est pas activé.";
 "Your Typora has been activated." = "Votre Typora a été activé.";
@@ -507,3 +497,67 @@
 
 "Images copied to %@." = "Images copiées vers %@.";
 "Images moved to %@." = "Images déplacées vers %@.";
+"No Automatic Equation Numbering" = "Pas de numérotation automatique des équations";
+"Use AMS Numbering Rules" = "Utiliser les règles de numérotation AMS";
+"Auto Numbering for All Math Equations" = "Numérotation automatique pour toutes les équations";
+"Preferred Image Syntax" = "Syntaxe d'image préférée";
+"Add ./ for relative path" = "Ajouter ./ pour les chemins relatifs";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Lorsqu'activé, Typora utilisera le format ./assets/image.png au lieu de assets/image.png lors de la génération du chemin relatif pour les images insérées.";
+"Image Quality" = "Qualité d'image";
+"Medium" = "Moyenne";
+"High" = "Haute";
+"Best" = "Meilleure";
+"Use Shift+Tab to auto indent selected code" = "Utiliser Shift+Tab pour indenter automatiquement le code sélectionné";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Lorsque désactivé, Shift+Tab réduira l'indentation du code sélectionné ou de la ligne courante. Lorsqu'activé, Shift+Tab appliquera automatiquement l'indentation pour le code sélectionné ou la ligne courante dans les blocs de code.";
+"Auto Links (e.g: https://typora.io)" = "Liens automatiques (ex : https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Lorsqu'activé, Typora reconnaîtra et surlignera automatiquement les URL (ex : https://typora.io ou mailto:hi@typora.io) dans le texte.";
+"Files" = "Fichiers";
+"Default File Type / Extension" = "Type de fichier / extension par défaut";
+"Custom Extension:" = "Extension personnalisée :";
+"Following extensions are supported: %@" = "Les extensions suivantes sont prises en charge : %@";
+"When drop file / folder into Typora" = "Lors du glisser-déposer d'un fichier / dossier dans Typora";
+"When drop folder" = "Lors du glisser-déposer d'un dossier";
+"When drop markdown file" = "Lors du glisser-déposer d'un fichier Markdown";
+"When drop files that can be imported" = "Lors du glisser-déposer de fichiers importables";
+"Open in Typora" = "Ouvrir dans Typora";
+"Insert Folder Link" = "Insérer un lien vers le dossier";
+"Insert File Link" = "Insérer un lien vers le fichier";
+"Import File" = "Importer le fichier";
+"Diagram Options" = "Options de diagramme";
+"Default Code Language" = "Langage de code par défaut";
+"(None)" = "(Aucun)";
+"Last Used" = "Dernier utilisé";
+"Apply Default Code Language When" = "Appliquer le langage de code par défaut quand";
+"When add code fences via Markdown" = "Lors de l'ajout de blocs de code via Markdown";
+"When add code fences via Menubar" = "Lors de l'ajout de blocs de code via la barre de menu";
+"Both" = "Les deux";
+"Pinned and Recent Locations" = "Emplacements épinglés et récents";
+"Operation Succeeded" = "Opération réussie";
+"Clear Recent Folders and Files" = "Effacer les dossiers et fichiers récents";
+"Clear Recent Folders / Files Only" = "Effacer uniquement les dossiers / fichiers récents";
+"Clear Recent and Pinned Folders / Files" = "Effacer les dossiers / fichiers récents et épinglés";
+"Also clear pinned folders" = "Effacer aussi les dossiers épinglés";
+"Pin" = "Épingler";
+"Unpin" = "Désépingler";
+"Remove from List" = "Retirer de la liste";
+"Record recent files and folders" = "Enregistrer les fichiers et dossiers récents";
+"System Integration" = "Intégration système";
+"Please try sign out Windows to take effect." = "Veuillez essayer de vous déconnecter de Windows pour appliquer les modifications.";
+"Github Style Alert" = "Alerte style Github";
+"Zoom when using mouse wheel and holding %@ key" = "Zoomer avec la molette de la souris en maintenant la touche %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Le document actuel contient des modifications non enregistrées. Voulez-vous passer au fichier nouvellement dupliqué ?";
+"Chapter Level in Outline" = "Niveau de chapitre dans le plan";
+"Enable inline math or code block math" = "Activer les formules en ligne ou les formules en bloc de code";
+"Code Block Math  (```math code block)" = "Formules en bloc de code  (```math bloc de code)";
+"PicList Path" = "Chemin PicList";
+"Auto Complete" = "Saisie automatique";
+"Enable autocomplete for Emojis" = "Activer la saisie automatique pour les emojis";
+"Some settings will only apply after a reload" = "Certains paramètres ne s'appliqueront qu'après un rechargement";
+"Reload" = "Recharger";
+
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Voulez-vous enregistrer les modifications apportées à ce document ?<br> Vos modifications seront perdues si vous ne les enregistrez pas.";
+"Typora Server" = "Serveur Typora";
+"Use Typora Server in China" = "Utiliser le serveur Typora en Chine";
+"Custom Command" = "Commande personnalisée";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Ajouter \"Markdown\" au menu contextuel \"Nouveau\" dans l'Explorateur Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Supprimer les éléments du menu contextuel \"Nouveau\" dans l'Explorateur Windows";

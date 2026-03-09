@@ -71,11 +71,7 @@
 "Refresh Folder" = "Recarregar pasta";
 "Sort" = "Ordenar";
 "Group By Folder" = "Agrupar Por Pasta";
-"Sort Naturally" = "Ordenar Naturalmente";
 "Sort by Name (Ascending)" = "Ordenar por Nome (Crescente)";
-"Sort by Modification Date (Crescente)" = "Ordenar por Data de Modificação (Crescente)";
-"Sort by Name (Decrescente)" = "Ordenar por Nome (Decrescente)";
-"Sort by Modification Date (Decrescente)" = "Ordenar por Data de Modificação (Decrescente)";
 "Location" = "Localização";
 "Switch File List/Tree View" = "Alternar Lista/Árvore de Ficheiros";
 "No Files Available" = "Nenhum Ficheiro Disponível";
@@ -114,7 +110,6 @@
 /* existing ? is this localized string correct ? */
 "Should continue moving and overwrite existing file(s) ?" = "Continuar movendo e sobrescrever o(s) ficheiro(s) existente(s))?";
 
-"Rename Failed" = "Erro ao Renomear";
 "Rename to \"{0}\" ?" = "Renomear para \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Erro ao renomear de \"{0}\" para \"{1}\"";
 
@@ -132,3 +127,64 @@
 /* search option */
 "Case Sensitive" = "Diferenciar Maiúsculas/Minúsculas";
 "Whole Word" = "Palavra Inteira";
+
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora está a tentar copiar a imagem recém-inserida para a pasta <code id='image-create-folder-target'></code> de acordo com a configuração do YAML Front Matter ou as preferências globais. Mas a pasta de destino não existe, deseja criá-la agora?";
+"Sort Naturally (Ascending)" = "Ordenar naturalmente (Crescente)";
+"Sort Naturally (Descending)" = "Ordenar naturalmente (Decrescente)";
+"Sort by Modification Date (Ascending)" = "Ordenar por Data de Modificação (Crescente)";
+"Sort by Name (Descending)" = "Ordenar por Nome (Decrescente)";
+"Sort by Modification Date (Descending)" = "Ordenar por Data de Modificação (Decrescente)";
+"input image URL" = "introduzir URL da imagem";
+"Select image from local file" = "Selecionar imagem de ficheiro local";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Não é possível abrir a localização <code>$1</code>, quis dizer <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"Finish Editing" = "Terminar Edição";
+"Revert advanced setting file to default one ?" = "Reverter ficheiro de configuração avançada para o predefinido?";
+"Select Spell Check Language" = "Selecionar Idioma de Verificação Ortográfica";
+"Auto Detect Language" = "Detetar Idioma Automaticamente";
+"Disable Spell Check" = "Desativar Verificação Ortográfica";
+"Global Setting…" = "Configuração Global…";
+"Dictionary file is missing to enable spellcheck support for %@." = "O ficheiro de dicionário está em falta para ativar a verificação ortográfica para %@.";
+"Install Language Support" = "Instalar Suporte de Idioma";
+"License Information" = "Informação de Licença";
+"Download" = "Transferir";
+"Install dictionary file only for Typora" = "Instalar ficheiro de dicionário apenas para Typora";
+"Spell Check (%@ unavailable)" = "Verificação Ortográfica (%@ indisponível)";
+"Spell Check (%@ downloading)" = "Verificação Ortográfica (%@ a transferir)";
+"Download dictionary file for %@" = "Transferir ficheiro de dicionário para %@";
+"(Default spell check option)" = "(Opção predefinida de verificação ortográfica)";
+"Failed to load spellcheck module" = "Erro ao carregar o módulo de verificação ortográfica";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> foi ativado.";
+"You could turn it off from `View` menu." = "Pode desativá-lo a partir do menu `Ver`.";
+"The file is too large to render in Typora." = "O ficheiro é demasiado grande para ser renderizado no Typora.";
+"Open in…" = "Abrir em…";
+"Quick Look" = "Vista Rápida";
+"Filter" = "Filtrar";
+"No result found." = "Nenhum resultado encontrado.";
+"Continue & Overwrite" = "Continuar e Substituir";
+"The file is read-only, or you do not have right permissions to modify the file." = "O ficheiro é apenas de leitura, ou não tem as permissões necessárias para o modificar.";
+"Learn Data Recovery" = "Informação sobre Recuperação de Dados";
+"Auto refresh on Files Panel cannot be enabled." = "Não é possível ativar a atualização automática no Painel de Ficheiros.";
+"Delete Permanently" = "Eliminar Permanentemente";
+"Failed to upload images:" = "Erro ao enviar imagens:";
+"Uploading in progress" = "Envio em curso";
+"Successfully uploaded {0} images, {1} failed." = "{0} imagens enviadas com sucesso, {1} falharam.";
+"You could undo this operation later via `Edit` → `Undo`." = "Pode desfazer esta operação mais tarde através de `Editar` → `Desfazer`.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Pode premir <strong>⌘ + Clique</strong> para abrir <a href='#'>ligações</a> ou ir para a definição da nota de rodapé.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Pode premir <strong>CTRL + Clique</strong> para abrir <a href='#'>ligações</a> ou ir para a definição da nota de rodapé.";
+"<strong>Unibody</strong> style has been turned on." = "O estilo <strong>Unibody</strong> foi ativado.";
+"You can right click titlebar to popup application menu." = "Pode clicar com o botão direito na barra de título para abrir o menu da aplicação.";
+"Support Document" = "Documento de Suporte";
+"You are not supposed to edit or save this file." = "Não deve editar nem guardar este ficheiro.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Os ficheiros nesta localização (%@) são geridos pelo Typora e podem ser eliminados automaticamente.<br/>Por favor copie o conteúdo para um novo ficheiro para continuar a editar.";
+"File does not exist at path %@." = "O ficheiro não existe no caminho %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "O ficheiro não existe no caminho %@, deseja criar um nessa localização?";
+"No Results" = "Sem Resultados";
+"Too many matches" = "Demasiadas correspondências";
+"Regular Expression" = "Expressão Regular";
+"Sort by Creation Date (Ascending)" = "Ordenar por Data de Criação (Crescente)";
+"Sort by Creation Date (Descending)" = "Ordenar por Data de Criação (Decrescente)";
+"code language" = "linguagem de código";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Não é possível renomear de $1 para $2, por favor use \"Ficheiro\" → \"Mover Para…\" na barra de menus.";
+"Markdown file" = "Ficheiro Markdown";
+"TextBundle file" = "Ficheiro TextBundle";
+"Images saved to TextBundle" = "Imagens guardadas no TextBundle";

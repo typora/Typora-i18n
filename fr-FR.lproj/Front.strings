@@ -25,7 +25,6 @@
 "Replace" = "Remplacer";
 "All" = "Tout";
 "Search text not found in article" = "Le texte recherché est introuvable dans l’article";
-"search text" = "texte à rechercher";
 
 /* Quick Open */
 "Search by file name" = "Rechercher par nom de fichier";
@@ -75,7 +74,7 @@
 "Sort Naturally (Descending)" = "Trier dans l’ordre décroissant";
 "Sort by Name (Ascending)" = "Trier par nom (Croissant)";
 "Sort by Modification Date (Ascending)" = "Trier par date de modification (Croissant)";
-"Sort by Name (Descending)" = "Trier par nom (Décroissant)";
+"Sort by Name (Descending)" = "Trier par nom (décroissant)";
 "Sort by Modification Date (Descending)" = "Trier par date de modification (Décroissant)";
 "Location" = "Emplacement";
 "Switch File List/Tree View" = "Basculer vers la vue en liste/arborescence de fichiers";
@@ -135,7 +134,6 @@
 "Select image from local file" = "Choisissez une image de vos fichiers locaux";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Impossible d’ouvrir l’emplacement <code>$1</code>, voulez-vous dire <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "choisissez une langue";
 "Finish Editing" = "Finir l’édition";
 
 "Revert advanced setting file to default one ?" = "Revenir des paramètres de fichiers avancés vers les paramètres par défaut ?";
@@ -194,3 +192,12 @@
 "No Results" = "Aucun résultat";
 "Too many matches" = "Trop de correspondances";
 "Regular Expression" = "Expression régulière";
+"Sort by Creation Date (Ascending)" = "Trier par date de création (croissant)";
+"Sort by Creation Date (Descending)" = "Trier par date de création (décroissant)";
+"code language" = "langage du code";
+"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Impossible de renommer de $1 à $2, veuillez utiliser "Fichier" → "Déplacer vers…" depuis la barre de menu.";
+"Markdown file" = "Fichier Markdown";
+"TextBundle file" = "Fichier TextBundle";
+"Images saved to TextBundle" = "Images enregistrées dans TextBundle";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Impossible de renommer de $1 à $2, veuillez utiliser \"Fichier\" → \"Déplacer vers…\" depuis la barre de menu.";

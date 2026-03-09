@@ -85,7 +85,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Sedang Mengimport...";
 "Importing in progress..." = "Pengimportan dalam kemajuan...";
-"Converting file with Pandoc. This may take some time." = "Ubah fail dengan Pandoc. Ini mungkin akan memerlukan masa.";
 "Abort" = "Gugur";
 
 /* Pandoc Export Panel */
@@ -152,7 +151,6 @@
 "Developer" = "Pemaju";
 "Update" = "Kemaskini";
 "Check Updates" = "Periksa Kemaskini";
-"Check updates automatically" = "Periksa kemaskini secara automatik";
 "Advanced Settings" = "Tetapan Lanjut";
 "Open Advanced Settings" = "Buka Tetapan Lanjut";
 "Reset Advanced Settings" = "Set Semula Tetapan Lanjut";
@@ -201,7 +199,6 @@
 "More Formats" = "Format Lanjut";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Format fail bawah seksyen 'Format Lanjut' memerlukan <a class='open-pandoc-guide'>Pandoc dipasang</a>.";
 "Something is Wrong…" = "Ada yang Tidak Kena…";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Penyimpanan kandungan gagal atas sebab tertentu.<br/>Anda boleh menyalin kandungan ke dalam tetingkap Typora baru, dan kemudian menyimpannya. <br/>Belajar lanjut tentang:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Lapor pepijat kepada kami</a></li><li><a href='https://support.typora.io/Version-Control//'>Pulih kandungan yang hilang</a></li></ul>";
 "Copy Content" = "Salin Kandungan";
 
 
@@ -277,7 +274,6 @@
 "Typewriter / Focus Mode have been turned off." = "Mod Mesin Taip / Fokus telah ditutup.";
 
 "Reading Speed" = "Kelajuan Membaca";
-"Auto" = "Auto";
 "words / min" = "perkataan / minit";
 
 "Reset to Default" = "Set Semula ke Asal";
@@ -312,7 +308,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Fungsi import dan beberapa format eksport memerlukan Pandoc (≥%@) dipasang.";
 "Do not show this message again" = "Jangan tunjuk mesej ini lagi";
 
-"Page Break Between Top Headings" = "Pecahan Halaman Antara Tajuk Utama";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Maaf, sesuatu ralat berlaku, kandungan penulisan semasa telah disalin ke clipboard. Anda boleh melapor ini kepada <hi@typora.io> untuk membantu kami membetulkan ralat ini.";
 "Try Recovery" = "Cuba Pemulihan";
@@ -338,7 +333,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Sila set pemuat naik imej dalam Panel Pilihan sebelum menggunakan fungsi ini.";
 "Download or Upgrade" = "Muat Turun atau Maik Taraf";
 "Open Config File" = "Buka Fail Konfigurasi";
-"Command" = "Perintah";
 "PicGo Path" = "Laluan PicGo";
 "Path of PicGo binary" = "Laluan binari PicGo";
 "Executable" = "Executable";
@@ -386,7 +380,6 @@
 "Include Outline Sidebar" = "Sertakan Bar Sisi Kerangka";
 "Width" = "Lebar";
 "Command" = "Perintah";
-"Show Save File Dialog" = "Tunjuk Dialog Simpan Fail";
 "File Extensions for Export" = "Sambungan Fail untuk Eksport";
 "Arguments" = "Hujahan";
 "Extra Arguments" = "Hujahan Tambahan";
@@ -400,7 +393,6 @@
 "Same folder with current file" = "Folder sama dengan fail semasa";
 "Custom location" = "Location khas";
 "(Auto Detect)" = "(Auto Kesan)";
-"After Export" = "Selepas Eksport";
 "Open exported file location" = "Buka lokasi fail yang dieksport";
 "Open exported file" = "Buka fail yang dieksport";
 "Custom" = "Khas";
@@ -478,11 +470,90 @@
 "This device has been deactivated" = "Peranti ini telah dinyahaktifkan";
 "UNREGISTERED" = "TIDAK BERDAFTAR";
 
-"Allow physics package to redefine existing TeX commands" = "Benarkan pakej fizik untuk menakrif semula perintah TeX sedia ada";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Apabila dibolehkan, arahan seperti \\div, \\Re akan ditakrif semula oleh pakej fizik.";
 
 "Your Typora is not activated." = "Typora anda belum diaktifkan.";
 "Your Typora has been activated." = "Typora anda sudah diaktifkan.";
 "Typora activation is required to change this." = "Pengaktifan Typora diperlukan untuk mengubah ini.";
 "You can reinstall the stable version and then disable this." = "Anda boleh memasang semula versi yang stabil dan menutup ini.";
 "Update to dev version" = "Kemaskini kepada versi pemaju";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Simpanan kandungan gagal atas sebab tertentu.<br/>Anda boleh menyalin kandungan ke tetingkap Typora baharu, kemudian simpan. <br/>Ketahui lebih lanjut tentang:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Laporkan pepijat kepada kami</a></li><li><a href='https://support.typora.io/Version-Control/'>Pulihkan kandungan hilang</a></li></ul>";
+"Typora Server" = "Pelayan Typora";
+"Use Typora Server in China" = "Gunakan Pelayan Typora di China";
+"File does not exist" = "Fail tidak wujud";
+"Create File" = "Cipta Fail";
+"Create Folder" = "Cipta Folder";
+"(Some options will be applied after restart.)" = "(Sesetengah pilihan akan digunakan selepas mula semula.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Salin atau potong keseluruhan baris yang mempunyai kursor padanya, jika tiada pemilihan semasa menyalin / memotong.";
+"Enable physics package" = "Aktifkan pakej fizik";
+"Physics package will redefine some latex macros, such as \div, \Re, etc." = "Pakej fizik akan mentakrifkan semula beberapa makro LaTeX, seperti \div, \Re, dll.";
+"Detail" = "Perincian";
+"Use custom font size" = "Gunakan saiz fon khas";
+"Use theme font size" = "Gunakan saiz fon tema";
+"You are using the Snap version, it may have limited access to your local executables." = "Anda menggunakan versi Snap, ia mungkin mempunyai akses terhad kepada fail boleh laksana tempatan anda.";
+"No local images found." = "Tiada imej tempatan ditemui.";
+"File Format:" = "Format Fail:";
+"Images copied to %@." = "Imej disalin ke %@.";
+"Images moved to %@." = "Imej dipindahkan ke %@.";
+"Custom Command" = "Perintah Khas";
+"No Automatic Equation Numbering" = "Tiada Penomboran Persamaan Automatik";
+"Use AMS Numbering Rules" = "Gunakan Peraturan Penomboran AMS";
+"Auto Numbering for All Math Equations" = "Penomboran Auto untuk Semua Persamaan Matematik";
+"Preferred Image Syntax" = "Sintaks Imej Pilihan";
+"Add ./ for relative path" = "Tambah ./ untuk laluan relatif";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Apabila diaktifkan, Typora akan menggunakan pola seperti ./assets/image.png dan bukannya assets/image.png apabila menjana laluan relatif untuk imej yang disisipkan.";
+"Image Quality" = "Kualiti Imej";
+"Medium" = "Sederhana";
+"High" = "Tinggi";
+"Best" = "Terbaik";
+"Use Shift+Tab to auto indent selected code" = "Gunakan Shift+Tab untuk lekuk auto kod terpilih";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Apabila dimatikan, Shift+Tab akan mengurangkan lekukan kod terpilih atau baris semasa. Apabila diaktifkan, Shift+Tab akan secara auto mengenakan lekukan untuk kod terpilih atau baris semasa dalam blok kod.";
+"Auto Links (e.g: https://typora.io)" = "Pautan Auto (cth: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Apabila diaktifkan, Typora akan secara auto mengenali dan menyerlahkan URL (cth: https://typora.io atau mailto:hi@typora.io) dalam teks.";
+"Files" = "Fail";
+"Default File Type / Extension" = "Jenis Fail / Sambungan Asas";
+"Custom Extension:" = "Sambungan Khas:";
+"Following extensions are supported: %@" = "Sambungan berikut disokong: %@";
+"When drop file / folder into Typora" = "Apabila menjatuhkan fail / folder ke Typora";
+"When drop folder" = "Apabila menjatuhkan folder";
+"When drop markdown file" = "Apabila menjatuhkan fail Markdown";
+"When drop files that can be imported" = "Apabila menjatuhkan fail yang boleh diimport";
+"Open in Typora" = "Buka dalam Typora";
+"Insert Folder Link" = "Sisip Pautan Folder";
+"Insert File Link" = "Sisip Pautan Fail";
+"Import File" = "Import Fail";
+"Diagram Options" = "Pilihan Rajah";
+"Default Code Language" = "Bahasa Kod Asas";
+"(None)" = "(Tiada)";
+"Last Used" = "Terakhir Digunakan";
+"Apply Default Code Language When" = "Guna Pakai Bahasa Kod Asas Apabila";
+"When add code fences via Markdown" = "Apabila menambah blok kod melalui Markdown";
+"When add code fences via Menubar" = "Apabila menambah blok kod melalui Bar Menu";
+"Both" = "Kedua-dua";
+"Pinned and Recent Locations" = "Lokasi Disemat dan Terkini";
+"Operation Succeeded" = "Operasi Berjaya";
+"Clear Recent Folders and Files" = "Kosongkan Folder dan Fail Terkini";
+"Clear Recent Folders / Files Only" = "Kosongkan Folder / Fail Terkini Sahaja";
+"Clear Recent and Pinned Folders / Files" = "Kosongkan Folder / Fail Terkini dan Disemat";
+"Also clear pinned folders" = "Kosongkan juga folder disemat";
+"Pin" = "Semat";
+"Unpin" = "Nyahsemat";
+"Remove from List" = "Buang daripada Senarai";
+"Record recent files and folders" = "Rekod fail dan folder terkini";
+"System Integration" = "Integrasi Sistem";
+"Please try sign out Windows to take effect." = "Sila cuba log keluar Windows untuk berkuat kuasa.";
+"Github Style Alert" = "Amaran Gaya Github";
+"Zoom when using mouse wheel and holding %@ key" = "Zum menggunakan roda tetikus dan menahan kekunci %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Dokumen semasa mengandungi perubahan yang belum disimpan. Adakah anda mahu beralih ke fail yang baru diduplikasi?";
+"Chapter Level in Outline" = "Tahap Bab dalam Kerangka";
+"Enable inline math or code block math" = "Aktifkan matematik sebaris atau matematik blok kod";
+"Code Block Math  (```math code block)" = "Matematik Blok Kod  (```math blok kod)";
+"PicList Path" = "Laluan PicList";
+"Auto Complete" = "Autolengkap";
+"Enable autocomplete for Emojis" = "Aktifkan autolengkap untuk Emoji";
+"Some settings will only apply after a reload" = "Sesetengah tetapan hanya akan diguna pakai selepas muat semula";
+"Reload" = "Muat Semula";
+
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Tambah \"Markdown\" ke menu konteks \"Baharu\" dalam Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Lupus item dari menu konteks \"Baharu\" dalam Windows Explorer";
+
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Pakej Physics akan mentakrifkan semula beberapa makro LaTeX, seperti \\div, \\Re, dll.";

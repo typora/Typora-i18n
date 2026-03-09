@@ -98,7 +98,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Pengimporan...";
 "Importing in progress..." = "Pengimporan dalam progres..."; /* See <https://kbbi.kemdikbud.go.id/entri/progres> */
-"Converting file with Pandoc. This may take some time." = "Mengonversi fail dengan Pandoc. Ini mungkin memakan waktu sebentar.";
 "Abort" = "Gugurkan";
 
 /* Pandoc Export Panel */
@@ -128,7 +127,6 @@
 "Exporting file using Pandoc. This may take some time." = "Mengekspor fail menggunakan Pandoc. Ini mungkin memakan beberapa waktu.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Pengunggahan Gambar via iPic...";
 "Uploading in progress…" = "Pengunggahan dalam progres...";
 "Do not show this again" = "Jangan munculkan ini kembali";
 
@@ -167,7 +165,6 @@
 "Developer" = "Developer"; /* See <https://kbbi.kemdikbud.go.id/entri/developer> */
 "Update" = "Pemutakhiran";
 "Check Updates" = "Cek Pemutakhiran";
-"Check updates automatically" = "Cek Pemutakhiran secara otomatis";
 "Advanced Settings" = "Setelan Lanjutan";
 "Open Advanced Settings" = "Buka Setelan Lanjutan";
 "Reset Advanced Settings" = "Reset Setelan Lanjutan"; /* See <https://kbbi.kemdikbud.go.id/entri/reset> */
@@ -179,7 +176,6 @@
 "This feature require macOS >= 10.11" = "Fitur ini memerlukan macOS >= 10.11";
 "One More Step" = "Satu Step Lagi"; /* See <https://kbbi.kemdikbud.go.id/entri/step> */
 "Notice" = "Maklumat"; /* See <https://kbbi.kemdikbud.go.id/entri/maklumat> */
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "Ini memerlukan iPic untuk diinstal, dan fail gambar yang diacu akan diunggah ke layanan awan via iPic. Silakan juga catat bahwa layanan awan bawaan tidak mendukung penghapusan gambar yang diunggah.";
 
 "%d Images Failed to Upload." = "%d Gambar Gagal Diunggah.";
 "%d Succeeded," = "%d Sukses, ";
@@ -234,7 +230,6 @@
 "Copy image to current folder (./)" = "Kopi gambar ke folder saat ini (./)";
 "Copy image to ./assets" = "Kopi gambar ke ./assets";
 "Copy image to ./${filename}.assets" = "Kopi gambar ke ./${filename}.assets";
-"Upload image via iPic" = "Unggah gambar via iPic";
 "Apply above rules to local images" = "Terapkan aturan di atas untuk gambar lokal";
 "Apply above rules to online images" = "Terapkan aturan di atas untuk gambar daring";
 "Allow upload images automatically based on YAML settings" = "Izinkan unggah gambar secara otomatis berdasarkan setelan YAML";
@@ -293,7 +288,6 @@
 "Typewriter / Focus Mode have been turned off." = "Mode Mesin Tik / Fokus telah dimatikan.";
 
 "Reading Speed" = "Kecepatan Membaca";
-"Auto" = "Oto";
 "words / min" = "kata / men";
 
 "Reset to Default" = "Reset ke Asali";
@@ -328,7 +322,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Fungsi impor dan beberapa format ekspor memerlukan Pandoc (≥%@) untuk diinstall.";
 "Do not show this message again" = "Jangan tampilkan pesan ini lagi";
 
-"Page Break Between Top Headings" = "Pemisahan Halaman di Antara Tajuk Teratas";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Maaf, terjadi kesalahan, konten tulisan saat ini telah disalin ke papan klip. Anda dapat melaporkan ini ke <hi@typora.io> untuk membantu kami memperbaiki eror ini.";
 "Try Recovery" = "Coba Pemulihan";
@@ -354,7 +347,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Silakan setel pengunggah gambar di panel Preferensi sebelum menggunakan fungsi ini.";
 "Download or Upgrade" = "Unduh atau Tingkatkan";
 "Open Config File" = "Buka Konfigurasi Fail";
-"Command" = "Perintah";
 "PicGo Path" = "Jalur PicGo";
 "Path of PicGo binary" = "Jalur dari binari PicGo";
 "Executable" = "Eksekutabel";
@@ -402,7 +394,6 @@
 "Include Outline Sidebar" = "Sertakan Bilahsisi Garisbesar";
 "Width" = "Lebar";
 "Command" = "Perintah";
-"Show Save File Dialog" = "Munculkan Dialog Simpan Fail";
 "File Extensions for Export" = "Ekstensi Fail untuk Ekspor";
 "Arguments" = "Argumen";
 "Extra Arguments" = "Argumen Ekstra";
@@ -416,7 +407,6 @@
 "Same folder with current file" = "Folder sama dengan fail saat ini";
 "Custom location" = "Lokasi kustom";
 "(Auto Detect)" = "(Oto Deteksi)";
-"After Export" = "Setelah Ekspor";
 "Open exported file location" = "Buka lokasi fail terekspor";
 "Open exported file" = "Buka fail terekspor";
 "Custom" = "Kustom";
@@ -494,8 +484,6 @@
 "This device has been deactivated" = "Perangkat ini telah terdeaktivasi";
 "UNREGISTERED" = "TAKTERDAFTAR";
 
-"Allow physics package to redefine existing TeX commands" = "Izinkan paket fisika untuk mendefinisikan kembali perintah TeX yang ada";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "Saat diaktifkan, perintah seperti \\div, \\Re akan didefinisikan ulang oleh paket fisika.";
 
 "Your Typora is not activated." = "Typora Anda tidak diaktifkan.";
 "Your Typora has been activated." = "Typora Anda telah diaktifkan.";
@@ -520,3 +508,70 @@
 "Use theme font size" = "Gunakan ukuran fon tema";
 
 "You are using the Snap version, it may have limited access to your local executables." = "Anda menggunakan versi Snap, ia mungkin memiliki limitasi akses ke eksekusi lokal Anda.";
+"The option `%@` must be enabled first to automatically upload images." = "Opsi `%@` harus diaktifkan terlebih dahulu untuk mengunggah gambar secara otomatis.";
+"No local images found." = "Tidak ditemukan gambar lokal.";
+"File Format:" = "Format Fail:";
+"Images copied to %@." = "Gambar dikopi ke %@.";
+"Images moved to %@." = "Gambar dipindahkan ke %@.";
+"Custom Command" = "Perintah Kustom";
+"No Automatic Equation Numbering" = "Tanpa Penomoran Persamaan Otomatis";
+"Use AMS Numbering Rules" = "Gunakan Aturan Penomoran AMS";
+"Auto Numbering for All Math Equations" = "Penomoran Otomatis untuk Semua Persamaan Matematika";
+"Preferred Image Syntax" = "Sintaks Gambar Pilihan";
+"Add ./ for relative path" = "Tambahkan ./ untuk jalur relatif";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Ketika diaktifkan, Typora akan menggunakan pola seperti ./assets/image.png alih-alih assets/image.png saat membuat jalur relatif untuk gambar yang disisipkan.";
+"Image Quality" = "Kualitas Gambar";
+"Medium" = "Sedang";
+"High" = "Tinggi";
+"Best" = "Terbaik";
+"Use Shift+Tab to auto indent selected code" = "Gunakan Shift+Tab untuk indentasi otomatis kode terpilih";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Ketika dimatikan, Shift+Tab akan mengurangi indentasi kode terpilih atau baris saat ini. Ketika diaktifkan, Shift+Tab akan otomatis menerapkan indentasi untuk kode terpilih atau baris saat ini di blok kode.";
+"Auto Links (e.g: https://typora.io)" = "Tautan Otomatis (mis: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Ketika diaktifkan, Typora akan otomatis mengenali dan menyorot URL (mis: https://typora.io atau mailto:hi@typora.io) dalam teks.";
+"Files" = "Fail";
+"Default File Type / Extension" = "Tipe Fail / Ekstensi Asali";
+"Custom Extension:" = "Ekstensi Kustom:";
+"Following extensions are supported: %@" = "Ekstensi berikut didukung: %@";
+"When drop file / folder into Typora" = "Ketika menjatuhkan fail / folder ke Typora";
+"When drop folder" = "Ketika menjatuhkan folder";
+"When drop markdown file" = "Ketika menjatuhkan fail Markdown";
+"When drop files that can be imported" = "Ketika menjatuhkan fail yang dapat diimpor";
+"Open in Typora" = "Buka di Typora";
+"Insert Folder Link" = "Sisipkan Tautan Folder";
+"Insert File Link" = "Sisipkan Tautan Fail";
+"Import File" = "Impor Fail";
+"Diagram Options" = "Opsi Diagram";
+"Default Code Language" = "Bahasa Kode Asali";
+"(None)" = "(Tidak Ada)";
+"Last Used" = "Terakhir Digunakan";
+"Apply Default Code Language When" = "Terapkan Bahasa Kode Asali Ketika";
+"When add code fences via Markdown" = "Ketika menambahkan blok kode via Markdown";
+"When add code fences via Menubar" = "Ketika menambahkan blok kode via Bilah Menu";
+"Both" = "Keduanya";
+"Pinned and Recent Locations" = "Lokasi Tersemat dan Terkini";
+"Operation Succeeded" = "Operasi Berhasil";
+"Clear Recent Folders and Files" = "Bersihkan Folder dan Fail Terkini";
+"Clear Recent Folders / Files Only" = "Bersihkan Folder / Fail Terkini Saja";
+"Clear Recent and Pinned Folders / Files" = "Bersihkan Folder / Fail Terkini dan Tersemat";
+"Also clear pinned folders" = "Bersihkan juga folder tersemat";
+"Pin" = "Sematkan";
+"Unpin" = "Lepas Sematan";
+"Remove from List" = "Hapus dari Daftar";
+"Record recent files and folders" = "Catat fail dan folder terkini";
+"System Integration" = "Integrasi Sistem";
+"Please try sign out Windows to take effect." = "Silakan coba keluar dari Windows agar perubahan berlaku.";
+"Github Style Alert" = "Peringatan Gaya Github";
+"Zoom when using mouse wheel and holding %@ key" = "Perbesar/perkecil menggunakan roda mouse sambil menahan tombol %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Dokumen saat ini berisi perubahan yang belum disimpan. Apakah Anda ingin beralih ke fail yang baru diduplikasi?";
+"Chapter Level in Outline" = "Tingkat Bab dalam Garisbesar";
+"Enable inline math or code block math" = "Aktifkan matematika sebaris atau matematika blok kode";
+"Code Block Math  (```math code block)" = "Matematika Blok Kode  (```math blok kode)";
+"PicList Path" = "Jalur PicList";
+"Auto Complete" = "Autolengkap";
+"Enable autocomplete for Emojis" = "Aktifkan autolengkap untuk Emoji";
+"Some settings will only apply after a reload" = "Beberapa pengaturan hanya akan berlaku setelah memuat ulang";
+"Reload" = "Muat Ulang";
+
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Fail yang sudah diedit akan disimpan tanpa bertanya ketika beralih fail di panel kiri. \nKetika \"Ask to keep changes when closing documents\" dinonaktifkan di System Preference, ini selalu diaktifkan.";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Tambahkan \"Markdown\" ke menu konteks \"New\" di Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Hapus item dari menu konteks \"New\" di Windows Explorer";

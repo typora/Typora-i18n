@@ -73,7 +73,6 @@
 "Refresh Folder" = "Obnoviť priečinok";
 "Sort" = "Zoradiť";
 "Group By Folder" = "Zoskupiť podľa priečinka";
-"Sort Naturally" = "Zoradiť prirodzene";
 "Sort by Name (Ascending)" = "Zoradiť podľa názvu (Vzostupne)";
 "Sort by Modification Date (Ascending)" = "Zoradiť podľa dátumu zmeny (Vzostupne)";
 "Sort by Name (Descending)" = "Zoradiť podľa názvu (Zostupne)";
@@ -136,7 +135,6 @@
 "Select image from local file" = "Vybrať obrázok z lokálného súboru";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>, myslíš <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "vybrať jazyk";
 "Finish Editing" = "Dokončiť úpravy";
 
 "Revert advanced setting file to default one ?" = "Vrátiť súbor rozšíreného nastavenia do predvolenej podoby ?";
@@ -170,3 +168,30 @@
 "Learn Data Recovery" = "Naučiť sa Obnovenie údajov";
 "Auto refresh on Files Panel cannot be enabled." = "Automatické obnovenie na paneli súborov nie je možné povoliť.";
 "Delete Permanently" = "Odstrániť natrvalo";
+
+"Sort Naturally (Ascending)" = "Prirodzené zoradenie (Vzostupne)";
+"Sort Naturally (Descending)" = "Prirodzené zoradenie (Zostupne)";
+"Failed to upload images:" = "Zlyhalo nahrávanie obrázkov:";
+"Uploading in progress" = "Prebieha nahrávanie";
+"Successfully uploaded {0} images, {1} failed." = "Úspešne nahraných {0} obrázkov, {1} zlyhalo.";
+"You could undo this operation later via `Edit` → `Undo`." = "Túto operáciu môžete neskôr vrátiť späť cez `Upraviť` → `Odvolať`.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Stlačením <strong>⌘ + klik</strong> môžete otvoriť <a href='#'>prepojenia</a> alebo prejsť na definíciu poznámky pod čiarou.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Stlačením <strong>CTRL + klik</strong> môžete otvoriť <a href='#'>prepojenia</a> alebo prejsť na definíciu poznámky pod čiarou.";
+"<strong>Unibody</strong> style has been turned on." = "Štýl <strong>Unibody</strong> bol zapnutý.";
+"You can right click titlebar to popup application menu." = "Kliknutím pravým tlačidlom myši na záhlavie zobrazíte ponuku aplikácie.";
+"Support Document" = "Dokument podpory";
+"You are not supposed to edit or save this file." = "Tento súbor nemáte upravovať ani ukladať.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Súbory v tomto umiestnení (%@) sú spravované Typorou a môžu byť automaticky vymazané.<br/>Prosím skopírujte obsah do nového súboru pre ďalšie úpravy.";
+"File does not exist at path %@." = "Súbor na ceste %@ neexistuje.";
+"File does not exist at path %@, do you want to create one at that path?" = "Súbor na ceste %@ neexistuje, chcete ho vytvoriť?";
+"No Results" = "Žiadne výsledky";
+"Too many matches" = "Príliš veľa zhôd";
+"Regular Expression" = "Regulárny výraz";
+"Sort by Creation Date (Ascending)" = "Zoradiť podľa dátumu vytvorenia (Vzostupne)";
+"Sort by Creation Date (Descending)" = "Zoradiť podľa dátumu vytvorenia (Zostupne)";
+"code language" = "jazyk kódu";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite \"Súbor\" → \"Presunúť do…\" z panela ponúk.";
+"Markdown file" = "Súbor Markdown";
+"TextBundle file" = "Súbor TextBundle";
+"Images saved to TextBundle" = "Obrázky uložené do TextBundle";
+"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite "Súbor" → "Presunúť do…" z ponuky.";

@@ -25,7 +25,6 @@
 "Replace" = "Csere";
 "All" = "Összes";
 "Search text not found in article" = "A keresett szöveg nem található";
-"search text" = "keresendő szöveg";
 
 /* Quick Open */
 "Search by file name" = "Keresés fájlnév alapján";
@@ -176,8 +175,6 @@
 
 "You could undo this operation later via `Edit` → `Undo`." = "Később visszavonhatod ezt a műveletet a Szerkesztés → Visszavonás-sal.";
 
-"You can press <strong>⌘ + Click</strong> to open <a href'#'>links</a> or jump to footnote definition." = "<a href='#'>Linkek</a> megnyitása vagy lábjegyzetre ugrás <strong>⌘ + kattintással</strong>.";
-"You can press <strong>CTRL + Click</strong> to open <a href'#'>links</a> or jump to footnote definition." = "<a href='#'>Linkek</a> megnyitása vagy lábjegyzetre ugrás <strong>CTRL + kattintással</strong>.";
 
 "<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stílus bekapcsolódott.";
 "You can right click titlebar to popup application menu." = "Az alkalmazás menü megnyitásához kattints jobb gombbal a címsorra.";
@@ -203,3 +200,5 @@
 "Markdown file" = "Markdown fájl";
 "TextBundle file" = "TextBundle fájl";
 "Images saved to TextBundle" = "Képek mentve a TextBundle-ba";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "A <strong>⌘ + Kattintás</strong> kombinációval megnyithatja a <a href='#'>hivatkozásokat</a> vagy a lábjegyzet definíciójához ugorhat.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "A <strong>CTRL + Kattintás</strong> kombinációval megnyithatja a <a href='#'>hivatkozásokat</a> vagy a lábjegyzet definíciójához ugorhat.";

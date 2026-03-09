@@ -140,7 +140,6 @@
 "Select image from local file" = "Chọn hình ảnh từ tệp tin trong máy";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Không thể mở vị trí <code>$1</code>, ý bạn là <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "chọn một ngôn ngữ";
 "Finish Editing" = "Kết thúc Chỉnh sửa";
 
 "Revert advanced setting file to default one ?" = "Phục hồi tệp tin cài đặt nâng cao về mặc định ?";

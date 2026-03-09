@@ -42,8 +42,6 @@
 "Emoji (e.g. :smile:)" = "이모티콘 (예시: :smile:)";
 "Images Insert" = "이미지 삽입";
 "Use relative path if possible" = "가능하다면 상대적 위치 사용";
-"Allow copy images to given folder" = "주어진 폴더로 이미지 복사 허용";
-"Allow upload to given server" = "주어진 서버로 업로드 허용";
 "Auto Pair" = "자동 페어";
 "Auto pair brackets and quotes" = "대괄호와 따옴표 자동 페어";
 "Auto pair common Markdown syntax" = "일반적인 Markdown 문법 자동 페어";
@@ -89,7 +87,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "가져오기...";
 "Importing in progress..." = "가져오기 작업 중...";
-"Converting file with Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 변환합니다. 이 작업은 약간의 시간이 소요됩니다.";
 "Abort" = "중단";
 
 /* Pandoc Export Panel */
@@ -119,7 +116,6 @@
 "Exporting file using Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 내보냅니다. 이 작업은 약간의 시간이 소요됩니다.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "iPic으로 사진 업로드...";
 "Uploading in progress…" = "업로드 작업 중...";
 "Do not show this again" = "다시 보지 않기";
 
@@ -152,15 +148,12 @@
 "Default Line Ending" = "기본 개행 문자";
 "Line ending for new file" = "새 파일의 개행 문자";
 "Spell Check" = "맞춤법 검사";
-"(support US English only)" = "(미국 영어만 지원)";
-"Enable spell check" = "맞춤법 검사 활성화";
 "Auto correct spelling" = "맞춤법 자동 수정";
 "System" = "시스템";
 "Privacy" = "개인 정보";
 "Developer" = "개발자";
 "Update" = "업데이트";
 "Check Updates" = "업데이트 확인";
-"Check updates automatically" = "업데이트 자동 확인";
 "Advanced Settings" = "고급 설정";
 "Open Advanced Settings" = "고급 설정 열기";
 "Reset Advanced Settings" = "고급 설정 초기화";
@@ -172,7 +165,6 @@
 "This feature require macOS >= 10.11" = "이 작업은 macOS >= 10.11를 필요로 합니다";
 "One More Step" = "다음 단계";
 "Notice" = "공지";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "이를 위해서는 iPic을 설치해야하고 참조된 이미지 파일이 iPic을 통해 클라우드 서비스에 업로드됩니다. 기본 클라우드 서비스는 업로드된 이미지 삭제를 지원하지 않습니다.";
 
 "%d Images Failed to Upload." = "%d개의 이미지 업로드 실패.";
 "%d Succeeded," = "%d개 성공";
@@ -227,12 +219,10 @@
 "Copy image to current folder (./)" = "현재 폴더(./)로 이미지 복사";
 "Copy image to ./assets" = "./assets 경로로 이미지 복사";
 "Copy image to ./${filename}.assets" = "./${filename}.assets 경로로 이미지 복사";
-"Upload image via iPic" = "iPic를 통해서 이미지 업로드";
 "Apply above rules to local images" = "로컬 이미지에 위 규칙을 적용";
 "Apply above rules to online images" = "온라인 이미지에 위 규칙을 적용";
 "Allow upload images automatically based on YAML settings" = "YAML 설정에 기반해서 이미지 자동 업로드 허용";
 
-"Learn More…" = "더 알아보기…";
 "Whitespace / Line Break" = "공백 / 줄 바꿈";
 "When Writing" = "문서 작성 중";
 "Export / Print" = "내보내기 / 인쇄";
@@ -286,7 +276,6 @@
 "Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다.";
 
 "Reading Speed" = "읽기 속도";
-"Auto" = "Auto";
 "words / min" = "단어 / 분";
 
 "Reset to Default" = "기본값으로 되돌리기";
@@ -321,7 +310,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Import function and several export formats requires Pandoc (≥%@) to be installed.";
 "Do not show this message again" = "이 메시지를 다시 표시하지 않음";
 
-"Page Break Between Top Headings" = "제목(Top Headings)이 나올 때마다 페이지 나누기";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "죄송합니다. 오류가 발생했습니다. 현재의 작업 내용을 클립보드에 복사했습니다. 이 오류를 고칠 수 있도록 <hi@typora.io> 로 제보해 주시기 바랍니다.";
 "Try Recovery" = "복구 시도";
@@ -347,7 +335,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Please set an image uploader in Preferences panel before using this function.";
 "Download or Upgrade" = "Download or Upgrade";
 "Open Config File" = "Open Config File";
-"Command" = "Command";
 "PicGo Path" = "PicGo Path";
 "Path of PicGo binary" = "Path of PicGo binary";
 "Executable" = "Executable";
@@ -409,7 +396,6 @@
 "Same folder with current file" = "현재 파일과 같은 폴더";
 "Custom location" = "사용자 지정 위치";
 "(Auto Detect)" = "(자동설정)";
-"After Export" = "내보내기 이후 작업";
 "Open exported file location" = "파일을 내보낸 위치 열기";
 "Open exported file" = "내보낸 파일 열기";
 "Custom" = "Custom";
@@ -436,7 +422,6 @@
 "e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
 "Raw Type" = "Raw Type";
 "Auto" = "자동";
-"Show Save File Dialog" = "Show Save File Dialog";
 "Do not popup save file dialog" = "Do not popup save file dialog";
 "Select file path to save" = "Select file path to save";
 "Select folder path to save" = "Select folder path to save";
@@ -487,8 +472,6 @@
 "This device has been deactivated" = "이 기기의 등록이 비활성화되었습니다.";
 "UNREGISTERED" = "등록되지 않음";
 
-"Allow physics package to redefine existing TeX commands" = "physics 패키지가 TeX 명령어를 재정의하는 것을 허용";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "이 기능을 활성화하면, \\div, \\Re 등의 명령어를 physics 패키지에서 정의된 것으로 재정의합니다.";
 
 "Your Typora is not activated." = "Typora가 등록되지 않았습니다.";
 "Your Typora has been activated." = "Typora가 등록되었습니다.";
@@ -525,3 +508,63 @@
 "No Automatic Equation Numbering" = "수식 자동 정렬 안함";
 "Use AMS Numbering Rules" = "AMS 정렬 규칙 사용";
 "Auto Numbering for All Math Equations" = "모든 수식 자동 정렬";
+"The option `%@` must be enabled first to automatically upload images." = "이미지를 자동으로 업로드하려면 먼저 `%@` 옵션을 활성화해야 합니다.";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora가 YAML Front Matter 설정이나 전역 환경설정에 따라 새로 삽입된 이미지를 %@ 폴더로 복사하려 합니다. 하지만 대상 폴더가 존재하지 않습니다. 지금 생성하시겠습니까?";
+"Learn More" = "더 알아보기";
+"Preferred Image Syntax" = "기본 이미지 구문";
+"Add ./ for relative path" = "상대 경로에 ./ 추가";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "활성화하면 Typora가 삽입된 이미지의 상대 경로를 생성할 때 assets/image.png 대신 ./assets/image.png 형식을 사용합니다.";
+"Image Quality" = "이미지 품질";
+"Medium" = "중간";
+"High" = "높음";
+"Best" = "최상";
+"Use Shift+Tab to auto indent selected code" = "Shift+Tab으로 선택한 코드 자동 들여쓰기";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "비활성화 시, Shift+Tab은 선택한 코드 또는 현재 줄의 들여쓰기를 줄입니다. 활성화 시, Shift+Tab은 코드 블록에서 선택한 코드 또는 현재 줄에 자동으로 들여쓰기를 적용합니다.";
+"Auto Links (e.g: https://typora.io)" = "자동 링크 (예: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "활성화하면 Typora가 텍스트에서 URL(예: https://typora.io 또는 mailto:hi@typora.io)을 자동으로 인식하고 강조 표시합니다.";
+"Files" = "파일";
+"Default File Type / Extension" = "기본 파일 유형 / 확장자";
+"Custom Extension:" = "사용자 정의 확장자:";
+"Following extensions are supported: %@" = "다음 확장자가 지원됩니다: %@";
+"When drop file / folder into Typora" = "파일 / 폴더를 Typora에 끌어놓을 때";
+"When drop folder" = "폴더를 끌어놓을 때";
+"When drop markdown file" = "Markdown 파일을 끌어놓을 때";
+"When drop files that can be imported" = "가져올 수 있는 파일을 끌어놓을 때";
+"Open in Typora" = "Typora에서 열기";
+"Insert Folder Link" = "폴더 링크 삽입";
+"Insert File Link" = "파일 링크 삽입";
+"Import File" = "파일 가져오기";
+"Diagram Options" = "다이어그램 옵션";
+"Default Code Language" = "기본 코드 언어";
+"(None)" = "(없음)";
+"Last Used" = "마지막 사용";
+"Apply Default Code Language When" = "기본 코드 언어 적용 시점";
+"When add code fences via Markdown" = "Markdown으로 코드 블록 추가 시";
+"When add code fences via Menubar" = "메뉴 막대로 코드 블록 추가 시";
+"Both" = "둘 다";
+"Pinned and Recent Locations" = "고정 및 최근 위치";
+"Operation Succeeded" = "작업이 완료되었습니다";
+"Clear Recent Folders and Files" = "최근 폴더 및 파일 지우기";
+"Clear Recent Folders / Files Only" = "최근 폴더 / 파일만 지우기";
+"Clear Recent and Pinned Folders / Files" = "최근 및 고정된 폴더 / 파일 지우기";
+"Also clear pinned folders" = "고정된 폴더도 지우기";
+"Pin" = "고정";
+"Unpin" = "고정 해제";
+"Remove from List" = "목록에서 제거";
+"Record recent files and folders" = "최근 파일 및 폴더 기록";
+"System Integration" = "시스템 통합";
+"Please try sign out Windows to take effect." = "변경사항을 적용하려면 Windows에서 로그아웃해 보세요.";
+"Github Style Alert" = "Github 스타일 알림";
+"Zoom when using mouse wheel and holding %@ key" = "마우스 휠을 사용하고 %@ 키를 누른 상태로 확대/축소";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "현재 문서에 저장되지 않은 변경사항이 있습니다. 새로 복제된 파일로 전환하시겠습니까?";
+"Chapter Level in Outline" = "개요의 장 수준";
+"Enable inline math or code block math" = "인라인 수식 또는 코드 블록 수식 활성화";
+"Code Block Math  (```math code block)" = "코드 블록 수식  (```math 코드 블록)";
+"PicList Path" = "PicList 경로";
+"Auto Complete" = "자동 완성";
+"Enable autocomplete for Emojis" = "이모티콘 자동 완성 활성화";
+"Some settings will only apply after a reload" = "일부 설정은 다시 로드한 후에 적용됩니다";
+"Reload" = "다시 로드";
+
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Windows 탐색기의 \"새로 만들기\" 상황에 맞는 메뉴에 \"Markdown\" 추가";
+"Delete items from \"New\" context menu in Windows Explorer" = "Windows 탐색기의 \"새로 만들기\" 상황에 맞는 메뉴에서 항목 삭제";

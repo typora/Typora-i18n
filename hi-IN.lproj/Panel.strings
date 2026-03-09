@@ -573,3 +573,8 @@
 "Chapter Level in Outline" = "अध्याय स्तर रूपरेखा में";
 "Enable inline math or code block math" = "इनलाइन गणित या कोड ब्लॉक गणित सक्षम करें";
 "Code Block Math  (```math code block)" = "कोड ब्लॉक गणित (```गणित कोड ब्लॉक)";
+"PicList Path" = "PicList पथ";
+"Auto Complete" = "स्वतः पूर्ण";
+"Enable autocomplete for Emojis" = "इमोजी के लिए स्वतः पूर्ण सक्षम करें";
+"Some settings will only apply after a reload" = "कुछ सेटिंग्स केवल पुनः लोड करने के बाद लागू होंगी";
+"Reload" = "पुनः लोड करें";

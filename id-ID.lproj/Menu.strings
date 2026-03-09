@@ -51,7 +51,6 @@
 "Save" = "Simpan";
 "Save As" = "Simpan sebagai"; /* `as` or `sebagai` is conjunction, so in Indonesian must start with a lowercase letter */
 "Duplicate" = "Duplikasikan"; /* See <https://kbbi.kemdikbud.go.id/entri/duplikasi>, `kan` is an affix for imperative verbs in Indonesian. */
-"Rename" = "Namaiulang";
 "Move To" = "Pindahkan ke";
 "Revert To" = "Kembalikan ke";
 "Browse All Versions" = "Telusuri Semua Versi";
@@ -90,7 +89,6 @@
 "Upload Local Images via iPic" = "Unggah Gambar Lokal via iPic"; /* `via` must stay the same */
 "When Insert Local Image" = "Ketika Menyisipkan Gambar Lokal";
 "Copy Image File to Folder" = "Kopi Fail Gambar ke Folder";
-"Upload Image via iPic" = "Unggah Gambar via iPic";
 "Use Image Root Path" = "Gunakan Jalur Akar Gambar";
 "Line Endings" = "Akhiran Baris";
 "Windows Line Endings (CRLF)" = "Akhiran Baris Windows (CRLF)";
@@ -111,8 +109,6 @@
 "Smart Dashes" = "Tanda Hubung Cerdas";
 "Text Replacement" = "Penggantian Teks";
 "Speech" = "Suara";
-"Start Speaking" = "Mulai Berbicara";
-"Stop Speaking" = "Stop Berbicara";
 
 /* Paragraph Menu */
 "Paragraph" = "Paragraf";
@@ -124,7 +120,6 @@
 "Heading 6" = "Tajuk 6";
 "Increase Heading Level" = "Naikkan Level Tajuk"; /* See <https://kbbi.kemdikbud.go.id/entri/level> */
 "Decrease Heading Level" = "Turunkan Level Tajuk";
-"Table" = "Tabel";
 "Code Fences" = "Pagar Kode";
 "Math Block" = "Blok Matematika";
 "Quote" = "Kutipan";
@@ -252,7 +247,6 @@
 "Copy '%@'" = "Kopi '%@'";
 "Copy to %@" = "Kopi ke %@";
 "Copy Image to" = "Kopi Gambar ke";
-"Upload via iPic" = "Unggah via iPic";
 "Open Image Location" = "Buka Lokasi Gambar";
 
 "Learn More" = "Pelajari Lagi";
@@ -266,7 +260,7 @@
 "Reopen Closed File" = "Kembali Buka Fail Tertutup";
 
 "Global Image Settings" = "Setelan Gambar Global";
-"Smart Punctuation" = "Pungtuasi Cerdas"; <https://kbbi.kemdikbud.go.id/entri/pungtuasi> */
+"Smart Punctuation" = "Pungtuasi Cerdas";
 "Convert on Input" = "Konversikan saat Input";
 "Convert on Rendering" = "Konversikan saat Rendering";
 "Remap Unicode Punctuation on Parse" = "Petaulangkan Pungtuasi Unicode saat Penguraian";
@@ -344,8 +338,33 @@
 "Select Paragraph / Block" = "Seleksi Paragraf / Blok";
 
 "Delete Selected" = "Hapus yang Dipilih";
-"Move Image to" = "Pindahkan Gambar ke";
 "Move to %@" = "Pindahkan ke %@";
 "Delete Image" = "Hapus Gambar";
 "Delete Image File" = "Hapus Fail Gambar";
 "Reload All Images" = "Kembali Muat Semua Gambar";
+"Rename or Move Image to" = "Ganti Nama atau Pindahkan Gambar ke";
+"Save %@ As" = "Simpan %@ Sebagai";
+"Copy All Images to" = "Kopi Semua Gambar ke";
+"Move All Images to" = "Pindahkan Semua Gambar ke";
+"Copy as Image" = "Kopi sebagai Gambar";
+"Switch Image Syntax" = "Ganti Sintaks Gambar";
+"Markdown Style" = "Gaya Markdown";
+"HTML Style" = "Gaya HTML";
+"Code Tools" = "Peralatan Kode";
+"Copy Code Content" = "Kopi Konten Kode";
+"Auto Indent Selected Code" = "Indentasi Otomatis Kode Terpilih";
+"Auto Indent Whole Code" = "Indentasi Otomatis Seluruh Kode";
+"Jump to Line Start" = "Lompat ke Awal Baris";
+"Jump to Line End" = "Lompat ke Akhir Baris";
+"Toggle Word Count Popover" = "Tampilkan/Sembunyikan Popover Jumlah Kata";
+"Toggle Outline Popover" = "Tampilkan/Sembunyikan Popover Garisbesar";
+"Alert" = "Peringatan";
+"Note Block" = "Blok Catatan";
+"Tip Block" = "Blok Tips";
+"Important Block" = "Blok Penting";
+"Warning Block" = "Blok Peringatan";
+"Caution Block" = "Blok Perhatian";
+"Move Table Row Up" = "Pindahkan Baris Tabel ke Atas";
+"Move Table Row Down" = "Pindahkan Baris Tabel ke Bawah";
+"Move Table Column Left" = "Pindahkan Kolom Tabel ke Kiri";
+"Move Table Column Right" = "Pindahkan Kolom Tabel ke Kanan";

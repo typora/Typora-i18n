@@ -365,3 +365,7 @@
 "Important Block" = "Block för viktigt";
 "Warning Block" = "Block för varning";
 "Caution Block" = "Block för försiktigt";
+"Move Table Row Up" = "Flytta upp tabellrad";
+"Move Table Row Down" = "Flytta ner tabellrad";
+"Move Table Column Left" = "Flytta tabellkolumn åt vänster";
+"Move Table Column Right" = "Flytta tabellkolumn åt höger";

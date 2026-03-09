@@ -28,7 +28,6 @@
 "Replace" = "바꾸기";
 "All" = "모두";
 "Search text not found in article" = "문서에서 텍스트를 찾지 못했습니다";
-"search text" = "찾을 텍스트";
 
 /* Quick Open */
 "Search by file name" = "파일 이름으로 찾기";
@@ -73,7 +72,6 @@
 "Refresh Folder" = "폴더 새로고침";
 "Sort" = "정렬";
 "Group By Folder" = "폴더별로 정렬";
-"Sort Naturally" = "기본 정렬";
 "Sort by Name (Ascending)" = "이름순 정렬 (오름차순)";
 "Sort by Modification Date (Ascending)" = "수정한 날짜순 정렬 (오름차순)";
 "Sort by Name (Descending)" = "이름순 정렬 (내림차순)";
@@ -114,7 +112,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";
 "Should continue moving and overwrite existing file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
 
-"Rename Failed" = "이름 변경 실패";
 "Rename to \"{0}\" ?" = "\"{0}\"(으)로 이름을 바꾸시겠습니까?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\"(에)서 \"{1}\"(으)로 이름 변경 실패";
 
@@ -137,7 +134,6 @@
 "Select image from local file" = "로컬 파일에서 이미지 선택";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "해당 위치를 찾을 수 없습니다. <code>$1</code>, 다음의 위치입니까? <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "언어 선택";
 "Finish Editing" = "편집 완료하기";
 
 "Revert advanced setting file to default one ?" = "고급 설정을 기본값으로 되돌릴까요?";
@@ -196,3 +192,15 @@
 "No Results" = "결과 없음";
 "Too many matches" = "결과가 너무 많음";
 "Regular Expression" = "정규식";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora가 YAML Front Matter 설정이나 전역 환경설정에 따라 새로 삽입된 이미지를 <code id='image-create-folder-target'></code> 폴더로 복사하려 합니다. 하지만 대상 폴더가 존재하지 않습니다. 지금 생성하시겠습니까?";
+"Sort Naturally (Ascending)" = "자연 정렬 (오름차순)";
+"Sort Naturally (Descending)" = "자연 정렬 (내림차순)";
+"Sort by Creation Date (Ascending)" = "생성 날짜순 정렬 (오름차순)";
+"Sort by Creation Date (Descending)" = "생성 날짜순 정렬 (내림차순)";
+"code language" = "코드 언어";
+"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 대신 메뉴 막대의 "파일" → "이동…"을 사용해 주세요.";
+"Markdown file" = "Markdown 파일";
+"TextBundle file" = "TextBundle 파일";
+"Images saved to TextBundle" = "이미지가 TextBundle에 저장됨";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 대신 메뉴 막대의 \"파일\" → \"다음으로 이동…\"을 사용하세요.";

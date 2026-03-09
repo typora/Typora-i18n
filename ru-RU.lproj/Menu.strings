@@ -36,7 +36,6 @@
 "Save" = "Сохранить";
 "Save As" = "Сохранить как";
 "Duplicate" = "Копировать";
-"Rename" = "Переименовать";
 "Move To" = "Переместить в";
 "Revert To" = "Вернуться к";
 "Browse All Versions" = "Просмотр всех версий";
@@ -95,8 +94,6 @@
 "Smart Dashes" = "Умные тире";
 "Text Replacement" = "Замена текста";
 "Speech" = "Речь";
-"Start Speaking" = "Начать речь";
-"Stop Speaking" = "Остановить речь";
 
 /* Paragraph Menu */
 "Paragraph" = "Параграф";
@@ -108,7 +105,6 @@
 "Heading 6" = "Заголовок 6";
 "Increase Heading Level" = "Увеличить уровень заголовка";
 "Decrease Heading Level" = "Уменьшить уровень заголовка";
-"Table" = "Таблица";
 "Code Fences" = "Подсветка кода";
 "Math Block" = "Математический блок";
 "Quote" = "Цитата";
@@ -325,3 +321,34 @@
 "Registration / Activation" = "Регистрация / Активация";
 
 "Select Paragraph / Block" = "Выберите абзац/блок";
+"Delete Selected" = "Удалить выделенное";
+"Rename or Move Image to" = "Переименовать или переместить изображение в";
+"Move to %@" = "Переместить в %@";
+"Delete Image" = "Удалить изображение";
+"Delete Image File" = "Удалить файл изображения";
+"Reload All Images" = "Перезагрузить все изображения";
+"Save %@ As" = "Сохранить %@ как";
+"Copy All Images to" = "Копировать все изображения в";
+"Move All Images to" = "Переместить все изображения в";
+"Copy as Image" = "Копировать как изображение";
+"Switch Image Syntax" = "Переключить синтаксис изображения";
+"Markdown Style" = "Стиль Markdown";
+"HTML Style" = "Стиль HTML";
+"Code Tools" = "Инструменты кода";
+"Copy Code Content" = "Копировать содержимое кода";
+"Auto Indent Selected Code" = "Автоотступ выделенного кода";
+"Auto Indent Whole Code" = "Автоотступ всего кода";
+"Jump to Line Start" = "Перейти к началу строки";
+"Jump to Line End" = "Перейти к концу строки";
+"Toggle Word Count Popover" = "Показать/скрыть количество слов";
+"Toggle Outline Popover" = "Показать/скрыть оглавление";
+"Alert" = "Предупреждение";
+"Note Block" = "Блок примечания";
+"Tip Block" = "Блок совета";
+"Important Block" = "Блок важного";
+"Warning Block" = "Блок предупреждения";
+"Caution Block" = "Блок осторожности";
+"Move Table Row Up" = "Переместить строку таблицы вверх";
+"Move Table Row Down" = "Переместить строку таблицы вниз";
+"Move Table Column Left" = "Переместить столбец таблицы влево";
+"Move Table Column Right" = "Переместить столбец таблицы вправо";

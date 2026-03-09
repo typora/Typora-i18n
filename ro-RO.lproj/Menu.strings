@@ -37,7 +37,6 @@
 "Save" = "Salvează";
 "Save As" = "Salvează Ca";
 "Duplicate" = "Duplichează";
-"Rename" = "Redenumește";
 "Move To" = "Mută În";
 "Revert To" = "Întoarcete La";
 "Browse All Versions" = "Răsfoiește Toate Versiunile";
@@ -96,8 +95,6 @@
 "Smart Dashes" = "Cratime Inteligente";
 "Text Replacement" = "Înlocuire Text";
 "Speech" = "Enunțare";
-"Start Speaking" = "Pornire Enunțare";
-"Stop Speaking" = "Oprire Enunțare";
 
 /* Paragraph Menu */
 "Paragraph" = "Paragraf";
@@ -109,7 +106,6 @@
 "Heading 6" = "Titlu 6";
 "Increase Heading Level" = "Crește Nivelul de Titlu";
 "Decrease Heading Level" = "Micșorează Nivelul de Titlu";
-"Table" = "Tabel";
 "Code Fences" = "Bloc de Cod";
 "Math Block" = "Bloc Matematic";
 "Quote" = "Citează";
@@ -312,4 +308,43 @@
 "Export with Previous" = "Exportă cu Anteriorul";
 "Export and Overwrite with Previous" = "Exportă și Suprascrie cu Anteriorul";
 
-"Emoji & Symbols" = "Emoji & Simboluri";
+"Emoji and Symbols" = "Emoji și Simboluri";
+"Insert Final New Line On Save" = "Inserează Linie Nouă Finală la Salvare";
+"Hyperlink Actions" = "Acțiuni Hiperlink";
+"Copy Link Address" = "Copiază Adresa Linkului";
+"Click" = "Click";
+"Export Setting" = "Setări Export";
+"My License" = "Licența Mea";
+"Registration / Activation" = "Înregistrare / Activare";
+"Select Paragraph / Block" = "Selectează Paragraf / Bloc";
+"Delete Selected" = "Șterge Selecția";
+"Rename or Move Image to" = "Redenumește sau Mută Imaginea la";
+"Move to %@" = "Mută la %@";
+"Delete Image" = "Șterge Imaginea";
+"Delete Image File" = "Șterge Fișierul Imagine";
+"Reload All Images" = "Reîncarcă Toate Imaginile";
+"Save %@ As" = "Salvează %@ Ca";
+"Copy All Images to" = "Copiază Toate Imaginile în";
+"Move All Images to" = "Mută Toate Imaginile în";
+"Copy as Image" = "Copiază ca Imagine";
+"Switch Image Syntax" = "Schimbă Sintaxa Imaginii";
+"Markdown Style" = "Stil Markdown";
+"HTML Style" = "Stil HTML";
+"Code Tools" = "Instrumente Cod";
+"Copy Code Content" = "Copiază Conținutul Codului";
+"Auto Indent Selected Code" = "Indentare Automată Cod Selectat";
+"Auto Indent Whole Code" = "Indentare Automată Tot Codul";
+"Jump to Line Start" = "Salt la Începutul Liniei";
+"Jump to Line End" = "Salt la Sfârșitul Liniei";
+"Toggle Word Count Popover" = "Afișează/Ascunde Contorul de Cuvinte";
+"Toggle Outline Popover" = "Afișează/Ascunde Schița";
+"Alert" = "Alertă";
+"Note Block" = "Bloc Notă";
+"Tip Block" = "Bloc Sfat";
+"Important Block" = "Bloc Important";
+"Warning Block" = "Bloc Avertisment";
+"Caution Block" = "Bloc Atenție";
+"Move Table Row Up" = "Mută Rândul Tabelului în Sus";
+"Move Table Row Down" = "Mută Rândul Tabelului în Jos";
+"Move Table Column Left" = "Mută Coloana Tabelului la Stânga";
+"Move Table Column Right" = "Mută Coloana Tabelului la Dreapta";

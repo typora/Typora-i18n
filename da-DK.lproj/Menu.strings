@@ -77,7 +77,6 @@
 "Upload Local Images via iPic" = "Upload lokalt billede vha. iPic";
 "When Insert Local Image" = "Når lokalt billede indsættes";
 "Copy Image File to Folder" = "Kopier billede til mappe";
-"Upload Image via iPic" = "Upload billede vha. iPic";
 "Use Image Root Path" = "Brug billedes rodsti";
 "Line Endings" = "Linjeslut";
 "Windows Line Endings (CRLF)" = "Windows linjeslut (CRLF)";
@@ -239,7 +238,6 @@
 "Copy '%@'" = "Kopier '%@'";
 "Copy to %@" = "Kopier til %@";
 "Copy Image to" = "Kopier billede til";
-"Upload via iPic" = "Upload vha. iPic";
 "Open Image Location" = "Åben billedeplacering";
 
 "Learn More" = "Læs mere";
@@ -364,3 +362,7 @@
 "Important Block" = "Vigtig blok";
 "Warning Block" = "Advarselsblok";
 "Caution Block" = "Forsigtig blok";
+"Move Table Row Up" = "Flyt tabelrække op";
+"Move Table Row Down" = "Flyt tabelrække ned";
+"Move Table Column Left" = "Flyt tabelkolonne til venstre";
+"Move Table Column Right" = "Flyt tabelkolonne til højre";

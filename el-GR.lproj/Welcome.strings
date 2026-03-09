@@ -9,69 +9,77 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Καλώς ήρθατε στο Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Σας ευχαριστούμε που χρησιμοποιείτε το Typora 👋. Το Typora είναι ένας μινιμαλιστικός επεξεργαστής και αναγνώστης Markdown, σας προσφέρει μια αδιάλειπτη εμπειρία μεταξύ αποδοθέντος περιεχομένου πλούσιου στυλ και πηγαίου κώδικα.";
 
-"Get Started" = "Get Started";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Started" = "Ξεκινήστε";
+"Check following links if you're new to Markdown or Typora." = "Ελέγξτε τους παρακάτω συνδέσμους αν είστε νέοι στο Markdown ή το Typora.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Ενεργοποίηση Typora";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Έχετε ήδη αγοράσει άδεια; Συμπληρώστε τη φόρμα παρακάτω και ενεργοποιήστε το Typora αμέσως.";
 
 "Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email Address" = "Διεύθυνση Email";
+"License Code" = "Κωδικός Άδειας";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Βοήθεια";
+"Find my License" = "Εύρεση Άδειάς Μου";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Αποδοχή <a href='https://support.typora.io/License-Agreement/'>Συμφωνίας Άδειας</a> και <a href='https://support.typora.io/Privacy-Policy/'>Πολιτικής Απορρήτου</a>.";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Ζωντανή Προεπισκόπηση";
+"Write and read rendered output instantly." = "Γράψτε και διαβάστε αποδοθέν αποτέλεσμα αμέσως.";
+"Markdown Syntax" = "Σύνταξη Markdown";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Μπλοκ κώδικα, YAML, εργασίες, υποσημειώσεις, πίνακες, μαθηματικά, διαγράμματα";
+"Import / Export" = "Εισαγωγή / Εξαγωγή";
+"Deliver your content in various formats." = "Παραδώστε το περιεχόμενό σας σε διάφορες μορφές.";
+"Editing Experience" = "Εμπειρία Επεξεργασίας";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Περίγραμμα / Μετρητής Λέξεων / Λειτουργία Εστίασης / Λειτουργία Γραφομηχανής";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
+"Files" = "Αρχεία";
+"Manage files in sidebar and search across files." = "Διαχειριστείτε αρχεία στην πλαϊνή μπάρα και αναζητήστε σε αρχεία.";
+"Customize" = "Προσαρμογή";
+"Customize your writing experience from preferences panel." = "Προσαρμόστε την εμπειρία γραφής σας από τον πίνακα προτιμήσεων.";
+"Themes" = "Θέματα";
+"Write in the theme you like, or make one by your own." = "Γράψτε με το θέμα που σας αρέσει ή φτιάξτε το δικό σας.";
+"And more" = "Και περισσότερα";
+"Explore more topics at support.typora.io" = "Εξερευνήστε περισσότερα θέματα στο support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explore Themes" = "Explore Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Γρήγορη Εκκίνηση";
+"Markdown Reference" = "Αναφορά Markdown";
+"Explore Themes" = "Εξερεύνηση Θεμάτων";
+"More Topics" = "Περισσότερα Θέματα";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Το Typora Ενεργοποιήθηκε";
+"Thanks for your purchase." = "Ευχαριστούμε για την αγορά σας.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Επόμενο";
+"Please accept license agreement first" = "Παρακαλώ αποδεχθείτε πρώτα τη συμφωνία άδειας";
+"Start %@ Days Trial" = "Έναρξη Δοκιμαστικής Περιόδου %@ Ημερών";
+"Buy License" = "Αγορά Άδειας";
+"Activate" = "Ενεργοποίηση";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Κλείσιμο";
+"Deactivate" = "Απενεργοποίηση";
+"View License" = "Προβολή Άδειας";
+"Your Typora License" = "Η Άδεια Typora Σας";
+"This copy of Typora is registered with license information below." = "Αυτό το αντίγραφο του Typora είναι εγγεγραμμένο με τις παρακάτω πληροφορίες άδειας.";
+"Your trial will be expired in %@ days." = "Η δοκιμαστική σας περίοδος θα λήξει σε %@ ημέρες.";
+"Enter License" = "Εισαγωγή Άδειας";
+"Not Now" = "Όχι Τώρα";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email";
+"Please input a valid license code" = "Παρακαλώ εισάγετε έναν έγκυρο κωδικό άδειας";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Η άδειά σας έχει υπερβεί τον μέγιστο αριθμό συσκευών.\nΗ παλαιότερη συσκευή καταργήθηκε αυτόματα.";
+"This license code has been used with a different email address." = "Αυτός ο κωδικός άδειας έχει χρησιμοποιηθεί με διαφορετική διεύθυνση email.";
+"Unknown Error. Please contact hi@typora.io" = "Άγνωστο Σφάλμα. Παρακαλώ επικοινωνήστε στο hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Αποτυχία πρόσβασης στον διακομιστή αδειών. Παρακαλώ ελέγξτε το δίκτυό σας ή δοκιμάστε ξανά αργότερα.";
 
+"Enter a license code to support our development ❤" = "Εισάγετε έναν κωδικό άδειας για να υποστηρίξετε την ανάπτυξή μας ❤";
+"Re-enter Email" = "Επανεισαγωγή Email";
+"Email address confirmation does not match." = "Η επιβεβαίωση διεύθυνσης email δεν ταιριάζει.";
+"Are you sure to deactivate Typora on this device?" = "Είστε βέβαιοι ότι θέλετε να απενεργοποιήσετε το Typora σε αυτή τη συσκευή;";
+"Offline Activation" = "Ενεργοποίηση Εκτός Σύνδεσης";
+"Back" = "Πίσω";
+"Get Activation Token" = "Λήψη Κωδικού Ενεργοποίησης";
+"Your activated devices have exceeded the maximum limits." = "Οι ενεργοποιημένες συσκευές σας έχουν υπερβεί τα μέγιστα όρια.";

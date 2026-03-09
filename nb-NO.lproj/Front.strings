@@ -25,7 +25,6 @@
 "Replace" = "Erstatt";
 "All" = "Alt";
 "Search text not found in article" = "Fant ikke søkeord i artikkelen";
-"search text" = "søk tekst";
 
 /* Quick Open */
 "Search by file name" = "Søk etter filnavn";
@@ -197,3 +196,9 @@
 "Sort by Creation Date (Descending)" = "Sorter etter dato opprettet (Synkende)";
 
 "code language" = "kodespråk";
+"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Kan ikke gi nytt navn fra $1 til $2, vennligst bruk "Fil" → "Flytt til…" fra menylinjen i stedet.";
+"Markdown file" = "Markdown-fil";
+"TextBundle file" = "TextBundle-fil";
+"Images saved to TextBundle" = "Bilder lagret til TextBundle";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan ikke gi nytt navn fra $1 til $2, vennligst bruk \"Fil\" → \"Flytt til…\" fra menylinjen i stedet.";

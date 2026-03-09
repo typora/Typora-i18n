@@ -84,7 +84,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Импорт...";
 "Importing in progress..." = "Идёт импорт...";
-"Converting file with Pandoc. This may take some time." = "Преобразование файла с Pandoc. Это может занять некоторое время.";
 "Abort" = "Прервать";
 
 /* Pandoc Export Panel */
@@ -151,7 +150,6 @@
 "Developer" = "Разработка";
 "Update" = "Обновления";
 "Check Updates" = "Проверить обновления";
-"Check updates automatically" = "Проверять автоматически";
 "Advanced Settings" = "Расширенные настройки";
 "Open Advanced Settings" = "Открыть расширенные настройки";
 "Reset Advanced Settings" = "Сбросить расширенные настройки";
@@ -276,7 +274,6 @@
 "Typewriter / Focus Mode have been turned off." = "Режим печатной машинки / фокусировки отключен.";
 
 "Reading Speed" = "Скорость чтения";
-"Auto" = "Автоматическая";
 "words / min" = "слов/минуту";
 
 "Reset to Default" = "Восстановление значений по умолчанию";
@@ -311,7 +308,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Функция импорта и некоторые форматы экспорта требуют установки Pandoc (≥%@).";
 "Do not show this message again" = "Не показывать это сообщение снова";
 
-"Page Break Between Top Headings" = "Разрыв страницы между разделами верхнего уровня";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Извините, произошла ошибка, текущее содержимое записи скопировано в буфер обмена. Вы можете сообщить об этом по адресу <hi@typora.io>, чтобы помочь нам исправить эту ошибку.";
 "Try Recovery" = "Попробовать восстановить";
@@ -337,7 +333,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Пожалуйста, установите загрузчик изображений на панели настроек перед использованием этой функции.";
 "Download or Upgrade" = "Загрузить или обновить";
 "Open Config File" = "Открыть файл конфигурации";
-"Command" = "Команда";
 "PicGo Path" = "Путь к PicGo";
 "Path of PicGo binary" = "Путь к исполняемому файлу PicGo";
 "Executable" = "Исполняемый файл";
@@ -385,7 +380,6 @@
 "Include Outline Sidebar" = "Включить боковую панель";
 "Width" = "Ширина";
 "Command" = "Команда";
-"Show Save File Dialog" = "Показать диалог сохранения";
 "File Extensions for Export" = "Расширения файлов для экспорта";
 "Arguments" = "Аргументы";
 "Extra Arguments" = "Дополнительные аргументы";
@@ -399,7 +393,6 @@
 "Same folder with current file" = "Та же папка с текущим файлом";
 "Custom location" = "Пользовательское местоположение";
 "(Auto Detect)" = "(Автоопределение)";
-"After Export" = "После экспорта";
 "Open exported file location" = "Открыть местоположение экспортированного файла";
 "Open exported file" = "Открыть экспортированный файл";
 "Custom" = "Настроить";
@@ -477,8 +470,6 @@
 "This device has been deactivated" = "Это устройство было деактивировано";
 "UNREGISTERED" = "НЕТ РЕГИСТРАЦИИ";
 
-"Allow physics package to redefine existing TeX commands" = "Разрешить пакету physics переопределять существующие команды TeX";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "При включении такие команды, как \\div и \\Re будут переопределены пакетом physics.";
 
 "Your Typora is not activated." = "Ваша версия Typora не активирована.";
 "Your Typora has been activated." = "Ваша версия Typora была активирована.";
@@ -492,3 +483,78 @@
 "File does not exist" = "Файл не существует";
 "Create File" = "Создать файл";
 "Create Folder" = "Создать папку";
+"(Some options will be applied after restart.)" = "(Некоторые параметры будут применены после перезапуска.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Копировать или вырезать целые строки, на которых находятся курсоры, если при копировании / вырезании нет выделения.";
+"Enable physics package" = "Включить пакет physics";
+"Physics package will redefine some latex macros, such as \div, \Re, etc." = "Пакет physics переопределит некоторые макросы LaTeX, такие как \div, \Re и др.";
+"Detail" = "Подробности";
+"Use custom font size" = "Использовать пользовательский размер шрифта";
+"Use theme font size" = "Использовать размер шрифта темы";
+"You are using the Snap version, it may have limited access to your local executables." = "Вы используете версию Snap, она может иметь ограниченный доступ к вашим локальным исполняемым файлам.";
+"No local images found." = "Локальные изображения не найдены.";
+"File Format:" = "Формат файла:";
+"Images copied to %@." = "Изображения скопированы в %@.";
+"Images moved to %@." = "Изображения перемещены в %@.";
+"Custom Command" = "Пользовательская команда";
+"No Automatic Equation Numbering" = "Без автоматической нумерации уравнений";
+"Use AMS Numbering Rules" = "Использовать правила нумерации AMS";
+"Auto Numbering for All Math Equations" = "Автоматическая нумерация всех формул";
+"Preferred Image Syntax" = "Предпочтительный синтаксис изображений";
+"Add ./ for relative path" = "Добавлять ./ для относительных путей";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "При включении Typora будет использовать формат ./assets/image.png вместо assets/image.png при создании относительного пути для вставленных изображений.";
+"Image Quality" = "Качество изображения";
+"Medium" = "Среднее";
+"High" = "Высокое";
+"Best" = "Лучшее";
+"Use Shift+Tab to auto indent selected code" = "Использовать Shift+Tab для автоотступа выделенного кода";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "При отключении Shift+Tab будет уменьшать отступ выделенного кода или текущей строки. При включении Shift+Tab будет автоматически применять отступ для выделенного кода или текущей строки в блоках кода.";
+"Auto Links (e.g: https://typora.io)" = "Автоматические ссылки (например: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "При включении Typora будет автоматически распознавать и выделять URL-адреса (например: https://typora.io или mailto:hi@typora.io) в тексте.";
+"Files" = "Файлы";
+"Default File Type / Extension" = "Тип файла / расширение по умолчанию";
+"Custom Extension:" = "Пользовательское расширение:";
+"Following extensions are supported: %@" = "Поддерживаются следующие расширения: %@";
+"When drop file / folder into Typora" = "При перетаскивании файла / папки в Typora";
+"When drop folder" = "При перетаскивании папки";
+"When drop markdown file" = "При перетаскивании файла Markdown";
+"When drop files that can be imported" = "При перетаскивании файлов, которые можно импортировать";
+"Open in Typora" = "Открыть в Typora";
+"Insert Folder Link" = "Вставить ссылку на папку";
+"Insert File Link" = "Вставить ссылку на файл";
+"Import File" = "Импортировать файл";
+"Diagram Options" = "Параметры диаграмм";
+"Default Code Language" = "Язык кода по умолчанию";
+"(None)" = "(Нет)";
+"Last Used" = "Последний использованный";
+"Apply Default Code Language When" = "Применять язык кода по умолчанию, когда";
+"When add code fences via Markdown" = "При добавлении блока кода через Markdown";
+"When add code fences via Menubar" = "При добавлении блока кода через строку меню";
+"Both" = "Оба варианта";
+"Pinned and Recent Locations" = "Закреплённые и недавние расположения";
+"Operation Succeeded" = "Операция выполнена успешно";
+"Clear Recent Folders and Files" = "Очистить недавние папки и файлы";
+"Clear Recent Folders / Files Only" = "Очистить только недавние папки / файлы";
+"Clear Recent and Pinned Folders / Files" = "Очистить недавние и закреплённые папки / файлы";
+"Also clear pinned folders" = "Также очистить закреплённые папки";
+"Pin" = "Закрепить";
+"Unpin" = "Открепить";
+"Remove from List" = "Удалить из списка";
+"Record recent files and folders" = "Записывать недавние файлы и папки";
+"System Integration" = "Интеграция с системой";
+"Please try sign out Windows to take effect." = "Попробуйте выйти из Windows, чтобы изменения вступили в силу.";
+"Github Style Alert" = "Предупреждение в стиле Github";
+"Zoom when using mouse wheel and holding %@ key" = "Масштабирование колёсиком мыши при удержании клавиши %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Текущий документ содержит несохранённые изменения. Хотите переключиться на только что дублированный файл?";
+"Chapter Level in Outline" = "Уровень главы в оглавлении";
+"Enable inline math or code block math" = "Включить встроенные формулы или формулы в блоках кода";
+"Code Block Math  (```math code block)" = "Формулы в блоке кода  (```math блок кода)";
+"PicList Path" = "Путь PicList";
+"Auto Complete" = "Автозавершение";
+"Enable autocomplete for Emojis" = "Включить автозавершение для эмодзи";
+"Some settings will only apply after a reload" = "Некоторые настройки будут применены только после перезагрузки";
+"Reload" = "Перезагрузить";
+
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Добавить \"Markdown\" в контекстное меню \"Создать\" Проводника Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Удалить элементы из контекстного меню \"Создать\" Проводника Windows";
+
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Пакет Physics переопределит некоторые макросы LaTeX, такие как \\div, \\Re и т.д.";

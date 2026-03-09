@@ -36,7 +36,6 @@
 "Save" = "Lagre";
 "Save As" = "Lagre som";
 "Duplicate" = "Dupliser";
-"Rename" = "Gi nytt navn";
 "Move To" = "Flytt til";
 "Revert To" = "Tilbakestill til";
 "Browse All Versions" = "Se gjennom alle versjoner";
@@ -95,8 +94,6 @@
 "Smart Dashes" = "Smart bindestreker";
 "Text Replacement" = "Tekst-erstatninger";
 "Speech" = "Tale";
-"Start Speaking" = "Start tale";
-"Stop Speaking" = "Stopp tale";
 
 /* Paragraph Menu */
 "Paragraph" = "Avsnitt";
@@ -108,7 +105,6 @@
 "Heading 6" = "Overskrift 6";
 "Increase Heading Level" = "Øk overskrift nivå";
 "Decrease Heading Level" = "Senk overskrift nivå";
-"Table" = "Tabell";
 "Code Fences" = "Kode gjerde";
 "Math Block" = "Matte blokk";
 "Quote" = "Sitat";
@@ -338,3 +334,24 @@
 "Move All Images to" = "Flytt alle bilder til";
 
 "Copy as Image" = "Kopier som bilde";
+"Switch Image Syntax" = "Bytt bildesyntaks";
+"Markdown Style" = "Markdown-stil";
+"HTML Style" = "HTML-stil";
+"Code Tools" = "Kodeverktøy";
+"Copy Code Content" = "Kopier kodeinnhold";
+"Auto Indent Selected Code" = "Autoinnrykk valgt kode";
+"Auto Indent Whole Code" = "Autoinnrykk hele koden";
+"Jump to Line Start" = "Gå til linjens start";
+"Jump to Line End" = "Gå til linjens slutt";
+"Toggle Word Count Popover" = "Vis/skjul ordtelling";
+"Toggle Outline Popover" = "Vis/skjul disposisjon";
+"Alert" = "Varsel";
+"Note Block" = "Merknadsblokk";
+"Tip Block" = "Tipsblokk";
+"Important Block" = "Viktig-blokk";
+"Warning Block" = "Advarselsblokk";
+"Caution Block" = "Forsiktighetsblokk";
+"Move Table Row Up" = "Flytt tabellrad opp";
+"Move Table Row Down" = "Flytt tabellrad ned";
+"Move Table Column Left" = "Flytt tabellkolonne til venstre";
+"Move Table Column Right" = "Flytt tabellkolonne til høyre";

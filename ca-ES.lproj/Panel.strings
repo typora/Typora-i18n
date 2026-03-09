@@ -505,8 +505,8 @@
 "Remove from List" = "Elimina de la llista";
 "Record recent files and folders" = "Registra els fitxers i carpetes recents";
 "System Integration" = "Integració amb el sistema";
-"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Add \"Markdown\" to \"New\" context menu in Windows Explorer";
-"Delete items from \"New\" context menu in Windows Explorer" = "Delete items from \"New\" context menu in Windows Explorer";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Afegeix «Markdown» al menú contextual «Nou» de l'Explorador de Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Elimina elements del menú contextual «Nou» de l'Explorador de Windows";
 "Please try sign out Windows to take effect." = "Proveu de tancar la sessió de Windows per aplicar els canvis.";
 "Github Style Alert" = "Alerta d'estil Github";
 "Zoom when using mouse wheel and holding %@ key" = "Escala en usar la roda del ratolí i mantenint premuda la tecla %@";

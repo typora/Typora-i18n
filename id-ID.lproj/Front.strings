@@ -40,6 +40,7 @@
 "Replace" = "Ganti";
 "All" = "Semua";
 "Search text not found in article" = "Pencarian teks tak ditemukan dalam artikel";
+"search text" = "pencarian teks";
 
 /* Quick Open */
 "Search by file name" = "Cari berdasarkan nama fail"; /* `Fail` is more accurate than `berkas`, see <https://kbbi.kemdikbud.go.id/entri/fail> */
@@ -85,10 +86,12 @@
 "Refresh Folder" = "Segarulangkan Folder";
 "Sort" = "Sortir";
 "Group By Folder" = "Grup Berdasarkan Folder";
+"Sort Naturally" = "Sortir secara Natural";
 "Sort by Name (Ascending)" = "Sortir berdasarkan Nama (Naik)";
 "Sort by Modification Date (Ascending)" = "Sortir berdasarkan modifikasi Tanggal (Naik)";
 "Sort by Name (Descending)" = "Sortir berdasarkan Nama (Turun)";
 "Sort by Modification Date (Descending)" = "Sortir berdasarkan modifikasi Tanggal (Turun)";
+"Recent Locations" = "Lokasi Terkini";
 "Location" = "Lokasi";
 "Switch File List/Tree View" = "Alihkan Tinjauan Lis/Pohon Fail";
 "No Files Available" = "Tiada Fail yang Tersedia";
@@ -147,6 +150,7 @@
 "Select image from local file" = "Seleksi gambar dari fail lokal";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Takdapat membuka lokasi <code>$1</code>, apakah maksud Anda <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
+"select a language" = "seleksi bahasa";
 "Finish Editing" = "Finiskan Pengeditan"; /* See <https://kbbi.kemdikbud.go.id/entri/finis>; `Pengeditan` is more accurate than `penyuntingan`, see <https://kbbi.kemdikbud.go.id/entri/pengeditan> */
 
 "Revert advanced setting file to default one ?" = "Kembalikan setelan lanjutan fail ke asali ?";
@@ -201,17 +205,15 @@
 
 "File does not exist at path %@." = "Fail tidak eksis di jalur %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "Fail tidak eksis di jalur %@, apakah Anda ingin membuatnya di jalur itu?";
+
+"Images saved to TextBundle" = "Gambar disimpan ke TextBundle";
+"Markdown file" = "Fail Markdown";
+"No Results" = "Tidak Ada Hasil";
+"Regular Expression" = "Ekspresi Reguler";
 "Sort Naturally (Ascending)" = "Urutkan Secara Alami (Naik)";
 "Sort Naturally (Descending)" = "Urutkan Secara Alami (Turun)";
-"No Results" = "Tidak Ada Hasil";
-"Too many matches" = "Terlalu banyak kecocokan";
-"Regular Expression" = "Ekspresi Reguler";
 "Sort by Creation Date (Ascending)" = "Urutkan Berdasarkan Tanggal Pembuatan (Naik)";
 "Sort by Creation Date (Descending)" = "Urutkan Berdasarkan Tanggal Pembuatan (Turun)";
-"code language" = "bahasa kode";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Tidak dapat mengganti nama dari $1 ke $2, silakan gunakan "Fail" → "Pindahkan Ke…" dari bilah menu.";
-"Markdown file" = "Fail Markdown";
 "TextBundle file" = "Fail TextBundle";
-"Images saved to TextBundle" = "Gambar disimpan ke TextBundle";
-
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Tidak dapat mengganti nama dari $1 ke $2, silakan gunakan \"File\" → \"Move To…\" dari bilah menu.";
+"Too many matches" = "Terlalu banyak kecocokan";
+"code language" = "bahasa kode";

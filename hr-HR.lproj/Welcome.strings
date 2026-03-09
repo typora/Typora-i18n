@@ -9,14 +9,14 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Dobrodošli u Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Hvala što koristite Typora 👋. Typora je minimalistički Markdown uređivač i čitač koji vam pruža besprijekorno iskustvo između prikazanog sadržaja s bogatim stilom i izvornog koda.";
+"Welcome to Typora" = "Welcome to Typora";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
 
 "Get Started" = "Započni";
-"Check following links if you're new to Markdown or Typora." = "Provjerite sljedeće poveznice ako ste novi u Markdown-u ili Typora.";
+"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
 
 "Activate Typora" = "Aktiviraj Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Već ste kupili licencu? Ispunite obrazac ispod i aktivirajte Typora odmah.";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
 
 "Email" = "Email";
 "Email Address" = "Email Adresa";
@@ -25,30 +25,30 @@
 "Help" = "Pomoć";
 "Find my License" = "Pronađi moju licencu";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Prihvatite <a href='https://support.typora.io/License-Agreement/'>Ugovor o licenci</a> i <a href='https://support.typora.io/Privacy-Policy/'>Politiku privatnosti</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
 
 "Live Preview" = "Pregled uživo";
-"Write and read rendered output instantly." = "Pišite i čitajte renderirani izlaz odmah.";
+"Write and read rendered output instantly." = "Write and read rendered output instantly.";
 "Markdown Syntax" = "Markdown Sintaksa";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Blokovi kôda, YAML, zadaci, fusnote, tablice, matematika, dijagrami";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
 "Import / Export" = "Uvezi / Izvezi";
-"Deliver your content in various formats." = "Isporučite svoj sadržaj u raznim formatima.";
-"Editing Experience" = "Iskustvo uređivanja";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Sadržaj / Broj riječi / Mod fokusiranja / Mod pisaće mašine";
+"Deliver your content in various formats." = "Deliver your content in various formats.";
+"Editing Experience" = "Editing Experience";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
 
 "Files" = "Fajlovi";
-"Manage files in sidebar and search across files." = "Upravljajte datotekama u bočnoj traci i pretražujte među datotekama.";
+"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
 "Customize" = "Prilagodi";
-"Customize your writing experience from preferences panel." = "Prilagodite svoje iskustvo pisanja iz panela postavki.";
+"Customize your writing experience from preferences panel." = "Prilagodi svoje iskustvo pisanja kroz preference.";
 "Themes" = "Teme";
 "Write in the theme you like, or make one by your own." = "Piši koristeći temu koju želiš ili stvori svoju.";
 "And more" = "I više";
-"Explore more topics at support.typora.io" = "Istražite više tema na support.typora.io";
+"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
 
 "Quick Start" = "Brzi Početak";
-"Markdown Reference" = "Markdown referenca";
+"Markdown Reference" = "Markdown Reference";
 "Explore Themes" = "Pretraži Teme";
-"More Topics" = "Više tema";
+"More Topics" = "More Topics";
 
 "Typora Activated" = "Typora je aktivirana";
 "Thanks for your purchase." = "Hvala Vam na Vašoj kupnji.";
@@ -75,11 +75,12 @@
 "Unknown Error. Please contact hi@typora.io" = "Nepoznata pogreška. Please contact hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Neuspjelo povezivanje sa serverom licence. Molimo provjerite svoju mrežu ili pokušajte ponovo kasnije.";
 
-"Enter a license code to support our development ❤" = "Unesite kod licence za podršku našem razvoju ❤";
-"Re-enter Email" = "Ponovno unesite email";
-"Email address confirmation does not match." = "Potvrda email adrese se ne podudara.";
+
 "Are you sure to deactivate Typora on this device?" = "Jeste li sigurni da želite deaktivirati Typora na ovom uređaju?";
-"Offline Activation" = "Izvanmrežna aktivacija";
 "Back" = "Natrag";
+"Email address confirmation does not match." = "Potvrda email adrese se ne podudara.";
+"Enter a license code to support our development ❤" = "Unesite kod licence za podršku našem razvoju ❤";
 "Get Activation Token" = "Dohvati aktivacijski token";
+"Offline Activation" = "Izvanmrežna aktivacija";
+"Re-enter Email" = "Ponovno unesite email";
 "Your activated devices have exceeded the maximum limits." = "Vaši aktivirani uređaji premašili su maksimalni broj.";

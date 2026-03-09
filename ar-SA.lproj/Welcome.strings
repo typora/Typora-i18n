@@ -75,11 +75,13 @@
 "This license code has been used with a different email address." =  "تم استخدام رمز الرخصة هذا مع بريد إلكتروني مختلف.";
 "Unknown Error. Please contact hi@typora.io" = "خطأ غير معروف. تواصل مع hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "فشل الوصول إلى خادم الرخص. تحقق من اتصالك بالإنترنت أو حاول لاحقا.";
-"Enter a license code to support our development ❤" = "أدخل رمز الرخصة لدعم تطويرنا ❤";
-"Re-enter Email" = "إعادة إدخال البريد الإلكتروني";
-"Email address confirmation does not match." = "تأكيد عنوان البريد الإلكتروني غير متطابق.";
+
+
 "Are you sure to deactivate Typora on this device?" = "هل أنت متأكد من إلغاء تفعيل Typora على هذا الجهاز؟";
-"Offline Activation" = "تفعيل بدون اتصال";
 "Back" = "رجوع";
+"Email address confirmation does not match." = "تأكيد عنوان البريد الإلكتروني غير متطابق.";
+"Enter a license code to support our development ❤" = "أدخل رمز الرخصة لدعم تطويرنا ❤";
 "Get Activation Token" = "الحصول على رمز التفعيل";
+"Offline Activation" = "تفعيل بدون اتصال";
+"Re-enter Email" = "إعادة إدخال البريد الإلكتروني";
 "Your activated devices have exceeded the maximum limits." = "تجاوزت أجهزتك المفعلة الحد الأقصى المسموح.";

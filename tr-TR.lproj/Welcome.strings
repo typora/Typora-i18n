@@ -12,6 +12,7 @@
 "Welcome to Typora" = "Typora'ya Hoşgeldiniz";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora'yı kullandığınız için teşekkür ederiz 👋. Typora, minimal bir markdown editörü ve markdown okuyucusudur, size işlenmiş zengin stil içeriği ve kaynak kodu arasında kusursuz bir deneyim sunar.";
 
+"Get Start" = "Başlayın";
 "Check following links if you're new to Markdown or Typora." = "Markdown veya Typora'da yeniyseniz aşağıdaki bağlantıları kontrol edin.";
 
 "Activate Typora" = "Typora'yı Etkinleştir";
@@ -73,12 +74,13 @@
 "This license code has been used with a different email address." =  "Bu lisans kodu farklı bir E-Posta adresiyle kullanılmış.";
 "Unknown Error. Please contact hi@typora.io" = "Bilinmeyen hata. Lütfen hi@typora.io ile iletişime geçin.";
 "Failed to access the license server. Please check your network or try again later." = "Lisans sunucusuna erişilemedi. Lütfen ağınızı kontrol edin veya daha sonra tekrar deneyin.";
-"Get Started" = "Başlarken";
-"Enter a license code to support our development ❤" = "Geliştirmemizi desteklemek için bir lisans kodu girin ❤";
-"Re-enter Email" = "E-postayı Tekrar Girin";
-"Email address confirmation does not match." = "E-posta adresi doğrulaması eşleşmiyor.";
+
 "Are you sure to deactivate Typora on this device?" = "Bu cihazda Typora'yı devre dışı bırakmak istediğinizden emin misiniz?";
-"Offline Activation" = "Çevrimdışı Etkinleştirme";
 "Back" = "Geri";
+"Email address confirmation does not match." = "E-posta adresi doğrulaması eşleşmiyor.";
+"Enter a license code to support our development ❤" = "Geliştirmemizi desteklemek için bir lisans kodu girin ❤";
 "Get Activation Token" = "Etkinleştirme Anahtarı Al";
+"Get Started" = "Başlarken";
+"Offline Activation" = "Çevrimdışı Etkinleştirme";
+"Re-enter Email" = "E-postayı Tekrar Girin";
 "Your activated devices have exceeded the maximum limits." = "Etkinleştirilmiş cihazlarınız maksimum sınırı aştı.";

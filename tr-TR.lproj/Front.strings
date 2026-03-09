@@ -135,6 +135,7 @@
 "Select image from local file" = "Resmi bilgisayardan seç";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> konumu açılamıyor, Bunu '<a href='$3' target='_blank' target='_blank'>$2</a>' mu demek istediniz ?";
 
+"select a language" = "bir dil seçiniz";
 "Finish Editing" = "Düzenlemeyi tamamla";
 
 "Revert advanced setting file to default one ?" = "Gelişmiş seçenekleri varsayılanlara geri döndür ?";
@@ -173,25 +174,23 @@
 "Failed to upload images:" = "Resim yüklemede hata meydana geldi:";
 "Uploading in progress" = "Yükleniyor";
 "Successfully uploaded {0} images, {1} failed." = "{0} adet resim sorunsuz şekilde yükendi, {1} yükenemedi.";
-"You could undo this operation later via `Edit` → `Undo`." = "Bu işlemi daha sonra `Düzenle` → `Geri Al` ile geri alabilirsiniz.";
-"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>⌘ + Tıklama</strong> yapabilirsiniz.";
-"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>CTRL + Tıklama</strong> yapabilirsiniz.";
+
 "<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stili açıldı.";
-"You can right click titlebar to popup application menu." = "Uygulama menüsünü açmak için başlık çubuğuna sağ tıklayabilirsiniz.";
-"Support Document" = "Destek Belgesi";
-"You are not supposed to edit or save this file." = "Bu dosyayı düzenlemeniz veya kaydetmeniz uygun değildir.";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Bu konumdaki (%@) dosyalar Typora tarafından yönetilmektedir ve otomatik olarak silinebilir.<br/>Lütfen düzenlemeye devam etmek için içeriği yeni bir dosyaya kopyalayın.";
-"File does not exist at path %@." = "%@ yolunda dosya bulunamadı.";
 "File does not exist at path %@, do you want to create one at that path?" = "%@ yolunda dosya bulunamadı, bu yolda bir tane oluşturmak ister misiniz?";
+"File does not exist at path %@." = "%@ yolunda dosya bulunamadı.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Bu konumdaki (%@) dosyalar Typora tarafından yönetilmektedir ve otomatik olarak silinebilir.<br/>Lütfen düzenlemeye devam etmek için içeriği yeni bir dosyaya kopyalayın.";
+"Images saved to TextBundle" = "Resimler TextBundle'a kaydedildi";
+"Markdown file" = "Markdown dosyası";
 "No Results" = "Sonuç Yok";
-"Too many matches" = "Çok fazla eşleşme";
 "Regular Expression" = "Düzenli İfade";
 "Sort by Creation Date (Ascending)" = "Oluşturma Tarihine Göre Sırala (Artan)";
 "Sort by Creation Date (Descending)" = "Oluşturma Tarihine Göre Sırala (Azalan)";
-"code language" = "kod dili";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "$1 yerine $2 olarak yeniden adlandırılamıyor, lütfen bunun yerine menü çubuğundan "Dosya" → "Taşı…" kullanın.";
-"Markdown file" = "Markdown dosyası";
+"Support Document" = "Destek Belgesi";
 "TextBundle file" = "TextBundle dosyası";
-"Images saved to TextBundle" = "Resimler TextBundle'a kaydedildi";
-
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1 adından $2 adına yeniden adlandırılamıyor, lütfen bunun yerine menü çubuğundan \"Dosya\" → \"Taşı…\" seçeneğini kullanın.";
+"Too many matches" = "Çok fazla eşleşme";
+"You are not supposed to edit or save this file." = "Bu dosyayı düzenlemeniz veya kaydetmeniz uygun değildir.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>CTRL + Tıklama</strong> yapabilirsiniz.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>⌘ + Tıklama</strong> yapabilirsiniz.";
+"You can right click titlebar to popup application menu." = "Uygulama menüsünü açmak için başlık çubuğuna sağ tıklayabilirsiniz.";
+"You could undo this operation later via `Edit` → `Undo`." = "Bu işlemi daha sonra `Düzenle` → `Geri Al` ile geri alabilirsiniz.";
+"code language" = "kod dili";

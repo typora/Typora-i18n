@@ -200,7 +200,7 @@
 "Something is Wrong…" = "Alguna cosa ha anat malament…";
 "Copy Content" = "Copia el contingut";
 
-"Edited files will be saved without asking when switch files in left panel. \\nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \\nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
+"Edited files will be saved without asking when switch files in left panel. \\nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Els fitxers editats es desaran sense preguntar en canviar de fitxer al panell esquerre. \\nQuan \"Demanar si es volen desar els canvis en tancar documents\" està desactivat a les Preferències del sistema, això sempre estarà activat.";
 "The option `%@` must be enabled first to automatically upload images." = "L'opció «%@» s'ha d'activar primer per pujar imatges automàticament.";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora està intentant copiar la imatge inserida recentment a la carpeta %@ segons la configuració del YAML Front Matter o les preferències globals. Però la carpeta de destí no existeix, voleu crear-la ara?";
 "Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "No s'ha pogut desar el contingut per algun motiu.<br/>Podeu copiar el contingut a una finestra nova del Typora i desar-lo. <br/>Més informació sobre:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Informar d'errors</a></li><li><a href='https://support.typora.io/Version-Control/'>Recuperar continguts perduts</a></li></ul>";
@@ -208,7 +208,7 @@
 "Word count only support OS X later than 10.10." = "El recompte de paraules només és compatible amb l'OS X 10.10 o posteriors.";
 "Indent Size for Code" = "Mida del sagnat per al codi";
 "Auto wrap long lines" = "Ajusta automàticament les línies llargues";
-"Sorry, current version of Typora won't print background color.\\nSo dark theme is not yet supported for printing. \\n\\nPlease choose a light theme or export this document to PDF." = "Sorry, current version of Typora won't print background color.\\nSo dark theme is not yet supported for printing. \\n\\nPlease choose a light theme or export this document to PDF.";
+"Sorry, current version of Typora won't print background color.\\nSo dark theme is not yet supported for printing. \\n\\nPlease choose a light theme or export this document to PDF." = "La versió actual del Typora no imprimirà el color de fons.\\nPer tant, el tema fosc encara no és compatible per a la impressió. \\n\\nTrieu un tema clar o exporteu aquest document a PDF.";
 "Export to PDF" = "Exporta a PDF";
 "Pretty indentation" = "Sagnat embellir";
 "Update markdown reference for this image" = "Actualitza la referència Markdown per a aquesta imatge";
@@ -233,7 +233,7 @@
 "Restore last closed files and folders" = "Restaura els últims fitxers i carpetes tancats";
 "Open custom folder" = "Obre una carpeta personalitzada";
 "Select custom folder" = "Selecciona una carpeta personalitzada";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "This option may be overridden by \"Close windows when quitting an application\" in System Preferences";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Aquesta opció pot ser sobreescrita per «Tanca les finestres en sortir d'una aplicació» a les Preferències del sistema";
 "Ignore" = "Ignora";
 "Choose Default Folder" = "Trieu la carpeta per defecte";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Converteix en introduir</strong>: Introduïu guions o cometes ASCII, es convertiran i desaran com a cometes tipogràfiques o guions Unicode.<br/><strong>Converteix en renderitzar</strong>: Introduïu i deseu com a guions o cometes ASCII, es renderitzen com a cometes tipogràfiques o guions Unicode.</div>";
@@ -279,7 +279,7 @@
 "Check Update Failed" = "Error en comprovar les actualitzacions";
 "You're up to date!" = "Esteu al dia!";
 "Latest version is $1, your version is $2" = "La versió més recent és $1, la vostra versió és $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Aquestes opcions també es poden canviar al menú «Edita→Espais en blanc i salts de línia»";
 "Auto escape image URL when insert" = "Escapa automàticament l'URL de la imatge en inserir";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Per exemple, si inseriu un fitxer a 'img/example file.png', es convertirà en 'img/example%20file.png'. Activeu-ho per a una millor compatibilitat amb altres motors de Markdown, o desactiveu-ho per a una millor llegibilitat.";
 "Skip This Version" = "Omet aquesta versió";
@@ -400,7 +400,7 @@
 "Select folder path to save" = "Seleccioneu la ruta de la carpeta per desar";
 "PDF Engine" = "Motor PDF";
 "Show command output" = "Mostra la sortida de l'ordre";
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "«Exporta i sobreescriu amb l'anterior» sobreescriurà el fitxer a %@, voleu continuar?";
 "Command Arguments:" = "Arguments de l'ordre:";
 "This dev version of Typora is expired, please download and install a newer version." = "Aquesta versió de desenvolupament del Typora ha caducat, descarregueu i instal·leu una versió més recent.";
 "Current Theme" = "Tema actual";

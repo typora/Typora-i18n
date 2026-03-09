@@ -541,9 +541,7 @@
 "Enable autocomplete for Emojis" = "Zapnout automatické dokončování pro emoji";
 "Some settings will only apply after a reload" = "Některá nastavení se projeví až po znovunačtení";
 "Reload" = "Znovu načíst";
-"Edited files will be saved without asking when switch files in left panel. 
-When "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "Upravené soubory budou uloženy bez dotazu při přepínání souborů v levém panelu. 
-Když je v nastavení systému vypnuta možnost "Ptát se na uložení změn při zavírání dokumentů", je toto vždy zapnuto.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Upravené soubory budou uloženy bez dotazu při přepínání souborů v levém panelu. \nKdyž je v nastavení systému vypnuta možnost \"Ptát se na uložení změn při zavírání dokumentů\", je toto vždy zapnuto.";
 "These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "Tyto možnosti lze také změnit v nabídce "Upravit→Mezery a konce řádků"";
 ""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""Exportovat a přepsat předchozím" přepíše soubor na %@, chcete pokračovat?";
 "Apply Line Break at \ and &#92;newline" = "Použít konec řádku na \ a &#92;newline";
@@ -552,5 +550,3 @@ Když je v nastavení systému vypnuta možnost "Ptát se na uložení změn př
 "Delete items from "New" context menu in Windows Explorer" = "Odebrat položky z kontextové nabídky "Nový" v Průzkumníku Windows";
 
 "Apply Line Break at \\\\ and &#92;newline" = "Použít konec řádku na \\\\ a &#92;newline";
-
-"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Upravené soubory budou uloženy bez dotazu při přepínání souborů v levém panelu. \nKdyž je \"Dotázat se na uložení změn při zavírání dokumentů\" zakázáno v Předvolbách systému, je tato volba vždy povolena.";

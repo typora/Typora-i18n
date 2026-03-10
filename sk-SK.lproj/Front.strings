@@ -194,4 +194,4 @@
 "Markdown file" = "Súbor Markdown";
 "TextBundle file" = "Súbor TextBundle";
 "Images saved to TextBundle" = "Obrázky uložené do TextBundle";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite "Súbor" → "Presunúť do…" z ponuky.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite \"Súbor\" → \"Presunúť do…\" z ponuky.";

@@ -426,7 +426,7 @@
 "Select folder path to save" = "اختيار مسار المجلد للحفظ";
 "PDF Engine" = "محرك PDF";
 "Show command output" = "إظهار مخرجات الأمر";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""تصدير واستبدال بالإعدادات السابقة" سيستبدل الملف في %@، هل تريد المتابعة؟";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"تصدير واستبدال بالإعدادات السابقة\" سيستبدل الملف في %@، هل تريد المتابعة؟";
 "Command Arguments:" = "معاملات الأمر:";
 "This dev version of Typora is expired, please download and install a newer version." = "انتهت صلاحية هذا الإصدار التجريبي من Typora، يرجى تحميل وتثبيت إصدار أحدث.";
 "Current Theme" = "السمة الحالية";
@@ -531,8 +531,8 @@
 "Remove from List" = "إزالة من القائمة";
 "Record recent files and folders" = "تسجيل الملفات والمجلدات الأخيرة";
 "System Integration" = "تكامل النظام";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "إضافة "Markdown" إلى قائمة "جديد" في مستكشف Windows";
-"Delete items from "New" context menu in Windows Explorer" = "حذف العناصر من قائمة "جديد" في مستكشف Windows";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "إضافة \"Markdown\" إلى قائمة \"جديد\" في مستكشف Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "حذف العناصر من قائمة \"جديد\" في مستكشف Windows";
 "Please try sign out Windows to take effect." = "يرجى محاولة تسجيل الخروج من Windows لتطبيق التغييرات.";
 "Github Style Alert" = "تنبيه بنمط Github";
 "Zoom when using mouse wheel and holding %@ key" = "تكبير/تصغير عند استخدام عجلة الفأرة مع الضغط على مفتاح %@";

@@ -194,4 +194,4 @@
 "Markdown file" = "Markdown-Datei";
 "TextBundle file" = "TextBundle-Datei";
 "Images saved to TextBundle" = "Bilder in TextBundle gespeichert";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Umbenennung von $1 zu $2 nicht möglich. Bitte verwenden Sie stattdessen "Datei" → "Verschieben nach…" aus der Menüleiste.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Umbenennung von $1 zu $2 nicht möglich. Bitte verwenden Sie stattdessen \"Datei\" → \"Verschieben nach…\" aus der Menüleiste.";

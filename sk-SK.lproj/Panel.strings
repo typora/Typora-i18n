@@ -539,9 +539,9 @@
 
 "Apply Line Break at \\\\ and &#92;newline" = "Použiť koniec riadka pri \\\\ a &#92;newline";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Upravené súbory budú uložené bez opýtania pri prepínaní súborov na ľavom paneli. \nKeď je v nastaveniach systému vypnutá možnosť \"Opýtať sa na uloženie zmien pri zatváraní dokumentov\", je toto vždy zapnuté.";
-"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "Tieto možnosti sa dajú zmeniť aj v ponuke "Upraviť→Medzery a zlomy riadkov"";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""Exportovať a prepísať predchádzajúcim" prepíše súbor na %@, chcete pokračovať?";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti sa dajú zmeniť aj v ponuke \"Upraviť→Medzery a zlomy riadkov\"";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportovať a prepísať predchádzajúcim\" prepíše súbor na %@, chcete pokračovať?";
 "Apply Line Break at \ and &#92;newline" = "Použiť zlom riadka pri \ a &#92;newline";
 "Physics package will redefine some latex macros, such as \div, \Re, etc." = "Balíček physics predefinuje niektoré makrá LaTeX, ako \div, \Re atď.";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "Pridať "Markdown" do kontextovej ponuky "Nový" v Prieskumníkovi Windows";
-"Delete items from "New" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky "Nový" v Prieskumníkovi Windows";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať \"Markdown\" do kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";

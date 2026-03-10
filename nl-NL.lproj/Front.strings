@@ -202,4 +202,4 @@
 "Markdown file" = "Markdown-bestand";
 "TextBundle file" = "TextBundle-bestand";
 "Images saved to TextBundle" = "Afbeeldingen opgeslagen in TextBundle";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Kan niet hernoemen van $1 naar $2, gebruik in plaats daarvan "Bestand" → "Verplaatsen naar…" uit de menubalk.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan niet hernoemen van $1 naar $2, gebruik in plaats daarvan \"Bestand\" → \"Verplaatsen naar…\" uit de menubalk.";

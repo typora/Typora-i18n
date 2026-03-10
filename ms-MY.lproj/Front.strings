@@ -194,7 +194,7 @@
 "Sort by Creation Date (Ascending)" = "Susun mengikut Tarikh Cipta (Menaik)";
 "Sort by Creation Date (Descending)" = "Susun mengikut Tarikh Cipta (Menurun)";
 "code language" = "bahasa kod";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Tidak dapat menamakan semula daripada $1 kepada $2, sila gunakan "Fail" → "Pindah Ke…" daripada bar menu.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Tidak dapat menamakan semula daripada $1 kepada $2, sila gunakan \"Fail\" → \"Pindah Ke…\" daripada bar menu.";
 "Markdown file" = "Fail Markdown";
 "TextBundle file" = "Fail TextBundle";
 "Images saved to TextBundle" = "Imej disimpan ke TextBundle";

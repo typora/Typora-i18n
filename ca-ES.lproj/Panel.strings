@@ -519,14 +519,14 @@
 "Enable autocomplete for Emojis" = "Activa el completat automàtic per a emojis";
 "Some settings will only apply after a reload" = "Algunes configuracions només s'aplicaran després de recarregar";
 "Reload" = "Recarrega";
-"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "Els fitxers editats es desaran sense preguntar en commutar entre fitxers al panell esquerre. \nQuan «Demanar si es volen conservar els canvis en tancar documents» estigui desactivat a les Preferències del sistema, això estarà sempre activat.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Els fitxers editats es desaran sense preguntar en commutar entre fitxers al panell esquerre. \nQuan «Demanar si es volen conservar els canvis en tancar documents» estigui desactivat a les Preferències del sistema, això estarà sempre activat.";
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "La versió actual del Typora no imprimirà el color de fons.\nPer tant, el tema fosc encara no és compatible per a la impressió. \n\nTrieu un tema clar o exporteu aquest document a PDF.";
-"This option may be overridden by "Close windows when quitting an application" in System Preferences" = "Aquesta opció pot ser sobreescrita per «Tanca les finestres en sortir d'una aplicació» a les Preferències del sistema";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Aquesta opció pot ser sobreescrita per «Tanca les finestres en sortir d'una aplicació» a les Preferències del sistema";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Reconeix els signes de puntuació Unicode com ASCII en analitzar Markdown, p. ex.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>S'activarà automàticament si les cometes/guions intel·ligents es converteixen en introduir.<div>";
-"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "Aquestes opcions també es poden canviar al menú «Edita→Espais en blanc i salts de línia»";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = "«Exporta i sobreescriu amb l'anterior» sobreescriurà el fitxer a %@, voleu continuar?";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "Afegeix «Markdown» al menú contextual «Nou» de l'Explorador de Windows";
-"Delete items from "New" context menu in Windows Explorer" = "Elimina elements del menú contextual «Nou» de l'Explorador de Windows";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Aquestes opcions també es poden canviar al menú «Edita→Espais en blanc i salts de línia»";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "«Exporta i sobreescriu amb l'anterior» sobreescriurà el fitxer a %@, voleu continuar?";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Afegeix «Markdown» al menú contextual «Nou» de l'Explorador de Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Elimina elements del menú contextual «Nou» de l'Explorador de Windows";
 
 "Apply Line Break at \\\\ and &#92;newline" = "Aplica un salt de línia a \\\\ i &#92;newline";
 "Physics package will redefine some latex macros, such as \\\\div, \\\\Re, etc." = "El paquet physics redefinirà algunes macros de LaTeX, com ara \\\\div, \\\\Re, etc.";

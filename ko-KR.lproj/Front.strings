@@ -198,7 +198,7 @@
 "Sort by Creation Date (Ascending)" = "생성 날짜순 정렬 (오름차순)";
 "Sort by Creation Date (Descending)" = "생성 날짜순 정렬 (내림차순)";
 "code language" = "코드 언어";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 대신 메뉴 막대의 "파일" → "이동…"을 사용해 주세요.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 대신 메뉴 막대의 \"파일\" → \"이동…\"을 사용해 주세요.";
 "Markdown file" = "Markdown 파일";
 "TextBundle file" = "TextBundle 파일";
 "Images saved to TextBundle" = "이미지가 TextBundle에 저장됨";

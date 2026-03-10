@@ -194,7 +194,7 @@
 "Sort by Creation Date (Ascending)" = "Сортировка по дате создания (по возрастанию)";
 "Sort by Creation Date (Descending)" = "Сортировка по дате создания (по убыванию)";
 "code language" = "язык кода";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Невозможно переименовать $1 в $2, используйте "Файл" → "Переместить в…" из строки меню.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Невозможно переименовать $1 в $2, используйте \"Файл\" → \"Переместить в…\" из строки меню.";
 "Markdown file" = "Файл Markdown";
 "TextBundle file" = "Файл TextBundle";
 "Images saved to TextBundle" = "Изображения сохранены в TextBundle";

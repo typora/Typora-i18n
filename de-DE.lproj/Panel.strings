@@ -319,7 +319,7 @@
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Ups, ein Fehler ist eingetreten. Der Inhalt des momentanen Dokumentes wurde in die Zwischenablage kopiert. Du kannst dies an <hi@typora.io> melden, um uns zu helfen, den Fehler zu beheben.";
 "Try Recovery" = "Wiederherstellung versuchen";
 "Other Options for Data Recovery" = "Weitere Optionen für die Datenwiederherstellung";
-"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "Bearbeitete Dateien werden ohne Nachfragen gespeichert, wenn Dateien in der linken Seitenleiste gewechselt werden. \nWenn "Beim Schließen von Dokumenten nach dem Speichern fragen" in den Systemeinstellungen deaktiviert ist, ist dies immer aktiviert.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Bearbeitete Dateien werden ohne Nachfragen gespeichert, wenn Dateien in der linken Seitenleiste gewechselt werden. \nWenn \"Beim Schließen von Dokumenten nach dem Speichern fragen\" in den Systemeinstellungen deaktiviert ist, ist dies immer aktiviert.";
 "The option `%@` must be enabled first to automatically upload images." = "Die Option `%@` muss zuerst aktiviert werden, um Bilder automatisch hochzuladen.";
 "When Insert" = "Beim Einfügen";
 "Upload image" = "Bild hochladen";
@@ -424,7 +424,7 @@
 "Select folder path to save" = "Ordnerpfad zum Speichern auswählen";
 "PDF Engine" = "PDF-Engine";
 "Show command output" = "Befehlsausgabe anzeigen";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""Exportieren und mit Vorherigem überschreiben" überschreibt die Datei unter %@. Möchten Sie fortfahren?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportieren und mit Vorherigem überschreiben\" überschreibt die Datei unter %@. Möchten Sie fortfahren?";
 "Command Arguments:" = "Befehlsargumente:";
 "This dev version of Typora is expired, please download and install a newer version." = "Diese Entwicklerversion von Typora ist abgelaufen. Bitte laden Sie eine neuere Version herunter und installieren Sie diese.";
 "Current Theme" = "Aktuelles Thema";
@@ -529,8 +529,8 @@
 "Remove from List" = "Aus Liste entfernen";
 "Record recent files and folders" = "Zuletzt verwendete Dateien und Ordner aufzeichnen";
 "System Integration" = "Systemintegration";
-"Add "Markdown" to "New" context menu in Windows Explorer" = ""Markdown" zum "Neu"-Kontextmenü im Windows-Explorer hinzufügen";
-"Delete items from "New" context menu in Windows Explorer" = "Einträge aus dem "Neu"-Kontextmenü im Windows-Explorer entfernen";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "\"Markdown\" zum \"Neu\"-Kontextmenü im Windows-Explorer hinzufügen";
+"Delete items from \"New\" context menu in Windows Explorer" = "Einträge aus dem \"Neu\"-Kontextmenü im Windows-Explorer entfernen";
 "Please try sign out Windows to take effect." = "Bitte melden Sie sich von Windows ab, damit die Änderung wirksam wird.";
 "Github Style Alert" = "Github-Stil-Warnung";
 "Zoom when using mouse wheel and holding %@ key" = "Zoomen beim Verwenden des Mausrads und Halten der %@-Taste";

@@ -194,7 +194,7 @@
 "Sort by Creation Date (Ascending)" = "Ordina per data di creazione (crescente)";
 "Sort by Creation Date (Descending)" = "Ordina per data di creazione (decrescente)";
 "code language" = "linguaggio del codice";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Impossibile rinominare da $1 a $2, utilizzare "File" → "Sposta in…" dalla barra dei menu.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Impossibile rinominare da $1 a $2, utilizzare \"File\" → \"Sposta in…\" dalla barra dei menu.";
 "Markdown file" = "File Markdown";
 "TextBundle file" = "File TextBundle";
 "Images saved to TextBundle" = "Immagini salvate in TextBundle";

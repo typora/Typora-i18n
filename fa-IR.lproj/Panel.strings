@@ -295,7 +295,7 @@
 "Check Update Failed" = "بررسی بروزرسانی ناموفق بود";
 "You're up to date!" = "شما به‌روز هستید!";
 "Latest version is $1, your version is $2" = "آخرین نسخه $1 است، نسخه شما $2 است";
-"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "این گزینه‌ها همچنین از منوی "ویرایش→فاصله و شکستن خطوط" قابل تغییر هستند";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "این گزینه‌ها همچنین از منوی \"ویرایش→فاصله و شکستن خطوط\" قابل تغییر هستند";
 "Auto escape image URL when insert" = "فرار خودکار URL تصویر هنگام افزودن";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "برای مثال، اگر فایلی در مسیر 'img/example file.png' اضافه کنید، به 'img/example%20file.png' تبدیل می‌شود. این گزینه را برای سازگاری بهتر با سایر موتورهای Markdown فعال کنید، یا برای خوانایی بهتر غیرفعال کنید.";
 "Skip This Version" = "رد شدن از این نسخه";
@@ -416,7 +416,7 @@
 "Select folder path to save" = "انتخاب مسیر پوشه برای ذخیره";
 "PDF Engine" = "موتور PDF";
 "Show command output" = "نمایش خروجی دستور";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""خروجی و بازنویسی با تنظیمات قبلی" فایل را در %@ بازنویسی خواهد کرد، آیا ادامه می‌دهید؟";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"خروجی و بازنویسی با تنظیمات قبلی\" فایل را در %@ بازنویسی خواهد کرد، آیا ادامه می‌دهید؟";
 "Command Arguments:" = "آرگومان‌های دستور:";
 "This dev version of Typora is expired, please download and install a newer version." = "این نسخه توسعه‌دهنده Typora منقضی شده است، لطفاً نسخه جدیدتر را دانلود و نصب کنید.";
 "Current Theme" = "پوسته فعلی";
@@ -521,8 +521,8 @@
 "Remove from List" = "حذف از فهرست";
 "Record recent files and folders" = "ثبت فایل‌ها و پوشه‌های اخیر";
 "System Integration" = "یکپارچگی سیستم";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "افزودن "Markdown" به منوی "جدید" در Windows Explorer";
-"Delete items from "New" context menu in Windows Explorer" = "حذف آیتم‌ها از منوی "جدید" در Windows Explorer";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "افزودن \"Markdown\" به منوی \"جدید\" در Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "حذف آیتم‌ها از منوی \"جدید\" در Windows Explorer";
 "Please try sign out Windows to take effect." = "لطفاً برای اعمال تغییرات از ویندوز خارج شوید.";
 "Github Style Alert" = "هشدار به سبک Github";
 "Zoom when using mouse wheel and holding %@ key" = "بزرگنمایی هنگام استفاده از چرخ ماوس و نگه‌داشتن کلید %@";

@@ -186,4 +186,4 @@
 "Markdown file" = "Markdown datoteka";
 "TextBundle file" = "TextBundle datoteka";
 "Images saved to TextBundle" = "Slike spremljene u TextBundle";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "Nije moguće preimenovati iz $1 u $2, molimo koristite «Datoteka» → «Premjesti» iz trake izbornika.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nije moguće preimenovati iz $1 u $2, molimo koristite «Datoteka» → «Premjesti» iz trake izbornika.";

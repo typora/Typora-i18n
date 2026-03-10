@@ -524,13 +524,13 @@
 "Enable autocomplete for Emojis" = "Omogući automatsko dovršavanje za emotikone";
 "Some settings will only apply after a reload" = "Neke postavke bit će primijenjene tek nakon ponovnog učitavanja";
 "Reload" = "Ponovno učitaj";
-"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "Uređene datoteke bit će spremljene bez pitanja prilikom prebacivanja datoteka u lijevom panelu. \nKada je opcija «Pitaj za čuvanje promjena pri zatvaranju dokumenata» onemogućena u postavkama sustava, ovo je uvijek omogućeno.";
-"This option may be overridden by "Close windows when quitting an application" in System Preferences" = "Ova opcija može biti poništena postavkom «Zatvori prozore pri zatvaranju aplikacije» u postavkama sustava";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Uređene datoteke bit će spremljene bez pitanja prilikom prebacivanja datoteka u lijevom panelu. \nKada je opcija «Pitaj za čuvanje promjena pri zatvaranju dokumenata» onemogućena u postavkama sustava, ovo je uvijek omogućeno.";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Ova opcija može biti poništena postavkom «Zatvori prozore pri zatvaranju aplikacije» u postavkama sustava";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Prepoznaj Unicode interpunkciju kao ASCII pri parsiranju Markdown-a, npr.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>Bit će automatski uključeno ako se pametni navodnici/crtice pretvaraju pri unosu.<div>";
-"These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "Ove opcije se mogu promijeniti i u izborniku «Uredi→Razmak i lomljenje linija»";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = "«Izvezi i prepiši s prethodnim» će prepisati datoteku na %@, želite li nastaviti?";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "Dodaj «Markdown» u kontekstni izbornik «Novo» u Windows Exploreru";
-"Delete items from "New" context menu in Windows Explorer" = "Obriši stavke iz kontekstnog izbornika «Novo» u Windows Exploreru";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Ove opcije se mogu promijeniti i u izborniku «Uredi→Razmak i lomljenje linija»";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "«Izvezi i prepiši s prethodnim» će prepisati datoteku na %@, želite li nastaviti?";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Dodaj «Markdown» u kontekstni izbornik «Novo» u Windows Exploreru";
+"Delete items from \"New\" context menu in Windows Explorer" = "Obriši stavke iz kontekstnog izbornika «Novo» u Windows Exploreru";
 
 "Apply Line Break at \\\\ and &#92;newline" = "Primijeni prijelom retka na \\\\ i &#92;newline";
 "Physics package will redefine some latex macros, such as \\\\div, \\\\Re, etc." = "Physics paket će redefinirati neke LaTeX makroe, kao što su \\\\div, \\\\Re, itd.";

@@ -359,7 +359,7 @@
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora tüm yerel resimlerin dosya konumlarıyla üçüncü parti uygulamasını çalıştıracak. Resim yükleyici ve bulut resim depolaması yerel dosyalarınıza erişebilecek. Devam etmek istediğinize emin misiniz?";
 
 "Export operation finished successfully." = "Dışa aktarma işlemi başarıyla sonlandırıldı.";
-"Edited files will be saved without asking when switch files in left panel. \nWhen "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "Sol panelde dosya değiştirirken düzenlenmiş dosyalar sorulmadan kaydedilecektir. \nSistem Ayarlarında "Belgeleri kapatırken değişiklikleri saklamayı sor" devre dışı bırakıldığında, bu her zaman etkindir.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Sol panelde dosya değiştirirken düzenlenmiş dosyalar sorulmadan kaydedilecektir. \nSistem Ayarlarında \"Belgeleri kapatırken değişiklikleri saklamayı sor\" devre dışı bırakıldığında, bu her zaman etkindir.";
 "Shortcut Keys" = "Kısayol Tuşları";
 "Custom Shortcut Keys" = "Özel Kısayol Tuşları";
 "Theme" = "Tema";
@@ -426,7 +426,7 @@
 "Select folder path to save" = "Kaydetmek için klasör yolunu seçin";
 "PDF Engine" = "PDF Motoru";
 "Show command output" = "Komut çıktısını göster";
-""Export and Overwrite with Previous" will overwrite file at %@, would you continue?" = ""Öncekiyle Dışa Aktar ve Üzerine Yaz" %@ konumundaki dosyanın üzerine yazacaktır, devam etmek istiyor musunuz?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Öncekiyle Dışa Aktar ve Üzerine Yaz\" %@ konumundaki dosyanın üzerine yazacaktır, devam etmek istiyor musunuz?";
 "Command Arguments:" = "Komut Argümanları:";
 "This dev version of Typora is expired, please download and install a newer version." = "Bu geliştirici sürümünün süresi dolmuştur, lütfen daha yeni bir sürüm indirip yükleyin.";
 "Current Theme" = "Geçerli Tema";
@@ -531,8 +531,8 @@
 "Remove from List" = "Listeden Kaldır";
 "Record recent files and folders" = "Son dosyaları ve klasörleri kaydet";
 "System Integration" = "Sistem Entegrasyonu";
-"Add "Markdown" to "New" context menu in Windows Explorer" = "Windows Gezgini'nde "Yeni" bağlam menüsüne "Markdown" ekle";
-"Delete items from "New" context menu in Windows Explorer" = "Windows Gezgini'ndeki "Yeni" bağlam menüsünden öğeleri sil";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Windows Gezgini'nde \"Yeni\" bağlam menüsüne \"Markdown\" ekle";
+"Delete items from \"New\" context menu in Windows Explorer" = "Windows Gezgini'ndeki \"Yeni\" bağlam menüsünden öğeleri sil";
 "Please try sign out Windows to take effect." = "Değişikliklerin geçerli olması için lütfen Windows oturumunu kapatmayı deneyin.";
 "Github Style Alert" = "Github Tarzı Uyarı";
 "Zoom when using mouse wheel and holding %@ key" = "%@ tuşuna basılı tutarak fare tekerleğiyle yakınlaştır";

@@ -181,4 +181,4 @@
 "Markdown file" = "Fitxer Markdown";
 "TextBundle file" = "Fitxer TextBundle";
 "Images saved to TextBundle" = "Imatges desades al TextBundle";
-"Cannot rename from $1 to $2, please use "File" → "Move To…" from menubar instead." = "No es pot canviar el nom de $1 a $2, utilitzeu «Fitxer» → «Mou a…» des de la barra de menú.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "No es pot canviar el nom de $1 a $2, utilitzeu «Fitxer» → «Mou a…» des de la barra de menú.";

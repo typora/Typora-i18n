@@ -66,11 +66,13 @@ Feel free to contact us via <hi@typora.io>
 
 ## Reference
 
-- Menu items on macOS → https://github.com/martnst/localize-mainmenu
-- Terminology for Windows → https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology
+- Menu items on macOS → <https://github.com/martnst/localize-mainmenu>
+- Terminology for Windows → <https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology>
 
 ## Other Language
+
 [简体中文](Readme-zh.md)
+[日本語](Readme-ja.md)
 
 ## Credits
 

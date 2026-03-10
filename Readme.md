@@ -89,15 +89,20 @@ Feel free to contact us via <hi@typora.io>
 - Czech by [byDave251](https://github.com/byDave251), [psimacek](https://github.com/psimacek), [AlexKratky](https://github.com/AlexKratky), [bydavenet](https://github.com/bydavenet), [petrsvag](https://github.com/petrsvag)
 - Greek by [kiriakosv](https://github.com/kiriakosv)
 - Croatian by [diomed](https://github.com/diomed), [hrvoj3e](https://github.com/hrvoj3e)
+- Hindi by plutonium.239.811@gmail.com
 - Hungarian by [mocsa](https://github.com/mocsa)
+- Irish by hi@typora.io
 - Portuguese (Portugal) by [jcamilo93](https://github.com/jcamilo93)
 - Galician by [nunhes](https://github.com/nunhes)
 - Indonesia by [snatalius](https://github.com/snatalius)
+- Norwegian Bokmal by hi@typora.io
+- Norwegian Nynorsk by sjurnm@mac.com
 - Vietnamese by [mwolfinspace](https://github.com/mwolfinspace)
 - Swedish by [Sandskär](https://github.com/passar), [FelixZY](https://github.com/FelixZY), [MorganAntonsson](https://github.com/MorganAntonsson)
 - Catalan by [jmigual](https://github.com/jmigual)
 - Danish by [archfrog](https://github.com/archfrog)
 - Persian by [sadra](https://github.com/sadra)
+- Thai by Thanachart Monpassorn <nunf_2539@hotmail.com>
 - Indonesian by [snatalius](https://github.com/snatalius), [Kylamber](https://github.com/Kylamber), [nashrullahalifauzi](https://github.com/nashrullahalifauzi)
 - Dutch by Melle Dijkstra, [vidavidorra](https://github.com/vidavidorra), [andredelft](https://github.com/andredelft)
 - Slovak by Petr Mátl

@@ -525,9 +525,7 @@
 "Enable autocomplete for Emojis" = "Automatisch aanvullen inschakelen voor emoji's";
 "Some settings will only apply after a reload" = "Sommige instellingen worden pas toegepast na herladen";
 "Reload" = "Herladen";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. 
-Please choose a light theme or click "Print with default theme"" = "Helaas kan de huidige versie van Typora geen achtergrondkleur afdrukken in geëxporteerde PDF's, dus het donkere thema wordt nog niet ondersteund voor PDF-export. 
-Kies een licht thema of klik op "Afdrukken met standaardthema"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Helaas kan de huidige versie van Typora geen achtergrondkleur afdrukken in geëxporteerde PDF's, dus het donkere thema wordt nog niet ondersteund voor PDF-export. \nKies een licht thema of klik op \"Afdrukken met standaardthema\"";
 "This option may be overridden by "Close windows when quitting an application" in System Preferences" = "Deze optie kan worden overschreven door "Vensters sluiten bij het afsluiten van een applicatie" in Systeemvoorkeuren";
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Herken unicode-interpunctie als ASCII bij het verwerken van Markdown, bijv.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>Dit wordt automatisch ingeschakeld als slimme aanhalingstekens/streepjes worden geconverteerd bij invoer.<div>";
 "These options can also be changed under "Edit→Whitespace and Line Breaks" menu" = "Deze opties kunnen ook worden gewijzigd onder het menu "Bewerken→Witruimtes en regeleindes"";

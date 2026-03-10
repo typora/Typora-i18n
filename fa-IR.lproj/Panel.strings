@@ -279,9 +279,7 @@
 "Reading Speed" = "سرعت مطالعه";
 "Auto" = "خودکار";
 "words / min" = "کلمه ‫/‬ دقیقه";
-"Edited files will be saved without asking when switch files in left panel. 
-When "Ask to keep changes when closing documents" is disabled in System Preference, this is always enabled." = "فایل‌های ویرایش شده بدون پرسش هنگام تغییر فایل در پنل چپ ذخیره می‌شوند. 
-زمانی که "پرسش برای نگهداری تغییرات هنگام بستن اسناد" در تنظیمات سیستم غیرفعال باشد، این گزینه همیشه فعال است.";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "فایل‌های ویرایش شده بدون پرسش هنگام تغییر فایل در پنل چپ ذخیره می‌شوند. \nزمانی که \"پرسش برای نگهداری تغییرات هنگام بستن اسناد\" در تنظیمات سیستم غیرفعال باشد، این گزینه همیشه فعال است.";
 "The option `%@` must be enabled first to automatically upload images." = "ابتدا باید گزینه `%@` فعال شود تا تصاویر به صورت خودکار آپلود شوند.";
 "Reset to Default" = "بازنشانی به پیش‌فرض";
 "120  words/minute (Slow)" = "۱۲۰ کلمه/دقیقه (آهسته)";

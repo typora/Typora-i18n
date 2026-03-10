@@ -563,8 +563,8 @@
 "Record recent files and folders" = "Taifead comhaid agus fillteáin le déanaí";
 
 "System Integration" = "Comhtháthú Córais";
-"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Cuir "Markdown" leis an roghchlár comhthéacs "Nua" in Windows Explorer";
-"Delete items from \"New\" context menu in Windows Explorer" = "Scrios míreanna ón roghchlár comhthéacs "Nua" in Windows Explorer";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Cuir \"Markdown\" leis an roghchlár comhthéacs \"Nua\" in Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Scrios míreanna ón roghchlár comhthéacs \"Nua\" in Windows Explorer";
 "Please try sign out Windows to take effect." = "Déan iarracht logáil amach as Windows le go dtiocfaidh sé i bhfeidhm.";
 "Github Style Alert" = "Foláireamh Stíle Github";
 "Zoom when using mouse wheel and holding %@ key" = "Zúmáil agus roth na luiche á úsáid agus an eochair %@ á coinneáil síos";
@@ -577,3 +577,5 @@
 
 "Auto Complete" = "Comhlánaigh Uathoibríoch";
 "Enable autocomplete for Emojis" = "Cumasaigh uathchríochnú le haghaidh Emojis";
+"Some settings will only apply after a reload" = "Ní bheidh feidhm ag roinnt socruithe ach tar éis athlódáil";
+"Reload" = "Athlódáil";

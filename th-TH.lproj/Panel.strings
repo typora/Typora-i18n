@@ -58,10 +58,7 @@ Thai translated by
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(การตั้งค่าต่อไปนี้จะถูกใช้หลังจากเริ่มต้นใหม่)";
 "Syntax Support" = "การสนับสนุนไวยากรณ์";
-"Inline Math (e.g: $\LaTeX$)" = "คณิตศาสตร์แบบบรรทัด (เช่น: $\LaTeX$)";
-"Subscript (e.g: H2O)" = "ตัวห้อย (เช่น: H2O)";
 "Superscript (e.g: X^2^)" = "ตัวยก (เช่น: X^2^)";
-"Highlight (e.g: ==key==)" = "เน้นข้อความ (เช่น: ==key==)";
 "Diagrams" = "แผนภูมิ";
 "(Sequence, Flowchart and Mermaid)" = "(Sequence, Flowchart และ Mermaid)";
 "Syntax Preference" = "การตั้งค่าไวยากรณ์";
@@ -89,7 +86,6 @@ Thai translated by
 /* Pandoc Import Panel */
 "Importing..." = "กำลังนำเข้า...";
 "Importing in progress..." = "กำลังนำเข้าอยู่...";
-"Converting file with Pandoc. This may take some time." = "กำลังแปลงไฟล์ด้วย Pandoc นี้อาจใช้เวลาสักครู่";
 "Abort" = "ยกเลิก";
 
 /* Pandoc Export Panel */
@@ -156,7 +152,6 @@ Thai translated by
 "Developer" = "นักพัฒนา";
 "Update" = "อัปเดต";
 "Check Updates" = "ตรวจสอบการอัปเดต";
-"Check updates automatically" = "ตรวจสอบการอัปเดตโดยอัตโนมัติ";
 "Advanced Settings" = "การตั้งค่าขั้นสูง";
 "Open Advanced Settings" = "เปิดการตั้งค่าขั้นสูง";
 "Reset Advanced Settings" = "รีเซ็ตการตั้งค่าขั้นสูง";
@@ -172,7 +167,6 @@ Thai translated by
 "%d Images Failed to Upload." = "อัปโหลดรูปภาพ %d รูปล้มเหลว";
 "%d Succeeded," = "%d สำเร็จ, ";
 "Enable this feature on preferences panel" = "เปิดใช้งานฟีเจอร์นี้ในแผงการตั้งค่า";
-"The option %@ must be enabled first to automatically upload images." = "ตัวเลือก %@ ต้องเปิดใช้งานก่อนที่จะสามารถอัปโหลดรูปภาพโดยอัตโนมัติได้";
 "%@ is a file, not a directory" = "%@ เป็นไฟล์ไม่ใช่โฟลเดอร์";
 "Copy Images To…" = "คัดลอกรูปภาพไปยัง...";
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora กำลังพยายามคัดลอกรูปภาพที่แทรกล่าสุดไปยังโฟลเดอร์ %@ ตามการตั้งค่า YAML Front Matter หรือการตั้งค่าโลกของคุณ แต่โฟลเดอร์เป้าหมายไม่มีอยู่ ต้องการสร้างเดี๋ยวนี้หรือไม่?";
@@ -205,7 +199,6 @@ Thai translated by
 "More Formats" = "รูปแบบอื่นๆ";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "รูปแบบไฟล์ในส่วน 'รูปแบบอื่นๆ' ต้องการ <a class='open-pandoc-guide'>ติดตั้ง Pandoc</a> ก่อน";
 "Something is Wrong…" = "มีบางอย่างผิดพลาด...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>รายงานข้อบกพร่องให้เรา</a></li><li><a href='https://support.typora.io/Version-Control/'>กู้คืนเนื้อหาที่สูญหาย</a></li></ul>" = "บันทึกเนื้อหาล้มเหลวเนื่องจากสาเหตุใดสาเหตุหนึ่ง<br/>คุณสามารถคัดลอกเนื้อหาไปยังหน้าต่าง Typora ใหม่แล้วบันทึก<br/>เรียนรู้เพิ่มเติมเกี่ยวกับ:<ul><li><a href='https://support.typora.io/Report-Bugs/'>รายงานข้อบกพร่องให้เรา</a></li><li><a href='https://support.typora.io/Version-Control/'>กู้คืนเนื้อหาที่สูญหาย</a></li></ul>";
 "Copy Content" = "คัดลอกเนื้อหา";
 
 
@@ -247,10 +240,8 @@ Thai translated by
 "Ignore" = "ไม่สนใจ";
 "Choose Default Folder" = "เลือกโฟลเดอร์เริ่มต้น";
 "<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>Convert on Input</strong>: ป้อนขีดล่างหรือเครื่องหมายคำพูด ASCII แล้วแปลงและบันทึกเป็นเครื่องหมายคำพูดโค้งหรือขีดล่าง Unicode <br/><strong>Convert on Rendering</strong>: ป้อนและบันทึกเป็นขีดล่างหรือเครื่องหมายคำพูด ASCII และแสดงผลเป็นเครื่องหมายคำพูดโค้งหรือขีดล่าง Unicode</div>";
-"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → link</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>รู้จักเครื่องหมายวรรคตอน Unicode เหมือนกับ ASCII เมื่อแยกวรรคตอน markdown เช่น:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → link</pre> ถ้าเปิดใช้งานการแปลงเครื่องหมายคำพูด/ขีดล่างอัจฉริยะเมื่อป้อน จะเปิดใช้งานโดยอัตโนมัติ<div>";
 
 "Copy image to custom folder" = "คัดลอกภาพไปยังโฟลเดอร์ที่กำหนดเอง";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (${filename} representing for currents filename.)" = "โปรดระบุพาธสัมพัทธ์ถึงโฟลเดอร์ปัจจุบันที่เริ่มต้นด้วย './' หรือ '../' หรือพาธแบบสมบูรณ์ (${filename} แทนชื่อไฟล์ปัจจุบัน)";
 "Restore to previous setting" = "คืนค่าก่อนหน้า";
 "Folder not exist at %@, please input another path." = "ไม่มีโฟลเดอร์ที่ %@, โปรดระบุพาธอื่น";
 "Please input a folder path." = "โปรดระบุพาธของโฟลเดอร์";
@@ -281,13 +272,9 @@ Thai translated by
 "Typewriter / Focus Mode have been turned off." = "โหมดเครื่องพิมพ์ / โหมดโฟกัสถูกปิดแล้ว";
 
 "Reading Speed" = "ความเร็วในการอ่าน";
-"Auto" = "อัตโนมัติ";
 "words / min" = "คำ / นาที";
 
 "Reset to Default" = "รีเซ็ตเป็นค่าเริ่มต้น";
-"120 words/minute (Slow)" = "120 คำ / นาที (ช้า)";
-"240 words/minute (Medium)" = "240 คำ / นาที (ปานกลาง)";
-"382 words/minute (Fast)" = "382 คำ / นาที (เร็ว)";
 
 "Copy and update image source to…" = "คัดลอกและอัปเดตต้นฉบับรูปภาพไปยัง...";
 "Updater" = "ตัวอัปเดต";
@@ -301,7 +288,7 @@ Thai translated by
 "Latest version is $1, your version is $2" = "เวอร์ชั่นล่าสุดคือ $1 และเวอร์ชั่นของคุณคือ $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "ตัวเลือกเหล่านี้สามารถเปลี่ยนแปลงได้ภายใต้เมนู \"Edit→Whitespace and Line Breaks\"";
 "Auto escape image URL when insert" = "การหลีกเลี่ยง URL รูปภาพอัตโนมัติเมื่อแทรกรูปภาพ";
-"สำหรับตัวอย่าง หากคุณแทรกไฟล์ที่ 'img/example file.png' มันจะกลายเป็น 'img/example%20file.png' ให้เปิดใช้งานสำหรับความเข้ากันได้ดีกับเครื่องมือ Markdown อื่น ๆ หรือปิดใช้งานสำหรับความอ่านง่าย";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "สำหรับตัวอย่าง หากคุณแทรกไฟล์ที่ 'img/example file.png' มันจะกลายเป็น 'img/example%20file.png' ให้เปิดใช้งานสำหรับความเข้ากันได้ดีกับเครื่องมือ Markdown อื่น ๆ หรือปิดใช้งานสำหรับความอ่านง่าย";
 "Check updates automatically" = "ตรวจสอบการอัปเดตอัตโนมัติ";
 "Skip This Version" = "ข้ามเวอร์ชันนี้";
 "Remind Me Later" = "เตือนฉันในภายหลัง";
@@ -316,9 +303,7 @@ Thai translated by
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "ฟังก์ชันนำเข้าและรูปแบบการส่งออกหลายรูปแบบต้องการให้ติดตั้ง Pandoc (≥%@)";
 "Do not show this message again" = "อย่าแสดงข้อความนี้อีกครั้ง";
 
-"Page Break Between Top Headings" = "ขั้นตอนการแบ่งหน้าระหว่างหัวเรื่องสูงสุด";
 
-"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to hi@typora.io to help us fix this error." = "ขออภัย เกิดข้อผิดพลาดบางอย่าง ข้อความที่กำลังเขียนปัจจุบันถูกคัดลอกไปยังคลิปบอร์ด คุณสามารถรายงานสิ่งนี้ไปที่ hi@typora.io เพื่อช่วยให้เราแก้ไขข้อผิดพลาดนี้";
 "Try Recovery" = "ลองคืนค่า";
 "Other Options for Data Recovery" = "ตัวเลือกอื่น ๆ สำหรับการกู้คืนข้อมูล";
 
@@ -342,7 +327,6 @@ Thai translated by
 "Please set an image uploader in Preferences panel before using this function." = "โปรดตั้งค่าตัวอัปโหลดรูปภาพในพาเนล Preferences ก่อนใช้ฟังก์ชันนี้";
 "Download or Upgrade" = "ดาวน์โหลดหรืออัปเกรด";
 "Open Config File" = "เปิดไฟล์คอนฟิก";
-"Command" = "คำสั่ง";
 "PicGo Path" = "เส้นทาง PicGo";
 "Path of PicGo binary" = "เส้นทางของไบนารี PicGo";
 "Executable" = "สามารถประมวลผล";
@@ -390,7 +374,6 @@ Thai translated by
 "Include Outline Sidebar" = "รวมแถบข้างของเส้นกระดูก";
 "Width" = "ความกว้าง";
 "Command" = "คำสั่ง";
-"Show Save File Dialog" = "แสดงกล่องโต้ตอบบันทึกไฟล์";
 "File Extensions for Export" = "นามสกุลไฟล์สำหรับส่งออก";
 "Arguments" = "อาร์กิวเมนต์";
 "Extra Arguments" = "อาร์กิวเมนต์เสริม";
@@ -404,7 +387,6 @@ Thai translated by
 "Same folder with current file" = "โฟลเดอร์เดียวกันกับไฟล์ปัจจุบัน";
 "Custom location" = "ตำแหน่งกำหนดเอง";
 "(Auto Detect)" = "(ตรวจจับอัตโนมัติ)";
-"After Export" = "หลังจากส่งออก";
 "Open exported file location" = "เปิดตำแหน่งไฟล์ที่ส่งออก";
 "Open exported file" = "เปิดไฟล์ที่ส่งออก";
 "Custom" = "กำหนดเอง";
@@ -473,7 +455,6 @@ Thai translated by
 
 "Set Pandoc Path" = "ตั้งค่าเส้นทาง Pandoc";
 
-"Apply Line Break at \ and \newline" = "ใช้การขึ้นบรรทัดใหม่ที่ \ และ \newline";
 
 "Export operation succeeded with warnings." = "การดำเนินการส่งออกสำเร็จพร้อมคำเตือน";
 
@@ -531,3 +512,64 @@ Thai translated by
 
 "Auto Links (e.g: https://typora.io)" = "ลิงก์อัตโนมัติ (เช่น: https://typora.io)";
 "When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "เมื่อเปิดใช้งาน Typora จะรู้จำและเน้น URL (เช่น: https://typora.io หรือ mailto:hi@typora.io) ในข้อความอัตโนมัติ";
+"Inline Math  (e.g: $\LaTeX$)" = "คณิตศาสตร์ในบรรทัด  (เช่น: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "ตัวห้อย    (เช่น: H~2~O)";
+"Highlight     (e.g: ==key==)" = "ไฮไลต์     (เช่น: ==key==)";
+"The option `%@` must be enabled first to automatically upload images." = "ต้องเปิดใช้งานตัวเลือก `%@` ก่อนเพื่ออัปโหลดรูปภาพโดยอัตโนมัติ";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "การบันทึกเนื้อหาล้มเหลวด้วยเหตุผลบางประการ<br/>คุณสามารถคัดลอกเนื้อหาไปยังหน้าต่าง Typora ใหม่แล้วบันทึก <br/>เรียนรู้เพิ่มเติมเกี่ยวกับ:<ul><li><a href='https://support.typora.io/Report-Bugs/'>รายงานข้อบกพร่องให้เรา</a></li><li><a href='https://support.typora.io/Version-Control/'>กู้คืนเนื้อหาที่สูญหาย</a></li></ul>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>จดจำเครื่องหมายวรรคตอน Unicode เป็น ASCII เมื่อแยกวิเคราะห์ Markdown เช่น:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ‘title’) → [link](src 'title')</pre>จะเปิดใช้งานอัตโนมัติหากเครื่องหมายคำพูด/ขีดอัจฉริยะจะถูกแปลงเมื่อป้อนข้อมูล<div>";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "โปรดระบุเส้นทางสัมพันธ์ไปยังโฟลเดอร์ปัจจุบันซึ่งเริ่มต้นด้วย './' หรือ '../' หรือเส้นทางโฟลเดอร์แบบสัมบูรณ์ (`${filename}` แทนชื่อไฟล์ปัจจุบัน)";
+"120  words/minute (Slow)" = "120  คำ/นาที (ช้า)";
+"240  words/minute (Medium)" = "240  คำ/นาที (ปานกลาง)";
+"382  words/minute (Fast)" = "382  คำ/นาที (เร็ว)";
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "ขออภัย เกิดข้อผิดพลาดบางอย่าง เนื้อหาที่เขียนปัจจุบันถูกคัดลอกไปยังคลิปบอร์ดแล้ว คุณสามารถรายงานปัญหานี้ไปที่ <hi@typora.io> เพื่อช่วยเราแก้ไขข้อผิดพลาดนี้";
+"Apply Line Break at \ and &#92;newline" = "ใช้การขึ้นบรรทัดใหม่ที่ \ และ &#92;newline";
+"Files" = "ไฟล์";
+"Default File Type / Extension" = "ประเภทไฟล์ / นามสกุลเริ่มต้น";
+"Custom Extension:" = "นามสกุลที่กำหนดเอง:";
+"Following extensions are supported: %@" = "รองรับนามสกุลต่อไปนี้: %@";
+"When drop file / folder into Typora" = "เมื่อลากไฟล์ / โฟลเดอร์เข้า Typora";
+"When drop folder" = "เมื่อลากโฟลเดอร์";
+"When drop markdown file" = "เมื่อลากไฟล์ Markdown";
+"When drop files that can be imported" = "เมื่อลากไฟล์ที่สามารถนำเข้าได้";
+"Open in Typora" = "เปิดใน Typora";
+"Insert Folder Link" = "แทรกลิงก์โฟลเดอร์";
+"Insert File Link" = "แทรกลิงก์ไฟล์";
+"Import File" = "นำเข้าไฟล์";
+"Diagram Options" = "ตัวเลือกไดอะแกรม";
+"Default Code Language" = "ภาษาโค้ดเริ่มต้น";
+"(None)" = "(ไม่มี)";
+"Last Used" = "ใช้ล่าสุด";
+"Apply Default Code Language When" = "ใช้ภาษาโค้ดเริ่มต้นเมื่อ";
+"When add code fences via Markdown" = "เมื่อเพิ่มบล็อกโค้ดผ่าน Markdown";
+"When add code fences via Menubar" = "เมื่อเพิ่มบล็อกโค้ดผ่านแถบเมนู";
+"Both" = "ทั้งสอง";
+"Pinned and Recent Locations" = "ตำแหน่งที่ปักหมุดและล่าสุด";
+"Operation Succeeded" = "ดำเนินการสำเร็จ";
+"Clear Recent Folders and Files" = "ล้างโฟลเดอร์และไฟล์ล่าสุด";
+"Clear Recent Folders / Files Only" = "ล้างเฉพาะโฟลเดอร์ / ไฟล์ล่าสุด";
+"Clear Recent and Pinned Folders / Files" = "ล้างโฟลเดอร์ / ไฟล์ล่าสุดและที่ปักหมุด";
+"Also clear pinned folders" = "ล้างโฟลเดอร์ที่ปักหมุดด้วย";
+"Pin" = "ปักหมุด";
+"Unpin" = "เลิกปักหมุด";
+"Remove from List" = "ลบออกจากรายการ";
+"Record recent files and folders" = "บันทึกไฟล์และโฟลเดอร์ล่าสุด";
+"System Integration" = "การรวมระบบ";
+"Please try sign out Windows to take effect." = "กรุณาลองออกจากระบบ Windows เพื่อให้การเปลี่ยนแปลงมีผล";
+"Github Style Alert" = "การแจ้งเตือนสไตล์ Github";
+"Zoom when using mouse wheel and holding %@ key" = "ซูมเมื่อใช้ล้อเมาส์และกดปุ่ม %@ ค้างไว้";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "เอกสารปัจจุบันมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก คุณต้องการเปลี่ยนไปยังไฟล์ที่เพิ่งทำสำเนาหรือไม่?";
+"Chapter Level in Outline" = "ระดับบทในเค้าโครง";
+"Enable inline math or code block math" = "เปิดใช้งานคณิตศาสตร์ในบรรทัดหรือคณิตศาสตร์บล็อกโค้ด";
+"Code Block Math  (```math code block)" = "คณิตศาสตร์บล็อกโค้ด  (```math บล็อกโค้ด)";
+"PicList Path" = "เส้นทาง PicList";
+"Auto Complete" = "เติมข้อความอัตโนมัติ";
+"Enable autocomplete for Emojis" = "เปิดใช้งานเติมข้อความอัตโนมัติสำหรับอีโมจิ";
+"Some settings will only apply after a reload" = "การตั้งค่าบางอย่างจะมีผลหลังจากโหลดใหม่เท่านั้น";
+"Reload" = "โหลดใหม่";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "เพิ่ม \"Markdown\" ไปยังเมนูบริบท \"สร้างใหม่\" ใน Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "ลบรายการจากเมนูบริบท \"สร้างใหม่\" ใน Windows Explorer";
+
+"Apply Line Break at \\ and &#92;newline" = "ใช้การแบ่งบรรทัดที่ \\ และ &#92;newline";
+
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "แพ็คเกจ Physics จะกำหนดมาโคร LaTeX บางตัวใหม่ เช่น \\div, \\Re เป็นต้น";

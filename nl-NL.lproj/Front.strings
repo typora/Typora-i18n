@@ -107,7 +107,7 @@
 "File with the same name already exists at target path" = "Bestand met dezelfde naam bestaat al op doellocatie";
 "Apply to All" = "Overal toepassen";
 "Overwrite" = "Overschrijven";
-"Stop" = "Stop";
+"Stop" = "Stoppen";
 "back to document" = "terug naar document";
 "Failed to load file" = "Het is niet gelukt om het bestand te laden";
 "Save File Failed!" = "Het is niet gelukt om het bestand op te slaan!";
@@ -116,7 +116,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Bestandsinhoud is aangepast door een externe applicatie. Bestand herladen?";
 "Should continue moving and overwrite existing file(s) ?" = "Doorgaan met het verplaatsen en overschrijven van bestaande bestand(en)?";
 
-"Rename Failed" = "Hernoemen mislukt";
 "Rename to \"{0}\" ?" = "Hernoemen naar \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Hernoemen van \"{0}\" naar \"{1}\" is mislukt";
 
@@ -137,9 +136,7 @@
 
 "input image URL" = "voer afbeeldings-URL in";
 "Select image from local file" = "Selecteer afbeelding van lokaal bestand";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Kan de locatie <code>$1</code> niet openen. Bedoelde u <a href='https://$3'>https://$2</a>?";
 
-"select a language" = "selecteer een taal";
 "Finish Editing" = "Stop met bewerken";
 
 "Revert advanced setting file to default one ?" = "Wilt u de geavanceerde instellingen terugzetten naar de standaardwaarden?";
@@ -191,3 +188,18 @@
 
 "You are not supposed to edit or save this file." = "Het is niet de bedoeling dat u dit bestand bewerkt of opslaat.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Bestanden op deze locatie (%@) worden beheerd door Typora, en kunnen automatisch verwijderd worden.<br/>Kopieer uw bestanden naar een nieuwe locatie om door te gaan met bewerken.";
+
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Kan locatie <code>$1</code> niet openen, bedoelt u <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"File does not exist at path %@." = "Bestand bestaat niet op pad %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Bestand bestaat niet op pad %@, wilt u er een aanmaken op dat pad?";
+"No Results" = "Geen resultaten";
+"Too many matches" = "Te veel overeenkomsten";
+"Regular Expression" = "Reguliere expressie";
+"Sort by Creation Date (Ascending)" = "Sorteren op aanmaakdatum (oplopend)";
+"Sort by Creation Date (Descending)" = "Sorteren op aanmaakdatum (aflopend)";
+"code language" = "codetaal";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan niet hernoemen van $1 naar $2, gebruik \"Bestand\" → \"Verplaats naar…\" uit de menubalk.";
+"Markdown file" = "Markdown-bestand";
+"TextBundle file" = "TextBundle-bestand";
+"Images saved to TextBundle" = "Afbeeldingen opgeslagen in TextBundle";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Kan niet hernoemen van $1 naar $2, gebruik in plaats daarvan \"Bestand\" → \"Verplaatsen naar…\" uit de menubalk.";

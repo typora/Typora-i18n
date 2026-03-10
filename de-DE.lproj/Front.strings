@@ -171,3 +171,29 @@
 "Auto refresh on Files Panel cannot be enabled." = "Automatisches Neuladen vom Files-Panel konnten nicht aktiviert werden.";
 "Delete Permanently" = "Unwiderruflich Löschen";
 
+
+"<strong>Unibody</strong> style has been turned on." = "Der <strong>Unibody</strong>-Stil wurde aktiviert.";
+"Failed to upload images:" = "Hochladen von Bildern fehlgeschlagen:";
+"File does not exist at path %@, do you want to create one at that path?" = "Datei existiert nicht unter dem Pfad %@. Möchten Sie eine Datei an diesem Pfad erstellen?";
+"File does not exist at path %@." = "Datei existiert nicht unter dem Pfad %@.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Dateien an diesem Speicherort (%@) werden von Typora verwaltet und können automatisch gelöscht werden.<br/>Bitte kopieren Sie den Inhalt in eine neue Datei zur weiteren Bearbeitung.";
+"Images saved to TextBundle" = "Bilder in TextBundle gespeichert";
+"Markdown file" = "Markdown-Datei";
+"No Results" = "Keine Ergebnisse";
+"Regular Expression" = "Regulärer Ausdruck";
+"Sort Naturally (Ascending)" = "Natürlich sortieren (aufsteigend)";
+"Sort Naturally (Descending)" = "Natürlich sortieren (absteigend)";
+"Sort by Creation Date (Ascending)" = "Nach Erstelldatum sortieren (aufsteigend)";
+"Sort by Creation Date (Descending)" = "Nach Erstelldatum sortieren (absteigend)";
+"Successfully uploaded {0} images, {1} failed." = "{0} Bilder erfolgreich hochgeladen, {1} fehlgeschlagen.";
+"Support Document" = "Support-Dokument";
+"TextBundle file" = "TextBundle-Datei";
+"Too many matches" = "Zu viele Treffer";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora versucht, das neu eingefügte Bild gemäß Ihrer YAML Front Matter-Einstellung oder den globalen Einstellungen in den Ordner <code id='image-create-folder-target'></code> zu kopieren. Der Zielordner existiert jedoch nicht. Jetzt erstellen?";
+"Uploading in progress" = "Hochladen läuft";
+"You are not supposed to edit or save this file." = "Diese Datei sollte nicht bearbeitet oder gespeichert werden.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Sie können <strong>STRG + Klick</strong> drücken, um <a href='#'>Links</a> zu öffnen oder zur Fußnotendefinition zu springen.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Sie können <strong>⌘ + Klick</strong> drücken, um <a href='#'>Links</a> zu öffnen oder zur Fußnotendefinition zu springen.";
+"You can right click titlebar to popup application menu." = "Sie können mit der rechten Maustaste auf die Titelleiste klicken, um das Anwendungsmenü zu öffnen.";
+"You could undo this operation later via `Edit` → `Undo`." = "Sie können diesen Vorgang später über `Bearbeiten` → `Widerrufen` rückgängig machen.";
+"code language" = "Code-Sprache";

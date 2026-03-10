@@ -133,7 +133,6 @@
 
 "input image URL" = "vnesi spletni naslov slike (URL)";
 "Select image from local file" = "Izberi sliko med lokalnimi datotekami";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Ne morem odpreti naslova <code>$1</code>, ste morda mislili <a href='https://$3'>https://$2</a> ?";
 
 "Finish Editing" = "Zaključi urejanje";
 
@@ -203,3 +202,4 @@
 "Markdown file" = "Markdown datoteka";
 "TextBundle file" = "TextBundle datoteka";
 "Images saved to TextBundle" = "Slike so shranjene v TextBundle datoteko";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Lokacije <code>$1</code> ni mogoče odpreti. Ali ste mislili <a href='$3' target='_blank' target='_blank'>$2</a> ?";

@@ -360,3 +360,7 @@
 "Important Block" = "महत्वपूर्ण ब्लॉक";
 "Warning Block" = "चेतावनी ब्लॉक";
 "Caution Block" = "सावधानी ब्लॉक";
+"Move Table Row Up" = "तालिका पंक्ति ऊपर ले जाएँ";
+"Move Table Row Down" = "तालिका पंक्ति नीचे ले जाएँ";
+"Move Table Column Left" = "तालिका कॉलम बाएँ ले जाएँ";
+"Move Table Column Right" = "तालिका कॉलम दाएँ ले जाएँ";

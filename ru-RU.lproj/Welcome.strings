@@ -83,3 +83,8 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "В вашей лицензии превышено максимальное количество устройств.\nЕсли нажмёте на \"Продолжить активацию\", это устройство будет активировано, а самое старое устройство будет автоматически снято с регистрации.";
 "Continue Activation" = "Продолжить активацию";
+
+"Back" = "Назад";
+"Get Activation Token" = "Получить токен активации";
+"Offline Activation" = "Офлайн-активация";
+"Your activated devices have exceeded the maximum limits." = "Количество ваших активированных устройств превысило максимальный лимит.";

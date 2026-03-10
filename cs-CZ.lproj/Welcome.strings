@@ -79,3 +79,12 @@ Czech translation
 "Unknown Error. Please contact hi@typora.io" = "Neznámá chyba, kontatujte prosím hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Selhal přístup k licenčnímu serveru. Zkontrolujte síťové připojení nebo to zkuste znovu později.";
 
+
+"Are you sure to deactivate Typora on this device?" = "Jste si jisti, že chcete deaktivovat Typoru na tomto zařízení?";
+"Back" = "Zpět";
+"Email address confirmation does not match." = "Potvrzení e-mailové adresy se neshoduje.";
+"Enter a license code to support our development ❤" = "Zadejte licenční kód pro podporu našeho vývoje ❤";
+"Get Activation Token" = "Získat aktivační token";
+"Offline Activation" = "Offline aktivace";
+"Re-enter Email" = "Znovu zadat e-mail";
+"Your activated devices have exceeded the maximum limits." = "Vaše aktivovaná zařízení překročila maximální limit.";

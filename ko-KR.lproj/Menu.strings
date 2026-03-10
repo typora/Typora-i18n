@@ -39,7 +39,6 @@
 "Save" = "저장";
 "Save As" = "다른 이름으로 저장";
 "Duplicate" = "복제";
-"Rename" = "이름 변경";
 "Move To" = "다음으로 이동";
 "Revert To" = "다음으로 복귀";
 "Browse All Versions" = "모든 버전 보기";
@@ -78,7 +77,6 @@
 "Upload Local Images via iPic" = "iPic으로 로컬 이미지 업로드";
 "When Insert Local Image" = "로컬 이미지 삽입 설정";
 "Copy Image File to Folder" = "폴더로 이미지 복사";
-"Upload Image via iPic" = "iPic으로 이미지 업로드";
 "Use Image Root Path" = "루트 경로의 이미지 사용";
 "Line Endings" = "개행 문자";
 "Windows Line Endings (CRLF)" = "Windows 개행 문자 (CRLF)";
@@ -99,8 +97,6 @@
 "Smart Dashes" = "스마트 대시";
 "Text Replacement" = "텍스트 대치";
 "Speech" = "말하기";
-"Start Speaking" = "말하기 시작";
-"Stop Speaking" = "말하기 중단";
 
 /* Paragraph Menu */
 "Paragraph" = "본문";
@@ -112,7 +108,6 @@
 "Heading 6" = "제목 6";
 "Increase Heading Level" = "제목 수준 올리기";
 "Decrease Heading Level" = "제목 수준 낮추기";
-"Table" = "표";
 "Code Fences" = "코드 펜스";
 "Math Block" = "수식 블록";
 "Quote" = "인용구";
@@ -240,14 +235,12 @@
 "Copy '%@'" = "'%@' 복사";
 "Copy to %@" = "%@로 복사";
 "Copy Image to" = "다음으로 이미지 복사";
-"Upload via iPic" = "iPic를 통해서 업로드";
 "Open Image Location" = "이미지 위치 열기";
 
 "Learn More" = "더 알아보기";
 "Whitespace and Line Breaks" = "공백 및 줄바꿈";
 "Indent first line of paragraphs" = "문단의 첫 줄 들여쓰기";
 "Visible <br/>" = "<br/>과 마크다운 줄바꿈 보이기";
-"Preserve sequential whitespace and single line break" = "연속된 공백과 단일 줄바꿈 유지하기";
 
 "Save All" = "모두 저장";
 "New Window" = "새 창 열기";
@@ -334,7 +327,6 @@
 "Select Paragraph / Block" = "문단/블록 선택";
 
 "Delete Selected" = "선택한 항목 삭제";
-"Move Image to" = "이미지 이동";
 "Move to %@" = "%@ 로 이동";
 "Delete Image" = "이미지 삭제";
 "Delete Image File" = "이미지 파일 삭제";
@@ -344,3 +336,27 @@
 
 "Copy All Images to" = "모든 이미지 복사";
 "Move All Images to" = "모든 이미지 이동";
+"Preserve single line break" = "단일 줄바꿈 유지";
+"Rename or Move Image to" = "이미지 이름 변경 또는 이동";
+"Copy as Image" = "이미지로 복사";
+"Switch Image Syntax" = "이미지 구문 전환";
+"Markdown Style" = "Markdown 스타일";
+"HTML Style" = "HTML 스타일";
+"Code Tools" = "코드 도구";
+"Copy Code Content" = "코드 내용 복사";
+"Auto Indent Selected Code" = "선택한 코드 자동 들여쓰기";
+"Auto Indent Whole Code" = "전체 코드 자동 들여쓰기";
+"Jump to Line Start" = "줄 시작으로 이동";
+"Jump to Line End" = "줄 끝으로 이동";
+"Toggle Word Count Popover" = "단어수 팝오버 표시/숨기기";
+"Toggle Outline Popover" = "개요 팝오버 표시/숨기기";
+"Alert" = "알림";
+"Note Block" = "노트 블록";
+"Tip Block" = "팁 블록";
+"Important Block" = "중요 블록";
+"Warning Block" = "경고 블록";
+"Caution Block" = "주의 블록";
+"Move Table Row Up" = "테이블 행 위로 이동";
+"Move Table Row Down" = "테이블 행 아래로 이동";
+"Move Table Column Left" = "테이블 열 왼쪽으로 이동";
+"Move Table Column Right" = "테이블 열 오른쪽으로 이동";

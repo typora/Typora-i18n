@@ -577,3 +577,5 @@
 
 "Auto Complete" = "自動完成";
 "Enable autocomplete for Emojis" = "啟用顏文字自動完成";
+"Some settings will only apply after a reload" = "部分設定將在重新載入後生效";
+"Reload" = "重新載入";

@@ -26,7 +26,6 @@
 "Replace" = "Gantian";
 "All" = "Semua";
 "Search text not found in article" = "Teks carian tidak dijumpai dalam artikel";
-"search text" = "teks carian";
 
 /* Quick Open */
 "Search by file name" = "Carian mengikut nama fail";
@@ -112,7 +111,6 @@
 "Cannot open folder {0}" = "Tidak berjaya membuka folder {0}";
 
 "File content is changed by external applications. Reload content from disk ?" = "Kandungan fail telah diubah oleh aplikasi lain. Muat semula kandungan daripada storan?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Patutkah untuk terus memindahkan dan menulis tindih fail tersedia ada?";
 
 "Rename to \"{0}\" ?" = "Nama semua kepada \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Gagal menama semua daripada \"{0}\" kepada \"{1}\"";
@@ -134,9 +132,7 @@
 
 "input image URL" = "masukkan URL imej";
 "Select image from local file" = "Pilih imej daripada fail tempatan";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Tidak boleh membuka lokasi <code>$1</code>, adakah anda maksudkan <a href='https://$3'>https://$2</a> ?";
 
-"select a language" = "pilih bahasa";
 "Finish Editing" = "Selesai menyunting";
 
 "Revert advanced setting file to default one ?" = "Kembalikan fail tentapan lanjutan kepada asal ?";
@@ -188,3 +184,19 @@
 
 "You are not supposed to edit or save this file." = "Anda tidak sepatutnya menyunting atau menyimpan fail ini.";
 "Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Fail-fail di lokasi ini (%@) adalah diuruskan oleh Typora, dan mungkin dipadam secara automatik.<br/>Sila salin kandungan ke satu fail yang baru untuk suntingan selanjutnya.";
+"Should continue moving and overwrite existing file(s) ?" = "Teruskan memindahkan dan tulis ganti fail sedia ada?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Tidak dapat membuka lokasi <code>$1</code>, adakah anda maksudkan <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"File does not exist at path %@." = "Fail tidak wujud di laluan %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Fail tidak wujud di laluan %@, adakah anda mahu mencipta satu di laluan tersebut?";
+"No Results" = "Tiada Keputusan";
+"Too many matches" = "Terlalu banyak padanan";
+"Regular Expression" = "Ungkapan Biasa";
+"Sort by Creation Date (Ascending)" = "Susun mengikut Tarikh Cipta (Menaik)";
+"Sort by Creation Date (Descending)" = "Susun mengikut Tarikh Cipta (Menurun)";
+"code language" = "bahasa kod";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Tidak dapat menamakan semula daripada $1 kepada $2, sila gunakan \"Fail\" → \"Pindah Ke…\" daripada bar menu.";
+"Markdown file" = "Fail Markdown";
+"TextBundle file" = "Fail TextBundle";
+"Images saved to TextBundle" = "Imej disimpan ke TextBundle";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Tidak dapat menamakan semula dari $1 ke $2, sila gunakan \"Fail\" → \"Alih Ke…\" dari bar menu.";

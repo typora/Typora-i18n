@@ -84,7 +84,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Importazione...";
 "Importing in progress..." = "Importazione in corso...";
-"Converting file with Pandoc. This may take some time." = "Conversione file con Pandoc. Si prega di attendere.";
 "Abort" = "Interrompi";
 
 /* Pandoc Export Panel */
@@ -104,7 +103,7 @@
 "Failed to import file from <em>{0}</em>" = "Impossibile importare il file da <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "Il file in <em>{0}</em> non esiste";
 "Export to..." = "Esporta in...";
-"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Salvare le modifiche al documento corrente ?<br> Se non salvi adesso tutte le modifiche verranno perdute.";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Vuoi salvare le modifiche apportate a questo documento?<br> Le modifiche andranno perse se non le salvi.";
 "[Warning] Failed to attach bookmark for PDF file." = "[Attenzione] Impossibile allegare il segnalibro al file PDF.";
 "Dark Theme not support" = "Tema scuro non supportato";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Siamo spiacenti, la versione attuale di Typora non permette di usare il colore di sfondo nei file PDF, per questo motivo il tema scuro non è ancora supportato per l'esportazione in PDF. \n scegli il tema chiaro o clicca su \"Stampa con tema predefinito\"";
@@ -151,7 +150,6 @@
 "Developer" = "Sviluppo";
 "Update" = "Aggiornamento";
 "Check Updates" = "Controlla aggiornamenti";
-"Check updates automatically" = "Attiva aggiornamento automatico";
 "Advanced Settings" = "Impostazioni avanzate";
 "Open Advanced Settings" = "Apri impostazioni avanzate";
 "Reset Advanced Settings" = "Ripristina impostazioni avanzate";
@@ -276,7 +274,6 @@
 "Typewriter / Focus Mode have been turned off." = "La modalità Typewriter / Focus è stata disattivata.";
 
 "Reading Speed" = "Velocità di lettura";
-"Auto" = "Auto";
 "words / min" = "parole / min";
 
 "Reset to Default" = "Ripristina predefiniti";
@@ -311,7 +308,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "L'importazione e diversi formati di esportazione richiedono l'installazione di Pandoc (≥%@).";
 "Do not show this message again" = "Non mostrare più questo messaggio";
 
-"Page Break Between Top Headings" = "Interruzione di pagina tra le sezioni di livello superiore";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Spiacente, si è verificato un errore, il contenuto che stavi scrivendo è stato copiato negli appunti. Puoi segnalare questo errore a <hi@typora.io> per aiutarci a correggerlo.";
 "Try Recovery" = "Prova il recupero";
@@ -337,7 +333,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Seleziona un uploader per le immagini nelle Impostazioni prima di utilizzare questa funzione.";
 "Download or Upgrade" = "Scarica o aggiorna";
 "Open Config File" = "Apri file di configurazione";
-"Command" = "Comando";
 "PicGo Path" = "Percorso PicGo";
 "Path of PicGo binary" = "Percorso dell'eseguibile PicGo";
 "Executable" = "Eseguibile";
@@ -385,7 +380,6 @@
 "Include Outline Sidebar" = "Includi Outline Barra Laterale";
 "Width" = "Larghezza";
 "Command" = "Comando";
-"Show Save File Dialog" = "Mostra dialogo di salvataggio";
 "File Extensions for Export" = "Estensioni file per l'esportazione";
 "Arguments" = "Opzioni";
 "Extra Arguments" = "Opzioni Aggiuntive";
@@ -399,7 +393,6 @@
 "Same folder with current file" = "Stessa cartella file corrente";
 "Custom location" = "Posizione Personalizzata";
 "(Auto Detect)" = "(Rileva Automaticamente)";
-"After Export" = "Dopo l'esportazione";
 "Open exported file location" = "Apri cartella di esportazione";
 "Open exported file" = "Apri file esportato";
 "Custom" = "Personalizzato";
@@ -509,3 +502,63 @@
 "Images moved to %@." = "Immagini spostate in %@.";
 
 "Custom Command" = "Comando personalizzato";
+"No Automatic Equation Numbering" = "Nessuna numerazione automatica delle equazioni";
+"Use AMS Numbering Rules" = "Usa le regole di numerazione AMS";
+"Auto Numbering for All Math Equations" = "Numerazione automatica per tutte le equazioni";
+"Preferred Image Syntax" = "Sintassi immagine preferita";
+"Add ./ for relative path" = "Aggiungi ./ per i percorsi relativi";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Quando attivo, Typora userà il formato ./assets/image.png invece di assets/image.png per generare i percorsi relativi delle immagini inserite.";
+"Image Quality" = "Qualità immagine";
+"Medium" = "Media";
+"High" = "Alta";
+"Best" = "Migliore";
+"Use Shift+Tab to auto indent selected code" = "Usa Shift+Tab per indentare automaticamente il codice selezionato";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Quando disattivato, Shift+Tab ridurrà l'indentazione del codice selezionato o della riga corrente. Quando attivo, Shift+Tab applicherà automaticamente l'indentazione per il codice selezionato o la riga corrente nei blocchi di codice.";
+"Auto Links (e.g: https://typora.io)" = "Link automatici (es.: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Quando attivo, Typora riconoscerà e evidenzierà automaticamente gli URL (es.: https://typora.io o mailto:hi@typora.io) nel testo.";
+"Files" = "File";
+"Default File Type / Extension" = "Tipo di file / estensione predefinita";
+"Custom Extension:" = "Estensione personalizzata:";
+"Following extensions are supported: %@" = "Le seguenti estensioni sono supportate: %@";
+"When drop file / folder into Typora" = "Quando si trascina un file / cartella in Typora";
+"When drop folder" = "Quando si trascina una cartella";
+"When drop markdown file" = "Quando si trascina un file Markdown";
+"When drop files that can be imported" = "Quando si trascinano file importabili";
+"Open in Typora" = "Apri in Typora";
+"Insert Folder Link" = "Inserisci link alla cartella";
+"Insert File Link" = "Inserisci link al file";
+"Import File" = "Importa file";
+"Diagram Options" = "Opzioni diagramma";
+"Default Code Language" = "Linguaggio codice predefinito";
+"(None)" = "(Nessuno)";
+"Last Used" = "Ultimo usato";
+"Apply Default Code Language When" = "Applica il linguaggio codice predefinito quando";
+"When add code fences via Markdown" = "Quando si aggiungono blocchi di codice via Markdown";
+"When add code fences via Menubar" = "Quando si aggiungono blocchi di codice dalla barra dei menu";
+"Both" = "Entrambi";
+"Pinned and Recent Locations" = "Posizioni fissate e recenti";
+"Operation Succeeded" = "Operazione riuscita";
+"Clear Recent Folders and Files" = "Cancella cartelle e file recenti";
+"Clear Recent Folders / Files Only" = "Cancella solo cartelle / file recenti";
+"Clear Recent and Pinned Folders / Files" = "Cancella cartelle / file recenti e fissati";
+"Also clear pinned folders" = "Cancella anche le cartelle fissate";
+"Pin" = "Fissa";
+"Unpin" = "Rimuovi fissaggio";
+"Remove from List" = "Rimuovi dalla lista";
+"Record recent files and folders" = "Registra file e cartelle recenti";
+"System Integration" = "Integrazione di sistema";
+"Please try sign out Windows to take effect." = "Provare a disconnettersi da Windows per rendere effettive le modifiche.";
+"Github Style Alert" = "Avviso stile Github";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom con la rotellina del mouse tenendo premuto il tasto %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Il documento corrente contiene modifiche non salvate. Vuoi passare al file appena duplicato?";
+"Chapter Level in Outline" = "Livello capitolo nella struttura";
+"Enable inline math or code block math" = "Abilita formule in linea o formule in blocco di codice";
+"Code Block Math  (```math code block)" = "Formule in blocco di codice  (```math blocco di codice)";
+"PicList Path" = "Percorso PicList";
+"Auto Complete" = "Completamento automatico";
+"Enable autocomplete for Emojis" = "Abilita il completamento automatico per gli Emoji";
+"Some settings will only apply after a reload" = "Alcune impostazioni saranno applicate solo dopo un ricaricamento";
+"Reload" = "Ricarica";
+
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Aggiungi \"Markdown\" al menu contestuale \"Nuovo\" in Esplora risorse";
+"Delete items from \"New\" context menu in Windows Explorer" = "Elimina elementi dal menu contestuale \"Nuovo\" in Esplora risorse";

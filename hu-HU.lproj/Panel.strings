@@ -84,7 +84,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Importálás...";
 "Importing in progress..." = "Importálás folyamatban...";
-"Converting file with Pandoc. This may take some time." = "A Pandoc konvertálja a fájlt. Ez időt vesz igénybe.";
 "Abort" = "Megszakítás";
 
 /* Pandoc Export Panel */
@@ -151,7 +150,6 @@
 "Developer" = "Fejlesztőknek";
 "Update" = "Frissítés";
 "Check Updates" = "Programfrissítés keresése";
-"Check updates automatically" = "Programfrissítés automatikus keresése";
 "Advanced Settings" = "Speciális beállítások";
 "Open Advanced Settings" = "Speciális beállítások megnyitása";
 "Reset Advanced Settings" = "Speciális beállítások visszaállítása";
@@ -276,7 +274,6 @@
 "Typewriter / Focus Mode have been turned off." = "Az írógép/fókusz mód kikapcsolása megtörtént.";
 
 "Reading Speed" = "Olvasási sebesség";
-"Auto" = "Automatikus";
 "words / min" = "szó/perc";
 
 "Reset to Default" = "Alapbeállítások";
@@ -311,7 +308,6 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Importálás és a legtöbb formátumba történő exportáláshoz szükséges a Pandoc (≥%@) telepítése.";
 "Do not show this message again" = "Ne mutassa ezt az üzenetet még egyszer";
 
-"Page Break Between Top Headings" = "Legfelső szintű címsorok elválasztása oldaltöréssel";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Sajnos hiba lépett fel. A dokumentumot a vágólapra másoltuk. Ha bejelenti a hibát a <hi@typora.io> címen, azzal segít nekünk a kijavításában.";
 "Try Recovery" = "Helyreállítás megkísérlése";
@@ -337,7 +333,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Használat előtt állítson be egy Képfeltöltőt a Beállításokban.";
 "Download or Upgrade" = "Letöltés vagy frissítés";
 "Open Config File" = "Konfigurációs fájl megnyitása";
-"Command" = "Parancs";
 "PicGo Path" = "PicGo útvonala";
 "Path of PicGo binary" = "PicGo program útvonala";
 "Executable" = "Végrehajtható fájl";
@@ -385,7 +380,6 @@
 "Include Outline Sidebar" = "Áttekintő oldalsávval együtt";
 "Width" = "Szélesség";
 "Command" = "Parancs";
-"Show Save File Dialog" = "Fájl mentése ablak mutatása";
 "File Extensions for Export" = "Fájl kiterjesztések exportáláshoz";
 "Arguments" = "Argumentumok";
 "Extra Arguments" = "További argumentumok";
@@ -399,7 +393,6 @@
 "Same folder with current file" = "Jelenlegi fájl könyvtára";
 "Custom location" = "Egyéni könyvtár";
 "(Auto Detect)" = "(Automatikus felismerés)";
-"After Export" = "Exportálás után";
 "Open exported file location" = "Exportált fájl helyének megnyitása";
 "Open exported file" = "Exportált fájl megnyitása";
 "Custom" = "Egyéni";
@@ -521,3 +514,53 @@
 "Medium" = "Közepes";
 "High" = "Jó";
 "Best" = "Kiváló";
+"Use Shift+Tab to auto indent selected code" = "Shift+Tab használata a kijelölt kód automatikus behúzásához";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Kikapcsolt állapotban a Shift+Tab csökkenti a kijelölt kód vagy az aktuális sor behúzását. Bekapcsolt állapotban a Shift+Tab automatikusan alkalmazza a behúzást a kijelölt kódra vagy az aktuális sorra a kódblokkokban.";
+"Auto Links (e.g: https://typora.io)" = "Automatikus hivatkozások (pl.: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Bekapcsolt állapotban a Typora automatikusan felismeri és kiemeli az URL-eket (pl.: https://typora.io vagy mailto:hi@typora.io) a szövegben.";
+"Files" = "Fájlok";
+"Default File Type / Extension" = "Alapértelmezett fájltípus / kiterjesztés";
+"Custom Extension:" = "Egyedi kiterjesztés:";
+"Following extensions are supported: %@" = "A következő kiterjesztések támogatottak: %@";
+"When drop file / folder into Typora" = "Fájl / mappa Typorába húzásakor";
+"When drop folder" = "Mappa húzásakor";
+"When drop markdown file" = "Markdown fájl húzásakor";
+"When drop files that can be imported" = "Importálható fájlok húzásakor";
+"Open in Typora" = "Megnyitás Typorában";
+"Insert Folder Link" = "Mappa hivatkozás beszúrása";
+"Insert File Link" = "Fájl hivatkozás beszúrása";
+"Import File" = "Fájl importálása";
+"Diagram Options" = "Diagram beállítások";
+"Default Code Language" = "Alapértelmezett kódnyelv";
+"(None)" = "(Nincs)";
+"Last Used" = "Utoljára használt";
+"Apply Default Code Language When" = "Alapértelmezett kódnyelv alkalmazása, amikor";
+"When add code fences via Markdown" = "Kódblokk hozzáadásakor Markdown-nal";
+"When add code fences via Menubar" = "Kódblokk hozzáadásakor a menüsorból";
+"Both" = "Mindkettő";
+"Pinned and Recent Locations" = "Rögzített és legutóbbi helyek";
+"Operation Succeeded" = "A művelet sikeres volt";
+"Clear Recent Folders and Files" = "Legutóbbi mappák és fájlok törlése";
+"Clear Recent Folders / Files Only" = "Csak a legutóbbi mappák / fájlok törlése";
+"Clear Recent and Pinned Folders / Files" = "Legutóbbi és rögzített mappák / fájlok törlése";
+"Also clear pinned folders" = "Rögzített mappák törlése is";
+"Pin" = "Rögzítés";
+"Unpin" = "Rögzítés feloldása";
+"Remove from List" = "Eltávolítás a listáról";
+"Record recent files and folders" = "Legutóbbi fájlok és mappák rögzítése";
+"System Integration" = "Rendszerintegráció";
+"Please try sign out Windows to take effect." = "Az érvényesítéshez próbáljon kijelentkezni a Windows-ból.";
+"Github Style Alert" = "Github stílusú figyelmeztetés";
+"Zoom when using mouse wheel and holding %@ key" = "Nagyítás az egérgörgővel és a(z) %@ billentyű nyomva tartásával";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Az aktuális dokumentum mentetlen változásokat tartalmaz. Szeretne átváltani az újonnan másolt fájlra?";
+"Chapter Level in Outline" = "Fejezet szint a vázlatban";
+"Enable inline math or code block math" = "Beágyazott képletek vagy kódblokk képletek engedélyezése";
+"Code Block Math  (```math code block)" = "Kódblokk képlet  (```math kódblokk)";
+"PicList Path" = "PicList elérési út";
+"Auto Complete" = "Automatikus kiegészítés";
+"Enable autocomplete for Emojis" = "Automatikus kiegészítés engedélyezése az emojikhoz";
+"Some settings will only apply after a reload" = "Egyes beállítások csak újratöltés után lépnek érvénybe";
+"Reload" = "Újratöltés";
+
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "\"Markdown\" hozzáadása az \"Új\" helyi menühöz a Windows Intézőben";
+"Delete items from \"New\" context menu in Windows Explorer" = "Elemek törlése az \"Új\" helyi menüből a Windows Intézőben";

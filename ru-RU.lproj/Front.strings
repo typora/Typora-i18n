@@ -25,7 +25,6 @@
 "Replace" = "Заменить";
 "All" = "Все";
 "Search text not found in article" = "Указанный текст не найден";
-"search text" = "поиск текста";
 
 /* Quick Open */
 "Search by file name" = "Искать по имени файла";
@@ -135,7 +134,6 @@
 "Select image from local file" = "Выбрать изображение...";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Не удается открыть <code>$1</code>. Предполагается сайт <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
-"select a language" = "выбрать язык";
 "Finish Editing" = "Закончить редактирование";
 
 "Revert advanced setting file to default one ?" = "Вернуть файл расширенных настроек к файлу по умолчанию?";
@@ -190,3 +188,15 @@
 
 "File does not exist at path %@." = "Файл не существует по пути %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "Файл не существует по пути %@, хотите ли вы создать его по этому пути?";
+"No Results" = "Нет результатов";
+"Too many matches" = "Слишком много совпадений";
+"Regular Expression" = "Регулярное выражение";
+"Sort by Creation Date (Ascending)" = "Сортировка по дате создания (по возрастанию)";
+"Sort by Creation Date (Descending)" = "Сортировка по дате создания (по убыванию)";
+"code language" = "язык кода";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Невозможно переименовать $1 в $2, используйте \"Файл\" → \"Переместить в…\" из строки меню.";
+"Markdown file" = "Файл Markdown";
+"TextBundle file" = "Файл TextBundle";
+"Images saved to TextBundle" = "Изображения сохранены в TextBundle";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Невозможно переименовать $1 в $2, пожалуйста, используйте \"Файл\" → \"Переместить в…\" из строки меню.";

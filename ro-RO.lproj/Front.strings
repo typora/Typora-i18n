@@ -177,3 +177,22 @@
 "Successfully uploaded {0} images, {1} failed." = "Încărcat cu succes {0} imagini, {1} nereușite.";
 
 "You could undo this operation later via `Edit` → `Undo`." = "Poți anula această acțiune mai târziu prin `Editare` → `Anulează`.";
+
+"<strong>Unibody</strong> style has been turned on." = "Stilul <strong>Unibody</strong> a fost activat.";
+"File does not exist at path %@, do you want to create one at that path?" = "Fișierul nu există la calea %@, doriți să creați unul la acea cale?";
+"File does not exist at path %@." = "Fișierul nu există la calea %@.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Fișierele din această locație (%@) sunt gestionate de Typora și pot fi șterse automat.<br/>Vă rugăm să copiați conținutul într-un fișier nou pentru editare ulterioară.";
+"Images saved to TextBundle" = "Imaginile au fost salvate în TextBundle";
+"Markdown file" = "Fișier Markdown";
+"No Results" = "Niciun Rezultat";
+"Regular Expression" = "Expresie Regulată";
+"Sort by Creation Date (Ascending)" = "Sortare după data creării (crescător)";
+"Sort by Creation Date (Descending)" = "Sortare după data creării (descrescător)";
+"Support Document" = "Document de Suport";
+"TextBundle file" = "Fișier TextBundle";
+"Too many matches" = "Prea multe potriviri";
+"You are not supposed to edit or save this file." = "Nu ar trebui să editați sau să salvați acest fișier.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Puteți apăsa <strong>CTRL + Click</strong> pentru a deschide <a href='#'>linkuri</a> sau a sări la definiția notei de subsol.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Puteți apăsa <strong>⌘ + Click</strong> pentru a deschide <a href='#'>linkuri</a> sau a sări la definiția notei de subsol.";
+"You can right click titlebar to popup application menu." = "Puteți face click dreapta pe bara de titlu pentru a afișa meniul aplicației.";
+"code language" = "limbaj cod";

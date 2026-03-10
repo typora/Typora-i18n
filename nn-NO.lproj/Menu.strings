@@ -360,3 +360,7 @@
 "Important Block" = "Blokk for viktig";
 "Warning Block" = "Blokk for åtvaring";
 "Caution Block" = "Blokk for forsiktig";
+"Move Table Row Up" = "Flytt tabellrad opp";
+"Move Table Row Down" = "Flytt tabellrad ned";
+"Move Table Column Left" = "Flytt tabellkolonne til venstre";
+"Move Table Column Right" = "Flytt tabellkolonne til høgre";

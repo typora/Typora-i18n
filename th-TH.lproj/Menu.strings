@@ -41,7 +41,6 @@ Thai translated by
 "Save" = "บันทึก";
 "Save As" = "บันทึกเป็น";
 "Duplicate" = "ทำซ้ำ";
-"Rename" = "เปลี่ยนชื่อ";
 "Move To" = "ย้ายไปยัง";
 "Revert To" = "ย้อนกลับเป็น";
 "Browse All Versions" = "เรียกดูเวอร์ชันทั้งหมด";
@@ -100,8 +99,6 @@ Thai translated by
 "Smart Dashes" = "เส้นขีดอัจฉริยะ";
 "Text Replacement" = "การแทนที่ข้อความ";
 "Speech" = "การอ่านออกเสียง";
-"Start Speaking" = "เริ่มการอ่านออกเสียง";
-"Stop Speaking" = "หยุดการอ่านออกเสียง";
 
 /* Paragraph Menu */
 "Paragraph" = "ย่อหน้า";
@@ -113,7 +110,6 @@ Thai translated by
 "Heading 6" = "หัวข้อ 6";
 "Increase Heading Level" = "เพิ่มระดับหัวข้อ";
 "Decrease Heading Level" = "ลดระดับหัวข้อ";
-"Table" = "ตาราง";
 "Code Fences" = "ช่องโค้ด";
 "Math Block" = "บล็อกคณิตศาสตร์";
 "Quote" = "คำพูด";
@@ -353,3 +349,17 @@ Thai translated by
 "Copy Code Content" = "คัดลอกเนื้อหาของโค้ด";
 "Auto Indent Selected Code" = "เยื้องโค้ดที่เลือกอัตโนมัติ";
 "Auto Indent Whole Code" = "เยื้องโค้ดทั้งหมดอัตโนมัติ";
+"Jump to Line Start" = "ข้ามไปจุดเริ่มต้นบรรทัด";
+"Jump to Line End" = "ข้ามไปจุดท้ายบรรทัด";
+"Toggle Word Count Popover" = "แสดง/ซ่อนป๊อปอัปนับคำ";
+"Toggle Outline Popover" = "แสดง/ซ่อนป๊อปอัปเค้าโครง";
+"Alert" = "การแจ้งเตือน";
+"Note Block" = "บล็อกหมายเหตุ";
+"Tip Block" = "บล็อกเคล็ดลับ";
+"Important Block" = "บล็อกสำคัญ";
+"Warning Block" = "บล็อกคำเตือน";
+"Caution Block" = "บล็อกข้อควรระวัง";
+"Move Table Row Up" = "ย้ายแถวตารางขึ้น";
+"Move Table Row Down" = "ย้ายแถวตารางลง";
+"Move Table Column Left" = "ย้ายคอลัมน์ตารางไปซ้าย";
+"Move Table Column Right" = "ย้ายคอลัมน์ตารางไปขวา";

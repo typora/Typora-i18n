@@ -238,7 +238,6 @@
 "Copy '%@'" = "'%@' kopieren";
 "Copy to %@" = "Nach %@ kopieren";
 "Copy Image to" = "Bild kopieren nach";
-"Upload via iPic" = "Hochladen via iPic";
 "Open Image Location" = "Bild-Speicherort öffnen";
 
 "Learn More" = "Mehr erfahren";
@@ -330,8 +329,33 @@
 "Select Paragraph / Block" = "Absatz / Block auswählen";
 
 "Delete Selected" = "Ausgewählte löschen";
-"Move Image to" = "Bild verschieben nach";
 "Move to %@" = "Bild nach '%@' verschieben";
 "Delete Image" = "Bild löschen";
 "Delete Image File" = "Bilddatei löschen";
 "Reload All Images" = "Alle Bilder neu laden";
+"Rename or Move Image to" = "Bild umbenennen oder verschieben nach";
+"Save %@ As" = "%@ speichern unter";
+"Copy All Images to" = "Alle Bilder kopieren nach";
+"Move All Images to" = "Alle Bilder verschieben nach";
+"Copy as Image" = "Als Bild kopieren";
+"Switch Image Syntax" = "Bildsyntax wechseln";
+"Markdown Style" = "Markdown-Stil";
+"HTML Style" = "HTML-Stil";
+"Code Tools" = "Code-Werkzeuge";
+"Copy Code Content" = "Code-Inhalt kopieren";
+"Auto Indent Selected Code" = "Ausgewählten Code automatisch einrücken";
+"Auto Indent Whole Code" = "Gesamten Code automatisch einrücken";
+"Jump to Line Start" = "Zum Zeilenanfang springen";
+"Jump to Line End" = "Zum Zeilenende springen";
+"Toggle Word Count Popover" = "Wortanzahl-Popover umschalten";
+"Toggle Outline Popover" = "Gliederung-Popover umschalten";
+"Alert" = "Warnung";
+"Note Block" = "Notiz-Block";
+"Tip Block" = "Tipp-Block";
+"Important Block" = "Wichtig-Block";
+"Warning Block" = "Warnungs-Block";
+"Caution Block" = "Vorsicht-Block";
+"Move Table Row Up" = "Tabellenzeile nach oben verschieben";
+"Move Table Row Down" = "Tabellenzeile nach unten verschieben";
+"Move Table Column Left" = "Tabellenspalte nach links verschieben";
+"Move Table Column Right" = "Tabellenspalte nach rechts verschieben";

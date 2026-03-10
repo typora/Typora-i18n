@@ -96,8 +96,6 @@
 
 "Are you sure to deactivate Typora on this device?" = "Apakah Anda yakin untuk mendeaktivasi Typora di perangkat ini?";
 
-"Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Lisensi Anda telah melebihi jumlah perangkat maksimum.\nJika Anda mengklik \"Lanjutkan Aktivasi\", perangkat ini akan diaktifkan dan perangkat tertua akan dibatalkan pendaftarannya secara otomatis.";
-"Continue Activation" = "Lanjutkan Aktivasi";
 
 "Offline Activation" = "Aktivasi Luring";
 "Back" = "Kembali";

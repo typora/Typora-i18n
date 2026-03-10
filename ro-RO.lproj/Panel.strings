@@ -85,7 +85,6 @@
 /* Pandoc Import Panel */
 "Importing..." = "Se importă...";
 "Importing in progress..." = "Importare în desfăşurare...";
-"Converting file with Pandoc. This may take some time." = "Se face conversia fișierelor cu Pandoc. Acest proces poate dura un timp.";
 "Abort" = "Abandonare";
 
 /* Pandoc Export Panel */
@@ -152,7 +151,6 @@
 "Developer" = "Dezvoltator";
 "Update" = "Actualizare";
 "Check Updates" = "Căutare Actualizări";
-"Check updates automatically" = "Căutare Actualizări Automată";
 "Advanced Settings" = "Setări Avansate";
 "Open Advanced Settings" = "Deschide Setările Avansate";
 "Reset Advanced Settings" = "Resetă Setările Avansate";
@@ -277,7 +275,6 @@
 "Typewriter / Focus Mode have been turned off." = "Modul Mașină de Scris / Focalizare a fost dezactivat.";
 
 "Reading Speed" = "Viteza de Citire";
-"Auto" = "Auto";
 "words / min" = "cuvinte / min";
 
 "Reset to Default" = "Resetează la Implicit";
@@ -312,11 +309,9 @@
 "Import function and several export formats requires Pandoc (≥%@) to be installed." = "Funcția de import și câteva formate de export necesită ca Pandoc (≥%@) să fie instalat.";
 "Do not show this message again" = "Nu mai afișa acest mesaj";
 
-"Page Break Between Top Headings" = "Sfârşit de pagină între Titluri";
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Ne pare rău, niște erori au avut loc, conținutul pe care îl scriai a fost copiat în clipboard. Poți raporta asta la <hi@typora.io> să ne ajuți să remediem acestei erori.";
 "Try Recovery" = "Incearcă Recuperare";
-"Other options for Data Recovery" = "Alte opțiuni pentru Recuperare de Date";
 
 "When Insert" = "În Timpul Inserării";
 "Upload image" = "Încarcă Imagine";
@@ -338,7 +333,6 @@
 "Please set an image uploader in Preferences panel before using this function." = "Vă rugăm să setați un uploader de imagini în panoul de preferințe înainte de a folosi această funcție.";
 "Download or Upgrade" = "Descarcă sau Actualizează";
 "Open Config File" = "Deschide Fișierul Config";
-"Command" = "Comandă";
 "PicGo Path" = "Cale PicGo";
 "Path of PicGo binary" = "Calea binariilor PicGo";
 "Executable" = "Executabil";
@@ -386,7 +380,6 @@
 "Include Outline Sidebar" = "Include Bară Laterală Schiță";
 "Width" = "Lăţime";
 "Command" = "Comandă";
-"Show Save File Dialog" = "Afișează Caseta de dialog Salvare Fișier";
 "File Extensions for Export" = "Extensiuni Fișiere pentru Export";
 "Arguments" = "Argumente";
 "Extra Arguments" = "Extra Argumente";
@@ -400,7 +393,6 @@
 "Same folder with current file" = "Același folder a fișierului actual";
 "Custom location" = "Locație Particularizată";
 "(Auto Detect)" = "(Detecție Automată)";
-"After Export" = "După Export";
 "Open exported file location" = "Deschide locație fișier exportat";
 "Open exported file" = "Deschide fișier exportat";
 "Custom" = "Particularizat";
@@ -467,3 +459,95 @@
 "End of current section" = "Sfârșitul actualei secțiunei";
 "Convert TeX formulas to web images" = "Conversie formule TeX în imagini web";
 "Image Format" = "Format Imagine";
+
+"Other Options for Data Recovery" = "Alte Opțiuni pentru Recuperarea Datelor";
+"Set Pandoc Path" = "Setează Calea Pandoc";
+"Apply Line Break at \\ and &#92;newline" = "Apply Line Break at \\ and &#92;newline";
+"Export operation succeeded with warnings." = "Operația de export a reușit cu avertismente.";
+"Typora is now deactivated" = "Typora este acum dezactivată";
+"This device has been deactivated" = "Acest dispozitiv a fost dezactivat";
+"UNREGISTERED" = "NEÎNREGISTRAT";
+"Your Typora is not activated." = "Typora nu este activată.";
+"Your Typora has been activated." = "Typora a fost activată.";
+"Typora activation is required to change this." = "Activarea Typora este necesară pentru a modifica aceasta.";
+"You can reinstall the stable version and then disable this." = "Puteți reinstala versiunea stabilă și apoi dezactiva aceasta.";
+"Update to dev version" = "Actualizare la versiunea de dezvoltare";
+"Typora Server" = "Server Typora";
+"Use Typora Server in China" = "Folosește Serverul Typora din China";
+"File does not exist" = "Fișierul nu există";
+"Create File" = "Creează Fișier";
+"Create Folder" = "Creează Folder";
+"(Some options will be applied after restart.)" = "(Unele opțiuni vor fi aplicate după repornire.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Copiază sau taie liniile întregi pe care se află cursoarele, dacă nu există nicio selecție la copiere / tăiere.";
+"Enable physics package" = "Activează pachetul physics";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics package will redefine some latex macros, such as \\div, \\Re, etc.";
+"Detail" = "Detaliu";
+"Use custom font size" = "Folosește dimensiune font personalizată";
+"Use theme font size" = "Folosește dimensiunea fontului temei";
+"You are using the Snap version, it may have limited access to your local executables." = "Folosiți versiunea Snap, aceasta poate avea acces limitat la executabilele locale.";
+"No local images found." = "Nu s-au găsit imagini locale.";
+"File Format:" = "Format Fișier:";
+"Images copied to %@." = "Imaginile au fost copiate în %@.";
+"Images moved to %@." = "Imaginile au fost mutate în %@.";
+"Custom Command" = "Comandă Personalizată";
+"No Automatic Equation Numbering" = "Fără Numerotare Automată a Ecuațiilor";
+"Use AMS Numbering Rules" = "Folosește Regulile de Numerotare AMS";
+"Auto Numbering for All Math Equations" = "Numerotare Automată pentru Toate Ecuațiile";
+"Preferred Image Syntax" = "Sintaxă Preferată pentru Imagini";
+"Add ./ for relative path" = "Adaugă ./ pentru calea relativă";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "Când este activat, Typora va folosi formatul ./assets/image.png în loc de assets/image.png la generarea căii relative pentru imaginile inserate.";
+"Image Quality" = "Calitate Imagine";
+"Medium" = "Medie";
+"High" = "Înaltă";
+"Best" = "Cea mai bună";
+"Use Shift+Tab to auto indent selected code" = "Folosește Shift+Tab pentru indentarea automată a codului selectat";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "Când este dezactivat, Shift+Tab va reduce indentarea codului selectat sau a liniei curente. Când este activat, Shift+Tab va aplica automat indentarea pentru codul selectat sau linia curentă în blocurile de cod.";
+"Auto Links (e.g: https://typora.io)" = "Linkuri Automate (de ex: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Când este activat, Typora va recunoaște și evidenția automat URL-urile (de ex: https://typora.io sau mailto:hi@typora.io) din text.";
+"Files" = "Fișiere";
+"Default File Type / Extension" = "Tip Fișier / Extensie Implicită";
+"Custom Extension:" = "Extensie Personalizată:";
+"Following extensions are supported: %@" = "Următoarele extensii sunt suportate: %@";
+"When drop file / folder into Typora" = "Când trageți un fișier / folder în Typora";
+"When drop folder" = "Când trageți un folder";
+"When drop markdown file" = "Când trageți un fișier Markdown";
+"When drop files that can be imported" = "Când trageți fișiere care pot fi importate";
+"Open in Typora" = "Deschide în Typora";
+"Insert Folder Link" = "Inserează Link Folder";
+"Insert File Link" = "Inserează Link Fișier";
+"Import File" = "Importă Fișier";
+"Diagram Options" = "Opțiuni Diagramă";
+"Default Code Language" = "Limbaj Cod Implicit";
+"(None)" = "(Niciunul)";
+"Last Used" = "Ultimul Folosit";
+"Apply Default Code Language When" = "Aplică Limbajul Cod Implicit Când";
+"When add code fences via Markdown" = "Când adăugați blocuri de cod prin Markdown";
+"When add code fences via Menubar" = "Când adăugați blocuri de cod prin Bara de Meniu";
+"Both" = "Ambele";
+"Pinned and Recent Locations" = "Locații Fixate și Recente";
+"Operation Succeeded" = "Operație Reușită";
+"Clear Recent Folders and Files" = "Șterge Foldere și Fișiere Recente";
+"Clear Recent Folders / Files Only" = "Șterge Doar Foldere / Fișiere Recente";
+"Clear Recent and Pinned Folders / Files" = "Șterge Foldere / Fișiere Recente și Fixate";
+"Also clear pinned folders" = "Șterge și folderele fixate";
+"Pin" = "Fixează";
+"Unpin" = "Defixează";
+"Remove from List" = "Elimină din Listă";
+"Record recent files and folders" = "Înregistrează fișierele și folderele recente";
+"System Integration" = "Integrare Sistem";
+"Please try sign out Windows to take effect." = "Încercați să vă deconectați din Windows pentru ca modificările să aibă efect.";
+"Github Style Alert" = "Alertă Stil Github";
+"Zoom when using mouse wheel and holding %@ key" = "Zoom folosind rotița mouse-ului și ținând apăsată tasta %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Documentul curent conține modificări nesalvate. Doriți să comutați la fișierul nou duplicat?";
+"Chapter Level in Outline" = "Nivel Capitol în Schiță";
+"Enable inline math or code block math" = "Activează formule în linie sau formule în bloc de cod";
+"Code Block Math  (```math code block)" = "Formule Bloc Cod  (```math bloc de cod)";
+"PicList Path" = "Cale PicList";
+"Auto Complete" = "Completare Automată";
+"Enable autocomplete for Emojis" = "Activează completarea automată pentru Emoji";
+"Some settings will only apply after a reload" = "Unele setări vor fi aplicate doar după o reîncărcare";
+"Reload" = "Reîncarcă";
+"Apply Line Break at \ and &#92;newline" = "Aplică Linie Nouă la \ și &#92;newline";
+"Physics package will redefine some latex macros, such as \div, \Re, etc." = "Pachetul physics va redefini unele macrocomenzi LaTeX, cum ar fi \div, \Re, etc.";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Adaugă \"Markdown\" în meniul contextual \"Nou\" din Windows Explorer";
+"Delete items from \"New\" context menu in Windows Explorer" = "Șterge elementele din meniul contextual \"Nou\" din Windows Explorer";

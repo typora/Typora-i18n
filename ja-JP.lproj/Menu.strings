@@ -360,3 +360,13 @@ Japanese translated by
 "Jump to Line End" = "行末に移動";
 "Toggle Word Count Popover" = "単語数カウントのポップオーバーを切り替え";
 "Toggle Outline Popover" = "アウトラインのポップオーバーを切り替え";
+"Alert" = "アラート";
+"Note Block" = "ノートブロック";
+"Tip Block" = "ヒントブロック";
+"Important Block" = "重要ブロック";
+"Warning Block" = "警告ブロック";
+"Caution Block" = "注意ブロック";
+"Move Table Row Up" = "表の行を上に移動";
+"Move Table Row Down" = "表の行を下に移動";
+"Move Table Column Left" = "表の列を左に移動";
+"Move Table Column Right" = "表の列を右に移動";

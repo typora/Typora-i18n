@@ -12,7 +12,6 @@ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 "Welcome to Typora" = "Dobrodošli v Typori";
 "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Hvala, da uporabljate Typoro 👋. Typora je minimalen markdown urejevalnik in bralnik, ki vam omogoča brezhibno izkušnjo med prikazano obogateno vsebino in izvorno kodo.";
 
-"Get Start" = "Pričnite z uporabo";
 "Check following links if you're new to Markdown or Typora." = "Če se šele spoznavate z Markdown ali Typoro preverite spodnje povezave.";
 
 "Activate Typora" = "Aktivirajte Typoro";
@@ -86,3 +85,4 @@ by hi@typora.io / translation by @sponka9 - Boštjan <sponka@gmail.com>
 "Get Activation Token" = "Pridobite žeton za aktivacijo";
 
 "Your activated devices have exceeded the maximum limits." = "Število aktiviranih naprav je preseglo največje dovoljeno število.";
+"Get Started" = "Začnite";

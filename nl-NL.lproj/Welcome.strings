@@ -85,3 +85,8 @@
 
 "Your license has exceeded the max devices numbers.\nIf you click \"Continue Activation\", this device will be activated and the oldest device will be unregistered automatically." = "Uw licentie heeft het maximum aantal apparaten in gebruik.\nAls u up \"Alsnog activeren\" klikt, zal dit apparaat geactiveerd worden en het oudste apparaat gedeactiveerd.";
 "Continue Activation" = "Alsnog activeren";
+
+"Back" = "Terug";
+"Get Activation Token" = "Activeringstoken ophalen";
+"Offline Activation" = "Offline activering";
+"Your activated devices have exceeded the maximum limits." = "Uw geactiveerde apparaten hebben het maximale aantal overschreden.";

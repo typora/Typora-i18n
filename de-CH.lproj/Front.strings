@@ -72,7 +72,6 @@
 "Refresh Folder" = "Ordner aktualisieren";
 "Sort" = "Sortieren";
 "Group By Folder" = "Nach Ordnern gruppieren";
-"Sort Naturally" = "Natürlich sortieren";
 "Sort by Name (Ascending)" = "Nach Name sortieren (Aufsteigend)";
 "Sort by Modification Date (Ascending)" = "Nach Änderungsdatum sortieren (Aufsteigend)";
 "Sort by Name (Descending)" = "Nach Name sortieren (Absteigend)";
@@ -113,7 +112,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Der Dateiinhalt wurde durch eine andere Anwendung geändert. Soll die Datei neu geladen werden?";
 "Should continue moving and overwrite existing file(s) ?" = "Datei(en) verschieben und vorhandene umbenennen fortsetzen?";
 
-"Rename Failed" = "Umbenennung fehlgeschlagen";
 "Rename to \"{0}\" ?" = "Nach \"{0}\" umbenennen";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Umbenennung von \"{0}\" nach \"{1}\" fehlgeschlagen";
 
@@ -136,7 +134,6 @@
 "Select image from local file" = "Wähle ein Bild vom Computer";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> konnte nicht geöffnet werden, meintest du <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "wähle eine Sprache aus";
 "Finish Editing" = "Bearbeiten beenden";
 
 "Revert advanced setting file to default one ?" = "Soll die Datei der erweiterten Einstellung zurückgesetzt werden ?";
@@ -171,3 +168,30 @@
 "Auto refresh on Files Panel cannot be enabled." = "Automatisches Neuladen vom Files-Panel konnten nicht aktiviert werden.";
 "Delete Permanently" = "Unwiderruflich Löschen";
 
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora versucht, das neu eingefügte Bild gemäss Ihrer YAML Front Matter-Einstellung oder den globalen Einstellungen in den Ordner <code id='image-create-folder-target'></code> zu kopieren. Der Zielordner existiert jedoch nicht. Jetzt erstellen?";
+"Sort Naturally (Ascending)" = "Natürlich sortieren (aufsteigend)";
+"Sort Naturally (Descending)" = "Natürlich sortieren (absteigend)";
+"Failed to upload images:" = "Hochladen von Bildern fehlgeschlagen:";
+"Uploading in progress" = "Hochladen läuft";
+"Successfully uploaded {0} images, {1} failed." = "{0} Bilder erfolgreich hochgeladen, {1} fehlgeschlagen.";
+"You could undo this operation later via `Edit` → `Undo`." = "Sie können diesen Vorgang später über `Bearbeiten` → `Widerrufen` rückgängig machen.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Sie können <strong>⌘ + Klick</strong> drücken, um <a href='#'>Links</a> zu öffnen oder zur Fussnoten-Definition zu springen.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Sie können <strong>STRG + Klick</strong> drücken, um <a href='#'>Links</a> zu öffnen oder zur Fussnoten-Definition zu springen.";
+"<strong>Unibody</strong> style has been turned on." = "Der <strong>Unibody</strong>-Stil wurde aktiviert.";
+"You can right click titlebar to popup application menu." = "Sie können mit der rechten Maustaste auf die Titelleiste klicken, um das Anwendungsmenü zu öffnen.";
+"Support Document" = "Support-Dokument";
+"You are not supposed to edit or save this file." = "Diese Datei sollte nicht bearbeitet oder gespeichert werden.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Dateien an diesem Speicherort (%@) werden von Typora verwaltet und können automatisch gelöscht werden.<br/>Bitte kopieren Sie den Inhalt in eine neue Datei zur weiteren Bearbeitung.";
+"File does not exist at path %@." = "Datei existiert nicht unter dem Pfad %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Datei existiert nicht unter dem Pfad %@. Möchten Sie eine Datei an diesem Pfad erstellen?";
+"No Results" = "Keine Ergebnisse";
+"Too many matches" = "Zu viele Treffer";
+"Regular Expression" = "Regulärer Ausdruck";
+"Sort by Creation Date (Ascending)" = "Nach Erstelldatum sortieren (aufsteigend)";
+"Sort by Creation Date (Descending)" = "Nach Erstelldatum sortieren (absteigend)";
+"code language" = "Code-Sprache";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Umbenennung von $1 zu $2 nicht möglich. Bitte verwenden Sie stattdessen \"Datei\" → \"Verschieben nach…\" aus der Menüleiste.";
+"Markdown file" = "Markdown-Datei";
+"TextBundle file" = "TextBundle-Datei";
+"Images saved to TextBundle" = "Bilder in TextBundle gespeichert";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Umbenennung von $1 zu $2 nicht möglich. Bitte verwenden Sie stattdessen \"Datei\" → \"Verschieben nach…\" aus der Menüleiste.";

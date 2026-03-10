@@ -61,7 +61,7 @@
 "Loading" = "Učitavam";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Odabrani direktoriji sadrže previše datoteka. \nMolimo prebacite se na <a id='switch-to-tree-on-oversize'>File Tree view</a> za bolji performance.";
 "New File" = "Novi Fajl";
-"Unpin Outline Panel" = "Unpin Outline Panel";
+"Unpin Outline Panel" = "Otkvači panel sadržaja";
 "Open Folder..." = "Otvori direktorij...";
 "Action" = "Akcija";
 "Close Sidebar Menu" = "Zatvori Sidebar Menu";
@@ -70,7 +70,6 @@
 "Refresh Folder" = "Osvježi direktorij";
 "Sort" = "Sortiraj";
 "Group By Folder" = "Grupiraj po direktoriju";
-"Sort Naturally" = "Sortiraj prirodno";
 "Sort by Name (Ascending)" = "Sortiraj po imenu (Ascending)";
 "Sort by Modification Date (Ascending)" = "Sortiraj po datumu uređivanja (Ascending)";
 "Sort by Name (Descending)" = "Sortiraj po imenu (Descending)";
@@ -90,9 +89,9 @@
 "Empty Diagram" = "Isprazni dijagram";
 "Input Math TeX here" = "Unesi Math TeX ovdje";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Potrebno je definirati referentnu fusnotu <b>{0}</b> sa sintaksom <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Potrebno je definirati referentnu poveznicu <b>[{0}]</b> sa sintaksom <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Molimo definirajte referencu slike s \n[{0}]: http://example.png";
 
 /* msg */
 "Failed to create file" = "Stvaranje datoteke nije uspjelo";
@@ -111,7 +110,6 @@
 "File content is changed by external applications. Reload content from disk ?" = "Sadržaj datoteke je izmijenjen externom aplikacijom. Da osvježim trenutni sadržaj s diska ?";
 "Should continue moving and overwrite existing file(s) ?" = "Da nastavim s premještanjem i prepišem postojeću datoteku(e) ?";
 
-"Rename Failed" = "Preimenovanje nije uspjelo";
 "Rename to \"{0}\" ?" = "Preimenuj u \"{0}\" ?";
 "Failed to rename from \"{0}\" to \"{1}\"" = "Nije uspjelo preimenovanje sa\"{0}\" u \"{1}\"";
 
@@ -133,3 +131,59 @@
 "input image URL" = "unesi link slike";
 "Select image from local file" = "Odaberi sliku iz datoteke lokalno";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Ne mogu otvoriti lokaciju <code>$1</code>, jeste li mislili <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora pokušava kopirati novo umetnutu sliku u direktorij <code id='image-create-folder-target'></code> prema vašim YAML Front Matter postavkama ili globalnim preferencijama. No, ciljni direktorij ne postoji, želite li ga sada stvoriti?";
+"Sort Naturally (Ascending)" = "Sortiraj prirodno (uzlazno)";
+"Sort Naturally (Descending)" = "Sortiraj prirodno (silazno)";
+"Finish Editing" = "Završi uređivanje";
+"Revert advanced setting file to default one ?" = "Vratiti datoteku naprednih postavki na zadanu?";
+"Select Spell Check Language" = "Odaberite jezik provjere pravopisa";
+"Auto Detect Language" = "Automatsko prepoznavanje jezika";
+"Disable Spell Check" = "Onemogući provjeru pravopisa";
+"Global Setting…" = "Globalne postavke…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Nedostaje datoteka rječnika za omogućavanje provjere pravopisa za %@.";
+"Install Language Support" = "Instaliraj jezičnu podršku";
+"License Information" = "Informacije o licenci";
+"Download" = "Preuzmi";
+"Install dictionary file only for Typora" = "Instaliraj datoteku rječnika samo za Typora";
+"Spell Check (%@ unavailable)" = "Provjera pravopisa (%@ nedostupno)";
+"Spell Check (%@ downloading)" = "Provjera pravopisa (%@ preuzimanje)";
+"Download dictionary file for %@" = "Preuzmi datoteku rječnika za %@";
+"(Default spell check option)" = "(Zadana opcija provjere pravopisa)";
+"Failed to load spellcheck module" = "Učitavanje modula provjere pravopisa nije uspjelo";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> je uključen.";
+"You could turn it off from `View` menu." = "Možete ga isključiti iz izbornika «Prikaz».";
+"The file is too large to render in Typora." = "Datoteka je prevelika za prikaz u Typora.";
+"Open in…" = "Otvori u…";
+"Quick Look" = "Brzi pregled";
+"Filter" = "Filtriraj";
+"No result found." = "Nema pronađenih rezultata.";
+"Continue & Overwrite" = "Nastavi i prepiši";
+"The file is read-only, or you do not have right permissions to modify the file." = "Datoteka je samo za čitanje ili nemate odgovarajuće dozvole za izmjenu datoteke.";
+"Learn Data Recovery" = "Saznajte o oporavku podataka";
+"Auto refresh on Files Panel cannot be enabled." = "Automatsko osvježavanje panela datoteka ne može biti omogućeno.";
+"Delete Permanently" = "Trajno obriši";
+"Failed to upload images:" = "Prijenos slika nije uspio:";
+"Uploading in progress" = "Prijenos u tijeku";
+"Successfully uploaded {0} images, {1} failed." = "Uspješno preneseno {0} slika, {1} neuspjelo.";
+"You could undo this operation later via `Edit` → `Undo`." = "Ovu operaciju možete poništiti kasnije putem «Uredi» → «Poništi».";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Možete pritisnuti <strong>⌘ + klik</strong> za otvaranje <a href='#'>poveznica</a> ili skok na definiciju fusnote.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Možete pritisnuti <strong>CTRL + klik</strong> za otvaranje <a href='#'>poveznica</a> ili skok na definiciju fusnote.";
+"<strong>Unibody</strong> style has been turned on." = "Stil <strong>Unibody</strong> je uključen.";
+"You can right click titlebar to popup application menu." = "Možete desnim klikom na naslovnu traku otvoriti izbornik aplikacije.";
+"Support Document" = "Dokument podrške";
+"You are not supposed to edit or save this file." = "Ne biste trebali uređivati ili spremati ovu datoteku.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Datoteke na ovoj lokaciji (%@) upravljane su od strane Typora i mogu biti automatski obrisane.<br/>Molimo kopirajte sadržaj u novu datoteku za daljnje uređivanje.";
+"File does not exist at path %@." = "Datoteka ne postoji na putanji %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Datoteka ne postoji na putanji %@, želite li stvoriti jednu na toj putanji?";
+"No Results" = "Nema rezultata";
+"Too many matches" = "Previše podudaranja";
+"Regular Expression" = "Regularni izraz";
+"Sort by Creation Date (Ascending)" = "Sortiraj po datumu stvaranja (uzlazno)";
+"Sort by Creation Date (Descending)" = "Sortiraj po datumu stvaranja (silazno)";
+"code language" = "jezik koda";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead.";
+"Markdown file" = "Markdown datoteka";
+"TextBundle file" = "TextBundle datoteka";
+"Images saved to TextBundle" = "Slike spremljene u TextBundle";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nije moguće preimenovati iz $1 u $2, molimo koristite «Datoteka» → «Premjesti» iz trake izbornika.";

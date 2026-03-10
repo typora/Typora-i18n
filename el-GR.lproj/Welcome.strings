@@ -75,3 +75,12 @@
 "Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
 
+
+"Are you sure to deactivate Typora on this device?" = "Είστε βέβαιοι ότι θέλετε να απενεργοποιήσετε το Typora σε αυτή τη συσκευή;";
+"Back" = "Πίσω";
+"Email address confirmation does not match." = "Η επιβεβαίωση διεύθυνσης email δεν ταιριάζει.";
+"Enter a license code to support our development ❤" = "Εισάγετε έναν κωδικό άδειας για να υποστηρίξετε την ανάπτυξή μας ❤";
+"Get Activation Token" = "Λήψη Κωδικού Ενεργοποίησης";
+"Offline Activation" = "Ενεργοποίηση Εκτός Σύνδεσης";
+"Re-enter Email" = "Επανεισαγωγή Email";
+"Your activated devices have exceeded the maximum limits." = "Οι ενεργοποιημένες συσκευές σας έχουν υπερβεί τα μέγιστα όρια.";

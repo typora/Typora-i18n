@@ -354,7 +354,6 @@
 "Unzipping…" = "Rozpakowywanie…";
 "Finished" = "Zakończone";
 
-"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you share to continue?" = "Typora uruchomi aplikację zewnętrzną z ścieżkami do plików wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów i dysk w chmurze będą wówczas mieć dostęp do Twoich obrazów lokalnych. Na pewno kontynować?";
 
 "Export operation finished successfully." = "Operacja eksportu zakończona powodzeniem.";
 
@@ -577,3 +576,6 @@
 
 "Auto Complete" = "Autouzupełnianie";
 "Enable autocomplete for Emojis" = "Włącz autouzupełnianie emoji";
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora uruchomi zewnętrzną aplikację z listą ścieżek wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów oraz chmurowa pamięć na obrazy uzyskają dostęp do Twoich lokalnych obrazów. Czy na pewno chcesz kontynuować?";
+"Some settings will only apply after a reload" = "Niektóre ustawienia zostaną zastosowane dopiero po ponownym załadowaniu";
+"Reload" = "Załaduj ponownie";

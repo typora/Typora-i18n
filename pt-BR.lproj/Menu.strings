@@ -327,7 +327,6 @@
 "Select Paragraph / Block" = "Selecionar Paragrafo / Bloco";
 
 "Delete Selected" = "Deletar Selecionado";
-"Move Image to" = "Mover Imagem para";
 "Move to %@" = "Mover para %@";
 "Delete Image" = "Deletar Imagem";
 "Delete Image File" = "Deletar Arquivo da Imagem";
@@ -359,3 +358,7 @@
 "Toggle Outline Popover" = "Alternar Popover do Esboço";
 "Toggle Word Count Popover" = "Alternar Popover da Contagem de Palavras";
 "Warning Block" = "Bloco de Aviso";
+"Move Table Row Up" = "Mover Linha da Tabela Para Cima";
+"Move Table Row Down" = "Mover Linha da Tabela Para Baixo";
+"Move Table Column Left" = "Mover Coluna da Tabela Para Esquerda";
+"Move Table Column Right" = "Mover Coluna da Tabela Para Direita";

@@ -36,7 +36,6 @@
 "Save" = "Mentés";
 "Save As" = "Mentés másként";
 "Duplicate" = "Másolat készítése";
-"Rename" = "Átnevezés";
 "Move To" = "Mozgatás ide";
 "Revert To" = "Visszaállítás erre";
 "Browse All Versions" = "Összes verzió böngészése";
@@ -95,8 +94,6 @@
 "Smart Dashes" = "Intelligens kötőjelek";
 "Text Replacement" = "Szöveg cseréje";
 "Speech" = "Beszéd";
-"Start Speaking" = "Beszéd elindítása";
-"Stop Speaking" = "Beszéd leállítása";
 
 /* Paragraph Menu */
 "Paragraph" = "Szövegtörzs";
@@ -108,7 +105,6 @@
 "Heading 6" = "Címsor 6";
 "Increase Heading Level" = "Nagyobb címsor";
 "Decrease Heading Level" = "Kisebb címsor";
-"Table" = "Táblázat";
 "Code Fences" = "Programkód doboz";
 "Math Block" = "Képlet doboz";
 "Quote" = "Idézet";
@@ -348,3 +344,17 @@
 "Copy Code Content" = "Kód másolása";
 "Auto Indent Selected Code" = "Kiválasztás automatikus behúzása";
 "Auto Indent Whole Code" = "Összes kód automatikus behúzása";
+"Jump to Line Start" = "Ugrás a sor elejére";
+"Jump to Line End" = "Ugrás a sor végére";
+"Toggle Word Count Popover" = "Szószám felugró ablak ki-/bekapcsolása";
+"Toggle Outline Popover" = "Vázlat felugró ablak ki-/bekapcsolása";
+"Alert" = "Figyelmeztetés";
+"Note Block" = "Megjegyzés blokk";
+"Tip Block" = "Tipp blokk";
+"Important Block" = "Fontos blokk";
+"Warning Block" = "Figyelmeztetés blokk";
+"Caution Block" = "Óvatosság blokk";
+"Move Table Row Up" = "Táblázat sor mozgatása felfelé";
+"Move Table Row Down" = "Táblázat sor mozgatása lefelé";
+"Move Table Column Left" = "Táblázat oszlop mozgatása balra";
+"Move Table Column Right" = "Táblázat oszlop mozgatása jobbra";

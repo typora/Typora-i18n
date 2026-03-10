@@ -146,8 +146,6 @@
 "Default Line Ending" = "默认换行符";
 "Line ending for new file" = "新文件的默认换行符";
 "Spell Check" = "拼写检查";
-"(support US English only)" = "（仅支持美式英语）";
-"Enable spell check" = "启用拼写检查";
 "Auto correct spelling" = "自动更正拼写错误";
 "System" = "系统";
 "Privacy" = "隐私";
@@ -166,7 +164,6 @@
 "This feature require macOS >= 10.11" = "此功能只支持 macOS 10.11 及以上版本";
 "One More Step" = "无法继续…";
 "Notice" = "请注意";
-"This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "该功能需要安装最新版本的 iPic，本地图片会通过 iPic 上传至云端。 请注意 iPic 的默认云服务不支持删除已上传的图片。";
 
 "%d Images Failed to Upload." = "%d个图片上传失败。";
 "%d Succeeded," = "%d个成功, ";
@@ -480,8 +477,6 @@
 "This device has been deactivated" = "该设备的激活已取消";
 "UNREGISTERED" = "未激活";
 
-"Allow physics package to redefine existing TeX commands" = "允许 physics 包覆盖部分原有 TeX 宏";
-"When enabled, commands like \\div, \\Re will be redefined by physics package." = "开启后，\\div, \\Re 等宏会被 physics 包重新定义。";
 
 "Your Typora is not activated." = "您的 Typora 尚未激活";
 "Your Typora has been activated." = "您的 Typora 已被激活";
@@ -585,3 +580,6 @@
 
 "Auto Complete" = "自动补全";
 "Enable autocomplete for Emojis" = "开启 Emoji 自动补全";
+"Path of PicGo binary" = "PicGo 可执行文件路径";
+"Some settings will only apply after a reload" = "部分设置将在重新加载后生效";
+"Reload" = "重新加载";

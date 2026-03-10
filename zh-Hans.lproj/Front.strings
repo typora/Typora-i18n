@@ -201,3 +201,7 @@
 "Markdown file" = "Markdown 文件";
 "TextBundle file" = "TextBundle 文件";
 "Images saved to TextBundle" = "图片已存储到 TextBundle 文件中";
+
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "无法打开路径 <code>$1</code>，你是否要打开 <a href='$3' target='_blank' target='_blank'>$2</a> ？";
+"File does not exist at path %@, do you want to create one at that path?" = "文件不存在于路径 %@，是否在该路径创建文件？";
+"File does not exist at path %@." = "文件不存在于路径 %@。";

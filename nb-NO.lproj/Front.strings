@@ -197,3 +197,7 @@
 "Sort by Creation Date (Descending)" = "Sorter etter dato opprettet (Synkende)";
 
 "code language" = "kodespråk";
+
+"Images saved to TextBundle" = "Bilder lagret til TextBundle";
+"Markdown file" = "Markdown-fil";
+"TextBundle file" = "TextBundle-fil";

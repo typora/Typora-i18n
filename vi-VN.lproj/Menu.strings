@@ -130,7 +130,6 @@
 "Footnotes" = "Chú Thích Cuối Trang";
 "Horizontal Line" = "Đường Thẳng Ngang";
 "Table of Contents" = "Mục Lục";
-"Yaml Front Matter" = "Yaml Front Matter";
 
 /* Format Menu */
 "Format" = "Định Dạng";
@@ -331,8 +330,6 @@
 "Select Paragraph / Block" = "Chọn Đoạn Văn / Khối";
 
 "Delete Selected" = "Xoá Đối Tượng Đã Chọn";
-"Move Image to" = "Di Chuyển Hình Ảnh đến ";
-"Move to %@…" = "Di Chuyển đến  %@…";
 "Delete Image" = "Xoá Hình Ảnh";
 "Delete Image File" = "Xoá Tệp Tin Hình Ảnh";
 "Reload All Images" = "Tải Lại Tất Cả Hình Ảnh";
@@ -364,3 +361,10 @@
 "Important Block" = "Khối Quan Trọng";
 "Warning Block" = "Khối Cảnh Báo";
 "Caution Block" = "Khối Thận Trọng";
+"YAML Front Matter" = "YAML Front Matter";
+"Rename or Move Image to" = "Đổi tên hoặc Di chuyển Hình ảnh tới";
+"Move to %@" = "Di chuyển tới %@";
+"Move Table Row Up" = "Dịch Chuyển Dòng Bảng Lên";
+"Move Table Row Down" = "Dịch Chuyển Dòng Bảng Xuống";
+"Move Table Column Left" = "Dịch Chuyển Cột Bảng Sang Trái";
+"Move Table Column Right" = "Dịch Chuyển Cột Bảng Sang Phải";

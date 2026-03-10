@@ -80,3 +80,13 @@
 "Unknown Error. Please contact hi@typora.io" = "Unbekannter Fehler. Bitte kontaktiere hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Der Zugriff auf den Lizenzserver ist fehlgeschlagen. Bitte überprüfe dein Netzwerk oder versuche es später erneut.";
 
+
+"Are you sure to deactivate Typora on this device?" = "Möchten Sie Typora auf diesem Gerät wirklich deaktivieren?";
+"Back" = "Zurück";
+"Email address confirmation does not match." = "Die E-Mail-Adressbestätigung stimmt nicht überein.";
+"Enter License" = "Lizenz eingeben";
+"Enter a license code to support our development ❤" = "Geben Sie einen Lizenzschlüssel ein, um unsere Entwicklung zu unterstützen ❤";
+"Get Activation Token" = "Aktivierungstoken abrufen";
+"Offline Activation" = "Offline-Aktivierung";
+"Re-enter Email" = "E-Mail erneut eingeben";
+"Your activated devices have exceeded the maximum limits." = "Ihre aktivierten Geräte haben die maximale Anzahl überschritten.";

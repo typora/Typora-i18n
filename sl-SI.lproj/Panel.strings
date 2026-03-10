@@ -77,25 +77,19 @@
 "Send Anonymous Usage Info" = "Pošlji anonimne informacije o uporabi";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue…" = "Za nadaljevanje je potrebno namestiti Pandoc …";
 "Follow instructions to install Pandoc" = "Sledite navodilom, kako namestiti Pandoc";
 "Cancel" = "Prekliči";
 
 /* Pandoc Import Panel */
-"Importing…" = "Uvažanje …";
-"Importing in progress…" = "Uvažanje v teku …";
 "Converting file with Pandoc. This may take some time." = "Pretvarjanje datoteke s Pandoc. To lahko traja nekaj časa.";
 "Abort" = "Ustavi";
 
 /* Pandoc Export Panel */
-"Exporting…" = "Izvoz …";
-"Exporting in progress…" = "Izvažanje v teku …";
 "Converting file with Pandoc. This may take some time." = "Pretvarjanje datoteke s Pandoc. To lahko traja nekaj časa.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Za uvoz teh datotek je potrebno namestiti Pandoc";
 "Check help->Install and use Pandoc from menubar for detail" = "Za podrobnosti v meniju preverite Pomoč->Namesti in uporabi Pandoc";
-"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16) to be installed." = "Za uvoz datotek je potrebno namestiti <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v1.16). Za svoje delovanje ga potrebujejo tudi nekatere možnosti izvoza datotek.";
 "Follow Instructions to Install/Update Pandoc" = "Za namestitev/posodobitev Pandoc sledite navodilom";
 "Export Failed" = "Izvoz ni uspel";
 "Import Failed" = "Uvoz ni uspel";
@@ -103,7 +97,6 @@
 "Failed to export file to <em>{0}</em>" = "Izvoz datoteke v <em>{0}</em> ni uspel";
 "Failed to import file from <em>{0}</em>" = "Uvoz datoteke iz <em>{0}</em> ni uspel";
 "File does not exist at <em>{0}</em>" = "Datoteka ne obstaja v <em>{0}</em>";
-"Export to…" = "Izvozi v …";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Ali želite shraniti spremembe v dokumentu?<br> Če dokumenta ne shranite spremembe ne bodo ohranjene.";
 "[Warning] Failed to attach bookmark for PDF file." = "[opozorilo] Zaznamka za datoteko PDF ni bilo mogoče priložiti.";
 "Dark Theme not support" = "Temna tema ni podprta";
@@ -189,18 +182,14 @@
 "Back" = "Nazaj";
 
 "Contact" = "Stik";
-"Open From…" = "Odpri iz …";
-"Import…" = "Uvozi …";
 "Recent Documents" = "Nedavni dokumenti";
 "Search for" = "Poišči";
 "Clear Recent Documents" = "Počisti nedavne dokumente";
 "File Name" = "Ime datoteke";
 "Path" = "Pot";
-"Export As…" = "Izvozi kot …";
 "More Formats" = "Več oblik";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formati datotek v razdelkih 'Več formatov' potrebujejo nameščen <a class='open-pandoc-guide'>Pandoc</a>.";
 "Something is Wrong…" = "Nekaj je narobe …";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control//'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine iz nekega razloga ni uspelo.<br/>Vsebino lahko kopirate v novo okno in jo nato shranite. <br/>Več informacij:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Napako prijavite na naslovu </a></li><li><a href='https://support.typora.io/Version-Control//'>Obnovitev izgubljene vsebine</a></li></ul>";
 "Copy Content" = "Kopiraj vsebino";
 
 
@@ -292,7 +281,6 @@
 "Downloading Updates…" = "Prenašanje posodobitev …";
 "Checking Updates…" = "Preverjam za posodobitve …";
 "Check Update Failed" = "Preverjanje posodobitev ni uspelo";
-"You are update to date!" = "Vse je posodobljeno!";
 "Latest version is $1, your version is $2" = "Zadnja različica je $1, vi imate $2";
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Te nastavitve lahko spremenite tudi v meniju \"Uredi → Presledki in prelomi vrstic\"";
 "Auto escape image URL when insert" = "Pri vstavljanju samodejno dokončaj URL slike";
@@ -315,7 +303,6 @@
 
 "Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "Žal je prišlo do napake, trenutna vsebina je bila kopirana v odložišče. Napako lahko sporočite na <hi@typora.io> in nam pomagate odpraviti težavo.";
 "Try Recovery" = "Poskusite obnoviti podatke";
-"Other options for Data Recovery" = "Druge možnosti za obnovitev podatkov";
 
 "When Insert" = "Ko vstavite sliko";
 "Upload image" = "Naloži sliko";
@@ -577,3 +564,18 @@
 
 "Auto Complete" = "Samodejno dokončanje";
 "Enable autocomplete for Emojis" = "Omogoči samodejno dokončanje za emodžije";
+"Require Pandoc to Continue..." = "Za nadaljevanje je potreben Pandoc ...";
+"Importing..." = "Uvažanje ...";
+"Importing in progress..." = "Uvažanje poteka ...";
+"Exporting..." = "Izvažanje ...";
+"Exporting in progress..." = "Izvažanje poteka ...";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Za uvoz ali nekatere funkcije izvoza je potrebna namestitev <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0).";
+"Export to..." = "Izvozi v ...";
+"Open From..." = "Odpri iz ...";
+"Import..." = "Uvozi ...";
+"Export As..." = "Izvozi kot ...";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "Shranjevanje vsebine ni uspelo.<br/>Vsebino lahko kopirate v novo okno Typora in jo nato shranite. <br/>Več o tem:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Prijavite napake</a></li><li><a href='https://support.typora.io/Version-Control/'>Obnovite izgubljeno vsebino</a></li></ul>";
+"You're up to date!" = "Imate najnovejšo različico!";
+"Other Options for Data Recovery" = "Druge možnosti za obnovitev podatkov";
+"Some settings will only apply after a reload" = "Nekatere nastavitve bodo uveljavljene šele po ponovnem nalaganju";
+"Reload" = "Ponovno naloži";

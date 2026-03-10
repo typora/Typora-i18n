@@ -175,3 +175,23 @@
 "Failed to upload images:" = "فشل رفع الصور:";
 "Uploading in progress" = "جار الرفع";
 "Successfully uploaded {0} images, {1} failed." = "تم رفع {0} صور، وفشل رفع {1} صور.";
+
+"<strong>Unibody</strong> style has been turned on." = "تم تفعيل نمط <strong>Unibody</strong>.";
+"File does not exist at path %@, do you want to create one at that path?" = "الملف غير موجود في المسار %@، هل تريد إنشاء ملف في هذا المسار؟";
+"File does not exist at path %@." = "الملف غير موجود في المسار %@.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "الملفات في هذا الموقع (%@) تُدار بواسطة Typora، وقد تُحذف تلقائيًا.<br/>يرجى نسخ المحتوى إلى ملف جديد لمتابعة التحرير.";
+"Images saved to TextBundle" = "تم حفظ الصور في TextBundle";
+"Markdown file" = "ملف Markdown";
+"No Results" = "لا توجد نتائج";
+"Regular Expression" = "تعبير نمطي";
+"Sort by Creation Date (Ascending)" = "ترتيب حسب تاريخ الإنشاء (تصاعديًا)";
+"Sort by Creation Date (Descending)" = "ترتيب حسب تاريخ الإنشاء (تنازليًا)";
+"Support Document" = "مستند الدعم";
+"TextBundle file" = "ملف TextBundle";
+"Too many matches" = "عدد كبير جدًا من التطابقات";
+"You are not supposed to edit or save this file." = "لا يُفترض تعديل هذا الملف أو حفظه.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "يمكنك الضغط على <strong>CTRL + النقر</strong> لفتح <a href='#'>الروابط</a> أو الانتقال إلى تعريف الحاشية.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "يمكنك الضغط على <strong>⌘ + النقر</strong> لفتح <a href='#'>الروابط</a> أو الانتقال إلى تعريف الحاشية.";
+"You can right click titlebar to popup application menu." = "يمكنك النقر بزر الفأرة الأيمن على شريط العنوان لإظهار قائمة التطبيق.";
+"You could undo this operation later via `Edit` → `Undo`." = "يمكنك التراجع عن هذه العملية لاحقًا عبر `تعديل` → `تراجع`.";
+"code language" = "لغة الكود";

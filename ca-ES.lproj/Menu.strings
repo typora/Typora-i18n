@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Puja imatges locals via iPic";
 "When Insert Local Image" = "Quan s'insereix una imatge local";
 "Copy Image File to Folder" = "Copia el fitxer d'imatge a la carpeta";
-"Upload Image via iPic" = "Puja una imatge via iPic";
 "Use Image Root Path" = "Usa la ruta principal de la imatge";
 "Line Endings" = "Finals de línia";
 "Windows Line Endings (CRLF)" = "Finals de línia de Windows (CRLF)";
@@ -325,3 +324,36 @@
 "Registration / Activation" = "Registre / Activació";
 
 "Select Paragraph / Block" = "Selecciona el paràgraf/bloc";
+
+"Privacy Policy" = "Política de privadesa";
+"Delete Selected" = "Elimina la selecció";
+"Rename or Move Image to" = "Canvia el nom o mou la imatge a";
+"Move to %@" = "Mou a %@";
+"Delete Image" = "Elimina la imatge";
+"Delete Image File" = "Elimina el fitxer d'imatge";
+"Reload All Images" = "Recarrega totes les imatges";
+"Save %@ As" = "Anomena i desa %@";
+"Copy All Images to" = "Copia totes les imatges a";
+"Move All Images to" = "Mou totes les imatges a";
+"Copy as Image" = "Copia com a imatge";
+"Switch Image Syntax" = "Canvia la sintaxi d'imatge";
+"Markdown Style" = "Estil Markdown";
+"HTML Style" = "Estil HTML";
+"Code Tools" = "Eines de codi";
+"Copy Code Content" = "Copia el contingut del codi";
+"Auto Indent Selected Code" = "Sagna automàticament el codi seleccionat";
+"Auto Indent Whole Code" = "Sagna automàticament tot el codi";
+"Jump to Line Start" = "Vés a l'inici de la línia";
+"Jump to Line End" = "Vés al final de la línia";
+"Toggle Word Count Popover" = "Alterna la finestra de recompte de paraules";
+"Toggle Outline Popover" = "Alterna la finestra d'esquema";
+"Alert" = "Alerta";
+"Note Block" = "Bloc de nota";
+"Tip Block" = "Bloc de consell";
+"Important Block" = "Bloc important";
+"Warning Block" = "Bloc d'avís";
+"Caution Block" = "Bloc de precaució";
+"Move Table Row Up" = "Mou la fila de la taula cap amunt";
+"Move Table Row Down" = "Mou la fila de la taula cap avall";
+"Move Table Column Left" = "Mou la columna de la taula cap a l'esquerra";
+"Move Table Column Right" = "Mou la columna de la taula cap a la dreta";

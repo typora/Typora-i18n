@@ -75,3 +75,12 @@
 "Unknown Error. Please contact hi@typora.io" = "Nepoznata pogreška. Please contact hi@typora.io";
 "Failed to access the license server. Please check your network or try again later." = "Neuspjelo povezivanje sa serverom licence. Molimo provjerite svoju mrežu ili pokušajte ponovo kasnije.";
 
+
+"Are you sure to deactivate Typora on this device?" = "Jeste li sigurni da želite deaktivirati Typora na ovom uređaju?";
+"Back" = "Natrag";
+"Email address confirmation does not match." = "Potvrda email adrese se ne podudara.";
+"Enter a license code to support our development ❤" = "Unesite kod licence za podršku našem razvoju ❤";
+"Get Activation Token" = "Dohvati aktivacijski token";
+"Offline Activation" = "Izvanmrežna aktivacija";
+"Re-enter Email" = "Ponovno unesite email";
+"Your activated devices have exceeded the maximum limits." = "Vaši aktivirani uređaji premašili su maksimalni broj.";

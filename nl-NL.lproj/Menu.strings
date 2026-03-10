@@ -23,10 +23,10 @@
 
 "File" = "Bestand";
 "New" = "Nieuw";
-"Open" = "Open";
+"Open" = "Openen";
 "Open Folder" = "Open map";
 "Reopen with Encoding" = "Heropen met codering";
-"Auto" = "Auto";
+"Auto" = "Automatisch";
 "Open Recent" = "Open recent";
 "Recent Locations" = "Recente locaties";
 "Clear Items" = "Items wissen";
@@ -210,7 +210,7 @@
 "Copy as Tex" = "Kopieer als Tex";
 "Copy Math" = "Kopieer wiskunde";
 "Reveal in Finder" = "Weergeven in Finder";
-"Open Link" = "Open Link";
+"Open Link" = "Link openen";
 "Reveal in Sidebar" = "Weergeven in zijbalk";
 "Open in New Window" = "Open in nieuw scherm";
 "Copy File Path" = "Kopieer bestandslocatie";
@@ -301,7 +301,7 @@
 "Flat Outline" = "Plat overzicht";
 "Articles (List View)" = "Artikelen (Lijstweergave)";
 "File Tree (Tree View)" = "Bestanden (Boomweergave)";
-"Filter" = "Filter";
+"Filter" = "Filteren";
 
 "Upload Image" = "Afbeelding uploaden";
 "Upload All Local Images" = "Upload alle lokale bestanden";
@@ -329,3 +329,34 @@
 
 "Select Paragraph / Block" = "Selecteer paragraaf/blok";
 
+"Delete Selected" = "Selectie verwijderen";
+"Rename or Move Image to" = "Afbeelding hernoemen of verplaatsen naar";
+"Move to %@" = "Verplaatsen naar %@";
+"Delete Image" = "Afbeelding verwijderen";
+"Delete Image File" = "Afbeeldingsbestand verwijderen";
+"Reload All Images" = "Alle afbeeldingen herladen";
+"Save %@ As" = "%@ opslaan als";
+"Copy All Images to" = "Alle afbeeldingen kopiëren naar";
+"Move All Images to" = "Alle afbeeldingen verplaatsen naar";
+"Copy as Image" = "Kopiëren als afbeelding";
+"Switch Image Syntax" = "Afbeeldingssyntax wisselen";
+"Markdown Style" = "Markdown-stijl";
+"HTML Style" = "HTML-stijl";
+"Code Tools" = "Codehulpmiddelen";
+"Copy Code Content" = "Code-inhoud kopiëren";
+"Auto Indent Selected Code" = "Geselecteerde code automatisch inspringen";
+"Auto Indent Whole Code" = "Gehele code automatisch inspringen";
+"Jump to Line Start" = "Ga naar begin van regel";
+"Jump to Line End" = "Ga naar einde van regel";
+"Toggle Word Count Popover" = "Woordenteller tonen/verbergen";
+"Toggle Outline Popover" = "Overzicht tonen/verbergen";
+"Alert" = "Waarschuwing";
+"Note Block" = "Notitieblok";
+"Tip Block" = "Tipblok";
+"Important Block" = "Belangrijk blok";
+"Warning Block" = "Waarschuwingsblok";
+"Caution Block" = "Voorzichtigheidsblok";
+"Move Table Row Up" = "Tabelrij naar boven verplaatsen";
+"Move Table Row Down" = "Tabelrij naar onder verplaatsen";
+"Move Table Column Left" = "Tabelkolom naar links verplaatsen";
+"Move Table Column Right" = "Tabelkolom naar rechts verplaatsen";

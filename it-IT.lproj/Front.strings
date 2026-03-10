@@ -25,7 +25,6 @@
 "Replace" = "Sostituisci";
 "All" = "Tutto";
 "Search text not found in article" = "Testo non trovato nell'articolo";
-"search text" = "cerca testo";
 
 /* Quick Open */
 "Search by file name" = "Cerca per nome file";
@@ -75,7 +74,6 @@
 "Sort Naturally (Descending)" = "Ordina (Discendente)";
 "Sort by Name (Ascending)" = "Ordina per nome (Ascendente)";
 "Sort by Modification Date (Ascending)" = "Ordina per data di modifica (Ascendente)";
-"Sort by Name (Discendente)" = "Ordina per nome (Descending)";
 "Sort by Modification Date (Descending)" = "Ordina per data di modifica (Discendente)";
 "Location" = "Posizioni";
 "Switch File List/Tree View" = "Passa a vista Elenco/Albero";
@@ -135,7 +133,6 @@
 "Select image from local file" = "Seleziona immagine da file locale";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Impossibile aprire la posizione <code>$1</code>, forse intendi <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "seleziona una lingua";
 "Finish Editing" = "Termina modifica";
 
 "Revert advanced setting file to default one ?" = "Ripristinare le impostazioni avanzate predefinite ?";
@@ -194,3 +191,13 @@
 "No Results" = "Nessun Risultato";
 "Too many matches" = "Troppe corrispondenze";
 "Regular Expression" = "Regular Expression";
+"Sort by Creation Date (Ascending)" = "Ordina per data di creazione (crescente)";
+"Sort by Creation Date (Descending)" = "Ordina per data di creazione (decrescente)";
+"code language" = "linguaggio del codice";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Impossibile rinominare da $1 a $2, utilizzare \"File\" → \"Sposta in…\" dalla barra dei menu.";
+"Markdown file" = "File Markdown";
+"TextBundle file" = "File TextBundle";
+"Images saved to TextBundle" = "Immagini salvate in TextBundle";
+
+"Sort by Name (Descending)" = "Ordina per nome (decrescente)";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Impossibile rinominare da $1 a $2, usa \"File\" → \"Sposta in…\" dalla barra dei menu.";

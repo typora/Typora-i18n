@@ -562,3 +562,22 @@
 "Unpin" = "Soltar";
 "Remove from List" = "Quitar da lista";
 "Record recent files and folders" = "Gravar arquivos e cartafoles recentes";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "Cando estea activado, Typora recoñecerá e resaltará automaticamente as URL (p. ex.: https://typora.io ou mailto:hi@typora.io) no texto.";
+"System Integration" = "Integración co sistema";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Engadir \"Markdown\" ao menú contextual \"Novo\" no Explorador de Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Eliminar elementos do menú contextual \"Novo\" no Explorador de Windows";
+"Please try sign out Windows to take effect." = "Tente pechar sesión en Windows para que teña efecto.";
+"Github Style Alert" = "Alerta de estilo Github";
+"Zoom when using mouse wheel and holding %@ key" = "Facer zoom ao usar a roda do rato e manter premida a tecla %@";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "O documento actual contén cambios sen gardar. Quere cambiar ao ficheiro recén duplicado?";
+"Chapter Level in Outline" = "Nivel de capítulo no esquema";
+"Enable inline math or code block math" = "Activar matemáticas en liña ou en bloque de código";
+"Code Block Math  (```math code block)" = "Matemáticas en bloque de código  (```math code block)";
+"PicList Path" = "Ruta de PicList";
+"Auto Complete" = "Autocompletar";
+"Enable autocomplete for Emojis" = "Activar autocompletar para Emojis";
+"Some settings will only apply after a reload" = "Algúns axustes só se aplicarán despois dunha recarga";
+"Reload" = "Recargar";
+
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recoñecer signos de puntuación Unicode como ASCII ao analizar Markdown, p.ex.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src 'title') → [link](src 'title')</pre>Activarase automaticamente se as comiñas/guións intelixentes se converten ao escribir.<div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Recoñecer puntuacións unicode como ASCII ao analizar markdown, p. ex.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Activarase automaticamente se as comiñas/guións intelixentes se converten na entrada.<div>";

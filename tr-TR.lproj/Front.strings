@@ -174,3 +174,23 @@
 "Failed to upload images:" = "Resim yüklemede hata meydana geldi:";
 "Uploading in progress" = "Yükleniyor";
 "Successfully uploaded {0} images, {1} failed." = "{0} adet resim sorunsuz şekilde yükendi, {1} yükenemedi.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> stili açıldı.";
+"File does not exist at path %@, do you want to create one at that path?" = "%@ yolunda dosya bulunamadı, bu yolda bir tane oluşturmak ister misiniz?";
+"File does not exist at path %@." = "%@ yolunda dosya bulunamadı.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Bu konumdaki (%@) dosyalar Typora tarafından yönetilmektedir ve otomatik olarak silinebilir.<br/>Lütfen düzenlemeye devam etmek için içeriği yeni bir dosyaya kopyalayın.";
+"Images saved to TextBundle" = "Resimler TextBundle'a kaydedildi";
+"Markdown file" = "Markdown dosyası";
+"No Results" = "Sonuç Yok";
+"Regular Expression" = "Düzenli İfade";
+"Sort by Creation Date (Ascending)" = "Oluşturma Tarihine Göre Sırala (Artan)";
+"Sort by Creation Date (Descending)" = "Oluşturma Tarihine Göre Sırala (Azalan)";
+"Support Document" = "Destek Belgesi";
+"TextBundle file" = "TextBundle dosyası";
+"Too many matches" = "Çok fazla eşleşme";
+"You are not supposed to edit or save this file." = "Bu dosyayı düzenlemeniz veya kaydetmeniz uygun değildir.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>CTRL + Tıklama</strong> yapabilirsiniz.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>Bağlantıları</a> açmak veya dipnot tanımına gitmek için <strong>⌘ + Tıklama</strong> yapabilirsiniz.";
+"You can right click titlebar to popup application menu." = "Uygulama menüsünü açmak için başlık çubuğuna sağ tıklayabilirsiniz.";
+"You could undo this operation later via `Edit` → `Undo`." = "Bu işlemi daha sonra `Düzenle` → `Geri Al` ile geri alabilirsiniz.";
+"code language" = "kod dili";

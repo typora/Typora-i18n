@@ -205,3 +205,15 @@
 
 "File does not exist at path %@." = "Fail tidak eksis di jalur %@.";
 "File does not exist at path %@, do you want to create one at that path?" = "Fail tidak eksis di jalur %@, apakah Anda ingin membuatnya di jalur itu?";
+
+"Images saved to TextBundle" = "Gambar disimpan ke TextBundle";
+"Markdown file" = "Fail Markdown";
+"No Results" = "Tidak Ada Hasil";
+"Regular Expression" = "Ekspresi Reguler";
+"Sort Naturally (Ascending)" = "Urutkan Secara Alami (Naik)";
+"Sort Naturally (Descending)" = "Urutkan Secara Alami (Turun)";
+"Sort by Creation Date (Ascending)" = "Urutkan Berdasarkan Tanggal Pembuatan (Naik)";
+"Sort by Creation Date (Descending)" = "Urutkan Berdasarkan Tanggal Pembuatan (Turun)";
+"TextBundle file" = "Fail TextBundle";
+"Too many matches" = "Terlalu banyak kecocokan";
+"code language" = "bahasa kode";

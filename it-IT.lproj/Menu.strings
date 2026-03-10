@@ -36,7 +36,6 @@
 "Save" = "Salva";
 "Save As" = "Salva come";
 "Duplicate" = "Duplica";
-"Rename" = "Rinomina";
 "Move To" = "Sposta in";
 "Revert To" = "Ripristina";
 "Browse All Versions" = "Sfoglia tutte le versioni";
@@ -95,8 +94,6 @@
 "Smart Dashes" = "Trattini intelligenti";
 "Text Replacement" = "Sostituzione testo";
 "Speech" = "Parla";
-"Start Speaking" = "Inizia a parlare";
-"Stop Speaking" = "Smetti di parlare";
 
 /* Paragraph Menu */
 "Paragraph" = "Paragrafo";
@@ -108,7 +105,6 @@
 "Heading 6" = "Titolo H6";
 "Increase Heading Level" = "Aumenta livello titolo";
 "Decrease Heading Level" = "Riduci livello titolo";
-"Table" = "Tabella";
 "Code Fences" = "Blocco di codice";
 "Math Block" = "Blocco Math";
 "Quote" = "Citazione";
@@ -327,7 +323,6 @@
 "Select Paragraph / Block" = "Seleziona paragrafo / blocco";
 
 "Delete Selected" = "Elimina selezione";
-"Move Image to" = "Sposta immagine in";
 "Move to %@" = "Sposta in %@";
 "Delete Image" = "Elimina immagine";
 "Delete Image File" = "Elimina file immagine";
@@ -337,3 +332,26 @@
 
 "Copy All Images to" = "Copia tutte le immagini in";
 "Move All Images to" = "Sposta tutte le immagini in";
+"Rename or Move Image to" = "Rinomina o sposta immagine in";
+"Copy as Image" = "Copia come immagine";
+"Switch Image Syntax" = "Cambia sintassi immagine";
+"Markdown Style" = "Stile Markdown";
+"HTML Style" = "Stile HTML";
+"Code Tools" = "Strumenti codice";
+"Copy Code Content" = "Copia contenuto codice";
+"Auto Indent Selected Code" = "Indenta automaticamente il codice selezionato";
+"Auto Indent Whole Code" = "Indenta automaticamente tutto il codice";
+"Jump to Line Start" = "Vai a inizio riga";
+"Jump to Line End" = "Vai a fine riga";
+"Toggle Word Count Popover" = "Mostra/nascondi conteggio parole";
+"Toggle Outline Popover" = "Mostra/nascondi struttura";
+"Alert" = "Avviso";
+"Note Block" = "Blocco Nota";
+"Tip Block" = "Blocco Suggerimento";
+"Important Block" = "Blocco Importante";
+"Warning Block" = "Blocco Avvertenza";
+"Caution Block" = "Blocco Attenzione";
+"Move Table Row Up" = "Sposta riga tabella su";
+"Move Table Row Down" = "Sposta riga tabella giù";
+"Move Table Column Left" = "Sposta colonna tabella a sinistra";
+"Move Table Column Right" = "Sposta colonna tabella a destra";

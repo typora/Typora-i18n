@@ -71,7 +71,6 @@
 "Refresh Folder" = "Оновити директорію";
 "Sort" = "Сортування";
 "Group By Folder" = "Групувати за директорією";
-"Sort Naturally" = "Сортувати звичайно";
 "Sort by Name (Ascending)" = "Сортувати за ім’ям (за зростанням)";
 "Sort by Modification Date (Ascending)" = "Сортувати за датою останньої зміни (за зростанням)";
 "Sort by Name (Descending)" = "Сортувати за ім’ям (за спаданням)";
@@ -134,7 +133,6 @@
 "Select image from local file" = "Виберіть зображення з локального файлу";
 "Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Не можу відкрити розташування <code>$1</code>; можливо, ви мали на увазі <a href='$3' target='_blank' target='_blank'>$2</a> ?";
 
-"select a language" = "виберіть мову";
 "Finish Editing" = "Завершити редагування";
 
 "Revert advanced setting file to default one ?" = "Повернути файл розширених налаштувань за замовчуванням?";
@@ -162,9 +160,35 @@
 
 "Filter" = "Фільтр";
 "No result found." = "Результатів не знайдено.";
-"Continue & overwrite" = "Продовжити і перезаписати";
 "The file is read-only, or you do not have right permissions to modify the file." = "Файл доступний тільки для читання, або ж ви не маєте прав для його зміни.";
 
 "Learn Data Recovery" = "Дізнатися про відновлення даних";
 "Auto refresh on Files Panel cannot be enabled." = "Автоматичне оновлення на Панелі файлів увімкнути неможливо.";
 "Delete Permanently" = "Видалити остаточно";
+
+"Sort Naturally (Ascending)" = "Сортувати природно (за зростанням)";
+"Sort Naturally (Descending)" = "Сортувати природно (за спаданням)";
+"Continue & Overwrite" = "Продовжити та перезаписати";
+"Failed to upload images:" = "Не вдалося завантажити зображення:";
+"Uploading in progress" = "Завантаження триває";
+"Successfully uploaded {0} images, {1} failed." = "Успішно завантажено {0} зображень, {1} невдалих.";
+"You could undo this operation later via `Edit` → `Undo`." = "Ви можете скасувати цю дію пізніше через `Редагування` → `Відмінити`.";
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Ви можете натиснути <strong>⌘ + Клік</strong>, щоб відкрити <a href='#'>посилання</a> або перейти до визначення виноски.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "Ви можете натиснути <strong>CTRL + Клік</strong>, щоб відкрити <a href='#'>посилання</a> або перейти до визначення виноски.";
+"<strong>Unibody</strong> style has been turned on." = "Стиль <strong>Unibody</strong> увімкнено.";
+"You can right click titlebar to popup application menu." = "Ви можете натиснути правою кнопкою миші на заголовку вікна, щоб відкрити меню застосунку.";
+"Support Document" = "Довідковий документ";
+"You are not supposed to edit or save this file." = "Цей файл не призначений для редагування або збереження.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Файли в цьому розташуванні (%@) керуються Typora і можуть бути видалені автоматично.<br/>Будь ласка, скопіюйте вміст у новий файл для подальшого редагування.";
+"File does not exist at path %@." = "Файл не існує за шляхом %@.";
+"File does not exist at path %@, do you want to create one at that path?" = "Файл не існує за шляхом %@. Бажаєте створити файл за цим шляхом?";
+"No Results" = "Немає результатів";
+"Too many matches" = "Забагато збігів";
+"Regular Expression" = "Регулярний вираз";
+"Sort by Creation Date (Ascending)" = "Сортувати за датою створення (за зростанням)";
+"Sort by Creation Date (Descending)" = "Сортувати за датою створення (за спаданням)";
+"code language" = "мова коду";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Неможливо перейменувати з $1 на $2. Будь ласка, використовуйте \"Файл\" → \"Перемістити до…\" з рядка меню.";
+"Markdown file" = "Markdown-файл";
+"TextBundle file" = "TextBundle-файл";
+"Images saved to TextBundle" = "Зображення збережено до TextBundle";

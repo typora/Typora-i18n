@@ -36,7 +36,6 @@
 "Save" = "Enregistrer";
 "Save As" = "Enregistrer sous";
 "Duplicate" = "Dupliquer";
-"Rename" = "Renommer";
 "Move To" = "Déplacer vers";
 "Revert To" = "Restaurer";
 "Browse All Versions" = "Explorer toutes les versions";
@@ -95,8 +94,6 @@
 "Smart Dashes" = "Tirets intelligents";
 "Text Replacement" = "Remplacement de texte";
 "Speech" = "Lecture à voix haute";
-"Start Speaking" = "Commencer à lire";
-"Stop Speaking" = "Arrêter la lecture";
 
 /* Paragraph Menu */
 "Paragraph" = "Paragraphe";
@@ -108,7 +105,6 @@
 "Heading 6" = "Titre 6";
 "Increase Heading Level" = "Augmenter le niveau du titre";
 "Decrease Heading Level" = "Réduire le niveau du titre";
-"Table" = "Tableau";
 "Code Fences" = "Bloc de code";
 "Math Block" = "Bloc Maths";
 "Quote" = "Citation";
@@ -235,7 +231,6 @@
 "Prettify Source Code" = "Embellir le Code Source";
 "Copy '%@'" = "Copier '%@'";
 "Copy to %@" = "Copier vers %@";
-"Copy Image to" = "Copier l’image vers";
 "Open Image Location" = "Ouvrir l’emplacement de l’image";
 
 "Learn More" = "En apprendre plus";
@@ -327,7 +322,6 @@
 "Select Paragraph / Block" = "Sélectionner le paragraphe / bloc";
 
 "Delete Selected" = "Supprimer la sélection";
-"Move Image to" = "Déplacer l'image vers";
 "Move to %@" = "Déplacer vers %@";
 "Delete Image" = "Supprimer l'image";
 "Delete Image File" = "Supprimer le fichier image";
@@ -337,3 +331,28 @@
 
 "Copy All Images to" = "Copier toutes les images vers";
 "Move All Images to" = "Déplacer toutes les images vers";
+"Rename or Move Image to" = "Renommer ou déplacer l'image vers";
+"Copy as Image" = "Copier en tant qu'image";
+"Switch Image Syntax" = "Changer la syntaxe d'image";
+"Markdown Style" = "Style Markdown";
+"HTML Style" = "Style HTML";
+"Code Tools" = "Outils de code";
+"Copy Code Content" = "Copier le contenu du code";
+"Auto Indent Selected Code" = "Indenter automatiquement le code sélectionné";
+"Auto Indent Whole Code" = "Indenter automatiquement tout le code";
+"Jump to Line Start" = "Aller au début de la ligne";
+"Jump to Line End" = "Aller à la fin de la ligne";
+"Toggle Word Count Popover" = "Afficher/masquer le compteur de mots";
+"Toggle Outline Popover" = "Afficher/masquer le plan";
+"Alert" = "Alerte";
+"Note Block" = "Bloc Note";
+"Tip Block" = "Bloc Astuce";
+"Important Block" = "Bloc Important";
+"Warning Block" = "Bloc Avertissement";
+"Caution Block" = "Bloc Attention";
+"Move Table Row Up" = "Déplacer la ligne du tableau vers le haut";
+"Move Table Row Down" = "Déplacer la ligne du tableau vers le bas";
+"Move Table Column Left" = "Déplacer la colonne du tableau vers la gauche";
+"Move Table Column Right" = "Déplacer la colonne du tableau vers la droite";
+
+"Copy Image Content" = "Copier le contenu de l'image";

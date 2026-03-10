@@ -353,3 +353,13 @@
 "Jump to Line End" = "Ir ao final da liña";
 "Toggle Word Count Popover" = "Alternar o popover do reconto de palabras";
 "Toggle Outline Popover" = "Alternar o popover de esquema";
+"Alert" = "Alerta";
+"Note Block" = "Bloque de Nota";
+"Tip Block" = "Bloque de Consello";
+"Important Block" = "Bloque Importante";
+"Warning Block" = "Bloque de Aviso";
+"Caution Block" = "Bloque de Precaución";
+"Move Table Row Up" = "Mover fila da táboa cara arriba";
+"Move Table Row Down" = "Mover fila da táboa cara abaixo";
+"Move Table Column Left" = "Mover columna da táboa á esquerda";
+"Move Table Column Right" = "Mover columna da táboa á dereita";

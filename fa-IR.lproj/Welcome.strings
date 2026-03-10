@@ -76,3 +76,12 @@
 "Unknown Error. Please contact hi@typora.io" = "خطای ناشناخته! لطفا با hi@typora.io تماس بگیرید.";
 "Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
 
+
+"Are you sure to deactivate Typora on this device?" = "آیا از غیرفعال‌سازی Typora در این دستگاه اطمینان دارید؟";
+"Back" = "بازگشت";
+"Email address confirmation does not match." = "تأیید آدرس ایمیل مطابقت ندارد.";
+"Enter a license code to support our development ❤" = "کد گواهینامه‌ای وارد کنید تا از توسعه ما حمایت کنید ❤";
+"Get Activation Token" = "دریافت توکن فعال‌سازی";
+"Offline Activation" = "فعال‌سازی آفلاین";
+"Re-enter Email" = "ایمیل را دوباره وارد کنید";
+"Your activated devices have exceeded the maximum limits." = "دستگاه‌های فعال شده شما از حداکثر تعداد مجاز فراتر رفته‌اند.";

@@ -5,13 +5,13 @@
  by hi@typora.io
 
  Korean translation
- by ryush00, Third9, cog25, Corea, LimeCake
+ by ryush00, Third9, cog25, Corea, LimeCake, as7ar
 */
 
 /* Common */
-"OK" = "승인";
+"OK" = "확인";
 "Cancel" = "취소";
-"Yes" = "네";
+"Yes" = "예";
 "No" = "아니오";
 "Close" = "닫기";
 "Select" = "선택";
@@ -107,7 +107,7 @@
 "back to document" = "문서로 돌아가기";
 "Failed to load file" = "파일 불러오기 실패";
 "Save File Failed!" = "파일 저장 실패!";
-"Cannot open folder {0}" = "{0} 폴더를 열 수 없습니다";
+"Cannot open folder {0}" = "폴더 {0}을(를) 열 수 없습니다";
 
 "File content is changed by external applications. Reload content from disk ?" = "파일이 다른 응용프로그램에 의해 변경되었습니다. 다시 로드할까요?";
 "Should continue moving and overwrite existing file(s) ?" = "기존 파일(들)을 계속 이동하고 덮어씌울까요?";
@@ -138,7 +138,7 @@
 
 "Revert advanced setting file to default one ?" = "고급 설정을 기본값으로 되돌릴까요?";
 
-"Select Spell Check Language" = "맞춤법 교정 언어를 선택하세요";
+"Select Spell Check Language" = "맞춤법 교정 언어 선택";
 "Auto Detect Language" = "언어 자동 감지";
 "Disable Spell Check" = "맞춤법 교정 비활성화";
 "Global Setting…" = "전역 설정…";
@@ -160,9 +160,9 @@
 "Quick Look" = "미리 보기";
 
 "Filter" = "필터";
-"No result found." = "결과가 없습니다.";
+"No result found." = "결과 없음";
 "Continue & Overwrite" = "계속 & 덮어쓰기";
-"The file is read-only, or you do not have right permissions to modify the file." = "이 파일은 읽기 전용이거나 파일을 수정할 권한이 없습니다.";
+"The file is read-only, or you do not have right permissions to modify the file." = "해당 파일은 읽기 전용이거나 파일을 수정할 권한이 없습니다.";
 
 "Learn Data Recovery" = "데이터 복구 학습";
 "Auto refresh on Files Panel cannot be enabled." = "파일 패널에서 자동 갱신을 사용할 수 없습니다.";
@@ -192,7 +192,7 @@
 "No Results" = "결과 없음";
 "Too many matches" = "결과가 너무 많음";
 "Regular Expression" = "정규식";
-"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora가 YAML Front Matter 설정이나 전역 환경설정에 따라 새로 삽입된 이미지를 <code id='image-create-folder-target'></code> 폴더로 복사하려 합니다. 하지만 대상 폴더가 존재하지 않습니다. 지금 생성하시겠습니까?";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora가 YAML Front Matter 설정이나 전역 환경 설정에 따라 새로 삽입된 이미지를 <code id='image-create-folder-target'></code> 폴더로 복사하려 하지만 대상 폴더가 존재하지 않습니다. 지금 생성하시겠습니까?";
 "Sort Naturally (Ascending)" = "자연 정렬 (오름차순)";
 "Sort Naturally (Descending)" = "자연 정렬 (내림차순)";
 "Sort by Creation Date (Ascending)" = "생성 날짜순 정렬 (오름차순)";
@@ -203,4 +203,4 @@
 "TextBundle file" = "TextBundle 파일";
 "Images saved to TextBundle" = "이미지가 TextBundle에 저장됨";
 
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 대신 메뉴 막대의 \"파일\" → \"다음으로 이동…\"을 사용하세요.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1에서 $2(으)로 이름을 변경할 수 없습니다. 상단 메뉴의 \"파일\" → \"다음으로 이동…\"을 사용하세요.";

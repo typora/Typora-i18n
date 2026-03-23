@@ -272,8 +272,8 @@
 "Move %@" = "%@ 이동";
 "Delete %@" = "%@ 삭제";
 
-"Turn off Typewriter / Focus Mode" = "타자기 모드 / 포커스 모드 끄기";
-"Typewriter / Focus Mode have been turned off." = "타자기 모드 / 포커스 모드를 껐습니다.";
+"Turn off Typewriter / Focus Mode" = "타자기 모드 / 집중 모드 끄기";
+"Typewriter / Focus Mode have been turned off." = "타자기 모드 / 집중 모드를 껐습니다.";
 
 "Reading Speed" = "읽기 속도";
 "words / min" = "단어 / 분";
@@ -318,26 +318,26 @@
 "When Insert" = "이미지 삽입 시";
 "Upload image" = "이미지를 업로드";
 "e.g: %@" = "e.g: %@";
-"Test Uploader" = "Test Uploader";
-"Validating" = "Validating Image Uploader";
-"Validation Failed" = "Validation Failed";
-"Validation Succeed" = "Validation Succeed";
-"Testing image uploading using command:" = "Testing image uploading using command:";
-"Running… Waiting for results." = "Running… Waiting for results.";
-"Output from the console:" = "Output from the console:";
-"Error from the console:" = "Error from the console:";
-"Failed to fetch uploaded image from command output." = "Failed to fetch uploaded image from command output.";
-"Successfully get uploaded image url." = "Successfully get uploaded image url.";
+"Test Uploader" = "테스트 업로더";
+"Validating" = "이미지 업로더 검증 중";
+"Validation Failed" = "검증 실패";
+"Validation Succeed" = "검증 성공";
+"Testing image uploading using command:" = "명령어를 사용하여 이미지 명령어 테스트:";
+"Running… Waiting for results." = "실행 중... 결과 기다리기.";
+"Output from the console:" = "콘솔 출력:";
+"Error from the console:" = "콘솔 오류:";
+"Failed to fetch uploaded image from command output." = "명령 출력에서 ​​업로드된 이미지를 가져오는 데 실패했습니다.";
+"Successfully get uploaded image url." = "성공적으로 이미지 url을 가져왔습니다.";
 "Image Uploader" = "이미지 업로더";
 "Instructions" = "Instructions";
-"Download %@" = "Download %@";
+"Download %@" = "%@ 다운로드";
 "Image Upload Setting" = "이미지 업로드 설정";
-"Please set an image uploader in Preferences panel before using this function." = "Please set an image uploader in Preferences panel before using this function.";
-"Download or Upgrade" = "Download or Upgrade";
-"Open Config File" = "Open Config File";
-"PicGo Path" = "PicGo Path";
-"Path of PicGo binary" = "Path of PicGo binary";
-"Executable" = "Executable";
+"Please set an image uploader in Preferences panel before using this function." = "이 기능을 사용하기 전에 환경 설정 패널에서 이미지 업로더를 설정하십시오.";
+"Download or Upgrade" = "다운로드 또는 업그레이드";
+"Open Config File" = "Config 파일 열기";
+"PicGo Path" = "PicGo 경로";
+"Path of PicGo binary" = "PicGo binary 경로";
+"Executable" = "실행 가능";
 "Checking" = "확인중";
 "Download" = "다운로드";
 "Agree and Download" = "동의 및 다운로드";
@@ -380,16 +380,16 @@
 "Append in <head />" = "<head /> 에 추가할 내용";
 "Append in <body />" = "<body /> 에 추가할 내용";
 "Include Outline Sidebar" = "개요 사이드바 포함";
-"Width" = "Width";
-"Command" = "Command";
+"Width" = "너비";
+"Command" = "명령어";
 "Show Save File Dialog" = "파일 저장 대화 상자 보기";
 "File Extensions for Export" = "내보낼 파일 확장자";
 "Arguments" = "인자";
 "Extra Arguments" = "추가 인자";
-"LaTeX Engine" = "LaTeX Engine";
+"LaTeX Engine" = "LaTeX 엔진";
 "Template" = "템플릿";
-"Empty" = "Empty";
-"Style Reference" = "Style Reference";
+"Empty" = "비어있음";
+"Style Reference" = "Style 참조";
 "Custom CSS" = "사용자 정의 CSS";
 "Chapter Level" = "챕터 레벨(Chapter Level)";
 "Default Folder for Exported File" = "파일을 내보낼 기본값 폴더";
@@ -398,9 +398,9 @@
 "(Auto Detect)" = "(자동설정)";
 "Open exported file location" = "파일을 내보낸 위치 열기";
 "Open exported file" = "내보낸 파일 열기";
-"Custom" = "Custom";
-"None" = "None";
-"Default" = "Default";
+"Custom" = "사용자 정의";
+"None" = "없음";
+"Default" = "기본";
 "Margin" = "여백";
 "Margin Left" = "왼쪽 여백";
 "Margin Right" = "오른쪽 여백";
@@ -417,32 +417,32 @@
 "Pandoc Path" = "Pandoc 경로";
 "Select" = "선택";
 "Target Format" = "대상 형식";
-"auto detect based on target file path" = "auto detect based on target file path";
-"Target File Extensions (separate by whitespace)" = "Target File Extensions (separate by whitespace)";
-"e.g: .text .asciidoc or leave this empty" = "e.g: .text .asciidoc or leave this empty";
+"auto detect based on target file path" = "대상 파일 경로를 기반 자동 감지";
+"Target File Extensions (separate by whitespace)" = "대상 파일 확장자 (공백으로 구분)";
+"e.g: .text .asciidoc or leave this empty" = "예시: .text .asciidoc 또는 빈칸으로 건너뛰기";
 "Raw Type" = "Raw Type";
 "Auto" = "자동";
-"Do not popup save file dialog" = "Do not popup save file dialog";
-"Select file path to save" = "Select file path to save";
-"Select folder path to save" = "Select folder path to save";
-"PDF Engine" = "PDF Engine";
-"Show command output" = "Command output 보여주기";
+"Do not popup save file dialog" = "파일 저장 대화 상자가 나타나지 않도록 설정";
+"Select file path to save" = "저장할 파일 경로 선택";
+"Select folder path to save" = "저장할 폴더 경로 선택";
+"PDF Engine" = "PDF 엔진";
+"Show command output" = "명령어 출력 보여주기";
 
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?";
-"Command Arguments:" = "커맨드 인자:";
-"This dev version of Typora is expired, please download and install a newer version." = "현제 이 베타버젼은 만기 되었습니다. 새로운 버젼을 다운로드하셔서 설치하시기 바랍니다.";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"내보내기 및 이전 버전으로 덮어쓰기\" %@ 위치의 파일을 덮어쓰겠습니다. 계속하시겠습니까?";
+"Command Arguments:" = "명령어 인자:";
+"This dev version of Typora is expired, please download and install a newer version." = "현재 이 베타 버전은 만료 되었습니다. 새로운 버전을 다운로드하셔서 설치하시기 바랍니다.";
 "Current Theme" = "현재 테마";
 "After Export" = "내보내기 이후 작업";
-"Run command" = "커맨드 실행";
-"Run command after export failed" = "내보내기 실패 후에 커맨드 실행하기";
+"Run command" = "명령어 실행";
+"Run command after export failed" = "내보내기 실패 후에 명령어 실행하기";
 "Read and overwrite export settings from YAML front matters" = "YAML 머리말에서 설정을 읽어 덮어쓰기";
 "Append Extra Content (HTML)" = "추가할 내용 (HTML)";
 "Change this option to specify a separated theme for export." = "내보내기할 때 별도로 사용할 테마를 지정하세요.";
 "Dark theme is not supported." = "다크 테마는 지원되지 않습니다.";
 
-"Markdown Variants" = "Markdown Variants";
-"Original Unextended Markdown" = "Original Unextended Markdown";
-"CommonMark with many pandoc extensions" = "CommonMark with many pandoc extensions";
+"Markdown Variants" = "Markdown 변형";
+"Original Unextended Markdown" = "원본 Markdown";
+"CommonMark with many pandoc extensions" = "CommonMark와 다양한 pandoc 확장 기능";
 "Line Wrap" = "Line Wrap";
 "Hard line wrap" = "Hard line wrap";
 "Text Column Width" = "Text Column Width";
@@ -454,13 +454,13 @@
 "4 spaces per tab" = "탭을 공란 4칸으로";
 "Unicode Characters" = "유니코드 문자";
 "Use only ASCII characters in output" = "출력에 ASCII 문자만 사용하기";
-"Use reference-style links rather than inline links" = "Use reference-style links rather than inline links";
-"Footnotes and References Location" = "Footnotes and References Location";
-"End of document" = "End of document";
-"End of current (top-level) block" = "End of current (top-level) block";
-"End of current section" = "End of current section";
-"Convert TeX formulas to web images" = "Convert TeX formulas to web images";
-"Image Format" = "Image Format";
+"Use reference-style links rather than inline links" = "인라인 링크 대신 참조 스타일 링크를 사용하세요.";
+"Footnotes and References Location" = "각주 및 참고문헌 위치";
+"End of document" = "문서 최하단";
+"End of current (top-level) block" = "현재(최상위) 블록의 끝";
+"End of current section" = "현재 선택 영역 끝";
+"Convert TeX formulas to web images" = "TeX 수식을 웹 이미지로 변환";
+"Image Format" = "이미지 형식";
 
 "Set Pandoc Path" = "Pandoc 경로 설정";
 
@@ -480,7 +480,7 @@
 "Update to dev version" = "개발 버전(dev version)으로 업데이트";
 
 "Typora Server" = "Typora 서버";
-"Use Typora Server in China" = "중국에 있는 Typora Server 사용";
+"Use Typora Server in China" = "중국 Typora Server 사용";
 
 "File does not exist" = "파일이 존재하지 않습니다";
 "Create File" = "파일 생성";
@@ -504,7 +504,7 @@
 "Images copied to %@." = "이미지를 %@에 복사했습니다.";
 "Images moved to %@." = "이미지를 %@에 이동했습니다.";
 
-"Custom Command" = "커스텀 명령어";
+"Custom Command" = "사용자 정의 명령어";
 "No Automatic Equation Numbering" = "수식 자동 정렬 안함";
 "Use AMS Numbering Rules" = "AMS 정렬 규칙 사용";
 "Auto Numbering for All Math Equations" = "모든 수식 자동 정렬";
@@ -540,7 +540,7 @@
 "Last Used" = "마지막 사용";
 "Apply Default Code Language When" = "기본 코드 언어 적용 시점";
 "When add code fences via Markdown" = "Markdown으로 코드 블록 추가 시";
-"When add code fences via Menubar" = "메뉴 막대로 코드 블록 추가 시";
+"When add code fences via Menubar" = "메뉴 바로 코드 블록 추가 시";
 "Both" = "둘 다";
 "Pinned and Recent Locations" = "고정 및 최근 위치";
 "Operation Succeeded" = "작업이 완료되었습니다";

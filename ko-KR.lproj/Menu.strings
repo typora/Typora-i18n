@@ -45,15 +45,15 @@
 "Import" = "가져오기";
 "Export" = "내보내기";
 "Page Setup" = "페이지 설정";
-"Print" = "프린트";
+"Print" = "인쇄";
 
 /* Edit Menu */
 "Edit" = "편집";
 "Undo" = "실행 취소";
 "Redo" = "실행 복귀";
 "Cut" = "오려두기";
-"Copy" = "복사하기";
-"Paste" = "붙이기";
+"Copy" = "복사";
+"Paste" = "붙여넣기";
 "Copy as Markdown" = "Markdown으로 복사";
 "Copy as HTML Code" = "HTML 코드로 복사";
 "Paste as Plain Text" = "일반 텍스트로 붙이기";
@@ -88,14 +88,14 @@
 "Replace" = "바꾸기";
 "Replace Next" = "다음 바꾸기";
 "Spelling and Grammar" = "맞춤법 및 문법";
-"Check Document Now" = "지금 도큐멘트 검사";
+"Check Document Now" = "바로 문서 검사";
 "Check Spelling While Typing" = "입력하는 동안 맞춤법 검사";
 "Check Grammar With Spelling" = "맞춤법 및 문법 검사";
 "Correct Spelling Automatically" = "맞춤법 자동 수정";
 "Substitutions" = "대체 보기";
-"Smart Quotes" = "스마트 인용";
-"Smart Dashes" = "스마트 대시";
-"Text Replacement" = "텍스트 대치";
+"Smart Quotes" = "자동 인용";
+"Smart Dashes" = "자동 대시";
+"Text Replacement" = "텍스트 바꾸기";
 "Speech" = "말하기";
 
 /* Paragraph Menu */
@@ -125,7 +125,7 @@
 "Footnotes" = "각주";
 "Horizontal Line" = "수평선";
 "Table of Contents" = "목차";
-"YAML Front Matter" = "YAML 말머리";
+"YAML Front Matter" = "YAML 머리말";
 
 /* Format Menu */
 "Format" = "서식";
@@ -147,7 +147,7 @@
 "View" = "보기";
 "New Tab" = "새 탭";
 "Source Code Mode" = "소스 코드 모드";
-"Focus Mode" = "포커스 모드";
+"Focus Mode" = "집중 모드";
 "Typewriter Mode" = "타자기 모드";
 "Toggle Sidebar" = "사이드바 토글";
 "Outline" = "개요";
@@ -208,7 +208,7 @@
 "Reveal in Finder" = "Finder에서 보기";
 "Open Link" = "링크 열기";
 "Reveal in Sidebar" = "사이드바에서 보기";
-"Open in New Window" = "새 윈도우에서 열기";
+"Open in New Window" = "새  창에서 열기";
 "Copy File Path" = "파일 경로 복사";
 "New File" = "새 파일";
 "Rename" = "이름 변경";
@@ -220,7 +220,7 @@
 "Math" = "수식";
 "Insert" = "삽입";
 "Inspect Element" = "요소 검사";
-"Copy to MS Word" = "MS Word로 복사";
+"Copy to MS Word" = "마이크로소프트 Word로 복사";
 "Paragraph (before)" = "본문 (앞)";
 "Paragraph (after)" = "본문 (뒤)";
 
@@ -231,7 +231,7 @@
 "Open Failed" = "열기 실패";
 "File or folder does not exist." = "파일이나 폴더가 존재하지 않습니다.";
 
-"Prettify Source Code" = "소스코드 이쁘게 하기";
+"Prettify Source Code" = "소스코드 정";
 "Copy '%@'" = "'%@' 복사";
 "Copy to %@" = "%@로 복사";
 "Copy Image to" = "다음으로 이미지 복사";
@@ -287,11 +287,11 @@
 "Selection" = "선택";
 "Start Speaking" = "말하기 시작";
 "Stop Speaking" = "말하기 중단";
-"Check Updates" = "업데이트 확인하기";
+"Check Updates" = "업데이트 확인";
 
 "HTML (without Styles)" = "HTML (without Styles)";
 
-"Highlight Current Header" = "현재 헤더 하이라이트";
+"Highlight Current Header" = "현재 제목 강조";
 "Expand All" = "전부 열기";
 "Collapse All" = "전부 닫기";
 "Collapsible Outline" = "개요 (접기 가능)";
@@ -321,8 +321,8 @@
 
 "Export Setting" = "내보내기 설정";
 
-"My License" = "내 라이선스";
-"Registration / Activation" = "등록 / 라이선스 활성화";
+"My License" = "내 라이센스";
+"Registration / Activation" = "등록 / 라이센스 활성화";
 
 "Select Paragraph / Block" = "문단/블록 선택";
 
@@ -348,8 +348,8 @@
 "Auto Indent Whole Code" = "전체 코드 자동 들여쓰기";
 "Jump to Line Start" = "줄 시작으로 이동";
 "Jump to Line End" = "줄 끝으로 이동";
-"Toggle Word Count Popover" = "단어수 팝오버 표시/숨기기";
-"Toggle Outline Popover" = "개요 팝오버 표시/숨기기";
+"Toggle Word Count Popover" = "단어 수 팝업 표시 토글";
+"Toggle Outline Popover" = "개요 팝업 토글";
 "Alert" = "알림";
 "Note Block" = "노트 블록";
 "Tip Block" = "팁 블록";

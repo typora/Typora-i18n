@@ -13,8 +13,8 @@
 
 /* General Panel */
 "General" = "일반";
-"Window Style" = "윈도우 스타일";
-"Classic" = "Classic";
+"Window Style" = "창 스타일";
+"Classic" = "클래식";
 "Seamless" = "Seamless";
 "Seamless window only support OS X later than 10.10." = "Seamless 윈도우 스타일은 OS X 10.10 이후부터 지원합니다.";
 "Themes" = "테마";
@@ -22,10 +22,10 @@
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "`도움말`->`빠른 시작`에서 짧은 설명을 확인해 주세요. http://theme.typora.io 를 방문하여 더 많은 테마와 지침을 확인하세요.";
 "Word Count" = "단어수 세기";
 "Always Show Word Count" = "항상 단어수 표시";
-"Font Size" = "서체 크기";
+"Font Size" = "폰트 크기";
 "Auto ( Recommended )" = "자동 ( 권장 )";
 "Customized" = "사용자 정의";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "사용자 정의 서체 크기를 사용하면 기본 서체 크기 및 CSS 스타일에 따라 실제 글씨 크기가 달라집니다.";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "사용자 정의 폰트 크기를 사용하면 기본 폰트 크기 및 CSS 스타일에 따라 실제 글씨 크기가 달라집니다.";
 "Left Panel" = "왼쪽 패널";
 "Show Outline Panel by Default" = "개요 패널 기본 표시";
 "Collapsible Outline on Left Panel" = "접을 수 있는 왼쪽 개 패널";
@@ -37,20 +37,20 @@
 /* Editor Panel */
 "Editor" = "에디터";
 "Indent Size on Save" = "저장 시 들여쓰기 크기";
-"only apply to quotes and lists created from menu bar or hybrid view" = "메뉴 막대나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
+"only apply to quotes and lists created from menu bar or hybrid view" = "상단 메뉴나 하이브리드 뷰에서 생성된 인용구나 목록에만 적용됩니다";
 "Trigger Autocomplete without ESC key for" = "ESC 키 없이 자동완성 적용:";
 "Emoji (e.g. :smile:)" = "이모티콘 (예시: :smile:)";
 "Images Insert" = "이미지 삽입";
 "Use relative path if possible" = "가능하다면 상대적 위치 사용";
-"Auto Pair" = "자동 페어";
-"Auto pair brackets and quotes" = "대괄호와 따옴표 자동 페어";
-"Auto pair common Markdown syntax" = "일반적인 Markdown 문법 자동 페어";
+"Auto Pair" = "자동 완성";
+"Auto pair brackets and quotes" = "대괄호와 따옴표 자동 완성";
+"Auto pair common Markdown syntax" = "일반적인 Markdown 문법 자동 완성";
 "Live Rendering" = "실시간 렌더링";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "선택시 심플 블록 (제목 등)\n의 소스 보이기";
 "Default Copy Behavior" = "복사시 기본 동작";
 "Copy Markdown source as plain text" = "마크다운 소스를 일반 텍스트로 복사";
 "Typewriter Mode" = "타자기 모드";
-"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "타자기 모드가 활성화되면\n탈자 부호가 항상 화면 가운데로 오게 됩니다.";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "타자기 모드가 활성화되면\n텍스트 커서가  항상 화면 가운데로 오게 됩니다.";
 
 /* Markdown Panel */
 "Markdown" = "마크다운";
@@ -86,12 +86,12 @@
 
 /* Pandoc Import Panel */
 "Importing..." = "가져오기...";
-"Importing in progress..." = "가져오기 작업 중...";
+"Importing in progress..." = "가져오는 중...";
 "Abort" = "중단";
 
 /* Pandoc Export Panel */
 "Exporting..." = "내보내기...";
-"Exporting in progress..." = "내보내기 작업 중...";
+"Exporting in progress..." = "내보내는 중...";
 "Converting file with Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 변환합니다. 이 작업은 약간의 시간이 소요됩니다.";
 
 /* Export & Import */
@@ -116,7 +116,7 @@
 "Exporting file using Pandoc. This may take some time." = "Pandoc를 이용하여 파일을 내보냅니다. 이 작업은 약간의 시간이 소요됩니다.";
 
 /* Upload via iPic */
-"Uploading in progress…" = "업로드 작업 중...";
+"Uploading in progress…" = "업로드 중...";
 "Do not show this again" = "다시 보지 않기";
 
 /* Word Count */
@@ -174,7 +174,7 @@
 "Create Folder and Continue" = "폴더 생성 후 계속";
 "Document must be saved first" = "문서를 먼저 저장해야 합니다";
 "Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora는 새로 삽입된 이미지를 상대적 위치로 선택된 폴더에 저장하므로 파일을 먼저 저장하세요.";
-"Open Operation Failed" = "열기 작업 실패";
+"Open Operation Failed" = "열기 실패";
 
 "Support Documentation" = "지원 문서";
 
@@ -188,7 +188,7 @@
 "Menu" = "메뉴";
 "Back" = "뒤로";
 
-"Contact" = "연락처";
+"Contact" = "문의";
 "Open From..." = "다음으로 열기...";
 "Import..." = "가져오기...";
 "Recent Documents" = "최근 문서";
@@ -211,7 +211,7 @@
 
 "Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "죄송합니다. 현재 버전의 Typora는 배경색을 인쇄하지 않습니다.\n따라서 다크 테마 인쇄를 아직 지원하지 않습니다. \n\n라이트 테마를 선택하거나 해당 문서를 PDF로 내보내주세요.";
 "Export to PDF" = "PDF로 내보내기";
-"Pretty indentation" = "이쁘게 들여쓰기";
+"Pretty indentation" = "정리 후 들여쓰기";
 "Update markdown reference for this image" = "이 이미지에 대하여 마크다운 참조하여 업데이트";
 
 

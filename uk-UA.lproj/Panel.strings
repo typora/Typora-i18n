@@ -541,3 +541,6 @@
 "Reload" = "Перезавантажити";
 
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Відредаговані файли будуть збережені без запиту при перемиканні файлів у лівій панелі. \nКоли \"Запитувати про збереження змін при закритті документів\" вимкнено в Системних налаштуваннях, це завжди увімкнено.";
+"Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
+"Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
+

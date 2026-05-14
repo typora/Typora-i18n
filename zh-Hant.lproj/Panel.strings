@@ -579,3 +579,6 @@
 "Enable autocomplete for Emojis" = "啟用顏文字自動完成";
 "Some settings will only apply after a reload" = "部分設定將在重新載入後生效";
 "Reload" = "重新載入";
+"Use legacy inline math parsing (compatible mode)" = "使用舊版行內數學式解析（相容模式）";
+"Use legacy inline math parsing hint" = "<div><b>關閉（預設）</b>：行內數學式規則接近 <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>：開頭的 <code>$</code> 右側不能是空白；結尾的 <code>$</code> 左側不能是空白（且其前一個字元不能是反斜線）；結尾的 <code>$</code> 後不能直接跟數字。</div><div><b>開啟（相容模式）</b>：使用舊版規則：從 <code>$</code> 到下一個 <code>$</code>，只要結尾 <code>$</code> 前一個字元不是 <code>\\</code> 即視為數學式（會辨識更多以美元符號分隔的片段）。</div><div>詳見 <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>。</div>";
+

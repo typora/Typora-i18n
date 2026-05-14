@@ -583,3 +583,6 @@
 "Path of PicGo binary" = "PicGo 可执行文件路径";
 "Some settings will only apply after a reload" = "部分设置将在重新加载后生效";
 "Reload" = "重新加载";
+"Use legacy inline math parsing (compatible mode)" = "使用旧版行内公式解析（兼容模式）";
+"Use legacy inline math parsing hint" = "<div><b>关闭（默认）</b>：行内公式规则接近 <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>：开头的 <code>$</code> 右侧不能是空白；结尾的 <code>$</code> 左侧不能是空白（且其前一个字符不能是反斜杠）；结尾的 <code>$</code> 后不能直接跟数字。</div><div><b>开启（兼容模式）</b>：使用旧版规则：从 <code>$</code> 到下一个 <code>$</code> 只要结尾 <code>$</code> 前一个字符不是 <code>\\</code> 即视为公式（会识别更多美元分隔片段）。</div><div>详见 <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>。</div>";
+

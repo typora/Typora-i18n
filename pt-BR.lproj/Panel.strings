@@ -575,3 +575,6 @@
 "Enable autocomplete for Emojis" = "Ativar autocompletar para Emojis";
 "Some settings will only apply after a reload" = "Algumas configurações só serão aplicadas após recarregar";
 "Reload" = "Recarregar";
+"Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
+"Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
+

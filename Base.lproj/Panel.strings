@@ -184,6 +184,8 @@
 "All Supported Formats" = "All Supported Formats";
 "Discard Changes" = "Discard Changes";
 "Discard" = "Discard";
+"Enter Without Saving" = "Enter Without Saving";
+"You have unsaved changes. Do you want to save them before entering Read-Only Mode ?" = "You have unsaved changes. Do you want to save them before entering Read-Only Mode ?";
 
 "Menu" = "Menu";
 "Back" = "Back";

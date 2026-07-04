@@ -23,6 +23,7 @@
 "Open" = "Aç";
 "Open Folder" = "Klasörü Aç";
 "Reopen with Encoding" = "Şifreleme ile Yeniden Aç";
+"Reload from Disk" = "Diskten Yeniden Yükle";
 "Auto" = "Otomatik";
 "Open Recent" = "Son Açılanları Aç";
 "Recent Locations" = "Son Konumlar";
@@ -148,6 +149,7 @@
 "View" = "Görünüm";
 "New Tab" = "Yeni Sekme";
 "Source Code Mode" = "Kaynak Kodu Modu";
+"Readonly Mode" = "Salt Okunur Mod";
 "Focus Mode" = "Odak Modu";
 "Typewriter Mode" = "Daktilo Modu";
 "Toggle Sidebar" = "Kenar Çubuğunu Aç/Kapat";
@@ -156,7 +158,11 @@
 "File Tree" = "Dosya Ağacı";
 "Always on Top" = "Her Zaman En Yukarıda Tut";
 "Full Screen" = "Tam Ekran";
-"Show Status Bar" = "Durum Çubuğunu Göster";
+"Show Status Bar" = "Durum Çubuğu";
+"Toolbar" = "Araç Çubuğu";
+"Hide Toolbar" = "Araç Çubuğunu Gizle";
+"Toolbar hidden, reopen from {0}" = "Araç çubuğu gizlendi; {0} ile yeniden açın";
+"Delete Block" = "Öbeği Sil";
 "Toggle Fullscreen" = "Tam Ekran Aç/Kapat";
 "Actual Size" = "Gerçek Boyut";
 "Zoom In" = "Yakınlaştır";

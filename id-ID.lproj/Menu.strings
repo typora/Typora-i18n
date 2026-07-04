@@ -38,6 +38,7 @@
 "Open" = "Buka";
 "Open Folder" = "Buka Folder";
 "Reopen with Encoding" = "Buka Kembali dengan Pengkodean"; /* Standard word is `pengkodean`, not `pengodean`. See <https://kbbi.kemdikbud.go.id/entri/pengkodean> */
+"Reload from Disk" = "Muat Ulang dari Diska";
 "Auto" = "Oto";
 "Open Recent" = "Buka Terkini";
 "Recent Locations" = "Lokasi Terkini";
@@ -164,6 +165,7 @@
 "View" = "Tinjau";
 "New Tab" = "Bilah Baru";
 "Source Code Mode" = "Mode Kode Sumber";
+"Readonly Mode" = "Mode Hanya-Baca";
 "Focus Mode" = "Mode Fokus";
 "Typewriter Mode" = "Mode Mesin Tik";
 "Toggle Sidebar" = "(Non-)aktifkan Bilahsisi";
@@ -172,7 +174,11 @@
 "File Tree" = "Pohon Fail";
 "Always on Top" = "Selalu di Atas";
 "Full Screen" = "Layar Penuh";
-"Show Status Bar" = "Munculkan Bilah Status";
+"Show Status Bar" = "Bilah Status";
+"Toolbar" = "Bilah Alat";
+"Hide Toolbar" = "Sembunyikan Bilah Alat";
+"Toolbar hidden, reopen from {0}" = "Bilah alat disembunyikan; buka lagi dari {0}";
+"Delete Block" = "Hapus Blok";
 "Toggle Fullscreen" = "(Non-)aktifkan Layar Penuh";
 "Actual Size" = "Ukuran Aktual";
 "Zoom In" = "Zum (ke) Dalam";

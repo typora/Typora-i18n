@@ -24,6 +24,7 @@
 "Open" = "Deschide";
 "Open Folder" = "Deschide Folder";
 "Reopen with Encoding" = "Redeschide cu Codificare";
+"Reload from Disk" = "Reîncarcă de pe Disc";
 "Auto" = "Auto";
 "Open Recent" = "Deschide Recente";
 "Recent Locations" = "Locații Recente";
@@ -145,6 +146,7 @@
 "View" = "Vizualizare";
 "New Tab" = "Filă Nouă";
 "Source Code Mode" = "Vizualizează Cod Sursă";
+"Readonly Mode" = "Mod Doar Citire";
 "Focus Mode" = "Mod Focalizare";
 "Typewriter Mode" = "Mod Mașină de Scris";
 "Toggle Sidebar" = "Comutare Bara Laterală";
@@ -153,7 +155,11 @@
 "File Tree" = "Arbore Fișiere";
 "Always on Top" = "Întotdeauna În Față";
 "Full Screen" = "Ecran Complet";
-"Show Status Bar" = "Afișare Bară de Stare";
+"Show Status Bar" = "Bară de Stare";
+"Toolbar" = "Bară de Instrumente";
+"Hide Toolbar" = "Ascunde Bara de Instrumente";
+"Toolbar hidden, reopen from {0}" = "Bara de instrumente este ascunsă; redeschide-o din {0}";
+"Delete Block" = "Șterge Bloc";
 "Toggle Fullscreen" = "Comutare Ecran Complet";
 "Actual Size" = "Dimensiune Efectivă";
 "Zoom In" = "Mărește";

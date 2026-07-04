@@ -28,6 +28,7 @@ Thai translated by
 "Open" = "เปิด";
 "Open Folder" = "เปิดโฟลเดอร์";
 "Reopen with Encoding" = "เปิดอีกครั้งด้วยการเข้ารหัส";
+"Reload from Disk" = "โหลดใหม่จากดิสก์";
 "Auto" = "อัตโนมัติ";
 "Open Recent" = "เปิดไฟล์ล่าสุด";
 "Recent Locations" = "สถานที่ล่าสุด";
@@ -149,6 +150,7 @@ Thai translated by
 "View" = "มุมมอง";
 "New Tab" = "แท็บใหม่";
 "Source Code Mode" = "โหมดซอร์สโค้ด";
+"Readonly Mode" = "โหมดอ่านอย่างเดียว";
 "Focus Mode" = "โหมดโฟกัส";
 "Typewriter Mode" = "โหมดเครื่องพิมพ์ดีด";
 "Toggle Sidebar" = "สลับแถบข้าง";
@@ -157,7 +159,11 @@ Thai translated by
 "File Tree" = "โครงสร้างไฟล์";
 "Always on Top" = "อยู่บนสุดเสมอ";
 "Full Screen" = "เต็มหน้าจอ";
-"Show Status Bar" = "แสดงแถบสถานะ";
+"Show Status Bar" = "แถบสถานะ";
+"Toolbar" = "แถบเครื่องมือ";
+"Hide Toolbar" = "ซ่อนแถบเครื่องมือ";
+"Toolbar hidden, reopen from {0}" = "ซ่อนแถบเครื่องมือแล้ว เปิดอีกครั้งจาก {0}";
+"Delete Block" = "ลบบล็อก";
 "Toggle Fullscreen" = "สลับเต็มหน้าจอ";
 "Actual Size" = "ขนาดจริง";
 "Zoom In" = "ขยาย";

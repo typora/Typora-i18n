@@ -556,3 +556,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "شجرة الملفات / مكتبة الملفات";
+"Choose which files appear in the file tree and file library." = "اختر الملفات التي تظهر في شجرة الملفات ومكتبة الملفات.";
+"Show hidden folders / files" = "إظهار المجلدات / الملفات المخفية";
+"File Tree" = "شجرة الملفات";
+"File Library" = "مكتبة الملفات";
+"Supported Files (Markdown & Plain Text)" = "الملفات المدعومة (Markdown ونص عادي)";
+"Configure" = "تهيئة";
+"File Tree — Custom Patterns" = "شجرة الملفات — أنماط مخصصة";
+"File Library — Custom Patterns" = "مكتبة الملفات — أنماط مخصصة";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "أضف أنماط glob لاختيار الملفات التي تظهر. ابدأ النمط بـ \"!\" للاستبعاد. مثال: *.csv أو !**/draft-*.md";
+"Markdown and text files" = "ملفات Markdown والنصوص";
+"Add Pattern" = "إضافة نمط";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "مُضمَّن افتراضيًا. لاستبعاد بعض الصيغ، استخدم نمط \"!\".";

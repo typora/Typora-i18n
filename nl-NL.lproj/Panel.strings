@@ -539,3 +539,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Bestandsboom / Bestandsbibliotheek";
+"Choose which files appear in the file tree and file library." = "Kies welke bestanden verschijnen in de bestandsboom en de bestandsbibliotheek.";
+"Show hidden folders / files" = "Verborgen mappen / bestanden tonen";
+"File Tree" = "Bestandsboom";
+"File Library" = "Bestandsbibliotheek";
+"Supported Files (Markdown & Plain Text)" = "Ondersteunde bestanden (Markdown en platte tekst)";
+"Configure" = "Configureren";
+"File Tree — Custom Patterns" = "Bestandsboom — Aangepaste patronen";
+"File Library — Custom Patterns" = "Bestandsbibliotheek — Aangepaste patronen";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Voeg glob-patronen toe om te kiezen welke bestanden worden getoond. Begin een patroon met \"!\" om uit te sluiten. Voorbeeld: *.csv of !**/draft-*.md";
+"Markdown and text files" = "Markdown- en tekstbestanden";
+"Add Pattern" = "Patroon toevoegen";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Standaard inbegrepen. Gebruik een \"!\"-patroon om bepaalde formaten uit te sluiten.";

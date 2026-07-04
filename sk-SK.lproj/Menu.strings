@@ -25,6 +25,7 @@
 "Open" = "Otvoriť";
 "Open Folder" = "Otvoriť priečinok";
 "Reopen with Encoding" = "Otvoriť s kódovaním";
+"Reload from Disk" = "Znovu načítať z disku";
 "Auto" = "Auto";
 "Open Recent" = "Otvoriť nedávne";
 "Recent Locations" = "Nedávne umiestnenie";
@@ -150,6 +151,7 @@
 "View" = "Zobrazenie";
 "New Tab" = "Nová karta";
 "Source Code Mode" = "Režim zdrojového kódu";
+"Readonly Mode" = "Režim iba na čítanie";
 "Focus Mode" = "Režim zamerania";
 "Typewriter Mode" = "Režim písacieho stroja";
 "Toggle Sidebar" = "Prepnúť bočný panel";
@@ -158,7 +160,11 @@
 "File Tree" = "Strom súborov";
 "Always on Top" = "Vždy navrchu";
 "Full Screen" = "Režim celej obrazovky";
-"Show Status Bar" = "Zobraziť stavový riadok";
+"Show Status Bar" = "Stavový riadok";
+"Toolbar" = "Panel nástrojov";
+"Hide Toolbar" = "Skryť panel nástrojov";
+"Toolbar hidden, reopen from {0}" = "Panel nástrojov skrytý; znova ho otvorte z {0}";
+"Delete Block" = "Vymazať blok";
 "Toggle Fullscreen" = "Prepnúť režim celej obrazovky";
 "Actual Size" = "Skutočná veľkosť";
 "Zoom In" = "Priblížiť";

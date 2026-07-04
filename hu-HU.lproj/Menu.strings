@@ -23,6 +23,7 @@
 "Open" = "Megnyitás";
 "Open Folder" = "Mappa megnyitása";
 "Reopen with Encoding" = "Megnyitás más kódolással";
+"Reload from Disk" = "Újratöltés lemezről";
 "Auto" = "Automatikus";
 "Open Recent" = "Előzmények";
 "Recent Locations" = "Legutóbbi helyek";
@@ -144,6 +145,7 @@
 "View" = "Nézet";
 "New Tab" = "Új fül";
 "Source Code Mode" = "Forráskód nézet";
+"Readonly Mode" = "Csak olvasható mód";
 "Focus Mode" = "Fókuszált nézet";
 "Typewriter Mode" = "Írógép nézet";
 "Toggle Sidebar" = "Oldalsáv ki/be";
@@ -152,7 +154,11 @@
 "File Tree" = "Fanézet";
 "Always on Top" = "Mindig felül";
 "Full Screen" = "Teljes képernyő";
-"Show Status Bar" = "Állapotsor mutatása";
+"Show Status Bar" = "Állapotsor";
+"Toolbar" = "Eszköztár";
+"Hide Toolbar" = "Eszköztár elrejtése";
+"Toolbar hidden, reopen from {0}" = "Eszköztár elrejtve; nyissa meg újra innen: {0}";
+"Delete Block" = "Doboz törlése";
 "Toggle Fullscreen" = "Teljes képernyő ki/be";
 "Actual Size" = "Tényleges méret";
 "Zoom In" = "Nagyít";

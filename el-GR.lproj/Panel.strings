@@ -538,3 +538,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Δενδροδιάγραμμα / Βιβλιοθήκη αρχείων";
+"Choose which files appear in the file tree and file library." = "Επιλέξτε ποια αρχεία εμφανίζονται στο δενδροδιάγραμμα και στη βιβλιοθήκη αρχείων.";
+"Show hidden folders / files" = "Εμφάνιση κρυφών φακέλων / αρχείων";
+"File Tree" = "Δενδροδιάγραμμα";
+"File Library" = "Βιβλιοθήκη αρχείων";
+"Supported Files (Markdown & Plain Text)" = "Υποστηριζόμενα αρχεία (Markdown και απλό κείμενο)";
+"Configure" = "Διαμόρφωση";
+"File Tree — Custom Patterns" = "Δενδροδιάγραμμα — Προσαρμοσμένα μοτίβα";
+"File Library — Custom Patterns" = "Βιβλιοθήκη αρχείων — Προσαρμοσμένα μοτίβα";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Προσθέστε μοτίβα glob για να επιλέξετε ποια αρχεία εμφανίζονται. Ξεκινήστε ένα μοτίβο με \"!\" για εξαίρεση. Παράδειγμα: *.csv ή !**/draft-*.md";
+"Markdown and text files" = "Αρχεία Markdown και κειμένου";
+"Add Pattern" = "Προσθήκη μοτίβου";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Περιλαμβάνεται από προεπιλογή. Για να εξαιρέσετε ορισμένες μορφές, χρησιμοποιήστε ένα μοτίβο \"!\".";

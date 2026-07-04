@@ -530,3 +530,17 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Árvore de Ficheiros / Biblioteca de Ficheiros";
+"Choose which files appear in the file tree and file library." = "Escolha que ficheiros aparecem na árvore de ficheiros e na biblioteca de ficheiros.";
+"Show hidden folders / files" = "Mostrar pastas / ficheiros ocultos";
+"File Tree" = "Árvore de Ficheiros";
+"File Library" = "Biblioteca de Ficheiros";
+"Supported Files (Markdown & Plain Text)" = "Ficheiros Suportados (Markdown e Texto Simples)";
+"Configure" = "Configurar";
+"File Tree — Custom Patterns" = "Árvore de Ficheiros — Padrões Personalizados";
+"File Library — Custom Patterns" = "Biblioteca de Ficheiros — Padrões Personalizados";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Adicione padrões glob para escolher que ficheiros são apresentados. Inicie um padrão com \"!\" para excluir. Exemplo: *.csv ou !**/draft-*.md";
+"Markdown and text files" = "Ficheiros Markdown e de texto";
+"Add Pattern" = "Adicionar Padrão";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Incluído por predefinição. Para excluir alguns formatos, use um padrão \"!\".";

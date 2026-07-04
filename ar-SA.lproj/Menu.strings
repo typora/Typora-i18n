@@ -24,6 +24,7 @@
 "Open" = "فتح";
 "Open Folder" = "فتح مجلد";
 "Reopen with Encoding" = "إعادة فتح مع الترميز";
+"Reload from Disk" = "إعادة التحميل من القرص";
 "Auto" = "تلقائي";
 "Open Recent" = "فتح أحدث الملفات";
 "Recent Locations" = "أحدث المسارات";
@@ -149,6 +150,7 @@
 "View" = "عرض";
 "New Tab" = "نافذة جديدة";
 "Source Code Mode" = "وضع النص المصدري";
+"Readonly Mode" = "وضع القراءة فقط";
 "Focus Mode" = "وضع التركيز";
 "Typewriter Mode" = "وضع الآلة الكاتبة";
 "Toggle Sidebar" = "إخفاء وإظهار الشريط الجانبي";
@@ -157,7 +159,11 @@
 "File Tree" = "شجرة الملفات";
 "Always on Top" = "دائمًا في الأعلى";
 "Full Screen" = "كامل الشاشة";
-"Show Status Bar" = "إظهار شريط الحالة";
+"Show Status Bar" = "شريط الحالة";
+"Toolbar" = "شريط الأدوات";
+"Hide Toolbar" = "إخفاء شريط الأدوات";
+"Toolbar hidden, reopen from {0}" = "تم إخفاء شريط الأدوات، أعد فتحه من {0}";
+"Delete Block" = "حذف القالب";
 "Toggle Fullscreen" = "تبديل كامل الشاشة";
 "Actual Size" = "الحجم الحقيقي";
 "Zoom In" = "تكبير";

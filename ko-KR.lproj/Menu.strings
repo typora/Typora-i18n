@@ -26,6 +26,7 @@
 "Open" = "열기";
 "Open Folder" = "폴더 열기";
 "Reopen with Encoding" = "인코딩 선택하고 다시 열기";
+"Reload from Disk" = "디스크에서 다시 불러오기";
 "Auto" = "자동";
 "Open Recent" = "최근 파일";
 "Recent Locations" = "최근 위치";
@@ -147,6 +148,7 @@
 "View" = "보기";
 "New Tab" = "새 탭";
 "Source Code Mode" = "소스 코드 모드";
+"Readonly Mode" = "읽기 전용 모드";
 "Focus Mode" = "포커스 모드";
 "Typewriter Mode" = "타자기 모드";
 "Toggle Sidebar" = "사이드바 토글";
@@ -155,7 +157,11 @@
 "File Tree" = "파일 트리";
 "Always on Top" = "항상 위에";
 "Full Screen" = "전체 화면";
-"Show Status Bar" = "상태바 토글";
+"Show Status Bar" = "상태바";
+"Toolbar" = "도구 모음";
+"Hide Toolbar" = "도구 모음 가리기";
+"Toolbar hidden, reopen from {0}" = "도구 모음을 숨겼습니다. {0}에서 다시 열 수 있습니다";
+"Delete Block" = "블록 삭제";
 "Toggle Fullscreen" = "전체 화면 토글";
 "Actual Size" = "실제 크기";
 "Zoom In" = "확대";

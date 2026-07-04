@@ -581,3 +581,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Fil-tre / Filbibliotek";
+"Choose which files appear in the file tree and file library." = "Vel kva filer som blir viste i fil-treet og filbiblioteket.";
+"Show hidden folders / files" = "Vis gøymde mapper / filer";
+"File Tree" = "Fil-tre";
+"File Library" = "Filbibliotek";
+"Supported Files (Markdown & Plain Text)" = "Støtta filer (Markdown og rein tekst)";
+"Configure" = "Konfigurer";
+"File Tree — Custom Patterns" = "Fil-tre — Tilpassa mønster";
+"File Library — Custom Patterns" = "Filbibliotek — Tilpassa mønster";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Legg til glob-mønster for å velje kva filer som blir viste. Byrj eit mønster med \"!\" for å ekskludere. Døme: *.csv eller !**/draft-*.md";
+"Markdown and text files" = "Markdown- og tekstfiler";
+"Add Pattern" = "Legg til mønster";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Inkludert som standard. Bruk eit \"!\"-mønster for å ekskludere enkelte format.";

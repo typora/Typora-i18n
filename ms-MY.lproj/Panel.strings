@@ -560,3 +560,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Hierarki Fail / Pustaka Fail";
+"Choose which files appear in the file tree and file library." = "Pilih fail yang dipaparkan dalam hierarki fail dan pustaka fail.";
+"Show hidden folders / files" = "Tunjukkan folder / fail tersembunyi";
+"File Tree" = "Hierarki Fail";
+"File Library" = "Pustaka Fail";
+"Supported Files (Markdown & Plain Text)" = "Fail Disokong (Markdown & Teks Biasa)";
+"Configure" = "Konfigur";
+"File Tree — Custom Patterns" = "Hierarki Fail — Corak Khas";
+"File Library — Custom Patterns" = "Pustaka Fail — Corak Khas";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Tambah corak glob untuk memilih fail yang dipaparkan. Mulakan corak dengan \"!\" untuk mengecualikan. Contoh: *.csv atau !**/draft-*.md";
+"Markdown and text files" = "Fail Markdown dan teks";
+"Add Pattern" = "Tambah Corak";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Disertakan secara lalai. Untuk mengecualikan sesetengah format, gunakan corak \"!\".";

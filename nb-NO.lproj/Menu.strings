@@ -23,6 +23,7 @@
 "Open" = "Åpne";
 "Open Folder" = "Åpne mappe";
 "Reopen with Encoding" = "Apne med kode";
+"Reload from Disk" = "Last inn på nytt fra disk";
 "Auto" = "Auto";
 "Open Recent" = "Åpne nylig";
 "Recent Locations" = "Nylige lokasjoner";
@@ -144,6 +145,7 @@
 "View" = "Vis";
 "New Tab" = "Ny fane";
 "Source Code Mode" = "Kildekode-modus";
+"Readonly Mode" = "Skrivebeskyttet modus";
 "Focus Mode" = "Fokus modus";
 "Typewriter Mode" = "Skrivemaskin modus";
 "Toggle Sidebar" = "Vis/skjul sidebaren";
@@ -152,7 +154,11 @@
 "File Tree" = "Fil-tre";
 "Always on Top" = "Alltid på topp";
 "Full Screen" = "Fullskjerm";
-"Show Status Bar" = "Vis statusbar";
+"Show Status Bar" = "Statusbar";
+"Toolbar" = "Verktøylinje";
+"Hide Toolbar" = "Skjul verktøylinje";
+"Toolbar hidden, reopen from {0}" = "Verktøylinjen er skjult; åpne den igjen fra {0}";
+"Delete Block" = "Slett blokk";
 "Toggle Fullscreen" = "På/av fullskjerm";
 "Actual Size" = "Faktisk størrelse";
 "Zoom In" = "Forstørr";

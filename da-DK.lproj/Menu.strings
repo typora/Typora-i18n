@@ -25,6 +25,7 @@
 "Open" = "Åben";
 "Open Folder" = "Åben mappe";
 "Reopen with Encoding" = "Genåben med tegnsæt";
+"Reload from Disk" = "Genindlæs fra disken";
 "Auto" = "Auto";
 "Open Recent" = "Åben seneste";
 "Recent Locations" = "Seneste placeringer";
@@ -150,6 +151,7 @@
 "View" = "Visning";
 "New Tab" = "Ny fane";
 "Source Code Mode" = "Kildekodevisning";
+"Readonly Mode" = "Skrivebeskyttet tilstand";
 "Focus Mode" = "Fokusvisning";
 "Typewriter Mode" = "Skrivemaskinevisning";
 "Toggle Sidebar" = "Vis/skjul sidepanel";
@@ -158,7 +160,11 @@
 "File Tree" = "Filoversigt";
 "Always on Top" = "Altid øverst";
 "Full Screen" = "Fuldskærm";
-"Show Status Bar" = "Vis statuslinje";
+"Show Status Bar" = "Statuslinje";
+"Toolbar" = "Værktøjslinje";
+"Hide Toolbar" = "Skjul værktøjslinje";
+"Toolbar hidden, reopen from {0}" = "Værktøjslinje skjult; åbn den igen fra {0}";
+"Delete Block" = "Slet blok";
 "Toggle Fullscreen" = "Vis/skjul fuldskærm";
 "Actual Size" = "Faktisk størrelse";
 "Zoom In" = "Zoom ind";

@@ -23,6 +23,7 @@
 "Open" = "Открыть";
 "Open Folder" = "Открыть папку";
 "Reopen with Encoding" = "Открыть в другой кодировке";
+"Reload from Disk" = "Перезагрузить с диска";
 "Auto" = "Auto";
 "Open Recent" = "Недавние документы";
 "Recent Locations" = "Недавние расположения";
@@ -144,6 +145,7 @@
 "View" = "Вид";
 "New Tab" = "Новая вкладка";
 "Source Code Mode" = "Режим просмотра исходного кода";
+"Readonly Mode" = "Режим только для чтения";
 "Focus Mode" = "Режим фокусировки";
 "Typewriter Mode" = "Режим печатной машинки";
 "Toggle Sidebar" = "Переключить боковую панель";
@@ -152,7 +154,11 @@
 "File Tree" = "Дерево файлов";
 "Always on Top" = "Поверх всех окон";
 "Full Screen" = "Во весь экран";
-"Show Status Bar" = "Показать строку состояния";
+"Show Status Bar" = "Строка состояния";
+"Toolbar" = "Панель инструментов";
+"Hide Toolbar" = "Скрыть панель инструментов";
+"Toolbar hidden, reopen from {0}" = "Панель инструментов скрыта; откройте её снова из {0}";
+"Delete Block" = "Удалить блок";
 "Toggle Fullscreen" = "Переключить полный экран";
 "Actual Size" = "Реальный размер";
 "Zoom In" = "Приблизить";

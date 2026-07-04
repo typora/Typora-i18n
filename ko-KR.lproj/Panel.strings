@@ -571,3 +571,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "파일 트리 / 파일 라이브러리";
+"Choose which files appear in the file tree and file library." = "파일 트리와 파일 라이브러리에 표시할 파일을 선택합니다.";
+"Show hidden folders / files" = "숨긴 폴더 / 파일 표시";
+"File Tree" = "파일 트리";
+"File Library" = "파일 라이브러리";
+"Supported Files (Markdown & Plain Text)" = "지원되는 파일 (Markdown 및 일반 텍스트)";
+"Configure" = "구성";
+"File Tree — Custom Patterns" = "파일 트리 — 사용자 지정 패턴";
+"File Library — Custom Patterns" = "파일 라이브러리 — 사용자 지정 패턴";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "표시할 파일을 선택하도록 glob 패턴을 추가하세요. 제외하려면 패턴 앞에 \"!\"를 붙이세요. 예: *.csv 또는 !**/draft-*.md";
+"Markdown and text files" = "Markdown 및 텍스트 파일";
+"Add Pattern" = "패턴 추가";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "기본적으로 포함됩니다. 일부 형식을 제외하려면 \"!\" 패턴을 사용하세요.";

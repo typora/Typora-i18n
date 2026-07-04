@@ -539,3 +539,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Stablo datoteka / Biblioteka datoteka";
+"Choose which files appear in the file tree and file library." = "Odaberite koje se datoteke prikazuju u stablu datoteka i biblioteci datoteka.";
+"Show hidden folders / files" = "Prikaži skrivene mape / datoteke";
+"File Tree" = "Stablo datoteka";
+"File Library" = "Biblioteka datoteka";
+"Supported Files (Markdown & Plain Text)" = "Podržane datoteke (Markdown i obični tekst)";
+"Configure" = "Konfiguriraj";
+"File Tree — Custom Patterns" = "Stablo datoteka — Prilagođeni uzorci";
+"File Library — Custom Patterns" = "Biblioteka datoteka — Prilagođeni uzorci";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Dodajte glob uzorke za odabir datoteka koje se prikazuju. Započnite uzorak s \"!\" za isključivanje. Primjer: *.csv ili !**/draft-*.md";
+"Markdown and text files" = "Markdown i tekstualne datoteke";
+"Add Pattern" = "Dodaj uzorak";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Uključeno prema zadanim postavkama. Za isključivanje nekih formata upotrijebite uzorak \"!\".";

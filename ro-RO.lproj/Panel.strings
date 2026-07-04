@@ -554,3 +554,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Arbore Fișiere / Bibliotecă Fișiere";
+"Choose which files appear in the file tree and file library." = "Alege ce fișiere apar în arborele de fișiere și în biblioteca de fișiere.";
+"Show hidden folders / files" = "Arată folderele / fișierele ascunse";
+"File Tree" = "Arbore Fișiere";
+"File Library" = "Bibliotecă Fișiere";
+"Supported Files (Markdown & Plain Text)" = "Fișiere acceptate (Markdown și text simplu)";
+"Configure" = "Configurează";
+"File Tree — Custom Patterns" = "Arbore Fișiere — Modele particularizate";
+"File Library — Custom Patterns" = "Bibliotecă Fișiere — Modele particularizate";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Adaugă modele glob pentru a alege ce fișiere sunt afișate. Începe un model cu \"!\" pentru a-l exclude. Exemplu: *.csv sau !**/draft-*.md";
+"Markdown and text files" = "Fișiere Markdown și text";
+"Add Pattern" = "Adaugă model";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Inclus în mod implicit. Pentru a exclude anumite formate, folosește un model \"!\".";

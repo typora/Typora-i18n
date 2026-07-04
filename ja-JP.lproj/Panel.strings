@@ -586,3 +586,17 @@ Japanese translated by
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "ファイルツリー / ファイルライブラリ";
+"Choose which files appear in the file tree and file library." = "ファイルツリーとファイルライブラリに表示するファイルを選択します。";
+"Show hidden folders / files" = "隠しフォルダー / ファイルを表示";
+"File Tree" = "ファイルツリー";
+"File Library" = "ファイルライブラリ";
+"Supported Files (Markdown & Plain Text)" = "対応ファイル（Markdown とプレーンテキスト）";
+"Configure" = "設定";
+"File Tree — Custom Patterns" = "ファイルツリー — カスタムパターン";
+"File Library — Custom Patterns" = "ファイルライブラリ — カスタムパターン";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "表示するファイルを選ぶ glob パターンを追加します。除外するにはパターンの先頭に \"!\" を付けます。例: *.csv または !**/draft-*.md";
+"Markdown and text files" = "Markdown およびテキストファイル";
+"Add Pattern" = "パターンを追加";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "デフォルトで含まれます。一部の形式を除外するには \"!\" パターンを使用します。";

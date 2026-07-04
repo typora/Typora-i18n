@@ -24,6 +24,7 @@
 "Open" = "Άνοιγμα";
 "Open Folder" = "'Άνοιγμα Φακέλου";
 "Reopen with Encoding" = "Άνοιγμα ξανά με Κωδικοποίηση";
+"Reload from Disk" = "Επαναφόρτωση από τον δίσκο";
 "Auto" = "Αυτόματο";
 "Open Recent" = "Άνοιγμα Προσφάτων";
 "Recent Locations" = "Πρόσφατες Τοποθεσίες";
@@ -149,6 +150,7 @@
 "View" = "Προβολή";
 "New Tab" = "Νέα Καρτέλα";
 "Source Code Mode" = "Λειτουργία Πηγαίου Κώδικα";
+"Readonly Mode" = "Λειτουργία μόνο για ανάγνωση";
 "Focus Mode" = "Λειτουργία Focus";
 "Typewriter Mode" = "Λειτουργία Γραφομηχανής";
 "Toggle Sidebar" = "Εναλλαγή Πλευρικής Μπάρας";
@@ -157,7 +159,11 @@
 "File Tree" = "Δενδροδιάγραμμα";
 "Always on Top" = "Πάντα στην Κορυφή";
 "Full Screen" = "Πλήρης Οθόνη";
-"Show Status Bar" = "Εμφάνιση Μπάρας Κατάστασης";
+"Show Status Bar" = "Μπάρα Κατάστασης";
+"Toolbar" = "Γραμμή εργαλείων";
+"Hide Toolbar" = "Απόκρυψη γραμμής εργαλείων";
+"Toolbar hidden, reopen from {0}" = "Η γραμμή εργαλείων αποκρύφτηκε· ανοίξτε την ξανά από {0}";
+"Delete Block" = "Διαγραφή Μπλοκ";
 "Toggle Fullscreen" = "Εναλλαγή Πλήρης Οθόνης";
 "Actual Size" = "Πραγματικό Μέγεθος";
 "Zoom In" = "Μεγέθυνση";

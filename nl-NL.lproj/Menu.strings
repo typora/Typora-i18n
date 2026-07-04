@@ -26,6 +26,7 @@
 "Open" = "Openen";
 "Open Folder" = "Open map";
 "Reopen with Encoding" = "Heropen met codering";
+"Reload from Disk" = "Herladen vanaf schijf";
 "Auto" = "Automatisch";
 "Open Recent" = "Open recent";
 "Recent Locations" = "Recente locaties";
@@ -151,6 +152,7 @@
 "View" = "Weergave";
 "New Tab" = "Nieuw tabblad";
 "Source Code Mode" = "Broncode-modus";
+"Readonly Mode" = "Alleen-lezen-modus";
 "Focus Mode" = "Focus-modus";
 "Typewriter Mode" = "Typemachine-modus";
 "Toggle Sidebar" = "Open/sluit zijbalk";
@@ -159,7 +161,11 @@
 "File Tree" = "Bestandsboom";
 "Always on Top" = "Altijd bovenste venster";
 "Full Screen" = "Volledig scherm";
-"Show Status Bar" = "Toon statusbalk";
+"Show Status Bar" = "Statusbalk";
+"Toolbar" = "Werkbalk";
+"Hide Toolbar" = "Verberg werkbalk";
+"Toolbar hidden, reopen from {0}" = "Werkbalk verborgen; open opnieuw via {0}";
+"Delete Block" = "Blok verwijderen";
 "Toggle Fullscreen" = "Schakel volledig scherm in/uit";
 "Actual Size" = "Werkelijke grootte";
 "Zoom In" = "Inzoomen";

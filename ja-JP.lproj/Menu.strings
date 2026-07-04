@@ -30,6 +30,7 @@ Japanese translated by
 "Open" = "開く";
 "Open Folder" = "フォルダを開く";
 "Reopen with Encoding" = "文字コードを指定して開く";
+"Reload from Disk" = "ディスクから再読み込み";
 "Auto" = "自動判定";
 "Open Recent" = "最近使ったファイル";
 "Recent Locations" = "最近開いた場所";
@@ -155,6 +156,7 @@ Japanese translated by
 "View" = "表示";
 "New Tab" = "新しいタブ";
 "Source Code Mode" = "ソースコードモード";
+"Readonly Mode" = "読み取り専用モード";
 "Focus Mode" = "フォーカスモード";
 "Typewriter Mode" = "タイプライターモード";
 "Toggle Sidebar" = "サイドバー表示切替";
@@ -163,7 +165,11 @@ Japanese translated by
 "File Tree" = "ファイルツリー";
 "Always on Top" = "常に全面に表示";
 "Full Screen" = "フルスクリーン";
-"Show Status Bar" = "ステータスバーを表示";
+"Show Status Bar" = "ステータスバー";
+"Toolbar" = "ツールバー";
+"Hide Toolbar" = "ツールバーを隠す";
+"Toolbar hidden, reopen from {0}" = "ツールバーを非表示にしました。{0} から再表示できます";
+"Delete Block" = "ブロックを削除";
 "Toggle Fullscreen" = "フルスクリーン表示切替";
 "Actual Size" = "実寸";
 "Zoom In" = "ズームイン";

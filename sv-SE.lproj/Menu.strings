@@ -29,6 +29,7 @@
 "Open" = "Öppna";
 "Open Folder" = "Öppna mapp";
 "Reopen with Encoding" = "Öppna igen med kodning";
+"Reload from Disk" = "Ladda om från disk";
 "Auto" = "Automatisk";
 "Open Recent" = "Öppna tidigare";
 "Recent Locations" = "Tidigare platser";
@@ -154,6 +155,7 @@
 "View" = "Innehåll";
 "New Tab" = "Ny flik";
 "Source Code Mode" = "Källkodsläge";
+"Readonly Mode" = "Skrivskyddat läge";
 "Focus Mode" = "Fokusläge";
 "Typewriter Mode" = "Skrivmaskinsläge";
 "Toggle Sidebar" = "Växla sidofält";
@@ -162,7 +164,11 @@
 "File Tree" = "Filträd";
 "Always on Top" = "Alltid överst";
 "Full Screen" = "Fullskärm";
-"Show Status Bar" = "Visa statusraden";
+"Show Status Bar" = "Statusraden";
+"Toolbar" = "Verktygsfält";
+"Hide Toolbar" = "Göm verktygsfält";
+"Toolbar hidden, reopen from {0}" = "Verktygsfältet dolt; öppna det igen från {0}";
+"Delete Block" = "Ta bort block";
 "Toggle Fullscreen" = "Växla fullskärm";
 "Actual Size" = "Verklig storlek";
 "Zoom In" = "Zooma in";

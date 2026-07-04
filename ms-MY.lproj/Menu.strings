@@ -24,6 +24,7 @@
 "Open" = "Buka";
 "Open Folder" = "Buka Folder";
 "Reopen with Encoding" = "Buka Semula dengan Encoding";
+"Reload from Disk" = "Muat Semula dari Cakera";
 "Auto" = "Auto";
 "Open Recent" = "Buka Terkini";
 "Recent Locations" = "Lokasi Terkini";
@@ -145,6 +146,7 @@
 "View" = "Paparan";
 "New Tab" = "Tab Baru";
 "Source Code Mode" = "Mod Kod Sumber";
+"Readonly Mode" = "Mod Baca Sahaja";
 "Focus Mode" = "Mod Fokus";
 "Typewriter Mode" = "Mod Mesin Taip";
 "Toggle Sidebar" = "Togol Bar Sisi";
@@ -153,7 +155,11 @@
 "File Tree" = "Hierarki Fail";
 "Always on Top" = "Sentiasa Di Atas";
 "Full Screen" = "Skrin Penuh";
-"Show Status Bar" = "Tunjuk Bar Status";
+"Show Status Bar" = "Bar Status";
+"Toolbar" = "Bar Alat";
+"Hide Toolbar" = "Sorok Bar Alat";
+"Toolbar hidden, reopen from {0}" = "Bar alat disorok; buka semula dari {0}";
+"Delete Block" = "Padam Blok";
 "Toggle Fullscreen" = "Togol Skrin Penuh";
 "Actual Size" = "Saiz Sebenar";
 "Zoom In" = "Zum Masuk";

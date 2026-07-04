@@ -576,3 +576,17 @@ Thai translated by
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "โครงสร้างไฟล์ / คลังไฟล์";
+"Choose which files appear in the file tree and file library." = "เลือกไฟล์ที่จะแสดงในโครงสร้างไฟล์และคลังไฟล์";
+"Show hidden folders / files" = "แสดงโฟลเดอร์ / ไฟล์ที่ซ่อนอยู่";
+"File Tree" = "โครงสร้างไฟล์";
+"File Library" = "คลังไฟล์";
+"Supported Files (Markdown & Plain Text)" = "ไฟล์ที่รองรับ (Markdown และข้อความธรรมดา)";
+"Configure" = "กำหนดค่า";
+"File Tree — Custom Patterns" = "โครงสร้างไฟล์ — รูปแบบที่กำหนดเอง";
+"File Library — Custom Patterns" = "คลังไฟล์ — รูปแบบที่กำหนดเอง";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "เพิ่มรูปแบบ glob เพื่อเลือกไฟล์ที่จะแสดง ขึ้นต้นรูปแบบด้วย \"!\" เพื่อยกเว้น ตัวอย่าง: *.csv หรือ !**/draft-*.md";
+"Markdown and text files" = "ไฟล์ Markdown และข้อความ";
+"Add Pattern" = "เพิ่มรูปแบบ";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "รวมไว้ตามค่าเริ่มต้น หากต้องการยกเว้นบางรูปแบบ ให้ใช้รูปแบบ \"!\"";

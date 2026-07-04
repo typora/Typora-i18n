@@ -23,6 +23,7 @@
 "Open" = "खुला हुआ";
 "Open Folder" = "फोल्डर खोलो";
 "Reopen with Encoding" = "एन्कोडिंग के साथ फिर से खोलें";
+"Reload from Disk" = "डिस्क से पुनः लोड करें";
 "Auto" = "ऑटो";
 "Open Recent" = "हाल ही वाला खोलें";
 "Recent Locations" = "हाल के स्थानों";
@@ -148,6 +149,7 @@
 "View" = "राय";
 "New Tab" = "नया टैब";
 "Source Code Mode" = "स्रोत मोड कोड";
+"Readonly Mode" = "केवल पढ़ने का मोड";
 "Focus Mode" = "संकेन्द्रित विधि";
 "Typewriter Mode" = "टाइपराइटर मोड";
 "Toggle Sidebar" = "साइडबार टॉगल करें";
@@ -156,7 +158,11 @@
 "File Tree" = "फाइल ट्री";
 "Always on Top" = "हमेशा ऊपर";
 "Full Screen" = "पूर्ण स्क्रीन";
-"Show Status Bar" = "स्टेटस बार दिखाएं";
+"Show Status Bar" = "स्टेटस बार";
+"Toolbar" = "टूलबार";
+"Hide Toolbar" = "टूलबार छुपाएं";
+"Toolbar hidden, reopen from {0}" = "टूलबार छिपा है; इसे {0} से फिर से खोलें";
+"Delete Block" = "ब्लॉक हटाएं";
 "Toggle Fullscreen" = "पूर्णस्क्रीन चालू करें";
 "Actual Size" = "वास्तविक आकार";
 "Zoom In" = "ज़ूम इन";

@@ -23,6 +23,7 @@
 "Open" = "打开";
 "Open Folder" = "打开文件夹"; 
 "Reopen with Encoding" = "选择编码重新打开";  
+"Reload from Disk" = "从磁盘重新加载";
 "Auto" = "自动";
 "Open Recent" = "打开最近文件";
 "Recent Locations" = "最近使用的目录";
@@ -148,6 +149,7 @@
 "View" = "显示";
 "New Tab" = "新建标签页";
 "Source Code Mode" = "源代码模式";
+"Readonly Mode" = "只读模式";
 "Focus Mode" = "专注模式";
 "Typewriter Mode" = "打字机模式";
 "Toggle Sidebar" = "显示／隐藏侧边栏";
@@ -156,7 +158,11 @@
 "File Tree" = "文件树";
 "Always on Top" = "保持窗口在最前端";
 "Full Screen" = "全屏";
-"Show Status Bar" = "显示状态栏";
+"Show Status Bar" = "状态栏";
+"Toolbar" = "工具栏";
+"Hide Toolbar" = "隐藏工具栏";
+"Toolbar hidden, reopen from {0}" = "工具栏已隐藏，可从 {0} 重新打开";
+"Delete Block" = "删除块";
 "Toggle Fullscreen" = "切换全屏"; 
 "Actual Size" = "实际大小"; 
 "Zoom In" = "放大"; 

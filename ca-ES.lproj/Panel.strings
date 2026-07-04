@@ -535,3 +535,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Arbre de fitxers / Biblioteca de fitxers";
+"Choose which files appear in the file tree and file library." = "Trieu quins fitxers apareixen a l'arbre de fitxers i a la biblioteca de fitxers.";
+"Show hidden folders / files" = "Mostra les carpetes / fitxers ocults";
+"File Tree" = "Arbre de fitxers";
+"File Library" = "Biblioteca de fitxers";
+"Supported Files (Markdown & Plain Text)" = "Fitxers admesos (Markdown i text sense format)";
+"Configure" = "Configura";
+"File Tree — Custom Patterns" = "Arbre de fitxers — Patrons personalitzats";
+"File Library — Custom Patterns" = "Biblioteca de fitxers — Patrons personalitzats";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Afegiu patrons glob per triar quins fitxers es mostren. Comenceu un patró amb \"!\" per excloure'l. Exemple: *.csv o !**/draft-*.md";
+"Markdown and text files" = "Fitxers Markdown i de text";
+"Add Pattern" = "Afegeix un patró";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Inclòs per defecte. Per excloure alguns formats, utilitzeu un patró amb \"!\".";

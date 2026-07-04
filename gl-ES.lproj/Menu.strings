@@ -23,6 +23,7 @@
 "Open" = "Abrir";
 "Open Folder" = "Abrir cartafol";
 "Reopen with Encoding" = "Reabrir con codificación";
+"Reload from Disk" = "Recargar desde o disco";
 "Auto" = "Auto";
 "Open Recent" = "Abrir recente";
 "Recent Locations" = "Lugares recentes";
@@ -148,6 +149,7 @@
 "View" = "Vista";
 "New Tab" = "Nova lapela";
 "Source Code Mode" = "Modo Código fonte";
+"Readonly Mode" = "Modo só lectura";
 "Focus Mode" = "Modo Enfoque";
 "Typewriter Mode" = "Modo Máquina de escribir";
 "Toggle Sidebar" = "Alternar barra lateral";
@@ -156,7 +158,11 @@
 "File Tree" = "Árbore de arquivos";
 "Always on Top" = "Sempre enriba";
 "Full Screen" = "Pantalla completa";
-"Show Status Bar" = "Amosar barra de estado";
+"Show Status Bar" = "Barra de estado";
+"Toolbar" = "Barra de ferramentas";
+"Hide Toolbar" = "Agochar a barra de ferramentas";
+"Toolbar hidden, reopen from {0}" = "Barra de ferramentas agochada; ábrea de novo desde {0}";
+"Delete Block" = "Quitar Bloque";
 "Toggle Fullscreen" = "Cambiar a pantalla completa";
 "Actual Size" = "Tamaño real";
 "Zoom In" = "Zoom In";

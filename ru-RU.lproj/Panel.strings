@@ -561,3 +561,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Дерево файлов / Библиотека файлов";
+"Choose which files appear in the file tree and file library." = "Выберите, какие файлы отображаются в дереве файлов и библиотеке файлов.";
+"Show hidden folders / files" = "Показывать скрытые папки / файлы";
+"File Tree" = "Дерево файлов";
+"File Library" = "Библиотека файлов";
+"Supported Files (Markdown & Plain Text)" = "Поддерживаемые файлы (Markdown и простой текст)";
+"Configure" = "Настроить";
+"File Tree — Custom Patterns" = "Дерево файлов — Пользовательские шаблоны";
+"File Library — Custom Patterns" = "Библиотека файлов — Пользовательские шаблоны";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Добавьте glob-шаблоны, чтобы выбрать отображаемые файлы. Начните шаблон с \"!\", чтобы исключить. Пример: *.csv или !**/draft-*.md";
+"Markdown and text files" = "Файлы Markdown и текстовые файлы";
+"Add Pattern" = "Добавить шаблон";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Включено по умолчанию. Чтобы исключить некоторые форматы, используйте шаблон \"!\".";

@@ -158,7 +158,11 @@
 "File Tree" = "File Tree";
 "Always on Top" = "Always on Top";
 "Full Screen" = "Full Screen";
-"Show Status Bar" = "Show Status Bar";
+"Show Status Bar" = "Status Bar";
+"Toolbar" = "Toolbar";
+"Hide Toolbar" = "Hide Toolbar";
+"Toolbar hidden, reopen from {0}" = "Toolbar hidden, reopen from {0}";
+"Delete Block" = "Delete Block";
 "Toggle Fullscreen" = "Toggle Fullscreen";
 "Actual Size" = "Actual Size";
 "Zoom In" = "Zoom In";

@@ -23,6 +23,7 @@
 "Open" = "Oscail";
 "Open Folder" = "Oscail Fillteán";
 "Reopen with Encoding" = "Athoscail le hIonchódú";
+"Reload from Disk" = "Athlódáil ón Diosca";
 "Auto" = "Uathoibríoch";
 "Open Recent" = "Oscail Le Déanaí";
 "Recent Locations" = "Suíomhanna Le Déanaí";
@@ -148,6 +149,7 @@
 "View" = "Amharc";
 "New Tab" = "Cluaisín Nua";
 "Source Code Mode" = "Mód Cód Foinse";
+"Readonly Mode" = "Mód Inléite Amháin";
 "Focus Mode" = "Mód Fócais";
 "Typewriter Mode" = "Mód Clóscríbhneora";
 "Toggle Sidebar" = "Scoránaigh Barra Taoibh";
@@ -156,7 +158,11 @@
 "File Tree" = "Crann Comhad";
 "Always on Top" = "I gcónaí ar a Bharr";
 "Full Screen" = "Lánscáileán";
-"Show Status Bar" = "Taispeáin Barra Stádais";
+"Show Status Bar" = "Barra Stádais";
+"Toolbar" = "Barra Uirlisí";
+"Hide Toolbar" = "Folaigh an Barra Uirlisí";
+"Toolbar hidden, reopen from {0}" = "Barra uirlisí folaithe; oscail arís é ó {0}";
+"Delete Block" = "Scrios Bloc";
 "Toggle Fullscreen" = "Lánscáileán a Athsholáthar";
 "Actual Size" = "Méid iarbhír";
 "Zoom In" = "Zúmáil Isteach";

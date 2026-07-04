@@ -582,3 +582,17 @@
 "Use legacy inline math parsing (compatible mode)" = "使用舊版行內數學式解析（相容模式）";
 "Use legacy inline math parsing hint" = "<div><b>關閉（預設）</b>：行內數學式規則接近 <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>：開頭的 <code>$</code> 右側不能是空白；結尾的 <code>$</code> 左側不能是空白（且其前一個字元不能是反斜線）；結尾的 <code>$</code> 後不能直接跟數字。</div><div><b>開啟（相容模式）</b>：使用舊版規則：從 <code>$</code> 到下一個 <code>$</code>，只要結尾 <code>$</code> 前一個字元不是 <code>\\</code> 即視為數學式（會辨識更多以美元符號分隔的片段）。</div><div>詳見 <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>。</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "檔案樹狀目錄 / 檔案庫";
+"Choose which files appear in the file tree and file library." = "選擇檔案樹狀目錄與檔案庫中要顯示哪些檔案。";
+"Show hidden folders / files" = "顯示隱藏的資料夾 / 檔案";
+"File Tree" = "檔案樹狀目錄";
+"File Library" = "檔案庫";
+"Supported Files (Markdown & Plain Text)" = "支援的檔案（Markdown 與純文字）";
+"Configure" = "設定";
+"File Tree — Custom Patterns" = "檔案樹狀目錄 — 自訂規則";
+"File Library — Custom Patterns" = "檔案庫 — 自訂規則";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "新增 glob 比對規則以選擇要顯示哪些檔案。以 \"!\" 開頭的規則表示排除。例如：*.csv 或 !**/draft-*.md";
+"Markdown and text files" = "Markdown 與文字檔案";
+"Add Pattern" = "新增規則";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "預設已包含。若要排除某些格式，請使用 \"!\" 規則。";

@@ -23,6 +23,7 @@
 "Open" = "開啟";
 "Open Folder" = "開啟資料夾";
 "Reopen with Encoding" = "重新依選擇編碼載入檔案";
+"Reload from Disk" = "從磁碟重新載入";
 "Auto" = "自動";
 "Open Recent" = "開啟最近的檔案";
 "Recent Locations" = "最近位置";
@@ -148,6 +149,7 @@
 "View" = "檢視";
 "New Tab" = "新增頁籤";
 "Source Code Mode" = "原始碼模式";
+"Readonly Mode" = "唯讀模式";
 "Focus Mode" = "專注模式";
 "Typewriter Mode" = "打字機模式";
 "Toggle Sidebar" = "顯示/隱藏側邊欄";
@@ -156,7 +158,11 @@
 "File Tree" = "檔案樹狀目錄";
 "Always on Top" = "一律在最上層";
 "Full Screen" = "切換全螢幕";
-"Show Status Bar" = "顯示狀態列";
+"Show Status Bar" = "狀態列";
+"Toolbar" = "工具列";
+"Hide Toolbar" = "隱藏工具列";
+"Toolbar hidden, reopen from {0}" = "工具列已隱藏，可從 {0} 重新開啟";
+"Delete Block" = "刪除區塊";
 "Toggle Fullscreen" = "切換全螢幕";
 "Actual Size" = "實際尺寸";
 "Zoom In" = "放大";

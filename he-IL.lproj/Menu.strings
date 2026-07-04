@@ -24,6 +24,7 @@
 "Open" = "פתח";
 "Open Folder" = "פתח תיקייה";
 "Reopen with Encoding" = "פתח מחדש עם קידוד";
+"Reload from Disk" = "טען מחדש מהדיסק";
 "Auto" = "אוטומטי";
 "Open Recent" = "פתח אחרונים";
 "Recent Locations" = "מקומות אחרונים";
@@ -149,6 +150,7 @@
 "View" = "תצוגה";
 "New Tab" = "כרטיסייה חדשה";
 "Source Code Mode" = "מצב קוד מקור";
+"Readonly Mode" = "מצב קריאה בלבד";
 "Focus Mode" = "מצב ממוקד";
 "Typewriter Mode" = "מצב מכונת כתיבה";
 "Toggle Sidebar" = "הצג/הסתר תפריט צדדי";
@@ -157,7 +159,11 @@
 "File Tree" = "עץ קבצים";
 "Always on Top" = "תמיד מעל הכל";
 "Full Screen" = "מסך מלא";
-"Show Status Bar" = "הצג שורת מצב";
+"Show Status Bar" = "שורת מצב";
+"Toolbar" = "סרגל כלים";
+"Hide Toolbar" = "הסתר סרגל כלים";
+"Toolbar hidden, reopen from {0}" = "סרגל הכלים הוסתר; פתח אותו מחדש מ־{0}";
+"Delete Block" = "מחק בלוק";
 "Toggle Fullscreen" = "הפעל/כבה מצב מסך מלא";
 "Actual Size" = "גודל מקורי";
 "Zoom In" = "הגדל";

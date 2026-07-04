@@ -23,6 +23,7 @@
 "Open" = "Відкрити";
 "Open Folder" = "Відкрити директорію";
 "Reopen with Encoding" = "Перевідкрити з кодуванням";
+"Reload from Disk" = "Перезавантажити з диска";
 "Auto" = "Автоматично";
 "Open Recent" = "Відкрити останні";
 "Recent Locations" = "Відкрити місця";
@@ -148,6 +149,7 @@
 "View" = "Вигляд";
 "New Tab" = "Нова вкладка";
 "Source Code Mode" = "Режим джерельного коду";
+"Readonly Mode" = "Режим лише для читання";
 "Focus Mode" = "Режим фокусу";
 "Typewriter Mode" = "Режим друкарської машинки";
 "Toggle Sidebar" = "Перемкнути бічну панель";
@@ -156,7 +158,11 @@
 "File Tree" = "Дерево файлів";
 "Always on Top" = "Завжди нагорі";
 "Full Screen" = "Повноекранний режим";
-"Show Status Bar" = "Показати рядок стану";
+"Show Status Bar" = "Рядок стану";
+"Toolbar" = "Панель інструментів";
+"Hide Toolbar" = "Сховати панель інструментів";
+"Toolbar hidden, reopen from {0}" = "Панель інструментів приховано; відкрийте її знову з {0}";
+"Delete Block" = "Видалити блок";
 "Toggle Fullscreen" = "Перемкнути повноекранний режим";
 "Actual Size" = "Актуальний розмір";
 "Zoom In" = "Збільшити";

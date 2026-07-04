@@ -578,3 +578,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Árvore de Arquivos / Biblioteca de Arquivos";
+"Choose which files appear in the file tree and file library." = "Escolha quais arquivos aparecem na árvore de arquivos e na biblioteca de arquivos.";
+"Show hidden folders / files" = "Mostrar pastas / arquivos ocultos";
+"File Tree" = "Árvore de Arquivos";
+"File Library" = "Biblioteca de Arquivos";
+"Supported Files (Markdown & Plain Text)" = "Arquivos Suportados (Markdown e Texto Simples)";
+"Configure" = "Configurar";
+"File Tree — Custom Patterns" = "Árvore de Arquivos — Padrões Personalizados";
+"File Library — Custom Patterns" = "Biblioteca de Arquivos — Padrões Personalizados";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Adicione padrões glob para escolher quais arquivos são exibidos. Inicie um padrão com \"!\" para excluir. Exemplo: *.csv ou !**/draft-*.md";
+"Markdown and text files" = "Arquivos Markdown e de texto";
+"Add Pattern" = "Adicionar Padrão";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Incluído por padrão. Para excluir alguns formatos, use um padrão \"!\".";

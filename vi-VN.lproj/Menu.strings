@@ -27,6 +27,7 @@
 "Open" = "Mở";
 "Open Folder" = "Mở Thư Mục";
 "Reopen with Encoding" = "Mở Lại Với Bảng Mã";
+"Reload from Disk" = "Tải Lại Từ Đĩa";
 "Auto" = "Tự Động";
 "Open Recent" = "Đã Mở Gần Đây";
 "Recent Locations" = "Vị Trí Gần Đây";
@@ -151,6 +152,7 @@
 "View" = "Xem";
 "New Tab" = "Thẻ Mới";
 "Source Code Mode" = "Chế Độ Mã Nguồn";
+"Readonly Mode" = "Chế Độ Chỉ Đọc";
 "Focus Mode" = "Chế Độ Tập Trung";
 "Typewriter Mode" = "Chế Độ Máy Đánh Chữ";
 "Toggle Sidebar" = "Bật/Tắt Thanh Bên";
@@ -159,7 +161,11 @@
 "File Tree" = "Cây Tệp Tin";
 "Always on Top" = "Luôn Hiện Cửa Sổ Trên Cùng";
 "Full Screen" = "Toàn Màn Hình";
-"Show Status Bar" = "Hiện Thanh Trạng Thái";
+"Show Status Bar" = "Thanh trạng thái";
+"Toolbar" = "Thanh công cụ";
+"Hide Toolbar" = "Ẩn Thanh công cụ";
+"Toolbar hidden, reopen from {0}" = "Đã ẩn thanh công cụ; mở lại từ {0}";
+"Delete Block" = "Xoá Khối";
 "Toggle Fullscreen" = "Bật/Tắt Toàn Màn Hình";
 "Actual Size" = "Kích Thước Thực Tế";
 "Zoom In" = "Phóng To";

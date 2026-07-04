@@ -23,6 +23,7 @@
 "Open" = "Odpri";
 "Open Folder" = "Odpri mapo";
 "Reopen with Encoding" = "Ponovno odpri s kodiranjem";
+"Reload from Disk" = "Ponovno naloži z diska";
 "Auto" = "Samodejno";
 "Open Recent" = "Odpri nedavno";
 "Recent Locations" = "Nedavne lokacije";
@@ -148,6 +149,7 @@
 "View" = "Pogled";
 "New Tab" = "Nov zavihek";
 "Source Code Mode" = "Način pisanja kode";
+"Readonly Mode" = "Način samo za branje";
 "Focus Mode" = "Osredotočen način";
 "Typewriter Mode" = "Način pisalnega stroja";
 "Toggle Sidebar" = "Prikaži / skrij stransko vrstico";
@@ -156,7 +158,11 @@
 "File Tree" = "Drevesni pogled datotek";
 "Always on Top" = "Vedno na vrhu";
 "Full Screen" = "Celozaslonski način";
-"Show Status Bar" = "Prikaži statusno vrstico";
+"Show Status Bar" = "Statusna vrstica";
+"Toolbar" = "Orodna vrstica";
+"Hide Toolbar" = "Skrij orodno vrstico";
+"Toolbar hidden, reopen from {0}" = "Orodna vrstica skrita; znova jo odprite prek {0}";
+"Delete Block" = "Izbriši blok";
 "Toggle Fullscreen" = "Preklopi v celozaslonski način";
 "Actual Size" = "Privzeta povečava";
 "Zoom In" = "Povečaj prikaz";

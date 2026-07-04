@@ -23,6 +23,7 @@
 "Open" = "باز کردن";
 "Open Folder" = "باز کردن پوشه";
 "Reopen with Encoding" = "باز کردن مجدد با Encoding";
+"Reload from Disk" = "بارگذاری مجدد از دیسک";
 "Auto" = "خودکار";
 "Open Recent" = "باز کردن  موارد اخیر";
 "Recent Locations" = "مکان‌های اخیر";
@@ -148,6 +149,7 @@
 "View" = "چشم انداز";
 "New Tab" = "برگه جدید";
 "Source Code Mode" = "حالت منبع کد";
+"Readonly Mode" = "حالت فقط خواندنی";
 "Focus Mode" = "حالت تمرکز";
 "Typewriter Mode" = "حالت ماشین تحریر";
 "Toggle Sidebar" = "تغییر وضعیت نوار کناری";
@@ -156,7 +158,11 @@
 "File Tree" = "درخت فایل";
 "Always on Top" = "همیشه در بالا";
 "Full Screen" = "تمام صفحه";
-"Show Status Bar" = "نمایش نوار وضعیت";
+"Show Status Bar" = "نوار وضعیت";
+"Toolbar" = "نوار ابزار";
+"Hide Toolbar" = "مخفی کردن نوار ابزار";
+"Toolbar hidden, reopen from {0}" = "نوار ابزار پنهان شد؛ از {0} دوباره باز کنید";
+"Delete Block" = "حذف بلاک";
 "Toggle Fullscreen" = "تغییر وضعیت تمام صفحه";
 "Actual Size" = "اندازه واقعی";
 "Zoom In" = "بزرگنمایی";

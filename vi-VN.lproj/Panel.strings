@@ -582,3 +582,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "Cây Tệp Tin / Thư Viện Tệp Tin";
+"Choose which files appear in the file tree and file library." = "Chọn những tệp tin nào hiển thị trong cây tệp tin và thư viện tệp tin.";
+"Show hidden folders / files" = "Hiện thư mục / tệp tin ẩn";
+"File Tree" = "Cây Tệp Tin";
+"File Library" = "Thư Viện Tệp Tin";
+"Supported Files (Markdown & Plain Text)" = "Tệp Tin Được Hỗ Trợ (Markdown & Văn Bản Thuần)";
+"Configure" = "Cấu hình";
+"File Tree — Custom Patterns" = "Cây Tệp Tin — Mẫu Tuỳ Chỉnh";
+"File Library — Custom Patterns" = "Thư Viện Tệp Tin — Mẫu Tuỳ Chỉnh";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Thêm mẫu glob để chọn những tệp tin nào được hiển thị. Bắt đầu mẫu bằng \"!\" để loại trừ. Ví dụ: *.csv hoặc !**/draft-*.md";
+"Markdown and text files" = "Tệp tin Markdown và văn bản";
+"Add Pattern" = "Thêm Mẫu";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Được bao gồm theo mặc định. Để loại trừ một số định dạng, hãy dùng mẫu \"!\".";

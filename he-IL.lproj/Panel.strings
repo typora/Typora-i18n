@@ -554,3 +554,17 @@
 "Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
 "Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "עץ קבצים / ספריית קבצים";
+"Choose which files appear in the file tree and file library." = "בחר אילו קבצים יופיעו בעץ הקבצים ובספריית הקבצים.";
+"Show hidden folders / files" = "הצג תיקיות / קבצים מוסתרים";
+"File Tree" = "עץ קבצים";
+"File Library" = "ספריית קבצים";
+"Supported Files (Markdown & Plain Text)" = "קבצים נתמכים (Markdown וטקסט רגיל)";
+"Configure" = "הגדר";
+"File Tree — Custom Patterns" = "עץ קבצים — תבניות מותאמות אישית";
+"File Library — Custom Patterns" = "ספריית קבצים — תבניות מותאמות אישית";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "הוסף תבניות glob כדי לבחור אילו קבצים יוצגו. התחל תבנית ב-\"!\" כדי להחריג. דוגמה: *.csv או !**/draft-*.md";
+"Markdown and text files" = "קובצי Markdown וטקסט";
+"Add Pattern" = "הוסף תבנית";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "נכלל כברירת מחדל. כדי להחריג פורמטים מסוימים, השתמש בתבנית \"!\".";

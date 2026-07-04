@@ -23,6 +23,7 @@
 "Open" = "Obre";
 "Open Folder" = "Obre una carpeta";
 "Reopen with Encoding" = "Reobre amb codificació";
+"Reload from Disk" = "Torna a carregar del disc";
 "Auto" = "Auto";
 "Open Recent" = "Obre recents";
 "Recent Locations" = "Ubicacions recents";
@@ -148,6 +149,7 @@
 "View" = "Visualització";
 "New Tab" = "Pestanya nova";
 "Source Code Mode" = "Mode de codi font";
+"Readonly Mode" = "Mode només de lectura";
 "Focus Mode" = "Mode sense distraccions";
 "Typewriter Mode" = "Mode de màquina d'escriure";
 "Toggle Sidebar" = "Alterna la barra lateral";
@@ -156,7 +158,11 @@
 "File Tree" = "Arbre de fitxers";
 "Always on Top" = "Sempre a dalt";
 "Full Screen" = "Pantalla completa";
-"Show Status Bar" = "Mostra la barra d'estat";
+"Show Status Bar" = "Barra d'estat";
+"Toolbar" = "Barra d'eines";
+"Hide Toolbar" = "Amaga la barra d'eines";
+"Toolbar hidden, reopen from {0}" = "Barra d'eines amagada; torna a obrir-la des de {0}";
+"Delete Block" = "Elimina el bloc";
 "Toggle Fullscreen" = "Alterna la pantalla completa";
 "Actual Size" = "Mida real";
 "Zoom In" = "Amplia";

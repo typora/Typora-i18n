@@ -599,3 +599,7 @@
 "Markdown and text files" = "Markdown- og tekstfiler";
 "Add Pattern" = "Tilføj mønster";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Inkluderet som standard. Brug et \"!\"-mønster for at udelukke visse formater.";
+
+/* Editor Toolbar */
+"Toolbar" = "Værktøjslinje";
+"Show editor toolbar" = "Vis editorens værktøjslinje";

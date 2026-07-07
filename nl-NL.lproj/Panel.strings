@@ -553,3 +553,7 @@
 "Markdown and text files" = "Markdown- en tekstbestanden";
 "Add Pattern" = "Patroon toevoegen";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Standaard inbegrepen. Gebruik een \"!\"-patroon om bepaalde formaten uit te sluiten.";
+
+/* Editor Toolbar */
+"Toolbar" = "Werkbalk";
+"Show editor toolbar" = "Werkbalk van de bewerker tonen";

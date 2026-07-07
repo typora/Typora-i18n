@@ -578,3 +578,7 @@
 "Markdown and text files" = "Fichiers Markdown et texte";
 "Add Pattern" = "Ajouter un motif";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Inclus par défaut. Pour exclure certains formats, utilisez un motif \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Barre d'outils";
+"Show editor toolbar" = "Afficher la barre d'outils de l'éditeur";

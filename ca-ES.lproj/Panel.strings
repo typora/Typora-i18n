@@ -549,3 +549,7 @@
 "Markdown and text files" = "Fitxers Markdown i de text";
 "Add Pattern" = "Afegeix un patró";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Inclòs per defecte. Per excloure alguns formats, utilitzeu un patró amb \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Barra d'eines";
+"Show editor toolbar" = "Mostra la barra d'eines de l'editor";

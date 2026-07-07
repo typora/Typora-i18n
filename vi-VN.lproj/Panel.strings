@@ -596,3 +596,7 @@
 "Markdown and text files" = "Tệp tin Markdown và văn bản";
 "Add Pattern" = "Thêm Mẫu";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Được bao gồm theo mặc định. Để loại trừ một số định dạng, hãy dùng mẫu \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Thanh công cụ";
+"Show editor toolbar" = "Hiển thị thanh công cụ trình soạn thảo";

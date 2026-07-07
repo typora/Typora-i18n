@@ -596,3 +596,7 @@
 "Markdown and text files" = "Markdown 與文字檔案";
 "Add Pattern" = "新增規則";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "預設已包含。若要排除某些格式，請使用 \"!\" 規則。";
+
+/* Editor Toolbar */
+"Toolbar" = "工具列";
+"Show editor toolbar" = "顯示編輯器工具列";

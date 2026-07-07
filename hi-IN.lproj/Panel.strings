@@ -595,3 +595,7 @@
 "Markdown and text files" = "Markdown और टेक्स्ट फाइलें";
 "Add Pattern" = "पैटर्न जोड़ें";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "डिफ़ॉल्ट रूप से शामिल। कुछ फ़ॉर्मैट बाहर रखने के लिए \"!\" पैटर्न का उपयोग करें।";
+
+/* Editor Toolbar */
+"Toolbar" = "टूलबार";
+"Show editor toolbar" = "संपादक टूलबार दिखाएँ";

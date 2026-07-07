@@ -596,3 +596,7 @@
 "Markdown and text files" = "Datoteke Markdown in besedilne datoteke";
 "Add Pattern" = "Dodaj vzorec";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Privzeto vključeno. Za izključitev nekaterih formatov uporabite vzorec \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Orodna vrstica";
+"Show editor toolbar" = "Pokaži orodno vrstico urejevalnika";

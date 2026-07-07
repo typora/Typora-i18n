@@ -573,3 +573,7 @@
 "Markdown and text files" = "Markdown ve metin dosyaları";
 "Add Pattern" = "Desen Ekle";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Varsayılan olarak dahildir. Bazı biçimleri hariç tutmak için \"!\" deseni kullanın.";
+
+/* Editor Toolbar */
+"Toolbar" = "Araç çubuğu";
+"Show editor toolbar" = "Editör araç çubuğunu göster";

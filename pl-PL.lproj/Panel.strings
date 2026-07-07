@@ -596,3 +596,7 @@
 "Markdown and text files" = "Pliki Markdown i tekstowe";
 "Add Pattern" = "Dodaj wzorzec";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Domyślnie uwzględnione. Aby wykluczyć niektóre formaty, użyj wzorca \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Pasek narzędzi";
+"Show editor toolbar" = "Pokaż pasek narzędzi edytora";

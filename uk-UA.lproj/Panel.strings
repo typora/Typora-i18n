@@ -558,3 +558,7 @@
 "Markdown and text files" = "Файли Markdown і текстові файли";
 "Add Pattern" = "Додати шаблон";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Увімкнено за замовчуванням. Щоб виключити деякі формати, використовуйте шаблон \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Панель інструментів";
+"Show editor toolbar" = "Показати панель інструментів редактора";

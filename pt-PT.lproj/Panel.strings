@@ -544,3 +544,7 @@ Edited by ncgodinho@outlook.pt based on camilocoelho93@gmail.com work
 "Markdown and text files" = "Ficheiros Markdown e de texto";
 "Add Pattern" = "Adicionar Padrão";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Incluído por predefinição. Para excluir alguns formatos, use um padrão \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Barra de ferramentas";
+"Show editor toolbar" = "Mostrar a barra de ferramentas do editor";

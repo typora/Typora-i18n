@@ -600,3 +600,7 @@ Japanese translated by
 "Markdown and text files" = "Markdown およびテキストファイル";
 "Add Pattern" = "パターンを追加";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "デフォルトで含まれます。一部の形式を除外するには \"!\" パターンを使用します。";
+
+/* Editor Toolbar */
+"Toolbar" = "ツールバー";
+"Show editor toolbar" = "エディタのツールバーを表示";

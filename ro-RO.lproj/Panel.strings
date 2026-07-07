@@ -568,3 +568,7 @@
 "Markdown and text files" = "Fișiere Markdown și text";
 "Add Pattern" = "Adaugă model";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Inclus în mod implicit. Pentru a exclude anumite formate, folosește un model \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Bară de instrumente";
+"Show editor toolbar" = "Afișează bara de instrumente a editorului";

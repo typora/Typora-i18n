@@ -570,3 +570,7 @@
 "Markdown and text files" = "ملفات Markdown والنصوص";
 "Add Pattern" = "إضافة نمط";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "مُضمَّن افتراضيًا. لاستبعاد بعض الصيغ، استخدم نمط \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "شريط الأدوات";
+"Show editor toolbar" = "إظهار شريط أدوات المحرر";

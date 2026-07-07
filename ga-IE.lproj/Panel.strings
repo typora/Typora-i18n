@@ -596,3 +596,7 @@
 "Markdown and text files" = "Comhaid Markdown agus téacs";
 "Add Pattern" = "Cuir Patrún Leis";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "San áireamh de réir réamhshocraithe. Chun formáidí áirithe a eisiamh, úsáid patrún \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Barra uirlisí";
+"Show editor toolbar" = "Taispeáin barra uirlisí an eagarthóra";

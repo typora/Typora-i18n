@@ -567,3 +567,7 @@
 "Markdown and text files" = "Markdown- und Textdateien";
 "Add Pattern" = "Muster hinzufügen";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Standardmässig enthalten. Um bestimmte Formate auszuschliessen, verwenden Sie ein \"!\"-Muster.";
+
+/* Editor Toolbar */
+"Toolbar" = "Symbolleiste";
+"Show editor toolbar" = "Editor-Symbolleiste anzeigen";

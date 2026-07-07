@@ -590,3 +590,7 @@ Thai translated by
 "Markdown and text files" = "ไฟล์ Markdown และข้อความ";
 "Add Pattern" = "เพิ่มรูปแบบ";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "รวมไว้ตามค่าเริ่มต้น หากต้องการยกเว้นบางรูปแบบ ให้ใช้รูปแบบ \"!\"";
+
+/* Editor Toolbar */
+"Toolbar" = "แถบเครื่องมือ";
+"Show editor toolbar" = "แสดงแถบเครื่องมือของตัวแก้ไข";

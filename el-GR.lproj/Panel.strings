@@ -552,3 +552,7 @@
 "Markdown and text files" = "Αρχεία Markdown και κειμένου";
 "Add Pattern" = "Προσθήκη μοτίβου";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Περιλαμβάνεται από προεπιλογή. Για να εξαιρέσετε ορισμένες μορφές, χρησιμοποιήστε ένα μοτίβο \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Γραμμή εργαλείων";
+"Show editor toolbar" = "Εμφάνιση γραμμής εργαλείων επεξεργαστή";

@@ -553,3 +553,7 @@
 "Markdown and text files" = "Markdown i tekstualne datoteke";
 "Add Pattern" = "Dodaj uzorak";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Uključeno prema zadanim postavkama. Za isključivanje nekih formata upotrijebite uzorak \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Alatna traka";
+"Show editor toolbar" = "Prikaži alatnu traku uređivača";

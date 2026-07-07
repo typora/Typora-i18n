@@ -574,3 +574,7 @@
 "Markdown and text files" = "Fail Markdown dan teks";
 "Add Pattern" = "Tambah Corak";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Disertakan secara lalai. Untuk mengecualikan sesetengah format, gunakan corak \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Bar alat";
+"Show editor toolbar" = "Tunjukkan bar alat penyunting";

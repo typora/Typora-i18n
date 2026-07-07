@@ -601,3 +601,7 @@
 "Markdown and text files" = "Fail Markdown dan teks";
 "Add Pattern" = "Tambah Pola";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Disertakan secara bawaan. Untuk mengecualikan beberapa format, gunakan pola \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Bilah alat";
+"Show editor toolbar" = "Tampilkan bilah alat editor";

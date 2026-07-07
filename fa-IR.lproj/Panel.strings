@@ -562,3 +562,7 @@
 "Markdown and text files" = "فایل‌های Markdown و متنی";
 "Add Pattern" = "افزودن الگو";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "به‌طور پیش‌فرض گنجانده شده است. برای استثنا کردن برخی قالب‌ها، از الگوی \"!\" استفاده کنید.";
+
+/* Editor Toolbar */
+"Toolbar" = "نوار ابزار";
+"Show editor toolbar" = "نمایش نوار ابزار ویرایشگر";

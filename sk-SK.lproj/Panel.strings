@@ -562,3 +562,7 @@
 "Markdown and text files" = "Súbory Markdown a textové súbory";
 "Add Pattern" = "Pridať vzor";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Zahrnuté v predvolenom nastavení. Ak chcete vylúčiť niektoré formáty, použite vzor \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Panel nástrojov";
+"Show editor toolbar" = "Zobraziť panel nástrojov editora";

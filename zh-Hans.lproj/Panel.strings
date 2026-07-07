@@ -600,3 +600,7 @@
 "Markdown and text files" = "Markdown 和文本文件";
 "Add Pattern" = "添加规则";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "默认已包含。若要排除某些格式，请使用 \"!\" 规则。";
+
+/* Editor Toolbar */
+"Toolbar" = "工具栏";
+"Show editor toolbar" = "显示编辑器工具栏";

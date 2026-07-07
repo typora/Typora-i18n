@@ -581,3 +581,7 @@
 "Markdown and text files" = "Markdown és szövegfájlok";
 "Add Pattern" = "Minta hozzáadása";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Alapértelmezetten benne van. Egyes formátumok kizárásához használjon \"!\" mintát.";
+
+/* Editor Toolbar */
+"Toolbar" = "Eszköztár";
+"Show editor toolbar" = "Szerkesztő eszköztárának megjelenítése";

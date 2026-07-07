@@ -579,3 +579,7 @@
 "Markdown and text files" = "File Markdown e di testo";
 "Add Pattern" = "Aggiungi criterio";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Incluso per impostazione predefinita. Per escludere alcuni formati, usa un criterio \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "Barra degli strumenti";
+"Show editor toolbar" = "Mostra la barra degli strumenti dell'editor";

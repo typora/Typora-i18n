@@ -568,3 +568,7 @@
 "Markdown and text files" = "קובצי Markdown וטקסט";
 "Add Pattern" = "הוסף תבנית";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "נכלל כברירת מחדל. כדי להחריג פורמטים מסוימים, השתמש בתבנית \"!\".";
+
+/* Editor Toolbar */
+"Toolbar" = "סרגל כלים";
+"Show editor toolbar" = "הצג את סרגל הכלים של העורך";

@@ -599,3 +599,7 @@
 "Markdown and text files" = "Markdown and text files";
 "Add Pattern" = "Add Pattern";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Included by default. To exclude some formats, use a \"!\" pattern.";
+
+/* Editor Toolbar */
+"Toolbar" = "Toolbar";
+"Show editor toolbar" = "Show editor toolbar";

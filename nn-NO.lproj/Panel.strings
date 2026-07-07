@@ -595,3 +595,7 @@
 "Markdown and text files" = "Markdown- og tekstfiler";
 "Add Pattern" = "Legg til mønster";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Inkludert som standard. Bruk eit \"!\"-mønster for å ekskludere enkelte format.";
+
+/* Editor Toolbar */
+"Toolbar" = "Verktøylinje";
+"Show editor toolbar" = "Vis verktøylinja for redigering";

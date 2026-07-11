@@ -108,3 +108,4 @@ Feel free to contact us via <hi@typora.io>
 - Turkish by [serhattsnmz](https://github.com/serhattsnmz)
 - Slovenian by [sponka9](https://github.com/sponka9/)
 - Arabic by [Conceit LLC](https://github.com/hiconceit/), [ahmedelq](https://github.com/ahmedelq/)
+- Irish by [aindriu80](https://github.com/aindriu80)

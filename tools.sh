@@ -5,7 +5,7 @@
 #  @Hayao0819 / Yamada Hayao <hayao@fascode.net>
 #
 # Updated by
-#  @jlimadev
+#  @jntnlima
 
 set -e -u
 

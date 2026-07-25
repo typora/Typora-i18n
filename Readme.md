@@ -19,7 +19,7 @@ gawk 'BEGIN { FS=" = " } { print $1 }' it-IT.lproj/Welcome.strings > it-keys
 
 The script [update-translation.py](update-translation.py) can be used to automatically add missing text labels to the `.strings` files. The translated strings will be empty and have to be edited manually. Removed strings will be commented out and moved to the end of the file.
 
-**Note:** All comments, except for the top one and the ones at the bottom of each file **will be removed**. 
+**Note:** All comments, except for the top one and the ones at the bottom of each file **will be removed**.
 
 ```
 usage: update-translation.py [-h] LOCALE
@@ -70,20 +70,21 @@ Feel free to contact us via <hi@typora.io>
 - Terminology for Windows → https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology
 
 ## Other Language
+
 [简体中文](Readme-zh.md)
 
 ## Credits
 
-- Simplified Chinese by [abnerlee](https://github.com/abnerlee), [NoDotCat](https://github.com/NoDotCat), [HowardTangHw](https://github.com/HowardTangHw),  [Emphasia](https://github.com/Emphasia), [DHclly](https://github.com/DHclly), [Mornwind](https://github.com/Mornwind), [iamtwz](https://github.com/iamtwz)
+- Simplified Chinese by [abnerlee](https://github.com/abnerlee), [NoDotCat](https://github.com/NoDotCat), [HowardTangHw](https://github.com/HowardTangHw), [Emphasia](https://github.com/Emphasia), [DHclly](https://github.com/DHclly), [Mornwind](https://github.com/Mornwind), [iamtwz](https://github.com/iamtwz)
 - Traditional Chinese by [cyberrob](https://github.com/cyberrob), [pan93412](https://github.com/pan93412), [Meowcolm024](https://github.com/Meowcolm024), [ralphchung](https://github.com/ralphchung), [pjchender](https://github.com/pjchender), [anemology](https://github.com/anemology), [Chiahong](https://github.com/ChiahongHong/)
-- Polish by  [iriusturar](https://github.com/iriusturar), [Vegebutcher](https://github.com/Vegebutcher)
-- Korean by  [ryush00](https://github.com/ryush00),  [marigold9124](https://github.com/marigold9124), [vreality64](https://github.com/vreality64), [yuririri](https://github.com/yuririri), [Third9](https://github.com/Third9), [ksundong](https://github.com/ksundong), [zfanta](https://github.com/zfanta), [cozyplanes](https://github.com/cozyplanes), [cog25](https://github.com/cog25), [wookayin](https://github.com/wookayin), [Corea](https://github.com/Corea), [LimeCake](https://github.com/LimeCake)
-- Italian by  [starise](https://github.com/starise), [jethro17](https://github.com/jethro17), [Boia11](https://github.com/Boia11)
-- Spanish by  [thepiratejester](https://github.com/thepiratejester), [rgomez90](https://github.com/rgomez90), [iiiGerardoiii](https://github.com/iiiGerardoiii)
+- Polish by [iriusturar](https://github.com/iriusturar), [Vegebutcher](https://github.com/Vegebutcher)
+- Korean by [ryush00](https://github.com/ryush00), [marigold9124](https://github.com/marigold9124), [vreality64](https://github.com/vreality64), [yuririri](https://github.com/yuririri), [Third9](https://github.com/Third9), [ksundong](https://github.com/ksundong), [zfanta](https://github.com/zfanta), [cozyplanes](https://github.com/cozyplanes), [cog25](https://github.com/cog25), [wookayin](https://github.com/wookayin), [Corea](https://github.com/Corea), [LimeCake](https://github.com/LimeCake)
+- Italian by [starise](https://github.com/starise), [jethro17](https://github.com/jethro17), [Boia11](https://github.com/Boia11)
+- Spanish by [thepiratejester](https://github.com/thepiratejester), [rgomez90](https://github.com/rgomez90), [iiiGerardoiii](https://github.com/iiiGerardoiii)
 - French by [MOrdinateur](https://github.com/MOrdinateur), [cnovel](https://github.com/cnovel), [m0wh](https://github.com/m0wh), [Arnaud Ligny](https://github.com/ArnaudLigny)
 - Russian by [Bugo](https://github.com/dragomano)
 - Japanese by [tomochan001](https://github.com/tomochan001), [gageas](https://github.com/gageas), [7ma7X](https://github.com/7ma7X), [shuuji3](https://github.com/shuuji3), [ScratchBuild](https://github.com/ScratchBuild), [Hayao0819](https://github.com/Hayao0819)
-- Portuguese (Brazil) by [teuscard](https://github.com/teuscard), [akz92](https://github.com/akz92), [dgsnunes](https://github.com/dgsnunes), [jlimadev](https://github.com/jlimadev)
+- Portuguese (Brazil) by [teuscard](https://github.com/teuscard), [akz92](https://github.com/akz92), [dgsnunes](https://github.com/dgsnunes), [jntnlima](https://github.com/jntnlima)
 - German by [rcvd](https://github.com/rcvd), Gert Massheimer, [Indeximal](https://github.com/Indeximal), [tobiasvonarx](https://github.com/tobiasvonarx), [jheschl17](https://github.com/Jheschl17/)
 - German (Switzerland) by [Indeximal](https://github.com/Indeximal)
 - Czech by [byDave251](https://github.com/byDave251), [psimacek](https://github.com/psimacek), [AlexKratky](https://github.com/AlexKratky), [bydavenet](https://github.com/bydavenet), [petrsvag](https://github.com/petrsvag)

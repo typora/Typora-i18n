@@ -579,8 +579,8 @@
 "Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora uruchomi zewnętrzną aplikację z listą ścieżek wszystkich lokalnych obrazów. Narzędzie do przesyłania obrazów oraz chmurowa pamięć na obrazy uzyskają dostęp do Twoich lokalnych obrazów. Czy na pewno chcesz kontynuować?";
 "Some settings will only apply after a reload" = "Niektóre ustawienia zostaną zastosowane dopiero po ponownym załadowaniu";
 "Reload" = "Załaduj ponownie";
-"Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
-"Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
+"Use legacy inline math parsing (compatible mode)" = "Użyj starszej metody analizy wyrażenia matematycznego w tekście (tryb zgodności)";
+"Use legacy inline math parsing hint" = "<div><b>Wyłączone (domyślnie)</b>: wyrażenie matematyczne w tekście jest zgodne z zasadami podobnymi do <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoca</a>: brak spacji zaraz po otwierającym <code>$</code>, brak spacji przed zamykającym <code>$</code>, a zaraz po zamykającym <code>$</code> nie może pojawić się cyfra.</div><div><b>Włączone (tryb zgodności)</b>: starsza zasada Typory — treść pomiędzy jednym <code>$</code> a kolejnym <code>$</code> uznawana jest za wyrażenie matematyczne, jeżeli znakiem przed zamykającym <code>$</code> nie jest <code>\\</code> (w rezultacie więcej par znaków dolara jest interpretowanych jako wyrażenie matematyczne).</div><div>Patrz: <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
 /* File Tree / Library (Files panel) */
 "File Tree / Library" = "Drzewo plików / Biblioteka plików";
@@ -590,9 +590,9 @@
 "File Library" = "Biblioteka plików";
 "Supported Files (Markdown & Plain Text)" = "Obsługiwane pliki (Markdown i zwykły tekst)";
 "Configure" = "Konfiguruj";
-"File Tree — Custom Patterns" = "Drzewo plików — Wzorce niestandardowe";
-"File Library — Custom Patterns" = "Biblioteka plików — Wzorce niestandardowe";
-"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Dodaj wzorce glob, aby wybrać wyświetlane pliki. Rozpocznij wzorzec od \"!\", aby wykluczyć. Przykład: *.csv lub !**/draft-*.md";
+"File Tree — Custom Patterns" = "Drzewo plików — wzorce niestandardowe";
+"File Library — Custom Patterns" = "Biblioteka plików — wzorce niestandardowe";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Dodaj wzorce globalne, aby wybrać wyświetlane pliki. Rozpocznij wzorzec od \"!\", aby wykluczyć. Przykład: *.csv lub !**/draft-*.md";
 "Markdown and text files" = "Pliki Markdown i tekstowe";
 "Add Pattern" = "Dodaj wzorzec";
 "Included by default. To exclude some formats, use a \"!\" pattern." = "Domyślnie uwzględnione. Aby wykluczyć niektóre formaty, użyj wzorca \"!\".";

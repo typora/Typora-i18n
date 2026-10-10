@@ -9,71 +9,71 @@
  "Send Anonymous Usage Info"
  */
 
-"Welcome to Typora" = "Welcome to Typora";
-"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives  you a seamless experience between rendered rich style contents and its source code.";
+"Welcome to Typora" = "Vitajte v Typore";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Ďakujeme, že používate Typoru 👋. Typora je minimalistický editor a prehliadač Markdownu. Medzi vykresleným formátovaným textom a jeho zdrojovým kódom v nej prechádzate plynulo.";
 
-"Get Started" = "Get Started";
-"Check following links if you're new to Markdown or Typora." = "Check following links if you're new to Markdown or Typora.";
+"Get Started" = "Začíname";
+"Check following links if you're new to Markdown or Typora." = "Ak s Markdownom alebo Typorou začínate, pozrite si tieto prepojenia.";
 
-"Activate Typora" = "Activate Typora";
-"Already purchased a license? Fill the form below and activate Typora instantly." = "Already purchased a license? Fill the form below and activate Typora instantly.";
+"Activate Typora" = "Aktivovať Typoru";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "Už ste si kúpili licenciu? Vyplňte formulár nižšie a okamžite aktivujte Typoru.";
 
-"Email" = "Email";
-"Email Address" = "Email Address";
-"License Code" = "License Code";
+"Email" = "E-mail";
+"Email Address" = "E-mailová adresa";
+"License Code" = "Licenčný kód";
 
-"Help" = "Help";
-"Find my License" = "Find my License";
+"Help" = "Pomocník";
+"Find my License" = "Nájsť moju licenciu";
 
-"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>.";
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "Súhlasím s <a href='https://support.typora.io/License-Agreement/'>licenčnou zmluvou</a> a <a href='https://support.typora.io/Privacy-Policy/'>zásadami ochrany osobných údajov</a>";
 
-"Live Preview" = "Live Preview";
-"Write and read rendered output instantly." = "Write and read rendered output instantly.";
-"Markdown Syntax" = "Markdown Syntax";
-"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Code blocks, YAML, tasks, footnotes, tables, math, diagrams";
-"Import / Export" = "Import / Export";
-"Deliver your content in various formats." = "Deliver your content in various formats.";
-"Editing Experience" = "Editing Experience";
-"Outline / Word Count / Focus Mode / Typewriter Mode" = "Outline / Word Count / Focus Mode / Typewriter Mode";
+"Live Preview" = "Živý náhľad";
+"Write and read rendered output instantly." = "Píšte a hneď čítajte vykreslený výsledok.";
+"Markdown Syntax" = "Syntax Markdownu";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "Bloky kódu, YAML, úlohy, poznámky pod čiarou, tabuľky, matematické výrazy, diagramy";
+"Import / Export" = "Import / export";
+"Deliver your content in various formats." = "Publikujte obsah v rôznych formátoch.";
+"Editing Experience" = "Pohodlné úpravy";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "Prehľad / počet slov / režim zamerania / režim písacieho stroja";
 
-"Files" = "Files";
-"Manage files in sidebar and search across files." = "Manage files in sidebar and search across files.";
-"Customize" = "Customize";
-"Customize your writing experience from preferences panel." = "Customize your writing experience from preferences panel.";
-"Themes" = "Themes";
-"Write in the theme you like, or make one by your own." = "Write in the theme you like, or make one by your own.";
-"And more" = "And more";
-"Explore more topics at support.typora.io" = "Explore more topics at support.typora.io";
+"Files" = "Súbory";
+"Manage files in sidebar and search across files." = "Spravujte súbory v bočnom paneli a vyhľadávajte vo všetkých súboroch.";
+"Customize" = "Prispôsobenie";
+"Customize your writing experience from preferences panel." = "Prispôsobte si písanie v nastaveniach.";
+"Themes" = "Motívy";
+"Write in the theme you like, or make one by your own." = "Píšte v motíve, ktorý sa vám páči, alebo si vytvorte vlastný.";
+"And more" = "A ešte viac";
+"Explore more topics at support.typora.io" = "Ďalšie témy nájdete na stránke support.typora.io";
 
-"Quick Start" = "Quick Start";
-"Markdown Reference" = "Markdown Reference";
-"Explore Themes" = "Explore Themes";
-"More Topics" = "More Topics";
+"Quick Start" = "Rýchly štart";
+"Markdown Reference" = "Príručka Markdownu";
+"Explore Themes" = "Preskúmať motívy";
+"More Topics" = "Ďalšie témy";
 
-"Typora Activated" = "Typora Activated";
-"Thanks for your purchase." = "Thanks for your purchase.";
+"Typora Activated" = "Typora je aktivovaná";
+"Thanks for your purchase." = "Ďakujeme za nákup.";
 
-"Next" = "Next";
-"Please accept license agreement first" = "Please accept license agreement first";
-"Start %@ Days Trial" = "Start %@ Days Trial";
-"Buy License" = "Buy License";
-"Activate" = "Activate";
+"Next" = "Ďalej";
+"Please accept license agreement first" = "Najprv súhlaste s licenčnou zmluvou";
+"Start %@ Days Trial" = "Spustiť %@-dňové skúšobné obdobie";
+"Buy License" = "Kúpiť licenciu";
+"Activate" = "Aktivovať";
 
-"Close" = "Close";
-"Deactivate" = "Deactivate";
-"View License" = "View License";
-"Your Typora License" = "Your Typora License";
-"This copy of Typora is registered with license information below." = "This copy of Typora is registered with license information below.";
-"Your trial will be expired in %@ days." = "Your trial will be expired in %@ days.";
-"Enter License" = "Enter License";
-"Not Now" = "Not Now";
+"Close" = "Zatvoriť";
+"Deactivate" = "Deaktivovať";
+"View License" = "Zobraziť licenciu";
+"Your Typora License" = "Vaša licencia na Typoru";
+"This copy of Typora is registered with license information below." = "Táto kópia Typory je zaregistrovaná na licenciu uvedenú nižšie.";
+"Your trial will be expired in %@ days." = "Počet dní do konca skúšobného obdobia: %@.";
+"Enter License" = "Zadať licenciu";
+"Not Now" = "Teraz nie";
 
-"Please input a valid email address" = "Please input a valid email address";
-"Please input a valid license code"  = "Please input a valid license code";
-"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically.";
-"This license code has been used with a different email address." =  "This license code has been used with a different email address.";
-"Unknown Error. Please contact hi@typora.io" = "Unknown Error. Please contact hi@typora.io";
-"Failed to access the license server. Please check your network or try again later." = "Failed to access the license server. Please check your network or try again later.";
+"Please input a valid email address" = "Zadajte platnú e-mailovú adresu";
+"Please input a valid license code"  = "Zadajte platný licenčný kód";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "Vaša licencia prekročila maximálny počet zariadení.\nNajstaršie zariadenie bolo automaticky deaktivované.";
+"This license code has been used with a different email address." =  "Tento licenčný kód už bol použitý s inou e-mailovou adresou.";
+"Unknown Error. Please contact hi@typora.io" = "Neznáma chyba. Kontaktujte nás na adrese hi@typora.io";
+"Failed to access the license server. Please check your network or try again later." = "Nepodarilo sa pripojiť k licenčnému serveru. Skontrolujte sieťové pripojenie alebo to skúste znova neskôr.";
 
 
 "Are you sure to deactivate Typora on this device?" = "Naozaj chcete deaktivovať Typoru na tomto zariadení?";

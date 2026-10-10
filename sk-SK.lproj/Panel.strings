@@ -184,6 +184,8 @@
 "All Supported Formats" = "Všetky podporované formáty";
 "Discard Changes" = "Zahodiť zmeny";
 "Discard" = "Zahodiť";
+"Enter Without Saving" = "Prepnúť bez uloženia";
+"You have unsaved changes. Do you want to save them before entering Read-Only Mode ?" = "Máte neuložené zmeny. Chcete ich uložiť pred prepnutím do režimu iba na čítanie?";
 
 "Menu" = "Ponuka";
 "Back" = "Späť";
@@ -275,7 +277,7 @@
 "Typewriter / Focus Mode have been turned off." = "Režim písacieho stroja / zamerania boli vypnuté.";
 
 "Reading Speed" = "Rýchlosť čítania";
-"Auto" = "Auto";
+"Auto" = "Automaticky";
 "words / min" = "slov / minút";
 
 "Edited files will be saved without asking when switch files in left panel. \\nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Edited files will be saved without asking when switch files in left panel. \\nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled.";
@@ -299,6 +301,7 @@
 "These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti je možné zmeniť aj v ponuke \"Upraviť→Biele znaky a zalomenia riadkov\"";
 "Auto escape image URL when insert" = "Automaticky escapovať URL obrázka pri vkladaní";
 "For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Napríklad ak vložíte súbor na 'img/example file.png', zmení sa na 'img/example%20file.png'. Zapnite pre lepšiu kompatibilitu s inými Markdown enginmi, alebo vypnite pre lepšiu čitateľnosť.";
+"Check updates automatically" = "Kontrolova aktualizácie automaticky";
 "Skip This Version" = "Preskočiť túto verziu";
 "Remind Me Later" = "Pripomenúť neskôr";
 "Download Update" = "Stiahnuť aktualizáciu";
@@ -365,6 +368,7 @@
 "US Legal" = "US Legal";
 "Tabloid" = "Tabloid";
 "Page Break" = "Zlom strany";
+"Page Break Between Top Headings" = "Zlom strany medzi hlavnými nadpismi";
 "Header" = "Hlavička";
 "Footer" = "Pätička";
 "Author" = "Autor";
@@ -372,6 +376,7 @@
 "Append in <body />" = "Pridať do <body />";
 "Include Outline Sidebar" = "Zahrnúť bočný panel prehľadu";
 "Width" = "Šírka";
+"Command" = "Príkaz";
 "Show Save File Dialog" = "Zobraziť dialóg uloženia súboru";
 "File Extensions for Export" = "Prípony súborov pre export";
 "Arguments" = "Argumenty";
@@ -412,6 +417,8 @@
 "Target File Extensions (separate by whitespace)" = "Prípony cieľových súborov (oddelené medzerami)";
 "e.g: .text .asciidoc or leave this empty" = "napr.: .text .asciidoc alebo nechajte prázdne";
 "Raw Type" = "Surový typ";
+"Auto" = "Automaticky";
+"Show Save File Dialog" = "Zobraziť dialóg uloženia súboru";
 "Do not popup save file dialog" = "Nezobrazovať dialóg uloženia súboru";
 "Select file path to save" = "Vybrať cestu k súboru na uloženie";
 "Select folder path to save" = "Vybrať cestu k priečinku na uloženie";
@@ -421,6 +428,7 @@
 "Command Arguments:" = "Argumenty príkazu:";
 "This dev version of Typora is expired, please download and install a newer version." = "Táto vývojárska verzia Typory vypršala, prosím stiahnite a nainštalujte novšiu verziu.";
 "Current Theme" = "Aktuálny motív";
+"After Export" = "Po exporte";
 "Run command" = "Spustiť príkaz";
 "Run command after export failed" = "Spustiť príkaz po zlyhaní exportu";
 "Read and overwrite export settings from YAML front matters" = "Načítať a prepísať nastavenia exportu z YAML front matters";
@@ -468,7 +476,7 @@
 "Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "Kopírovať alebo vystrihnúť celé riadky s kurzorom, ak nie je žiadny výber pri kopírovaní / vystrihnutí.";
 "Enable physics package" = "Povoliť balíček physics";
 "Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Balík Physics predefinuje niektoré LaTeX makrá, ako \\div, \\Re, atď.";
-"Detail" = "Detail";
+"Detail" = "Podrobnosti";
 "Use custom font size" = "Použiť vlastnú veľkosť písma";
 "Use theme font size" = "Použiť veľkosť písma motívu";
 "You are using the Snap version, it may have limited access to your local executables." = "Používate verziu Snap, tá môže mať obmedzený prístup k vašim lokálnym spustiteľným súborom.";
@@ -495,6 +503,7 @@
 "Default File Type / Extension" = "Predvolený typ súboru / prípona";
 "Custom Extension:" = "Vlastná prípona:";
 "Following extensions are supported: %@" = "Podporované sú nasledujúce prípony: %@";
+"e.g: %@" = "napr.: %@";
 "When drop file / folder into Typora" = "Pri potiahnutí súboru / priečinka do Typory";
 "When drop folder" = "Pri potiahnutí priečinka";
 "When drop markdown file" = "Pri potiahnutí súboru Markdown";
@@ -545,8 +554,8 @@
 "Physics package will redefine some latex macros, such as \div, \Re, etc." = "Balíček physics predefinuje niektoré makrá LaTeX, ako \div, \Re atď.";
 "Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať \"Markdown\" do kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
 "Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
-"Use legacy inline math parsing (compatible mode)" = "Use legacy inline math parsing (compatible mode)";
-"Use legacy inline math parsing hint" = "<div><b>Off (default)</b>: Inline math follows <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>-like rules: no whitespace right after the opening <code>$</code>, no whitespace before the closing <code>$</code>, and the closing <code>$</code> must not be directly followed by a digit.</div><div><b>On (compatible mode)</b>: Legacy Typora rule — a span from <code>$</code> to the next <code>$</code> counts as math if the character before the closing <code>$</code> is not <code>\\</code> (more dollar pairs are interpreted as math).</div><div>See <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
+"Use legacy inline math parsing (compatible mode)" = "Použiť staršie spracovanie matematiky v riadku (režim kompatibility)";
+"Use legacy inline math parsing hint" = "<div><b>Vypnuté (predvolené)</b>: Matematika v riadku sa riadi pravidlami v štýle <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>: hneď za otváracím <code>$</code> nesmie byť medzera, pred uzatváracím <code>$</code> nesmie byť medzera a hneď za uzatváracím <code>$</code> nesmie nasledovať číslica.</div><div><b>Zapnuté (režim kompatibility)</b>: Staršie pravidlo Typory: úsek od <code>$</code> po najbližší <code>$</code> sa považuje za matematiku, ak znak pred uzatváracím <code>$</code> nie je <code>\\</code> (ako matematika sa tak rozpozná viac dvojíc znakov dolára).</div><div>Pozrite si <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
 /* File Tree / Library (Files panel) */
 "File Tree / Library" = "Strom súborov / Knižnica súborov";

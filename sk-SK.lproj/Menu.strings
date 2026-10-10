@@ -137,7 +137,7 @@
 "Emphasis" = "Zvýraznenie";
 "Underline" = "Podčiarknutie";
 "Code" = "Kód";
-"Inline Math" = "Vnorená Matematika";
+"Inline Math" = "Matematika v riadku";
 "Strike" = "Prečiarknuté";
 "Highlight" = "Zvýraznenie";
 "Superscript" = "Horný index";
@@ -213,7 +213,7 @@
 "Delete Code Block" = "Vymazať blok kódu";
 "Copy as MathML" = "Kopírovať ako MathML";
 "Copy as Tex" = "Kopírovať ako Tex";
-"Copy Math" = "Kopírovať Matematiku";
+"Copy Math" = "Kopírovať matematiku";
 "Reveal in Finder" = "Zobraziť vo Finderi";
 "Open Link" = "Otvoriť prepojenie";
 "Reveal in Sidebar" = "Zobraziť v bočnom paneli";
@@ -257,7 +257,7 @@
 "Reopen Closed File" = "Otvoriť zavretý súbor";
 
 "Global Image Settings" = "Globálne nastavenie obrázkov";
-"Smart Punctuation" = "Dynamické interpunkcia";
+"Smart Punctuation" = "Dynamická interpunkcia";
 "Convert on Input" = "Konvertovať na vstupe";
 "Convert on Rendering" = "Konvertovať na vykresľovanie";
 "Remap Unicode Punctuation on Parse" = "Zmeniť priradenie Unicode znakov počas parsovanie";
@@ -329,7 +329,7 @@
 "Move All Images to" = "Presunúť všetky obrázky do";
 "Copy as Image" = "Kopírovať ako obrázok";
 "Switch Image Syntax" = "Prepnúť syntax obrázka";
-"Markdown Style" = "Štýl Markdown";
+"Markdown Style" = "Štýl Markdownu";
 "HTML Style" = "Štýl HTML";
 "Code Tools" = "Nástroje kódu";
 "Copy Code Content" = "Kopírovať obsah kódu";

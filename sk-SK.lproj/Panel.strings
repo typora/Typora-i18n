@@ -18,11 +18,11 @@
 "Seamless window only support OS X later than 10.10." = "Bezrámové okno je podporové len u OS X novších než 10.10.";
 "Themes" = "Motívy";
 "Open Theme Folder" = "Otvoriť priečinok s motívmi";
-"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Prosím pozrite sa na `pomoc`->`Rýchly štart` pre krátke predstavenie. Navštívte http://theme.typora.io pre získanie viac motívov a inštrukcií.";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Krátky úvod nájdete v ponuke `Pomocník` → `Rýchly štart`. Ďalšie motívy a pokyny nájdete na stránke http://theme.typora.io.";
 "Word Count" = "Počet slov";
-"Always Show Word Count" = "VVždy zobrazovať počet slov";
+"Always Show Word Count" = "Vždy zobrazovať počet slov";
 "Font Size" = "Veľkosť písma";
-"Auto ( Recommended )" = "Automaticky （ Odporúčané ）";
+"Auto ( Recommended )" = "Automaticky (odporúčané)";
 "Customized" = "Prispôsobené";
 "If custom font size is used, the actual font size will depend on the base font size and css style." = "Ak je použitá vlastná veľkosť písma, tak veľkosť textu bude závisieť od veľkosti textu a štýlu CSS.";
 "Left Panel" = "Ľavý panel";
@@ -42,24 +42,24 @@
 "Use relative path if possible" = "Použiť relatívnu cestu pokiaľ je to možné";
 "Auto Pair" = "Automatické párovanie";
 "Auto pair brackets and quotes" = "Automaticky párovať zátvorky a úvodzovky";
-"Auto pair common Markdown syntax" = "Automaticky párovať častou syntax Markdown";
+"Auto pair common Markdown syntax" = "Automaticky párovať bežnú syntax Markdownu";
 "Live Rendering" = "Živé vykresľovanie";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Zobraziť zdroj pre jednoduché bloky\n(vrátane hlavičiek, atď.) na zameranie";
 "Default Copy Behavior" = "Predvolené správanie pri kopírovaní";
-"Copy Markdown source as plain text" = "Kopírovať Markdown ako obyčajný text";
+"Copy Markdown source as plain text" = "Kopírovať zdroj Markdownu ako obyčajný text";
 "Typewriter Mode" = "Režim písacieho stroja";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Vždy udržiavať ukazovateľ v strede obrazovky\nkeď je zapnutý režim písacieho stroja";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
-"(Following preferences will be applied after restart.)" = "(Nasledujúce nastavenia sa prejaví až po reštarte)";
+"(Following preferences will be applied after restart.)" = "(Nasledujúce nastavenia sa prejavia až po reštarte.)";
 "Syntax Support" = "Podpora syntaxe";
-"Inline Math  (e.g: $\LaTeX$)" = "Vnorená Matematika （ napr.：$\LaTeX$ ）";
-"Subscript    (e.g: H~2~O)" = "Dolný index    （ napr.：H~2~O ";
-"Superscript (e.g: X^2^)" = "Horný index （ napr.：X^2^ ）";
-"Highlight     (e.g: ==key==)" = "Zvýraznenie     （napr.：==kľúč==）";
+"Inline Math  (e.g: $\LaTeX$)" = "Matematika v riadku (napr. $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "Dolný index (napr. H~2~O)";
+"Superscript (e.g: X^2^)" = "Horný index (napr. X^2^)";
+"Highlight     (e.g: ==key==)" = "Zvýraznenie (napr. ==kľúč==)";
 "Diagrams" = "Diagramy";
-"(Sequence, Flowchart and Mermaid)" = "（Sekvencia, Vývojový diagram a Mermaid）";
+"(Sequence, Flowchart and Mermaid)" = "(Sekvencia, vývojový diagram a Mermaid)";
 "Syntax Preference" = "Nastavenie syntaxe";
 "(only applies to styles created from menubar or hybrid view)" = "(aplikovať iba na štýly vytvorené z menu alebo hybridného zobrazenia)";
 "Strict Mode" = "Prísny režim";
@@ -78,24 +78,24 @@
 "Send Anonymous Usage Info" = "Odosielať anonymné informácie o používaní";
 
 /* Pandoc Error Panel */
-"Require Pandoc to Continue..." = "Pre pokračovanie je vyžadovaný Pandoc...";
+"Require Pandoc to Continue..." = "Na pokračovanie je potrebný Pandoc…";
 "Follow instructions to install Pandoc" = "Nasledujte inštrukcie pre inštaláciu Pandoc";
 "Cancel" = "Zrušiť";
 
 /* Pandoc Import Panel */
-"Importing..." = "Importuje sa";
-"Importing in progress..." = "Prebieha import...";
+"Importing..." = "Importuje sa…";
+"Importing in progress..." = "Prebieha import…";
 "Converting file with Pandoc. This may take some time." = "Konvertuje sa súbor pomocou Pandoc. Môže to chvíľu trvať.";
 "Abort" = "Prerušiť";
 
 /* Pandoc Export Panel */
-"Exporting..." = "Exportuje sa...";
-"Exporting in progress..." = "Prebieha export...";
+"Exporting..." = "Exportuje sa…";
+"Exporting in progress..." = "Prebieha export…";
 "Converting file with Pandoc. This may take some time." = "Konvertuje sa súbor pomocou Pandoc. Môže to chvíľu trvať.";
 
 /* Export & Import */
 "Pandoc is needed for importing these file formats" = "Na import týchto formátov súborov je potrebný Pandoc";
-"Check help->Install and use Pandoc from menubar for detail" = "Pozrite sa na pomoc->Inštalácia a použitie Pandoc z menu pre detaily.";
+"Check help->Install and use Pandoc from menubar for detail" = "Podrobnosti nájdete v ponuke Pomocník → Inštalácia a použitie Pandocu.";
 "Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "Import a niektoré exportné funkcie vyžadujú inštaláciu <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0)";
 "Follow Instructions to Install/Update Pandoc" = "Nasledujte inštrukcie pre inštaláciu/aktualizaciu Pandoc";
 "Export Failed" = "Zlyhal export";
@@ -104,17 +104,17 @@
 "Failed to export file to <em>{0}</em>" = "Zlyhal export súboru do <em>{0}</em>";
 "Failed to import file from <em>{0}</em>" = "Zlyhal import súboru z <em>{0}</em>";
 "File does not exist at <em>{0}</em>" = "Súbor neexistuje na <em>{0}</em>";
-"Export to..." = "Exportovať do...";
+"Export to..." = "Exportovať do…";
 "Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "Chcete uložiť zmeny vykonané v tomto dokumente ?<br> Ak zmeny neuložíte, stratia sa.";
 "Dark Theme not support" = "Tmavý motív nie je podporovaný";
-"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Je nám ľúto, ale súčasná verzia aplikácie Typora na exportovaný súbor PDF nevytlačí farbu pozadia, takže tmavý motív zatiaľ nie je podporovaný pre export do PDF. \nProsím vyberte svetlý motív alebo kliknite na tlačidlo \"Tlač s predvoleným motívom\"";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Súčasná verzia Typory nevytlačí do exportovaného súboru PDF farbu pozadia, takže tmavý motív zatiaľ nie je pri exporte do PDF podporovaný. \nVyberte svetlý motív alebo kliknite na tlačidlo Tlač s predvoleným motívom";
 "Print with default theme" = "Tlač s predvoleným motívom";
 "Export to PDF successfully." = "Export do PDF úspešne prebehol.";
 "Converting file using Pandoc. This may take some time." = "Konvertuje sa súbor pomocou Pandoc. Môže to chvíľu trvať.";
 "Exporting file using Pandoc. This may take some time." = "Exportuje sa súbor pomocou Pandoc. Môže to chvíľu trvať.";
 
 /* Upload via iPic */
-"Uploading in progress…" = "Prebieha nahrávanie...";
+"Uploading in progress…" = "Prebieha nahrávanie…";
 "Do not show this again" = "Nabudúce to nezobrazovať";
 
 /* Word Count */
@@ -152,7 +152,7 @@
 "Developer" = "Vývojár";
 "Update" = "Aktualizácie";
 "Check Updates" = "Skontrolovať aktualizácie";
-"Check updates automatically" = "Kontrolova aktualizácie automaticky";
+"Check updates automatically" = "Kontrolovať aktualizácie automaticky";
 "Advanced Settings" = "Rozšírené nastavenia";
 "Open Advanced Settings" = "Otvoriť rozšírené nastavenia";
 "Reset Advanced Settings" = "Resetovať rozšírené nastavenia";
@@ -173,12 +173,12 @@
 "Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora sa snaží skopírovať novo vložený obrázok do priečinka % @ podľa vášho nastavenia preddefinovaných premenných YAML alebo globálnych nastaveniach. Cieľový priečinok však neexistuje, vytvoriť teraz?";
 "Create Folder and Continue" = "Vytvoriť priečinok a pokračovať";
 "Document must be saved first" = "Dokument sa musí najskôr uložiť";
-"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora skopíruje novo vložený obrázok do priečinka vybranou podľa relatívnej cesty, preto prosím najskôr uložte súbor.";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora skopíruje novo vložený obrázok do priečinka podľa vybranej relatívnej cesty, preto súbor najskôr uložte.";
 "Open Operation Failed" = "Zlyhalo otvorenie";
 
 "Support Documentation" = "Dokumentácia podpory";
 
-"Markdown File" = "Markdown súbor";
+"Markdown File" = "Markdownový súbor";
 "Plain Text File" = "Obyčajný textový súbor";
 "All Files" = "Všetky súbory";
 "All Supported Formats" = "Všetky podporované formáty";
@@ -191,14 +191,14 @@
 "Back" = "Späť";
 
 "Contact" = "Kontakt";
-"Open From..." = "Otvoriť z...";
-"Import..." = "Importovať...";
+"Open From..." = "Otvoriť z…";
+"Import..." = "Importovať…";
 "Recent Documents" = "Naposledy otvorené dokumenty";
 "Search for" = "Hľadať";
 "Clear Recent Documents" = "Vymazať naposledy otvorené dokumenty";
 "File Name" = "Názov súboru";
 "Path" = "Cesta";
-"Export As..." = "Exportovať ako...";
+"Export As..." = "Exportovať ako…";
 "More Formats" = "Ďalšie formáty";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "Formáty súborov v časti 'Ďalšie formáty' vyžadujů <a class='open-pandoc-guide'>Inštaláciu Pandocu</a>.";
 "Something is Wrong…" = "Niečo nefunguje…";
@@ -210,7 +210,7 @@
 "Indent Size for Code" = "Veľkosť odsadenie pre kód";
 "Auto wrap long lines" = "Automaticky zalamovať dlhé riadky";
 
-"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Je nám ľúto, ale súčasná verzia aplikácie Typora na exportovaný súbor PDF nevytlačí farbu pozadia.\nTakže tmavý motív zatiaľ nie je podporovaný pre tlač. \n\nProsím vyberte svetlý motív alebo exportujťe do PDF.";
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "Súčasná verzia Typory nevytlačí farbu pozadia.\nTmavý motív preto zatiaľ nie je pri tlači podporovaný. \n\nVyberte svetlý motív alebo dokument exportujte do PDF.";
 "Export to PDF" = "Exportovať do PDF";
 "Pretty indentation" = "Pekné odsadenie";
 "Update markdown reference for this image" = "Aktualizujte referenčný odkaz na tento obrázok";
@@ -238,7 +238,7 @@
 "Restore last closed files and folders" = "Obnoviť posledné uzavreté súbory a priečinky";
 "Open custom folder" = "Otvoriť vlastný priečinok";
 "Select custom folder" = "Vybrať vlastný priečinok";
-"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Táto možnosť sa dá prepísať \"Zatvoriť okná pri zatvorení aplikácie\" v systémových nastaveniach";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "Túto možnosť môže prepísať nastavenie „Zatvoriť okná pri ukončení aplikácie“ v systémových nastaveniach";
 
 "Ignore" = "Ignorovať";
 "Choose Default Folder" = "Vybrať predvolený priečinok";
@@ -246,10 +246,10 @@
 "<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>Rozponať interpunkcie Unicode ako ASCII, napr.:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>Automaticky sa zapne, ak sa dynamické úvodzovky/pomlčky prevedú na vstup.<div>";
 
 "Copy image to custom folder" = "Kopírovať obrázok do vlastného priečinka";
-"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Prosím zadajte relatívnu cestu k aktuálnemu priečinku, ktorý začína na './' alebo '../', alebo absolútnu cestu. (`${filename}` predstavujúce názov súboru.)";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "Zadajte relatívnu cestu k aktuálnemu priečinku, ktorá sa začína na './' alebo '../', alebo absolútnu cestu k priečinku. (`${filename}` predstavuje aktuálny názov súboru.)";
 "Restore to previous setting" = "Obnoviť do predchádzajúceho nastavenia";
-"Folder not exist at %@, please input another path." = "Priečinok neexistuje v %@, prosím zadajte inú cestu.";
-"Please input a folder path." = "Prosím zadajte cestu k priečinku.";
+"Folder not exist at %@, please input another path." = "Priečinok %@ neexistuje, zadajte inú cestu.";
+"Please input a folder path." = "Zadajte cestu k priečinku.";
 "Cannot use root path." = "Nemožno použiť koreňovú cestu.";
 
 "Get Themes" = "Získať motívy";
@@ -298,10 +298,10 @@
 "Check Update Failed" = "Kontrola aktualizácií zlyhala";
 "You're up to date!" = "Máte najnovšiu verziu!";
 "Latest version is $1, your version is $2" = "Najnovšia verzia je $1, vaša verzia je $2";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti je možné zmeniť aj v ponuke \"Upraviť→Biele znaky a zalomenia riadkov\"";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti je možné zmeniť aj v ponuke „Upraviť→Biele znaky a zalomenia riadkov“";
 "Auto escape image URL when insert" = "Automaticky escapovať URL obrázka pri vkladaní";
-"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Napríklad ak vložíte súbor na 'img/example file.png', zmení sa na 'img/example%20file.png'. Zapnite pre lepšiu kompatibilitu s inými Markdown enginmi, alebo vypnite pre lepšiu čitateľnosť.";
-"Check updates automatically" = "Kontrolova aktualizácie automaticky";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "Ak napríklad vložíte súbor 'img/example file.png', jeho cesta sa zmení na 'img/example%20file.png'. Zapnite, ak chcete lepšiu kompatibilitu s inými procesormi Markdownu, alebo vypnite, ak chcete lepšiu čitateľnosť.";
+"Check updates automatically" = "Kontrolovať aktualizácie automaticky";
 "Skip This Version" = "Preskočiť túto verziu";
 "Remind Me Later" = "Pripomenúť neskôr";
 "Download Update" = "Stiahnuť aktualizáciu";
@@ -333,7 +333,7 @@
 "Instructions" = "Inštrukcie";
 "Download %@" = "Stiahnuť %@";
 "Image Upload Setting" = "Nastavenie nahrávania obrázkov";
-"Please set an image uploader in Preferences panel before using this function." = "Prosím nastavte nástroj na nahrávanie obrázkov v paneli nastavení pred použitím tejto funkcie.";
+"Please set an image uploader in Preferences panel before using this function." = "Pred použitím tejto funkcie nastavte v nastaveniach nástroj na nahrávanie obrázkov.";
 "Download or Upgrade" = "Stiahnuť alebo aktualizovať";
 "Open Config File" = "Otvoriť konfiguračný súbor";
 "Command" = "Príkaz";
@@ -424,9 +424,9 @@
 "Select folder path to save" = "Vybrať cestu k priečinku na uloženie";
 "PDF Engine" = "PDF engine";
 "Show command output" = "Zobraziť výstup príkazu";
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportovať a prepísať predchádzajúci\" prepíše súbor na %@, chcete pokračovať?";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "„Exportovať a prepísať predchádzajúci“ prepíše súbor na %@, chcete pokračovať?";
 "Command Arguments:" = "Argumenty príkazu:";
-"This dev version of Typora is expired, please download and install a newer version." = "Táto vývojárska verzia Typory vypršala, prosím stiahnite a nainštalujte novšiu verziu.";
+"This dev version of Typora is expired, please download and install a newer version." = "Platnosť tejto vývojovej verzie Typory sa skončila. Stiahnite a nainštalujte novšiu verziu.";
 "Current Theme" = "Aktuálny motív";
 "After Export" = "Po exporte";
 "Run command" = "Spustiť príkaz";
@@ -435,7 +435,7 @@
 "Append Extra Content (HTML)" = "Pridať ďalší obsah (HTML)";
 "Change this option to specify a separated theme for export." = "Zmeňte túto možnosť na určenie samostatného motívu pre export.";
 "Dark theme is not supported." = "Tmavý motív nie je podporovaný.";
-"Markdown Variants" = "Varianty Markdown";
+"Markdown Variants" = "Varianty Markdownu";
 "Original Unextended Markdown" = "Pôvodný nerozšírený Markdown";
 "CommonMark with many pandoc extensions" = "CommonMark s mnohými rozšíreniami Pandoc";
 "Line Wrap" = "Zalamovanie riadkov";
@@ -506,7 +506,7 @@
 "e.g: %@" = "napr.: %@";
 "When drop file / folder into Typora" = "Pri potiahnutí súboru / priečinka do Typory";
 "When drop folder" = "Pri potiahnutí priečinka";
-"When drop markdown file" = "Pri potiahnutí súboru Markdown";
+"When drop markdown file" = "Pri potiahnutí markdownového súboru";
 "When drop files that can be imported" = "Pri potiahnutí súborov, ktoré sa dajú importovať";
 "Open in Typora" = "Otvoriť v Typore";
 "Insert Folder Link" = "Vložiť prepojenie na priečinok";
@@ -531,14 +531,14 @@
 "Remove from List" = "Odstrániť zo zoznamu";
 "Record recent files and folders" = "Zaznamenávať nedávne súbory a priečinky";
 "System Integration" = "Integrácia so systémom";
-"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať \"Markdown\" do kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
-"Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
-"Please try sign out Windows to take effect." = "Prosím skúste sa odhlásiť z Windows, aby sa zmeny prejavili.";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať „Markdown“ do kontextovej ponuky „Nový“ v Prieskumníkovi Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky „Nový“ v Prieskumníkovi Windows";
+"Please try sign out Windows to take effect." = "Zmeny sa prejavia po odhlásení z Windowsu.";
 "Github Style Alert" = "Upozornenie v štýle Github";
 "Zoom when using mouse wheel and holding %@ key" = "Zväčšenie pomocou kolieska myši pri podržaní klávesu %@";
 "Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "Aktuálny dokument obsahuje neuložené zmeny. Chcete prepnúť na novo duplikovaný súbor?";
 "Chapter Level in Outline" = "Úroveň kapitoly v prehľade";
-"Enable inline math or code block math" = "Povoliť vnorené matematické výrazy alebo matematický blok kódu";
+"Enable inline math or code block math" = "Povoliť matematiku v riadku alebo matematický blok kódu";
 "Code Block Math  (```math code block)" = "Matematický blok kódu  (```math blok kódu)";
 "PicList Path" = "Cesta k PicList";
 "Auto Complete" = "Automatické dokončovanie";
@@ -548,12 +548,12 @@
 
 "Apply Line Break at \\\\ and &#92;newline" = "Použiť koniec riadka pri \\\\ a &#92;newline";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "Upravené súbory budú uložené bez opýtania pri prepínaní súborov na ľavom paneli. \nKeď je v nastaveniach systému vypnutá možnosť \"Opýtať sa na uloženie zmien pri zatváraní dokumentov\", je toto vždy zapnuté.";
-"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti sa dajú zmeniť aj v ponuke \"Upraviť→Medzery a zlomy riadkov\"";
-"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"Exportovať a prepísať predchádzajúcim\" prepíše súbor na %@, chcete pokračovať?";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "Tieto možnosti sa dajú zmeniť aj v ponuke „Upraviť→Medzery a zlomy riadkov“";
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "„Exportovať a prepísať predchádzajúcim“ prepíše súbor na %@, chcete pokračovať?";
 "Apply Line Break at \ and &#92;newline" = "Použiť zlom riadka pri \ a &#92;newline";
 "Physics package will redefine some latex macros, such as \div, \Re, etc." = "Balíček physics predefinuje niektoré makrá LaTeX, ako \div, \Re atď.";
-"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať \"Markdown\" do kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
-"Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky \"Nový\" v Prieskumníkovi Windows";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Pridať „Markdown“ do kontextovej ponuky „Nový“ v Prieskumníkovi Windows";
+"Delete items from \"New\" context menu in Windows Explorer" = "Odstrániť položky z kontextovej ponuky „Nový“ v Prieskumníkovi Windows";
 "Use legacy inline math parsing (compatible mode)" = "Použiť staršie spracovanie matematiky v riadku (režim kompatibility)";
 "Use legacy inline math parsing hint" = "<div><b>Vypnuté (predvolené)</b>: Matematika v riadku sa riadi pravidlami v štýle <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a>: hneď za otváracím <code>$</code> nesmie byť medzera, pred uzatváracím <code>$</code> nesmie byť medzera a hneď za uzatváracím <code>$</code> nesmie nasledovať číslica.</div><div><b>Zapnuté (režim kompatibility)</b>: Staršie pravidlo Typory: úsek od <code>$</code> po najbližší <code>$</code> sa považuje za matematiku, ak znak pred uzatváracím <code>$</code> nie je <code>\\</code> (ako matematika sa tak rozpozná viac dvojíc znakov dolára).</div><div>Pozrite si <a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a>.</div>";
 
@@ -565,12 +565,12 @@
 "File Library" = "Knižnica súborov";
 "Supported Files (Markdown & Plain Text)" = "Podporované súbory (Markdown a obyčajný text)";
 "Configure" = "Konfigurovať";
-"File Tree — Custom Patterns" = "Strom súborov — Vlastné vzory";
-"File Library — Custom Patterns" = "Knižnica súborov — Vlastné vzory";
-"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Pridajte vzory glob na výber zobrazených súborov. Vzor začínajúci \"!\" vylučuje. Príklad: *.csv alebo !**/draft-*.md";
-"Markdown and text files" = "Súbory Markdown a textové súbory";
+"File Tree — Custom Patterns" = "Strom súborov – vlastné vzory";
+"File Library — Custom Patterns" = "Knižnica súborov – vlastné vzory";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "Pridajte vzory glob na výber zobrazených súborov. Vzor začínajúci „!“ vylučuje. Príklad: *.csv alebo !**/draft-*.md";
+"Markdown and text files" = "Markdownové a textové súbory";
 "Add Pattern" = "Pridať vzor";
-"Included by default. To exclude some formats, use a \"!\" pattern." = "Zahrnuté v predvolenom nastavení. Ak chcete vylúčiť niektoré formáty, použite vzor \"!\".";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "Zahrnuté v predvolenom nastavení. Ak chcete vylúčiť niektoré formáty, použite vzor „!“.";
 
 /* Editor Toolbar */
 "Toolbar" = "Panel nástrojov";

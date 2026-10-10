@@ -26,7 +26,7 @@
 "Open Folder" = "Otvoriť priečinok";
 "Reopen with Encoding" = "Otvoriť s kódovaním";
 "Reload from Disk" = "Znovu načítať z disku";
-"Auto" = "Auto";
+"Auto" = "Automaticky";
 "Open Recent" = "Otvoriť nedávne";
 "Recent Locations" = "Nedávne umiestnenie";
 "Clear Items" = "Vymazať položky";
@@ -137,7 +137,7 @@
 "Emphasis" = "Zvýraznenie";
 "Underline" = "Podčiarknutie";
 "Code" = "Kód";
-"Inline Math" = "Vnorená Matematika";
+"Inline Math" = "Matematika v riadku";
 "Strike" = "Prečiarknuté";
 "Highlight" = "Zvýraznenie";
 "Superscript" = "Horný index";
@@ -213,7 +213,7 @@
 "Delete Code Block" = "Vymazať blok kódu";
 "Copy as MathML" = "Kopírovať ako MathML";
 "Copy as Tex" = "Kopírovať ako Tex";
-"Copy Math" = "Kopírovať Matematiku";
+"Copy Math" = "Kopírovať matematiku";
 "Reveal in Finder" = "Zobraziť vo Finderi";
 "Open Link" = "Otvoriť prepojenie";
 "Reveal in Sidebar" = "Zobraziť v bočnom paneli";
@@ -257,7 +257,7 @@
 "Reopen Closed File" = "Otvoriť zavretý súbor";
 
 "Global Image Settings" = "Globálne nastavenie obrázkov";
-"Smart Punctuation" = "Dynamické interpunkcia";
+"Smart Punctuation" = "Dynamická interpunkcia";
 "Convert on Input" = "Konvertovať na vstupe";
 "Convert on Rendering" = "Konvertovať na vykresľovanie";
 "Remap Unicode Punctuation on Parse" = "Zmeniť priradenie Unicode znakov počas parsovanie";
@@ -289,6 +289,8 @@
 "Zoom Image to %@" = "Zväčšiť obrázok na %@";
 "Copy as Plain Text" = "Kopírovať ako obyčajný text";
 "Selection" = "Výber";
+"Start Speaking" = "Spustiť rozprávanie";
+"Stop Speaking" = "Zastaviť rozprávanie";
 "Check Updates" = "Skontrolovať aktualizácie";
 "HTML (without Styles)" = "HTML (bez štýlov)";
 "Highlight Current Header" = "Zvýrazniť aktuálny nadpis";
@@ -298,7 +300,7 @@
 "Flat Outline" = "Plochý prehľad";
 "Articles (List View)" = "Články (Zobrazenie zoznamu)";
 "File Tree (Tree View)" = "Strom súborov (Stromové zobrazenie)";
-"Filter" = "Filter";
+"Filter" = "Filtrovať";
 "Upload Image" = "Nahrať obrázok";
 "Upload All Local Images" = "Nahrať všetky lokálne obrázky";
 "Open Image in Browser" = "Otvoriť obrázok v prehliadači";
@@ -327,7 +329,7 @@
 "Move All Images to" = "Presunúť všetky obrázky do";
 "Copy as Image" = "Kopírovať ako obrázok";
 "Switch Image Syntax" = "Prepnúť syntax obrázka";
-"Markdown Style" = "Štýl Markdown";
+"Markdown Style" = "Štýl Markdownu";
 "HTML Style" = "Štýl HTML";
 "Code Tools" = "Nástroje kódu";
 "Copy Code Content" = "Kopírovať obsah kódu";

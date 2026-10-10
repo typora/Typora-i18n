@@ -30,7 +30,7 @@
 "search text" = "hľadať text";
 
 /* Quick Open */
-"Search by file name" = "Hľadánie podľa názvu súboru";
+"Search by file name" = "Hľadanie podľa názvu súboru";
 "Searching" = "Hľadá sa";
 "Gathering more results" = "Získava sa viac výsledkov";
 
@@ -50,7 +50,7 @@
 
 /* Math */
 "Edit" = "Upraviť";
-"Delete Math" = "Odstrániť Matematiku";
+"Delete Math" = "Odstrániť matematiku";
 "Preview" = "Náhľad";
 
 /* Sidebar */
@@ -62,10 +62,10 @@
 "Switch to Outline view" = "Prepnúť na zobrazenie prehľadu";
 "Close sidebar" = "Zatvoriť bočný panel";
 "Loading" = "Načítava sa";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Vybraté priečinky obsahujú príliš veľa súborov. \nProsím prepnite na <a id='switch-to-tree-on-oversize'>Stromové zobrazenie súborov</a> pre lepší výkon.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Vybraté priečinky obsahujú príliš veľa súborov. \nKvôli lepšiemu výkonu prepnite na <a id='switch-to-tree-on-oversize'>Stromové zobrazenie súborov</a>.";
 "New File" = "Nový súbor";
 "Unpin Outline Panel" = "Odpojiť prehľadový panel";
-"Open Folder..." = "Otvoriť priečinok...";
+"Open Folder..." = "Otvoriť priečinok…";
 "Action" = "Akcia";
 "Close Sidebar Menu" = "Zatvoriť ponuku bočného panela";
 "Reveal in Finder" = "Zobraziť vo Finderi";
@@ -90,16 +90,16 @@
 
 "Table of Contents" = "Obsah";
 "Empty Diagram" = "Prázdny diagram";
-"Input Math TeX here" = "Vložiť Matematiku TeX tu";
+"Input Math TeX here" = "Sem zadajte matematický výraz v TeXu";
 
 "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Potreba definovať referenčnú poznámku pod čiarou <b>{0}</b> so syntaxou <a>[^{1}]: www.priklad.sk</a>";
 "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Potreba definovať referenčný odkaz <b>[{0}]</b> so syntaxou <b>[{1}]: www.priklad.sk</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Prosím definujte odkaz na obrázok pomocou \n[{0}]: http://priklad.png";
+"Please define image reference by \n[{0}]: http://example.png" = "Definujte odkaz na obrázok pomocou \n[{0}]: http://priklad.png";
 
 /* msg */
 "Failed to create file" = "Zlyhalo vytvorenie súboru";
 "Failed to create folder" = "Zlyhalo vytvorenie priečinka";
-"Failed to rename file" = "Zlyhalo premenovanie súboru";
+"Failed to rename file" = "Súbor sa nepodarilo premenovať";
 "Folder does not exist at %@" = "Priečinok neexistuje v %@";
 "File with the same name already exists at target path" = "Na cieľovej ceste už existuje súbor s rovnakým názvom";
 "Apply to All" = "Použiť na všetky";
@@ -110,11 +110,12 @@
 "Save File Failed!" = "Zlyhalo uloženie súboru!";
 "Cannot open folder {0}" = "Nemožno otvoriť priečinok {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Obsah súboru bol zmenený externou aplikáciou. Chcete načítať obsah z disku ?";
-"Should continue moving and overwrite existing file(s) ?" = "Malo by sa pokračovať v presúvanie a prepísať súbor(y) ?";
+"File content is changed by external applications. Reload content from disk ?" = "Obsah súboru bol zmenený externou aplikáciou. Chcete načítať obsah z disku?";
+"Reload from disk? Unsaved changes will be discarded." = "Chcete znovu načítať obsah z disku? Neuložené zmeny sa zahodia.";
+"Should continue moving and overwrite existing file(s) ?" = "Chcete pokračovať v presúvaní a prepísať existujúce súbory?";
 
-"Rename to \"{0}\" ?" = "Premenovať na \"{0}\" ?";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Zlyhalo premenovanie z \"{0}\" na \"{1}\"";
+"Rename to \"{0}\" ?" = "Chcete premenovať na „{0}“?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Nepodarilo sa premenovať „{0}“ na „{1}“";
 
 /* Image upload & move */
 "Successfully uploaded {0} images." = "Bolo úspešne nahrané {0} obrázkov";
@@ -133,11 +134,11 @@
 
 "input image URL" = "vložiť URL obrázka";
 "Select image from local file" = "Vybrať obrázok z lokálného súboru";
-"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>, myslíš <a href='$3' target='_blank' target='_blank'>$2</a> ?";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "Nedá sa otvoriť umiestnenie <code>$1</code>. Mysleli ste <a href='$3' target='_blank' target='_blank'>$2</a>?";
 
 "Finish Editing" = "Dokončiť úpravy";
 
-"Revert advanced setting file to default one ?" = "Vrátiť súbor rozšíreného nastavenia do predvolenej podoby ?";
+"Revert advanced setting file to default one ?" = "Chcete vrátiť súbor rozšírených nastavení do predvolenej podoby?";
 
 "Select Spell Check Language" = "Vybrať jazyk kontroly pravopisu";
 "Auto Detect Language" = "Automaticky zistiť jazyk";
@@ -181,7 +182,7 @@
 "You can right click titlebar to popup application menu." = "Kliknutím pravým tlačidlom myši na záhlavie zobrazíte ponuku aplikácie.";
 "Support Document" = "Dokument podpory";
 "You are not supposed to edit or save this file." = "Tento súbor nemáte upravovať ani ukladať.";
-"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Súbory v tomto umiestnení (%@) sú spravované Typorou a môžu byť automaticky vymazané.<br/>Prosím skopírujte obsah do nového súboru pre ďalšie úpravy.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "Súbory v tomto umiestnení (%@) sú spravované Typorou a môžu byť automaticky vymazané.<br/>Na ďalšie úpravy skopírujte obsah do nového súboru.";
 "File does not exist at path %@." = "Súbor na ceste %@ neexistuje.";
 "File does not exist at path %@, do you want to create one at that path?" = "Súbor na ceste %@ neexistuje, chcete ho vytvoriť?";
 "No Results" = "Žiadne výsledky";
@@ -190,8 +191,8 @@
 "Sort by Creation Date (Ascending)" = "Zoradiť podľa dátumu vytvorenia (Vzostupne)";
 "Sort by Creation Date (Descending)" = "Zoradiť podľa dátumu vytvorenia (Zostupne)";
 "code language" = "jazyk kódu";
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite \"Súbor\" → \"Presunúť do…\" z panela ponúk.";
-"Markdown file" = "Súbor Markdown";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2. Použite ponuku Súbor → Presunúť do…";
+"Markdown file" = "Markdownový súbor";
 "TextBundle file" = "Súbor TextBundle";
 "Images saved to TextBundle" = "Obrázky uložené do TextBundle";
-"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2, prosím použite \"Súbor\" → \"Presunúť do…\" z ponuky.";
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "Nemožno premenovať z $1 na $2. Použite ponuku Súbor → Presunúť do…";

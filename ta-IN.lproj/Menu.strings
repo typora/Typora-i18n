@@ -1,0 +1,375 @@
+/*
+  Menu.strings
+  Typora
+
+ by hi@typora.io
+
+ Tamil translation by @mrlearner1606
+*/
+
+/* Typora Menu */
+
+"About Typora" = "Typora பற்றி";
+"Preferences" = "விருப்பங்கள்";
+"Check for Updates" = "புதுப்பிப்புகளைச் சரிபார்";
+"Services" = "சேவைகள்";
+"Hide Typora" = "Typora-ஐ மறை";
+"Hide Others" = "மற்றவற்றை மறை";
+"Show All" = "அனைத்தையும் காட்டு";
+"Quit Typora" = "Typora-ஐ வெளியேறு";
+
+/* File Menu */
+
+"File" = "கோப்பு";
+"New" = "புதியது";
+"Open" = "திற";
+"Open Folder" = "கோப்புறையைத் திற";
+"Reopen with Encoding" = "குறியாக்கத்துடன் மீண்டும் திற";
+"Reload from Disk" = "வட்டிலிருந்து மீண்டும் ஏற்று";
+"Auto" = "தானியங்கு";
+"Open Recent" = "சமீபத்தியவற்றைத் திற";
+"Recent Locations" = "சமீபத்திய இருப்பிடங்கள்";
+"Clear Items" = "உருப்படிகளை அழி";
+"No Recent Files" = "சமீபத்திய கோப்புகள் இல்லை";
+"Open Quickly" = "விரைவாகத் திற";
+"Open File Location" = "கோப்பு இருப்பிடத்தைத் திற";
+"Reveal in Library" = "நூலகத்தில் காட்டு";
+"Reveal in File Tree" = "கோப்பு மரத்தில் காட்டு";
+"Close" = "மூடு";
+"Save" = "சேமி";
+"Save As" = "இவ்வாறு சேமி";
+"Duplicate" = "நகல் எடு";
+"Rename" = "மறுபெயரிடு";
+"Move To" = "இங்கே நகர்த்து";
+"Revert To" = "இதற்கு மீட்டமை";
+"Browse All Versions" = "அனைத்துப் பதிப்புகளையும் உலாவு";
+"Import" = "இறக்குமதி";
+"Export" = "ஏற்றுமதி";
+"Page Setup" = "பக்க அமைப்பு";
+"Print" = "அச்சிடு";
+
+/* Edit Menu */
+"Edit" = "திருத்து";
+"Undo" = "செயல்தவிர்";
+"Redo" = "மீள்செய்";
+"Cut" = "வெட்டு";
+"Copy" = "நகலெடு";
+"Paste" = "ஒட்டு";
+"Copy as Markdown" = "மார்க்டவுனாக நகலெடு";
+"Copy as HTML Code" = "HTML குறியீடாக நகலெடு";
+"Paste as Plain Text" = "எளிய உரையாக ஒட்டு";
+"Select All" = "அனைத்தையும் தேர்ந்தெடு";
+"Select Line / Sentence" = "வரி / வாக்கியத்தைத் தேர்ந்தெடு";
+"Select Styled Scope" = "பாணி எல்லையைத் தேர்ந்தெடு";
+"Select Word" = "சொல்லைத் தேர்ந்தெடு";
+"Delete" = "நீக்கு";
+"Delete Range" = "வரம்பை நீக்கு";
+"Delete Word" = "சொல்லை நீக்கு";
+"Delete Styled Scope" = "பாணி எல்லையை நீக்கு";
+"Delete Line / Sentence" = "வரி / வாக்கியத்தை நீக்கு";
+"Jump To" = "இங்கே செல்";
+"Jump to Top" = "மேலே செல்";
+"Jump to Selection" = "தேர்வுக்குச் செல்";
+"Jump to Bottom" = "கீழே செல்";
+"Math Tools" = "கணிதக் கருவிகள்";
+"Refresh All Math Expressions" = "அனைத்துக் கணிதக் கோவைகளையும் புதுப்பி";
+"Image Tools" = "படக் கருவிகள்";
+"Insert Local Images" = "உள்ளூர் படங்களைச் செருகு";
+"Upload Local Images via iPic" = "iPic வழி உள்ளூர் படங்களைப் பதிவேற்று";
+"When Insert Local Image" = "உள்ளூர் படத்தைச் செருகும்போது";
+"Copy Image File to Folder" = "படக் கோப்பைக் கோப்புறைக்கு நகலெடு";
+"Use Image Root Path" = "பட மூலப் பாதையைப் பயன்படுத்து";
+"Line Endings" = "வரி முடிவுகள்";
+"Windows Line Endings (CRLF)" = "Windows வரி முடிவுகள் (CRLF)";
+"Unix Line Endings (LF)" = "Unix வரி முடிவுகள் (LF)";
+"Find" = "கண்டறி";
+"Find Next" = "அடுத்ததைக் கண்டறி";
+"Find Previous" = "முந்தையதைக் கண்டறி";
+"Find and Replace" = "கண்டறிந்து மாற்று";
+"Replace" = "மாற்று";
+"Replace Next" = "அடுத்ததை மாற்று";
+"Spelling and Grammar" = "எழுத்துப்பிழை மற்றும் இலக்கணம்";
+"Check Document Now" = "ஆவணத்தை இப்போது சரிபார்";
+"Check Spelling While Typing" = "தட்டச்சு செய்யும்போது எழுத்துப்பிழையைச் சரிபார்";
+"Check Grammar With Spelling" = "எழுத்துப்பிழையுடன் இலக்கணத்தையும் சரிபார்";
+"Correct Spelling Automatically" = "எழுத்துப்பிழையைத் தானாகத் திருத்து";
+"Substitutions" = "மாற்றீடுகள்";
+"Smart Quotes" = "ஸ்மார்ட் மேற்கோள்கள்";
+"Smart Dashes" = "ஸ்மார்ட் கோடுகள்";
+"Text Replacement" = "உரை மாற்றீடு";
+"Speech" = "பேச்சு";
+"Start Speaking" = "பேசத் தொடங்கு";
+"Stop Speaking" = "பேசுவதை நிறுத்து";
+
+/* Paragraph Menu */
+"Paragraph" = "பத்தி";
+"Heading 1" = "தலைப்பு 1";
+"Heading 2" = "தலைப்பு 2";
+"Heading 3" = "தலைப்பு 3";
+"Heading 4" = "தலைப்பு 4";
+"Heading 5" = "தலைப்பு 5";
+"Heading 6" = "தலைப்பு 6";
+"Increase Heading Level" = "தலைப்பு நிலையை உயர்த்து";
+"Decrease Heading Level" = "தலைப்பு நிலையைத் தாழ்த்து";
+"Table" = "அட்டவணை";
+"Code Fences" = "குறியீட்டுத் தொகுதிகள்";
+"Math Block" = "கணிதத் தொகுதி";
+"Quote" = "மேற்கோள்";
+"Ordered List" = "எண்ணிட்ட பட்டியல்";
+"Unordered List" = "எண்ணிடாத பட்டியல்";
+"Task List" = "பணிப் பட்டியல்";
+"Task Status" = "பணி நிலை";
+"Toggle Task Status" = "பணி நிலையை மாற்று";
+"Mark as Complete" = "முடிந்ததாகக் குறி";
+"Mark as Incomplete" = "முடியாததாகக் குறி";
+"List Indentation" = "பட்டியல் உள்தள்ளல்";
+"Indent" = "உள்தள்ளு";
+"Outdent" = "வெளித்தள்ளு";
+"Link Reference" = "இணைப்புக் குறிப்பு";
+"Footnotes" = "அடிக்குறிப்புகள்";
+"Horizontal Line" = "கிடைமட்டக் கோடு";
+"Table of Contents" = "பொருளடக்கம்";
+"YAML Front Matter" = "YAML முன்னிலைத் தகவல்";
+
+/* Format Menu */
+"Format" = "வடிவம்";
+"Strong" = "தடித்த";
+"Emphasis" = "சாய்வு";
+"Underline" = "அடிக்கோடு";
+"Code" = "குறியீடு";
+"Inline Math" = "உள்ளமைக் கணிதம்";
+"Strike" = "குறுக்குக்கோடு";
+"Highlight" = "சிறப்புப்புள்ளி";
+"Superscript" = "மேலெழுத்து";
+"Subscript" = "கீழெழுத்து";
+"Comment" = "கருத்து";
+"Hyperlink" = "மீஇணைப்பு";
+"Image" = "படம்";
+"Clear Format" = "வடிவத்தை அழி";
+
+/* View Menu */
+"View" = "காட்சி";
+"New Tab" = "புதிய தாவல்";
+"Source Code Mode" = "மூலக் குறியீட்டுப் பயன்முறை";
+"Readonly Mode" = "படிக்க-மட்டும் பயன்முறை";
+"Focus Mode" = "கவனப் பயன்முறை";
+"Typewriter Mode" = "தட்டச்சுப் பயன்முறை";
+"Toggle Sidebar" = "பக்கப்பட்டியை மாற்று";
+"Outline" = "வெளிக்கோடு";
+"Articles" = "கட்டுரைகள்";
+"File Tree" = "கோப்பு மரம்";
+"Always on Top" = "எப்போதும் மேலே";
+"Full Screen" = "முழுத்திரை";
+"Show Status Bar" = "நிலைப் பட்டி";
+"Toolbar" = "கருவிப்பட்டி";
+"Hide Toolbar" = "கருவிப்பட்டியை மறை";
+"Toolbar hidden, reopen from {0}" = "கருவிப்பட்டி மறைக்கப்பட்டது, {0} இலிருந்து மீண்டும் திறக்கவும்";
+"Delete Block" = "தொகுதியை நீக்கு";
+"Toggle Fullscreen" = "முழுத்திரையை மாற்று";
+"Actual Size" = "உண்மையான அளவு";
+"Zoom In" = "பெரிதாக்கு";
+"Zoom Out" = "சிறிதாக்கு";
+"Switch Between Opened Documents" = "திறந்த ஆவணங்களுக்கிடையே மாறு";
+"Toggle DevTools" = "DevTools-ஐ மாற்று";
+
+
+/* Themes Menu */
+"Themes" = "தீம்கள்";
+
+/* Window Menu */
+"Window" = "சாளரம்";
+"Minimize" = "சிறிதாக்கு";
+"Zoom" = "பெரிதாக்கு";
+"Bring All to Front" = "அனைத்தையும் முன்னுக்குக் கொண்டுவா";
+
+/* Help Menu */
+"Help" = "உதவி";
+"Privacy Policy" = "தனியுரிமைக் கொள்கை";
+"Credits" = "பங்களிப்புகள்";
+"Change Log" = "மாற்றப் பட்டியல்";
+"Website" = "இணையதளம்";
+"Feedback" = "கருத்து";
+"About" = "பற்றி";
+
+/* Touchbar */
+"Block Styles" = "தொகுதிப் பாணிகள்";
+"Inline Styles" = "உள்ளமைப் பாணிகள்";
+"List Styles / Remove Block" = "பட்டியல் பாணிகள் / தொகுதியை நீக்கு";
+"Exit Source Code Mode" = "மூலக் குறியீட்டுப் பயன்முறையிலிருந்து வெளியேறு";
+"Toggle Source Code Mode" = "மூலக் குறியீட்டுப் பயன்முறையை மாற்று";
+
+/* Extra Context Menu */
+"Table" = "அட்டவணை";
+"Add Row Above" = "மேலே வரிசையைச் சேர்";
+"Add Row Below" = "கீழே வரிசையைச் சேர்";
+"Delete Row" = "வரிசையை நீக்கு";
+"Add Column Before" = "முன் நிரலைச் சேர்";
+"Add Column After" = "பின் நிரலைச் சேர்";
+"Delete Column" = "நிரலை நீக்கு";
+"Copy Table" = "அட்டவணையை நகலெடு";
+"Delete Table" = "அட்டவணையை நீக்கு";
+"Insert Paragraph After" = "பின் பத்தியைச் செருகு";
+"Insert Paragraph Before" = "முன் பத்தியைச் செருகு";
+"Delete Code Block" = "குறியீட்டுத் தொகுதியை நீக்கு";
+"Copy as MathML" = "MathML ஆக நகலெடு";
+"Copy as Tex" = "Tex ஆக நகலெடு";
+"Copy Math" = "கணிதத்தை நகலெடு";
+"Reveal in Finder" = "Finder இல் காட்டு";
+"Open Link" = "இணைப்பைத் திற";
+"Reveal in Sidebar" = "பக்கப்பட்டியில் காட்டு";
+"Open in New Window" = "புதிய சாளரத்தில் திற";
+"Copy File Path" = "கோப்புப் பாதையை நகலெடு";
+"New File" = "புதிய கோப்பு";
+"Rename" = "மறுபெயரிடு";
+"New Folder" = "புதிய கோப்புறை";
+
+/* Electron */
+"Learn Spelling" = "எழுத்துப்பிழையைக் கற்றுக்கொள்";
+"Copy / Paste As" = "நகலெடு / ஒட்டு";
+"Math" = "கணிதம்";
+"Insert" = "செருகு";
+"Inspect Element" = "உறுப்பை ஆராய்";
+"Copy to MS Word" = "MS Word-க்கு நகலெடு";
+"Paragraph (before)" = "பத்தி (முன்)";
+"Paragraph (after)" = "பத்தி (பின்)";
+
+"Search with Google" = "Google மூலம் தேடு";
+"Search With…" = "இதன்மூலம் தேடு…";
+
+/* Related Panel */
+"Open Failed" = "திறக்க முடியவில்லை";
+"File or folder does not exist." = "கோப்பு அல்லது கோப்புறை இல்லை.";
+
+"Prettify Source Code" = "மூலக் குறியீட்டை அழகுபடுத்து";
+"Copy '%@'" = "'%@' ஐ நகலெடு";
+"Copy to %@" = "%@ க்கு நகலெடு";
+"Copy Image to" = "படத்தை இங்கே நகலெடு";
+"Open Image Location" = "பட இருப்பிடத்தைத் திற";
+
+"Learn More" = "மேலும் அறிக";
+"Whitespace and Line Breaks" = "இடைவெளி மற்றும் வரி முறிவுகள்";
+"Indent first line of paragraphs" = "பத்திகளின் முதல் வரியை உள்தள்ளு";
+"Preserve single line break" = "ஒற்றை வரி முறிவைப் பாதுகா";
+"Visible <br/>" = "<br/> தெரியும்";
+
+"Save All" = "அனைத்தையும் சேமி";
+"New Window" = "புதிய சாளரம்";
+"Reopen Closed File" = "மூடிய கோப்பை மீண்டும் திற";
+
+"Global Image Settings" = "பொதுப் பட அமைப்புகள்";
+"Smart Punctuation" = "ஸ்மார்ட் நிறுத்தற்குறிகள்";
+"Convert on Input" = "உள்ளிடும்போது மாற்று";
+"Convert on Rendering" = "காட்சிப்படுத்தும்போது மாற்று";
+"Remap Unicode Punctuation on Parse" = "பாகுபடுத்தும்போது யூனிகோட் நிறுத்தற்குறிகளை மறுசீரமை";
+"More Options" = "மேலும் விருப்பங்கள்";
+
+"HTML Block" = "HTML தொகுதி";
+"Delete Paragraph / Block" = "பத்தி / தொகுதியை நீக்கு";
+"Delete %@" = "%@ ஐ நீக்கு";
+"Play" = "இயக்கு";
+"Pause" = "இடைநிறுத்து";
+
+"Spell Check" = "எழுத்துப்பிழைச் சரிபார்ப்பு";
+"Unlearn Spelling" = "கற்ற எழுத்துப்பிழையை நீக்கு";
+"Properties" = "பண்புகள்";
+
+"Search" = "தேடு";
+"Copy without Theme Styling" = "தீம் பாணியில்லாமல் நகலெடு";
+"Recent Files" = "சமீபத்திய கோப்புகள்";
+"File Results" = "கோப்பு முடிவுகள்";
+
+"Insert Table" = "அட்டவணையைச் செருகு";
+"Insert Image" = "படத்தைச் செருகு";
+"Allow Magnification" = "பெரிதாக்கலை அனுமதி";
+
+"Move Row Up" = "வரிசையை மேலே நகர்த்து";
+"Move Row Down" = "வரிசையைக் கீழே நகர்த்து";
+"Move Column Left" = "நிரலை இடதுபுறம் நகர்த்து";
+"Move Column Right" = "நிரலை வலதுபுறம் நகர்த்து";
+
+"Zoom Image" = "படத்தைப் பெரிதாக்கு";
+"Zoom Image to %@" = "படத்தை %@ ஆகப் பெரிதாக்கு";
+
+"Copy as Plain Text" = "எளிய உரையாக நகலெடு";
+
+"Selection" = "தேர்வு";
+"Start Speaking" = "பேசத் தொடங்கு";
+"Stop Speaking" = "பேசுவதை நிறுத்து";
+"Check Updates" = "புதுப்பிப்புகளைச் சரிபார்";
+
+"HTML (without Styles)" = "HTML (பாணிகள் இல்லாமல்)";
+
+"Highlight Current Header" = "தற்போதைய தலைப்பைச் சிறப்பிக்க";
+"Expand All" = "அனைத்தையும் விரிவாக்கு";
+"Collapse All" = "அனைத்தையும் சுருக்கு";
+"Collapsible Outline" = "சுருக்கக்கூடிய வெளிக்கோடு";
+"Flat Outline" = "தட்டையான வெளிக்கோடு";
+"Articles (List View)" = "கட்டுரைகள் (பட்டியல் காட்சி)";
+"File Tree (Tree View)" = "கோப்பு மரம் (மரக் காட்சி)";
+"Filter" = "வடிகட்டு";
+
+"Upload Image" = "படத்தைப் பதிவேற்று";
+"Upload All Local Images" = "அனைத்து உள்ளூர் படங்களையும் பதிவேற்று";
+"Open Image in Browser" = "படத்தை உலாவியில் திற";
+"Copy Image Content" = "பட உள்ளடக்கத்தை நகலெடு";
+
+"More Actions" = "மேலும் செயல்கள்";
+"Get Info" = "தகவலைப் பெறு";
+
+"Export with Previous" = "முந்தைய அமைப்புகளுடன் ஏற்றுமதி";
+"Export and Overwrite with Previous" = "முந்தைய அமைப்புகளுடன் ஏற்றுமதி செய்து மேலெழுது";
+
+"Emoji and Symbols" = "ஈமோஜி மற்றும் குறியீடுகள்";
+
+"Insert Final New Line On Save" = "சேமிக்கும்போது இறுதி வரி முறிவைச் செருகு";
+"Hyperlink Actions" = "மீஇணைப்புச் செயல்கள்";
+"Copy Link Address" = "இணைப்பு முகவரியை நகலெடு";
+
+"Click" = "கிளிக்";
+
+"Export Setting" = "ஏற்றுமதி அமைப்பு";
+
+"My License" = "எனது உரிமம்";
+"Registration / Activation" = "பதிவு / செயல்படுத்தல்";
+
+"Select Paragraph / Block" = "பத்தி / தொகுதியைத் தேர்ந்தெடு";
+
+"Delete Selected" = "தேர்ந்தெடுத்ததை நீக்கு";
+"Rename or Move Image to" = "படத்தை மறுபெயரிட்டு இங்கே நகர்த்து";
+"Move to %@" = "%@ க்கு நகர்த்து";
+"Delete Image" = "படத்தை நீக்கு";
+"Delete Image File" = "படக் கோப்பை நீக்கு";
+"Reload All Images" = "அனைத்துப் படங்களையும் மீண்டும் ஏற்று";
+
+"Save %@ As" = "%@ ஐ இவ்வாறு சேமி";
+
+"Copy All Images to" = "அனைத்துப் படங்களையும் இங்கே நகலெடு";
+"Move All Images to" = "அனைத்துப் படங்களையும் இங்கே நகர்த்து";
+
+"Copy as Image" = "படமாக நகலெடு";
+
+"Switch Image Syntax" = "படத் தொடரியலை மாற்று";
+"Markdown Style" = "மார்க்டவுன் பாணி";
+"HTML Style" = "HTML பாணி";
+
+"Code Tools" = "குறியீட்டுக் கருவிகள்";
+"Copy Code Content" = "குறியீட்டு உள்ளடக்கத்தை நகலெடு";
+"Auto Indent Selected Code" = "தேர்ந்தெடுத்த குறியீட்டைத் தானாக உள்தள்ளு";
+"Auto Indent Whole Code" = "முழுக் குறியீட்டையும் தானாக உள்தள்ளு";
+
+"Jump to Line Start" = "வரியின் தொடக்கத்திற்குச் செல்";
+"Jump to Line End" = "வரியின் முடிவிற்குச் செல்";
+"Toggle Word Count Popover" = "சொல் எண்ணிக்கை பாப்அப்பை மாற்று";
+"Toggle Outline Popover" = "வெளிக்கோடு பாப்அப்பை மாற்று";
+
+"Alert" = "எச்சரிக்கை";
+"Note Block" = "குறிப்புத் தொகுதி";
+"Tip Block" = "உதவிக்குறிப்புத் தொகுதி";
+"Important Block" = "முக்கியத் தொகுதி";
+"Warning Block" = "எச்சரிக்கைத் தொகுதி";
+"Caution Block" = "கவனத் தொகுதி";
+
+"Move Table Row Up" = "அட்டவணை வரிசையை மேலே நகர்த்து";
+"Move Table Row Down" = "அட்டவணை வரிசையைக் கீழே நகர்த்து";
+"Move Table Column Left" = "அட்டவணை நிரலை இடதுபுறம் நகர்த்து";
+"Move Table Column Right" = "அட்டவணை நிரலை வலதுபுறம் நகர்த்து";

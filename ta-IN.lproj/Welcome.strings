@@ -1,0 +1,90 @@
+/* 
+  Welcome.strings
+  Typora
+
+ by hi@typora.io
+
+ Tamil translation by @mrlearner1606
+*/
+
+/*
+ "Send Anonymous Usage Info"
+ */
+
+"Welcome to Typora" = "Typora-க்கு வருக";
+"Thank you for using Typora 👋. Typora is a minimal markdown editor and markdown reader, it gives you a seamless experience between rendered rich style contents and its source code." = "Typora-ஐப் பயன்படுத்தியதற்கு நன்றி 👋. Typora ஒரு எளிய மார்க்டவுன் எடிட்டர் மற்றும் வாசிப்பான்; வடிவமைக்கப்பட்ட உள்ளடக்கத்திற்கும் அதன் மூலக் குறியீட்டிற்கும் இடையே தடையற்ற அனுபவத்தை வழங்குகிறது.";
+
+"Get Started" = "தொடங்குங்கள்";
+"Check following links if you're new to Markdown or Typora." = "மார்க்டவுன் அல்லது Typora-வுக்குப் புதியவரா? கீழேயுள்ள இணைப்புகளைப் பார்க்கவும்.";
+
+"Activate Typora" = "Typora-ஐ செயல்படுத்துங்கள்";
+"Already purchased a license? Fill the form below and activate Typora instantly." = "ஏற்கனவே உரிமம் வாங்கியுள்ளீர்களா? கீழே உள்ள படிவத்தை நிரப்பி Typora-ஐ உடனே செயல்படுத்துங்கள்.";
+
+"Email" = "மின்னஞ்சல்";
+"Email Address" = "மின்னஞ்சல் முகவரி";
+"License Code" = "உரிமக் குறியீடு";
+
+"Help" = "உதவி";
+"Find my License" = "என் உரிமத்தைக் கண்டறிக";
+
+"Accept <a href='https://support.typora.io/License-Agreement/'>License Agreement</a> and <a href='https://support.typora.io/Privacy-Policy/'>Privacy Policy</a>." = "<a href='https://support.typora.io/License-Agreement/'>உரிம ஒப்பந்தம்</a> மற்றும் <a href='https://support.typora.io/Privacy-Policy/'>தனியுரிமைக் கொள்கை</a>ஐ ஏற்கவும்.";
+
+"Live Preview" = "நேரடி முன்னோட்டம்";
+"Write and read rendered output instantly." = "எழுதியவுடன் வடிவமைக்கப்பட்ட வெளியீட்டைப் படியுங்கள்.";
+"Markdown Syntax" = "மார்க்டவுன் தொடரியல்";
+"Code blocks, YAML, tasks, footnotes, tables, math, diagrams" = "குறியீட்டுத் தொகுதிகள், YAML, பணிகள், அடிக்குறிப்புகள், அட்டவணைகள், கணிதம், வரைபடங்கள்";
+"Import / Export" = "இறக்குமதி / ஏற்றுமதி";
+"Deliver your content in various formats." = "உங்கள் உள்ளடக்கத்தைப் பல வடிவங்களில் வழங்குங்கள்.";
+"Editing Experience" = "திருத்தும் அனுபவம்";
+"Outline / Word Count / Focus Mode / Typewriter Mode" = "வெளிக்கோடு / சொல் எண்ணிக்கை / கவனப் பயன்முறை / தட்டச்சுப் பயன்முறை";
+
+"Files" = "கோப்புகள்";
+"Manage files in sidebar and search across files." = "பக்கப்பட்டியில் கோப்புகளை நிர்வகித்து, கோப்புகளுக்கிடையே தேடுங்கள்.";
+"Customize" = "தனிப்பயனாக்கு";
+"Customize your writing experience from preferences panel." = "விருப்பங்கள் பலகத்திலிருந்து உங்கள் எழுத்து அனுபவத்தைத் தனிப்பயனாக்குங்கள்.";
+"Themes" = "தீம்கள்";
+"Write in the theme you like, or make one by your own." = "உங்களுக்குப் பிடித்த தீமில் எழுதுங்கள், அல்லது உங்களுக்கான ஒன்றை உருவாக்குங்கள்.";
+"And more" = "மேலும்";
+"Explore more topics at support.typora.io" = "support.typora.io இல் மேலும் தலைப்புகளைக் காணுங்கள்";
+
+"Quick Start" = "விரைவுத் தொடக்கம்";
+"Markdown Reference" = "மார்க்டவுன் குறிப்பு";
+"Explore Themes" = "தீம்களை ஆராயுங்கள்";
+"More Topics" = "மேலும் தலைப்புகள்";
+
+"Typora Activated" = "Typora செயல்படுத்தப்பட்டது";
+"Thanks for your purchase." = "உங்கள் வாங்குதலுக்கு நன்றி.";
+
+"Next" = "அடுத்து";
+"Please accept license agreement first" = "முதலில் உரிம ஒப்பந்தத்தை ஏற்கவும்";
+"Start %@ Days Trial" = "%@ நாள் சோதனையைத் தொடங்கு";
+"Buy License" = "உரிமம் வாங்கு";
+"Activate" = "செயல்படுத்து";
+
+"Close" = "மூடு";
+"Deactivate" = "செயலிழக்கச் செய்";
+"View License" = "உரிமத்தைக் காண்";
+"Your Typora License" = "உங்கள் Typora உரிமம்";
+"This copy of Typora is registered with license information below." = "இந்த Typora நகல் கீழே உள்ள உரிமத் தகவலுடன் பதிவு செய்யப்பட்டுள்ளது.";
+"Your trial will be expired in %@ days." = "உங்கள் சோதனைக் காலம் %@ நாட்களில் முடிவடையும்.";
+"Enter License" = "உரிமத்தை உள்ளிடு";
+"Not Now" = "இப்போது வேண்டாம்";
+
+"Please input a valid email address" = "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்";
+"Please input a valid license code"  = "சரியான உரிமக் குறியீட்டை உள்ளிடவும்";
+"Your license has exceeded the max devices numbers.\nThe oldest device was unregistered automatically." = "உங்கள் உரிமம் அதிகபட்ச சாதனங்களின் எண்ணிக்கையை மீறிவிட்டது.\nமிகப் பழைய சாதனம் தானாகப் பதிவு நீக்கப்பட்டது.";
+"This license code has been used with a different email address." =  "இந்த உரிமக் குறியீடு வேறு மின்னஞ்சல் முகவரியுடன் பயன்படுத்தப்பட்டுள்ளது.";
+"Unknown Error. Please contact hi@typora.io" = "அறியப்படாத பிழை. hi@typora.io ஐத் தொடர்பு கொள்ளவும்";
+"Failed to access the license server. Please check your network or try again later." = "உரிமச் சேவையகத்தை அணுக முடியவில்லை. உங்கள் பிணையத்தைச் சரிபார்க்கவும் அல்லது பின்னர் மீண்டும் முயற்சிக்கவும்.";
+
+"Enter a license code to support our development ❤" = "எங்கள் உருவாக்கத்தை ஆதரிக்க உரிமக் குறியீட்டை உள்ளிடுங்கள் ❤";
+"Re-enter Email" = "மின்னஞ்சலை மீண்டும் உள்ளிடு";
+"Email address confirmation does not match." = "மின்னஞ்சல் முகவரி உறுதிப்படுத்தல் பொருந்தவில்லை.";
+
+"Are you sure to deactivate Typora on this device?" = "இந்தச் சாதனத்தில் Typora-ஐ செயலிழக்கச் செய்ய விரும்புகிறீர்களா?";
+
+"Offline Activation" = "இணையமில்லா செயல்படுத்தல்";
+"Back" = "பின்செல்";
+"Get Activation Token" = "செயல்படுத்தல் டோக்கனைப் பெறு";
+
+"Your activated devices have exceeded the maximum limits." = "உங்கள் செயல்படுத்தப்பட்ட சாதனங்கள் அதிகபட்ச வரம்பை மீறிவிட்டன.";

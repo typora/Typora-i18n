@@ -1,0 +1,607 @@
+/*
+ Panel.strings
+ translations for preference panel and other dialogs
+
+ by hi@typora.io
+
+ Tamil translation by @mrlearner1606
+ */
+
+/* Preference Panel */
+"Preferences" = "விருப்பங்கள்";
+
+/* General Panel */
+"General" = "பொது";
+"Window Style" = "சாளரப் பாணி";
+"Classic" = "பாரம்பரியம்";
+"Seamless" = "தடையற்றது";
+"Seamless window only support OS X later than 10.10." = "தடையற்ற சாளரம் 10.10 க்குப் பிந்தைய OS X ஐ மட்டுமே ஆதரிக்கிறது.";
+"Themes" = "தீம்கள்";
+"Open Theme Folder" = "தீம் கோப்புறையைத் திற";
+"Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "சுருக்கமான அறிமுகத்திற்கு `உதவி`->`விரைவுத் தொடக்கம்` பார்க்கவும். மேலும் தீம்கள் அல்லது வழிமுறைகளுக்கு http://theme.typora.io ஐப் பார்வையிடவும்.";
+"Word Count" = "சொல் எண்ணிக்கை";
+"Always Show Word Count" = "எப்போதும் சொல் எண்ணிக்கையைக் காட்டு";
+"Font Size" = "எழுத்துரு அளவு";
+"Auto ( Recommended )" = "தானியங்கு ( பரிந்துரைக்கப்படுகிறது )";
+"Customized" = "தனிப்பயன்";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "தனிப்பயன் எழுத்துரு அளவு பயன்படுத்தப்பட்டால், உண்மையான அளவு அடிப்படை எழுத்துரு அளவு மற்றும் CSS பாணியைப் பொறுத்தது.";
+"Left Panel" = "இடது பலகம்";
+"Show Outline Panel by Default" = "இயல்பாக வெளிக்கோடு பலகத்தைக் காட்டு";
+"Collapsible Outline on Left Panel" = "இடது பலகத்தில் சுருக்கக்கூடிய வெளிக்கோடு";
+"Save without asking when\nswitch files on side panel" = "பக்கப் பலகத்தில் கோப்புகளை மாற்றும்போது\nகேட்காமல் சேமி";
+"Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is disabled in System Preference, this is always enabled." = "இடது பலகத்தில் கோப்புகளை மாற்றும்போது திருத்திய கோப்புகள் கேட்காமல் சேமிக்கப்படும். \nகணினி விருப்பங்களில் \"ஆவணங்களை மூடும்போது மாற்றங்களை வைத்திருக்கக் கேள்\" முடக்கப்பட்டிருந்தால், இது எப்போதும் இயக்கத்தில் இருக்கும்.";
+"Language" = "மொழி";
+"System Language" = "கணினி மொழி";
+
+/* Editor Panel */
+"Editor" = "எடிட்டர்";
+"Indent Size on Save" = "சேமிக்கும்போது உள்தள்ளல் அளவு";
+"only apply to quotes and lists created from menu bar or hybrid view" = "மெனுபட்டி அல்லது கலப்புக் காட்சியிலிருந்து உருவாக்கிய மேற்கோள்கள் மற்றும் பட்டியல்களுக்கு மட்டுமே பொருந்தும்";
+"Trigger Autocomplete without ESC key for" = "இவற்றுக்கு ESC விசையில்லாமல் தானியங்கி நிரப்பலை இயக்கு";
+"Emoji (e.g. :smile:)" = "ஈமோஜி (எ.கா. :smile:)";
+"Images Insert" = "படச் செருகல்";
+"Use relative path if possible" = "முடிந்தால் ஒப்பீட்டுப் பாதையைப் பயன்படுத்து";
+"Auto Pair" = "தானியங்கி இணை";
+"Auto pair brackets and quotes" = "அடைப்புக்குறிகள் மற்றும் மேற்கோள்களைத் தானாக இணை";
+"Auto pair common Markdown syntax" = "பொதுவான மார்க்டவுன் தொடரியலைத் தானாக இணை";
+"Live Rendering" = "நேரடிக் காட்சிப்படுத்தல்";
+"Display source for simple blocks\n(including headings, etc.) on focus" = "கவனம் செலுத்தும்போது எளிய தொகுதிகளுக்கு\n(தலைப்புகள் உட்பட) மூலத்தைக் காட்டு";
+"Default Copy Behavior" = "இயல்புநிலை நகல் நடத்தை";
+"Copy Markdown source as plain text" = "மார்க்டவுன் மூலத்தை எளிய உரையாக நகலெடு";
+"Typewriter Mode" = "தட்டச்சுப் பயன்முறை";
+"Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "தட்டச்சுப் பயன்முறை இயக்கத்தில் இருக்கும்போது\nகர்சரை எப்போதும் திரையின் நடுவில் வைத்திரு";
+
+/* Markdown Panel */
+"Markdown" = "மார்க்டவுன்";
+"(Following preferences will be applied after restart.)" = "(பின்வரும் விருப்பங்கள் மறுதொடக்கத்திற்குப் பிறகு பொருந்தும்.)";
+"Syntax Support" = "தொடரியல் ஆதரவு";
+"Inline Math  (e.g: $\LaTeX$)" = "உள்ளமைக் கணிதம்  (எ.கா: $\LaTeX$)";
+"Subscript    (e.g: H~2~O)" = "கீழெழுத்து    (எ.கா: H~2~O)";
+"Superscript (e.g: X^2^)" = "மேலெழுத்து (எ.கா: X^2^)";
+"Highlight     (e.g: ==key==)" = "சிறப்புப்புள்ளி     (எ.கா: ==key==)";
+"Diagrams" = "வரைபடங்கள்";
+"(Sequence, Flowchart and Mermaid)" = "(வரிசை, பாய்ச்சார்ட் மற்றும் Mermaid)";
+"Syntax Preference" = "தொடரியல் விருப்பம்";
+"(only applies to styles created from menubar or hybrid view)" = "(மெனுபட்டி அல்லது கலப்புக் காட்சியிலிருந்து உருவாக்கிய பாணிகளுக்கு மட்டுமே பொருந்தும்)";
+"Strict Mode" = "கடுமையான பயன்முறை";
+"(more strict to GFM spec)" = "(GFM விவரக்குறிப்புக்கு மேலும் கடுமையானது)";
+"Heading Style" = "தலைப்புப் பாணி";
+"Unordered List" = "எண்ணிடாத பட்டியல்";
+"Ordered List" = "எண்ணிட்ட பட்டியல்";
+"Code Fences" = "குறியீட்டுத் தொகுதிகள்";
+"Display line numbers for code fences" = "குறியீட்டுத் தொகுதிகளுக்கு வரி எண்களைக் காட்டு";
+"Math Blocks" = "கணிதத் தொகுதிகள்";
+"Auto Numbering Math Equations" = "கணிதச் சமன்பாடுகளைத் தானாக எண்ணிடு";
+
+/* Security Panel */
+"Security" = "பாதுகாப்பு";
+"Enable Debug" = "பிழைத்திருத்தத்தை இயக்கு";
+"Send Anonymous Usage Info" = "அநாமதேய பயன்பாட்டுத் தகவலை அனுப்பு";
+
+/* Pandoc Error Panel */
+"Require Pandoc to Continue..." = "தொடர Pandoc தேவை...";
+"Follow instructions to install Pandoc" = "Pandoc நிறுவ வழிமுறைகளைப் பின்பற்று";
+"Cancel" = "ரத்துசெய்";
+
+/* Pandoc Import Panel */
+"Importing..." = "இறக்குமதி செய்கிறது...";
+"Importing in progress..." = "இறக்குமதி நடைபெறுகிறது...";
+"Converting file with Pandoc. This may take some time." = "Pandoc மூலம் கோப்பு மாற்றப்படுகிறது. இதற்குச் சிறிது நேரம் ஆகலாம்.";
+"Abort" = "கைவிடு";
+
+/* Pandoc Export Panel */
+"Exporting..." = "ஏற்றுமதி செய்கிறது...";
+"Exporting in progress..." = "ஏற்றுமதி நடைபெறுகிறது...";
+"Converting file with Pandoc. This may take some time." = "Pandoc மூலம் கோப்பு மாற்றப்படுகிறது. இதற்குச் சிறிது நேரம் ஆகலாம்.";
+
+/* Export & Import */
+"Pandoc is needed for importing these file formats" = "இந்தக் கோப்பு வடிவங்களை இறக்குமதி செய்ய Pandoc தேவை";
+"Check help->Install and use Pandoc from menubar for detail" = "விவரங்களுக்கு மெனுபட்டியிலிருந்து உதவி->Pandoc நிறுவி பயன்படுத்துதலைப் பார்க்கவும்";
+"Import or some export features requires <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) to be installed." = "இறக்குமதி அல்லது சில ஏற்றுமதி அம்சங்களுக்கு <a href='http://pandoc.org/' target='_blank'>Pandoc</a> (≥ v2.0) நிறுவப்பட்டிருக்க வேண்டும்.";
+"Follow Instructions to Install/Update Pandoc" = "Pandoc நிறுவ/புதுப்பிக்க வழிமுறைகளைப் பின்பற்று";
+"Export Failed" = "ஏற்றுமதி தோல்வி";
+"Import Failed" = "இறக்குமதி தோல்வி";
+"Generated Image too Large" = "உருவாக்கிய படம் மிகப் பெரியது";
+"Failed to export file to <em>{0}</em>" = "<em>{0}</em> க்கு கோப்பை ஏற்றுமதி செய்ய முடியவில்லை";
+"Failed to import file from <em>{0}</em>" = "<em>{0}</em> இலிருந்து கோப்பை இறக்குமதி செய்ய முடியவில்லை";
+"File does not exist at <em>{0}</em>" = "<em>{0}</em> இல் கோப்பு இல்லை";
+"Export to..." = "இதற்கு ஏற்றுமதி...";
+"Do you want to save the changes made to this document ?<br> Your changes will be lost if you don't save them." = "இந்த ஆவணத்தில் செய்த மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா ?<br> சேமிக்காவிட்டால் உங்கள் மாற்றங்கள் இழக்கப்படும்.";
+"[Warning] Failed to attach bookmark for PDF file." = "[எச்சரிக்கை] PDF கோப்புக்குப் புத்தகக்குறையை இணைக்க முடியவில்லை.";
+"Dark Theme not support" = "இருண்ட தீம் ஆதரவு இல்லை";
+"Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "மன்னிக்கவும், தற்போதைய Typora பதிப்பு ஏற்றுமதி செய்த PDF இல் பின்னணி நிறத்தை அச்சிடாது, எனவே PDF ஏற்றுமதிக்கு இருண்ட தீம் இன்னும் ஆதரிக்கப்படவில்லை. \nஒரு வெளிர் தீமைத் தேர்ந்தெடுக்கவும் அல்லது \"இயல்புநிலைத் தீமுடன் அச்சிடு\" என்பதைக் கிளிக் செய்யவும்";
+"Print with default theme" = "இயல்புநிலைத் தீமுடன் அச்சிடு";
+"Export to PDF successfully." = "PDF க்கு வெற்றிகரமாக ஏற்றுமதி செய்யப்பட்டது.";
+"Converting file using Pandoc. This may take some time." = "Pandoc பயன்படுத்திக் கோப்பு மாற்றப்படுகிறது. இதற்குச் சிறிது நேரம் ஆகலாம்.";
+"Exporting file using Pandoc. This may take some time." = "Pandoc பயன்படுத்திக் கோப்பு ஏற்றுமதி செய்யப்படுகிறது. இதற்குச் சிறிது நேரம் ஆகலாம்.";
+
+"Uploading in progress…" = "பதிவேற்றம் நடைபெறுகிறது…";
+"Do not show this again" = "இதை மீண்டும் காட்டாதே";
+
+/* Word Count */
+"Minute" = "நிமிடம்";
+"Line" = "வரி";
+"Word" = "சொல்";
+"Character" = "எழுத்து";
+
+"Minutes" = "நிமிடங்கள்";
+"Lines" = "வரிகள்";
+"Words" = "சொற்கள்";
+"Characters" = "எழுத்துகள்";
+"In Selection" = "தேர்வில்";
+"Panel" = "பலகம்";
+
+/* Windows Preferences Panel*/
+"Appearance" = "தோற்றம்";
+"System Native" = "கணினி இயல்பு";
+"Unibody" = "Unibody";
+"(applied after restart)" = "(மறுதொடக்கத்திற்குப் பிறகு பொருந்தும்)";
+"Status Bar" = "நிலைப் பட்டி";
+"Show status bar" = "நிலைப் பட்டியைக் காட்டு";
+"Save & Recover" = "சேமி & மீட்டெடு";
+"Auto Save" = "தானியங்கிச் சேமிப்பு";
+"Recover Unsaved Drafts" = "சேமிக்கப்படாத வரைவுகளை மீட்டெடு";
+"Emoji Autocomplete" = "ஈமோஜி தானியங்கி நிரப்பல்";
+"Trigger by ESC key" = "ESC விசையால் இயக்கு";
+"Trigger automatically" = "தானாக இயக்கு";
+"Default Line Ending" = "இயல்புநிலை வரி முடிவு";
+"Line ending for new file" = "புதிய கோப்புக்கான வரி முடிவு";
+"Spell Check" = "எழுத்துப்பிழைச் சரிபார்ப்பு";
+"Auto correct spelling" = "எழுத்துப்பிழையைத் தானாகத் திருத்து";
+"System" = "கணினி";
+"Privacy" = "தனியுரிமை";
+"Developer" = "உருவாக்குநர்";
+"Update" = "புதுப்பிப்பு";
+"Check Updates" = "புதுப்பிப்புகளைச் சரிபார்";
+"Check updates automatically" = "புதுப்பிப்புகளைத் தானாகச் சரிபார்";
+"Advanced Settings" = "மேம்பட்ட அமைப்புகள்";
+"Open Advanced Settings" = "மேம்பட்ட அமைப்புகளைத் திற";
+"Reset Advanced Settings" = "மேம்பட்ட அமைப்புகளை மீட்டமை";
+
+/* Image relates on macOS */
+"This function requires latest version of iPic to be installed." = "இந்த அம்சத்திற்கு iPic இன் சமீபத்திய பதிப்பு நிறுவப்பட்டிருக்க வேண்டும்.";
+"Get iPic" = "iPic பெறு";
+"Cannot Continue…" = "தொடர முடியாது…";
+"This feature require macOS >= 10.11" = "இந்த அம்சத்திற்கு macOS >= 10.11 தேவை";
+"One More Step" = "இன்னும் ஒரு படி";
+"Notice" = "அறிவிப்பு";
+
+"%d Images Failed to Upload." = "%d படங்களைப் பதிவேற்ற முடியவில்லை.";
+"%d Succeeded," = "%d வெற்றி,";
+"Enable this feature on preferences panel" = "விருப்பங்கள் பலகத்தில் இந்த அம்சத்தை இயக்கு";
+"The option `%@` must be enabled first to automatically upload images." = "படங்களைத் தானாகப் பதிவேற்ற முதலில் `%@` விருப்பம் இயக்கப்பட்டிருக்க வேண்டும்.";
+"%@ is a file, not a directory" = "%@ ஒரு கோப்பு, கோப்புறை அல்ல";
+"Copy Images To…" = "படங்களை இங்கே நகலெடு…";
+"Typora are trying copy the newly inserted image to folder %@ according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora புதிதாகச் செருகிய படத்தை, உங்கள் YAML முன்னிலைத் தகவல் அமைப்பு அல்லது பொது விருப்பங்களின்படி %@ கோப்புறைக்கு நகலெடுக்க முயல்கிறது. ஆனால் இலக்குக் கோப்புறை இல்லை; இப்போது உருவாக்கவா?";
+"Create Folder and Continue" = "கோப்புறையை உருவாக்கித் தொடர்";
+"Document must be saved first" = "ஆவணம் முதலில் சேமிக்கப்பட வேண்டும்";
+"Typora will copy newly inserted image to folder by selected relative path, so please save save the file first." = "Typora தேர்ந்தெடுத்த ஒப்பீட்டுப் பாதையின்படி புதிதாகச் செருகிய படத்தைக் கோப்புறைக்கு நகலெடுக்கும், எனவே முதலில் கோப்பைச் சேமிக்கவும்.";
+"Open Operation Failed" = "திறக்கும் செயல் தோல்வி";
+
+"Support Documentation" = "ஆதரவு ஆவணங்கள்";
+
+"Markdown File" = "மார்க்டவுன் கோப்பு";
+"Plain Text File" = "எளிய உரைக் கோப்பு";
+"All Files" = "அனைத்துக் கோப்புகள்";
+"All Supported Formats" = "ஆதரிக்கப்பட்ட அனைத்து வடிவங்கள்";
+"Discard Changes" = "மாற்றங்களை நீக்கு";
+"Discard" = "நீக்கு";
+"Enter Without Saving" = "சேமிக்காமல் உள்ளிடு";
+"You have unsaved changes. Do you want to save them before entering Read-Only Mode ?" = "சேமிக்கப்படாத மாற்றங்கள் உள்ளன. படிக்க-மட்டும் பயன்முறையில் நுழைவதற்கு முன் அவற்றைச் சேமிக்கவா?";
+
+"Menu" = "பட்டி";
+"Back" = "பின்செல்";
+
+"Contact" = "தொடர்பு";
+"Open From..." = "இதிலிருந்து திற...";
+"Import..." = "இறக்குமதி...";
+"Recent Documents" = "சமீபத்திய ஆவணங்கள்";
+"Search for" = "தேடு";
+"Clear Recent Documents" = "சமீபத்திய ஆவணங்களை அழி";
+"File Name" = "கோப்புப் பெயர்";
+"Path" = "பாதை";
+"Export As..." = "இவ்வாறு ஏற்றுமதி...";
+"More Formats" = "மேலும் வடிவங்கள்";
+"File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "'மேலும் வடிவங்கள்' பிரிவுகளில் உள்ள கோப்பு வடிவங்களுக்கு <a class='open-pandoc-guide'>Pandoc நிறுவப்பட்டிருக்க வேண்டும்</a>.";
+"Something is Wrong…" = "ஏதோ தவறு நடந்துள்ளது…";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='https://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='https://support.typora.io/Version-Control/'>Recover lost contents</a></li></ul>" = "ஏதோ காரணத்தால் உள்ளடக்கத்தைச் சேமிக்க முடியவில்லை.<br/>உள்ளடக்கத்தைப் புதிய Typora சாளரத்தில் நகலெடுத்துப் பின்னர் சேமிக்கலாம். <br/>மேலும் அறிக:<ul><li><a href='https://support.typora.io/Report-Bugs/'>எங்களுக்குப் பிழைகளைத் தெரிவிக்கவும்</a></li><li><a href='https://support.typora.io/Version-Control/'>இழந்த உள்ளடக்கத்தை மீட்டெடுக்கவும்</a></li></ul>";
+"Copy Content" = "உள்ளடக்கத்தை நகலெடு";
+
+
+"Total" = "மொத்தம்";
+"Word count only support OS X later than 10.10." = "சொல் எண்ணிக்கை 10.10 க்குப் பிந்தைய OS X ஐ மட்டுமே ஆதரிக்கிறது.";
+"Indent Size for Code" = "குறியீட்டுக்கான உள்தள்ளல் அளவு";
+"Auto wrap long lines" = "நீண்ட வரிகளைத் தானாக மடி";
+
+"Sorry, current version of Typora won't print background color.\nSo dark theme is not yet supported for printing. \n\nPlease choose a light theme or export this document to PDF." = "மன்னிக்கவும், தற்போதைய Typora பதிப்பு பின்னணி நிறத்தை அச்சிடாது.\nஎனவே அச்சிடுவதற்கு இருண்ட தீம் இன்னும் ஆதரிக்கப்படவில்லை. \n\nஒரு வெளிர் தீமைத் தேர்ந்தெடுக்கவும் அல்லது இந்த ஆவணத்தை PDF ஆக ஏற்றுமதி செய்யவும்.";
+"Export to PDF" = "PDF ஆக ஏற்றுமதி";
+"Pretty indentation" = "அழகான உள்தள்ளல்";
+"Update markdown reference for this image" = "இந்தப் படத்திற்கான மார்க்டவுன் குறிப்பைப் புதுப்பி";
+
+"No special action" = "சிறப்புச் செயலேதும் இல்லை";
+"Copy image to current folder (./)" = "படத்தைத் தற்போதைய கோப்புறைக்கு (./) நகலெடு";
+"Copy image to ./assets" = "படத்தை ./assets க்கு நகலெடு";
+"Copy image to ./${filename}.assets" = "படத்தை ./${filename}.assets க்கு நகலெடு";
+"Apply above rules to local images" = "மேலேயுள்ள விதிகளை உள்ளூர் படங்களுக்குப் பயன்படுத்து";
+"Apply above rules to online images" = "மேலேயுள்ள விதிகளை இணையப் படங்களுக்குப் பயன்படுத்து";
+"Allow upload images automatically based on YAML settings" = "YAML அமைப்புகளின் அடிப்படையில் படங்களைத் தானாகப் பதிவேற்ற அனுமதி";
+
+"Learn More" = "மேலும் அறிக";
+"Whitespace / Line Break" = "இடைவெளி / வரி முறிவு";
+"When Writing" = "எழுதும்போது";
+"Export / Print" = "ஏற்றுமதி / அச்சிடு";
+"Preserve sequential whitespace and single line break" = "தொடர் இடைவெளி மற்றும் ஒற்றை வரி முறிவைப் பாதுகா";
+"Ignore sequential whitespace and single line break" = "தொடர் இடைவெளி மற்றும் ஒற்றை வரி முறிவைப் புறக்கணி";
+
+"Quit" = "வெளியேறு";
+"Quit Typora when last window is closed" = "கடைசி சாளரம் மூடப்படும்போது Typora வெளியேறு";
+"On Launch" = "தொடங்கும்போது";
+"Open new file" = "புதிய கோப்பைத் திற";
+"Restore last closed folders" = "கடைசியாக மூடிய கோப்புறைகளை மீட்டெடு";
+"Restore last closed files and folders" = "கடைசியாக மூடிய கோப்புகள் மற்றும் கோப்புறைகளை மீட்டெடு";
+"Open custom folder" = "தனிப்பயன் கோப்புறையைத் திற";
+"Select custom folder" = "தனிப்பயன் கோப்புறையைத் தேர்ந்தெடு";
+"This option may be overridden by \"Close windows when quitting an application\" in System Preferences" = "இந்த விருப்பம் கணினி விருப்பங்களில் உள்ள \"பயன்பாட்டை வெளியேறும்போது சாளரங்களை மூடு\" மூலம் மீறப்படலாம்";
+
+"Ignore" = "புறக்கணி";
+"Choose Default Folder" = "இயல்புநிலைக் கோப்புறையைத் தேர்ந்தெடு";
+"<div><strong>Convert on Input</strong>: Input ASCII dashes or quotes, converted and saved as curly quotes or unicode dashes.<br/><strong>Convert on Rendering</strong>: Input and saved as ASCII dashes or quotes, render as curly quotes or unicode dashes.</div>" = "<div><strong>உள்ளிடும்போது மாற்று</strong>: ASCII கோடுகள் அல்லது மேற்கோள்களை உள்ளிட்டு, வளைந்த மேற்கோள்கள் அல்லது யூனிகோட் கோடுகளாக மாற்றிச் சேமிக்கப்படும்.<br/><strong>காட்சிப்படுத்தும்போது மாற்று</strong>: ASCII கோடுகள் அல்லது மேற்கோள்களாக உள்ளிட்டுச் சேமித்து, வளைந்த மேற்கோள்கள் அல்லது யூனிகோட் கோடுகளாகக் காட்சிப்படுத்தப்படும்.</div>";
+"<div>Recognize unicode punctuations as ASCII ones when parse markdown, e.g:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>It will be turned on automatically if smart quotes/dashes will be converted on input.<div>" = "<div>மார்க்டவுனைப் பாகுபடுத்தும்போது யூனிகோட் நிறுத்தற்குறிகளை ASCII ஆக அடையாளம் காணும், எ.கா:<br/> <pre> 》 blockquote → > blockquote <br/> [link](src ’title’) → [link](src 'title')</pre>ஸ்மார்ட் மேற்கோள்கள்/கோடுகள் உள்ளிடும்போது மாற்றப்பட்டால் இது தானாக இயக்கப்படும்.<div>";
+
+"Copy image to custom folder" = "படத்தைத் தனிப்பயன் கோப்புறைக்கு நகலெடு";
+"Please specify a relative path to current folder which begins with './' or '../', or an absolute folder path. (`${filename}` representing for currents filename.)" = "தற்போதைய கோப்புறைக்கு ஒப்பீட்டுப் பாதையை './' அல்லது '../' உடன் தொடங்கிக் குறிப்பிடவும், அல்லது முழுமையான கோப்புறைப் பாதையைக் குறிப்பிடவும். (`${filename}` தற்போதைய கோப்புப் பெயரைக் குறிக்கிறது.)";
+"Restore to previous setting" = "முந்தைய அமைப்புக்கு மீட்டமை";
+"Folder not exist at %@, please input another path." = "%@ இல் கோப்புறை இல்லை, வேறு பாதையை உள்ளிடவும்.";
+"Please input a folder path." = "கோப்புறைப் பாதையை உள்ளிடவும்.";
+"Cannot use root path." = "மூலப் பாதையைப் பயன்படுத்த முடியாது.";
+
+"Get Themes" = "தீம்களைப் பெறு";
+"File/directory already exists at target path." = "இலக்குப் பாதையில் கோப்பு/கோப்புறை ஏற்கனவே உள்ளது.";
+"Keep Both" = "இரண்டையும் வைத்திரு";
+"Are you sure you want to move %@?" = "%@ ஐ நகர்த்த விரும்புகிறீர்களா?";
+
+"Are you sure you want to delete %@?" = "%@ ஐ நீக்க விரும்புகிறீர்களா?";
+"You can restore from the Trash." = "குப்பைத் தொட்டியிலிருந்து மீட்டெடுக்கலாம்.";
+
+"Reset All Dialog Warnings" = "அனைத்து உரையாடல் எச்சரிக்கைகளையும் மீட்டமை";
+"Dialogs" = "உரையாடல்கள்";
+"Dialog warnings have been reset." = "உரையாடல் எச்சரிக்கைகள் மீட்டமைக்கப்பட்டன.";
+
+"Operation Failed" = "செயல் தோல்வி";
+"Failed to move target file or folder to trash" = "இலக்குக் கோப்பு அல்லது கோப்புறையைக் குப்பைக்கு நகர்த்த முடியவில்லை";
+
+"Undo %@" = "%@ ஐ செயல்தவிர்";
+"Rename %@" = "%@ ஐ மறுபெயரிடு";
+"Copy %@" = "%@ ஐ நகலெடு";
+"Move %@" = "%@ ஐ நகர்த்து";
+"Delete %@" = "%@ ஐ நீக்கு";
+
+"Turn off Typewriter / Focus Mode" = "தட்டச்சு / கவனப் பயன்முறையை அணை";
+"Typewriter / Focus Mode have been turned off." = "தட்டச்சு / கவனப் பயன்முறை அணைக்கப்பட்டது.";
+
+"Reading Speed" = "வாசிப்பு வேகம்";
+"Auto" = "தானியங்கு";
+"words / min" = "சொற்கள் / நிமிடம்";
+
+"Reset to Default" = "இயல்புநிலைக்கு மீட்டமை";
+"120  words/minute (Slow)" = "120  சொற்கள்/நிமிடம் (மெதுவானது)";
+"240  words/minute (Medium)" = "240  சொற்கள்/நிமிடம் (நடுத்தரம்)";
+"382  words/minute (Fast)" = "382  சொற்கள்/நிமிடம் (வேகமானது)";
+
+"Copy and update image source to…" = "பட மூலத்தை நகலெடுத்து இங்கே புதுப்பி…";
+"Updater" = "புதுப்பிப்பான்";
+"Install Updates ?" = "புதுப்பிப்புகளை நிறுவவா?";
+"Quit and Install" = "வெளியேறி நிறுவு";
+"Download failed" = "பதிவிறக்கம் தோல்வி";
+"Downloading Updates…" = "புதுப்பிப்புகள் பதிவிறக்கப்படுகின்றன…";
+"Checking Updates…" = "புதுப்பிப்புகள் சரிபார்க்கப்படுகின்றன…";
+"Check Update Failed" = "புதுப்பிப்புச் சரிபார்ப்பு தோல்வி";
+"You're up to date!" = "நீங்கள் சமீபத்திய பதிப்பில் உள்ளீர்கள்!";
+"Latest version is $1, your version is $2" = "சமீபத்திய பதிப்பு $1, உங்கள் பதிப்பு $2";
+"These options can also be changed under \"Edit→Whitespace and Line Breaks\" menu" = "இந்த விருப்பங்களை \"திருத்து→இடைவெளி மற்றும் வரி முறிவுகள்\" பட்டியிலும் மாற்றலாம்";
+"Auto escape image URL when insert" = "செருகும்போது பட URL ஐத் தானாகத் தப்பிக்கச் செய்";
+"For example, if you insert a file at 'img/example file.png', it will become 'img/example%20file.png'. Enable this for better compatibility with other Markdown engines, or disable this for better readability." = "எடுத்துக்காட்டாக, 'img/example file.png' இல் ஒரு கோப்பைச் செருகினால், அது 'img/example%20file.png' ஆக மாறும். பிற மார்க்டவுன் இயந்திரங்களுடன் சிறந்த இணக்கத்திற்கு இதை இயக்கவும், அல்லது சிறந்த வாசிப்புத்திறனுக்கு முடக்கவும்.";
+"Check updates automatically" = "புதுப்பிப்புகளைத் தானாகச் சரிபார்";
+"Skip This Version" = "இந்தப் பதிப்பைத் தவிர்";
+"Remind Me Later" = "பின்னர் நினைவூட்டு";
+"Download Update" = "புதுப்பிப்பைப் பதிவிறக்கு";
+"New version available." = "புதிய பதிப்பு கிடைக்கிறது.";
+
+"When copy / export as HTML (without style)" = "HTML ஆக நகலெடுக்கும்போது / ஏற்றுமதி செய்யும்போது (பாணியில்லாமல்)";
+"Use Rendered SVG" = "காட்சிப்படுத்திய SVG ஐப் பயன்படுத்து";
+"Use LaTeX Source" = "LaTeX மூலத்தைப் பயன்படுத்து";
+"<div>Take effects when export as HTML (without styles) or copy as HTML code, or copy without theme style.<br/>When <strong>Use LaTeX Source</strong> is selected, Typora will put the raw LaTeX source (e.g: $X^2$),<br/>When <strong>Use Rendered SVG</strong> is selected, the rendered SVG will be used, if you paste to other app, SVG may get ignored.</div>" = "<div>HTML ஆக ஏற்றுமதி செய்யும்போது (பாணியில்லாமல்) அல்லது HTML குறியீடாக நகலெடுக்கும்போது, அல்லது தீம் பாணியில்லாமல் நகலெடுக்கும்போது பொருந்தும்.<br/><strong>LaTeX மூலத்தைப் பயன்படுத்து</strong> தேர்ந்தெடுக்கப்பட்டால், Typora மூல LaTeX மூலத்தை (எ.கா: $X^2$) இடும்,<br/><strong>காட்சிப்படுத்திய SVG ஐப் பயன்படுத்து</strong> தேர்ந்தெடுக்கப்பட்டால், காட்சிப்படுத்திய SVG பயன்படுத்தப்படும்; பிற பயன்பாட்டில் ஒட்டினால் SVG புறக்கணிக்கப்படலாம்.</div>";
+
+"Import function and several export formats requires Pandoc (≥%@) to be installed." = "இறக்குமதி செயல்பாடு மற்றும் சில ஏற்றுமதி வடிவங்களுக்கு Pandoc (≥%@) நிறுவப்பட்டிருக்க வேண்டும்.";
+"Do not show this message again" = "இந்தச் செய்தியை மீண்டும் காட்டாதே";
+
+"Page Break Between Top Headings" = "முதன்மைத் தலைப்புகளுக்கிடையே பக்க முறிவு";
+
+"Sorry, some error happened, current writing content has been copied to clipboard. You could report this to <hi@typora.io> to help us fix this error." = "மன்னிக்கவும், ஏதோ பிழை ஏற்பட்டது; தற்போதைய எழுத்து உள்ளடக்கம் கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டுள்ளது. இந்தப் பிழையைச் சரிசெய்ய உதவ <hi@typora.io> க்கு இதைத் தெரிவிக்கலாம்.";
+"Try Recovery" = "மீட்பை முயற்சி";
+"Other Options for Data Recovery" = "தரவு மீட்புக்கான பிற விருப்பங்கள்";
+
+"When Insert" = "செருகும்போது";
+"Upload image" = "படத்தைப் பதிவேற்று";
+"e.g: %@" = "எ.கா: %@";
+"Test Uploader" = "பதிவேற்றியைச் சோதி";
+"Validating" = "படப் பதிவேற்றியைச் சரிபார்க்கிறது";
+"Validation Failed" = "சரிபார்ப்பு தோல்வி";
+"Validation Succeed" = "சரிபார்ப்பு வெற்றி";
+"Testing image uploading using command:" = "கட்டளையைப் பயன்படுத்திப் படப் பதிவேற்றம் சோதிக்கப்படுகிறது:";
+"Running… Waiting for results." = "இயங்குகிறது… முடிவுகளுக்குக் காத்திருக்கிறது.";
+"Output from the console:" = "கன்சோலின் வெளியீடு:";
+"Error from the console:" = "கன்சோலின் பிழை:";
+"Failed to fetch uploaded image from command output." = "கட்டளை வெளியீட்டிலிருந்து பதிவேற்றிய படத்தைப் பெற முடியவில்லை.";
+"Successfully get uploaded image url." = "பதிவேற்றிய பட URL வெற்றிகரமாகப் பெறப்பட்டது.";
+"Image Uploader" = "படப் பதிவேற்றி";
+"Instructions" = "வழிமுறைகள்";
+"Download %@" = "%@ ஐப் பதிவிறக்கு";
+"Image Upload Setting" = "படப் பதிவேற்ற அமைப்பு";
+"Please set an image uploader in Preferences panel before using this function." = "இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முன் விருப்பங்கள் பலகத்தில் படப் பதிவேற்றியை அமைக்கவும்.";
+"Download or Upgrade" = "பதிவிறக்கு அல்லது மேம்படுத்து";
+"Open Config File" = "கட்டமைப்புக் கோப்பைத் திற";
+"Command" = "கட்டளை";
+"PicGo Path" = "PicGo பாதை";
+"Path of PicGo binary" = "PicGo இருமப் பாதை";
+"Executable" = "இயக்கக்கூடியது";
+"Checking" = "சரிபார்க்கிறது";
+"Download" = "பதிவிறக்கு";
+"Agree and Download" = "ஏற்றுப் பதிவிறக்கு";
+"Download and Reinstall" = "பதிவிறக்கி மீண்டும் நிறுவு";
+"Loading PicGo-Core License" = "PicGo-Core உரிமம் ஏற்றப்படுகிறது";
+"Failed to get installed version of PicGo-Core (command line)" = "நிறுவப்பட்ட PicGo-Core (கட்டளை வரி) பதிப்பைப் பெற முடியவில்லை";
+"You have the latest PicGo-Core (CLI)" = "உங்களிடம் சமீபத்திய PicGo-Core (CLI) உள்ளது";
+"Newer version is available" = "புதிய பதிப்பு கிடைக்கிறது";
+
+"Downloading…" = "பதிவிறக்குகிறது…";
+"Unzipping…" = "விரிவாக்குகிறது…";
+"Finished" = "முடிந்தது";
+
+"Typora will launch 3rd party app with file paths of all local images. The image uploader and cloud image storage will then have access to your local images. Are you sure to continue?" = "Typora அனைத்து உள்ளூர் படங்களின் கோப்புப் பாதைகளுடன் மூன்றாம் தரப்புப் பயன்பாட்டைத் தொடங்கும். பிறகு படப் பதிவேற்றி மற்றும் மேகப் படச் சேமிப்பகம் உங்கள் உள்ளூர் படங்களை அணுக முடியும். தொடர விரும்புகிறீர்களா?";
+
+"Export operation finished successfully." = "ஏற்றுமதிச் செயல் வெற்றிகரமாக முடிந்தது.";
+
+"Shortcut Keys" = "குறுக்குவழி விசைகள்";
+"Custom Shortcut Keys" = "தனிப்பயன் குறுக்குவழி விசைகள்";
+
+"Theme" = "தீம்";
+"Light Theme" = "வெளிர் தீம்";
+"Dark Theme" = "இருண்ட தீம்";
+"Use separate theme in dark mode" = "இருண்ட பயன்முறையில் தனி தீமைப் பயன்படுத்து";
+"Supported on macOS ≥ 10.15 or Windows 10 ≥ 1903" = "macOS ≥ 10.15 அல்லது Windows 10 ≥ 1903 இல் ஆதரிக்கப்படுகிறது";
+"Convert -- to – (en dash), and --- to — (em dash)" = "-- ஐ – (en dash) ஆகவும், --- ஐ — (em dash) ஆகவும் மாற்று";
+"Convert -- and --- to — (em dash)" = "-- மற்றும் --- ஐ — (em dash) ஆக மாற்று";
+"You could set quote patterns in System Preferences → Keyboard → Text. If it is changed, Typora will need a restart to apply it." = "கணினி விருப்பங்கள் → விசைப்பலகை → உரை இல் மேற்கோள் வடிவங்களை அமைக்கலாம். அது மாற்றப்பட்டால், செயல்படுத்த Typora மீண்டும் தொடங்க வேண்டும்.";
+
+
+"Paper Size" = "காகித அளவு";
+"US Letter" = "US Letter";
+"US Legal" = "US Legal";
+"Tabloid" = "Tabloid";
+"Page Break" = "பக்க முறிவு";
+"Page Break Between Top Headings" = "முதன்மைத் தலைப்புகளுக்கிடையே பக்க முறிவு";
+"Header" = "மேல்குறிப்பு";
+"Footer" = "கீழ்குறிப்பு";
+"Author" = "ஆசிரியர்";
+"Append in <head />" = "<head /> இல் சேர்";
+"Append in <body />" = "<body /> இல் சேர்";
+"Include Outline Sidebar" = "வெளிக்கோடு பக்கப்பட்டியைச் சேர்";
+"Width" = "அகலம்";
+"Command" = "கட்டளை";
+"Show Save File Dialog" = "சேமிப்புக் கோப்பு உரையாடலைக் காட்டு";
+"File Extensions for Export" = "ஏற்றுமதிக்கான கோப்பு நீட்டிப்புகள்";
+"Arguments" = "அளபுருக்கள்";
+"Extra Arguments" = "கூடுதல் அளபுருக்கள்";
+"LaTeX Engine" = "LaTeX இயந்திரம்";
+"Template" = "வார்ப்புரு";
+"Empty" = "காலி";
+"Style Reference" = "பாணிக் குறிப்பு";
+"Custom CSS" = "தனிப்பயன் CSS";
+"Chapter Level" = "அத்தியாய நிலை";
+"Default Folder for Exported File" = "ஏற்றுமதி செய்த கோப்புக்கான இயல்புநிலைக் கோப்புறை";
+"Same folder with current file" = "தற்போதைய கோப்பின் அதே கோப்புறை";
+"Custom location" = "தனிப்பயன் இருப்பிடம்";
+"(Auto Detect)" = "(தானாகக் கண்டறி)";
+"After Export" = "ஏற்றுமதிக்குப் பிறகு";
+"Open exported file location" = "ஏற்றுமதி செய்த கோப்பு இருப்பிடத்தைத் திற";
+"Open exported file" = "ஏற்றுமதி செய்த கோப்பைத் திற";
+"Custom" = "தனிப்பயன்";
+"None" = "எதுவுமில்லை";
+"Default" = "இயல்புநிலை";
+"Margin" = "ஓரம்";
+"Margin Left" = "இடது ஓரம்";
+"Margin Right" = "வலது ஓரம்";
+"Margin Top" = "மேல் ஓரம்";
+"Margin Bottom" = "கீழ் ஓரம்";
+"Width x Height" = "அகலம் x உயரம்";
+"Add From a Template" = "வார்ப்புருவிலிருந்து சேர்";
+"Delete this export option ?" = "இந்த ஏற்றுமதி விருப்பத்தை நீக்கவா?";
+"Add" = "சேர்";
+"Delete" = "நீக்கு";
+"Rename" = "மறுபெயரிடு";
+"Move Down" = "கீழே நகர்த்து";
+"Move Up" = "மேலே நகர்த்து";
+"Pandoc Path" = "Pandoc பாதை";
+"Select" = "தேர்ந்தெடு";
+"Target Format" = "இலக்கு வடிவம்";
+"auto detect based on target file path" = "இலக்குக் கோப்புப் பாதையின் அடிப்படையில் தானாகக் கண்டறி";
+"Target File Extensions (separate by whitespace)" = "இலக்கு கோப்பு நீட்டிப்புகள் (இடைவெளியால் பிரிக்கவும்)";
+"e.g: .text .asciidoc or leave this empty" = "எ.கா: .text .asciidoc அல்லது இதைக் காலியாக விடவும்";
+"Raw Type" = "மூல வகை";
+"Auto" = "தானியங்கு";
+"Show Save File Dialog" = "சேமிப்புக் கோப்பு உரையாடலைக் காட்டு";
+"Do not popup save file dialog" = "சேமிப்புக் கோப்பு உரையாடலைக் காட்டாதே";
+"Select file path to save" = "சேமிக்க கோப்புப் பாதையைத் தேர்ந்தெடு";
+"Select folder path to save" = "சேமிக்க கோப்புறைப் பாதையைத் தேர்ந்தெடு";
+"PDF Engine" = "PDF இயந்திரம்";
+"Show command output" = "கட்டளை வெளியீட்டைக் காட்டு";
+
+"\"Export and Overwrite with Previous\" will overwrite file at %@, would you continue?" = "\"முந்தைய அமைப்புகளுடன் ஏற்றுமதி செய்து மேலெழுது\" %@ இல் உள்ள கோப்பை மேலெழுதும், தொடரவா?";
+"Command Arguments:" = "கட்டளை அளபுருக்கள்:";
+"This dev version of Typora is expired, please download and install a newer version." = "இந்த Typora டெவ் பதிப்பு காலாவதியானது, தயவுசெய்து புதிய பதிப்பைப் பதிவிறக்கி நிறுவவும்.";
+"Current Theme" = "தற்போதைய தீம்";
+"After Export" = "ஏற்றுமதிக்குப் பிறகு";
+"Run command" = "கட்டளையை இயக்கு";
+"Run command after export failed" = "ஏற்றுமதி தோல்வியடைந்த பிறகு கட்டளையை இயக்கு";
+"Read and overwrite export settings from YAML front matters" = "YAML முன்னிலைத் தகவல்களிலிருந்து ஏற்றுமதி அமைப்புகளைப் படித்து மேலெழுது";
+"Append Extra Content (HTML)" = "கூடுதல் உள்ளடக்கத்தைச் சேர் (HTML)";
+"Change this option to specify a separated theme for export." = "ஏற்றுமதிக்குத் தனி தீமைக் குறிப்பிட இந்த விருப்பத்தை மாற்றவும்.";
+"Dark theme is not supported." = "இருண்ட தீம் ஆதரிக்கப்படவில்லை.";
+
+"Markdown Variants" = "மார்க்டவுன் வகைகள்";
+"Original Unextended Markdown" = "அசல் நீட்டிக்கப்படாத மார்க்டவுன்";
+"CommonMark with many pandoc extensions" = "பல pandoc நீட்டிப்புகளுடன் CommonMark";
+"Line Wrap" = "வரி மடிப்பு";
+"Hard line wrap" = "கடின வரி மடிப்பு";
+"Text Column Width" = "உரை நிரல் அகலம்";
+"Auto (based on current OS)" = "தானியங்கு (தற்போதைய OS அடிப்படையில்)";
+"Indent" = "உள்தள்ளு";
+"Preserve tabs" = "தாவல்களைப் பாதுகா";
+"2 spaces per tab" = "ஒரு தாவலுக்கு 2 இடைவெளிகள்";
+"3 spaces per tab" = "ஒரு தாவலுக்கு 3 இடைவெளிகள்";
+"4 spaces per tab" = "ஒரு தாவலுக்கு 4 இடைவெளிகள்";
+"Unicode Characters" = "யூனிகோட் எழுத்துகள்";
+"Use only ASCII characters in output" = "வெளியீட்டில் ASCII எழுத்துகளை மட்டும் பயன்படுத்து";
+"Use reference-style links rather than inline links" = "உள்ளமை இணைப்புகளுக்குப் பதிலாக குறிப்பு-பாணி இணைப்புகளைப் பயன்படுத்து";
+"Footnotes and References Location" = "அடிக்குறிப்புகள் மற்றும் குறிப்புகளின் இருப்பிடம்";
+"End of document" = "ஆவணத்தின் முடிவு";
+"End of current (top-level) block" = "தற்போதைய (முதன்மை) தொகுதியின் முடிவு";
+"End of current section" = "தற்போதைய பிரிவின் முடிவு";
+"Convert TeX formulas to web images" = "TeX சூத்திரங்களை இணையப் படங்களாக மாற்று";
+"Image Format" = "பட வடிவம்";
+
+"Set Pandoc Path" = "Pandoc பாதையை அமை";
+
+"Apply Line Break at \\ and &#92;newline" = "\\ மற்றும் &#92;newline இல் வரி முறிவைப் பயன்படுத்து";
+
+"Export operation succeeded with warnings." = "ஏற்றுமதிச் செயல் எச்சரிக்கைகளுடன் வெற்றியடைந்தது.";
+
+"Typora is now deactivated" = "Typora இப்போது செயலிழக்கப்பட்டது";
+"This device has been deactivated" = "இந்தச் சாதனம் செயலிழக்கப்பட்டது";
+"UNREGISTERED" = "பதிவு செய்யப்படவில்லை";
+
+"Your Typora is not activated." = "உங்கள் Typora செயல்படுத்தப்படவில்லை.";
+"Your Typora has been activated." = "உங்கள் Typora செயல்படுத்தப்பட்டுள்ளது.";
+"Typora activation is required to change this." = "இதை மாற்ற Typora செயல்படுத்தல் தேவை.";
+"You can reinstall the stable version and then disable this." = "நிலையான பதிப்பை மீண்டும் நிறுவி இதை முடக்கலாம்.";
+"Update to dev version" = "டெவ் பதிப்புக்குப் புதுப்பி";
+
+"Typora Server" = "Typora சேவையகம்";
+"Use Typora Server in China" = "சீனாவில் Typora சேவையகத்தைப் பயன்படுத்து";
+
+"File does not exist" = "கோப்பு இல்லை";
+"Create File" = "கோப்பை உருவாக்கு";
+"Create Folder" = "கோப்புறையை உருவாக்கு";
+
+"(Some options will be applied after restart.)" = "(சில விருப்பங்கள் மறுதொடக்கத்திற்குப் பிறகு பொருந்தும்.)";
+"Copy or cut the whole lines that have cursors on them, if there is no selection when doing copy / cut." = "நகலெடுக்கும்போது / வெட்டும்போது தேர்வு இல்லாவிட்டால், கர்சர் உள்ள முழு வரிகளையும் நகலெடு அல்லது வெட்டு.";
+"Enable physics package" = "physics தொகுப்பை இயக்கு";
+"Physics package will redefine some latex macros, such as \\div, \\Re, etc." = "Physics தொகுப்பு சில LaTeX மேக்ரோக்களை மறுவரையறை செய்யும், எ.கா. \\div, \\Re.";
+
+"Detail" = "விவரம்";
+"Use custom font size" = "தனிப்பயன் எழுத்துரு அளவைப் பயன்படுத்து";
+"Use theme font size" = "தீம் எழுத்துரு அளவைப் பயன்படுத்து";
+
+"You are using the Snap version, it may have limited access to your local executables." = "நீங்கள் Snap பதிப்பைப் பயன்படுத்துகிறீர்கள்; உள்ளூர் இயக்கக்கூடிய கோப்புகளுக்கான அணுகல் வரம்புடன் இருக்கலாம்.";
+
+"No local images found." = "உள்ளூர் படங்கள் எதுவும் கிடைக்கவில்லை.";
+
+"File Format:" = "கோப்பு வடிவம்:";
+
+"Images copied to %@." = "படங்கள் %@ க்கு நகலெடுக்கப்பட்டன.";
+"Images moved to %@." = "படங்கள் %@ க்கு நகர்த்தப்பட்டன.";
+
+"Custom Command" = "தனிப்பயன் கட்டளை";
+"No Automatic Equation Numbering" = "தானியங்கிச் சமன்பாடு எண்ணிடல் இல்லை";
+"Use AMS Numbering Rules" = "AMS எண்ணிடல் விதிகளைப் பயன்படுத்து";
+"Auto Numbering for All Math Equations" = "அனைத்துக் கணிதச் சமன்பாடுகளுக்கும் தானியங்கி எண்ணிடல்";
+
+"Preferred Image Syntax" = "விருப்பப் படத் தொடரியல்";
+"Add ./ for relative path" = "ஒப்பீட்டுப் பாதைக்கு ./ சேர்";
+"When enabled, Typora will use pattern like ./assets/image.png instead of assets/image.png when generating relative path for inserted images." = "இயக்கப்பட்டால், செருகிய படங்களுக்கு ஒப்பீட்டுப் பாதையை உருவாக்கும்போது Typora assets/image.png க்குப் பதிலாக ./assets/image.png போன்ற வடிவத்தைப் பயன்படுத்தும்.";
+
+"Image Quality" = "படத் தரம்";
+"Medium" = "நடுத்தரம்";
+"High" = "உயர்";
+"Best" = "சிறந்தது";
+
+"Use Shift+Tab to auto indent selected code" = "தேர்ந்தெடுத்த குறியீட்டைத் தானாக உள்தள்ள Shift+Tab பயன்படுத்து";
+"When disabled, Shift+Tab will outdent selected code or current line. When enabled, Shift+Tab will auto apply indentation for selected code or current line in code blocks." = "முடக்கப்பட்டிருந்தால், Shift+Tab தேர்ந்தெடுத்த குறியீடு அல்லது தற்போதைய வரியை வெளித்தள்ளும். இயக்கப்பட்டிருந்தால், குறியீட்டுத் தொகுதிகளில் தேர்ந்தெடுத்த குறியீடு அல்லது தற்போதைய வரிக்கு Shift+Tab தானாக உள்தள்ளலைப் பயன்படுத்தும்.";
+
+"Auto Links (e.g: https://typora.io)" = "தானியங்கி இணைப்புகள் (எ.கா: https://typora.io)";
+"When enabled, Typora will auto recognize and highlight URLs (e.g: https://typora.io or mailto:hi@typora.io) in text." = "இயக்கப்பட்டால், Typora உரையில் உள்ள URL களை (எ.கா: https://typora.io அல்லது mailto:hi@typora.io) தானாக அடையாளம் கண்டு சிறப்பிக்கும்.";
+
+"Files" = "கோப்புகள்";
+"Default File Type / Extension" = "இயல்புநிலைக் கோப்பு வகை / நீட்டிப்பு";
+"Custom Extension:" = "தனிப்பயன் நீட்டிப்பு:";
+"Following extensions are supported: %@" = "பின்வரும் நீட்டிப்புகள் ஆதரிக்கப்படுகின்றன: %@";
+"e.g: %@" = "எ.கா: %@";
+"When drop file / folder into Typora" = "Typora இல் கோப்பு / கோப்புறையை இழுத்து விடும்போது";
+"When drop folder" = "கோப்புறையை இழுத்து விடும்போது";
+"When drop markdown file" = "மார்க்டவுன் கோப்பை இழுத்து விடும்போது";
+"When drop files that can be imported" = "இறக்குமதி செய்யக்கூடிய கோப்புகளை இழுத்து விடும்போது";
+"Open in Typora" = "Typora இல் திற";
+"Insert Folder Link" = "கோப்புறை இணைப்பைச் செருகு";
+"Insert File Link" ="கோப்பு இணைப்பைச் செருகு";
+"Import File" = "கோப்பை இறக்குமதி செய்";
+
+"Diagram Options" = "வரைபட விருப்பங்கள்";
+"Default Code Language" = "இயல்புநிலைக் குறியீட்டு மொழி";
+"(None)" = "(எதுவுமில்லை)";
+"Last Used" = "கடைசியாகப் பயன்படுத்தியது";
+"Apply Default Code Language When" = "இயல்புநிலைக் குறியீட்டு மொழியைப் பயன்படுத்தும்போது";
+"When add code fences via Markdown" = "மார்க்டவுன் வழியாகக் குறியீட்டுத் தொகுதிகளைச் சேர்க்கும்போது";
+"When add code fences via Menubar" = "மெனுபட்டி வழியாகக் குறியீட்டுத் தொகுதிகளைச் சேர்க்கும்போது";
+"Both" = "இரண்டும்";
+
+"Pinned and Recent Locations" = "பொருத்தப்பட்ட மற்றும் சமீபத்திய இருப்பிடங்கள்";
+"Operation Succeeded" = "செயல் வெற்றி";
+"Clear Recent Folders and Files" = "சமீபத்திய கோப்புறைகள் மற்றும் கோப்புகளை அழி";
+"Clear Recent Folders / Files Only" = "சமீபத்திய கோப்புறைகள் / கோப்புகளை மட்டும் அழி";
+"Clear Recent and Pinned Folders / Files" = "சமீபத்திய மற்றும் பொருத்தப்பட்ட கோப்புறைகள் / கோப்புகளை அழி";
+"Also clear pinned folders" = "பொருத்தப்பட்ட கோப்புறைகளையும் அழி";
+"Pin" = "பொருத்து";
+"Unpin" = "பொருத்தலை நீக்கு";
+"Remove from List" = "பட்டியலிலிருந்து நீக்கு";
+"Record recent files and folders" = "சமீபத்திய கோப்புகள் மற்றும் கோப்புறைகளைப் பதிவு செய்";
+
+"System Integration" = "கணினி ஒருங்கிணைப்பு";
+"Add \"Markdown\" to \"New\" context menu in Windows Explorer" = "Windows Explorer இல் \"புதியது\" சூழல் பட்டியில் \"மார்க்டவுன்\" சேர்";
+"Delete items from \"New\" context menu in Windows Explorer" = "Windows Explorer இல் \"புதியது\" சூழல் பட்டியிலிருந்து உருப்படிகளை நீக்கு";
+"Please try sign out Windows to take effect." = "பொருந்த Windows இலிருந்து வெளியேறிப் பாருங்கள்.";
+"Github Style Alert" = "GitHub பாணி எச்சரிக்கை";
+"Zoom when using mouse wheel and holding %@ key" = "%@ விசையை அழுத்திப் பிடித்துச் சுட்டிச் சக்கரத்தைப் பயன்படுத்தும்போது பெரிதாக்கு";
+"Current document contains unsaved changes. Do you want to switch to newly duplicated file?" = "தற்போதைய ஆவணத்தில் சேமிக்கப்படாத மாற்றங்கள் உள்ளன. புதிதாக நகலெடுத்த கோப்புக்கு மாறவா?";
+
+"Chapter Level in Outline" = "வெளிக்கோட்டில் அத்தியாய நிலை";
+"Enable inline math or code block math" = "உள்ளமைக் கணிதம் அல்லது குறியீட்டுத் தொகுதிக் கணிதத்தை இயக்கு";
+"Code Block Math  (```math code block)" = "குறியீட்டுத் தொகுதிக் கணிதம்  (```math குறியீட்டுத் தொகுதி)";
+"PicList Path" = "PicList பாதை";
+
+"Auto Complete" = "தானியங்கி நிரப்பு";
+"Enable autocomplete for Emojis" = "ஈமோஜிகளுக்குத் தானியங்கி நிரப்பலை இயக்கு";
+
+"Some settings will only apply after a reload" = "சில அமைப்புகள் மீண்டும் ஏற்றிய பிறகே பொருந்தும்";
+"Reload" = "மீண்டும் ஏற்று";
+"Use legacy inline math parsing (compatible mode)" = "பழைய உள்ளமைக் கணிதப் பாகுபடுத்தலைப் பயன்படுத்து (இணக்கப் பயன்முறை)";
+"Use legacy inline math parsing hint" = "<div><b>முடக்கப்பட்டது (இயல்புநிலை)</b>: உள்ளமைக் கணிதம் <a href=\"https://pandoc.org/MANUAL.html#math\">Pandoc</a> போன்ற விதிகளைப் பின்பற்றும்: தொடங்கும் <code>$</code> க்குப் பிறகு இடைவெளி இருக்கக் கூடாது, முடிக்கும் <code>$</code> க்கு முன் இடைவெளி இருக்கக் கூடாது, மேலும் முடிக்கும் <code>$</code> க்கு நேரடியாக ஒரு இலக்கம் தொடரக்கூடாது.</div><div><b>இயக்கப்பட்டது (இணக்கப் பயன்முறை)</b>: பழைய Typora விதி — <code>$</code> இலிருந்து அடுத்த <code>$</code> வரையிலான பகுதி, முடிக்கும் <code>$</code> க்கு முன் உள்ள எழுத்து <code>\\</code> இல்லாவிட்டால் கணிதமாகக் கருதப்படும் (மேலும் டாலர் இணைகள் கணிதமாக விளக்கப்படும்).</div><div><a href=\"https://support.typora.io/Math/#inline-math-compatible-mode\">support.typora.io/Math</a> பார்க்கவும்.</div>";
+
+/* File Tree / Library (Files panel) */
+"File Tree / Library" = "கோப்பு மரம் / நூலகம்";
+"Choose which files appear in the file tree and file library." = "கோப்பு மரத்திலும் கோப்பு நூலகத்திலும் எந்தக் கோப்புகள் தோன்ற வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.";
+"Show hidden folders / files" = "மறைக்கப்பட்ட கோப்புறைகள் / கோப்புகளைக் காட்டு";
+"File Tree" = "கோப்பு மரம்";
+"File Library" = "கோப்பு நூலகம்";
+"Supported Files (Markdown & Plain Text)" = "ஆதரிக்கப்பட்ட கோப்புகள் (மார்க்டவுன் & எளிய உரை)";
+"Configure" = "கட்டமை";
+"File Tree — Custom Patterns" = "கோப்பு மரம் — தனிப்பயன் வடிவங்கள்";
+"File Library — Custom Patterns" = "கோப்பு நூலகம் — தனிப்பயன் வடிவங்கள்";
+"Add glob patterns to choose which files are shown. Prefix a pattern with \"!\" to exclude. Example: *.csv or !**/draft-*.md" = "எந்தக் கோப்புகள் காட்டப்பட வேண்டும் என்பதைத் தேர்ந்தெடுக்க glob வடிவங்களைச் சேர்க்கவும். விலக்க ஒரு வடிவத்தின் முன் \"!\" சேர்க்கவும். எடுத்துக்காட்டு: *.csv அல்லது !**/draft-*.md";
+"Markdown and text files" = "மார்க்டவுன் மற்றும் உரைக் கோப்புகள்";
+"Add Pattern" = "வடிவத்தைச் சேர்";
+"Included by default. To exclude some formats, use a \"!\" pattern." = "இயல்பாகச் சேர்க்கப்பட்டுள்ளது. சில வடிவங்களை விலக்க \"!\" வடிவத்தைப் பயன்படுத்தவும்.";
+
+/* Editor Toolbar */
+"Toolbar" = "கருவிப்பட்டி";
+"Show editor toolbar" = "எடிட்டர் கருவிப்பட்டியைக் காட்டு";

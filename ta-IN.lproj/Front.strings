@@ -1,0 +1,208 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Tamil translation by @mrlearner1606
+*/
+
+/* Common */
+"OK" = "சரி";
+"Cancel" = "ரத்துசெய்";
+"Yes" = "ஆம்";
+"No" = "இல்லை";
+"Close" = "மூடு";
+"Select" = "தேர்ந்தெடு";
+"Continue" = "தொடர்";
+"Learn More…" = "மேலும் அறிக…";
+"Untitled" = "தலைப்பிடப்படாதது";
+"Undo" = "செயல்தவிர்";
+"Dismiss" = "நீக்கு";
+"Confirm" = "உறுதிப்படுத்து";
+"Error" = "பிழை";
+
+/* Search Panel */
+"Search" = "தேடு";
+"Replace" = "மாற்று";
+"All" = "அனைத்தும்";
+"Search text not found in article" = "கட்டுரையில் தேடிய உரை கிடைக்கவில்லை";
+"search text" = "உரையைத் தேடு";
+
+/* Quick Open */
+"Search by file name" = "கோப்புப் பெயரால் தேடு";
+"Searching" = "தேடுகிறது";
+"Gathering more results" = "மேலும் முடிவுகளைச் சேகரிக்கிறது";
+
+/* Tables */
+"Insert Table" = "அட்டவணையைச் செருகு";
+"Columns" = "நிரல்கள்";
+"Rows" = "வரிசைகள்";
+"Align Left" = "இடது சீரமை";
+"Align Center" = "மையச் சீரமை";
+"Align Right" = "வலது சீரமை";
+"Resize Table" = "அட்டவணை அளவை மாற்று";
+"Delete Table" = "அட்டவணையை நீக்கு";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora புதிதாகச் செருகிய படத்தை, உங்கள் YAML முன்னிலைத் தகவல் அமைப்பு அல்லது பொது விருப்பங்களின்படி <code id='image-create-folder-target'></code> கோப்புறைக்கு நகலெடுக்க முயல்கிறது. ஆனால் இலக்குக் கோப்புறை இல்லை; இப்போது உருவாக்கவா?";
+"Create Folder" = "கோப்புறையை உருவாக்கு";
+
+/* Math */
+"Edit" = "திருத்து";
+"Delete Math" = "கணிதத்தை நீக்கு";
+"Preview" = "முன்னோட்டம்";
+
+/* Sidebar */
+"Articles" = "கட்டுரைகள்";
+"Outline" = "வெளிக்கோடு";
+"Files" = "கோப்புகள்";
+"Switch to File List view" = "கோப்புப் பட்டியல் காட்சிக்கு மாறு";
+"Switch to File Tree view" = "கோப்பு மரக் காட்சிக்கு மாறு";
+"Switch to Outline view" = "வெளிக்கோடு காட்சிக்கு மாறு";
+"Close sidebar" = "பக்கப்பட்டியை மூடு";
+"Loading" = "ஏற்றுகிறது";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "தேர்ந்தெடுத்த கோப்புறைகளில் அதிக கோப்புகள் உள்ளன. \nசிறந்த செயல்திறனுக்கு <a id='switch-to-tree-on-oversize'>கோப்பு மரக் காட்சிக்கு</a> மாறவும்.";
+"New File" = "புதிய கோப்பு";
+"Unpin Outline Panel" = "வெளிக்கோடு பலகத்தின் பொருத்தலை நீக்கு";
+"Open Folder..." = "கோப்புறையைத் திற...";
+"Action" = "செயல்";
+"Close Sidebar Menu" = "பக்கப்பட்டிப் பட்டியை மூடு";
+"Reveal in Finder" = "Finder இல் காட்டு";
+"Reveal in File Explorer" = "File Explorer இல் காட்டு";
+"Refresh Folder" = "கோப்புறையைப் புதுப்பி";
+"Sort" = "வரிசைப்படுத்து";
+"Group By Folder" = "கோப்புறை வாரியாகத் தொகு";
+"Sort Naturally (Ascending)" = "இயல்பாக வரிசைப்படுத்து (ஏறுவரிசை)";
+"Sort Naturally (Descending)" = "இயல்பாக வரிசைப்படுத்து (இறங்குவரிசை)";
+"Sort by Name (Ascending)" = "பெயரால் வரிசைப்படுத்து (ஏறுவரிசை)";
+"Sort by Modification Date (Ascending)" = "மாற்றிய தேதியால் வரிசைப்படுத்து (ஏறுவரிசை)";
+"Sort by Name (Descending)" = "பெயரால் வரிசைப்படுத்து (இறங்குவரிசை)";
+"Sort by Modification Date (Descending)" = "மாற்றிய தேதியால் வரிசைப்படுத்து (இறங்குவரிசை)";
+"Location" = "இருப்பிடம்";
+"Switch File List/Tree View" = "கோப்புப் பட்டியல்/மரக் காட்சிக்கு மாறு";
+"No Files Available" = "கோப்புகள் எதுவும் கிடைக்கவில்லை";
+"No Folder is Opened." = "கோப்புறை எதுவும் திறக்கப்படவில்லை.";
+"Outline is Empty." = "வெளிக்கோடு காலியாக உள்ளது.";
+
+/* Status Bar */
+"Toggle Sidebar" = "பக்கப்பட்டியை மாற்று";
+"Toggle Source Code Mode" = "மூலக் குறியீட்டுப் பயன்முறையை மாற்று";
+"Exit Source Code Mode" = "மூலக் குறியீட்டுப் பயன்முறையிலிருந்து வெளியேறு";
+
+"Table of Contents" = "பொருளடக்கம்";
+"Empty Diagram" = "காலி வரைபடம்";
+"Input Math TeX here" = "இங்கே கணித TeX ஐ உள்ளிடவும்";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "குறிப்பு அடிக்குறிப்பு <b>{0}</b> ஐ <a>[^{1}]: www.example.com</a> தொடரியலுடன் வரையறுக்க வேண்டும்";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "குறிப்பு இணைப்பு <b>[{0}]</b> ஐ <b>[{1}]: www.example.com</b> தொடரியலுடன் வரையறுக்க வேண்டும்";
+"Please define image reference by \n[{0}]: http://example.png" = "படக் குறிப்பை இவ்வாறு வரையறுக்கவும்: \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "கோப்பை உருவாக்க முடியவில்லை";
+"Failed to create folder" = "கோப்புறையை உருவாக்க முடியவில்லை";
+"Failed to rename file" = "கோப்பை மறுபெயரிட முடியவில்லை";
+"Folder does not exist at %@" = "%@ இல் கோப்புறை இல்லை";
+"File with the same name already exists at target path" = "இலக்குப் பாதையில் அதே பெயரில் கோப்பு ஏற்கனவே உள்ளது";
+"Apply to All" = "அனைத்திற்கும் பயன்படுத்து";
+"Overwrite" = "மேலெழுது";
+"Stop" = "நிறுத்து";
+"back to document" = "ஆவணத்திற்குத் திரும்பு";
+"Failed to load file" = "கோப்பை ஏற்ற முடியவில்லை";
+"Save File Failed!" = "கோப்பைச் சேமிக்க முடியவில்லை!";
+"Cannot open folder {0}" = "{0} கோப்புறையைத் திறக்க முடியவில்லை";
+
+"File content is changed by external applications. Reload content from disk ?" = "கோப்பு உள்ளடக்கம் வெளிப் பயன்பாடுகளால் மாற்றப்பட்டுள்ளது. வட்டிலிருந்து உள்ளடக்கத்தை மீண்டும் ஏற்றவா?";
+"Reload from disk? Unsaved changes will be discarded." = "வட்டிலிருந்து மீண்டும் ஏற்றவா? சேமிக்கப்படாத மாற்றங்கள் நீக்கப்படும்.";
+"Should continue moving and overwrite existing file(s) ?" = "நகர்த்தலைத் தொடர்ந்து ஏற்கனவே உள்ள கோப்பு(களை) மேலெழுதவா?";
+
+"Rename to \"{0}\" ?" = "\"{0}\" என மறுபெயரிடவா?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "\"{0}\" இலிருந்து \"{1}\" என மறுபெயரிட முடியவில்லை";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "{0} படங்கள் வெற்றிகரமாகப் பதிவேற்றப்பட்டன.";
+"Failed to upload image. Error Message:" = "படத்தைப் பதிவேற்ற முடியவில்லை. பிழைச் செய்தி:";
+"Failed to Copy Image to Target Folder." = "படத்தை இலக்குக் கோப்புறைக்கு நகலெடுக்க முடியவில்லை.";
+"Select Container Folder" = "கொள்கலக் கோப்புறையைத் தேர்ந்தெடு";
+
+"Saved" = "சேமிக்கப்பட்டது";
+
+/* place holder in find & replace input */
+"search text" = "உரையைத் தேடு";
+"replace with" = "இதனால் மாற்று";
+/* search option */
+"Case Sensitive" = "எழுத்துநிலை உணர்திறன்";
+"Whole Word" = "முழுச் சொல்";
+
+"input image URL" = "பட URL ஐ உள்ளிடவும்";
+"Select image from local file" = "உள்ளூர் கோப்பிலிருந்து படத்தைத் தேர்ந்தெடு";
+"Cannot open location <code>$1</code>, do you mean <a href='$3' target='_blank' target='_blank'>$2</a> ?" = "<code>$1</code> இருப்பிடத்தைத் திறக்க முடியவில்லை, <a href='$3' target='_blank' target='_blank'>$2</a> என்பதா?";
+
+"Finish Editing" = "திருத்தலை முடி";
+
+"Revert advanced setting file to default one ?" = "மேம்பட்ட அமைப்புக் கோப்பை இயல்புநிலைக்கு மீட்டமைக்கவா?";
+
+"Select Spell Check Language" = "எழுத்துப்பிழைச் சரிபார்ப்பு மொழியைத் தேர்ந்தெடு";
+"Auto Detect Language" = "மொழியைத் தானாகக் கண்டறி";
+"Disable Spell Check" = "எழுத்துப்பிழைச் சரிபார்ப்பை முடக்கு";
+"Global Setting…" = "பொது அமைப்பு…";
+"Dictionary file is missing to enable spellcheck support for %@." = "%@ க்கு எழுத்துப்பிழைச் சரிபார்ப்பை இயக்க அகராதிக் கோப்பு இல்லை.";
+"Install Language Support" = "மொழி ஆதரவை நிறுவு";
+"License Information" = "உரிமத் தகவல்";
+"Download" = "பதிவிறக்கு";
+"Install dictionary file only for Typora" = "Typora-க்கு மட்டும் அகராதிக் கோப்பை நிறுவு";
+"Spell Check (%@ unavailable)" = "எழுத்துப்பிழைச் சரிபார்ப்பு (%@ கிடைக்கவில்லை)";
+"Spell Check (%@ downloading)" = "எழுத்துப்பிழைச் சரிபார்ப்பு (%@ பதிவிறக்குகிறது)";
+"Download dictionary file for %@" = "%@ க்கான அகராதிக் கோப்பைப் பதிவிறக்கு";
+"(Default spell check option)" = "(இயல்புநிலை எழுத்துப்பிழை விருப்பம்)";
+"Failed to load spellcheck module" = "எழுத்துப்பிழைச் சரிபார்ப்புத் தொகுதியை ஏற்ற முடியவில்லை";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> இயக்கப்பட்டது.";
+"You could turn it off from `View` menu." = "`காட்சி` பட்டியிலிருந்து இதை முடக்கலாம்.";
+"The file is too large to render in Typora." = "இந்தக் கோப்பு Typora இல் காட்சிப்படுத்த மிகப் பெரியது.";
+"Open in…" = "இதில் திற…";
+"Quick Look" = "விரைவுப் பார்வை";
+
+"Filter" = "வடிகட்டு";
+"No result found." = "முடிவு எதுவும் கிடைக்கவில்லை.";
+"Continue & Overwrite" = "தொடர்ந்து மேலெழுது";
+"The file is read-only, or you do not have right permissions to modify the file." = "கோப்பு படிக்க-மட்டும் உள்ளது, அல்லது அதை மாற்ற உங்களுக்குத் தகுந்த அனுமதிகள் இல்லை.";
+
+"Learn Data Recovery" = "தரவு மீட்பை அறிக";
+"Auto refresh on Files Panel cannot be enabled." = "கோப்புகள் பலகத்தில் தானியங்கிப் புதுப்பித்தலை இயக்க முடியாது.";
+"Delete Permanently" = "நிரந்தரமாக நீக்கு";
+
+
+"Failed to upload images:" = "படங்களைப் பதிவேற்ற முடியவில்லை:";
+"Uploading in progress" = "பதிவேற்றம் நடைபெறுகிறது";
+"Successfully uploaded {0} images, {1} failed." = "{0} படங்கள் வெற்றிகரமாகப் பதிவேற்றப்பட்டன, {1} தோல்வியடைந்தன.";
+
+"You could undo this operation later via `Edit` → `Undo`." = "`திருத்து` → `செயல்தவிர்` வழி இந்தச் செயலைப் பின்னர் ரத்துசெய்யலாம்.";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>இணைப்புகளைத்</a> திறக்க அல்லது அடிக்குறிப்பு வரையறைக்குச் செல்ல <strong>⌘ + Click</strong> அழுத்தவும்.";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<a href='#'>இணைப்புகளைத்</a> திறக்க அல்லது அடிக்குறிப்பு வரையறைக்குச் செல்ல <strong>CTRL + Click</strong> அழுத்தவும்.";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> பாணி இயக்கப்பட்டது.";
+"You can right click titlebar to popup application menu." = "பயன்பாட்டுப் பட்டியைக் காட்ட தலைப்புப் பட்டியில் வலது கிளிக் செய்யலாம்.";
+
+"Support Document" = "ஆதரவு ஆவணம்";
+
+"You are not supposed to edit or save this file." = "இந்தக் கோப்பைத் திருத்தவோ சேமிக்கவோ கூடாது.";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "இந்த இருப்பிடத்தில் (%@) உள்ள கோப்புகள் Typora ஆல் நிர்வகிக்கப்படுகின்றன, தானாக நீக்கப்படலாம்.<br/>மேலும் திருத்த உள்ளடக்கத்தைப் புதிய கோப்பில் நகலெடுக்கவும்.";
+
+"File does not exist at path %@." = "%@ பாதையில் கோப்பு இல்லை.";
+"File does not exist at path %@, do you want to create one at that path?" = "%@ பாதையில் கோப்பு இல்லை, அந்தப் பாதையில் ஒன்றை உருவாக்கவா?";
+
+"No Results" = "முடிவுகள் இல்லை";
+"Too many matches" = "மிக அதிகப் பொருத்தங்கள்";
+"Regular Expression" = "வழக்கமான கோவை";
+
+"Sort by Creation Date (Ascending)" = "உருவாக்கிய தேதியால் வரிசைப்படுத்து (ஏறுவரிசை)";
+"Sort by Creation Date (Descending)" = "உருவாக்கிய தேதியால் வரிசைப்படுத்து (இறங்குவரிசை)";
+
+"code language" = "குறியீட்டு மொழி";
+
+"Cannot rename from $1 to $2, please use \"File\" → \"Move To…\" from menubar instead." = "$1 இலிருந்து $2 என மறுபெயரிட முடியாது; அதற்குப் பதிலாக மெனுபட்டியிலிருந்து \"கோப்பு\" → \"இங்கே நகர்த்து…\" பயன்படுத்தவும்.";
+"Markdown file" = "மார்க்டவுன் கோப்பு";
+"TextBundle file" = "TextBundle கோப்பு";
+"Images saved to TextBundle" = "படங்கள் TextBundle இல் சேமிக்கப்பட்டன";
